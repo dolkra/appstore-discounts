@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1133083101,
+    name: {
+      mo: '國家天氣Pro-15日即時天氣預報&空氣品質',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1637940076,
     name: {
       mo: 'EarthBeat - Schumann Resonance',
