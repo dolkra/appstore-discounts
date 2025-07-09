@@ -63929,10 +63929,18 @@
       "formattedPrice": "¥18.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 12,
+      "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752070365505,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750774392637,
