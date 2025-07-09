@@ -383,6 +383,22 @@
     "history": [
       [
         {
+          "timestamp": 1752085081938,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Dance Pack Too": "₺39,99",
+            "Alien Pack": "₺39,99",
+            "Tyrannosaurus Rex Skin Pack": "₺39,99",
+            "Halloween Skin Pack": "₺39,99",
+            "Medieval Pack": "₺39,99",
+            "Holiday Skin Pack": "₺39,99",
+            "Ice Monster Skin Pack": "₺39,99",
+            "Japanese Skin Pack": "₺39,99",
+            "Shark Pack": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1752081228716,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -9843,6 +9859,31 @@
             "Empire of Angels Package": "₺39,99",
             "Richman 4 Fun Undersea package": "₺39,99",
             "Richman 4 Fun Treasure package": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
+  "491907493": {
+    "name": "ABRSM Aural Trainer Grades 1-5",
+    "maxPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
+      "Bonus bundle": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
+      "Bonus bundle": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752085081938,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Bonus bundle": "₺99,99"
           }
         }
       ]

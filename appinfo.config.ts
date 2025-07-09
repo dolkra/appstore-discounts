@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 491907493,
+    name: {
+      mo: 'ABRSM Aural Trainer Grades 1-5',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1133083101,
     name: {
       mo: '國家天氣Pro-15日即時天氣預報&空氣品質',
