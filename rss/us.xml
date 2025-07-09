@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-08T03:37:00.448Z</updated>
+    <updated>2025-07-09T11:34:11.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-08T03:37:00.449Z</updated>
+        <updated>2025-07-09T11:34:11.796Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 08 Jul 2025 03:37:00 GMT</id>
+        <id>rankingusWed, 09 Jul 2025 11:34:11 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-08T03:37:00.449Z</updated>
+        <updated>2025-07-09T11:34:11.796Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1204</b>
+        <b>1210</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1003</b>
+        <b>1009</b>
       </td>
       <td>
         <b>33</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1103</b>
+        <b>1109</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>927</b>
+        <b>933</b>
       </td>
       <td>
         <b>28</b>
@@ -581,6 +581,31 @@ feedId:157008699750812672+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>28</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6456751953">MyTan - AI Bot</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Advanced Package</i>：<b>1</b>
+              </li><li>
+                <i>Intermediate Package</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -847,6 +872,63 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MyTan - AI Bot]]></title>
+        <id>MyTan - AI Bot-us-1752059520734</id>
+        <link href="https://apps.apple.com/us/app/mytan-ai-bot/id6456751953?uo=4"/>
+        <updated>2025-07-09T11:12:00.734Z</updated>
+        <summary type="html"><![CDATA[Advanced Package: $19.99 → $18.00<br/>Intermediate Package: $12.99 → $12.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/mytan-ai-bot/id6456751953?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/00/25/530025e7-161b-56e7-6426-69f6d494648c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Advanced Package：</strong><span>$19.99</span> → <b>
+  <strong>$18.00</strong>
+</b><span>[$14.99 ~ $24.99]</span>
+  </li><li>
+    <strong>Intermediate Package：</strong><span>$12.99</span> → <b>
+  <strong>$12.00</strong>
+</b><span>[$7.99 ~ $12.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$0.29</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Monthly Pro：<b>$8.00</b>
+  </li><li>
+    Advanced Package：<b>$18.00</b>
+  </li><li>
+    Intermediate Package：<b>$12.00</b>
+  </li><li>
+    Basic Package：<b>$6.00</b>
+  </li><li>
+    Quarterly Pro：<b>$18.00</b>
+  </li><li>
+    Annual Pro：<b>$46.00</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  讓我們與最先進的 AI 相遇！炭炭精選超級 AI 全家桶！
+
+『隨心所問』
+∙ MyTan 能為你解答疑問、提供建議，助力學習、工作與生活高效提升~
+∙ 免費體驗初級模型，能滿足你的大多數日常任務
+∙ 升級尊享高級模型，各項能力大幅增強，驚艷不容錯過
+
+『創意無限』
+∙ 聯網：實時搜索互聯網、驗證來源並合併實時信息
+∙ 識圖：解析圖像內容，提供深度解讀
+∙ 繪圖：dalle3 點燃想像，創意繪畫
+∙ 語音：官方接口，支持多語種對話
+
+『感謝有你』
+∙ MyTan 是炭炭的第二款產品，一路走來感謝所有用戶對炭炭的支持
+∙ 我們很開心能有機會做出更妙更有趣的產品，希望 MyTan 能成為炭炭送給大家的禮物
+
+關於條款:
+隱私政策: https://mytan.maiseed.com.cn/docs/privacy-policy
+服務協議 (EULA): https://mytan.maiseed.com.cn/docs/terms-of-service
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/d6/94/7ad69464-81c2-f9a9-8401-bf97fb6e4d29/d557849a-fb79-4d82-9e77-5704c6f7a47a_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/91/00/f191000d-a6f3-c278-bbec-57440f26b58e/b87c57c8-3b6d-4a66-b6a3-3ff99a5ffdac_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/2d/70/a52d70b1-a926-d7c1-7a9e-da6388b6ef92/a9b2e8de-faa9-4c5a-a961-6f1cdb1ac6ce_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/85/87/828587b0-a3cf-4b53-5f3d-bec20e947b24/d35c898e-a33f-4122-b08a-9d95aa259c56_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/a5/1d/61a51df0-769b-463c-5693-0bc7fb7c95f8/877f9bf3-7f6e-4f40-9f67-7a18725996d0_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/2d/d6/e32dd6b1-e6bc-33c4-0d9d-6aa76459ad51/7b4c2ddc-ef53-4b99-ac51-c175de2fc081_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/69/b6/8869b69e-385e-27b7-8f82-81fc8e102683/d379469b-cc93-40ee-9f82-f7332623768a_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b2/5d/56/b25d56f8-106b-63e0-8135-17df070d98ee/a9672c41-1849-4f40-bacc-6ef761a49103_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/53/07/995307a7-b497-b206-35c7-8c43d80899f7/e8baa1e9-8552-4c55-ba9f-616ee4e66557_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/98/97/89/98978922-6974-1f31-4074-14e7625da0ac/1f88934d-9442-45dd-88bc-62a1d53091bd_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/df/f7/3fdff71e-e22d-dc33-cdb0-3922228fcccd/732fd4dc-17aa-4447-b671-84bb73fab877_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/4e/a4/fb4ea443-e43e-56bf-5728-5de7beae7575/c71fc198-2ef0-4129-ba45-a48c42b807be_6.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SimplePlanes]]></title>
         <id>SimplePlanes-us-1751944485300</id>
         <link href="https://apps.apple.com/us/app/simpleplanes/id823869162?uo=4"/>
@@ -1107,231 +1189,6 @@ Terms of Service:
 https://www.zigzagame.com/terms/
 Privacy Policy:
 https://www.zigzagame.com/privacy-policy/
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostly Detector]]></title>
-        <id>Ghostly Detector-us-1751785897719</id>
-        <link href="https://apps.apple.com/us/app/ghostly-detector/id6479307181?uo=4"/>
-        <updated>2025-07-06T07:11:37.719Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/ghostly-detector/id6479307181?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/55/83/af55833b-dd1f-3eeb-414a-31d572f01966/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $1.19]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  This app has a simple functionality: detecting the presence of spirits and capturing them. 
-Once captured, it displays the Six Syllable Mantra from Eastern Buddhism as a form of protection and blessing for the user.
-
-• This application might scare you.
-• All sensors are on one page.
-• A real radar to track anomalies.
-• Highly accurate EMF (Electromagnetic Field) detector.
-• Take photos and detect anomalies within - can be freely turned on or off.
-• More detailed instructions are available in the app; simply touch the ? button to access them.
-
-Warning:
-If you are a very sensitive or easily scared individual, please consider not using this app and turning it off. Do not put yourself in danger while using this app. If you believe you are in danger, please close the app, contact someone for help, and leave the area immediately.
-
-Disclaimer:
-Please remember that we cannot guarantee the accuracy of any ghost detection since the app uses different sensors of the device, and thus it greatly depends on the terminal's precision and quality. Since supernatural activities cannot be scientifically proven, we cannot guarantee that the app communicates with real spirits. The results of this app cannot be scientifically verified.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/9e/a4/969ea467-9ec0-aad8-b15b-01c4bda6ecb1/c0995a6f-8fde-4b70-9879-85fc4e47a2cd_01.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/74/75/b7747533-0b18-e5c5-8b4b-d1873584037b/714bc451-5308-4057-ab5b-f7eb38e9e9da_02.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e5/95/c8e59543-0b93-d555-3c91-12c49eaf3fce/e448bd72-da04-4ec1-aa76-9124a1eb6c0d_03.jpeg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/5b/af/7a5baf5b-3fd3-a070-9987-b74699c4b426/1818ec03-b583-4343-979c-c7644e7a42c9_01.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/18/37/7818377f-2a24-2050-6ff5-1d630a22a173/13c93d71-8d18-4c82-be15-b438a326b46d_02.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/b5/b8/d2b5b883-3ea0-7917-a9c3-6306941e6827/55560694-3c44-4e75-9e2f-d60670fb4034_03.jpeg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Agent: It Call]]></title>
-        <id>Grand Agent: It Call-us-1751778796470</id>
-        <link href="https://apps.apple.com/us/app/grand-agent-it-call/id6747758553?uo=4"/>
-        <updated>2025-07-06T05:13:16.470Z</updated>
-        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/grand-agent-it-call/id6747758553?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/be/7f/fabe7f07-f126-ec4e-8564-94b58834abf7/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.29</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>$14.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In this exciting mobile game, you will become a legendary agent and embark on a secret operation codenamed "zero". Your mission is to sneak into the enemy's aircraft base and destroy all enemy aircraft. You will face many threats alone, but fortunately, you have a support aircraft to provide you with airdrop supplies.
-
-The gameplay of the game is simple but challenging. You will control the agent to move left and right on the runway of the aircraft base to avoid the attacks of enemy aircraft and the falling missiles. The top of the screen is the flight area of ​​​​the enemy aircraft, and they will continue to fire missiles at you in an attempt to shoot you down. You need to stay alert at all times to avoid these deadly threats.
-
-By clicking on the screen, you can fire into the sky and destroy enemy aircraft. There is also a "continuous shooting mode" in the game. After turning it on, you can continue to fire into the air and eliminate the enemy more efficiently. But be careful, once the enemy's missiles fall to the ground, they will cause great damage to you. You only have 3 chances to be hit. Once this number is exceeded, the game will end.
-
-During the battle, the support aircraft will regularly drop airdrops for you. These airdrops contain a variety of useful props, such as ammunition boxes for replenishing bullets, medical kits for restoring health, and upgrade props for strengthening missiles. Proper use of these airdrop props will help you gain an advantage in battle.
-
-As the game progresses, as long as you can hold on longer, you will get additional upgrade opportunities. Every upgrade will make you stronger, whether it is improving firepower, increasing health, or unlocking more powerful props, which can make you more confident when facing the enemy. The longer you hold on, the greater the benefits you will get. The ultimate goal is to defend yourself for as long as possible and destroy more enemy aircraft.
-
-This is a mini casual game that can start an exciting agent journey anytime, anywhere. Simple and easy-to-use operations, coupled with challenging gameplay, allow you to experience the thrill of exciting battles in fragmented time.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop&Get Away From Me! Defense]]></title>
-        <id>Stop&amp;Get Away From Me! Defense-us-1751778796470</id>
-        <link href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4"/>
-        <updated>2025-07-06T05:13:16.470Z</updated>
-        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/50/8d/ae508d42-7f41-d35b-795c-540e0a4cd9cb/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.29</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>$14.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In a desolate wilderness, the atmosphere is tense. You are standing in an open area, and suddenly, a group of ferocious wolves surround you from all directions. Their eyes are flashing with greed, and they are approaching you step by step. At this critical moment, you must pick up the gun in your hand, react quickly, repel these monsters, and protect your life. This is a tense and exciting battle, and also a simple and relaxing casual mini game.
-
-### Gameplay
-
-#### Click the screen to fire
-The operation of the game is very simple. You only need to click the screen to control the character to shoot at the monster. The crosshairs on the screen will automatically aim at the approaching wolf. You only need to click the screen at the right time to fire bullets and repel the monster. This simple and intuitive operation method allows players to easily get started and quickly get into the game without complicated tutorials.
-
-#### Dynamic aiming and reaction
-Although the operation of the game is simple, the actions of the monsters are full of uncertainty. The wolves will attack you from different directions and angles. You need to stay alert at all times, react quickly, and click the screen accurately to effectively repel them. As the game progresses, the number of monsters will gradually increase, and their actions will become more cunning and rapid, which requires players to constantly improve their reaction speed and aiming accuracy.
-
-#### Easy restart, continuous challenge
-The game has a very fast pace. Once surrounded or hit by monsters, the game will end. But don't worry, the game provides an easy restart mechanism. You can restart the game with just a click and get back into this exciting battle. This fast restart mechanism allows players to try multiple times in a short period of time, constantly challenge their limits, and easily get the joy of the game.
-
-#### Unique and interesting painting style
-The game uses a unique art style. Although the picture is simple, it is full of fun and tension. The image design of the monsters is both scary and interesting, allowing players to feel a hint of humor in the tense battle. The scene design of the game is also very rich. From the barren wilderness to the abandoned town, each scene has its own unique atmosphere, making players feel as if they are in a real combat environment.
-
-#### Endless challenges and fun
-Every game is a new challenge. The action mode and number of monsters will be different, which requires players to constantly adjust their strategies and reactions. As the game progresses, you can also unlock new weapons and props to improve your combat effectiveness and better deal with more powerful monsters. This endless challenge and constantly improving gameplay allows players to immerse themselves in the game for a long time and enjoy the fun of shooting.
-
-In this exciting battle, you will be surrounded by various monsters, but with your courage and wisdom, you will be able to repel them and win. Come join this battle, experience simple and easy gameplay, and enjoy endless challenges and fun!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yōkai Retreat SP Yin Yang-Sama]]></title>
-        <id>Yōkai Retreat SP Yin Yang-Sama-us-1751778796470</id>
-        <link href="https://apps.apple.com/us/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4"/>
-        <updated>2025-07-06T05:13:16.470Z</updated>
-        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/53/1e/99531ed3-bec8-86a5-1900-8fb6fb5049e2/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.29</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>$2.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  You will become a brave guardian and embark on an adventure to a shrine surrounded by monsters to help the Onmyoji dispel evil and liberate the trapped monster girl.
-
-The game adopts the classic horizontal version of the game. The character you control holds a weapon and stands in the center of the screen, advancing through the various scenes of the shrine as you operate. The road ahead is full of monsters that are malicious to you. They are lurking in the shadows or flying in the air, ready to attack you at any time. You need to keep firing bullets to repel these monsters and protect your way forward.
-
-In the process of moving forward, you can collect gold coins and various props floating in the air by controlling the character to jump upwards. Gold coins are an important resource in the game, which can be used to unlock more powerful weapons and upgrade your equipment. Props can provide you with immediate help, such as increasing the number of bullets, increasing the power of weapons, and obtaining a short invincible state. Reasonable use of these props will make you more calm when facing powerful monsters.
-
-As you continue to defeat monsters, the distance you travel will become longer and longer, and every corner of the shrine will be gradually liberated by you. Each level has a different scene setting, from the ancient shrine courtyard to the deep woods, to the mysterious basement, each scene has unique monsters and challenges waiting for you. You need to flexibly control the character, dodge the monster's attacks, and accurately fire bullets to eliminate the enemy.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-us-1751772104312</id>
-        <link href="https://apps.apple.com/us/app/all-in-one-memo/id1587301632?uo=4"/>
-        <updated>2025-07-06T03:21:44.312Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/all-in-one-memo/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Agent: It Call]]></title>
-        <id>Grand Agent: It Call-us-1751692350639</id>
-        <link href="https://apps.apple.com/us/app/grand-agent-it-call/id6747758553?uo=4"/>
-        <updated>2025-07-05T05:12:30.639Z</updated>
-        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/grand-agent-it-call/id6747758553?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/be/7f/fabe7f07-f126-ec4e-8564-94b58834abf7/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.29</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>$14.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In this exciting mobile game, you will become a legendary agent and embark on a secret operation codenamed "zero". Your mission is to sneak into the enemy's aircraft base and destroy all enemy aircraft. You will face many threats alone, but fortunately, you have a support aircraft to provide you with airdrop supplies.
-
-The gameplay of the game is simple but challenging. You will control the agent to move left and right on the runway of the aircraft base to avoid the attacks of enemy aircraft and the falling missiles. The top of the screen is the flight area of ​​​​the enemy aircraft, and they will continue to fire missiles at you in an attempt to shoot you down. You need to stay alert at all times to avoid these deadly threats.
-
-By clicking on the screen, you can fire into the sky and destroy enemy aircraft. There is also a "continuous shooting mode" in the game. After turning it on, you can continue to fire into the air and eliminate the enemy more efficiently. But be careful, once the enemy's missiles fall to the ground, they will cause great damage to you. You only have 3 chances to be hit. Once this number is exceeded, the game will end.
-
-During the battle, the support aircraft will regularly drop airdrops for you. These airdrops contain a variety of useful props, such as ammunition boxes for replenishing bullets, medical kits for restoring health, and upgrade props for strengthening missiles. Proper use of these airdrop props will help you gain an advantage in battle.
-
-As the game progresses, as long as you can hold on longer, you will get additional upgrade opportunities. Every upgrade will make you stronger, whether it is improving firepower, increasing health, or unlocking more powerful props, which can make you more confident when facing the enemy. The longer you hold on, the greater the benefits you will get. The ultimate goal is to defend yourself for as long as possible and destroy more enemy aircraft.
-
-This is a mini casual game that can start an exciting agent journey anytime, anywhere. Simple and easy-to-use operations, coupled with challenging gameplay, allow you to experience the thrill of exciting battles in fragmented time.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop&Get Away From Me! Defense]]></title>
-        <id>Stop&amp;Get Away From Me! Defense-us-1751692350639</id>
-        <link href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4"/>
-        <updated>2025-07-05T05:12:30.639Z</updated>
-        <summary type="html"><![CDATA[Price: $0.29 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/stop-get-away-from-me-defense/id6746355331?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/50/8d/ae508d42-7f41-d35b-795c-540e0a4cd9cb/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.29</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>$14.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In a desolate wilderness, the atmosphere is tense. You are standing in an open area, and suddenly, a group of ferocious wolves surround you from all directions. Their eyes are flashing with greed, and they are approaching you step by step. At this critical moment, you must pick up the gun in your hand, react quickly, repel these monsters, and protect your life. This is a tense and exciting battle, and also a simple and relaxing casual mini game.
-
-### Gameplay
-
-#### Click the screen to fire
-The operation of the game is very simple. You only need to click the screen to control the character to shoot at the monster. The crosshairs on the screen will automatically aim at the approaching wolf. You only need to click the screen at the right time to fire bullets and repel the monster. This simple and intuitive operation method allows players to easily get started and quickly get into the game without complicated tutorials.
-
-#### Dynamic aiming and reaction
-Although the operation of the game is simple, the actions of the monsters are full of uncertainty. The wolves will attack you from different directions and angles. You need to stay alert at all times, react quickly, and click the screen accurately to effectively repel them. As the game progresses, the number of monsters will gradually increase, and their actions will become more cunning and rapid, which requires players to constantly improve their reaction speed and aiming accuracy.
-
-#### Easy restart, continuous challenge
-The game has a very fast pace. Once surrounded or hit by monsters, the game will end. But don't worry, the game provides an easy restart mechanism. You can restart the game with just a click and get back into this exciting battle. This fast restart mechanism allows players to try multiple times in a short period of time, constantly challenge their limits, and easily get the joy of the game.
-
-#### Unique and interesting painting style
-The game uses a unique art style. Although the picture is simple, it is full of fun and tension. The image design of the monsters is both scary and interesting, allowing players to feel a hint of humor in the tense battle. The scene design of the game is also very rich. From the barren wilderness to the abandoned town, each scene has its own unique atmosphere, making players feel as if they are in a real combat environment.
-
-#### Endless challenges and fun
-Every game is a new challenge. The action mode and number of monsters will be different, which requires players to constantly adjust their strategies and reactions. As the game progresses, you can also unlock new weapons and props to improve your combat effectiveness and better deal with more powerful monsters. This endless challenge and constantly improving gameplay allows players to immerse themselves in the game for a long time and enjoy the fun of shooting.
-
-In this exciting battle, you will be surrounded by various monsters, but with your courage and wisdom, you will be able to repel them and win. Come join this battle, experience simple and easy gameplay, and enjoy endless challenges and fun!
 </p>]]></content>
     </entry>
 </feed>

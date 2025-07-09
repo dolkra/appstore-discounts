@@ -930,6 +930,23 @@
     "history": [
       [
         {
+          "timestamp": 1752059520734,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$190.00",
+            "Tuning Tools": "$320.00",
+            "Full Discounted Upgrade Pack": "$1,990.00",
+            "Harmonic Tuning": "$690.00",
+            "Orchestral Sweeteners": "$190.00",
+            "Misc Stringed Sweeteners": "$120.00",
+            "Extended Frequency Modes": "$150.00",
+            "Keyboard Sweeteners": "$690.00",
+            "Buzz Feiten Pack": "$190.00",
+            "Steel Guitar Sweeteners": "$490.00"
+          }
+        },
+        {
           "timestamp": 1752056088323,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -1473,6 +1490,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752059520734,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "$290.00",
+            "SPL Graph Module": "$320.00",
+            "ETC Module": "$190.00",
+            "SoundScope VR": "$790.00",
+            "Polarity Test Module": "$120.00",
+            "IR Module": "$1,490.00",
+            "Transfer Function": "$1,490.00",
+            "LARSA": "$990.00",
+            "Phase Meter": "$290.00",
+            "SPL Traffic Light": "$320.00"
+          }
+        },
         {
           "timestamp": 1752056088323,
           "price": 690,
@@ -74530,6 +74564,34 @@
       ]
     ]
   },
+  "1637940076": {
+    "name": "EarthBeat - Schumann Resonance",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Yearly Subscription": "$120.00",
+      "Monthly Subscription": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Yearly Subscription": "$120.00",
+      "Monthly Subscription": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Yearly Subscription": "$120.00",
+            "Monthly Subscription": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "1639509098": {
     "name": "帕夏星球：重生",
     "maxPriceInfo": {
@@ -84461,12 +84523,12 @@
     "maxPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
-      "月卡": "$190.00",
+      "月卡": "$290.00",
       "年卡": "$1,490.00",
       "高級加油包": "$790.00",
       "中級加油包": "$390.00",
       "初級加油包": "$190.00",
-      "季卡": "$490.00"
+      "季卡": "$590.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -84479,6 +84541,21 @@
       "季卡": "$490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "月卡": "$290.00",
+            "年卡": "$1,490.00",
+            "高級加油包": "$590.00",
+            "中級加油包": "$390.00",
+            "初級加油包": "$190.00",
+            "季卡": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750054807863,

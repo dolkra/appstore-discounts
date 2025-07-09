@@ -18644,6 +18644,23 @@
     "history": [
       [
         {
+          "timestamp": 1752059520734,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "$5 Credit": "₺249,99",
+            "1 Mo. CAN Texting": "₺119,99",
+            "1 Mo. Global Texting": "₺179,99",
+            "3 Mo. CAN Texting": "₺249,99",
+            "$20 Credit": "₺899,99",
+            "6 Mo. CAN Texting": "₺449,99",
+            "$50 Credit": "₺2.299,99",
+            "1 Mo. Fongo Plus": "₺449,99",
+            "3 Mo. Global Texting": "₺399,99",
+            "$10 Credit": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1752056088323,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -28600,6 +28617,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752059520734,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "20,000 points": "₺39,99",
+            "63,000 points": "₺129,99",
+            "176,000 points": "₺349,99",
+            "225,000 points": "₺449,99",
+            "25,000 points": "₺39,99",
+            "100,000 points": "₺129,99",
+            "345,000 points": "₺699,99",
+            "500,000 points": "₺449,99",
+            "50 kilometers": "₺99,99",
+            "300,000 points": "₺349,99"
+          }
+        },
         {
           "timestamp": 1752056088323,
           "price": 19.99,
@@ -62656,6 +62690,34 @@
       ]
     ]
   },
+  "1637940076": {
+    "name": "EarthBeat - Schumann Resonance",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Yearly Subscription": "₺179,99",
+      "Monthly Subscription": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "Yearly Subscription": "₺179,99",
+      "Monthly Subscription": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Yearly Subscription": "₺179,99",
+            "Monthly Subscription": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
   "1639509098": {
     "name": "Pasha Planet: Reborn",
     "maxPriceInfo": {
@@ -67456,9 +67518,9 @@
       "formattedPrice": "₺9,99",
       "Advanced Package": "₺999,99",
       "Intermediate Package": "₺599,99",
-      "Monthly Pro": "₺249,99",
+      "Monthly Pro": "₺349,99",
       "Basic Package": "₺249,99",
-      "Quarterly Pro": "₺699,99",
+      "Quarterly Pro": "₺799,99",
       "Annual Pro": "₺1.999,99"
     },
     "minPriceInfo": {
@@ -67472,6 +67534,21 @@
       "Annual Pro": "₺1.999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Advanced Package": "₺799,99",
+            "Intermediate Package": "₺499,99",
+            "Monthly Pro": "₺349,99",
+            "Basic Package": "₺249,99",
+            "Quarterly Pro": "₺799,99",
+            "Annual Pro": "₺1.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750054807863,

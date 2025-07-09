@@ -1425,6 +1425,23 @@
     "history": [
       [
         {
+          "timestamp": 1752059520734,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Extended Frequency Modes": "$4.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Buzz Feiten Pack": "$5.99"
+          }
+        },
+        {
           "timestamp": 1752056088323,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -4495,6 +4512,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752059520734,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99",
+            "128香蕉贝": "$19.99",
+            "基础会员-连续包月": "$1.99"
+          }
+        },
         {
           "timestamp": 1752056088323,
           "price": 0.99,
@@ -78703,6 +78737,34 @@
       ]
     ]
   },
+  "1637940076": {
+    "name": "EarthBeat - Schumann Resonance",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Yearly Subscription": "$3.99",
+      "Monthly Subscription": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Yearly Subscription": "$3.99",
+      "Monthly Subscription": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Yearly Subscription": "$3.99",
+            "Monthly Subscription": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "1639509098": {
     "name": "Pasha Planet: Reborn",
     "maxPriceInfo": {
@@ -85497,6 +85559,19 @@
     "history": [
       [
         {
+          "timestamp": 1752059520734,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "3.99美元商品": "$3.99",
+            "39.99美元商品": "$39.99",
+            "12.99美元商品": "$12.99",
+            "9.99美元商品": "$9.99",
+            "89.99美元商品": "$89.99",
+            "99.99美元商品": "$99.99"
+          }
+        },
+        {
           "timestamp": 1752056088323,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -86659,11 +86734,11 @@
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29",
-      "Monthly Pro": "$6.00",
+      "Monthly Pro": "$8.00",
       "Advanced Package": "$24.99",
       "Intermediate Package": "$12.99",
-      "Basic Package": "$5.99",
-      "Quarterly Pro": "$15.00",
+      "Basic Package": "$6.00",
+      "Quarterly Pro": "$18.00",
       "Annual Pro": "$46.00"
     },
     "minPriceInfo": {
@@ -86677,6 +86752,21 @@
       "Annual Pro": "$46.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Monthly Pro": "$8.00",
+            "Advanced Package": "$18.00",
+            "Intermediate Package": "$12.00",
+            "Basic Package": "$6.00",
+            "Quarterly Pro": "$18.00",
+            "Annual Pro": "$46.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750054807863,

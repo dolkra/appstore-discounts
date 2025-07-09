@@ -57712,6 +57712,34 @@
       ]
     ]
   },
+  "1637940076": {
+    "name": "EarthBeat - Schumann Resonance",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Monthly Subscription": "USD 0.99",
+      "Yearly Subscription": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Monthly Subscription": "USD 0.99",
+      "Yearly Subscription": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Monthly Subscription": "USD 0.99",
+            "Yearly Subscription": "USD 3.99"
+          }
+        }
+      ]
+    ]
+  },
   "1639509098": {
     "name": "帕夏星球：重生",
     "maxPriceInfo": {
@@ -62248,9 +62276,9 @@
       "formattedPrice": "USD 0.29",
       "高級加油包": "USD 24.99",
       "中級加油包": "USD 12.99",
-      "月卡": "USD 6.00",
-      "初級加油包": "USD 5.99",
-      "季卡": "USD 15.00",
+      "月卡": "USD 8.00",
+      "初級加油包": "USD 6.00",
+      "季卡": "USD 18.00",
       "年卡": "USD 46.00"
     },
     "minPriceInfo": {
@@ -62264,6 +62292,21 @@
       "年卡": "USD 46.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752059520734,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "高級加油包": "USD 18.00",
+            "中級加油包": "USD 12.00",
+            "月卡": "USD 8.00",
+            "初級加油包": "USD 6.00",
+            "季卡": "USD 18.00",
+            "年卡": "USD 46.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750058092377,
