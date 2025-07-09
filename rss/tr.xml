@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-07-08T03:37:00.454Z</updated>
+    <updated>2025-07-09T09:37:14.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-08T03:37:00.454Z</updated>
+        <updated>2025-07-09T09:37:14.377Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrTue, 08 Jul 2025 03:37:00 GMT</id>
+        <id>rankingtrWed, 09 Jul 2025 09:37:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-08T03:37:00.454Z</updated>
+        <updated>2025-07-09T09:37:14.378Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1204</b>
+        <b>1209</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1003</b>
+        <b>1008</b>
       </td>
       <td>
         <b>33</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1100</b>
+        <b>1105</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>928</b>
+        <b>933</b>
       </td>
       <td>
         <b>29</b>
@@ -409,14 +409,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1195035357">Dungeon Defense : The Gate</a>
+        <a href="https://apps.apple.com/tr/app/id1055511498">Day One</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Premium</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -426,7 +432,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1264608487">Driving Zone: Germany Pro</a>
+        <a href="https://apps.apple.com/tr/app/id1195035357">Dungeon Defense : The Gate</a>
       </td>
       <td>
         <ul>
@@ -443,7 +449,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1271620263">ICEY</a>
+        <a href="https://apps.apple.com/tr/app/id1264608487">Driving Zone: Germany Pro</a>
       </td>
       <td>
         <ul>
@@ -458,6 +464,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>20</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1271620263">ICEY</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
@@ -480,7 +503,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1380582804">Mobile Empire</a>
@@ -497,7 +520,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1435461053">This Is the Police</a>
@@ -514,7 +537,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439262206">Root Board Game</a>
@@ -543,7 +566,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -560,7 +583,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1567658979">SkySafari 7 Pro</a>
@@ -577,7 +600,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1587301632">All In One Memo</a>
@@ -594,7 +617,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1614795077">Otaku's Adventure</a>
@@ -611,7 +634,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1633243177">Ableton Note</a>
@@ -628,7 +651,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1644917705">Cyber Manhunt</a>
@@ -645,7 +668,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -662,7 +685,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6449251957">Motorsport Manager 4</a>
@@ -685,7 +708,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6479307181">Ghostly Detector</a>
@@ -973,6 +996,81 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Day One]]></title>
+        <id>Day One-tr-1752052542006</id>
+        <link href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&amp;uo=4"/>
+        <updated>2025-07-09T09:15:42.006Z</updated>
+        <summary type="html"><![CDATA[Premium: ₺389,99 → ₺122,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/day-one/id1055511498?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d1/dd/1a/d1dd1a90-59ec-4f22-a01b-932059d860b8/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Premium：</strong><span>₺389,99</span> → <b>
+  <strong>₺122,99</strong>
+</b><span>[₺122,99 ~ ₺389,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Premium：<b>₺122,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Apple’s App of the Year with over 15 million downloads and 200,000 5-star ratings globally, Day One has reinvented journaling letting you record your life as you live it. Securely save audio, video, photos, notes, and more in the world’s most trusted digital journal. 
+
+“Day One creates something so rare it feels almost sacred: A completely private digital space.” – New York Times
+
+“Day One makes keeping a journal delightfully easy.” – Wired
+
+“This superb journaling app remains pleasant to behold, easy to use, and a tough act for any rival to follow.” – Macworld
+
+WHY DAY ONE?
+
+Day One is the original journal app and a decade of updates and feature additions make it the most private, trusted, and easiest-to-use journaling platform in the world. 
+
+SIMPLE TO USE, EASY TO LOVE
+
+• Beautiful, award-winning design
+• Unlimited text entries 
+• Unlimited photos and videos*
+• Powerful rich text formatting with markdown
+• Different journals for every aspect of your life*
+
+PRIVATE AND SECURE 
+
+• Automatic backups keep your journal entries safe
+• End-to-end encryption, which is a fancy way of saying your entries are 100% private
+• Journal entries stay secure with passcode or TouchID
+• Export options (pdf, plain text, JSON, etc.) ensure your entries always stay yours
+
+FORM A HABIT & STAY CONSISTENT 
+
+• Programmable reminder notifications
+• Unique, daily journal prompts help eliminate writer’s cramp 
+• Customizable templates save time and add organization to entries
+• Today view provides a summary of where you’ve been and what you’ve done
+
+JOURNAL FROM WHEREVER, WHENEVER
+
+• Cross-platform apps available on iPhone, Apple Watch, iPad, and Mac 
+• The ability to email entries straight to your journal
+
+BUILT FOR REMINISCING
+
+• On This Day feature allows you to revisit past memories
+• Tags, favorites, and search filters make it easy to find what you’re looking for
+• Map view quickly shows all the places you’ve journaled from
+
+*Day One is FREE to use forever with unlimited entries. Additional features, including unlimited photos, videos, and sync are available with a Day One Premium membership. Start a free trial today. 
+
+Privacy Policy: https://dayoneapp.com/privacy-policy/
+
+Terms of Use: https://dayoneapp.com/terms-of-use/
+
+For technical assistance or other inquiries: https://dayoneapp.com/contact/
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Everybody's RPG: Reboot]]></title>
@@ -1363,450 +1461,5 @@ Follow us on Instagram: https://www.instagram.com/forest_app/
 
 We also provide browser extensions. Find out more on www.forestapp.cc
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/9f/cf/849fcf35-6429-881f-c5cd-8792b4044968/91f65b25-230a-48ec-a9ed-daef18cfb1f1_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/dc/1e/56dc1e48-da55-0642-cfa3-39f21e8fb75e/16c91a3c-240f-4ab6-8158-9eb6647a7b77_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/09/4b/1d094b63-98c8-e1a8-4e9b-5fd0d272a02d/872ba353-22ab-4e7c-b4af-a2d26dd62620_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/17/21/891721e6-4b04-5112-7cde-df7fa704c308/31301af3-8a11-46e4-8d00-baf3ab19a38d_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/78/97/0e78979c-54ce-05ef-061a-f0a2dcfe8c29/89958e58-d3e8-4ab6-8c46-fdf1c3cfb29f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/93/70/629370cc-f2e0-0ed4-c6ed-4027f8aaa033/1cbb5fae-d89a-473e-b926-e62013de193a_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/a3/48/25a34800-ff55-b993-753a-9b1e04dafa16/3885e062-494f-4040-a4a7-7065eb6652ae_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/93/93/e093938d-1fce-a320-c6f9-4aadca87ddf8/b24c164c-f68a-467f-b139-3b609debbffe_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/13/f1/2f/13f12fd9-8930-8170-6df8-0886c9ec7a73/af8398e6-2f70-48e6-9b0a-5505d63ced64_9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/c6/a9/bbc6a9ed-6f47-49f9-b89c-7b16a298fc82/7d9fce37-c32c-4de6-977d-c19c8ddf33a2_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/b6/29/a0b62981-8e03-46e7-26b3-671e2853172b/9602ea02-00be-4024-b9ef-6d8e8b1467da_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/52/0d/a7520d40-9020-a5ca-cc01-e6cd3d7391a8/29a0733e-9fc1-4e60-9cbc-b9d8d7156fcf_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/9a/74/589a743a-8cd8-949b-4adc-59d65adb4ff3/316cebd2-8c26-4836-9c6e-d5b2c3cfbdf6_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/4b/5b/824b5b06-4b14-88ff-c9fd-72e188c90b62/020f1d0c-6bee-4fc2-b8c8-c5b93b8eadaa_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/96/b8/dc96b868-35f4-8119-a182-1a66db376e8d/088b85ca-fe0a-40b3-8b83-1e30b55afbe9_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/6e/79/8b6e79a3-4079-1250-d713-7d2c61fffb7f/c0fa2535-6449-434b-821b-12fe5d3bbd0f_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/cb/9f/19cb9fef-bc8a-b4e7-b24a-b87657d59434/4b8e370b-7e4b-4b1f-a1cc-d7b91a73bce5_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/14/a3/5314a323-306d-6f87-f0a9-899ff98b8b19/0b6a438e-9d37-4b1a-980d-5de3f7fc2386_8_2.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghostly Detector]]></title>
-        <id>Ghostly Detector-tr-1751785897719</id>
-        <link href="https://apps.apple.com/tr/app/ghostly-detector/id6479307181?uo=4"/>
-        <updated>2025-07-06T07:11:37.719Z</updated>
-        <summary type="html"><![CDATA[Price: ₺39,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/ghostly-detector/id6479307181?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/55/83/af55833b-dd1f-3eeb-414a-31d572f01966/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺39,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺39,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  This app has a simple functionality: detecting the presence of spirits and capturing them. 
-Once captured, it displays the Six Syllable Mantra from Eastern Buddhism as a form of protection and blessing for the user.
-
-• This application might scare you.
-• All sensors are on one page.
-• A real radar to track anomalies.
-• Highly accurate EMF (Electromagnetic Field) detector.
-• Take photos and detect anomalies within - can be freely turned on or off.
-• More detailed instructions are available in the app; simply touch the ? button to access them.
-
-Warning:
-If you are a very sensitive or easily scared individual, please consider not using this app and turning it off. Do not put yourself in danger while using this app. If you believe you are in danger, please close the app, contact someone for help, and leave the area immediately.
-
-Disclaimer:
-Please remember that we cannot guarantee the accuracy of any ghost detection since the app uses different sensors of the device, and thus it greatly depends on the terminal's precision and quality. Since supernatural activities cannot be scientifically proven, we cannot guarantee that the app communicates with real spirits. The results of this app cannot be scientifically verified.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/9e/a4/969ea467-9ec0-aad8-b15b-01c4bda6ecb1/c0995a6f-8fde-4b70-9879-85fc4e47a2cd_01.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/74/75/b7747533-0b18-e5c5-8b4b-d1873584037b/714bc451-5308-4057-ab5b-f7eb38e9e9da_02.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e5/95/c8e59543-0b93-d555-3c91-12c49eaf3fce/e448bd72-da04-4ec1-aa76-9124a1eb6c0d_03.jpeg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/5b/af/7a5baf5b-3fd3-a070-9987-b74699c4b426/1818ec03-b583-4343-979c-c7644e7a42c9_01.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/18/37/7818377f-2a24-2050-6ff5-1d630a22a173/13c93d71-8d18-4c82-be15-b438a326b46d_02.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/b5/b8/d2b5b883-3ea0-7917-a9c3-6306941e6827/55560694-3c44-4e75-9e2f-d60670fb4034_03.jpeg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bloons TD 5]]></title>
-        <id>Bloons TD 5-tr-1751776024555</id>
-        <link href="https://apps.apple.com/tr/app/bloons-td-5/id563718995?uo=4"/>
-        <updated>2025-07-06T04:27:04.555Z</updated>
-        <summary type="html"><![CDATA[Pile O' Monkey Money: ₺229,99 → ₺129,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/bloons-td-5/id563718995?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/db/d1/07dbd1e9-aeb5-a3a9-4d0a-a8623e59afa1/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Pile O' Monkey Money：</strong><span>₺229,99</span> → <b>
-  <strong>₺129,99</strong>
-</b><span>[₺129,99 ~ ₺229,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺129,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Pile O' Monkey Money：<b>₺129,99</b>
-  </li><li>
-    Tower Unlock All Upgrades：<b>₺39,99</b>
-  </li><li>
-    Bundle O' Monkey Money：<b>₺129,99</b>
-  </li><li>
-    500 Monkey Money：<b>₺39,99</b>
-  </li><li>
-    Vault O' Tokens：<b>₺449,99</b>
-  </li><li>
-    Double Cash Mode：<b>₺449,99</b>
-  </li><li>
-    Vault O' Monkey Money：<b>₺899,99</b>
-  </li><li>
-    Rank Up：<b>₺39,99</b>
-  </li><li>
-    Bigger Beacons：<b>₺39,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Five-star tower defense with unrivaled depth and replayability. Now with rewarded leaderboards for even more fun and challenge!
-
-The Bloons are back and this time they mean business! Build awesome towers, choose your favorite upgrades, hire cool new Special Agents, and pop every last invading Bloon!
-
-Featuring 2 brand new Towers, cool Special Agents, glorious retina graphics, original Tracks and Special Missions, a whole new tier of Specialty Building upgrades, and the powerful Monkey Lab to further upgrade your towers, Bloons TD 5 delivers hours and hours of fun, challenging play to fans and new players alike.
-
-Hours and Hours of Awesome Gameplay:
-* 90+ Tracks
-* 21 powerful towers with Activated Abilities and 2 upgrade paths
-* 10 Special Agents
-* Online Co-op play
-* Multi-track Odyssey Challenges
-* Boss Bloon Special Events
-* 10 Special Missions
-* 250+ Random Missions
-* Daily Challenges
-* New Bloon enemies - tougher Camos, Regrow Bloons, and the fearsome ZOMG
-* 50+ Game Center Achievements and Challenges
-* iCloud Support
-* 3 different game modes
-* Freeplay mode after mastering a track
-* 4 difficulty settings and family-friendly theme so anyone can play
-
-And that's just the beginning - regular planned updates will keep Bloons TD 5 fresh, fun, and challenging for many months to come. Now it's time to pop some Bloons!
-
-Remember to save to iCloud after each victory or purchase to save your progress. 
-
-iPad version also available - check out Bloons TD 5 HD for full screen UI awesomeness!
-
-https://ninjakiwi.com/terms
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/86/a7/ba/86a7baed-8ce4-1f65-f2e2-648101568aa8/d91dfeab-4c2a-4dd0-a215-8ee8f2d3df19_IMG_0667.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/39/a1/7b39a142-08d0-0a4c-29dd-584b288153f9/35d8d6fb-d300-4e39-89e8-5d0c1d897a0c_IMG_0648.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a0/66/d5/a066d523-f0c9-9173-c61b-02c89b1361f0/78e5c7b5-7900-4957-9b09-910059d283f8_IMG_0659.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4b/de/eb/4bdeebb0-c1c4-ebca-e251-3bbdfc40f485/c835dc53-96f2-43ce-9aaf-33e053cbf806_IMG_0642.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/22/8f/d1/228fd1a8-5433-e127-d6f5-2a5af5c771d8/e14d5bc2-ff04-4f1f-b0b6-9002541f25cc_IMG_0673.PNG/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand Agent: It Call]]></title>
-        <id>Grand Agent: It Call-tr-1751772104312</id>
-        <link href="https://apps.apple.com/tr/app/grand-agent-it-call/id6747758553?uo=4"/>
-        <updated>2025-07-06T03:21:44.312Z</updated>
-        <summary type="html"><![CDATA[Price: ₺9,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/grand-agent-it-call/id6747758553?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/be/7f/fabe7f07-f126-ec4e-8564-94b58834abf7/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺9,99</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>₺699,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In this exciting mobile game, you will become a legendary agent and embark on a secret operation codenamed "zero". Your mission is to sneak into the enemy's aircraft base and destroy all enemy aircraft. You will face many threats alone, but fortunately, you have a support aircraft to provide you with airdrop supplies.
-
-The gameplay of the game is simple but challenging. You will control the agent to move left and right on the runway of the aircraft base to avoid the attacks of enemy aircraft and the falling missiles. The top of the screen is the flight area of ​​​​the enemy aircraft, and they will continue to fire missiles at you in an attempt to shoot you down. You need to stay alert at all times to avoid these deadly threats.
-
-By clicking on the screen, you can fire into the sky and destroy enemy aircraft. There is also a "continuous shooting mode" in the game. After turning it on, you can continue to fire into the air and eliminate the enemy more efficiently. But be careful, once the enemy's missiles fall to the ground, they will cause great damage to you. You only have 3 chances to be hit. Once this number is exceeded, the game will end.
-
-During the battle, the support aircraft will regularly drop airdrops for you. These airdrops contain a variety of useful props, such as ammunition boxes for replenishing bullets, medical kits for restoring health, and upgrade props for strengthening missiles. Proper use of these airdrop props will help you gain an advantage in battle.
-
-As the game progresses, as long as you can hold on longer, you will get additional upgrade opportunities. Every upgrade will make you stronger, whether it is improving firepower, increasing health, or unlocking more powerful props, which can make you more confident when facing the enemy. The longer you hold on, the greater the benefits you will get. The ultimate goal is to defend yourself for as long as possible and destroy more enemy aircraft.
-
-This is a mini casual game that can start an exciting agent journey anytime, anywhere. Simple and easy-to-use operations, coupled with challenging gameplay, allow you to experience the thrill of exciting battles in fragmented time.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stop&Get Away From Me! Defense]]></title>
-        <id>Stop&amp;Get Away From Me! Defense-tr-1751772104312</id>
-        <link href="https://apps.apple.com/tr/app/stop-get-away-from-me-defense/id6746355331?uo=4"/>
-        <updated>2025-07-06T03:21:44.312Z</updated>
-        <summary type="html"><![CDATA[Price: ₺9,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/stop-get-away-from-me-defense/id6746355331?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/50/8d/ae508d42-7f41-d35b-795c-540e0a4cd9cb/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺9,99</span> → <b>
-  <strong>Free</strong>
-</b><span></span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>₺699,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In a desolate wilderness, the atmosphere is tense. You are standing in an open area, and suddenly, a group of ferocious wolves surround you from all directions. Their eyes are flashing with greed, and they are approaching you step by step. At this critical moment, you must pick up the gun in your hand, react quickly, repel these monsters, and protect your life. This is a tense and exciting battle, and also a simple and relaxing casual mini game.
-
-### Gameplay
-
-#### Click the screen to fire
-The operation of the game is very simple. You only need to click the screen to control the character to shoot at the monster. The crosshairs on the screen will automatically aim at the approaching wolf. You only need to click the screen at the right time to fire bullets and repel the monster. This simple and intuitive operation method allows players to easily get started and quickly get into the game without complicated tutorials.
-
-#### Dynamic aiming and reaction
-Although the operation of the game is simple, the actions of the monsters are full of uncertainty. The wolves will attack you from different directions and angles. You need to stay alert at all times, react quickly, and click the screen accurately to effectively repel them. As the game progresses, the number of monsters will gradually increase, and their actions will become more cunning and rapid, which requires players to constantly improve their reaction speed and aiming accuracy.
-
-#### Easy restart, continuous challenge
-The game has a very fast pace. Once surrounded or hit by monsters, the game will end. But don't worry, the game provides an easy restart mechanism. You can restart the game with just a click and get back into this exciting battle. This fast restart mechanism allows players to try multiple times in a short period of time, constantly challenge their limits, and easily get the joy of the game.
-
-#### Unique and interesting painting style
-The game uses a unique art style. Although the picture is simple, it is full of fun and tension. The image design of the monsters is both scary and interesting, allowing players to feel a hint of humor in the tense battle. The scene design of the game is also very rich. From the barren wilderness to the abandoned town, each scene has its own unique atmosphere, making players feel as if they are in a real combat environment.
-
-#### Endless challenges and fun
-Every game is a new challenge. The action mode and number of monsters will be different, which requires players to constantly adjust their strategies and reactions. As the game progresses, you can also unlock new weapons and props to improve your combat effectiveness and better deal with more powerful monsters. This endless challenge and constantly improving gameplay allows players to immerse themselves in the game for a long time and enjoy the fun of shooting.
-
-In this exciting battle, you will be surrounded by various monsters, but with your courage and wisdom, you will be able to repel them and win. Come join this battle, experience simple and easy gameplay, and enjoy endless challenges and fun!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yōkai Retreat SP Yin Yang-Sama]]></title>
-        <id>Yōkai Retreat SP Yin Yang-Sama-tr-1751772104312</id>
-        <link href="https://apps.apple.com/tr/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4"/>
-        <updated>2025-07-06T03:21:44.312Z</updated>
-        <summary type="html"><![CDATA[Price: ₺9,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/y%C5%8Dkai-retreat-sp-yin-yang-sama/id6746633753?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/53/1e/99531ed3-bec8-86a5-1900-8fb6fb5049e2/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺9,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺449,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Diamonds：<b>₺129,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  You will become a brave guardian and embark on an adventure to a shrine surrounded by monsters to help the Onmyoji dispel evil and liberate the trapped monster girl.
-
-The game adopts the classic horizontal version of the game. The character you control holds a weapon and stands in the center of the screen, advancing through the various scenes of the shrine as you operate. The road ahead is full of monsters that are malicious to you. They are lurking in the shadows or flying in the air, ready to attack you at any time. You need to keep firing bullets to repel these monsters and protect your way forward.
-
-In the process of moving forward, you can collect gold coins and various props floating in the air by controlling the character to jump upwards. Gold coins are an important resource in the game, which can be used to unlock more powerful weapons and upgrade your equipment. Props can provide you with immediate help, such as increasing the number of bullets, increasing the power of weapons, and obtaining a short invincible state. Reasonable use of these props will make you more calm when facing powerful monsters.
-
-As you continue to defeat monsters, the distance you travel will become longer and longer, and every corner of the shrine will be gradually liberated by you. Each level has a different scene setting, from the ancient shrine courtyard to the deep woods, to the mysterious basement, each scene has unique monsters and challenges waiting for you. You need to flexibly control the character, dodge the monster's attacks, and accurately fire bullets to eliminate the enemy.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All In One Memo]]></title>
-        <id>All In One Memo-tr-1751757119663</id>
-        <link href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4"/>
-        <updated>2025-07-05T23:11:59.663Z</updated>
-        <summary type="html"><![CDATA[Price: ₺179,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/all-in-one-memo/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺179,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺179,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forest: Focus for Productivity]]></title>
-        <id>Forest: Focus for Productivity-tr-1751753460826</id>
-        <link href="https://apps.apple.com/tr/app/forest-focus-for-productivity/id866450515?uo=4"/>
-        <updated>2025-07-05T22:11:00.826Z</updated>
-        <summary type="html"><![CDATA[Annual: ₺1.289,99 → ₺769,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/forest-focus-for-productivity/id866450515?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/06/09/23060982-27a1-9cc6-40a6-14c43409d2d0/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Annual：</strong><span>₺1.289,99</span> → <b>
-  <strong>₺769,99</strong>
-</b><span>[₺769,99 ~ ₺1.289,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Annual (Early Bird)：<b>₺769,99</b>
-  </li><li>
-    Monthly (Early Bird)：<b>₺129,00</b>
-  </li><li>
-    Bottle of Sunshine Elixir：<b>₺39,99</b>
-  </li><li>
-    Annual：<b>₺769,99</b>
-  </li><li>
-    Box of Sunshine Elixir：<b>₺99,99</b>
-  </li><li>
-    Shovelful of Crystal：<b>₺39,99</b>
-  </li><li>
-    Small pot of Crystal：<b>₺229,99</b>
-  </li><li>
-    Large bag of Crystal：<b>₺499,99</b>
-  </li><li>
-    Advanced Bonus Pack：<b>₺299,99</b>
-  </li><li>
-    Cartful of Crystal：<b>₺999,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  ## Top productivity app in 136 countries. More than 2 million satisfied paying users. Featured in Apple's "Amazing Apps" TV commercial.
-## Staying focused with the cutest gamified timer. 
-## Over 1,500,000 real trees were planted on Earth by our users.  
-
-"Forest works well, and if your goal is to be more in the moment, ignore your phone and actually talk to your friends when you are with them, this is the app for you."— The New York Times 
-
-"In order to establish new, better habits, it's helpful to engage with tools that make it easier to reinforce them. For anyone looking to curtail their phone usage, the Forest app might be for you."— Business Insider
-
-If you want to temporarily put down your phone and focus on what’s more important in real life, you can plant a seed in Forest. As time goes by, this seed will gradually grow into a tree. However, if you cannot resist the temptation of using your phone and leave the app, your tree will wither. 
-
-The sense of achievement and responsibility will encourage you to stay away from your phone, and will help you make better use of your time. Stop getting distracted by your phone, make you self-motivated and get more things done.
-
-Stay focused, Be present! 
-
-STAY FOCUSED
-• A interesting way to help you beat phone addiction and overcome distraction
-• Turn your focused moments into a lush forest.
-• Create personalized Allow Lists for different situations. Non-allowed apps will be blocked. (iOS 16 or above)
-
-GET MOTIVATED
-• Earn rewards and unlock more than 90 new tree species and white noises.
-• Share your forest and compete with friends and users around the world.
-• Plant trees along with friends & family.
-• Unlock achievements and earn extra rewards.
-• Plant real trees on Earth and protect the environment with tree-planting organization Trees for the Future.
-
-STATISTICS
-• Manage your own tags and view detailed statistics of your time distribution.
-• Browse your weekly, monthly and even your yearly big forest.
-• Track your focused time in the Apple Health App.
-• Track your daily phone usage and screen time.
-• Recall memories of your planting journey with our brand new Forest Timeline!
-
-It's never too late to build up productive habits! 
-
-NOTICE
-• Forest is compatible with iPhone, iPad and Apple Watch, and can be used across these iOS devices with a one-time purchase. The full app with the aforementioned features is available on iPhone and iPad; on Apple Watch you can view live planting session and today’s focus stats. To download or unlock a non-iOS version, it requires a separate purchase. By logging into the same account, your data can be synchronized across all platforms.
-• Due to iOS limitations, the Allow List feature is only available on iOS/iPadOS 16 or above. If you’re using a device running iOS/iPadOS 15 or below, your tree will wither when you leave Forest during a planting session.
-• Due to budget constraint, the number of real trees each user can plant is limited to five. We will be introducing limited time events that will allow users to plant more real trees. Please follow our social media page or check the in-app announcement for more updates.
-• There is only one version of Forest on the App Store. Other apps that are similar and mimics Forest are not developed by the Forest team. Thank you for your support!
-
-Like us on Facebook: https://www.facebook.com/forestapp.cc/
-Follow us on Twitter: https://twitter.com/forestapp_cc
-Follow us on Instagram: https://www.instagram.com/forest_app/
-
-We also provide browser extensions. Find out more on www.forestapp.cc
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/84/9f/cf/849fcf35-6429-881f-c5cd-8792b4044968/91f65b25-230a-48ec-a9ed-daef18cfb1f1_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/dc/1e/56dc1e48-da55-0642-cfa3-39f21e8fb75e/16c91a3c-240f-4ab6-8158-9eb6647a7b77_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1d/09/4b/1d094b63-98c8-e1a8-4e9b-5fd0d272a02d/872ba353-22ab-4e7c-b4af-a2d26dd62620_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/89/17/21/891721e6-4b04-5112-7cde-df7fa704c308/31301af3-8a11-46e4-8d00-baf3ab19a38d_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/78/97/0e78979c-54ce-05ef-061a-f0a2dcfe8c29/89958e58-d3e8-4ab6-8c46-fdf1c3cfb29f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/93/70/629370cc-f2e0-0ed4-c6ed-4027f8aaa033/1cbb5fae-d89a-473e-b926-e62013de193a_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/a3/48/25a34800-ff55-b993-753a-9b1e04dafa16/3885e062-494f-4040-a4a7-7065eb6652ae_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/93/93/e093938d-1fce-a320-c6f9-4aadca87ddf8/b24c164c-f68a-467f-b139-3b609debbffe_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/13/f1/2f/13f12fd9-8930-8170-6df8-0886c9ec7a73/af8398e6-2f70-48e6-9b0a-5505d63ced64_9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/c6/a9/bbc6a9ed-6f47-49f9-b89c-7b16a298fc82/7d9fce37-c32c-4de6-977d-c19c8ddf33a2_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a0/b6/29/a0b62981-8e03-46e7-26b3-671e2853172b/9602ea02-00be-4024-b9ef-6d8e8b1467da_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/52/0d/a7520d40-9020-a5ca-cc01-e6cd3d7391a8/29a0733e-9fc1-4e60-9cbc-b9d8d7156fcf_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/9a/74/589a743a-8cd8-949b-4adc-59d65adb4ff3/316cebd2-8c26-4836-9c6e-d5b2c3cfbdf6_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/82/4b/5b/824b5b06-4b14-88ff-c9fd-72e188c90b62/020f1d0c-6bee-4fc2-b8c8-c5b93b8eadaa_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/dc/96/b8/dc96b868-35f4-8119-a182-1a66db376e8d/088b85ca-fe0a-40b3-8b83-1e30b55afbe9_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/6e/79/8b6e79a3-4079-1250-d713-7d2c61fffb7f/c0fa2535-6449-434b-821b-12fe5d3bbd0f_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/cb/9f/19cb9fef-bc8a-b4e7-b24a-b87657d59434/4b8e370b-7e4b-4b1f-a1cc-d7b91a73bce5_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/14/a3/5314a323-306d-6f87-f0a9-899ff98b8b19/0b6a438e-9d37-4b1a-980d-5de3f7fc2386_8_2.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CASE No: 1937]]></title>
-        <id>CASE No: 1937-tr-1751742595362</id>
-        <link href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4"/>
-        <updated>2025-07-05T19:09:55.362Z</updated>
-        <summary type="html"><![CDATA[Price: ₺14,99 → ₺9,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/e3/3c/96e33c6d-17b2-49c2-dbf4-861951fd8a42/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺14,99</span> → <b>
-  <strong>₺9,99</strong>
-</b><span>[₺2,99 ~ ₺29,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺9,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    10 Credits：<b>₺39,99</b>
-  </li><li>
-    30 Credits：<b>₺79,99</b>
-  </li><li>
-    75 Credits：<b>₺99,99</b>
-  </li><li>
-    Weekly Pass：<b>₺99,99</b>
-  </li><li>
-    Early Access：<b>₺49,99</b>
-  </li><li>
-    150 Kredi：<b>₺149,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Foggy streets, dark secrets, and a hidden story at every corner.
-
-Case No: 1937 is a choice-based detective game that immerses you in the magical yet dangerous atmosphere of the past. In this interactive experience, you step into the shoes of master detective Refik Bey and chase unsolved cases throughout Istanbul.
-
-Every decision alters the course of events. Sometimes a conversation with a suspect, other times a simple clue can lead you to a completely different ending. You can replay the same story in different ways, uncover hidden endings, and explore branching narratives to shed light on Istanbul’s shadowy history.
-
-Are you ready to solve your first case as Refik Bey?
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
-        <id>Motorsport Manager 4-tr-1751732045585</id>
-        <link href="https://apps.apple.com/tr/app/motorsport-manager-4/id6449251957?uo=4"/>
-        <updated>2025-07-05T16:14:05.585Z</updated>
-        <summary type="html"><![CDATA[Bundle: ₺449,99 → ₺229,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/motorsport-manager-4/id6449251957?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Bundle：</strong><span>₺449,99</span> → <b>
-  <strong>₺229,99</strong>
-</b><span>[₺229,99 ~ ₺449,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺229,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Bundle：<b>₺229,99</b>
-  </li><li>
-    Pre registration bundle：<b>₺249,99</b>
-  </li><li>
-    Premium livery bundle：<b>₺249,99</b>
-  </li><li>
-    Game Editor：<b>₺249,99</b>
-  </li><li>
-    Very Large Investment：<b>₺129,99</b>
-  </li><li>
-    Large Investment：<b>₺129,99</b>
-  </li><li>
-    Huge Investment：<b>₺229,99</b>
-  </li><li>
-    Investment：<b>₺99,99</b>
-  </li><li>
-    Chairman's Payment：<b>₺249,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
-
-BUILD YOUR RACING DYNASTY
-Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
-
-ASSEMBLE YOUR DREAM TEAM
-Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
-
-REAL-TIME STRATEGY UNFOLDS
-Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
-
-UNLEASH VARIETY ON THE TRACK
-Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
-
-DRIVERS TAKE CENTER STAGE
-Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
-
-YOUR JOURNEY, YOUR CHALLENGE
-Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
-
-SEIZE CONTROL, MAKE HISTORY
-It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CASE No: 1937]]></title>
-        <id>CASE No: 1937-tr-1751696223498</id>
-        <link href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4"/>
-        <updated>2025-07-05T06:17:03.498Z</updated>
-        <summary type="html"><![CDATA[Price: ₺19,99 → ₺14,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/case-no-1937/id6746683191?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/e3/3c/96e33c6d-17b2-49c2-dbf4-861951fd8a42/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺19,99</span> → <b>
-  <strong>₺14,99</strong>
-</b><span>[₺2,99 ~ ₺29,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺14,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    10 Credits：<b>₺39,99</b>
-  </li><li>
-    30 Credits：<b>₺79,99</b>
-  </li><li>
-    Weekly Pass：<b>₺99,99</b>
-  </li><li>
-    Early Access：<b>₺49,99</b>
-  </li><li>
-    75 Credits：<b>₺99,99</b>
-  </li><li>
-    150 Kredi：<b>₺149,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Foggy streets, dark secrets, and a hidden story at every corner.
-
-Case No: 1937 is a choice-based detective game that immerses you in the magical yet dangerous atmosphere of the past. In this interactive experience, you step into the shoes of master detective Refik Bey and chase unsolved cases throughout Istanbul.
-
-Every decision alters the course of events. Sometimes a conversation with a suspect, other times a simple clue can lead you to a completely different ending. You can replay the same story in different ways, uncover hidden endings, and explore branching narratives to shed light on Istanbul’s shadowy history.
-
-Are you ready to solve your first case as Refik Bey?
-</p>]]></content>
     </entry>
 </feed>
