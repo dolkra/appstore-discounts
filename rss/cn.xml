@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-09T14:35:03.215Z</updated>
+    <updated>2025-07-10T01:26:12.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-09T14:35:03.216Z</updated>
+        <updated>2025-07-10T01:26:12.254Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 09 Jul 2025 14:35:03 GMT</id>
+        <id>rankingcnThu, 10 Jul 2025 01:26:12 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-09T14:35:03.216Z</updated>
+        <updated>2025-07-10T01:26:12.254Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1210</b>
+        <b>1212</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1009</b>
+        <b>1011</b>
       </td>
       <td>
         <b>33</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>653</b>
+        <b>655</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>491</b>
+        <b>493</b>
       </td>
       <td>
         <b>21</b>
@@ -95,14 +95,20 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id430270438">Astro Gold</a>
+        <a href="https://apps.apple.com/cn/app/id319295332">TuneIn Radio Pro</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>TuneIn Premium Pro</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -112,7 +118,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id583922375">myLightMeter PRO</a>
+        <a href="https://apps.apple.com/cn/app/id430270438">Astro Gold</a>
       </td>
       <td>
         <ul>
@@ -129,7 +135,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+        <a href="https://apps.apple.com/cn/app/id583922375">myLightMeter PRO</a>
       </td>
       <td>
         <ul>
@@ -144,6 +150,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
@@ -166,7 +189,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1159266744">双子 Gemini</a>
@@ -183,7 +206,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1217732174">TA - 一对一聊天，遇见对的人</a>
@@ -206,7 +229,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1271620263">艾希 - ICEY</a>
@@ -223,7 +246,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1380582804">手机帝国</a>
@@ -240,7 +263,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
@@ -257,7 +280,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
@@ -274,7 +297,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
@@ -291,7 +314,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1595313870">瓦尔登 - 日程管理，一个就够</a>
@@ -314,7 +337,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1624326561">真武三国  英雄集结</a>
@@ -337,7 +360,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1633243177">Ableton Note</a>
@@ -354,7 +377,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
@@ -371,7 +394,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
@@ -394,7 +417,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -411,7 +434,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444396120">挺进地牢</a>
@@ -428,7 +451,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -445,7 +468,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738767315">便利店开业日记</a>
@@ -462,7 +485,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738767322">森丘露营地</a>
@@ -479,7 +502,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6479307181">灵体侦测器</a>
@@ -496,7 +519,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738342400">Tampermonkey</a>
@@ -513,7 +536,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
@@ -552,7 +575,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742221550">魔卡棋旅</a>
@@ -768,6 +791,75 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneIn Radio Pro]]></title>
+        <id>TuneIn Radio Pro-cn-1752109433562</id>
+        <link href="https://apps.apple.com/cn/app/tunein-radio-pro/id319295332?uo=4"/>
+        <updated>2025-07-10T01:03:53.562Z</updated>
+        <summary type="html"><![CDATA[TuneIn Premium Pro: ¥728.00 → ¥498.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/tunein-radio-pro/id319295332?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/55/3b/3a/553b3aba-3f13-b065-4caa-1dd9c9e2ebe3/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>TuneIn Premium Pro：</strong><span>¥728.00</span> → <b>
+  <strong>¥498.00</strong>
+</b><span>[¥498.00 ~ ¥728.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥68.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    TuneIn Premium：<b>¥518.00</b>
+  </li><li>
+    TuneIn Premium Pro：<b>¥498.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  体育电台音乐电台新闻电台谈话电台
+
+TuneIn是真实的广播电台，集全世界最全的体育、新闻、音乐和谈话电台。
+
+只需动动手指，即可访问世界上最大的实时、点播和原创音频库，聆听最重要的讯息，发现那些动人的瞬间。
+
+通过体育实况、独家音乐频道、最具时效性的新闻、全球超过 570 万个播客和超过 100,000 个广播电台，随时拨动您的神经。
+
+TuneIn Premium 用户可以收听 NHL、Fox News Radio 的无广告新闻，以及各种不间断的无广告音乐电台。
+
+下载 TuneIn 的 5 大理由：
+
+1.不会错过任何一场体育赛事，
+在工作、居家、健身以及赶路时，皆可收听。实时收听和点播每一场 MLB 和 NHL 赛事报道以及体育漫谈– ，随时随地进入体育世界。
+
+2.海量音乐
+这里不仅仅有著名 DJ、时尚先锋和特邀嘉宾策划的独家音乐电台。发现每个流派的最佳新歌和艺术家，以及您最喜欢的所有歌曲和艺术家。
+
+3.视角独特的爆炸性新闻
+收听地方、全国以及全球 24 小时实时新闻播报。通过 TuneIn Premium 收听完全没有广告的 Fox News。
+
+4.所有您喜爱的播客
+从高居榜首的节目到新发现的优秀节目，让自己沉浸在谈话类节目中。关注经典节目，探索最受欢迎的热门歌曲，如 The Rachel Maddow 的 Bag Man、The Joe Rogan Experience 和 The Economist。
+
+5.世界上最强大的电台
+您的调频收音机望尘莫及！播放世界各地的 100,000+ AM、FM 和网络电台的节目。目前流行于 [ ]:[ ]。
+
+不仅仅是在iPhone 上大行其道
+TuneIn 可以在 200 个平台和设备上免费使用。在健身时，通过 Apple Watch 播放音乐。点击 TuneIn for CarPlay ，在驾车回家的路上对接车载系统。通过 Google Home、Amazon Echo 和 Alexa 让播客常伴左右。
+
+
+升级到 TuneIn Premium ，获得最佳体验
+• 无广告音乐
+• 无广告新闻
+• 当日最佳播客
+• 100,000 个电台
+
+
+通过应用程序订阅 TuneIn Radio Premium。如果您选择订阅，将根据您所在的国家/地区按月收取订阅费。订阅费将显示在应用程序中，直至完成付款。每月将会按照实时的订阅费进行自动续订，除非提前 24 小时关闭自动续订。系统将会在当前订阅期结束时，提前24小时通过您的 iTunes 帐户自动扣费。订阅费将按月收取。通过 iTunes 帐户设置，可以随时关闭自动续订。
+
+隐私政策：http://tunein.com/policies/privacy/
+使用条款：http://tunein.com/policies/
+
+TuneIn 使用 Nielsen测量软件，帮助进行市场研究，如Nielsen的电视收视率。关于 Neilsen 产品的更多信息及您的隐私，欢迎访问http://www.nielsen.com/digitalprivacy for more information。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/bc/f1/c1/bcf1c174-19aa-af66-2550-09968b76e86f/5a3331bb-6c9f-4902-a2b3-77dcc9215a6f_CN_8_news.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b5/b5/e1/b5b5e12c-dbf9-82b9-75c0-db71db675f7e/625c32c6-b603-4c87-babb-4fe51497b1fe_CN_8_radio.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/12/e3/2d/12e32da3-b8f4-d5e8-73dd-9c96634c1df5/b62d8759-99bd-452a-a631-68532dfe1b50_CN_8_music.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d7/44/f3/d744f39a-cd44-daab-671d-535184443930/ee5123e1-b9bd-44a6-a8b1-32d492b8cb53_ASO_TuneIn_iPhone8plus_07.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/6c/3c/296c3cbd-c251-3a9f-8f02-9246e5f04634/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/93/f5/56/93f5560a-9ec0-d3bb-61d2-bacbd6b1e95d/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/92/9b/d4929b97-f9eb-f9a2-bb3f-66a4a4f43cde/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/05/f9/7e/05f97e61-b28f-bf26-393b-a9a4ff1a934d/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/93/d9/e8/93d9e838-b302-3145-a1a6-cad6c350b6e6/pr_source.png/480x360bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[魔卡棋旅]]></title>
@@ -1032,25 +1124,5 @@ Day One 是一款原创日记应用。经过十年不懈的更新和新增功能
 
 如需技术帮助或其他查询，请访问 https://dayoneapp.com/contact/
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tampermonkey]]></title>
-        <id>Tampermonkey-cn-1751832797710</id>
-        <link href="https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4"/>
-        <updated>2025-07-06T20:13:17.710Z</updated>
-        <summary type="html"><![CDATA[价格: ¥22.00 → ¥15.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/tampermonkey/id6738342400?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c5/d7/f6/c5d7f601-e95f-5673-4650-1a5611187b4c/AppIcon-0-0-1x_U007epad-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥22.00</span> → <b>
-  <strong>¥15.00</strong>
-</b><span>[¥15.00 ~ ¥22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥15.00</b>
-</p><h2>应用描述</h2><p>
-  Tampermonkey 是一款广受欢迎的浏览器扩展，兼容所有主流浏览器。
-它允许您使用用户脚本——添加或修改功能的小型 JavaScript 程序——来自定义和增强网页。
-使用 Tampermonkey，您可以轻松地在任何网站上创建、管理和运行这些脚本。
-</p>]]></content>
     </entry>
 </feed>
