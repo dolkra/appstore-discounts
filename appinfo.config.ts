@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1579211407,
+    name: {
+      mo: '河马英文阅读器 (Hippo Reader)',
+    },
+    addType: 'auto',
+  },
+  {
     id: 491907493,
     name: {
       mo: 'ABRSM Aural Trainer Grades 1-5',

@@ -5780,6 +5780,17 @@
     "history": [
       [
         {
+          "timestamp": 1752182138739,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "8mm Pro": "$300.00",
+            "默片主題": "$0.00",
+            "炫光主題": "$0.00",
+            "倒計時主題": "$0.00"
+          }
+        },
+        {
           "timestamp": 1752167650630,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -10516,6 +10527,25 @@
       "Chapter 9": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752182138739,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Chapter N": "$120.00",
+            "Chapter D": "$150.00",
+            "Chapter L": "$320.00",
+            "Chapter T": "$150.00",
+            "Chapter R": "$150.00",
+            "Chapter 0": "$150.00",
+            "Chapter K": "$150.00",
+            "Chapter 10": "$150.00",
+            "Chapter 9": "$150.00",
+            "Chapter S": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751206242556,
@@ -69064,6 +69094,27 @@
           "inAppPurchases": {
             "服装券10张": "$30.00"
           }
+        }
+      ]
+    ]
+  },
+  "1579211407": {
+    "name": "河马英文阅读器 (Hippo Reader)",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752182138739,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
         }
       ]
     ]
