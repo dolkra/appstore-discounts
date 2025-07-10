@@ -31742,7 +31742,7 @@
       "Expansion Chapter E": "$1.99",
       "Medium bottle of Chiming Core": "$4.99",
       "Expansion Chapter C": "$1.99",
-      "Expansion Chapter D": "$3.99",
+      "Expansion Chapter D": "$1.99",
       "Expansion Chapter F": "$3.99",
       "Expansion Chapter G": "$3.99",
       "Halv Selection Challenge Pass": "$2.99",
@@ -31757,6 +31757,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752164161940,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Side Story Chapter 1": "$1.99",
+            "Expansion Chapter B": "$1.99",
+            "Expansion Chapter H": "$1.99",
+            "Side Story Chapter 2": "$1.99",
+            "Expansion Chapter I": "$1.99",
+            "Expansion Chapter E": "$1.99",
+            "Expansion Chapter D": "$1.99"
+          }
+        },
         {
           "timestamp": 1752154147537,
           "price": 0,
@@ -34187,7 +34204,9 @@
       "3-Year SVIP": "$24.99",
       "Annual Special SVIP": "$12.99",
       "90 Days SVIP": "$2.99",
-      "SVIP auto-renew quarterly": "$3.99"
+      "SVIP auto-renew quarterly": "$3.99",
+      "50 Conversations": "$0.99",
+      "150 Conversations": "$2.99"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -34203,10 +34222,26 @@
       "3-Year SVIP": "$24.99",
       "Annual Special SVIP": "$12.99",
       "90 Days SVIP": "$2.99",
-      "SVIP auto-renew quarterly": "$3.99"
+      "SVIP auto-renew quarterly": "$3.99",
+      "50 Conversations": "$0.99",
+      "150 Conversations": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1752164161940,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "50 Conversations": "$0.99",
+            "150 Conversations": "$2.99",
+            "250 Conversations": "$4.99",
+            "500 Conversations": "$9.99",
+            "1-Year SVIP": "$12.99"
+          }
+        },
         {
           "timestamp": 1752160461179,
           "price": 14.99,
