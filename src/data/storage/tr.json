@@ -75039,6 +75039,12 @@
     "history": [
       [
         {
+          "timestamp": 1752221868417,
+          "price": 289,
+          "formattedPrice": "₺289,00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1752218074688,
           "price": 289,
           "formattedPrice": "₺289,00",
@@ -75609,14 +75615,22 @@
   "6502905107": {
     "name": "AListServer",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752221868417,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -78034,6 +78048,27 @@
       [
         {
           "timestamp": 1752005659477,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6478572512": {
+    "name": "Mini Airways:Premium",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752221868417,
           "price": 229.99,
           "formattedPrice": "₺229,99",
           "inAppPurchases": {}
