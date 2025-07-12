@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6553989084,
+    name: {
+      mo: 'Lawgivers II',
+    },
+    addType: 'auto',
+  },
+  {
     id: 366195670,
     name: {
       mo: "The Photographer's Ephemeris",

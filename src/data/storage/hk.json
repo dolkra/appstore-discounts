@@ -4108,6 +4108,25 @@
     "history": [
       [
         {
+          "timestamp": 1752308139235,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "基础会员-连续包月": "HK$ 18.00",
+            "基础会员1个月(尝鲜)": "HK$ 8.00",
+            "空间会员·365G-3年（活动）": "HK$ 588.00",
+            "空间会员·365G-1年（活动）": "HK$ 288.00",
+            "专业会员·无限版-1个月（活动）": "HK$ 118.00",
+            "专业会员·无限版-12个月（活动）": "HK$ 1,188.00",
+            "专业会员·10人版-12个月（活动）": "HK$ 588.00",
+            "专业会员·10人版-1个月（活动）": "HK$ 58.00",
+            "专业会员·5人版-1个月（活动）": "HK$ 38.00",
+            "专业会员·5人版-12个月（活动）": "HK$ 388.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751037194950,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -59616,6 +59635,23 @@
     "history": [
       [
         {
+          "timestamp": 1752308139235,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "60 gems": "HK$ 8.00",
+            "Teammate Package": "HK$ 38.00",
+            "Role Package III": "HK$ 88.00",
+            "Resource Package": "HK$ 22.00",
+            "Heroic Package#1": "HK$ 88.00",
+            "Gold Decree": "HK$ 688.00",
+            "Bronze Decree": "HK$ 188.00",
+            "Heroic Package#3": "HK$ 388.00",
+            "7200 gems": "HK$ 788.00",
+            "Teammate Package#2": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1752304362279,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -97613,6 +97649,31 @@
           "price": 38,
           "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6553989084": {
+    "name": "Lawgivers II",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00",
+      "Kickstarter Edition": "HK$ 0.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "HK$ 98.00",
+      "Kickstarter Edition": "HK$ 0.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752308139235,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {
+            "Kickstarter Edition": "HK$ 0.00"
+          }
         }
       ]
     ]

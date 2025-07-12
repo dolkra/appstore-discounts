@@ -31275,6 +31275,23 @@
     "history": [
       [
         {
+          "timestamp": 1752308139235,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "₺39,99",
+            "Get the main entrance lighthouse passcode": "₺39,99",
+            "Props Tip: Pyramid": "₺39,99",
+            "Props Tip: Temple corner": "₺39,99",
+            "Get coffin password": "₺39,99",
+            "Get inside the temple door password": "₺39,99",
+            "Props Tip: flower": "₺39,99",
+            "Pyramid obtain dial pointer display mode": "₺39,99",
+            "Rockets get the door unlocking": "₺39,99",
+            "Lighthouse obtain exit door passcode": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1752304362279,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -78508,6 +78525,31 @@
           "price": 229.99,
           "formattedPrice": "₺229,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6553989084": {
+    "name": "Lawgivers II",
+    "maxPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
+      "Kickstarter Edition": "₺0,00"
+    },
+    "minPriceInfo": {
+      "price": 399.99,
+      "formattedPrice": "₺399,99",
+      "Kickstarter Edition": "₺0,00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752308139235,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Kickstarter Edition": "₺0,00"
+          }
         }
       ]
     ]
