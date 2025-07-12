@@ -27731,6 +27731,25 @@
     "history": [
       [
         {
+          "timestamp": 1752354674358,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Free Checkpoints": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Medium Coin Pack": "$1.99",
+            "Small Coin Pack": "$0.99",
+            "Pig": "$0.99",
+            "Dog": "$0.99",
+            "Rooster": "$0.99",
+            "Monkey": "$0.99",
+            "Goat": "$0.99",
+            "Horse": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752092046189,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -40887,6 +40906,19 @@
       "Monthly Subscription": "$5.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752354674358,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$39.99",
+            "Lifetime license": "$49.99",
+            "Monthly Subscription": "$5.49",
+            "Yearly Subscription": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750652899804,
@@ -63962,7 +63994,7 @@
       "The Rainbow Bundle": "$11.99",
       "Fantasy Beach Bundle": "$11.99",
       "Starseeker Token": "$9.99",
-      "Speed Die": "$4.99",
+      "Speed Die": "$7.99",
       "Jin Token": "$9.99"
     },
     "minPriceInfo": {
@@ -63996,6 +64028,22 @@
       "Jin Token": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752354674358,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Jin Token": "$9.99",
+            "Speed Die": "$7.99",
+            "Fantasy Beach Bundle": "$11.99",
+            "Starseeker Token": "$9.99",
+            "Enchanted Forest Marine Bundle": "$11.99",
+            "LA Monstropolis Marine Bundle": "$11.99",
+            "The Rainbow Bundle": "$7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752211028755,

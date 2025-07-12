@@ -3289,6 +3289,25 @@
     "history": [
       [
         {
+          "timestamp": 1752354674358,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "HK$ 188.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Haydn: String Quartets": "HK$ 18.00",
+            "Christmas Carol Collection": "HK$ 18.00",
+            "Bach: Cello Suites": "HK$ 18.00",
+            "Vivaldi: The Four Seasons": "HK$ 18.00",
+            "Mozart: Twelve Duets": "HK$ 18.00",
+            "The Mutopia Piano Collection": "HK$ 38.00",
+            "forScore Pro": "HK$ 118.00",
+            "Voluntary Upgrade": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751966115921,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -97836,12 +97855,20 @@
       "Diamonds": "HK$ 68.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Diamonds": "HK$ 68.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752354674358,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 68.00"
+          }
+        },
         {
           "timestamp": 1752351193699,
           "price": 2,
