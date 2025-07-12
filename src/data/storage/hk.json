@@ -3289,6 +3289,23 @@
     "history": [
       [
         {
+          "timestamp": 1752358303227,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00",
+            "Chopin: The Mutopia Collection": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1752354674358,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -13849,7 +13866,12 @@
       "B17 Flying Fortress": "HK$ 22.00",
       "A6M Zero": "HK$ 22.00",
       "P-47 Thunderbolt": "HK$ 22.00",
-      "Curtiss P-40 Warhawk": "HK$ 22.00"
+      "Curtiss P-40 Warhawk": "HK$ 22.00",
+      "Bell 222 Airwolf": "HK$ 22.00",
+      "Fremont RC Club": "HK$ 22.00",
+      "Livermore RC Club": "HK$ 22.00",
+      "Vaca Valley RC Club": "HK$ 22.00",
+      "Bell 222": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -13873,9 +13895,33 @@
       "B17 Flying Fortress": "HK$ 22.00",
       "A6M Zero": "HK$ 22.00",
       "P-47 Thunderbolt": "HK$ 22.00",
-      "Curtiss P-40 Warhawk": "HK$ 22.00"
+      "Curtiss P-40 Warhawk": "HK$ 22.00",
+      "Bell 222 Airwolf": "HK$ 22.00",
+      "Fremont RC Club": "HK$ 22.00",
+      "Livermore RC Club": "HK$ 22.00",
+      "Vaca Valley RC Club": "HK$ 22.00",
+      "Bell 222": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752358303227,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "AH-64 Apache": "HK$ 22.00",
+            "Bell 222 Airwolf": "HK$ 22.00",
+            "TRex 500": "HK$ 22.00",
+            "TRex 700 N": "HK$ 22.00",
+            "Fremont RC Club": "HK$ 22.00",
+            "Livermore RC Club": "HK$ 22.00",
+            "Vaca Valley RC Club": "HK$ 22.00",
+            "Bell 47": "HK$ 22.00",
+            "Bell 222": "HK$ 22.00",
+            "Hughes 500": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752301073460,
