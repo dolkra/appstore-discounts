@@ -12887,6 +12887,27 @@
       ]
     ]
   },
+  "539294580": {
+    "name": "ASE Rally Monitor",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752329477829,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "540925500": {
     "name": "Need for Speed™ Most Wanted",
     "maxPriceInfo": {
@@ -29933,6 +29954,37 @@
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1160943124": {
+    "name": "Speech to Text : Voice to Text",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Year": "USD 11.99",
+      "6 Months": "USD 4.99",
+      "Month": "USD 1.49"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Year": "USD 11.99",
+      "6 Months": "USD 4.99",
+      "Month": "USD 1.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752329477829,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 4.99",
+            "Month": "USD 1.49"
+          }
         }
       ]
     ]
@@ -56750,6 +56802,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752329477829,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752124591907,

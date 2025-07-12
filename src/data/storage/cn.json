@@ -11391,6 +11391,27 @@
       ]
     ]
   },
+  "539294580": {
+    "name": "ASE Rally Monitor",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752329477829,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "547000247": {
     "name": "LExp - Long Exposure Calcs",
     "maxPriceInfo": {
@@ -26494,6 +26515,21 @@
     "history": [
       [
         {
+          "timestamp": 1752329477829,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "专业天气VIP套餐": "¥38.00",
+            "72小时天气": "¥38.00",
+            "1,200K金币": "¥15.00",
+            "12个月专业天气VIP套餐": "¥38.00",
+            "美国AQI (PM2.5)订阅": "¥28.00",
+            "129,800K金币": "¥698.00",
+            "60,000K金币": "¥328.00",
+            "20,500K金币": "¥148.00"
+          }
+        },
+        {
           "timestamp": 1752326580319,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -28391,6 +28427,37 @@
           "price": 22,
           "formattedPrice": "¥22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1160943124": {
+    "name": "听写文本：语音识别",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00",
+      "Year": "¥88.00",
+      "6 Months": "¥38.00",
+      "Month": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00",
+      "Year": "¥88.00",
+      "6 Months": "¥38.00",
+      "Month": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752329477829,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "Year": "¥88.00",
+            "6 Months": "¥38.00",
+            "Month": "¥12.00"
+          }
         }
       ]
     ]
@@ -72077,6 +72144,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752329477829,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元礼包": "¥6.00",
+            "18元礼包": "¥18.00",
+            "30元礼包": "¥30.00",
+            "68元礼包": "¥68.00",
+            "1元礼包": "¥1.00",
+            "648元钻石": "¥648.00",
+            "98元礼包": "¥98.00",
+            "328元钻石": "¥328.00",
+            "128元钻石": "¥128.00",
+            "88元礼包": "¥88.00"
+          }
+        },
         {
           "timestamp": 1752326580319,
           "price": 1,

@@ -917,6 +917,23 @@
     "history": [
       [
         {
+          "timestamp": 1752329477829,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "10,000 gold": "$0.99",
+            "100,000 gold": "$1.99",
+            "15000 eggs": "$2.99"
+          }
+        },
+        {
           "timestamp": 1752326580319,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -15820,6 +15837,27 @@
           "timestamp": 1745593334191,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "539294580": {
+    "name": "ASE Rally Monitor",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752329477829,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
           "inAppPurchases": {}
         }
       ]
@@ -38758,6 +38796,37 @@
           "price": 2.99,
           "formattedPrice": "$2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1160943124": {
+    "name": "Speech to Text : Voice to Text",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Month": "$1.99",
+      "Year": "$11.99",
+      "6 Months": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99",
+      "Month": "$1.99",
+      "Year": "$11.99",
+      "6 Months": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752329477829,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Month": "$1.99",
+            "Year": "$11.99",
+            "6 Months": "$4.99"
+          }
         }
       ]
     ]
