@@ -76841,6 +76841,14 @@
     "history": [
       [
         {
+          "timestamp": 1752377215061,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752124591907,
           "price": 0,
           "formattedPrice": "Free",
@@ -102622,10 +102630,22 @@
   },
   "6747970208": {
     "name": "Rush Hour Girlfriends",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "Diamonds": "$8.99"
+    },
+    "minPriceInfo": {
+      "Diamonds": "$8.99"
+    },
     "history": [
       [
+        {
+          "timestamp": 1752377215061,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$8.99"
+          }
+        },
         {
           "timestamp": 1752351193699,
           "inAppPurchases": {}
