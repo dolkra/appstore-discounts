@@ -9799,6 +9799,25 @@
     "history": [
       [
         {
+          "timestamp": 1752419506239,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Mystery Duck Sale Pack": "$0.99",
+            "Cranky Sale Pack": "$0.99",
+            "Allie Sale Pack": "$0.99",
+            "Locksmith - All Allie Locks": "$1.99",
+            "Allie's Story": "$0.99",
+            "Sale Pack": "$3.99",
+            "Locksmith - One Lock": "$0.99",
+            "Mystery Duck": "$2.99",
+            "Locksmith - All Mystery Locks": "$4.99",
+            "Locksmith - All Cranky Locks": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750508499126,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -15366,6 +15385,25 @@
       "Unlock Bio Weapon": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752419506239,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Procurement Director": "$0.99",
+            "Disaster Manager": "$0.99",
+            "Medical Coordinator": "$0.99",
+            "Ethics Watchdog": "$0.99",
+            "Chaos Engineer": "$0.99",
+            "Economic Forecaster": "$0.99",
+            "Situation Director": "$0.99",
+            "Outreach Coordinator": "$0.99",
+            "Fast Response EMTs": "$0.99",
+            "Strategic Fundraiser": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750972321338,
@@ -26279,6 +26317,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752419506239,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Faustus": "$6.99",
+            "Vez'nan": "$4.99",
+            "Bravebark": "$4.99",
+            "Phoenix": "$6.99",
+            "Reg'son": "$1.99",
+            "Bruce": "$4.99",
+            "Special Offer Faustus": "$4.99",
+            "Prince Denas": "$2.99",
+            "Xin": "$4.99",
+            "Wilbur": "$6.99"
+          }
+        },
         {
           "timestamp": 1752415880748,
           "price": 2.99,
@@ -48197,7 +48252,16 @@
       "Muse Dash・Legend": "$3.99",
       "unlockall_12": "$23.99",
       "Happy Otaku Pack Vol.20": "$3.99",
-      "Aquaria Cruising Guide": "$3.99"
+      "Aquaria Cruising Guide": "$3.99",
+      "Aim to Be a Rhythm Master!(30%": "$2.99",
+      "Chill & Sip Summer Pass": "$2.99",
+      "Aquaria Cruising Guide(30%)": "$2.99",
+      "Happy Otaku Pack Vol.20(30%)": "$2.99",
+      "Muse Dash・Legend(30%)": "$2.99",
+      "Cosmic Radio 2024(30%)": "$2.99",
+      "MSR Anthology_Vol.02(30%)": "$3.99",
+      "Ensemble Arcanum(30%)": "$1.99",
+      "Touhou Mugakudan -IV-(30%)": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -48226,7 +48290,7 @@
       "MSR Anthology": "$3.99",
       "MSR Anthology_Vol.02": "$3.99",
       "Cosmic Radio 2024": "$2.99",
-      "MDlevelTacticalTrainingBlu-ray": "$2.99",
+      "MDlevelTacticalTrainingBlu-ray": "$1.99",
       "Touhou Mugakudan -IV-": "$3.99",
       "Touhou Collection Bundle100": "$15.99",
       "Touhou Collection Bundle88": "$12.99",
@@ -48237,9 +48301,37 @@
       "Muse Dash・Legend": "$2.99",
       "unlockall_12": "$23.99",
       "Happy Otaku Pack Vol.20": "$2.99",
-      "Aquaria Cruising Guide": "$2.99"
+      "Aquaria Cruising Guide": "$2.99",
+      "Aim to Be a Rhythm Master!(30%": "$2.99",
+      "Chill & Sip Summer Pass": "$2.99",
+      "Aquaria Cruising Guide(30%)": "$2.99",
+      "Happy Otaku Pack Vol.20(30%)": "$2.99",
+      "Muse Dash・Legend(30%)": "$2.99",
+      "Cosmic Radio 2024(30%)": "$2.99",
+      "MSR Anthology_Vol.02(30%)": "$3.99",
+      "Ensemble Arcanum(30%)": "$1.99",
+      "Touhou Mugakudan -IV-(30%)": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752419506239,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Aim to Be a Rhythm Master!(30%": "$2.99",
+            "Chill & Sip Summer Pass": "$2.99",
+            "Aquaria Cruising Guide(30%)": "$2.99",
+            "Happy Otaku Pack Vol.20(30%)": "$2.99",
+            "Muse Dash・Legend(30%)": "$2.99",
+            "Cosmic Radio 2024(30%)": "$2.99",
+            "MSR Anthology_Vol.02(30%)": "$3.99",
+            "MDlevelTacticalTrainingBlu-ray": "$1.99",
+            "Ensemble Arcanum(30%)": "$1.99",
+            "Touhou Mugakudan -IV-(30%)": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752315160590,
@@ -87870,7 +87962,9 @@
       "終身版": "$6.99",
       "尊享版": "$4.99",
       "攬月版": "$3.99",
-      "激情版": "$0.99"
+      "激情版": "$0.99",
+      "冠絕天下": "$1.99",
+      "西涼悍將": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -87894,9 +87988,30 @@
       "終身版": "$6.99",
       "尊享版": "$4.99",
       "攬月版": "$3.99",
-      "激情版": "$0.99"
+      "激情版": "$0.99",
+      "冠絕天下": "$1.99",
+      "西涼悍將": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752419506239,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "冠絕天下": "$1.99",
+            "西涼悍將": "$1.99",
+            "江山美人": "$1.99",
+            "終身版": "$6.99",
+            "尊享版": "$4.99",
+            "攬月版": "$3.99",
+            "激情版": "$0.99",
+            "道法自然": "$1.99",
+            "自創武將朝代特色兵種補丁": "$3.99",
+            "自創武將": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752297226891,
