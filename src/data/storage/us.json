@@ -24495,6 +24495,25 @@
     "history": [
       [
         {
+          "timestamp": 1752390804417,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "12 Mo. CAN Texting": "$17.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752369037925,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -72609,6 +72628,25 @@
     "history": [
       [
         {
+          "timestamp": 1752390804417,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Founders Pack": "$0.99",
+            "Lisa character": "$0.00",
+            "Gloria skin": "$0.99",
+            "Elsa character": "$0.99",
+            "Jorge skin": "$0.99",
+            "Jack character": "$0.99",
+            "Daniel skin": "$0.99",
+            "James character": "$0.99",
+            "Manuel character": "$0.99",
+            "Marco character": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752208247605,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -97634,7 +97672,8 @@
       "Season MLB 1987": "$0.99",
       "Season MLB 1997": "$0.99",
       "Season MLB 2010": "$0.99",
-      "Season MLB 2002": "$0.99"
+      "Season MLB 2002": "$0.99",
+      "Season MLB 1999": "$0.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -97693,10 +97732,28 @@
       "Season MLB 1987": "$0.99",
       "Season MLB 1997": "$0.99",
       "Season MLB 2010": "$0.99",
-      "Season MLB 2002": "$0.99"
+      "Season MLB 2002": "$0.99",
+      "Season MLB 1999": "$0.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1752390804417,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "25,000 PP for OOTP Go 26!": "$19.99",
+            "175,000 PP for OOTP Go 26!": "$99.99",
+            "12,000 PP for OOTP Go 26!": "$9.99",
+            "75,000 PP for OOTP Go 26!": "$49.99",
+            "Bundle MLB All-In-One": "$19.99",
+            "5,500 PP for OOTP Go 26!": "$4.99",
+            "1,000,000 PP for OOTP Go 26!": "$499.99",
+            "Season MLB 1999": "$0.99",
+            "Bundle MLB 2000s": "$4.99",
+            "Season MLB 2020": "$0.99"
+          }
+        },
         {
           "timestamp": 1752381067829,
           "price": 9.99,
@@ -102910,6 +102967,12 @@
       "Diamonds": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752390804417,
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752377215061,
