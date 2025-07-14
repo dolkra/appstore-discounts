@@ -6973,7 +6973,9 @@
       "My Pet Report": "HK$ 18.00",
       "Child Report - Untimed": "HK$ 22.00",
       "Gold Level lifetime": "HK$ 888.00",
-      "Gold Level Free Trial": "HK$ 0.00"
+      "Gold Level Free Trial": "HK$ 0.00",
+      "Gold Annual": "HK$ 488.00",
+      "Gold Monthly": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6992,10 +6994,31 @@
       "The Big Three Report": "HK$ 32.00",
       "My Pet Report": "HK$ 18.00",
       "Child Report - Untimed": "HK$ 22.00",
-      "Gold Level lifetime": "HK$ 888.00",
-      "Gold Level Free Trial": "HK$ 0.00"
+      "Gold Level lifetime": "HK$ 788.00",
+      "Gold Level Free Trial": "HK$ 0.00",
+      "Gold Annual": "HK$ 488.00",
+      "Gold Monthly": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752477455341,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Gold Annual": "HK$ 488.00",
+            "Gold Monthly": "HK$ 58.00",
+            "Gold Level lifetime": "HK$ 788.00",
+            "Gold Level Free Trial": "HK$ 0.00",
+            "Lunar Return Report": "HK$ 32.00",
+            "7-day Trial Astrolocality": "HK$ 0.00",
+            "Astrolocality Maps": "HK$ 188.00",
+            "The Big Three Report": "HK$ 32.00",
+            "Relationship Report": "HK$ 32.00",
+            "Predictive Report - Untimed": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751991368724,
@@ -11252,6 +11275,25 @@
       "Chapter 9": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752477455341,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Chapter N": "HK$ 32.00",
+            "Chapter D": "HK$ 38.00",
+            "Chapter L": "HK$ 88.00",
+            "Chapter T": "HK$ 38.00",
+            "Chapter R": "HK$ 38.00",
+            "Chapter 0": "HK$ 38.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter 10": "HK$ 38.00",
+            "Chapter 9": "HK$ 38.00",
+            "Chapter S": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751130628546,
@@ -91885,6 +91927,25 @@
     "history": [
       [
         {
+          "timestamp": 1752477455341,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "HK$ 32.00",
+            "The Aircraft Bundle": "HK$ 148.00",
+            "Global scenery - 12 months": "HK$ 98.00",
+            "Boeing 777-300ER": "HK$ 18.00",
+            "Boeing 787-10": "HK$ 18.00",
+            "Airbus A350-1000": "HK$ 32.00",
+            "Airbus A380": "HK$ 18.00",
+            "Boeing 747-400": "HK$ 18.00",
+            "Boeing 737 MAX 9": "HK$ 18.00",
+            "Concorde": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752383737903,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -98404,6 +98465,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752477455341,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1752441071535,
           "price": 0,
