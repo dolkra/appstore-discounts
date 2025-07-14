@@ -23577,6 +23577,14 @@
     "history": [
       [
         {
+          "timestamp": 1752502453765,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751936586003,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -32577,6 +32585,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752502453765,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "Lanota 9週年 限時挑戰書": "$120.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$60.00",
+            "擴充章節 R": "$60.00",
+            "基本方案（每月續訂）": "$30.00",
+            "擴充章節 U": "$60.00",
+            "擴充章節B": "$60.00",
+            "支線第二章": "$60.00",
+            "擴充章節 I": "$60.00"
+          }
+        },
         {
           "timestamp": 1752467695379,
           "price": 0,
@@ -60421,6 +60446,14 @@
     "history": [
       [
         {
+          "timestamp": 1752502453765,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752253965599,
           "price": 0,
           "formattedPrice": "免費",
@@ -78569,6 +78602,24 @@
       "學院兔皮膚": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752502453765,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "活力四射套裝": "$30.00",
+            "元氣貓咪套裝": "$30.00",
+            "清涼假日套裝": "$30.00",
+            "青花禮服套裝": "$30.00",
+            "賽博兔皮膚": "$30.00",
+            "休閒牛仔套裝": "$30.00",
+            "青春魅力套裝": "$30.00",
+            "學院兔皮膚": "$30.00",
+            "新年禮服套裝": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751206242556,
@@ -97184,14 +97235,22 @@
   "6451376191": {
     "name": "Dumb Phone: 簡約主畫面",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 290,
+      "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752502453765,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748098925203,
@@ -99231,17 +99290,30 @@
       "formattedPrice": "$10.00",
       "730 Diamanten": "$33.00",
       "Diamonds": "$930.00",
-      "780 Diamanten": "$70.00"
+      "780 Diamanten": "$70.00",
+      "880 Diamanten": "$130.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "730 Diamanten": "$33.00",
       "Diamonds": "$490.00",
-      "780 Diamanten": "$70.00"
+      "780 Diamanten": "$70.00",
+      "880 Diamanten": "$130.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752502453765,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "730 Diamanten": "$33.00",
+            "Diamonds": "$870.00",
+            "780 Diamanten": "$70.00",
+            "880 Diamanten": "$130.00"
+          }
+        },
         {
           "timestamp": 1752477455341,
           "inAppPurchases": {}
