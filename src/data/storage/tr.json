@@ -2938,6 +2938,23 @@
     "history": [
       [
         {
+          "timestamp": 1752470362144,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "forScore Pro": "₺699,99",
+            "forScore Pro 30-Day Pass": "₺129,99",
+            "Brahms: The Mutopia Collection": "₺0,00",
+            "Liszt: The Mutopia Collection": "₺0,00",
+            "Satie: The Mutopia Collection": "₺0,00",
+            "Tchaikovsky: The Mutopia Collection": "₺0,00",
+            "Händel: The Mutopia Collection": "₺0,00",
+            "Haydn: The Mutopia Collection": "₺0,00",
+            "Beethoven: The Mutopia Collection": "₺39,99",
+            "Verdi: The Mutopia Collection": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1752467695379,
           "price": 999.99,
           "formattedPrice": "₺999,99",
@@ -10940,6 +10957,34 @@
             "Lifetime Cloud Services": "₺1.299,99",
             "Monthly Cloud Services": "₺49,99",
             "Reset Password": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
+  "507937883": {
+    "name": "THE KING OF FIGHTERS-i 2012",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "CLASSIC IORI": "₺39,99",
+      "NESTS-STYLE KYO": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
+      "CLASSIC IORI": "₺39,99",
+      "NESTS-STYLE KYO": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752470362144,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "CLASSIC IORI": "₺39,99",
+            "NESTS-STYLE KYO": "₺39,99"
           }
         }
       ]
