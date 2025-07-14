@@ -19260,6 +19260,34 @@
       ]
     ]
   },
+  "834248867": {
+    "name": "SKRWT",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "MRRW - Export Feature": "₺39,99",
+      "4PNTS - Export Feature": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99",
+      "MRRW - Export Feature": "₺39,99",
+      "4PNTS - Export Feature": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752506072566,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "MRRW - Export Feature": "₺39,99",
+            "4PNTS - Export Feature": "₺39,99"
+          }
+        }
+      ]
+    ]
+  },
   "837860959": {
     "name": "Mini Metro",
     "maxPriceInfo": {
@@ -76245,14 +76273,22 @@
   "6474207287": {
     "name": "Wagotabi: Learn Japanese",
     "maxPriceInfo": {
-      "price": 69.99,
-      "formattedPrice": "₺69,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
       "price": 69.99,
       "formattedPrice": "₺69,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752506072566,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745461818532,

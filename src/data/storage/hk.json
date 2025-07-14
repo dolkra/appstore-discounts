@@ -24001,6 +24001,34 @@
       ]
     ]
   },
+  "834248867": {
+    "name": "SKRWT",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "4PNTS - Export Feature": "HK$ 8.00",
+      "MRRW - Export Feature": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "4PNTS - Export Feature": "HK$ 8.00",
+      "MRRW - Export Feature": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752506072566,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "4PNTS - Export Feature": "HK$ 8.00",
+            "MRRW - Export Feature": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "837860959": {
     "name": "迷你地鐵",
     "maxPriceInfo": {
@@ -95005,14 +95033,22 @@
   "6474207287": {
     "name": "Wagotabi（和語旅）：學習日語",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752506072566,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745461818532,
