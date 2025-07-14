@@ -5905,6 +5905,25 @@
     "history": [
       [
         {
+          "timestamp": 1752531167390,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "₺179,99",
+            "Tuned 808 Bass": "₺39,99",
+            "Amped Guitar & Bass": "₺129,99",
+            "Sliced Beats": "₺39,99",
+            "Voices": "₺39,99",
+            "Synth Lead": "₺99,99",
+            "Hyper-Pop Mobile": "₺129,99",
+            "Acoustic Guitars": "₺39,99",
+            "Synth Plucks": "₺99,99",
+            "Drumaxx": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752467695379,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -67839,10 +67858,18 @@
       "formattedPrice": "₺439,00"
     },
     "minPriceInfo": {
-      "price": 439,
-      "formattedPrice": "₺439,00"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752531167390,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
