@@ -42523,6 +42523,23 @@
     "history": [
       [
         {
+          "timestamp": 1752517177782,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hero Beresad": "$6.99",
+            "Mega Tower Bundle": "$15.99",
+            "Tower Blazing Gem": "$4.99",
+            "Mega Heroe Bundle": "$17.99",
+            "Hammerhold Campaign!": "$7.99",
+            "Hero Tank": "$5.99",
+            "Tower Deep Devil's Reef": "$2.99",
+            "Tower Grim Cemetery": "$2.99",
+            "Pirate Kings Campaign!": "$7.99",
+            "Tower Goblin War Zeppelin": "$6.99"
+          }
+        },
+        {
           "timestamp": 1752513213435,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -104202,6 +104219,19 @@
         },
         {
           "timestamp": 1752351193699,
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742472194": {
+    "name": "鬼谷八荒 Tale of Immortal",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1752517177782,
           "inAppPurchases": {}
         }
       ]
