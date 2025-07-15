@@ -78865,11 +78865,21 @@
       "PRO版武器": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "PRO版武器": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752592342378,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO版武器": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750417857625,
