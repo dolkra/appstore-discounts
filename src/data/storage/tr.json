@@ -1406,6 +1406,17 @@
     "history": [
       [
         {
+          "timestamp": 1752571324374,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "TuneIn Premium": "₺209,99",
+            "TuneIn Premium Pro": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751606130344,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -19456,6 +19467,25 @@
       "12 Mo. CAN Texting": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752571324374,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "12 Mo. Fongo Ultimate": "₺4.499,99",
+            "3 Mo. Fongo Ultimate": "₺1.299,99",
+            "6 Mo. Fongo Ultimate": "₺2.499,99",
+            "1 Mo. Fongo Ultimate": "₺599,99",
+            "12 Mo. Remove Ads": "₺799,99",
+            "6 Mo. Remove Ads": "₺449,99",
+            "3 Mo. Remove Ads": "₺249,99",
+            "1 Mo. Remove Ads": "₺119,99",
+            "12 Mo. Fongo Plus": "₺3.999,99",
+            "12 Mo. Global Texting": "₺1.199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752059520734,
@@ -53062,6 +53092,14 @@
     "history": [
       [
         {
+          "timestamp": 1752571324374,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751670734803,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -68019,8 +68057,8 @@
   "6468843723": {
     "name": "GTA III – Definitive",
     "maxPriceInfo": {
-      "price": 439,
-      "formattedPrice": "₺439,00"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -68028,6 +68066,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752571324374,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1752531167390,
           "price": 0,
