@@ -16,7 +16,6 @@
 
   [愿景](#愿景)<br/>
   [特性](#特性)<br/>
-  [赞助商](#赞助商)<br/>
   [如何订阅](#如何订阅)<br/>
   &emsp;&emsp;[RSS](#rss)<br/>
   &emsp;&emsp;[Telegram](#telegram)<br/>
@@ -41,16 +40,6 @@
    * 钉钉
 * 自动根据付费排行榜更新跟踪应用
 * 开源免费，欢迎贡献
-
-
-# 赞助商
-
-
-<div align="center">
-  <a href="https://cdn.jsdelivr.net/gh/appstore-discounts/appstore-discounts@refs/heads/main/docs/src/readme/Sponsors/sponsors_zh-CN.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/refs/heads/main/docs/src/readme/Sponsors/sponsors_zh-CN.svg" alt="赞助商" />
-  </a>
-</div>
 
 
 # 如何订阅
@@ -79,7 +68,7 @@
 2. 更新跟踪应用列表
 3. 获取应用最新价格信息
    1. 通过 [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) 获取应用详细信息和 `应用本体` 的价格
-   2. 解析应用详情链接获取 `App 内购买项目` 的价格（由 [Scrapeless](https://www.scrapeless.com/en "Scrapeless - Effortless Web Scraping Toolkit for Business and Developers") 提供数据抓取能力）
+   2. 解析应用详情链接获取 `App 内购买项目` 的价格
 4. 读取已存储价格信息
 5. 计算折扣信息
 6. 更新最新价格信息

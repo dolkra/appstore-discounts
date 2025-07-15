@@ -16,7 +16,6 @@ English | [简体中文](https://github.com/appstore-discounts/appstore-discount
 
   [Vision](#vision)<br/>
   [Features](#features)<br/>
-  [Sponsors](#sponsors)<br/>
   [How to Subscribe](#how-to-subscribe)<br/>
   &emsp;&emsp;[RSS](#rss)<br/>
   &emsp;&emsp;[Telegram](#telegram)<br/>
@@ -43,16 +42,6 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
 * Open source for free, welcome to contribute
 
 
-# Sponsors
-
-
-<div align="center">
-  <a href="https://cdn.jsdelivr.net/gh/appstore-discounts/appstore-discounts@refs/heads/main/docs/src/readme/Sponsors/sponsors.svg" target="_blank">
-    <img src="https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/refs/heads/main/docs/src/readme/Sponsors/sponsors.svg" alt="Sponsors" />
-  </a>
-</div>
-
-
 # How to Subscribe
 
 ## RSS
@@ -76,7 +65,7 @@ This project automatically executes the following process based on  `GitHub Acti
 2. Update the tracking app list
 3. Get the latest price information for apps
    1. Get app details and the price of  `App`  through  [iTunes Search API](https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/iTuneSearchAPI/Searching.html#//apple_ref/doc/uid/TP40017632-CH5-SW1) 
-   2. Resolve the app details link to get the price of  `In-App Purchases` （Data scraping powered by [Scrapeless](https://www.scrapeless.com/en "Scrapeless - Effortless Web Scraping Toolkit for Business and Developers") ）
+   2. Resolve the app details link to get the price of  `In-App Purchases` 
 4. Read stored price information
 5. Calculate discount information
 6. Update the latest price information
