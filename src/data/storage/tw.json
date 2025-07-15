@@ -26931,8 +26931,8 @@
   "908905093": {
     "name": "Lumy",
     "maxPriceInfo": {
-      "price": 95,
-      "formattedPrice": "$95.00",
+      "price": 220,
+      "formattedPrice": "$220.00",
       "All the Light": "$320.00",
       "More Light": "$120.00",
       "A Little Light": "$30.00",
@@ -26951,6 +26951,18 @@
       "A Little Light (Small Tip)": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752613898830,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "All the Light (Huge Tip)": "$320.00",
+            "More Light (Medium Tip)": "$120.00",
+            "A Little Light (Small Tip)": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749020546587,
@@ -71231,6 +71243,25 @@
       "命運神殿禮包263": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752613898830,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "女神祈禱好禮272": "$320.00",
+            "特權禮包271": "$320.00",
+            "女神幸運禮包270": "$490.00",
+            "女神祈禱好禮269": "$220.00",
+            "鑽石優惠禮包268": "$390.00",
+            "命運神殿禮包267": "$90.00",
+            "命運神殿禮包266": "$590.00",
+            "女神幸運禮包265": "$390.00",
+            "鑽石優惠禮包264": "$190.00",
+            "命運神殿禮包263": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752358303227,

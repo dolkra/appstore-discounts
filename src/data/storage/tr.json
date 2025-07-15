@@ -21503,8 +21503,8 @@
   "908905093": {
     "name": "Lumy",
     "maxPriceInfo": {
-      "price": 119.99,
-      "formattedPrice": "₺119,99",
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
       "All the Light": "₺449,99",
       "More Light": "₺179,99",
       "A Little Light": "₺39,99",
@@ -21523,6 +21523,18 @@
       "A Little Light (Small Tip)": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752613898830,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "All the Light (Huge Tip)": "₺449,99",
+            "More Light (Medium Tip)": "₺179,99",
+            "A Little Light (Small Tip)": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749016994356,
