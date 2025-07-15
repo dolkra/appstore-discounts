@@ -43347,14 +43347,22 @@
   "1423585518": {
     "name": "Roman: budget weight loss",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "₺2,99"
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -70946,7 +70954,7 @@
     ]
   },
   "6445875391": {
-    "name": "叶分贝-噪音分贝检测",
+    "name": "Tomi dB:Sound Decibel Meter",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99"

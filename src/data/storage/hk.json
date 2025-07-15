@@ -14551,9 +14551,19 @@
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00",
-      "網絡版訂閱": "HK$ 213.00"
+      "網絡版訂閱": "HK$ 23.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "網絡版訂閱": "HK$ 23.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746766943792,
@@ -30439,6 +30449,20 @@
     "history": [
       [
         {
+          "timestamp": 1752588818148,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "60,000資金": "HK$ 88.00",
+            "700,000資金": "HK$ 688.00",
+            "325,000資金": "HK$ 368.00",
+            "25,000資金": "HK$ 32.00",
+            "125,000資金": "HK$ 148.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751465572280,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -43999,6 +44023,14 @@
     "history": [
       [
         {
+          "timestamp": 1752588818148,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751379155083,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -54510,6 +54542,14 @@
     "history": [
       [
         {
+          "timestamp": 1752588818148,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751379155083,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -55563,6 +55603,14 @@
       "formattedPrice": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 55,
+          "formattedPrice": "HK$ 55.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751465572280,
@@ -71743,6 +71791,18 @@
     "history": [
       [
         {
+          "timestamp": 1752588818148,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "SkySafari Premium": "HK$ 228.00",
+            "PGC Galaxy Database": "HK$ 0.00",
+            "GAIA Star Database": "HK$ 0.00",
+            "SkySafari Premium Monthly": "HK$ 33.00",
+            "Apollo Lunar Missions": "HK$ 0.00"
+          }
+        },
+        {
           "timestamp": 1752524094626,
           "price": 388,
           "formattedPrice": "HK$ 388.00",
@@ -76623,10 +76683,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -76648,6 +76716,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751379155083,
@@ -76914,6 +76990,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751379155083,
@@ -79430,10 +79514,18 @@
       "formattedPrice": "HK$ 48.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -89440,7 +89532,7 @@
     ]
   },
   "6445875391": {
-    "name": "叶分贝-噪音分贝检测",
+    "name": "湯米分貝:專業噪音分貝檢測儀",
     "maxPriceInfo": {
       "price": 2,
       "formattedPrice": "HK$ 2.00"
@@ -99234,14 +99326,22 @@
   "6478639011": {
     "name": "Subnautica",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "HK$ 68.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752588818148,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751973117115,

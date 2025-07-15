@@ -995,7 +995,7 @@ So far, we've covered `6` `Countries or Regions` and  `1223` `Apps` <br />Push n
 |236|6670469064|Automatic|❌|8號出口|8號出口|8號出口|The Exit 8|The Exit 8|
 |235|6447508479|Automatic|❌|暖雪|暖雪|❌|Warm Snow|Warm Snow|
 |234|6470958985|Automatic|❌|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|
-|233|6445875391|Automatic|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|叶分贝-噪音分贝检测|
+|233|6445875391|Automatic|叶分贝-噪音分贝检测|湯米分貝:專業噪音分貝檢測儀|湯米分貝:專業噪音分貝檢測儀|湯米分貝:專業噪音分貝檢測儀|Tomi dB:Sound Decibel Meter|Tomi dB:Sound Decibel Meter|
 |232|6443923265|Automatic|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|
 |231|6739839815|Automatic|❌|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|
 |230|6505052301|Automatic|❌|碧海蒼雲錄|碧海蒼雲錄|碧海蒼雲錄|❌|❌|
