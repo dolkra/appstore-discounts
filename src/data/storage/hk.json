@@ -1276,6 +1276,17 @@
     "history": [
       [
         {
+          "timestamp": 1752549885888,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "TuneIn Premium": "HK$ 618.00",
+            "TuneIn Premium Pro": "HK$ 548.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752156813775,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -98782,7 +98793,10 @@
       "Santa Claws Emoji Pack": "HK$ 8.00",
       "All Wrapped Up outfit": "HK$ 18.00",
       "Snow Globe Outfit": "HK$ 18.00",
-      "Mystic Mayhem Location": "HK$ 8.00"
+      "Mystic Mayhem Location": "HK$ 8.00",
+      "MysticMayhem Cauldron Creature": "HK$ 18.00",
+      "Mystic Mayhem Emoji Pack": "HK$ 18.00",
+      "Mystic Mayhem Card Back": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 32,
@@ -98796,9 +98810,31 @@
       "Santa Claws Emoji Pack": "HK$ 8.00",
       "All Wrapped Up outfit": "HK$ 18.00",
       "Snow Globe Outfit": "HK$ 18.00",
-      "Mystic Mayhem Location": "HK$ 8.00"
+      "Mystic Mayhem Location": "HK$ 8.00",
+      "MysticMayhem Cauldron Creature": "HK$ 18.00",
+      "Mystic Mayhem Emoji Pack": "HK$ 18.00",
+      "Mystic Mayhem Card Back": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752549885888,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "HK$ 8.00",
+            "Santa Claws Pack": "HK$ 32.00",
+            "Under the Tree location": "HK$ 18.00",
+            "Santa Claws Emoji Pack": "HK$ 8.00",
+            "All Wrapped Up outfit": "HK$ 18.00",
+            "Snow Globe Outfit": "HK$ 18.00",
+            "Mystic Mayhem Location": "HK$ 8.00",
+            "MysticMayhem Cauldron Creature": "HK$ 18.00",
+            "Mystic Mayhem Emoji Pack": "HK$ 18.00",
+            "Mystic Mayhem Card Back": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751922702030,
@@ -98921,6 +98957,16 @@
       "Diamonds": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752549885888,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752502453765,
