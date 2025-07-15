@@ -85567,14 +85567,24 @@
     "name": "GTA III – Definitive",
     "maxPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "$19.99"
+      "formattedPrice": "$19.99",
+      "Full Game Access": "$19.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Full Game Access": "$19.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1752603557514,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Full Game Access": "$19.99"
+          }
+        },
         {
           "timestamp": 1752571324374,
           "price": 19.99,

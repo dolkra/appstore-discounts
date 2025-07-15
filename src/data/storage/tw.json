@@ -79577,13 +79577,25 @@
     "name": "GTA III – Definitive",
     "maxPriceInfo": {
       "price": 690,
-      "formattedPrice": "$690.00"
+      "formattedPrice": "$690.00",
+      "完整版遊戲": "$600.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "完整版遊戲": "$600.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752603557514,
+          "price": 600,
+          "formattedPrice": "$600.00",
+          "inAppPurchases": {
+            "完整版遊戲": "$600.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752574457139,

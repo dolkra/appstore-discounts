@@ -68092,14 +68092,24 @@
     "name": "GTA III – Definitive",
     "maxPriceInfo": {
       "price": 899.99,
-      "formattedPrice": "₺899,99"
+      "formattedPrice": "₺899,99",
+      "Full Game Access": "₺439,00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Full Game Access": "₺439,00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752603557514,
+          "price": 439,
+          "formattedPrice": "₺439,00",
+          "inAppPurchases": {
+            "Full Game Access": "₺439,00"
+          }
+        },
         {
           "timestamp": 1752574457139,
           "price": 439,
