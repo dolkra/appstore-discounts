@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-07-16T12:49:16.371Z</updated>
+    <updated>2025-07-16T22:36:08.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-16T12:49:16.372Z</updated>
+        <updated>2025-07-16T22:36:08.507Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 16 Jul 2025 12:49:16 GMT</id>
+        <id>rankingcnWed, 16 Jul 2025 22:36:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-16T12:49:16.373Z</updated>
+        <updated>2025-07-16T22:36:08.508Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -95,6 +95,31 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id319295332">TuneIn Radio Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>TuneIn Premium Pro</i>：<b>2</b>
+              </li><li>
+                <i>TuneIn Premium</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
       </td>
       <td>
@@ -115,7 +140,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1133083101">实时天气Pro -国家天气预报&空气质量</a>
@@ -130,31 +155,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>专业天气VIP套餐</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id319295332">TuneIn Radio Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>TuneIn Premium Pro</i>：<b>1</b>
-              </li><li>
-                <i>TuneIn Premium</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -843,6 +843,23 @@ feedId:157007849019630592+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>40</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6740705851">手表变身器：时空驱动器 - iWatch发声器</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -1044,6 +1061,103 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TuneIn Radio Pro]]></title>
+        <id>TuneIn Radio Pro-cn-1752703995588</id>
+        <link href="https://apps.apple.com/cn/app/tunein-radio-pro/id319295332?uo=4"/>
+        <updated>2025-07-16T22:13:15.588Z</updated>
+        <summary type="html"><![CDATA[TuneIn Premium Pro: ¥728.00 → ¥498.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/tunein-radio-pro/id319295332?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/b2/ed/f9b2ed49-f921-e665-e6e3-4ada88debcca/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>TuneIn Premium Pro：</strong><span>¥728.00</span> → <b>
+  <strong>¥498.00</strong>
+</b><span>[¥498.00 ~ ¥728.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥68.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    TuneIn Premium：<b>¥518.00</b>
+  </li><li>
+    TuneIn Premium Pro：<b>¥498.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  体育电台音乐电台新闻电台谈话电台
+
+TuneIn是真实的广播电台，集全世界最全的体育、新闻、音乐和谈话电台。
+
+只需动动手指，即可访问世界上最大的实时、点播和原创音频库，聆听最重要的讯息，发现那些动人的瞬间。
+
+通过体育实况、独家音乐频道、最具时效性的新闻、全球超过 570 万个播客和超过 100,000 个广播电台，随时拨动您的神经。
+
+TuneIn Premium 用户可以收听 NHL、Fox News Radio 的无广告新闻，以及各种不间断的无广告音乐电台。
+
+下载 TuneIn 的 5 大理由：
+
+1.不会错过任何一场体育赛事，
+在工作、居家、健身以及赶路时，皆可收听。实时收听和点播每一场 MLB 和 NHL 赛事报道以及体育漫谈– ，随时随地进入体育世界。
+
+2.海量音乐
+这里不仅仅有著名 DJ、时尚先锋和特邀嘉宾策划的独家音乐电台。发现每个流派的最佳新歌和艺术家，以及您最喜欢的所有歌曲和艺术家。
+
+3.视角独特的爆炸性新闻
+收听地方、全国以及全球 24 小时实时新闻播报。通过 TuneIn Premium 收听完全没有广告的 Fox News。
+
+4.所有您喜爱的播客
+从高居榜首的节目到新发现的优秀节目，让自己沉浸在谈话类节目中。关注经典节目，探索最受欢迎的热门歌曲，如 The Rachel Maddow 的 Bag Man、The Joe Rogan Experience 和 The Economist。
+
+5.世界上最强大的电台
+您的调频收音机望尘莫及！播放世界各地的 100,000+ AM、FM 和网络电台的节目。目前流行于 [ ]:[ ]。
+
+不仅仅是在iPhone 上大行其道
+TuneIn 可以在 200 个平台和设备上免费使用。在健身时，通过 Apple Watch 播放音乐。点击 TuneIn for CarPlay ，在驾车回家的路上对接车载系统。通过 Google Home、Amazon Echo 和 Alexa 让播客常伴左右。
+
+
+升级到 TuneIn Premium ，获得最佳体验
+• 无广告音乐
+• 无广告新闻
+• 当日最佳播客
+• 100,000 个电台
+
+
+通过应用程序订阅 TuneIn Radio Premium。如果您选择订阅，将根据您所在的国家/地区按月收取订阅费。订阅费将显示在应用程序中，直至完成付款。每月将会按照实时的订阅费进行自动续订，除非提前 24 小时关闭自动续订。系统将会在当前订阅期结束时，提前24小时通过您的 iTunes 帐户自动扣费。订阅费将按月收取。通过 iTunes 帐户设置，可以随时关闭自动续订。
+
+隐私政策：http://tunein.com/policies/privacy/
+使用条款：http://tunein.com/policies/
+
+TuneIn 使用 Nielsen测量软件，帮助进行市场研究，如Nielsen的电视收视率。关于 Neilsen 产品的更多信息及您的隐私，欢迎访问http://www.nielsen.com/digitalprivacy for more information。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/bc/f1/c1/bcf1c174-19aa-af66-2550-09968b76e86f/5a3331bb-6c9f-4902-a2b3-77dcc9215a6f_CN_8_news.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b5/b5/e1/b5b5e12c-dbf9-82b9-75c0-db71db675f7e/625c32c6-b603-4c87-babb-4fe51497b1fe_CN_8_radio.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/12/e3/2d/12e32da3-b8f4-d5e8-73dd-9c96634c1df5/b62d8759-99bd-452a-a631-68532dfe1b50_CN_8_music.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/d7/44/f3/d744f39a-cd44-daab-671d-535184443930/ee5123e1-b9bd-44a6-a8b1-32d492b8cb53_ASO_TuneIn_iPhone8plus_07.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/6c/3c/296c3cbd-c251-3a9f-8f02-9246e5f04634/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/93/f5/56/93f5560a-9ec0-d3bb-61d2-bacbd6b1e95d/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/d4/92/9b/d4929b97-f9eb-f9a2-bb3f-66a4a4f43cde/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/05/f9/7e/05f97e61-b28f-bf26-393b-a9a4ff1a934d/pr_source.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/93/d9/e8/93d9e838-b302-3145-a1a6-cad6c350b6e6/pr_source.png/480x360bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[手表变身器：时空驱动器 - iWatch发声器]]></title>
+        <id>手表变身器：时空驱动器 - iWatch发声器-cn-1752703995588</id>
+        <link href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E5%8F%98%E8%BA%AB%E5%99%A8-%E6%97%B6%E7%A9%BA%E9%A9%B1%E5%8A%A8%E5%99%A8-iwatch%E5%8F%91%E5%A3%B0%E5%99%A8/id6740705851?uo=4"/>
+        <updated>2025-07-16T22:13:15.588Z</updated>
+        <summary type="html"><![CDATA[价格: ¥8.00 → ¥6.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E5%8F%98%E8%BA%AB%E5%99%A8-%E6%97%B6%E7%A9%BA%E9%A9%B1%E5%8A%A8%E5%99%A8-iwatch%E5%8F%91%E5%A3%B0%E5%99%A8/id6740705851?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/3b/83/8d3b83ef-ac51-7526-141a-80b1eb6ca46a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥6.00</b>
+</p><h2>应用描述</h2><p>
+  重温童年快乐时光，成为自己心中的超级英雄！
+
+小时候的动画片带给我们无限的幻想和美好的梦想——变身为超人迪迦，拯救世界；化身为蒙面骑士，与怪兽激斗；或者像龙珠悟空一样，发射强大的龟派气功，或者成为名侦探柯南，解密破案！这些记忆，直到今天依然深深印在我们的心中。
+
+这款手表APP的灵感正是来自那些经典的童年动画片。我们希望让你重新体验那种变身的激动与快感，模拟成为你心中的英雄，无论是超人、龙珠中的悟空，还是蝙蝠侠和蜘蛛侠！在危难时刻，你也能像童年英雄一样，站出来拯救世界，消灭一切敌人！
+
+你还记得童年时那份信念吗？那份相信自己能变得强大的力量。现在，你可以通过这款APP再次感受到它——无论何时何地，只需轻轻一触，变身就在眼前。
+
+现在就下载HeroWatch 手表变身器，重温你的英雄梦！
+
+更多声效请在手表端查看。
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FILCA - SLR Film Camera]]></title>
@@ -1852,24 +1966,5 @@ The subscription period will automatically renew unless auto-renew is turned off
 Privacy Policy: www.mynetdiary.com/privacy.html
 Terms of Use: www.mynetdiary.com/terms.html
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/fa/97/77fa9799-510a-b8fa-8c6f-02bb6816e8cb/b6e679b3-ee7e-4575-8e1a-f3b3b9fa921a_Screen_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/d3/fb/05d3fbd0-1391-e2d9-64b3-7f9248d34126/70ed9fe0-d03d-4ff4-9a02-7cf7c9af602d_Screen_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/99/e1/f3/99e1f363-f0f9-0c8f-5456-38ee55fe92f9/96daa0f1-6b5e-46d1-afff-e96e947a349a_Screen_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/85/e8/bc/85e8bc5a-ec08-bb69-ff33-a8dc7d8d54b4/ff522954-5593-411e-8fef-230574cc533c_Screen_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/52/3a/c0523a87-51d7-e244-51ab-bff843147a4d/5314493e-674b-49b2-88c4-489ce0d7c9f7_Screen_05.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2f/6f/e0/2f6fe0d5-94fc-0e2b-229a-4b23555dd053/393405a5-1aad-49fd-9fa1-6f6aa8e05cea_Screen_06.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/e9/f3/10e9f314-c498-0dc4-42ad-8ee95d548994/99d376bd-5853-4149-9be8-3fc62a321424_Screen_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/68/48/81/684881b8-2805-2130-33f5-d5dc0d405994/7146ba39-1443-44e6-8c9e-20a48fbe5000_Screen_07.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/56/f4/a056f483-baea-b1f4-2c8e-088b6165b160/b7ceaa29-67a2-48f3-be17-2b6bb5702ab9_Screen_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/97/e2/f697e284-2117-e766-30f5-0d65ef1d60e0/f14ca282-cd3d-455e-8eec-f459d71f9ed1_Screen_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/e0/cc/4ae0cc83-f6dc-df8d-1fc2-a0deb24d6341/c7de4cda-f3e0-4cd4-a185-5158fd872988_Screen_01.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/b3/2e/0fb32e68-73b3-344d-14ce-7e578d30a804/8b26b7fc-2fe0-4e83-ae00-52d729805b39_Screen_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/3e/03/b73e0382-66eb-6acb-e8df-e04ea5f03f7c/2310293b-81f6-4d6b-a181-f111649ee94f_Screen_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/db/46/67db46ac-b64c-8518-011a-47dc80150667/7489bfc2-2625-46e6-9b00-e8c7f02c989d_Screen_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/42/03/06420381-c68a-6ecc-92cc-a66e8037f19f/d80a7aba-a78f-43ef-aa63-add41fdb7853_Screen_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/cb/f3/37cbf3d7-866f-3e1f-cf4a-517fced16a05/ab932558-1ea9-4e3c-a34f-0233a55b0768_Screen_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/91/2f/a6912fdb-ee72-6bdb-3cd7-97a0a1b44de9/87ba38fe-2c96-4aa7-85ab-217789b20140_Screen_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/56/ca/8c56caed-31d6-2d76-c80d-566fb6ef4c8a/763e548c-c583-4a8e-b5ec-4254c33d9b35_Screen_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/44/9c/4b/449c4bcb-90e8-2ed6-3771-79b24a9a7585/59ec4a73-a0ef-4e97-9708-5294a3d81201_Screen_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ce/93/60/ce936090-05a1-efac-d31a-4c68a3146454/1f9edcb4-c4a0-47c6-b037-220eb171d735_Screen_10.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能记(录音,备忘,流水)]]></title>
-        <id>全能记(录音,备忘,流水)-cn-1752415880748</id>
-        <link href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E8%AE%B0-%E5%BD%95%E9%9F%B3-%E5%A4%87%E5%BF%98-%E6%B5%81%E6%B0%B4/id1587301632?uo=4"/>
-        <updated>2025-07-13T14:11:20.748Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%85%A8%E8%83%BD%E8%AE%B0-%E5%BD%95%E9%9F%B3-%E5%A4%87%E5%BF%98-%E6%B5%81%E6%B0%B4/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥28.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  随时随地，将你想记录的文字，图片，视频，语音以及位置都得以妥善保存
-更有备忘提醒让繁忙的你无一错漏！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/cf/c9/78cfc91a-749b-6059-7753-91a5f18fa32a/808ab864-9f7e-461c-9376-5afabb2b32ff_8plus01cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/bb/72/8abb7218-bd3a-ccc9-b7dd-4f6935aaba0c/f1e2e929-0e38-499a-b257-84e86fda214d_8plus02cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ff/90/6bff9096-9ea9-e297-c474-81d547b496a6/668cabae-2249-40ec-8513-e2221fa3e9f9_8plus03cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/76/36/82763680-7c14-f4d3-261f-561fcf572289/35d443dc-757b-40ca-86d1-8ff86adb7bc8_8plus04cn.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
