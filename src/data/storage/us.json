@@ -4160,6 +4160,23 @@
     "history": [
       [
         {
+          "timestamp": 1752660862037,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99",
+            "Händel: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00"
+          }
+        },
+        {
           "timestamp": 1752643180839,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -48636,6 +48653,25 @@
     "history": [
       [
         {
+          "timestamp": 1752660862037,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "DLC \"The Card Game\"": "$3.99",
+            "Original Succession Package": "$17.99",
+            "Awakened Irea Package": "$4.99",
+            "Monster Succession": "$4.99",
+            "Dark Lord Boost Package": "$8.99",
+            "Awakening Viper Package": "$4.99",
+            "Dark Lord Awakening Complete": "$26.99",
+            "Original Lord Complete Package": "$26.99",
+            "Adventure Master Package": "$44.99",
+            "Torture Master Package": "$22.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752195865603,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -62784,7 +62820,9 @@
       "Flash Sale Soul 2": "$2.99",
       "BundleSupporter Crystal 1": "$9.99",
       "Piggy Bank 10": "$9.99",
-      "First Purchase: Magic Package": "$4.99"
+      "First Purchase: Magic Package": "$4.99",
+      "Flash Sale Square Rune 1": "$2.99",
+      "Flash Sale Square Rune 2": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -62816,9 +62854,30 @@
       "Flash Sale Soul 2": "$2.99",
       "BundleSupporter Crystal 1": "$9.99",
       "Piggy Bank 10": "$9.99",
-      "First Purchase: Magic Package": "$4.99"
+      "First Purchase: Magic Package": "$4.99",
+      "Flash Sale Square Rune 1": "$2.99",
+      "Flash Sale Square Rune 2": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752660862037,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "First Purchase: Legendary Pack": "$9.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Piggy Bank": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Flash Sale Square Rune 1": "$2.99",
+            "Crystal Piggy Bank 5": "$4.99",
+            "Flash Sale Legendary Essence 1": "$4.99",
+            "Flash Sale Square Rune 2": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751811032625,
@@ -69018,6 +69077,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752660862037,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750918750455,
@@ -91926,6 +91993,25 @@
       "フルーツパーラー": "$1.19"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752660862037,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Sunset beach": "$1.19",
+            "2025春さくらスキン": "$0.49",
+            "ネオンシティ": "$1.79",
+            "New Year's Sunrise": "$1.79",
+            "Fireworks display": "$1.79",
+            "Halloween Party": "$1.79",
+            "オーロラプール": "$1.19",
+            "夏色クリームソーダ": "$1.19",
+            "2025春いちごスキン": "$0.49",
+            "Moonlight and Lanterns": "$1.19"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752553984436,
