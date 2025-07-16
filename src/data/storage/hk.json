@@ -12941,6 +12941,25 @@
     "history": [
       [
         {
+          "timestamp": 1752668809857,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "遺跡探險組合包": "HK$ 8.00",
+            "大富翁 4 fun 天使帝國組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 夢幻精靈島組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 古文明組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 妖怪村組合包": "HK$ 8.00",
+            "大富翁 4 fun 海底世界組合包": "HK$ 8.00",
+            "大富翁 4 fun 寶藏島組合包": "HK$ 8.00",
+            "大富翁 4 fun 水上世界組合包": "HK$ 8.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "HK$ 8.00",
+            "大富翁4 Fun夏日組合包": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752035278970,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -25232,6 +25251,24 @@
     "history": [
       [
         {
+          "timestamp": 1752668809857,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "森日豪華禮包": "HK$ 148.00",
+            "森日精選禮包": "HK$ 98.00",
+            "Elite Package": "HK$ 88.00",
+            "Supreme Package": "HK$ 38.00",
+            "Advanced Package": "HK$ 22.00",
+            "Starter Package": "HK$ 8.00",
+            "年訂閱": "HK$ 330.00",
+            "月訂閱（早鳥）": "HK$ 35.00",
+            "年訂閱（早鳥）": "HK$ 200.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750436126048,
           "price": 0,
           "formattedPrice": "免費",
@@ -26507,6 +26544,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752668809857,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Big Hero Pack 3": "HK$ 118.00",
+            "一倉庫寶石": "HK$ 388.00",
+            "一車寶石": "HK$ 148.00",
+            "一箱寶石": "HK$ 88.00",
+            "一桶寶石": "HK$ 38.00",
+            "一袋寶石": "HK$ 22.00",
+            "威爾伯": "HK$ 58.00",
+            "怖鹿獅": "HK$ 38.00",
+            "凌 .": "HK$ 38.00",
+            "英雄包 9": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1752640336725,
           "price": 22,
@@ -27918,6 +27972,25 @@
       "Mia": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752668809857,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "HK$ 8.00",
+            "Large Coin Pack": "HK$ 22.00",
+            "Medium Coin Pack": "HK$ 18.00",
+            "Small Coin Pack": "HK$ 8.00",
+            "Pig": "HK$ 8.00",
+            "Dog": "HK$ 8.00",
+            "Rooster": "HK$ 8.00",
+            "Monkey": "HK$ 8.00",
+            "Goat": "HK$ 8.00",
+            "Horse": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752035278970,
@@ -100154,6 +100227,37 @@
           "inAppPurchases": {
             "五朵金花": "HK$ 22.00",
             "不歸玄境": "HK$ 17.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6572283606": {
+    "name": "中医古籍名著大全（离线版）",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "奖励开发团队一只烤鸭": "HK$ 98.00",
+      "奖励开发小哥哥一个鸡腿": "HK$ 18.00",
+      "奖励开发小姐姐一杯奶茶": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "奖励开发团队一只烤鸭": "HK$ 98.00",
+      "奖励开发小哥哥一个鸡腿": "HK$ 18.00",
+      "奖励开发小姐姐一杯奶茶": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752668809857,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "奖励开发团队一只烤鸭": "HK$ 98.00",
+            "奖励开发小哥哥一个鸡腿": "HK$ 18.00",
+            "奖励开发小姐姐一杯奶茶": "HK$ 22.00"
           }
         }
       ]

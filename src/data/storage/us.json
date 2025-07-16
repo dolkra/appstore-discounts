@@ -28756,6 +28756,25 @@
     "history": [
       [
         {
+          "timestamp": 1752668809857,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Free Checkpoints": "$0.99",
+            "Large Coin Pack": "$2.99",
+            "Medium Coin Pack": "$1.99",
+            "Small Coin Pack": "$0.99",
+            "Pig": "$0.99",
+            "Dog": "$0.99",
+            "Rooster": "$0.99",
+            "Monkey": "$0.99",
+            "Goat": "$0.99",
+            "Horse": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752401578672,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -105637,6 +105656,37 @@
         {
           "timestamp": 1752517177782,
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6572283606": {
+    "name": "中医古籍名著大全（离线版）",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "奖励开发团队一只烤鸭": "$12.99",
+      "奖励开发小哥哥一个鸡腿": "$1.99",
+      "奖励开发小姐姐一杯奶茶": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "奖励开发团队一只烤鸭": "$12.99",
+      "奖励开发小哥哥一个鸡腿": "$1.99",
+      "奖励开发小姐姐一杯奶茶": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752668809857,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "奖励开发团队一只烤鸭": "$12.99",
+            "奖励开发小哥哥一个鸡腿": "$1.99",
+            "奖励开发小姐姐一杯奶茶": "$2.99"
+          }
         }
       ]
     ]

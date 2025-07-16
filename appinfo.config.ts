@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6572283606,
+    name: {
+      mo: '中医古籍名著大全（离线版）',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6742472194,
     name: {
       hk: '鬼谷八荒 Tale of Immortal',
