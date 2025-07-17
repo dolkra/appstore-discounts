@@ -21292,6 +21292,25 @@
     "history": [
       [
         {
+          "timestamp": 1752743836968,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rowdy Night Out Bundle": "$14.99",
+            "Adults Only Bundle": "$9.99",
+            "Act it Out Bundle": "$8.99",
+            "Festival Fun Bundle": "$12.99",
+            "Around The World Bundle": "$8.99",
+            "Kids Family Bundle": "$9.99",
+            "Road Trip Bundle": "$9.99",
+            "Ice Breakers Bundle": "$6.99",
+            "Birthday Party Bundle": "$9.99",
+            "Wedding Party Bundle": "$12.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752582421110,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -48278,7 +48297,11 @@
       "Retro Frame Package": "$0.99",
       "Stamp Frame Package": "$0.99",
       "Design Frame Package": "$0.99",
-      "Stroke Frame Package": "$0.99"
+      "Stroke Frame Package": "$0.99",
+      "Social Frame Package": "$0.99",
+      "Magazine Frame Package": "$0.99",
+      "Black Frame Package": "$0.99",
+      "Layout Frame Package": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -48293,9 +48316,32 @@
       "Retro Frame Package": "$0.99",
       "Stamp Frame Package": "$0.99",
       "Design Frame Package": "$0.99",
-      "Stroke Frame Package": "$0.99"
+      "Stroke Frame Package": "$0.99",
+      "Social Frame Package": "$0.99",
+      "Magazine Frame Package": "$0.99",
+      "Black Frame Package": "$0.99",
+      "Layout Frame Package": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752743836968,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "$0.99",
+            "Social Frame Package": "$0.99",
+            "Magazine Frame Package": "$0.99",
+            "Black Frame Package": "$0.99",
+            "Layout Frame Package": "$0.99",
+            "Stamp Frame Package": "$0.99",
+            "Retro Frame Package": "$0.99",
+            "Stroke Frame Package": "$0.99",
+            "Color Frame Package": "$0.99",
+            "Upgrade Deluxe Edition": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752586294956,
@@ -86615,6 +86661,16 @@
     "history": [
       [
         {
+          "timestamp": 1752743836968,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game Access": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752603557514,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -105931,7 +105987,14 @@
       "Mystic Mayhem Card Back": "$0.99",
       "Kitchen Chaos Card Back": "$0.99",
       "Beach Day Card back": "$0.99",
-      "Slice of Heaven Outfit": "$1.99"
+      "Slice of Heaven Outfit": "$1.99",
+      "Santa Claws Card Back": "$0.99",
+      "Under the Tree location": "$1.99",
+      "Santa Claws Emoji Pack": "$0.99",
+      "All Wrapped Up outfit": "$1.99",
+      "Snow Globe Outfit": "$1.99",
+      "Mystic Mayhem Location": "$0.99",
+      "Mystic Mayhem Emoji Pack": "$1.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -105946,9 +106009,35 @@
       "Mystic Mayhem Card Back": "$0.99",
       "Kitchen Chaos Card Back": "$0.99",
       "Beach Day Card back": "$0.99",
-      "Slice of Heaven Outfit": "$1.99"
+      "Slice of Heaven Outfit": "$1.99",
+      "Santa Claws Card Back": "$0.99",
+      "Under the Tree location": "$1.99",
+      "Santa Claws Emoji Pack": "$0.99",
+      "All Wrapped Up outfit": "$1.99",
+      "Snow Globe Outfit": "$1.99",
+      "Mystic Mayhem Location": "$0.99",
+      "Mystic Mayhem Emoji Pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752743836968,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "$0.99",
+            "Santa Claws Pack": "$4.99",
+            "Under the Tree location": "$1.99",
+            "Santa Claws Emoji Pack": "$0.99",
+            "All Wrapped Up outfit": "$1.99",
+            "Snow Globe Outfit": "$1.99",
+            "Mystic Mayhem Location": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Emoji Pack": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752606759151,
