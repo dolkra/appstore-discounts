@@ -394,6 +394,7 @@ export const latestAppConfig: AppConfig[] = [
       tr: 'CASE No: 1937',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1507562429,
@@ -697,6 +698,7 @@ export const latestAppConfig: AppConfig[] = [
       mo: 'TuneIn Radio: Music & Sports',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6740482160,
@@ -908,14 +910,6 @@ export const latestAppConfig: AppConfig[] = [
     },
     addType: 'auto',
   },
-]
-
-/**
- * 分组1：如果单个数组元素量级过大，
- * ts会报错：表达式生成的联合类型过于复杂，无法表示。 ts(2590)
- * 因此这里将整个应用列表拆分多个数组，然后合并成一个数组
- */
-export const part1AppConfig: AppConfig[] = [
   {
     id: 1572719445,
     name: {
@@ -937,6 +931,14 @@ export const part1AppConfig: AppConfig[] = [
     },
     addType: 'auto',
   },
+]
+
+/**
+ * 分组1：如果单个数组元素量级过大，
+ * ts会报错：表达式生成的联合类型过于复杂，无法表示。 ts(2590)
+ * 因此这里将整个应用列表拆分多个数组，然后合并成一个数组
+ */
+export const part1AppConfig: AppConfig[] = [
   {
     id: 549027629,
     name: {
@@ -4149,6 +4151,7 @@ export const part1AppConfig: AppConfig[] = [
       hk: '王國保衛戰：起源 Kingdom Rush Origins',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 952625011,
@@ -7817,7 +7820,11 @@ export const part1AppConfig: AppConfig[] = [
   { id: 6446614518, name: '画中世界' },
   { id: 1159700098, name: ['去月球-To the Moon', { us: 'To the Moon' }] },
   { id: 1271620263, name: ['艾希 - ICEY', { us: 'ICEY' }] },
-  { id: 1361473095, name: ['Muse Dash 喵斯快跑', { us: 'Muse Dash' }] },
+  {
+    id: 1361473095,
+    name: ['Muse Dash 喵斯快跑', { us: 'Muse Dash' }],
+    allowNotification: false,
+  },
   { id: 6476010032, name: '拦截猫-垃圾短信电话拦截' },
   { id: 510249014, name: ['水平仪 HD', { us: 'Level HD.' }] },
   { id: 904237743, name: 'Things 3' },
@@ -7912,6 +7919,7 @@ export const part1AppConfig: AppConfig[] = [
       'Forest: Focus for Productivity',
       { cn: 'Forest 专注森林 - 番茄钟学习计时器' },
     ],
+    allowNotification: false,
   },
   { id: 1600873673, name: '炭炭背单词｜四六级考研等英语单词学习' },
   {
