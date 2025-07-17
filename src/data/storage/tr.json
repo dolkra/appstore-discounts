@@ -4808,6 +4808,19 @@
     "history": [
       [
         {
+          "timestamp": 1752740307644,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "8mm Pro": "₺119,99",
+            "Silent Film Theme": "₺0,00",
+            "Light Leak Theme": "₺0,00",
+            "Countdown Theme": "₺0,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749726662906,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -18193,6 +18206,34 @@
       ]
     ]
   },
+  "725234217": {
+    "name": "Rock Drum Machine",
+    "maxPriceInfo": {
+      "price": 799.99,
+      "formattedPrice": "₺799,99",
+      "John": "₺229,99",
+      "Mike": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 799.99,
+      "formattedPrice": "₺799,99",
+      "John": "₺229,99",
+      "Mike": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752740307644,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {
+            "John": "₺229,99",
+            "Mike": "₺229,99"
+          }
+        }
+      ]
+    ]
+  },
   "727544019": {
     "name": "Street Kart #1 Esports Game",
     "maxPriceInfo": {
@@ -27054,6 +27095,14 @@
       "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752740307644,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751357879850,

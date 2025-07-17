@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 725234217,
+    name: {
+      mo: 'Rock Drum Machine',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6572283606,
     name: {
       mo: '中医古籍名著大全（离线版）',
