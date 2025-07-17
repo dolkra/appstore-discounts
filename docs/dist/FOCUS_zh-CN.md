@@ -50,7 +50,7 @@
 |1183|6745006883|自动|健身模拟器|健身模擬器|健身模擬器|健身模擬器|GET YOKED|GET YOKED|
 |1182|1437211990|自动|❌|地下城與治療者 : Raid Manager|地下城與治療者 : Raid Manager|地下城與治療者 : Raid Manager|Raid Manager|Raid Manager|
 |1181|6747742701|自动|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|情感反诈模拟器-捞女游戏|
-|1180|6746683191|自动|❌|VAKA No: 1937|VAKA No: 1937|VAKA No: 1937|CASE No: 1937|CASE No: 1937|
+|1180| ~~6746683191~~ |自动| ~~❌~~ | ~~VAKA No: 1937~~ | ~~VAKA No: 1937~~ | ~~VAKA No: 1937~~ | ~~CASE No: 1937~~ | ~~CASE No: 1937~~ |
 |1179|1507562429|自动|❌|華夏人生|華夏人生|華夏人生|❌|❌|
 |1178|6745999173|自动|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|圆桌三国-三国休闲卡牌|
 |1177| ~~6746633753~~ |自动| ~~❌~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ | ~~❌~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ | ~~Yōkai Retreat SP Yin Yang-Sama~~ |
@@ -93,7 +93,7 @@
 |1140|1076450419|自动|汉语拼音字母表-学习中文普通话发音声调拼读基础入门教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|Chinese Pinyin: Learn Mandarin|Chinese Pinyin: Learn Mandarin|
 |1139|1490431826|自动|图片对比|图片对比|图片对比|图片对比|图片对比|图片对比|
 |1138|6747050164|自动|❌|BiR GüN DAHA|BiR GüN DAHA|BiR GüN DAHA|BiR GüN DAHA|BiR GüN DAHA|
-|1137|319295332|自动|TuneIn Radio Pro|TuneIn Radio: Music & Sports|TuneIn Radio: Music & Sports|TuneIn Radio: Music & Sports|TuneIn Radio: Music & Sports|TuneIn Radio: Music & Sports|
+|1137| ~~319295332~~ |自动| ~~TuneIn Radio Pro~~ | ~~TuneIn Radio: Music & Sports~~ | ~~TuneIn Radio: Music & Sports~~ | ~~TuneIn Radio: Music & Sports~~ | ~~TuneIn Radio: Music & Sports~~ | ~~TuneIn Radio: Music & Sports~~ |
 |1136|6740482160|自动|❌|《最終前哨: 終極版》|《最終前哨: 終極版》|《最終前哨: 終極版》|Final Outpost: Definitive|Final Outpost: Definitive|
 |1135|1322446531|自动|DAZZ FILM - 复古电影胶片相机|DAZZ FILM - Disposable Camera|DAZZ FILM - Disposable Camera|DAZZ FILM - Disposable Camera|DAZZ FILM - Disposable Camera|DAZZ FILM - Disposable Camera|
 |1134|1614740269|自动|答题王 - 百科知识问答题库|答题王 - 百科知识问答题库|答题王 - 百科知识问答题库|答题王 - 百科知识问答题库|答题王 - 百科知识问答题库|答题王 - 百科知识问答题库|
@@ -584,7 +584,7 @@
 |649|314192799|自动|❌|❌|❌|Acrobits Softphone|Acrobits Softphone|Acrobits Softphone|
 |648|466388978|自动|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|My Contacts Backup Pro|
 |647|512142109|自动|❌|Max Payne Mobile|Max Payne Mobile|Max Payne Mobile|Max Payne Mobile|Max Payne Mobile|
-|646|904737816|自动|❌|王國保衛戰：起源 Kingdom Rush Origins|王國保衛戰：起源 Kingdom Rush Origins|王國保衛戰：起源 Kingdom Rush Origins|Kingdom Rush Origins TD|Kingdom Rush Origins TD|
+|646| ~~904737816~~ |自动| ~~❌~~ | ~~王國保衛戰：起源 Kingdom Rush Origins~~ | ~~王國保衛戰：起源 Kingdom Rush Origins~~ | ~~王國保衛戰：起源 Kingdom Rush Origins~~ | ~~Kingdom Rush Origins TD~~ | ~~Kingdom Rush Origins TD~~ |
 |645|952625011|自动|每日精選-國家地理每日精選|每日精選-國家地理每日精選|每日精選-國家地理每日精選|每日精選-國家地理每日精選|❌|NG Daily|
 |644|958202096|自动|❌|❌|❌|❌|❌|Dukan Diet Classic|
 |643|1085978097|自动|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|Pythonista 3|
@@ -1124,7 +1124,7 @@
 |109|6446614518|手动|画中世界|❌|❌|❌|❌|❌|
 |108|1159700098|手动|去月球-To the Moon|去月球-To the Moon|去月球-To the Moon|去月球-To the Moon|To the Moon|To the Moon|
 |107|1271620263|手动|艾希 - ICEY|ICEY|ICEY|ICEY|ICEY|ICEY|
-|106|1361473095|手动|喵斯快跑|MuseDash|MuseDash|MuseDash|MuseDash|MuseDash|
+|106| ~~1361473095~~ |手动| ~~喵斯快跑~~ | ~~MuseDash~~ | ~~MuseDash~~ | ~~MuseDash~~ | ~~MuseDash~~ | ~~MuseDash~~ |
 |105|6476010032|手动|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|拦截猫-垃圾短信电话拦截|
 |104|510249014|手动|水平仪 HD|水準管 HD|水準管 HD|水準管 HD|Level HD.|Level HD.|
 |103|904237743|手动|Things 3|Things 3|Things 3|Things 3|Things 3|Things 3|
@@ -1168,7 +1168,7 @@
 |65|1164801111|手动|AutoSleep - 通过手表自动追踪睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep Track Sleep on Watch|AutoSleep Track Sleep on Watch|
 |64|1625289361|手动|空气投篮|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|
 |63|1261944766|手动|Alook浏览器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook瀏覽器 - 8倍速|Alook Browser - 8x Speed|Alook Browser - 8x Speed|
-|62|866450515|手动|Forest 专注森林 - 番茄钟学习计时器|Forest 專注森林 - 讀書專注番茄鐘|Forest 專注森林 - 讀書專注番茄鐘|Forest 專注森林 - 讀書專注番茄鐘|Forest: Focus for Productivity|Forest: Focus for Productivity|
+|62| ~~866450515~~ |手动| ~~Forest 专注森林 - 番茄钟学习计时器~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest: Focus for Productivity~~ | ~~Forest: Focus for Productivity~~ |
 |61|1600873673|手动|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|❌|❌|❌|
 |60| ~~388624839~~ |手动| ~~扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner + | OCR Scanner~~ | ~~CamScanner + | PDF Scanner~~ |
 |59|768160271|手动|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|
