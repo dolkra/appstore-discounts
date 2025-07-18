@@ -26014,6 +26014,25 @@
     "history": [
       [
         {
+          "timestamp": 1752819620167,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "$20 Credit": "$19.99",
+            "$5 Credit": "$5.49",
+            "$50 Credit": "$49.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "3 Mo. CAN Texting": "$5.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Global Texting": "$3.99",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. Global Texting": "$14.99",
+            "1 Mo. Fongo Plus": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752794021223,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -69466,9 +69485,21 @@
       "formattedPrice": "$0.39",
       "Small Pack": "$0.99",
       "Big pack": "$4.99",
-      "Medium pack": "$2.99"
+      "Medium pack": "$2.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752819620167,
+          "price": 0.39,
+          "formattedPrice": "$0.39",
+          "inAppPurchases": {
+            "Small Pack": "$0.99",
+            "Big pack": "$4.99",
+            "Medium pack": "$2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752463606919,
@@ -87125,6 +87156,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752819620167,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752031032488,

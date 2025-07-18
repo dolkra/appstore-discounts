@@ -68269,11 +68269,21 @@
       "price": 6,
       "formattedPrice": "HK$ 6.00",
       "Big pack": "HK$ 38.00",
-      "Medium pack": "HK$ 22.00",
+      "Medium pack": "HK$ 18.00",
       "Small Pack": "HK$ 2.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752819620167,
+          "price": 6,
+          "formattedPrice": "HK$ 6.00",
+          "inAppPurchases": {
+            "Big pack": "HK$ 38.00",
+            "Medium pack": "HK$ 18.00",
+            "Small Pack": "HK$ 2.00"
+          }
+        },
         {
           "timestamp": 1752816000462,
           "price": 6,
