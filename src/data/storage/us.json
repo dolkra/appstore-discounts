@@ -974,6 +974,25 @@
     "history": [
       [
         {
+          "timestamp": 1752823023914,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "1000 coins": "$0.99",
+            "10,000 coins": "$1.99",
+            "30,000 coins": "$2.99",
+            "1000 candies": "$0.99",
+            "500 eggs": "$0.99",
+            "10000 candies": "$2.99",
+            "5000 eggs": "$1.99",
+            "10,000 gold": "$0.99",
+            "100,000 gold": "$1.99",
+            "100,000 coins": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752726723409,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -4412,6 +4431,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752823023914,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99",
+            "Händel: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00"
+          }
+        },
         {
           "timestamp": 1752816000462,
           "price": 24.99,
@@ -26013,6 +26049,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752823023914,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. Global Texting": "$3.99",
+            "1 Mo. CAN Texting": "$2.79",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "12 Mo. CAN Texting": "$17.99"
+          }
+        },
         {
           "timestamp": 1752819620167,
           "price": 4.99,
@@ -69476,19 +69529,29 @@
     "maxPriceInfo": {
       "price": 0.59,
       "formattedPrice": "$0.59",
-      "Small Pack": "$0.99",
+      "Small Pack": "$1.00",
       "Big pack": "$4.99",
       "Medium pack": "$2.99"
     },
     "minPriceInfo": {
-      "price": 0.39,
-      "formattedPrice": "$0.39",
+      "price": 0.29,
+      "formattedPrice": "$0.29",
       "Small Pack": "$0.99",
       "Big pack": "$4.99",
       "Medium pack": "$2.29"
     },
     "history": [
       [
+        {
+          "timestamp": 1752823023914,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Small Pack": "$1.00",
+            "Big pack": "$4.99",
+            "Medium pack": "$2.29"
+          }
+        },
         {
           "timestamp": 1752819620167,
           "price": 0.39,
@@ -107126,6 +107189,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752823023914,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Kitchen Chaos Card Back": "$0.99",
+            "Slice of Heaven Outfit": "$1.99"
+          }
+        },
         {
           "timestamp": 1752813166053,
           "price": 4.99,

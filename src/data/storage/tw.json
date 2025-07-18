@@ -66645,14 +66645,24 @@
       "Medium pack": "$90.00"
     },
     "minPriceInfo": {
-      "price": 20,
-      "formattedPrice": "$20.00",
+      "price": 10,
+      "formattedPrice": "$10.00",
       "Small Pack": "$20.00",
       "Big pack": "$150.00",
       "Medium pack": "$90.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752823023914,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Small Pack": "$20.00",
+            "Big pack": "$150.00",
+            "Medium pack": "$90.00"
+          }
+        },
         {
           "timestamp": 1752813166053,
           "price": 39,
@@ -94357,6 +94367,25 @@
       "EC135": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752823023914,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 777-300ER": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "UH-60": "$30.00",
+            "Airbus A321": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752759118459,
