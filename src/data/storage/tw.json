@@ -66647,11 +66647,23 @@
     "minPriceInfo": {
       "price": 20,
       "formattedPrice": "$20.00",
-      "Small Pack": "$30.00",
+      "Small Pack": "$20.00",
       "Big pack": "$150.00",
       "Medium pack": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752813166053,
+          "price": 39,
+          "formattedPrice": "$39.00",
+          "inAppPurchases": {
+            "Small Pack": "$20.00",
+            "Big pack": "$150.00",
+            "Medium pack": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752415880748,
@@ -85670,6 +85682,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1752813166053,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "群雄爭霸": "$60.00",
+            "自創武將朝代特色兵種補丁": "$120.00",
+            "自創武將": "$120.00",
+            "無雙戰神": "$60.00",
+            "江山美人": "$60.00",
+            "巾幗綻芳華": "$60.00",
+            "終身版": "$220.00",
+            "自創地圖": "$120.00",
+            "楚漢爭霸": "$120.00",
+            "戰國七雄": "$120.00"
+          }
+        },
         {
           "timestamp": 1752790382507,
           "price": 0,
