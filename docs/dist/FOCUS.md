@@ -1117,7 +1117,7 @@ So far, we've covered `6` `Countries or Regions` and  `1227` `Apps` <br />Push n
 |118|6499125531|Manual|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|
 |117| ~~1485101937~~ |Manual| ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ | ~~Juice Watch~~ |
 |116|703265535|Manual|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|
-|115|6479307181|Manual|灵体侦测器: 能量、超自然感测雷达|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|Ghost Detector: Haunted Radar|Ghost Detector: Haunted Radar|
+|115|6479307181|Manual|灵体侦测器: 能量、超自然现象幽灵探测器器|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|Ghost Detector: Haunted Radar|Ghost Detector: Haunted Radar|
 |114| ~~488674899~~ |Manual| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~RAIN RADAR °- sky weather NOAA~~ | ~~RAIN RADAR ° live weather maps~~ |
 |113|1636719674|Manual|锁屏启动 - 万能桌面小组件&灵动岛一键快捷指令搜索直达扫码|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|鎖屏啟動 - 個人化桌面小工具＆靈動動畫，一鍵美化搜索直達|Lock Launcher - Screen Widgets|Lock Launcher - Screen Widgets|
 |112|1543163106|Manual|末剑二|❌|❌|❌|❌|❌|
