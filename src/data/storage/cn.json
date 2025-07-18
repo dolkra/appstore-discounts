@@ -2165,6 +2165,14 @@
     "history": [
       [
         {
+          "timestamp": 1752800719722,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "MyNetDiary Premium": "¥60.00"
+          }
+        },
+        {
           "timestamp": 1752772387203,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -13948,6 +13956,27 @@
             "Burrito for Seth": "¥58.00",
             "Coffee for Seth": "¥22.00"
           }
+        }
+      ]
+    ]
+  },
+  "612392704": {
+    "name": "VerbForms Português",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752800719722,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
         }
       ]
     ]
