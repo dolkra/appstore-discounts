@@ -94348,7 +94348,8 @@
       "ASK 21": "$30.00",
       "Boeing 737-900": "$60.00",
       "Boeing 737-800": "$90.00",
-      "EC135": "$30.00"
+      "EC135": "$30.00",
+      "Boeing 737": "$30.00"
     },
     "minPriceInfo": {
       "price": 120,
@@ -94374,10 +94375,28 @@
       "ASK 21": "$30.00",
       "Boeing 737-900": "$60.00",
       "Boeing 737-800": "$90.00",
-      "EC135": "$30.00"
+      "EC135": "$30.00",
+      "Boeing 737": "$30.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752833678141,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 12 months": "$390.00",
+            "Boeing 777-300ER": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737": "$30.00",
+            "UH-60": "$30.00"
+          }
+        },
         {
           "timestamp": 1752823023914,
           "price": 120,
