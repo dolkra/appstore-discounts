@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6746825550,
+    name: {
+      cn: 'SnapCameraPro - 全新好用的相机',
+    },
+    addType: 'auto',
+  },
+  {
     id: 612392704,
     name: {
       mo: 'VerbForms Português',
