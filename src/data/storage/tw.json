@@ -66647,12 +66647,22 @@
     "minPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
-      "Small Pack": "$20.00",
+      "Small Pack": "$10.00",
       "Big pack": "$150.00",
       "Medium pack": "$90.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752826682495,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Small Pack": "$10.00",
+            "Big pack": "$150.00",
+            "Medium pack": "$90.00"
+          }
+        },
         {
           "timestamp": 1752823023914,
           "price": 10,

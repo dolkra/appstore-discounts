@@ -11115,6 +11115,25 @@
     "history": [
       [
         {
+          "timestamp": 1752826682495,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Vehicles pack": "HK$ 88.00",
+            "Tools Pack": "HK$ 48.00",
+            "Scary Pack": "HK$ 88.00",
+            "Weapon Pack": "HK$ 48.00",
+            "Minecraft Pets Pack": "HK$ 88.00",
+            "Minecraft Morph Pack": "HK$ 48.00",
+            "Marketplace Pass Full": "HK$ 32.00",
+            "Marketplace Pass Trial": "HK$ 32.00",
+            "The Incredibles": "HK$ 58.00",
+            "Marketplace Pass w/trial": "HK$ 32.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752574457139,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -68263,17 +68282,27 @@
       "formattedPrice": "HK$ 6.00",
       "Big pack": "HK$ 38.00",
       "Medium pack": "HK$ 22.00",
-      "Small Pack": "HK$ 8.00"
+      "Small Pack": "HK$ 10.00"
     },
     "minPriceInfo": {
-      "price": 6,
-      "formattedPrice": "HK$ 6.00",
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
       "Big pack": "HK$ 38.00",
       "Medium pack": "HK$ 18.00",
       "Small Pack": "HK$ 2.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752826682495,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Big pack": "HK$ 38.00",
+            "Medium pack": "HK$ 18.00",
+            "Small Pack": "HK$ 10.00"
+          }
+        },
         {
           "timestamp": 1752819620167,
           "price": 6,
