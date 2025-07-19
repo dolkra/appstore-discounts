@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1573652748,
+    name: {
+      mo: 'shiftscreen 4X',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6746825550,
     name: {
       cn: 'SnapCameraPro - 全新好用的相机',

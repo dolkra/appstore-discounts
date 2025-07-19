@@ -28166,6 +28166,14 @@
     "history": [
       [
         {
+          "timestamp": 1752966858585,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "₺389,99"
+          }
+        },
+        {
           "timestamp": 1752963143739,
           "price": 0,
           "formattedPrice": "Free",
@@ -29678,6 +29686,20 @@
       "Parallels Desktop for Mac #3": "₺2.299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752966858585,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752437597764,
@@ -43971,6 +43993,20 @@
     "history": [
       [
         {
+          "timestamp": 1752966858585,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "Dawn of Heroes": "₺179,99",
+            "Feature DLC": "₺179,99",
+            "Art Upgrade Pack": "₺179,99",
+            "Heroes Assemble": "₺179,99",
+            "Treasures Editor": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1750979535544,
           "price": 179.99,
           "formattedPrice": "₺179,99",
@@ -57587,6 +57623,14 @@
     "history": [
       [
         {
+          "timestamp": 1752966858585,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752880363988,
           "price": 0,
           "formattedPrice": "Free",
@@ -61556,6 +61600,27 @@
             "Auction Expansion": "₺99,99",
             "Private Jet": "₺39,99"
           }
+        }
+      ]
+    ]
+  },
+  "1573652748": {
+    "name": "shiftscreen 4X",
+    "maxPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99"
+    },
+    "minPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752966858585,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
         }
       ]
     ]
