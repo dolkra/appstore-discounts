@@ -15432,6 +15432,25 @@
     "history": [
       [
         {
+          "timestamp": 1752919980814,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "$30.00",
+            "SLS 2022: Jacksonville": "$30.00",
+            "SLS 2021: World Championship": "$30.00",
+            "SLS 2019: Sao Paulo": "$30.00",
+            "SLS 2019: London": "$30.00",
+            "Sandbox 1 Year": "$760.00",
+            "Sandbox 3 Months": "$300.00",
+            "Sandbox Monthly": "$150.00",
+            "SLS 2018: World Championship": "$30.00",
+            "Mountain of Bolts": "$2,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752657501668,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -28614,7 +28633,8 @@
       "Joshua": "$30.00",
       "Lucy": "$30.00",
       "Mia": "$30.00",
-      "Rabbit": "$30.00"
+      "Rabbit": "$30.00",
+      "Rat": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -28644,10 +28664,28 @@
       "Joshua": "$30.00",
       "Lucy": "$30.00",
       "Mia": "$30.00",
-      "Rabbit": "$30.00"
+      "Rabbit": "$30.00",
+      "Rat": "$30.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1752919980814,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Unlock all stages": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Small Coin Pack": "$30.00",
+            "Atom": "$30.00",
+            "B.I.G.": "$30.00",
+            "Rat": "$30.00",
+            "Snake": "$30.00",
+            "Dragon": "$30.00",
+            "Rabbit": "$30.00"
+          }
+        },
         {
           "timestamp": 1752865887163,
           "price": 30,
