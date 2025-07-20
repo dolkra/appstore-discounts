@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6748287593,
+    name: {
+      mo: 'Bother Bin',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1573652748,
     name: {
       mo: 'shiftscreen 4X',

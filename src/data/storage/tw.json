@@ -6120,10 +6120,18 @@
       "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752982819338,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -47926,10 +47934,18 @@
       "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1752982819338,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751912271005,
@@ -102922,6 +102938,27 @@
             "奖励开发小哥哥一个鸡腿": "$60.00",
             "奖励开发小姐姐一杯奶茶": "$90.00"
           }
+        }
+      ]
+    ]
+  },
+  "6748287593": {
+    "name": "Bother Bin",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "$15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "$15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1752982819338,
+          "price": 15,
+          "formattedPrice": "$15.00",
+          "inAppPurchases": {}
         }
       ]
     ]
