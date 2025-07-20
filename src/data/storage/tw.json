@@ -67278,16 +67278,34 @@
       "formattedPrice": "$39.00",
       "Small Pack": "$30.00",
       "Big pack": "$150.00",
-      "Medium pack": "$90.00"
+      "Medium pack": "$90.00",
+      "+100 boosters ECO-Initiative!": "$10.00",
+      "+2026 boosters ECO-Initiative!": "$150.00",
+      "+444! Triple-Four Booster Pack": "$90.00"
     },
     "minPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
       "Small Pack": "$10.00",
       "Big pack": "$150.00",
-      "Medium pack": "$90.00"
+      "Medium pack": "$90.00",
+      "+100 boosters ECO-Initiative!": "$10.00",
+      "+2026 boosters ECO-Initiative!": "$150.00",
+      "+444! Triple-Four Booster Pack": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753009850157,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "+444! Triple-Four Booster Pack": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752826682495,
