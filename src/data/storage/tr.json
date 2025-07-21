@@ -40435,6 +40435,19 @@
     "history": [
       [
         {
+          "timestamp": 1753139583777,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "500 Tickets": "₺449,99",
+            "200 Tickets": "₺229,99",
+            "50 Tickets": "₺99,99",
+            "Golden Pass": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752214772253,
           "price": 0,
           "formattedPrice": "Free",
@@ -70350,6 +70363,14 @@
     "history": [
       [
         {
+          "timestamp": 1753139583777,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752819620167,
           "price": 0,
           "formattedPrice": "Free",
@@ -83512,14 +83533,25 @@
   "6742472194": {
     "name": "鬼谷八荒 Tale of Immortal",
     "maxPriceInfo": {
-      "Five Blooms": "₺129,99",
-      "Ground of No Return": "₺99,99"
+      "Five Blooms": "₺179,99",
+      "Ground of No Return": "₺129,99"
     },
     "minPriceInfo": {
       "Five Blooms": "₺129,99",
       "Ground of No Return": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753139583777,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Five Blooms": "₺179,99",
+            "Ground of No Return": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752534775579,
