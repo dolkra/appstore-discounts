@@ -35234,6 +35234,23 @@
     "history": [
       [
         {
+          "timestamp": 1753082450250,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Side Story Chapter 1": "$1.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Expansion Chapter B": "$1.99",
+            "Expansion Chapter H": "$1.99",
+            "Expansion Ch. U": "$1.99",
+            "Lanota 9th Anniversary Pass": "$3.99",
+            "Side Story Chapter 2": "$1.99",
+            "Expansion Chapter D": "$1.99"
+          }
+        },
+        {
           "timestamp": 1753078862517,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -95692,6 +95709,23 @@
     "history": [
       [
         {
+          "timestamp": 1753082450250,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "オーロラプール": "$1.19",
+            "ネオンシティ": "$1.79",
+            "2025春さくらスキン": "$0.49",
+            "2025春いちごスキン": "$0.49",
+            "Sunset beach": "$1.19",
+            "New Year's Sunrise": "$1.79",
+            "Fireworks display": "$1.79",
+            "夏色クリームソーダ": "$1.19",
+            "Moonlight and Lanterns": "$1.19",
+            "Halloween Party": "$1.79"
+          }
+        },
+        {
           "timestamp": 1753078862517,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -100987,7 +101021,8 @@
       "ASG29": "$0.99",
       "C90GTx": "$0.99",
       "F4U Corsair": "$0.99",
-      "Junkers Ju 52": "$0.99"
+      "Junkers Ju 52": "$0.99",
+      "Boeing 737-800": "$2.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -101014,9 +101049,29 @@
       "ASG29": "$0.99",
       "C90GTx": "$0.99",
       "F4U Corsair": "$0.99",
-      "Junkers Ju 52": "$0.99"
+      "Junkers Ju 52": "$0.99",
+      "Boeing 737-800": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753082450250,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 737-800": "$2.99",
+            "Boeing 737-900": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Global scenery - 3 months": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753028071856,
