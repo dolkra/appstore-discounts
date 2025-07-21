@@ -47154,6 +47154,19 @@
     "history": [
       [
         {
+          "timestamp": 1753107332123,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "500張 換購券": "HK$ 88.00",
+            "200張 換購券": "HK$ 38.00",
+            "50張 換購券": "HK$ 18.00",
+            "黃金認證": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752214772253,
           "price": 0,
           "formattedPrice": "免費",
@@ -102887,10 +102900,10 @@
   "6742472194": {
     "name": "鬼谷八荒 Tale of Immortal",
     "maxPriceInfo": {
-      "price": 52,
-      "formattedPrice": "HK$ 52.00",
-      "五朵金花": "HK$ 22.00",
-      "不歸玄境": "HK$ 17.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00",
+      "五朵金花": "HK$ 28.00",
+      "不歸玄境": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 52,
@@ -102899,6 +102912,17 @@
       "不歸玄境": "HK$ 17.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753107332123,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "五朵金花": "HK$ 28.00",
+            "不歸玄境": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752517177782,

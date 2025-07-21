@@ -36057,6 +36057,19 @@
     "history": [
       [
         {
+          "timestamp": 1753107332123,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "500張 換購券": "USD 9.99",
+            "200張 換購券": "USD 4.99",
+            "50張 換購券": "USD 1.99",
+            "黃金認證": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752214772253,
           "price": 0,
           "formattedPrice": "免費",
@@ -63018,6 +63031,14 @@
     "history": [
       [
         {
+          "timestamp": 1753107332123,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752823023914,
           "price": 0,
           "formattedPrice": "免費",
@@ -73078,8 +73099,8 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "USD 6.99",
-      "五朵金花": "USD 2.99",
-      "不歸玄境": "USD 1.99"
+      "五朵金花": "USD 3.99",
+      "不歸玄境": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -73088,6 +73109,17 @@
       "不歸玄境": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753107332123,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "五朵金花": "USD 3.99",
+            "不歸玄境": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752517177782,
