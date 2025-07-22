@@ -10067,15 +10067,22 @@
           "range": "[Free ~ $0.99]"
         }
       ]
-    },
+    }
+  ],
+  "tr": [
     {
+      "screenshotUrls": [],
+      "ipadScreenshotUrls": [],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/5b/9f/3f5b9fb7-dc3b-f550-01b9-e877b89f9eff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "isGameCenterEnabled": false,
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/tr/developer/wenxin-games/id1798608213?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/5b/9f/3f5b9fb7-dc3b-f550-01b9-e877b89f9eff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3f/5b/9f/3f5b9fb7-dc3b-f550-01b9-e877b89f9eff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
-        "iPhone5-iPhone5",
-        "iPadFourthGen-iPadFourthGen",
-        "iPadFourthGen4G-iPadFourthGen4G",
-        "iPhone5c-iPhone5c",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -10191,77 +10198,76 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "advisories": [],
+      "advisories": [
+        "Infrequent/Mild Mature/Suggestive Themes"
+      ],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/87/8f/26/878f26d8-3bfb-7b34-8457-68288ebf9b11/d2d74057-d441-42e8-8efc-fc79ddaac276_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.23.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a0/df/e0/a0dfe0e6-ee65-146e-fa6b-819f60802753/04c60d7d-3382-46a7-be27-745568d59417_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.28.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e9/22/08/e9220813-b1e3-0e01-e596-2f207d32bc2c/3707644c-d15d-4cff-9c12-93c679b14ecf_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.13.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/51/94/2c51948f-7ef9-3f30-232e-8891c994e540/a421d76e-fee2-44e6-92ba-ce1622cdb89c_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.43.34.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/60/ef/6160efb9-95e6-e0af-2031-2447d8c6f6a6/597bfdb4-ac27-4999-91a1-e6af596a1031_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.41.14.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/91/a7/c6/91a7c603-041c-b79b-add0-d131009c1e48/311e69c2-2197-4b8c-942a-5088f243807a_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2020-12-18_at_14.42.08.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/0d/21/a10d2125-4b9c-fd22-8da3-7b27244b65e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/0d/21/a10d2125-4b9c-fd22-8da3-7b27244b65e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a1/0d/21/a10d2125-4b9c-fd22-8da3-7b27244b65e1/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/%E5%AD%90%E6%B5%A9-%E5%BC%A0/id634469749?uo=4",
-      "minimumOsVersion": "10.1",
-      "artistId": 634469749,
-      "artistName": "子浩 张",
-      "genres": [
-        "Lifestyle",
-        "Utilities"
-      ],
-      "price": 0,
-      "primaryGenreName": "Lifestyle",
-      "primaryGenreId": 6012,
-      "bundleId": "com.zmouse.putwhere",
-      "sellerName": "子浩 张",
-      "releaseDate": "2020-12-21T08:00:00Z",
-      "trackId": 1538124245,
-      "trackName": "where I put it",
-      "currentVersionReleaseDate": "2021-07-29T15:07:41Z",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6012",
-        "6002"
-      ],
-      "releaseNotes": "fix ui bug",
-      "version": "1.0.2",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "A simple cleanup management app that will quickly find your search!\n\nDo you have trouble Looking for items?\n\nFind your item quickly with \"where I put it”!\n\nBuild a house, make furniture, assign lockers, and put all your belongings.\n\nBooks, important collections, hobby tools, children's toys, seasonal clothes, and items of recollections, the app will help you organize all things in the house.",
-      "averageUserRatingForCurrentVersion": 5,
-      "userRatingCountForCurrentVersion": 2,
-      "averageUserRating": 5,
-      "trackCensoredName": "where I put it",
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN",
-        "JA",
+        "KO",
+        "ZH",
         "ZH"
       ],
-      "fileSizeBytes": "7563264",
-      "formattedPrice": "Free",
-      "contentAdvisoryRating": "4+",
-      "trackViewUrl": "https://apps.apple.com/us/app/where-i-put-it/id1538124245?uo=4",
-      "trackContentRating": "4+",
-      "userRatingCount": 2,
-      "inAppPurchases": {},
-      "timestamp": 1752895064095,
+      "fileSizeBytes": "2214318080",
+      "formattedPrice": "₺299,99",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "17+",
+      "minimumOsVersion": "11.0",
+      "averageUserRating": 0,
+      "trackCensoredName": "鬼谷八荒 Tale of Immortal",
+      "trackViewUrl": "https://apps.apple.com/tr/app/%E9%AC%BC%E8%B0%B7%E5%85%AB%E8%8D%92-tale-of-immortal/id6742472194?uo=4",
+      "contentAdvisoryRating": "17+",
+      "artistId": 1798608213,
+      "artistName": "WENXIN Games",
+      "genres": [
+        "Games",
+        "Adventure",
+        "Role-Playing"
+      ],
+      "price": 299.99,
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "bundleId": "com.guigugame.guigubahuangoverseas",
+      "releaseDate": "2025-07-15T07:00:00Z",
+      "genreIds": [
+        "6014",
+        "7002",
+        "7014"
+      ],
+      "releaseNotes": "1. Resolved partial texture translation issues.  \n2. Addressed surname translation errors for generated Nether Demons.  \n3. Fixed texture issues during sect position promotions when the Elder position was vacant.  \n4. Fixed unclickable buttons for the Epiphany Book in English and Korean languages.  \n5. Optimized visual effects for certain UIs in English.  \n6. Fixed the bug preventing worship at the Immortal Shrine.  \n7. Corrected the \"DLC not purchased\" prompt text.\n8.Fixes issues where save files may become corrupted under certain circumstances.",
+      "trackId": 6742472194,
+      "trackName": "鬼谷八荒 Tale of Immortal",
+      "sellerName": "HKWENXINTECHNOLOGYLIMITED",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2025-07-21T10:30:43Z",
+      "version": "1.0005",
+      "wrapperType": "software",
+      "currency": "TRY",
+      "description": "Tale of Immortal is an open-world sandbox based on Chinese mythology and cultivation. You will grow to become immortal, conquer the beasts from the Classic of Mountains and Season, make your choices carefully and grasp your own destiny.\n【Ascend to the Top with Immortal Cultivation A Journey of a Lifetime】\nStep into the enchanting world of the Tale of Immortal, where cultivation is an art that requires more than just financial means and help from fellow cultivators. To truly master it, one must possess a deep understanding of the craft and have access to the right cultivation venues. But that's not all—the journey is fraught with danger, as you'll face unpredictable monsters, crisis-ridden mystic realms, insurmountable barriers, and brilliant treasures waiting to be discovered.\n【NPCs with a Life of Their Own AI-Driven Interactive Ecology】\nEmbrace a fully-realized NPC world, where each character is a unique entity with their own friends, family, and life trajectory— completely independent of your progress. However, if you choose to meddle, you certainly can!\n【Surprising Encounters Await Experience a Fascinating Story】\nAre you ready to embark on a thrilling adventure? One where you might become the hero who saves the day and wins the heart of the love of your life? Or maybe you're looking to stir up some jealousy in your crush and have them fight for your affection? How about fulfilling a fifty-year-old promise or getting caught up in the struggle of a mysterious organization? Perhaps you'll uncover a long-forgotten treasure, only to have it snatched away by a cunning adversary?\n【From Conquering the Territories to Uniting the World Building the Strongest Sect】\nDo you want to take your sect to new heights of power and glory? We've got the ultimate sect management gameplay that lets you experience the full range of sect life: from humble disciple to mighty sect master. Join a massive sect and work your way up from the bottom, or take on the challenge of leading a fallen sect back to prominence.\n【Martial Arts, Monsters, and Immortals Building Your Unique School】\nTo embark on an epic adventure, you need to hone your skills and become a true warrior.\n\nStart by building a solid foundation of cultivation. Your mind skills are crucial to success, so focus on cultivating a powerful mindset. From there, you can delve into martial and spiritual skills to take your abilities to the next level. As you explore, keep an eye out for opportunities to create edges with your motion and special skills. And don't forget to tap into your ultimate skills to save the day when necessary.\n【The Triad of Power Artifact, Alchemy, and Talismans】\nSharpen your skills and harness the power of tools!\n\nAt the start, you get to choose from three formidable weapons, each offering a distinct cultivation system. The Bagua Jade grants you the ability to revive yourself and your chosen ally, the Eye of Providence allows you to steal Beast Skills and gain unparalleled insights into the world, and the Mythical Gourd empowers you to capture a Boss and enlist it as your loyal sidekick: command it to fight by your side or to search for treasure on your behalf.",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "Five Blooms": "₺129,99",
+        "Ground of No Return": "₺99,99"
+      },
+      "timestamp": 1753154631952,
       "discounts": [
         {
-          "type": "price",
-          "name": "Price",
-          "from": "$0.99",
-          "to": "Free",
-          "range": "[Free ~ $0.99]"
+          "type": "inAppPurchase",
+          "name": "Five Blooms",
+          "from": "₺179,99",
+          "to": "₺129,99",
+          "range": "[₺129,99 ~ ₺179,99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "Ground of No Return",
+          "from": "₺129,99",
+          "to": "₺99,99",
+          "range": "[₺99,99 ~ ₺129,99]"
         }
       ]
-    }
-  ],
-  "tr": [
+    },
     {
       "isGameCenterEnabled": false,
       "screenshotUrls": [],
