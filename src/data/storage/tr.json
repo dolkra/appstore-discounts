@@ -73972,10 +73972,18 @@
       "formattedPrice": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753182714896,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
