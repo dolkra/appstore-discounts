@@ -43170,6 +43170,16 @@
     "history": [
       [
         {
+          "timestamp": 1753283680718,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753072611611,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -43705,7 +43715,7 @@
     "maxPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00",
-      "UPGRADE PRO VERSION": "¥398.00",
+      "UPGRADE PRO VERSION": "¥598.00",
       "KODAK SERIES FILM": "¥38.00",
       "FUJI SERIES FILM": "¥38.00",
       "RETRO SERIES FILM": "¥38.00",
@@ -43728,6 +43738,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753283680718,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "UPGRADE PRO VERSION": "¥598.00",
+            "KODAK SERIES FILM": "¥38.00",
+            "FUJI SERIES FILM": "¥38.00",
+            "RETRO SERIES FILM": "¥38.00",
+            "UPGRADE PRO": "¥298.00",
+            "WEDDING SERIES FILM": "¥38.00",
+            "IU SERIES FILM": "¥38.00",
+            "LOMO SERIES": "¥38.00"
+          }
+        },
         {
           "timestamp": 1753232832202,
           "price": 28,
