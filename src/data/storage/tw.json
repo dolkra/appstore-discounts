@@ -37835,6 +37835,19 @@
     "history": [
       [
         {
+          "timestamp": 1753277609211,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$2,490.00",
+            "Parallels Desktop for Mac #4": "$2,490.00",
+            "訂閱 (1 年)": "$2,490.00",
+            "Parallels Desktop for Mac #5": "$2,490.00",
+            "Parallels Desktop for Mac #3": "$2,490.00",
+            "Parallels Desktop for Mac #2": "$2,490.00"
+          }
+        },
+        {
           "timestamp": 1753273625932,
           "price": 0,
           "formattedPrice": "免費",
@@ -60833,7 +60846,8 @@
       "Silver Decree": "$1,490.00",
       "Bronze Decree": "$890.00",
       "Heroic Package#3": "$1,490.00",
-      "Suit Package": "$990.00"
+      "Suit Package": "$990.00",
+      "310 gems": "$150.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -60850,9 +60864,29 @@
       "Silver Decree": "$1,490.00",
       "Bronze Decree": "$890.00",
       "Heroic Package#3": "$1,490.00",
-      "Suit Package": "$990.00"
+      "Suit Package": "$990.00",
+      "310 gems": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753277609211,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "60 gems": "$30.00",
+            "Resource Package": "$90.00",
+            "Teammate Package": "$150.00",
+            "310 gems": "$150.00",
+            "Role Package III": "$320.00",
+            "Role Package": "$90.00",
+            "Heroic Package#1": "$320.00",
+            "Teammate Package#2": "$150.00",
+            "英雄礼包II": "$320.00",
+            "Gold Decree": "$2,990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753031447654,
@@ -94915,6 +94949,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753277609211,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "500'000 Coins": "$60.00",
+            "200'000 Coins": "$30.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "Versatile 4WD 620": "$60.00",
+            "Claas Xerion 5000": "$60.00",
+            "Case IH Speed-Tiller": "$30.00",
+            "Krone BiG M 450": "$60.00",
+            "John Deere 8R 410": "$60.00",
+            "Amazone CITAN 15001-C": "$30.00"
+          }
+        },
         {
           "timestamp": 1753201010559,
           "price": 220,
