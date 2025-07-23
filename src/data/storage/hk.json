@@ -33492,7 +33492,7 @@
       "支線第二章": "HK$ 32.00",
       "ULTRA BONK Hour 限時挑戰書": "HK$ 22.00",
       "Lanota 9週年 限時挑戰書": "HK$ 32.00",
-      "擴充章節 K": "HK$ 18.00"
+      "擴充章節 K": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -33524,6 +33524,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753280111305,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "基本方案（每月續訂）": "HK$ 8.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "擴充章節 U": "HK$ 32.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節H": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00",
+            "Lanota 9週年 限時挑戰書": "HK$ 32.00",
+            "擴充章節 R": "HK$ 32.00",
+            "擴充章節 K": "HK$ 32.00"
+          }
+        },
         {
           "timestamp": 1753232832202,
           "price": 8,
@@ -36017,10 +36034,18 @@
       "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747987381270,
@@ -47179,6 +47204,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748440944770,
@@ -66780,6 +66813,18 @@
     "history": [
       [
         {
+          "timestamp": 1753280111305,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身高級版": "HK$ 88.00",
+            "300次高精度海拔": "HK$ 32.00",
+            "100次高精度海拔查詢": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749370479379,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -74949,6 +74994,14 @@
     "history": [
       [
         {
+          "timestamp": 1753280111305,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752415880748,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -76148,6 +76201,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752848018953,
@@ -83424,6 +83485,14 @@
       "formattedPrice": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750774392637,

@@ -26918,6 +26918,23 @@
     "history": [
       [
         {
+          "timestamp": 1753280111305,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "支線第一章": "USD 3.99",
+            "白金方案（每月續訂）": "USD 4.49",
+            "擴充章節 U": "USD 3.99",
+            "白金方案（每三個月續訂）": "USD 12.49",
+            "擴充章節D": "USD 3.99",
+            "擴充章節B": "USD 3.99",
+            "擴充章節C": "USD 3.99",
+            "支線第二章": "USD 3.99",
+            "擴充章節 J": "USD 3.99",
+            "擴充章節H": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1753262352799,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -28562,10 +28579,18 @@
       "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747987381270,
@@ -36182,6 +36207,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748440944770,
@@ -48063,6 +48096,18 @@
     "history": [
       [
         {
+          "timestamp": 1753280111305,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "300次高精度海拔": "USD 3.99",
+            "100次高精度海拔查詢": "USD 2.99",
+            "終身高級版": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1749370479379,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -55772,6 +55817,14 @@
     "history": [
       [
         {
+          "timestamp": 1753280111305,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752415880748,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -56803,6 +56856,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752848018953,
@@ -62287,6 +62348,14 @@
       "formattedPrice": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753280111305,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750774392637,
