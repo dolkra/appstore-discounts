@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-22T11:34:17.185Z</updated>
+    <updated>2025-07-23T01:30:06.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-22T11:34:17.185Z</updated>
+        <updated>2025-07-23T01:30:06.624Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 22 Jul 2025 11:34:17 GMT</id>
+        <id>rankingusWed, 23 Jul 2025 01:30:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-22T11:34:17.185Z</updated>
+        <updated>2025-07-23T01:30:06.624Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1230</b>
+        <b>1232</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1029</b>
+        <b>1031</b>
       </td>
       <td>
         <b>38</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1127</b>
+        <b>1129</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>951</b>
+        <b>953</b>
       </td>
       <td>
         <b>33</b>
@@ -139,6 +139,29 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>4</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Data Level Beta</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <del>
           <a href="https://apps.apple.com/us/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
         </del>
@@ -155,7 +178,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <del>
@@ -174,7 +197,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
@@ -189,29 +212,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Learn to Drive Unlimited</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>3</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Data Level Beta</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -246,6 +246,29 @@ feedId:157008699750812672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Pro Tier 2</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id352247139">Calorie Counter PRO MyNetDiary</a>
       </td>
       <td>
@@ -266,7 +289,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
@@ -283,7 +306,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -300,7 +323,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479307181">Ghost Detector: Haunted Radar</a>
@@ -317,7 +340,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6468843723">GTA III – Definitive</a>
@@ -334,7 +357,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451376191">Dumb Phone: Minimal Launcher</a>
@@ -345,29 +368,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>14</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Pro Tier 2</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1772,6 +1772,222 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RadarScope]]></title>
+        <id>RadarScope-us-1753232832202</id>
+        <link href="https://apps.apple.com/us/app/radarscope/id288419283?uo=4"/>
+        <updated>2025-07-23T01:07:12.202Z</updated>
+        <summary type="html"><![CDATA[Pro Tier 2: $99.99 → $14.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/radarscope/id288419283?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8b/fc/56/8bfc56b0-de8b-3df3-d437-12ecc66801d2/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Pro Tier 2：</strong><span>$99.99</span> → <b>
+  <strong>$14.99</strong>
+</b><span>[$14.99 ~ $99.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$9.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Pro Tier 2：<b>$14.99</b>
+  </li><li>
+    Pro Tier 1：<b>$9.99</b>
+  </li><li>
+    RadarScope Pro Subscription：<b>$9.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  RadarScope is an AMS-award-winning weather visualization tool that empowers meteorologists, public safety officials, storm spotters, and weather enthusiasts to view a full suite of single-site radar data and related severe weather products. Your initial purchase provides professional radar visualization in a fully native app, free from distracting and invasive practices, with optional subscription packages to add even more capabilities.
+
+Whether you’re scanning for a mesocyclone’s tell-tale hook echo, pinpointing the landfall of a hurricane’s eye wall, or identifying velocity couplet, hail spike, or debris ball signatures, RadarScope displays native radar data in its original radial format. You see what the radar sees almost as soon as the radar sees it, with automatic updates every two to ten minutes depending on the radar’s scanning strategy.
+
+Your initial app purchase includes the following:
+
+• Full suite of single-site radar products for the US, Canada, Guam, Denmark, Finland, and Germany
+• 6-frame radar loops
+• Two built-in providers for radar data
+• Tornado, thunderstorm, flash flood, special marine, snow squall, and extreme wind warnings in the US
+• Selected severe weather warnings in Canada and Australia
+• NWS-generated storm tracks with hail, TVS, and mesocyclone attributes
+• Inspector and distance tools
+• Color palette options for radar data
+• AllisonHouse data plan integration
+• Spotter Network integration for storm and location reporting
+• mPING integration for submitting weather reports to NSSL
+• Bundled maps with political boundaries, water bodies, and major highways, optimized for low-bandwidth use
+• Support for widgets and complications
+• Universal app for Apple platforms, including Apple Watch and Apple TV
+• Family Sharing support
+
+RadarScope Pro Tier One is an optional annual subscription that adds more features for tracking severe weather:
+
+• 30-frame radar loops
+• Cloud-to-ground lightning strikes
+• Severe weather watches in the US and Canada
+• Special weather statements in the US and Canada
+• Mesoscale convective and precipitation discussions
+• SPC convective, tornado, hail, wind, and fire outlooks
+• WPC excessive rainfall outlooks in the US
+• Local storm reports in the US
+• Custom color palette support
+• Multi-pane display (2 on phones; 4 on larger devices)
+• Family Sharing support
+
+RadarScope Pro Tier Two is an optional annual or monthly subscription that transforms RadarScope into a more complete visualization tool for a larger suite of weather products, including:
+
+• Everything in Pro Tier One
+• 50-frame radar loops
+• A third provider for US radar data
+• NEXRAD Level II radar data for the US with a 30-year historical archive
+• Historical NEXRAD Level III, super-res, and non-US radar data with a 30-day archive
+• Historical NWS bulletins with a 19-year archive
+• GOES East and GOES West satellite products
+• NSSL’s Multi-Radar Multi-Sensor (MRMS) products
+• NCEP’s Real-Time Mesoscale Assimilation (RTMA) products
+• Surface observations
+• Atmospheric soundings in the US
+• Hail size, hail probability, and azimuthal shear contours with a 30-day archive
+• More detailed transportation and satellite imagery maps
+• Custom color palette support for GOES, MRMS, and RTMA
+• Server-sent events for radar and warning updates
+• Cross-platform subscription sharing on up to 5 devices
+• Family sharing support
+
+If you choose to buy a RadarScope Pro subscription, it will be charged to your App Store account. The subscription will be auto-renewed within 24 hours prior to the end of the current period at the same price you originally paid. Subscriptions may be managed and auto-renewal disabled via your App Store account settings after the purchase. Once purchased, the subscription cannot be canceled during the active subscription period.
+
+DTN is committed to safeguarding your privacy online. Our privacy policy is available for review at https://www.dtn.com/privacy-policy/
+
+Please visit our web site for more information.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/4a/fa/ab4afae8-b54c-2126-44b7-fc7e6f7b4117/612b49b8-dfe5-421a-a40c-558f50bde688_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/c7/ff/5cc7ffe5-125f-522b-0cd1-a9183efcc6d9/abc10a84-ca49-40e8-9eb7-727d8271c219_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/38/b1/8138b122-21d5-1d45-41fa-c489e644750a/310b46ff-11fc-44cb-8a38-e283b484af26_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/78/f5/b778f566-a6ca-edc4-9959-76480a354d39/c346c1a5-a2ec-441a-84bb-bd66f240580b_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/e3/84/c0e384c5-152e-f6f5-de12-8d7fbcb40196/88f8e77d-1290-4657-95de-791cac929e38_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/f5/41/a9f541aa-9770-959e-d878-b64bca761bcf/cd127d84-ea55-492a-b1c3-d6deaa848031_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/a0/89/3fa089e3-85cb-2fd1-7330-08f1cd91e45a/50ec7899-c74a-40d7-b93b-631412784af8_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/f1/9a/93f19a49-ff0c-d27a-f878-c035582c6763/cd366ced-2636-41de-9dcb-038226865e53_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/6e/b0/c56eb09b-3682-b3f9-9bf6-2273ff108379/c6810a57-5ed0-4ba0-988a-d4bb68a93466_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/09/bc/3909bc98-60c1-6427-fc9e-5e07ffaebe2f/48cd840b-4422-4dc4-9382-457919e6b0d3_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/71/f0/f571f0b9-94e1-f76e-e54b-5f56839606bd/ecfe811e-d7e0-485a-b641-88bdf5499e14_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/88/64/8b886468-c3e8-6f4b-7ead-21a2f484d668/be671848-cd70-4872-b745-9e3ec7968809_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/b0/7c/7ab07c6c-e018-43bd-b7ac-fe06a6fc0d68/c1cb58aa-6989-43ef-9b8c-3b92113befa8_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b8/f3/acb8f344-9f48-8a59-a580-b20deda4b223/18d4646f-71eb-4f5d-a863-30e1483e0a41_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/de/8520de87-7530-eb7e-ca0a-142a07a28853/a9bfa200-8b73-413e-bdf2-40045640fa0f_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/a1/46/0fa14649-3e81-a39f-584e-6e8afaf4e3fc/8f38906c-04e7-43cd-8d9e-879bdfa1cb31_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/24/cd/ea24cdaf-c5b6-989e-5410-ede496af2856/a4694527-0b84-4034-a551-f248f1418864_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/10/2c/e3102c6e-f089-30cc-d5aa-6b454874b2cb/a08bfcb1-0476-48d1-a104-7222ed4264f5_8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/be/cc/81becccf-6d3c-84fb-076a-a371d8060bab/68c5f44c-2db4-4dc7-a3a2-6eecfff704c9_9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/e9/bb/bbe9bbe4-6ec3-d984-5ff2-3b02ed6566d0/593d4c7e-f0f2-4dc3-8844-a6007964bf4e_10.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RadarOmega]]></title>
+        <id>RadarOmega-us-1753232832202</id>
+        <link href="https://apps.apple.com/us/app/radaromega/id1439881811?uo=4"/>
+        <updated>2025-07-23T01:07:12.202Z</updated>
+        <summary type="html"><![CDATA[Data Level Beta: $89.99 → $8.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/radaromega/id1439881811?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/10/93/a710933f-6d27-5051-35a4-14628eb59772/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Data Level Beta：</strong><span>$89.99</span> → <b>
+  <strong>$8.99</strong>
+</b><span>[$8.99 ~ $89.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$8.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Add-on RapidSweep：<b>$84.99</b>
+  </li><li>
+    RapidSweep：<b>$7.99</b>
+  </li><li>
+    Data Level Gamma：<b>$49.99</b>
+  </li><li>
+    Data Level Beta：<b>$8.99</b>
+  </li><li>
+    Data Level Alpha：<b>$119.99</b>
+  </li><li>
+    RadarOmega - Alpha Monthly：<b>$11.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Welcome to RadarOmega, the next-generation weather app that takes high-resolution weather data to a whole new level. More than just radar, RadarOmega provides unique data solutions for all types of weather data that are customizable depending on your needs, whether that's before, during, or after the storm.
+
+Dedicated to providing solutions to our industry, RadarOmega created an exclusive network of weather stations featuring live video and sensor data called cyclonePORT. RadarOmega and cyclonePORT work closely with universities, emergency managers, broadcast meteorologists, and more to provide solutions for relaying critical weather information when life-threatening weather situations are imminent.
+
+RadarOmega provides high-resolution radar data for the United States, Canada, Germany, Australia, and South Korea.
+
+Base Application
+-NEW Warning Display Dialog
+-NEW Hi-Res Storm Relative Velocity
+-MRMS Reflectivity
+-Hi-Res Single Site Radar Data
+-30 Frames of Data
+-7 Day Radar History
+-Lightning Detection/Animation
+-24 Hour Storm Reports
+-SPC Convective Outlooks & Watches
+-NHC Tropical Suite & Hurricane Hunter
+-WPC Excessive Rainfall Outlooks
+-Mesoscale Discussions (Severe, Winter, & Precip.)
+-CPC Temp. & Precip. Outlooks
+-Fire Weather Outlooks & Drought Monitor
+-WPC Winter Forecasts & WSSI
+-METARS
+-Real-Time NWS Storm-Based Warnings
+-Non-Precip Watches/Warnings for USA
+-Flash Animation & In-App Sound Alert for All Alerts
+-WPC Surface Analysis
+-Buoy Data & Tide Forecasts
+-NEXRAD Hail History
+-Spotter Network Locations
+-Power Outage Layer
+-Map Type Customization
+-Detailed City & Road Network
+-15 Custom Locations with a Linked RadarOmega Account
+-Drawing, Data Viewer, & Distance Tools
+-Storm Track Drawing Tool
+-Share Screenshot & Video
+-Push Notifications for All Storm-Based Watches/Warnings Using GPS Location
+-Access to cyclonePORT Network
+
+Gamma
+-Hi-Res Satellite Data
+-Lightning Detection/Animation, METARS, & GLM for Mesoscale & Storm-Based Satellite Sectors
+-National Digital Forecast Database
+-Access to Project MesoVort
+-75 Frames of Data
+-Dual View Radar with 30 Frames
+-Smoothing for Radar/Satellite
+-30 Day Radar History
+-6 Month Storm Report Archive
+-3D Radar/Satellite
+-Upload 3 Custom Color Tables
+-30 Custom Locations with Icon Upload
+-2 Custom Location Lists
+-Push Notifications Open to All Weather Alerts Using GPS Location ONLY (max of 8 at a time)
+
+Beta
+*Everything in Gamma PLUS*
+-MRMS Data
+-150 Frames of Data
+-Dual View Radar/Satellite with 50 Frames
+-Smoothing for MRMS
+-90 Day Radar History
+-5 Year Storm Report Archive
+-3D MRMS
+-Upload 8 Custom Color Tables
+-75 Custom Locations with Icon Upload
+-5 Custom Location Lists
+
+Alpha
+*Everything in Beta PLUS*
+-Volumetric Radar
+-Model Data with Contours for HRRR, NAM3KM, NAM12KM, RAP, GFS, ECMWF, HWRF, & HMON
+-250 Frames of Data
+-Dual View Radar/Satellite with 100 Frames
+-Quad View Radar/Satellite on iPad & Desktop with 50 Frames
+-Smoothing for Models
+-90 Day Radar History
+-10 Year Storm Report Archive
+-Upload 30 Custom Color Tables
+-150 Custom Locations with Icon Upload
+-10 Custom Location Lists
+-1 Site Lightning Monitoring with Custom Range Zones
+-Push Notifications Open to All Weather Alerts for up to 3 Custom Locations and GPS Locations (max of 8 at a time)
+
+Additional Add-Ons
+-Rapid Sweep
+
+Subscriptions are maintained through the iOS App Store. We will work with our customers however, refunds must be done through the iOS App Store. Please be sure to reach out to our support team if you have any problems, questions, or concerns.
+
+For Support- You can create a ticket and we will resolve it as soon as possible:
+https://radaromegawx.supportbee.io/portal/sign_in
+
+See our Terms of Service below:
+https://www.radaromega.com/terms.php
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/a0/b1/cba0b148-9eaa-9a47-da9e-45d65bf7f816/e90191d7-7579-4f97-8bfd-9766293668dc_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/3d/96/ca3d9672-ea03-a549-81eb-a3a6a602ee88/da406343-067f-4559-86a2-7927d1809130_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/f0/10/71f010a6-d7b4-e7b3-9ef0-a2a97077b553/5eccabd1-e9d3-4d76-94e7-aa2cc08b9a60_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/ff/bc/dbffbc1d-e9b3-9910-fe8a-36c37b06e19a/9ae6876e-5ffa-43ec-bfb0-1fda0f6d9b69_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/44/ff/2e44ff71-dfc9-56df-bcd1-fc1702f8dfed/d2042b4e-4ae3-43e3-91ee-6f2cb1a507c9_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/e0/06/56e00608-00c9-1dbb-f18d-fc53baf1577d/6b28007c-3fb2-4b27-8686-482ef5d01c5b_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/c2/38/e3c23878-cb09-deb5-d6bd-8492932eca3c/c458a94d-17b0-410c-87d6-a66810dd3f60_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3e/0f/4b3e0f16-79b8-6bd4-4317-48c776cd4225/dd21e4ef-3e7e-4b38-8f09-f8e278e48919_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/6c/d5/676cd5a6-019e-3d14-9ad5-93c60518dc66/ae0d43d9-a4e7-4aaf-a434-694c89b151bd_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/ca/4e/7aca4e26-9a12-1fe5-7126-1f3cf9eb7949/97f989e6-c0c8-4e71-b0cc-b8ddd01786b2_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/16/2c/31162ccb-ccf6-47dd-752b-17c8dc3dea04/36ee86ec-f1d9-4297-92e0-ea0df446ebaf_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d3/39/16d339aa-355e-32f4-2144-44f8cc394f43/a095cb5b-1b11-4042-b079-96c4f095ee72_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/48/23/a4482390-6e52-d697-2f8b-b219fbaba96b/f64d266f-6959-4086-b513-d2e0b3609688_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/dc/13/1bdc1340-f3f4-0637-4cd5-0bc4504d1a98/1f2f55fc-78e7-4a27-9c39-a08ae43d070c_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/67/ac/c267ac67-12c5-2359-e57c-972a406a865f/99606828-9d64-44be-a1d6-51a2638b0c81_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/55/36/4a5536b3-de9d-eab5-8266-1a1647a5f3d1/db65b030-4d42-4b69-9d8e-eac580537315_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/c2/c4/f5c2c44d-809a-8d92-c927-842913995d07/9c87fca9-56e7-4b89-94fb-d19fd72acc73_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/90/94/19909454-1871-744d-963b-9bbc9d3e3ae8/156ccf19-a0cc-4c0e-ad35-0ae251229ba9_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f4/c3/7a/f4c37ad2-6776-603f-92ea-ade50e56d900/f986356f-c6bf-4f2f-9391-237286b6245f_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d1/d5/16d1d58c-efd2-0f48-aed0-f14081c2830b/0cd5bf19-cf98-4432-8cb4-fa4036826240_10.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[RogueVana]]></title>
         <id>RogueVana-us-1753182714896</id>
         <link href="https://apps.apple.com/us/app/roguevana/id6739839815?uo=4"/>
@@ -2092,295 +2308,5 @@ There can only be one #1! Do you have what it takes?
 
 Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp. Be sure to check out both our free-to-play and our paid games!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e7/44/e8/e744e857-d322-5c23-ab4a-e018d40c9da8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/57/48/0b/57480b49-248c-be65-e365-2715ae55bccb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/41/27/56/412756f6-30a5-0678-ea95-3b80902657bf/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/62/15/6e621534-9fd6-9b42-d344-a49affb23131/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/25/9f/ca/259fca2a-e26e-2f88-7e05-8a8ea975e791/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/cb/51/6c/cb516c4f-6636-91d8-250c-e9ac81da853a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/95/b3/91/95b3911f-4513-dca2-aaa1-ffddb7eca550/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0f/bf/ae/0fbfae61-7adc-c012-7a74-c10a96fcbb82/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b4/f8/a8/b4f8a889-9b9b-f51c-9c8b-f5c2af1c18da/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/c9/f4/12c9f48c-2410-161d-b294-efbe77d07fb3/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8mm Vintage Camera]]></title>
-        <id>8mm Vintage Camera-us-1752966858585</id>
-        <link href="https://apps.apple.com/us/app/8mm-vintage-camera/id406541444?uo=4"/>
-        <updated>2025-07-19T23:14:18.585Z</updated>
-        <summary type="html"><![CDATA[8mm Pro: $39.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/8mm-vintage-camera/id406541444?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/bc/0d/b1bc0df2-7e01-6902-90e9-417ac288b2eb/AppIcon-0-0-1x_U007emarketing-0-5-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>8mm Pro：</strong><span>$39.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $39.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$3.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    8mm Pro：<b>$9.99</b>
-  </li><li>
-    Silent Film Theme：<b>$0.00</b>
-  </li><li>
-    Light Leak Theme：<b>$0.00</b>
-  </li><li>
-    Countdown Theme：<b>$0.00</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  8mm is so realistic it was even used to film scenes in the Oscar-winning documentary Searching for Sugar Man!
-
-We have established the de facto standard of real-time retro film emulation. It was featured by Apple in App of the Day, App of the Week, In the Director's Chair, App Store Essentials, etc.
-
-8mm Vintage Camera captures the beauty and magic of old-school vintage movies right through your viewfinder. Dust and scratches, retro colors, flickering, light leaks, and even frame shake, all can be instantly added with a single tap of the finger.
-
-SHOOT BOTH PHOTOS AND VIDEOS WITH SOPHISTICATED LIVE EFFECTS
-
-• Combine effects of film color, halation, dust & scratch, film grain, and softening to create authentic old-school movies
-• Adjust the strength of the effects to achieve your own unique visual style
-• 10 Lenses (frame) effects: Projector, Vignetting, Light Leak, Color Fringing, Super 8, Screen, 16mm, Tube, color negatives of Super 8 and 16mm
-• 21 Retro & Aged Films: 1920, Noir, 60s, 70s, Sakura, XPro, Siena, Pela, Indigo, Tuscan, Two-Color, 2-Strip, 3X, and monochromes
-• Additional 21 filters that emulate real historical films and expired films - available with the 8mm Pro subscription
-• Jitter Button to imitate real 8mm projectors frame shakes
-• Sound Switch to add projector sound for extra authenticity or mute the video for a silent movie effect.
-• Up to 4K 30fps with original unfiltered video recording on newer devices
-
-A COMPACT EDITOR FOR MOVIE CREATION
-
-- Apply film and frame effects to clips
-- Trim video, pan & zoom photo
-- Add a soundtrack from your music library
-- Choose from 5 unique themes with matching titles, transitions
-
-8MM PRO SUBSCRIPTION
-
-- You can subscribe or make a one-time purchase for unlimited access to all current filters and future updates
-- Start your subscription with a free 7-day trial. Once the trial is over, you’ll be charged an annual subscription fee
-- Your subscription will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period. You can go to your Settings > Apple ID > Subscriptions to turn auto-renew off
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/07/56/ff/0756ff81-bd44-bbb7-5aca-dfd59d07af0f/1668dbc8-251c-44c1-ae58-c562de8026b8_1x3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/db/fd/5adbfd1d-fa70-bf27-149b-189b1df98fa3/3e9846b9-04c5-4e58-8d36-45e49611ca17_Screen_Shot_2023-04-20_at_8.03.45_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/5d/45/8c5d4590-a860-0ab7-7b52-11fec3b2fff3/8fdff395-c64e-4c3e-b4fe-2009ccc728a3_Screen_Shot_2023-04-20_at_6.11.50_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b0/b8/84/b0b8845d-d368-4ead-887a-56fddc4bcfbf/f1db3448-8c98-4d91-8f6c-32a3367f0ea9_08.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4e/6d/3c/4e6d3ce2-e8c1-61b1-f9b3-68173ac4acfe/a93812a4-5de8-4d07-be86-cea49c7fb794_Screen_Shot_2023-04-20_at_8.01.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/b2/29/48b229cc-9336-6152-f679-962c50f8139d/caaa404c-0eaa-4c98-8d34-fbd51353ba34_Screen_Shot_2023-04-20_at_8.07.52_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/66/88/6e/66886eef-ae79-5a00-3d23-2cf02ef780da/7f1da2a6-5b33-4988-bab4-25663786369b_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/85/bc/4e/85bc4ea3-f98d-5ce9-dc6c-f3df0f7f28af/7125cce8-f844-4938-9d9e-a31af2374f3e_09.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/1e/fd/8c1efd97-2abc-d925-0bf0-e0872e085e44/9a6c596a-b01c-44f0-b4bc-bcfab9c4520e_Screen_Shot_2023-04-20_at_8.00.58_PM.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/c8/af/1ac8afb9-d0ce-3eec-1531-38a32f7351cb/43aa7a13-3302-4012-ad9c-84a3699dc5c8_01.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/67/24/bb/6724bbe7-cf74-c3b5-be53-1269395197b8/14e87a1d-1f2b-4320-b167-8fbec037a34b_Screen_Shot_2022-10-18_at_10.29.39_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/62/07/a0/6207a067-2e48-a814-b447-949e47cad9c7/47ba82b7-782a-4ae3-906c-cadd8e10ad8b_Screen_Shot_2022-10-18_at_10.34.36_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/47/b4/5c/47b45c88-9631-8bad-a18d-5df82277b3ba/41f6287f-875f-47ff-851e-2fd4c798b6cf_Screen_Shot_2022-10-18_at_10.32.54_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/06/95/1b/06951b92-e1c7-c944-ad5f-a17ba52a1e84/da4d338b-221f-44ea-9e10-9926b0d6aea1_Screen_Shot_2022-10-18_at_10.36.49_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/76/66/b07666e2-88e2-b616-994b-6057504aca5b/19b6a9e3-4ff1-4d51-99fd-82c49e85a994_Screen_Shot_2022-10-18_at_10.38.38_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/a6/df/9aa6dfb5-2502-d158-2589-b88949817b12/dbc56f15-97f1-47a5-8a9a-91e245fc8646_Screen_Shot_2022-10-18_at_10.42.59_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d8/b0/8b/d8b08bfe-4846-4f80-7fb5-44351258f27f/c0cd9914-df70-45f5-b2d3-6b3b5a734e81_Screen_Shot_2022-10-18_at_10.44.13_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/09/e7/2f/09e72f0f-a461-f653-cc0a-6a1af135f5a1/864b20cd-bf45-445f-9f42-6d450fd7ec91_Screen_Shot_2022-10-18_at_10.45.01_AM.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1a/ab/5c/1aab5c4d-1b45-ba75-01c3-c9fcac29f6b4/cf170b22-af0d-4323-8347-c36970935fc0_Screen_Shot_2022-10-18_at_10.45.52_AM.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving Theory Test 4 in 1 Kit]]></title>
-        <id>Driving Theory Test 4 in 1 Kit-us-1752966858585</id>
-        <link href="https://apps.apple.com/us/app/driving-theory-test-4-in-1-kit/id829581836?uo=4"/>
-        <updated>2025-07-19T23:14:18.585Z</updated>
-        <summary type="html"><![CDATA[Learn to Drive Unlimited: $24.99 → $19.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/driving-theory-test-4-in-1-kit/id829581836?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bf/eb/ce/bfebce4c-8952-0c0b-f18b-d8973a870887/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Learn to Drive Unlimited：</strong><span>$24.99</span> → <b>
-  <strong>$19.99</strong>
-</b><span>[$19.99 ~ $24.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$5.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Learn to Drive UK - 1 month：<b>$3.99</b>
-  </li><li>
-    Learn to Drive UK - 12 months：<b>$14.99</b>
-  </li><li>
-    Learn to Drive UK - 3 months：<b>$11.99</b>
-  </li><li>
-    Learn to Drive Unlimited：<b>$19.99</b>
-  </li><li>
-    Learn to Drive UK - 3 month：<b>$11.99</b>
-  </li><li>
-    Learn to Drive UK - Unlimited：<b>$9.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  **Apple's No.1 paid iPhone app for 7 years running**
-
-97% of learners pass their Theory Test using nothing more than this 4 in 1 AWARD-WINNING app*! Revise with full confidence knowing you have EVERYTHING you need to pass your 2025 Theory Test first time, getting you 1 step closer to your full DVLA licence, or we’ll give you your test fee back if you fail.
-
-Join the 18 MILLION+ learner drivers we’ve helped prepare for their driving theory test.
-
-Suitable for:
-• Car Drivers in GB & NI
-• Motorcyclists in GB & NI
-• Trainee ADI's in GB & NI
-• HGV/LGV & PCV Drivers preparing to take Module 1a and 1b Tests in GB & NI
-
-DRIVING THEORY TEST 2025
-Practise the latest Theory Test revision questions, answers and explanations, licensed directly from the DVSA (the people who set the official test). No other Theory Test app contains more revision questions!
-
-Sit UNLIMITED timed mock tests including the NEW DVSA video case studies. Car drivers can practise multiple-choice questions based on a short video...just like the real test.
-
-Keep a daily track of your progress so you know when you’re ready to sit the official Theory Test!
-
-FREE PASS GUARANTEE
-We’re so confident that our app will help you pass your Driving Theory Test, we will give you your £23 test fee back if you fail after completing the revision plan in full. Available for learner car drivers and motorcyclists only. T&C’s apply**.
-
-LEARNER PLAN
-Struggling to know where to start with your Theory Test revision? Our structured Learner Plan ensures you a first time pass, guiding you through your revision from start to finish.
-
-LEADERBOARD
-Rev up your revision with our NEW weekly Leaderboard! Earn points for acing practice quizzes, passing Mock Tests and more. Revise for a prize as you make the most of your study sessions.
-
-SMART AI MODE
-Want a more tailored approach to revision? Smart AI Mode makes revising for your theory test more efficient and tracks your progress to help you concentrate on the areas where you need the most support.
-
-VOICEOVER
-English voiceover available for all Driving Theory Test revision questions PLUS The Highway Code...ideal for users with reading difficulties or dyslexia.
-
-HAZARD PERCEPTION TEST
-85 interactive video clips, including all 34 DVSA CGI clips covering bad weather and night time driving, with built-in cheat detection just like in the official test.
-
-THE HIGHWAY CODE 2025 Edition
-Revise and refresh your knowledge of the latest UK Highway Code. Includes English voiceover.
-
-ROAD SIGNS 2025
-Learn ALL the UK road signs with over 1,500 photos and descriptions.
-
-Optional LEARN TO DRIVE PRACTICAL CAR DRIVING CONTENT
-Includes:
-• 3 day trial access to over 250 virtual Practical Driving Lesson videos, to help you learn and understand the routines and manoeuvres that you could be asked to perform on your Driving Test
-• The top 10 reasons for failing
-• Learn how to banish test nerves and anxiety
-• A full mock driving test with examiner debrief
-• All the latest DVSA help and advice on the 'Ready to Pass?' campaign
-Helping you get one step closer to your full DVLA licence
-
-EXCLUSIVE BONUS CONTENT
-Access to exclusive offers and discounts!
-
-AWARDS:
-• Named Apple's No.1 paid iPhone app of 2024, 2023, 2022, 2021, 2020, 2019 & 2018
-• As featured on the Gadget Show
-• Intelligent Instructor Product of the Year 2022, 2023 & 2024
-• App of the Year, FirstCar Awards 2021 & 2019
-• Winner of the Auto Express Theory Test App
-• DIA Driver and Rider Training Awards "Product of the Year"
-
-CONTACT US: support@drivingtestsuccess.com
-
-This app includes the Driver and Vehicle Standards Agency (DVSA) revision question bank. The Driver and Vehicle Standards Agency (DVSA) has given permission for the reproduction of Crown copyright material. DVSA does not accept responsibility for the accuracy of the reproduction.
-
-Requires account creation to access content.
-
-*Based users who complete the Learner Plan in full
-**Pass Guarantee T&C’s apply. See www.drivingtestsuccess.com/app-pass-guarantee
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RadarOmega]]></title>
-        <id>RadarOmega-us-1752952180282</id>
-        <link href="https://apps.apple.com/us/app/radaromega/id1439881811?uo=4"/>
-        <updated>2025-07-19T19:09:40.282Z</updated>
-        <summary type="html"><![CDATA[Data Level Beta: $89.99 → $8.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/radaromega/id1439881811?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/10/93/a710933f-6d27-5051-35a4-14628eb59772/AppIcon-0-0-1x_U007emarketing-0-7-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Data Level Beta：</strong><span>$89.99</span> → <b>
-  <strong>$8.99</strong>
-</b><span>[$8.99 ~ $89.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$8.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Add-on RapidSweep：<b>$84.99</b>
-  </li><li>
-    RapidSweep：<b>$7.99</b>
-  </li><li>
-    Data Level Gamma：<b>$49.99</b>
-  </li><li>
-    Data Level Beta：<b>$8.99</b>
-  </li><li>
-    Data Level Alpha：<b>$119.99</b>
-  </li><li>
-    RadarOmega - Alpha Monthly：<b>$11.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Welcome to RadarOmega, the next-generation weather app that takes high-resolution weather data to a whole new level. More than just radar, RadarOmega provides unique data solutions for all types of weather data that are customizable depending on your needs, whether that's before, during, or after the storm.
-
-Dedicated to providing solutions to our industry, RadarOmega created an exclusive network of weather stations featuring live video and sensor data called cyclonePORT. RadarOmega and cyclonePORT work closely with universities, emergency managers, broadcast meteorologists, and more to provide solutions for relaying critical weather information when life-threatening weather situations are imminent.
-
-RadarOmega provides high-resolution radar data for the United States, Canada, Germany, Australia, and South Korea.
-
-Base Application
--NEW Warning Display Dialog
--NEW Hi-Res Storm Relative Velocity
--MRMS Reflectivity
--Hi-Res Single Site Radar Data
--30 Frames of Data
--7 Day Radar History
--Lightning Detection/Animation
--24 Hour Storm Reports
--SPC Convective Outlooks & Watches
--NHC Tropical Suite & Hurricane Hunter
--WPC Excessive Rainfall Outlooks
--Mesoscale Discussions (Severe, Winter, & Precip.)
--CPC Temp. & Precip. Outlooks
--Fire Weather Outlooks & Drought Monitor
--WPC Winter Forecasts & WSSI
--METARS
--Real-Time NWS Storm-Based Warnings
--Non-Precip Watches/Warnings for USA
--Flash Animation & In-App Sound Alert for All Alerts
--WPC Surface Analysis
--Buoy Data & Tide Forecasts
--NEXRAD Hail History
--Spotter Network Locations
--Power Outage Layer
--Map Type Customization
--Detailed City & Road Network
--15 Custom Locations with a Linked RadarOmega Account
--Drawing, Data Viewer, & Distance Tools
--Storm Track Drawing Tool
--Share Screenshot & Video
--Push Notifications for All Storm-Based Watches/Warnings Using GPS Location
--Access to cyclonePORT Network
-
-Gamma
--Hi-Res Satellite Data
--Lightning Detection/Animation, METARS, & GLM for Mesoscale & Storm-Based Satellite Sectors
--National Digital Forecast Database
--Access to Project MesoVort
--75 Frames of Data
--Dual View Radar with 30 Frames
--Smoothing for Radar/Satellite
--30 Day Radar History
--6 Month Storm Report Archive
--3D Radar/Satellite
--Upload 3 Custom Color Tables
--30 Custom Locations with Icon Upload
--2 Custom Location Lists
--Push Notifications Open to All Weather Alerts Using GPS Location ONLY (max of 8 at a time)
-
-Beta
-*Everything in Gamma PLUS*
--MRMS Data
--150 Frames of Data
--Dual View Radar/Satellite with 50 Frames
--Smoothing for MRMS
--90 Day Radar History
--5 Year Storm Report Archive
--3D MRMS
--Upload 8 Custom Color Tables
--75 Custom Locations with Icon Upload
--5 Custom Location Lists
-
-Alpha
-*Everything in Beta PLUS*
--Volumetric Radar
--Model Data with Contours for HRRR, NAM3KM, NAM12KM, RAP, GFS, ECMWF, HWRF, & HMON
--250 Frames of Data
--Dual View Radar/Satellite with 100 Frames
--Quad View Radar/Satellite on iPad & Desktop with 50 Frames
--Smoothing for Models
--90 Day Radar History
--10 Year Storm Report Archive
--Upload 30 Custom Color Tables
--150 Custom Locations with Icon Upload
--10 Custom Location Lists
--1 Site Lightning Monitoring with Custom Range Zones
--Push Notifications Open to All Weather Alerts for up to 3 Custom Locations and GPS Locations (max of 8 at a time)
-
-Additional Add-Ons
--Rapid Sweep
-
-Subscriptions are maintained through the iOS App Store. We will work with our customers however, refunds must be done through the iOS App Store. Please be sure to reach out to our support team if you have any problems, questions, or concerns.
-
-For Support- You can create a ticket and we will resolve it as soon as possible:
-https://radaromegawx.supportbee.io/portal/sign_in
-
-See our Terms of Service below:
-https://www.radaromega.com/terms.php
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/cb/a0/b1/cba0b148-9eaa-9a47-da9e-45d65bf7f816/e90191d7-7579-4f97-8bfd-9766293668dc_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/3d/96/ca3d9672-ea03-a549-81eb-a3a6a602ee88/da406343-067f-4559-86a2-7927d1809130_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/71/f0/10/71f010a6-d7b4-e7b3-9ef0-a2a97077b553/5eccabd1-e9d3-4d76-94e7-aa2cc08b9a60_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/ff/bc/dbffbc1d-e9b3-9910-fe8a-36c37b06e19a/9ae6876e-5ffa-43ec-bfb0-1fda0f6d9b69_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2e/44/ff/2e44ff71-dfc9-56df-bcd1-fc1702f8dfed/d2042b4e-4ae3-43e3-91ee-6f2cb1a507c9_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/56/e0/06/56e00608-00c9-1dbb-f18d-fc53baf1577d/6b28007c-3fb2-4b27-8686-482ef5d01c5b_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e3/c2/38/e3c23878-cb09-deb5-d6bd-8492932eca3c/c458a94d-17b0-410c-87d6-a66810dd3f60_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4b/3e/0f/4b3e0f16-79b8-6bd4-4317-48c776cd4225/dd21e4ef-3e7e-4b38-8f09-f8e278e48919_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/67/6c/d5/676cd5a6-019e-3d14-9ad5-93c60518dc66/ae0d43d9-a4e7-4aaf-a434-694c89b151bd_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7a/ca/4e/7aca4e26-9a12-1fe5-7126-1f3cf9eb7949/97f989e6-c0c8-4e71-b0cc-b8ddd01786b2_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/31/16/2c/31162ccb-ccf6-47dd-752b-17c8dc3dea04/36ee86ec-f1d9-4297-92e0-ea0df446ebaf_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d3/39/16d339aa-355e-32f4-2144-44f8cc394f43/a095cb5b-1b11-4042-b079-96c4f095ee72_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/48/23/a4482390-6e52-d697-2f8b-b219fbaba96b/f64d266f-6959-4086-b513-d2e0b3609688_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1b/dc/13/1bdc1340-f3f4-0637-4cd5-0bc4504d1a98/1f2f55fc-78e7-4a27-9c39-a08ae43d070c_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c2/67/ac/c267ac67-12c5-2359-e57c-972a406a865f/99606828-9d64-44be-a1d6-51a2638b0c81_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/4a/55/36/4a5536b3-de9d-eab5-8266-1a1647a5f3d1/db65b030-4d42-4b69-9d8e-eac580537315_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f5/c2/c4/f5c2c44d-809a-8d92-c927-842913995d07/9c87fca9-56e7-4b89-94fb-d19fd72acc73_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/90/94/19909454-1871-744d-963b-9bbc9d3e3ae8/156ccf19-a0cc-4c0e-ad35-0ae251229ba9_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f4/c3/7a/f4c37ad2-6776-603f-92ea-ade50e56d900/f986356f-c6bf-4f2f-9391-237286b6245f_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/16/d1/d5/16d1d58c-efd2-0f48-aed0-f14081c2830b/0cd5bf19-cf98-4432-8cb4-fa4036826240_10.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
