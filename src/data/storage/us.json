@@ -7850,6 +7850,19 @@
     "history": [
       [
         {
+          "timestamp": 1753269138612,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "8mm Pro": "$9.99",
+            "Silent Film Theme": "$0.00",
+            "Light Leak Theme": "$0.00",
+            "Countdown Theme": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752973945040,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -11362,7 +11375,8 @@
       "AllLevel_1up": "$2.99",
       "GOLD BAT": "$14.99",
       "Called Shot 4": "$0.99",
-      "EyeLevel_1up": "$0.99"
+      "EyeLevel_1up": "$0.99",
+      "Called Shot 50": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -11376,9 +11390,29 @@
       "AllLevel_1up": "$2.99",
       "GOLD BAT": "$14.99",
       "Called Shot 4": "$0.99",
-      "EyeLevel_1up": "$0.99"
+      "EyeLevel_1up": "$0.99",
+      "Called Shot 50": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753269138612,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Called Shot 50": "$9.99",
+            "Called Shot 4": "$0.99",
+            "GOLD BAT": "$14.99",
+            "AllLevel_5up": "$9.99",
+            "AllLevel_1up": "$2.99",
+            "EyeLevel_5up": "$3.99",
+            "EyeLevel_1up": "$0.99",
+            "ContactLevel_5up": "$3.99",
+            "ContactLevel_1up": "$0.99",
+            "PowerLevel_5up": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -15374,6 +15408,27 @@
             "Richman 4 Fun  Hawaii & South Pole Island": "$0.99",
             "900,000 Yuanbao": "$4.99"
           }
+        }
+      ]
+    ]
+  },
+  "491899548": {
+    "name": "Pocket League Story",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753269138612,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -31357,6 +31412,25 @@
       "Subscription Ticket 6~10": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753269138612,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$3.99",
+            "ThemeA2B0C1": "$3.99",
+            "ThemeA2B1C0": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753208357050,
@@ -65840,6 +65914,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753269138612,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "丹青閣通行證": "$9.99",
+            "30元新手禮包​": "$4.99",
+            "6元新手禮包​​": "$0.99",
+            "演武大會68元通行證": "$9.99",
+            "尊享月俸": "$4.99",
+            "禮包11": "$49.99",
+            "禮包9": "$29.99",
+            "禮包7": "$14.99",
+            "禮包6": "$9.99"
+          }
+        },
         {
           "timestamp": 1753245271724,
           "price": 0.99,

@@ -13497,6 +13497,27 @@
       ]
     ]
   },
+  "491899548": {
+    "name": "足球俱樂部物語",
+    "maxPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "minPriceInfo": {
+      "price": 190,
+      "formattedPrice": "$190.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753269138612,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "491907493": {
     "name": "ABRSM Aural Trainer Grades 1-5",
     "maxPriceInfo": {
@@ -28455,6 +28476,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753269138612,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Font Access": "$1,790.00",
+            "Pro Access": "$2,990.00",
+            "Ultimate Access": "$4,990.00",
+            "Abstract Theme 5": "$30.00",
+            "Abstract Theme 4": "$30.00",
+            "Abstract Theme 2": "$30.00",
+            "Abstract Theme 3": "$30.00",
+            "Abstract Theme 1": "$30.00",
+            "Abstract Theme Bundle": "$90.00",
+            "Great Art Bundle": "$90.00"
+          }
+        },
         {
           "timestamp": 1753241139849,
           "price": 60,
