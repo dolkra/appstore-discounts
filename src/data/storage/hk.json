@@ -67326,6 +67326,18 @@
     "history": [
       [
         {
+          "timestamp": 1753366524124,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "終身高級版": "HK$ 88.00",
+            "300次高精度海拔": "HK$ 32.00",
+            "100次高精度海拔查詢": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753280111305,
           "price": 0,
           "formattedPrice": "免費",
@@ -84171,6 +84183,25 @@
     "history": [
       [
         {
+          "timestamp": 1753366524124,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Autonomy": "HK$ 22.00",
+            "Time Flow": "HK$ 22.00",
+            "賽季通行證": "HK$ 58.00",
+            "角色通行證": "HK$ 88.00",
+            "勇者研究": "HK$ 48.00",
+            "尼奧禮包": "HK$ 38.00",
+            "婚禮禮包": "HK$ 38.00",
+            "解鎖性質": "HK$ 58.00",
+            "墮落禮包": "HK$ 58.00",
+            "賽季０戰鬥通行證": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753241139849,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -96486,10 +96517,18 @@
       "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753366524124,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
