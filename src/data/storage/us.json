@@ -79471,6 +79471,20 @@
     "history": [
       [
         {
+          "timestamp": 1753381153709,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "SkySafari Premium": "$29.99",
+            "SkySafari Premium Monthly": "$3.99",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752636171574,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -112893,6 +112907,40 @@
           "timestamp": 1753334376113,
           "price": 8.99,
           "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6569254072": {
+    "name": "QuickNotes Flashcards Watch",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753381153709,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748376912": {
+    "name": "Dragon Hunt: Tribe Within",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1753381153709,
           "inAppPurchases": {}
         }
       ]

@@ -63394,6 +63394,20 @@
     "history": [
       [
         {
+          "timestamp": 1753381153709,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "SkySafari Premium": "₺1.299,99",
+            "GAIA Star Database": "₺0,00",
+            "PGC Galaxy Database": "₺0,00",
+            "Apollo Lunar Missions": "₺0,00",
+            "SkySafari Premium Monthly": "₺68,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752621138176,
           "price": 899.99,
           "formattedPrice": "₺899,99",
@@ -85645,6 +85659,40 @@
           "timestamp": 1753334376113,
           "price": 399.99,
           "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6569254072": {
+    "name": "QuickNotes Flashcards Watch",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753381153709,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748376912": {
+    "name": "Dragon Hunt: Tribe Within",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1753381153709,
           "inAppPurchases": {}
         }
       ]

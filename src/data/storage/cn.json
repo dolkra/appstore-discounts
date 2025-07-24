@@ -56573,6 +56573,20 @@
     "history": [
       [
         {
+          "timestamp": 1753381153709,
+          "price": 168,
+          "formattedPrice": "¥168.00",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "¥25.00",
+            "GAIA Star Database": "¥0.00",
+            "PGC Galaxy Database": "¥0.00",
+            "Apollo Lunar Missions": "¥0.00",
+            "SkySafari Premium": "¥198.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752588818148,
           "price": 148,
           "formattedPrice": "¥148.00",
@@ -79787,6 +79801,27 @@
           "timestamp": 1752982819338,
           "price": 3,
           "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6569254072": {
+    "name": "Watch闪卡",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753381153709,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]

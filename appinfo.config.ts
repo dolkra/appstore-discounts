@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6569254072,
+    name: {
+      mo: 'QuickNotes Flashcards Watch',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6748376912,
+    name: {
+      tw: '石器大陸之獵龍時代',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1533979882,
     name: {
       mo: 'Northgard',

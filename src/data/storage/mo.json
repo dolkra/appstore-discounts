@@ -56211,6 +56211,20 @@
     "history": [
       [
         {
+          "timestamp": 1753381153709,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "USD 3.99",
+            "SkySafari Premium": "USD 29.99",
+            "Apollo Lunar Missions": "USD 0.00",
+            "GAIA Star Database": "USD 0.00",
+            "PGC Galaxy Database": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752588818148,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -74476,6 +74490,52 @@
           "price": 8.99,
           "formattedPrice": "USD 8.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6569254072": {
+    "name": "QuickNotes Flashcards Watch",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753381153709,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748376912": {
+    "name": "石器大陸之獵龍時代",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "Diamonds": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "Diamonds": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753381153709,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Diamonds": "USD 2.99"
+          }
         }
       ]
     ]
