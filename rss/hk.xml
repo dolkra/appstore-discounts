@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-07-24T18:42:13.693Z</updated>
+    <updated>2025-07-24T19:35:12.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-24T18:42:13.695Z</updated>
+        <updated>2025-07-24T19:35:12.212Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkThu, 24 Jul 2025 18:42:13 GMT</id>
+        <id>rankinghkThu, 24 Jul 2025 19:35:12 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-24T18:42:13.695Z</updated>
+        <updated>2025-07-24T19:35:12.213Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -569,14 +569,22 @@ feedId:157008141708743680+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id583922375">myLightMeter PRO</a>
+        <a href="https://apps.apple.com/hk/app/id576443892">Logo Creator & Maker</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買項目</span><ol>
+              <li>
+                <i>Object Pack</i>：<b>1</b>
+              </li><li>
+                <i>Premium</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -586,7 +594,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id823869162">SimplePlanes</a>
+        <a href="https://apps.apple.com/hk/app/id583922375">myLightMeter PRO</a>
       </td>
       <td>
         <ul>
@@ -603,7 +611,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/hk/app/id823869162">SimplePlanes</a>
       </td>
       <td>
         <ul>
@@ -618,6 +626,23 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>
         <b>28</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>29</b>
       </td>
       <td>
         <del>
@@ -642,7 +667,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id884153085">Remote, Mouse & Keyboard Pro</a>
@@ -659,7 +684,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -676,7 +701,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id946477821">Evoland</a>
@@ -693,7 +718,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id983143183">夢幻怪獸</a>
@@ -710,7 +735,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id994157520">1942 Pacific Front Premium</a>
@@ -727,7 +752,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -744,7 +769,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1001096601">1941 Frozen Front Premium</a>
@@ -761,7 +786,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1041260001">FINAL FANTASY Ⅸ</a>
@@ -778,7 +803,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1050535507">Lanota - 動感節奏音樂遊戲</a>
@@ -811,7 +836,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1072395467">60 Seconds! Atomic Adventure</a>
@@ -828,7 +853,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1195035357">地牢防禦 : 勇士的侵入</a>
@@ -845,7 +870,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1198176727">Controller for HomeKit</a>
@@ -868,7 +893,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1230231705">The Witness</a>
@@ -885,7 +910,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1264608487">Driving Zone: Germany Pro</a>
@@ -902,7 +927,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1271620263">ICEY</a>
@@ -919,7 +944,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1287138671">Thumper：便攜版</a>
@@ -936,7 +961,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1291427111">Evoland 2</a>
@@ -953,7 +978,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1291429551">60 Parsecs!</a>
@@ -970,7 +995,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -987,7 +1012,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1321340307">夏日水上樂園物語</a>
@@ -1004,7 +1029,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1380582804">手機帝國</a>
@@ -1021,7 +1046,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -1038,7 +1063,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1435461053">This Is the Police</a>
@@ -1055,7 +1080,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1439262206">Root Board Game</a>
@@ -1084,7 +1109,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1450144092">三國志天下布武 - 單機戰棋策略遊戲</a>
@@ -1101,7 +1126,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -1118,7 +1143,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1453820315">This Is the Police 2</a>
@@ -1135,7 +1160,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1464666446">我的足跡: GPS記錄儀</a>
@@ -1152,7 +1177,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1497120981">LUCH — Filters & Bokeh Effect</a>
@@ -1169,7 +1194,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1519571900">Luwian</a>
@@ -1186,7 +1211,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1523146826">全民RPG：重啟</a>
@@ -1203,7 +1228,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1523633394">SpongeBob SquarePants</a>
@@ -1220,7 +1245,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1538124245">where I put it</a>
@@ -1237,7 +1262,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1543161449">冒險村物語2</a>
@@ -1254,7 +1279,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1580067723">Wall of insanity</a>
@@ -1271,7 +1296,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
@@ -1288,7 +1313,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1610947489">Poppy Playtime Chapter 1</a>
@@ -1305,7 +1330,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1611723264">人類跌落夢境</a>
@@ -1322,7 +1347,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1614795077">Otaku's Adventure</a>
@@ -1339,7 +1364,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1617006551">南國度假島物語</a>
@@ -1356,7 +1381,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1624326561">真武三国  英雄集结</a>
@@ -1379,7 +1404,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1633243177">Ableton Note</a>
@@ -1396,7 +1421,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1633879571">Poppy Playtime Chapter 2</a>
@@ -1413,7 +1438,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642715290">Little Big Workshop</a>
@@ -1430,7 +1455,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1642733080">DungeonSquad</a>
@@ -1447,7 +1472,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id1644917705">無處遁形：全網公敵</a>
@@ -1464,7 +1489,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6743342476">中药方剂速查 -【专业版】中医药查询宝典</a>
@@ -1481,7 +1506,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <del>
@@ -1508,7 +1533,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6479307181">靈體偵測器: 能量、超自然感測雷達</a>
@@ -1525,7 +1550,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6456751953">MyTan - AI Bot</a>
@@ -1548,7 +1573,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6745474000">空气枪BiuGun</a>
@@ -1565,7 +1590,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6740705851">手錶變身器：時空驅動器 - iWatch發聲器</a>
@@ -1582,7 +1607,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6451376191">Dumb Phone: 簡約主畫面</a>
@@ -1599,7 +1624,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6745999173">圆桌三国-三国休闲卡牌</a>
@@ -1616,7 +1641,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6742472194">鬼谷八荒 Tale of Immortal</a>
@@ -1641,7 +1666,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6739839815">RogueVana</a>
@@ -1658,7 +1683,7 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://apps.apple.com/hk/app/id6504841512">Halls of Torment: Premium</a>
@@ -1991,6 +2016,135 @@ feedId:157008141708743680+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Logo Creator & Maker]]></title>
+        <id>Logo Creator &amp; Maker-hk-1753384362219</id>
+        <link href="https://apps.apple.com/hk/app/logo-creator-maker/id576443892?uo=4"/>
+        <updated>2025-07-24T19:12:42.219Z</updated>
+        <summary type="html"><![CDATA[Object Pack: HK$ 8.00 → HK$ 0.00<br/>Premium: HK$ 588.00 → HK$ 233.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/logo-creator-maker/id576443892?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/b1/59/87b1594f-e7cf-7a56-aba8-c5096196ab79/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Object Pack：</strong><span>HK$ 8.00</span> → <b>
+  <strong>HK$ 0.00</strong>
+</b><span>[HK$ 0.00 ~ HK$ 8.00]</span>
+  </li><li>
+    <strong>Premium：</strong><span>HK$ 588.00</span> → <b>
+  <strong>HK$ 233.00</strong>
+</b><span>[HK$ 233.00 ~ HK$ 588.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 2.00</b>
+</p><h3>App 內購買項目</h3><ul>
+  <li>
+    Object Pack：<b>HK$ 0.00</b>
+  </li><li>
+    Premium：<b>HK$ 233.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  在iPhone、iPad或iPod Touch用InstaLogo設計新logo，全新設計並支援Apple Watch，隨時隨地製作漂亮的logo和設計。
+
+*****
+
+InstaLogo可將你的iOS裝置變成logo設計工具，數分鐘即可設計出logo、傳單、邀請函等等。然後可透過郵件、上傳到Dropbox、Evernote及Box與朋友和同事分享，也可儲存到iOS裝置或傳送列印。一切從未如此簡單。
+
+下面是我們的一些客戶對InstaLogo的評價:
+
+「非常好用，下載時沒想到有這麼好用，現在簡直愛不釋手」 - Benjtee
+
+「絕對值得收藏，以前付了很多錢請設計師，早發現這款應用就好了.... 」 - christofim
+
+「這是我發現的最好用的logo設計App，5星好評！！」 - Dragoman7
+
+「非常不錯的一款App，簡單、好玩、實用！幹的不錯！」 - IrocOn1
+
+*****
+
+這款App Store上最受歡迎的logo設計app讓你可以:
+
+建立漂亮的Logo
+-	海量logo庫可選
+-	從照片庫匯入照片
+-	可選大量字型，或匯入自己的字型
+-	複製並粘貼文字、圖片等到應用內
+-	縮放、拖動及旋轉你的logo元素來調整大小和視角
+
+調整和修改現有Logo
+-	更改logo的漸變和色彩、文字及背景
+-	新增專業級陰影
+-	使用格線完美對齊
+-	按度數精確調整元素角度
+
+修復錯誤
+-	復原和重做每一步
+-	輕鬆刪除logo任一部分或全刪
+-	使用套索工具來回移動物件
+
+盡情發揮創造力
+-	用手指或手寫筆繪畫，現在還支援3D Touch
+-	從Apple Watch上的新調色板應用選取顏色
+-	支援iPad Pro和Apple Pencil，讓你的創造力盡情揮灑
+
+分享和儲存Logo
+-	透明背景儲存，非常適合日常使用
+-	上傳圖片到Dropbox、Evernote及Box，安全並可分享
+-	透過郵件分享logo或直接上傳到Facebook
+
+*****
+
+功能列表
+
+-	可在iPhone、iPad及iPod touch上使用
+-	支援iPad Pro、Apple Pencil及Apple Watch
+-	iPad Air 2及更高版本支援多工
+-	iPhone 6s、6s Plus、7及7 Plus支援3D Touch
+-	支援橫向和縱向
+-	超過50,000個logo組合
+-	超過270個手選拉丁和非拉丁字型 
+-	從照片庫匯入自己的圖片
+-	移動、調整大小、旋轉、翻轉及微移物件
+-	用圖片填充文字和logo
+-	為文字新增自訂邊框
+-	調整文字間距和弧度
+-	專業RGB/HSB/Hex拾色器
+-	收藏調色板
+-	畫布和照片裁剪
+-	調整每個物件的不透明度
+-	智慧輔助線
+-	專業陰影編輯器
+-	完整復原和重做
+-	支援手指和手寫筆
+-	橡皮工具
+-	套索工具
+-	支援透明PNG
+-	支援AirPrint
+-	使用Google Drive、Box、Dropbox及Evernote分享
+-	透過郵件和Facebook分享
+-	支援29種語言
+
+*****
+部分功能需要應用內購買。
+
+訂閱價格及條款
+
+- 免費試用訂閱是自動續訂的，除非在續訂之前24小時取消。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+- 免費試用期(如有提供)任何未使用的部分將在使用者購買訂閱後作廢(如適用)。
+- 使用者可以管理訂閱，購買後轉到使用者的帳戶設定可關閉自動續訂，訂閱期任何未使用部分將不提供退款。
+- 在使用者確認購買後，付款將從使用者的iTunes帳戶收取。
+- 將在當前訂閱期結束前24小時內確認續訂費用並從帳戶收取。
+- 這些價格是針對美國客戶的。在其他國家的定價可能會有所不同，實際費用會換算成你所在國家的貨幣。
+
+可以在這裡閱讀使用條款和隱私權政策:
+http://instalogocreator.com/terms
+http://instalogocreator.com/privacy
+
+獲取24/7支援
+如有問題、意見及支援請求，請傳送郵件至support@instalogocreator.com。
+
+馬上下載InstaLogo Logo建立器！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/f8/7a/2bf87a6f-5b92-272a-556d-daea3d543820/mzl.vwpbcyol.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/f6/6f/45f66ff5-e37a-9f4b-c1e4-1833ae535501/mzl.jbedjbzm.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/69/a2/e0/69a2e097-d199-2e35-f26d-6bc0545b7703/mzl.chjljvon.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/97/44/7b974457-e60e-83ac-5037-2a1d2d1e044c/mzl.fisponjh.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/27/99/af279924-22cd-0b2f-6162-200cbb33cb04/mzl.ebnobuiw.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/9c/fa/c79cfae3-c1fa-f7b6-825d-c8892222e853/mzl.kbuqcfnf.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/35/aa/0a/35aa0a0c-eacb-058f-659e-4bdc3b587f5a/mzl.bfgqwdxv.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/ea/09/1bea09b0-20e5-d610-7d07-704eea426452/mzl.apwvolwz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/cd/3e/2acd3e5a-4bb4-833a-c05a-9b0020cd7073/mzl.xvmurhqy.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/3c/be/533cbef1-8a05-4c8e-0be0-e51484da2d5f/mzl.kasprmeu.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Never Night]]></title>

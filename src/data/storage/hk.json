@@ -17800,10 +17800,21 @@
     "minPriceInfo": {
       "price": 2,
       "formattedPrice": "HK$ 2.00",
-      "Premium": "HK$ 588.00",
-      "Object Pack": "HK$ 8.00"
+      "Premium": "HK$ 233.00",
+      "Object Pack": "HK$ 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753384362219,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Object Pack": "HK$ 0.00",
+            "Premium": "HK$ 233.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751368278031,
@@ -95947,6 +95958,25 @@
     "history": [
       [
         {
+          "timestamp": 1753384362219,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "HK$ 22.00",
+            "Case IH Speed-Tiller": "HK$ 8.00",
+            "Versatile 4WD 620": "HK$ 18.00",
+            "Kubota RTV-XG850 SIDEKICK": "HK$ 18.00",
+            "Claas Xerion 5000": "HK$ 18.00",
+            "Amazone CITAN 15001-C": "HK$ 8.00",
+            "KINZE 3665 Blue Drive": "HK$ 8.00",
+            "ClaasLexion8900+ConvioFlex1380": "HK$ 22.00",
+            "200'000 Coins": "HK$ 8.00",
+            "Mack Trucks Black Anthem 6x4": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753146357384,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -103630,6 +103660,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753384362219,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Crimson Gem": "HK$ 588.00"
+          }
+        },
         {
           "timestamp": 1753381153709,
           "price": 18,
