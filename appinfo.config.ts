@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6746136017,
+    name: {
+      tw: 'Astrea: Six-Sided Oracles',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1247294026,
     name: {
       mo: '練節奏',
