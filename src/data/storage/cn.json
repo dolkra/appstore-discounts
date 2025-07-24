@@ -12798,6 +12798,25 @@
     "history": [
       [
         {
+          "timestamp": 1753370020390,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "一仓库宝石": "¥328.00",
+            "一车宝石": "¥148.00",
+            "一箱宝石": "¥68.00",
+            "一桶宝石": "¥38.00",
+            "一袋宝石": "¥22.00",
+            "特别优惠塞塔姆": "¥22.00",
+            "大型英雄包 2": "¥88.00",
+            "塞塔姆": "¥38.00",
+            "大型英雄包": "¥68.00",
+            "英雄包 5": "¥38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752761548032,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -37834,7 +37853,9 @@
       "White Cam Film Pack": "¥8.00",
       "Design Frame Package": "¥8.00",
       "Social Frame Package": "¥8.00",
-      "Magazine Frame Package": "¥8.00"
+      "Magazine Frame Package": "¥8.00",
+      "Black Frame Package": "¥8.00",
+      "Layout Frame Package": "¥8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -37848,9 +37869,30 @@
       "White Cam Film Pack": "¥8.00",
       "Design Frame Package": "¥8.00",
       "Social Frame Package": "¥8.00",
-      "Magazine Frame Package": "¥8.00"
+      "Magazine Frame Package": "¥8.00",
+      "Black Frame Package": "¥8.00",
+      "Layout Frame Package": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753370020390,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Design Frame Package": "¥8.00",
+            "Social Frame Package": "¥8.00",
+            "Magazine Frame Package": "¥8.00",
+            "Black Frame Package": "¥8.00",
+            "Layout Frame Package": "¥8.00",
+            "Stamp Frame Package": "¥8.00",
+            "Retro Frame Package": "¥8.00",
+            "Stroke Frame Package": "¥8.00",
+            "Color Frame Package": "¥8.00",
+            "Upgrade Deluxe Edition": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752415880748,
