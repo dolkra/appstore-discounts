@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-07-25T14:36:08.647Z</updated>
+    <updated>2025-07-25T17:37:09.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-25T14:36:08.648Z</updated>
+        <updated>2025-07-25T17:37:09.175Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 25 Jul 2025 14:36:08 GMT</id>
+        <id>rankingusFri, 25 Jul 2025 17:37:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-07-25T14:36:08.648Z</updated>
+        <updated>2025-07-25T17:37:09.175Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -246,6 +246,31 @@ feedId:157008699750812672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>永久会员</i>：<b>2</b>
+              </li><li>
+                <i>生辰-季度会员</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>9</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1504760106">Eco inc.</a>
       </td>
       <td>
@@ -266,7 +291,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -283,7 +308,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
@@ -306,7 +331,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id352247139">Calorie Counter PRO MyNetDiary</a>
@@ -321,29 +346,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>MyNetDiary Premium</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>12</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>永久会员</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -1929,6 +1931,69 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
+        <id>生辰 — 桌面时间小组件-us-1753463643853</id>
+        <link href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
+        <updated>2025-07-25T17:14:03.853Z</updated>
+        <summary type="html"><![CDATA[生辰-季度会员: $12.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/f1/48/b5f1483c-8c5e-49b8-c88d-3adaa5712530/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>生辰-季度会员：</strong><span>$12.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $12.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    生辰-季度会员：<b>$2.99</b>
+  </li><li>
+    月度会员：<b>$1.99</b>
+  </li><li>
+    生辰年度会员：<b>$9.99</b>
+  </li><li>
+    生辰-年度会员：<b>$12.99</b>
+  </li><li>
+    永久会员：<b>$12.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  这是一款关于生、死、心愿与延续的App。
+
+小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
+时针转动，生命流逝，但每一次心跳都可以更加有力。
+
+有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
+而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+
+生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+
+- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
+- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
+- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+
+美国诗人纳·斯待尔在87岁那年写道：
+"如果我能够从头活过，我会试着犯更多的错。
+我会放松一点，我会灵活一点。
+我会爬更多的山，游更多的河，看更多的日落。"
+
+因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+
+【生辰 App 会员服务说明】
+
+1.会员包含几种订购类型
+订阅周期：1个月、3个月、12个月
+2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
+3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
+4.生辰App 会员协议
+生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
+5.生辰App 软件协议与隐私政策
+生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
+生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[8mm Vintage Camera]]></title>
