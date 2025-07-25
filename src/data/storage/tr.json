@@ -25908,6 +25908,14 @@
     "history": [
       [
         {
+          "timestamp": 1753485183294,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752189173662,
           "price": 29.99,
           "formattedPrice": "₺29,99",
@@ -41550,6 +41558,14 @@
     "history": [
       [
         {
+          "timestamp": 1753485183294,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752189173662,
           "price": 69.99,
           "formattedPrice": "₺69,99",
@@ -50600,7 +50616,17 @@
       "Flash Sale Ore Rune 1": "₺129,99",
       "Double Exp Package 1": "₺39,99",
       "Flash Sale Star Rune 1": "₺129,99",
-      "Black Friday Inferno": "₺899,99"
+      "Black Friday Inferno": "₺899,99",
+      "500 Crystal": "₺229,99",
+      "300 Crystal": "₺129,99",
+      "1000 Crystal": "₺449,99",
+      "3000 Crystal": "₺1.299,99",
+      "5000 Crystal": "₺2.299,99",
+      "Banshee Pet Package": "₺449,99",
+      "Behemoth Pet Package": "₺449,99",
+      "Black Friday Black Death": "₺449,99",
+      "Black Friday Lord Of Shadow": "₺699,99",
+      "Black Weapons Set": "₺129,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -50624,9 +50650,38 @@
       "Flash Sale Ore Rune 1": "₺129,99",
       "Double Exp Package 1": "₺39,99",
       "Flash Sale Star Rune 1": "₺129,99",
-      "Black Friday Inferno": "₺899,99"
+      "Black Friday Inferno": "₺899,99",
+      "500 Crystal": "₺229,99",
+      "300 Crystal": "₺129,99",
+      "1000 Crystal": "₺449,99",
+      "3000 Crystal": "₺1.299,99",
+      "5000 Crystal": "₺2.299,99",
+      "Banshee Pet Package": "₺449,99",
+      "Behemoth Pet Package": "₺449,99",
+      "Black Friday Black Death": "₺449,99",
+      "Black Friday Lord Of Shadow": "₺699,99",
+      "Black Weapons Set": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753485183294,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "500 Crystal": "₺229,99",
+            "300 Crystal": "₺129,99",
+            "1000 Crystal": "₺449,99",
+            "3000 Crystal": "₺1.299,99",
+            "5000 Crystal": "₺2.299,99",
+            "Banshee Pet Package": "₺449,99",
+            "Behemoth Pet Package": "₺449,99",
+            "Black Friday Black Death": "₺449,99",
+            "Black Friday Lord Of Shadow": "₺699,99",
+            "Black Weapons Set": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751966115921,
@@ -86172,6 +86227,16 @@
       "Diamonds": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753485183294,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Diamonds": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753420864374,
