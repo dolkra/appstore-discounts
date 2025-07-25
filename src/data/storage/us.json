@@ -5710,6 +5710,23 @@
     "history": [
       [
         {
+          "timestamp": 1753413837911,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "连续包月": "$3.99",
+            "6香蕉贝": "$0.99",
+            "30香蕉贝": "$3.99",
+            "连续包年": "$39.99",
+            "免广告会员十二个月": "$1.99",
+            "68香蕉贝": "$9.99",
+            "6随手贝": "$0.99",
+            "233香蕉贝": "$34.99",
+            "128香蕉贝": "$19.99",
+            "基础会员-连续包月": "$1.99"
+          }
+        },
+        {
           "timestamp": 1753405554068,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -11656,6 +11673,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753413837911,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "PowerLevel_5up": "$3.99",
+            "AllLevel_5up": "$9.99",
+            "ContactLevel_5up": "$3.99",
+            "PowerLevel_1Up": "$0.99",
+            "ContactLevel_1up": "$0.99",
+            "EyeLevel_5up": "$3.99",
+            "AllLevel_1up": "$2.99",
+            "GOLD BAT": "$14.99",
+            "Called Shot 4": "$0.99",
+            "EyeLevel_1up": "$0.99"
+          }
+        },
         {
           "timestamp": 1753405554068,
           "price": 0.99,
@@ -69358,6 +69392,18 @@
     "history": [
       [
         {
+          "timestamp": 1753413837911,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Lifetime Premium": "$9.99",
+            "300 Altitude Query Times": "$3.99",
+            "100 Altitude Query Times": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753327439181,
           "price": 0,
           "formattedPrice": "Free",
@@ -89536,6 +89582,25 @@
     "history": [
       [
         {
+          "timestamp": 1753413837911,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Nurse Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Uniform Pack": "$3.99",
+            "Monster Pack": "$19.99",
+            "Mecha Pack": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752963143739,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -102828,10 +102893,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753413837911,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745334141417,
@@ -113049,10 +113122,22 @@
   },
   "6748376912": {
     "name": "Dragon Hunt: Tribe Within",
-    "maxPriceInfo": {},
-    "minPriceInfo": {},
+    "maxPriceInfo": {
+      "Diamonds": "$2.99"
+    },
+    "minPriceInfo": {
+      "Diamonds": "$2.99"
+    },
     "history": [
       [
+        {
+          "timestamp": 1753413837911,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        },
         {
           "timestamp": 1753381153709,
           "inAppPurchases": {}
