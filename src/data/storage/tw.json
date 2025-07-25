@@ -31183,6 +31183,14 @@
     "history": [
       [
         {
+          "timestamp": 1753452788446,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752156813775,
           "price": 20,
           "formattedPrice": "$20.00",
@@ -45960,6 +45968,25 @@
     "history": [
       [
         {
+          "timestamp": 1753452788446,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "$290.00",
+            "Hammerhold Campaign!": "$290.00",
+            "Tower Ignis Altar": "$90.00",
+            "Hero Grosh": "$150.00",
+            "Special Offer 27": "$290.00",
+            "Special Offer 24": "$290.00",
+            "Special Offer 21": "$290.00",
+            "Special Offer 20": "$290.00",
+            "Special Offer 19": "$290.00",
+            "Special Offer 18": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753146357384,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -48137,6 +48164,14 @@
       "formattedPrice": "$50.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753452788446,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752156813775,
@@ -106584,7 +106619,7 @@
     "maxPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
-      "Diamonds": "$150.00"
+      "Diamonds": "$690.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -106593,6 +106628,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753452788446,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Diamonds": "$690.00"
+          }
+        },
         {
           "timestamp": 1753427837981,
           "inAppPurchases": {}

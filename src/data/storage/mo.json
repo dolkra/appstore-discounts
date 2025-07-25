@@ -13028,6 +13028,25 @@
     "history": [
       [
         {
+          "timestamp": 1753452788446,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Procurement Director": "USD 0.99",
+            "Disaster Manager": "USD 0.99",
+            "Medical Coordinator": "USD 0.99",
+            "Ethics Watchdog": "USD 0.99",
+            "Chaos Engineer": "USD 0.99",
+            "Economic Forecaster": "USD 0.99",
+            "Situation Director": "USD 0.99",
+            "Outreach Coordinator": "USD 0.99",
+            "Fast Response EMTs": "USD 0.99",
+            "Strategic Fundraiser": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753331611909,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -16943,7 +16962,17 @@
       "Road Trip Bundle": "USD 9.99",
       "Ice Breakers Bundle": "USD 6.99",
       "Birthday Party Bundle": "USD 9.99",
-      "Wedding Party Bundle": "USD 12.99"
+      "Wedding Party Bundle": "USD 12.99",
+      "Birding Deck": "USD 1.99",
+      "Camping Deck": "USD 1.99",
+      "Flowers Deck": "USD 1.99",
+      "LifeTime Pass": "USD 99.99",
+      "Mexican Cuisine Deck": "USD 1.99",
+      "Welcome Offer": "USD 19.99",
+      "Italian Cuisine Deck": "USD 1.99",
+      "Dinosaurs Deck": "USD 1.99",
+      "Fishing Deck": "USD 1.99",
+      "Greek Cuisine Deck": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -16986,10 +17015,37 @@
       "Road Trip Bundle": "USD 9.99",
       "Ice Breakers Bundle": "USD 6.99",
       "Birthday Party Bundle": "USD 9.99",
-      "Wedding Party Bundle": "USD 12.99"
+      "Wedding Party Bundle": "USD 12.99",
+      "Birding Deck": "USD 1.99",
+      "Camping Deck": "USD 1.99",
+      "Flowers Deck": "USD 1.99",
+      "LifeTime Pass": "USD 99.99",
+      "Mexican Cuisine Deck": "USD 1.99",
+      "Welcome Offer": "USD 19.99",
+      "Italian Cuisine Deck": "USD 1.99",
+      "Dinosaurs Deck": "USD 1.99",
+      "Fishing Deck": "USD 1.99",
+      "Greek Cuisine Deck": "USD 1.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1753452788446,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Birding Deck": "USD 1.99",
+            "Camping Deck": "USD 1.99",
+            "Flowers Deck": "USD 1.99",
+            "LifeTime Pass": "USD 99.99",
+            "Mexican Cuisine Deck": "USD 1.99",
+            "Welcome Offer": "USD 19.99",
+            "Italian Cuisine Deck": "USD 1.99",
+            "Dinosaurs Deck": "USD 1.99",
+            "Fishing Deck": "USD 1.99",
+            "Greek Cuisine Deck": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1753413837911,
           "price": 1.99,
@@ -24193,6 +24249,14 @@
       "formattedPrice": "USD 0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753452788446,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752156813775,
@@ -36717,6 +36781,14 @@
       "formattedPrice": "USD 1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753452788446,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752156813775,
@@ -74775,6 +74847,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753452788446,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Diamonds": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1753420864374,
           "inAppPurchases": {}
