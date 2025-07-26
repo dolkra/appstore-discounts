@@ -30964,6 +30964,27 @@
       ]
     ]
   },
+  "919429622": {
+    "name": "The Pyraplex",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753560810085,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "920133658": {
     "name": "Anatomy & Physiology",
     "maxPriceInfo": {
@@ -80321,6 +80342,20 @@
       "Apollo Lunar Missions": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753560810085,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {
+            "SkySafari Premium": "$29.99",
+            "SkySafari Premium Monthly": "$3.99",
+            "PGC Galaxy Database": "$0.00",
+            "GAIA Star Database": "$0.00",
+            "Apollo Lunar Missions": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753381153709,
