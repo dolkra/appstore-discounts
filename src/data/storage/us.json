@@ -20492,6 +20492,25 @@
     "history": [
       [
         {
+          "timestamp": 1753567948857,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Dierdre": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752643180839,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -114151,10 +114170,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 0.99,
+      "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753567948857,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752982819338,
