@@ -43289,6 +43289,23 @@
     "history": [
       [
         {
+          "timestamp": 1753556989050,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$0.99",
+            "Props Tip: Pyramid": "$0.99",
+            "Get the main entrance lighthouse passcode": "$0.99",
+            "Props Tip: Temple corner": "$0.99",
+            "Props Tip: flower": "$0.99",
+            "Get coffin password": "$0.99",
+            "Pyramid obtain dial pointer display mode": "$0.99",
+            "Get inside the temple door password": "$0.99",
+            "Rockets get the door unlocking": "$0.99",
+            "Get the factory door unlock": "$0.99"
+          }
+        },
+        {
           "timestamp": 1753553845149,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -85192,8 +85209,8 @@
   "1602403259": {
     "name": "Webmail App",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Webmail Pro": "$1.99",
       "Business Plan": "$24.99",
       "Basic Plan": "$3.99",
@@ -85210,6 +85227,20 @@
       "Premium Plan": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753556989050,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Webmail Pro": "$1.99",
+            "Pro Plan": "$6.99",
+            "Basic Plan": "$3.99",
+            "Premium Plan": "$12.99",
+            "Business Plan": "$24.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,

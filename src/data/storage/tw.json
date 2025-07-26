@@ -79129,8 +79129,8 @@
   "1602403259": {
     "name": "Webmail App",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 90,
+      "formattedPrice": "$90.00",
       "Webmail Pro": "$60.00",
       "Premium Plan": "$390.00",
       "Pro Plan": "$220.00",
@@ -79147,6 +79147,20 @@
       "Business Plan": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753556989050,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Webmail Pro": "$60.00",
+            "Premium Plan": "$390.00",
+            "Pro Plan": "$220.00",
+            "Basic Plan": "$120.00",
+            "Business Plan": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
