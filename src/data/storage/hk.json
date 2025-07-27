@@ -12681,6 +12681,40 @@
       ]
     ]
   },
+  "485538133": {
+    "name": "Dot Line",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "30 Stars": "HK$ 8.00",
+      "100 Stars": "HK$ 22.00",
+      "400 Stars": "HK$ 88.00",
+      "180 Stars": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "30 Stars": "HK$ 8.00",
+      "100 Stars": "HK$ 22.00",
+      "400 Stars": "HK$ 88.00",
+      "180 Stars": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753640241129,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "30 Stars": "HK$ 8.00",
+            "100 Stars": "HK$ 22.00",
+            "400 Stars": "HK$ 88.00",
+            "180 Stars": "HK$ 38.00"
+          }
+        }
+      ]
+    ]
+  },
   "486578707": {
     "name": "Unofficial Minifigure Catalog",
     "maxPriceInfo": {
@@ -16137,6 +16171,46 @@
             "紅魔瘟疫擴展包": "HK$ 18.00",
             "場景包": "HK$ 22.00",
             "猿猴流感擴充包": "HK$ 18.00"
+          }
+        }
+      ]
+    ]
+  },
+  "527358348": {
+    "name": "Fieldrunners 2",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "2,000 Coins": "HK$ 22.00",
+      "7,000 Coins": "HK$ 68.00",
+      "14,000 Coins": "HK$ 98.00",
+      "30,000 Coins": "HK$ 148.00",
+      "70,000 Coins": "HK$ 288.00",
+      "200,000 Coins": "HK$ 788.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "2,000 Coins": "HK$ 22.00",
+      "7,000 Coins": "HK$ 68.00",
+      "14,000 Coins": "HK$ 98.00",
+      "30,000 Coins": "HK$ 148.00",
+      "70,000 Coins": "HK$ 288.00",
+      "200,000 Coins": "HK$ 788.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753640241129,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "2,000 Coins": "HK$ 22.00",
+            "7,000 Coins": "HK$ 68.00",
+            "14,000 Coins": "HK$ 98.00",
+            "30,000 Coins": "HK$ 148.00",
+            "70,000 Coins": "HK$ 288.00",
+            "200,000 Coins": "HK$ 788.00"
           }
         }
       ]

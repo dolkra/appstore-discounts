@@ -11841,6 +11841,40 @@
       ]
     ]
   },
+  "485538133": {
+    "name": "Dot Line",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "100 Stars": "$90.00",
+      "30 Stars": "$30.00",
+      "400 Stars": "$320.00",
+      "180 Stars": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "100 Stars": "$90.00",
+      "30 Stars": "$30.00",
+      "400 Stars": "$320.00",
+      "180 Stars": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753640241129,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "100 Stars": "$90.00",
+            "30 Stars": "$30.00",
+            "400 Stars": "$320.00",
+            "180 Stars": "$150.00"
+          }
+        }
+      ]
+    ]
+  },
   "486578707": {
     "name": "Unofficial Minifigure Catalog",
     "maxPriceInfo": {
@@ -15923,6 +15957,46 @@
             "紅魔瘟疫擴展包": "$60.00",
             "場景包": "$90.00",
             "猿猴流感擴充包": "$60.00"
+          }
+        }
+      ]
+    ]
+  },
+  "527358348": {
+    "name": "Fieldrunners 2",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "2,000 Coins": "$90.00",
+      "7,000 Coins": "$290.00",
+      "30,000 Coins": "$690.00",
+      "14,000 Coins": "$390.00",
+      "70,000 Coins": "$1,290.00",
+      "200,000 Coins": "$2,990.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "2,000 Coins": "$90.00",
+      "7,000 Coins": "$290.00",
+      "30,000 Coins": "$690.00",
+      "14,000 Coins": "$390.00",
+      "70,000 Coins": "$1,290.00",
+      "200,000 Coins": "$2,990.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753640241129,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "2,000 Coins": "$90.00",
+            "7,000 Coins": "$290.00",
+            "30,000 Coins": "$690.00",
+            "14,000 Coins": "$390.00",
+            "70,000 Coins": "$1,290.00",
+            "200,000 Coins": "$2,990.00"
           }
         }
       ]

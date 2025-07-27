@@ -14682,6 +14682,40 @@
       ]
     ]
   },
+  "485538133": {
+    "name": "Dot Line",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "30 Stars": "$0.99",
+      "100 Stars": "$2.99",
+      "400 Stars": "$9.99",
+      "180 Stars": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "30 Stars": "$0.99",
+      "100 Stars": "$2.99",
+      "400 Stars": "$9.99",
+      "180 Stars": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753640241129,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "30 Stars": "$0.99",
+            "100 Stars": "$2.99",
+            "400 Stars": "$9.99",
+            "180 Stars": "$4.99"
+          }
+        }
+      ]
+    ]
+  },
   "486578707": {
     "name": "Unofficial Minifigure Catalog",
     "maxPriceInfo": {
@@ -18240,6 +18274,46 @@
             "Simian Flu Expansion Pack": "$1.99",
             "Shadow Plague Expansion Pack": "$1.99",
             "Unlock Virus": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "527358348": {
+    "name": "Fieldrunners 2",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "2,000 Coins": "$2.99",
+      "7,000 Coins": "$8.99",
+      "14,000 Coins": "$12.99",
+      "30,000 Coins": "$19.99",
+      "70,000 Coins": "$39.99",
+      "200,000 Coins": "$99.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99",
+      "2,000 Coins": "$2.99",
+      "7,000 Coins": "$8.99",
+      "14,000 Coins": "$12.99",
+      "30,000 Coins": "$19.99",
+      "70,000 Coins": "$39.99",
+      "200,000 Coins": "$99.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753640241129,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "2,000 Coins": "$2.99",
+            "7,000 Coins": "$8.99",
+            "14,000 Coins": "$12.99",
+            "30,000 Coins": "$19.99",
+            "70,000 Coins": "$39.99",
+            "200,000 Coins": "$99.99"
           }
         }
       ]
