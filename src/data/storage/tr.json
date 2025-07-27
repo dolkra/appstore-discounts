@@ -7335,6 +7335,25 @@
     "history": [
       [
         {
+          "timestamp": 1753629146057,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Cranky's Story": "₺129,99",
+            "Locksmith - All Swampy Locks": "₺229,99",
+            "Locksmith - All Cranky Locks": "₺99,99",
+            "Locksmith - All Mystery Locks": "₺229,99",
+            "Mystery Duck": "₺129,99",
+            "Locksmith - One Lock": "₺39,99",
+            "Sale Pack": "₺179,99",
+            "Allie's Story": "₺39,99",
+            "Locksmith - All Allie Locks": "₺99,99",
+            "Allie Sale Pack": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753277609211,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -87072,8 +87091,8 @@
   "6748852099": {
     "name": "Chain of Evidence",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99",
+      "price": 9.99,
+      "formattedPrice": "₺9,99",
       "Küçük Altın Çantası": "₺9,99",
       "Büyük Altın Sandığı": "₺69,99",
       "Orta Altın Sandığı": "₺39,99",
@@ -87089,6 +87108,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753629146057,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Küçük Altın Çantası": "₺9,99",
+            "Büyük Altın Sandığı": "₺69,99",
+            "Orta Altın Sandığı": "₺39,99",
+            "Mega Altın Hazinesi": "₺199,99"
+          }
+        },
         {
           "timestamp": 1753593576986,
           "price": 4.99,
