@@ -107326,6 +107326,14 @@
     "history": [
       [
         {
+          "timestamp": 1753593576986,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "$790.00"
+          }
+        },
+        {
           "timestamp": 1753591039564,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -107429,6 +107437,40 @@
           "formattedPrice": "$10.00",
           "inAppPurchases": {
             "Diamonds": "$150.00"
+          }
+        }
+      ]
+    ]
+  },
+  "6748852099": {
+    "name": "Delil Zinciri",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Büyük Altın Sandığı": "$60.00",
+      "Orta Altın Sandığı": "$30.00",
+      "Mega Altın Hazinesi": "$150.00",
+      "Küçük Altın Çantası": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Büyük Altın Sandığı": "$60.00",
+      "Orta Altın Sandığı": "$30.00",
+      "Mega Altın Hazinesi": "$150.00",
+      "Küçük Altın Çantası": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753593576986,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "$60.00",
+            "Orta Altın Sandığı": "$30.00",
+            "Mega Altın Hazinesi": "$150.00",
+            "Küçük Altın Çantası": "$30.00"
           }
         }
       ]

@@ -114431,6 +114431,16 @@
     "history": [
       [
         {
+          "timestamp": 1753593576986,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753587694043,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -114477,6 +114487,40 @@
         {
           "timestamp": 1753381153709,
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748852099": {
+    "name": "Chain of Evidence",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Büyük Altın Sandığı": "$1.99",
+      "Orta Altın Sandığı": "$0.99",
+      "Mega Altın Hazinesi": "$4.99",
+      "Küçük Altın Çantası": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Büyük Altın Sandığı": "$1.99",
+      "Orta Altın Sandığı": "$0.99",
+      "Mega Altın Hazinesi": "$4.99",
+      "Küçük Altın Çantası": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753593576986,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "$1.99",
+            "Orta Altın Sandığı": "$0.99",
+            "Mega Altın Hazinesi": "$4.99",
+            "Küçük Altın Çantası": "$0.99"
+          }
         }
       ]
     ]
