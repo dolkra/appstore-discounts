@@ -81159,6 +81159,14 @@
     "history": [
       [
         {
+          "timestamp": 1753674024248,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753327439181,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -90977,6 +90985,25 @@
       "Mecha Pack": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753674024248,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Nurse Pack": "$4.99",
+            "Character Pass": "$11.99",
+            "Monster Pack": "$19.99",
+            "Uniform Pack": "$3.99",
+            "Mecha Pack": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753413837911,
@@ -114909,6 +114936,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753674024248,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Diamonds": "$2.99"
+          }
+        },
         {
           "timestamp": 1753597136508,
           "inAppPurchases": {}
