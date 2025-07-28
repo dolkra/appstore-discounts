@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1504218030,
+    name: {
+      mo: 'WatchWave - Radio Signal Sync',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1205826385,
     name: {
       mo: '愛傳送 - 極簡易用',
