@@ -8733,7 +8733,10 @@
       "Lunar Return Report": "$3.99",
       "Predictive Report - Untimed": "$2.99",
       "Child Report - Untimed": "$2.99",
-      "Gold Level Free Trial": "$0.00"
+      "Gold Level Free Trial": "$0.00",
+      "Gold Annual": "$59.99",
+      "Gold Monthly": "$7.99",
+      "Gold Level lifetime": "$99.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -8752,9 +8755,31 @@
       "Lunar Return Report": "$3.99",
       "Predictive Report - Untimed": "$2.99",
       "Child Report - Untimed": "$2.99",
-      "Gold Level Free Trial": "$0.00"
+      "Gold Level Free Trial": "$0.00",
+      "Gold Annual": "$59.99",
+      "Gold Monthly": "$7.99",
+      "Gold Level lifetime": "$99.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753712195916,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Gold Annual": "$59.99",
+            "Gold Monthly": "$7.99",
+            "Gold Level lifetime": "$99.99",
+            "Gold Level Free Trial": "$0.00",
+            "Lunar Return Report": "$3.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Astrolocality Maps": "$24.99",
+            "The Big Three Report": "$3.99",
+            "Relationship Report": "$3.99",
+            "Predictive Report - Untimed": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751451247046,
@@ -25167,6 +25192,25 @@
       "VII Bundle 01": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753712195916,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$3.99",
+            "Ayatsugu_Otowa Collection": "$3.99",
+            "Sherwin Collection": "$3.99",
+            "Capchii Collection": "$3.99",
+            "VII Bundle 06": "$12.99",
+            "VII Bundle 05": "$10.99",
+            "VII Bundle 03": "$6.99",
+            "VII Bundle 02": "$4.99",
+            "VII Bundle 04": "$8.99",
+            "VII Bundle 01": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753197253777,
@@ -47460,6 +47504,27 @@
           "inAppPurchases": {
             "Blissful Sleep DLC": "$2.99"
           }
+        }
+      ]
+    ]
+  },
+  "1205826385": {
+    "name": "iTrunSo - Simple & Easy to Use",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753712195916,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -104158,6 +104223,25 @@
       "New Holland T8.435 Genesis": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753712195916,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "$1.99",
+            "Vervaet Hydro Trike 5x5": "$1.99",
+            "Kubota RTV-XG850 SIDEKICK": "$1.99",
+            "Case IH Austoft 8800 Multi-Row": "$1.99",
+            "Krone BiG Pack 1290 HDP VC": "$0.99",
+            "Kotte PQ 32000": "$0.99",
+            "KINZE 3665 Blue Drive": "$0.99",
+            "Versatile 4WD 620": "$1.99",
+            "Amazone CITAN 15001-C": "$0.99",
+            "Claas Xerion 5000": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753363989829,
