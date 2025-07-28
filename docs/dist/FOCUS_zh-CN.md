@@ -16,7 +16,7 @@
 |1242|1578669842|自动|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|
 |1241|1640679491|自动|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
 |1240|6569254072|自动|Watch闪卡|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|
-|1239|6748376912|自动|❌|石器大陸之獵龍時代|石器大陸之獵龍時代|石器大陸之獵龍時代|Dragon Hunt: Tribe Within|Dragon Hunt: Tribe Within|
+|1239| ~~6748376912~~ |自动| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ |
 |1238|1533979882|自动|❌|Northgard|Northgard|Northgard|Northgard|Northgard|
 |1237|1466088186|自动|❌|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|
 |1236|6746136017|自动|❌|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|
@@ -44,7 +44,7 @@
 |1214|6478572512|自动|❌|迷你空管：高級版|迷你空管：高級版|迷你空管：高級版|Mini Airways:Premium|Mini Airways:Premium|
 |1213|1579211407|自动|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|
 |1212|491907493|自动|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|
-|1211|1133083101|自动|实时天气Pro -国家天气预报&空气质量|國家天氣Pro-15日即時天氣預報&空氣品質|國家天氣Pro-15日即時天氣預報&空氣品質|國家天氣Pro-15日即時天氣預報&空氣品質|❌|Weather Pro - rain radar|
+|1211| ~~1133083101~~ |自动| ~~实时天气Pro -国家天气预报&空气质量~~ | ~~國家天氣Pro-15日即時天氣預報&空氣品質~~ | ~~國家天氣Pro-15日即時天氣預報&空氣品質~~ | ~~國家天氣Pro-15日即時天氣預報&空氣品質~~ | ~~❌~~ | ~~Weather Pro - rain radar~~ |
 |1210|1637940076|自动|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|
 |1209|6740349587|自动|❌|Backyard Baseball '01|Backyard Baseball '01|Backyard Baseball '01|Backyard Baseball '01|Backyard Baseball '01|
 |1208|6478639011|自动|❌|Subnautica|Subnautica|Subnautica|Subnautica|Subnautica|
@@ -91,7 +91,7 @@
 |1167|1551273147|自动|Otter - 水獭的食谱日记|Otter - Diet Diary|Otter - Diet Diary|Otter - Diet Diary|Otter - Diet Diary|Otter - Diet Diary|
 |1166|1146269500|自动|英语日常用语-学习英语口语基本对话句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|English Phrase Book Learn|English Phrase Book Learn|
 |1165|474177077|自动|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|
-|1164|6479684285|自动|❌|Never Night|Never Night|Never Night|Never Night|Never Night|
+|1164| ~~6479684285~~ |自动| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ |
 |1163|1039141908|自动|❌|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|
 |1162|547000247|自动|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|
 |1161|1332586660|自动|搜索 互联网 文本 URL 浏览器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|Search Web Text on URL Browser|Search Web Text on URL Browser|
@@ -695,7 +695,7 @@
 |563|342115564|自动|Hipstamatic 相机|Hipstamatic 相機|Hipstamatic 相機|Hipstamatic 相機|Classic Camera by Hipstamatic|Classic Camera by Hipstamatic|
 |562|344784375|自动|播放器OPlayer|OPlayer - video player|OPlayer - video player|OPlayer - video player|OPlayer - video player|OPlayer - video player|
 |561|351850196|自动|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|
-|560|352247139|自动|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|
+|560| ~~352247139~~ |自动| ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ |
 |559|355281169|自动|❌|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|
 |558|357404131|自动|慢快门相机 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|Slow Shutter Cam|Slow Shutter Cam|
 |557|357421934|自动|PeakFinder|PeakFinder|PeakFinder|PeakFinder|PeakFinder|PeakFinder|
@@ -712,7 +712,7 @@
 |546|404990064|自动|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|
 |545|405835358|自动|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|
 |544|406239138|自动|❌|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Browser Pro|Puffin Browser Pro|
-|543|406541444|自动|8毫米相机|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|
+|543| ~~406541444~~ |自动| ~~8毫米相机~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ |
 |542|407933070|自动|怀旧日历 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|
 |541|408697793|自动|❌|King of Opera|King of Opera|King of Opera|King of Opera|King of Opera|
 |540|408854559|自动|❌|溫泉物語|溫泉物語|溫泉物語|Hot Springs Story|Hot Springs Story|
@@ -771,7 +771,7 @@
 |487|784373321|自动|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
 |486|807317212|自动|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|
 |485|824305459|自动|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
-|484|829581836|自动|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|
+|484| ~~829581836~~ |自动| ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ |
 |483|837860959|自动|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|
 |482|860809977|自动|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|
 |481|870322730|自动|❌|Implosion 聚爆|Implosion 聚爆|Implosion 聚爆|Implosion - Never Lose Hope|Implosion - Never Lose Hope|
@@ -780,7 +780,7 @@
 |478|901738789|自动|地下城堡: 炼金术师的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|Dungeon Survivor|Dungeon Survivor|
 |477| ~~904278510~~ |自动| ~~❌~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~Hitman Sniper~~ | ~~Hitman Sniper~~ |
 |476|912536422|自动|❌|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|
-|475|916976066|自动|短语键盘|短語鍵盤|短語鍵盤|短語鍵盤|Phraseboard Keyboard|Phraseboard Keyboard|
+|475| ~~916976066~~ |自动| ~~短语键盘~~ | ~~短語鍵盤~~ | ~~短語鍵盤~~ | ~~短語鍵盤~~ | ~~Phraseboard Keyboard~~ | ~~Phraseboard Keyboard~~ |
 |474| ~~918609651~~ |自动| ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: Personal Finance AR~~ |
 |473|924695435|自动|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|
 |472|925494667|自动|❌|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|
@@ -871,7 +871,7 @@
 |387|1437096541|自动|❌|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|
 |386|1438245901|自动|❌|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|
 |385| ~~1439187947~~ |自动| ~~❌~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc.~~ | ~~Rebel Inc.~~ |
-|384|1439881811|自动|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|
+|384| ~~1439881811~~ |自动| ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ |
 |383|1441969889|自动|❌|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|
 |382|1442776789|自动|❌|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|
 |381| ~~1444761746~~ |自动| ~~❌~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ |

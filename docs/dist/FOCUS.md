@@ -16,7 +16,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |1242|1578669842|Automatic|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|Road Movie Pro|
 |1241|1640679491|Automatic|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
 |1240|6569254072|Automatic|Watch闪卡|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|
-|1239|6748376912|Automatic|❌|石器大陸之獵龍時代|石器大陸之獵龍時代|石器大陸之獵龍時代|Dragon Hunt: Tribe Within|Dragon Hunt: Tribe Within|
+|1239| ~~6748376912~~ |Automatic| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ |
 |1238|1533979882|Automatic|❌|Northgard|Northgard|Northgard|Northgard|Northgard|
 |1237|1466088186|Automatic|❌|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|
 |1236|6746136017|Automatic|❌|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|
@@ -44,7 +44,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |1214|6478572512|Automatic|❌|迷你空管：高級版|迷你空管：高級版|迷你空管：高級版|Mini Airways:Premium|Mini Airways:Premium|
 |1213|1579211407|Automatic|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|河马英文阅读器 (Hippo Reader)|
 |1212|491907493|Automatic|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|ABRSM Aural Trainer Grades 1-5|
-|1211|1133083101|Automatic|实时天气Pro -国家天气预报&空气质量|國家天氣Pro-15日即時天氣預報&空氣品質|國家天氣Pro-15日即時天氣預報&空氣品質|國家天氣Pro-15日即時天氣預報&空氣品質|❌|Weather Pro - rain radar|
+|1211| ~~1133083101~~ |Automatic| ~~实时天气Pro -国家天气预报&空气质量~~ | ~~國家天氣Pro-15日即時天氣預報&空氣品質~~ | ~~國家天氣Pro-15日即時天氣預報&空氣品質~~ | ~~國家天氣Pro-15日即時天氣預報&空氣品質~~ | ~~❌~~ | ~~Weather Pro - rain radar~~ |
 |1210|1637940076|Automatic|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|EarthBeat - Schumann Resonance|
 |1209|6740349587|Automatic|❌|Backyard Baseball '01|Backyard Baseball '01|Backyard Baseball '01|Backyard Baseball '01|Backyard Baseball '01|
 |1208|6478639011|Automatic|❌|Subnautica|Subnautica|Subnautica|Subnautica|Subnautica|
@@ -91,7 +91,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |1167|1551273147|Automatic|Otter - 水獭的食谱日记|Otter - Diet Diary|Otter - Diet Diary|Otter - Diet Diary|Otter - Diet Diary|Otter - Diet Diary|
 |1166|1146269500|Automatic|英语日常用语-学习英语口语基本对话句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|English Phrase Book Learn|English Phrase Book Learn|
 |1165|474177077|Automatic|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|
-|1164|6479684285|Automatic|❌|Never Night|Never Night|Never Night|Never Night|Never Night|
+|1164| ~~6479684285~~ |Automatic| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ |
 |1163|1039141908|Automatic|❌|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|
 |1162|547000247|Automatic|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|
 |1161|1332586660|Automatic|搜索 互联网 文本 URL 浏览器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|Search Web Text on URL Browser|Search Web Text on URL Browser|
@@ -695,7 +695,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |563|342115564|Automatic|Hipstamatic 相机|Hipstamatic 相機|Hipstamatic 相機|Hipstamatic 相機|Classic Camera by Hipstamatic|Classic Camera by Hipstamatic|
 |562|344784375|Automatic|播放器OPlayer|OPlayer - video player|OPlayer - video player|OPlayer - video player|OPlayer - video player|OPlayer - video player|
 |561|351850196|Automatic|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|紫白飛星萬年曆 - 十三行作品|
-|560|352247139|Automatic|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|Calorie Counter PRO MyNetDiary|
+|560| ~~352247139~~ |Automatic| ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ | ~~Calorie Counter PRO MyNetDiary~~ |
 |559|355281169|Automatic|❌|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|遠流字典通 (豪華版)|
 |558|357404131|Automatic|慢快门相机 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|慢快門相機 (Slow Shutter Cam)|Slow Shutter Cam|Slow Shutter Cam|
 |557|357421934|Automatic|PeakFinder|PeakFinder|PeakFinder|PeakFinder|PeakFinder|PeakFinder|
@@ -712,7 +712,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |546|404990064|Automatic|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|SkyView®|
 |545|405835358|Automatic|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|MilGPS|
 |544|406239138|Automatic|❌|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Cloud Browser|Puffin Browser Pro|Puffin Browser Pro|
-|543|406541444|Automatic|8毫米相机|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|8mm Vintage Camera|
+|543| ~~406541444~~ |Automatic| ~~8毫米相机~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ | ~~8mm Vintage Camera~~ |
 |542|407933070|Automatic|怀旧日历 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|懷舊日曆 - 十三行作品|
 |541|408697793|Automatic|❌|King of Opera|King of Opera|King of Opera|King of Opera|King of Opera|
 |540|408854559|Automatic|❌|溫泉物語|溫泉物語|溫泉物語|Hot Springs Story|Hot Springs Story|
@@ -771,7 +771,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |487|784373321|Automatic|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
 |486|807317212|Automatic|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|
 |485|824305459|Automatic|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
-|484|829581836|Automatic|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|Driving Theory Test 4 in 1 Kit|
+|484| ~~829581836~~ |Automatic| ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ |
 |483|837860959|Automatic|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|
 |482|860809977|Automatic|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|Fongo World Edition|
 |481|870322730|Automatic|❌|Implosion 聚爆|Implosion 聚爆|Implosion 聚爆|Implosion - Never Lose Hope|Implosion - Never Lose Hope|
@@ -780,7 +780,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |478|901738789|Automatic|地下城堡: 炼金术师的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|地下城堡: 煉金術師的魔幻之旅|Dungeon Survivor|Dungeon Survivor|
 |477| ~~904278510~~ |Automatic| ~~❌~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~刺客任務：狙擊 (Hitman Sniper)~~ | ~~Hitman Sniper~~ | ~~Hitman Sniper~~ |
 |476|912536422|Automatic|❌|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|
-|475|916976066|Automatic|短语键盘|短語鍵盤|短語鍵盤|短語鍵盤|Phraseboard Keyboard|Phraseboard Keyboard|
+|475| ~~916976066~~ |Automatic| ~~短语键盘~~ | ~~短語鍵盤~~ | ~~短語鍵盤~~ | ~~短語鍵盤~~ | ~~Phraseboard Keyboard~~ | ~~Phraseboard Keyboard~~ |
 |474| ~~918609651~~ |Automatic| ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: Personal Finance AR~~ |
 |473|924695435|Automatic|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|
 |472|925494667|Automatic|❌|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|
@@ -871,7 +871,7 @@ So far, we've covered `6` `Countries or Regions` and  `1250` `Apps` <br />Push n
 |387|1437096541|Automatic|❌|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|Rush Rally 3|
 |386|1438245901|Automatic|❌|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|Papa's Pancakeria To Go!|
 |385| ~~1439187947~~ |Automatic| ~~❌~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc. (反叛公司)~~ | ~~Rebel Inc.~~ | ~~Rebel Inc.~~ |
-|384|1439881811|Automatic|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|RadarOmega|
+|384| ~~1439881811~~ |Automatic| ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ | ~~RadarOmega~~ |
 |383|1441969889|Automatic|❌|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|
 |382|1442776789|Automatic|❌|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|
 |381| ~~1444761746~~ |Automatic| ~~❌~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ |
