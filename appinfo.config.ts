@@ -150,6 +150,7 @@ export const latestAppConfig: AppConfig[] = [
       tw: '石器大陸之獵龍時代',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1533979882,
@@ -350,6 +351,7 @@ export const latestAppConfig: AppConfig[] = [
       mo: '國家天氣Pro-15日即時天氣預報&空氣品質',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1637940076,
@@ -683,6 +685,7 @@ export const latestAppConfig: AppConfig[] = [
       mo: 'Never Night',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1039141908,
@@ -4932,6 +4935,7 @@ export const part1AppConfig: AppConfig[] = [
       us: 'Calorie Counter PRO MyNetDiary',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 355281169,
@@ -5058,6 +5062,7 @@ export const part1AppConfig: AppConfig[] = [
       mo: '8mm Vintage Camera',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 407933070,
@@ -5498,6 +5503,7 @@ export const part1AppConfig: AppConfig[] = [
       hk: 'Driving Theory Test 4 in 1 Kit',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 837860959,
@@ -5569,6 +5575,7 @@ export const part1AppConfig: AppConfig[] = [
       tw: '短語鍵盤',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 918609651,
@@ -6234,6 +6241,7 @@ export const part1AppConfig: AppConfig[] = [
       us: 'RadarOmega',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1441969889,
