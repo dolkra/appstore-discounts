@@ -80872,7 +80872,11 @@
       "Premium Plan": "HK$ 98.00",
       "Pro Plan": "HK$ 58.00",
       "Basic Plan": "HK$ 32.00",
-      "Business Plan": "HK$ 188.00"
+      "Business Plan": "HK$ 188.00",
+      "Webmail Regular": "HK$ 8.00",
+      "Webmail Gold": "HK$ 118.00",
+      "Webmail Sliver": "HK$ 68.00",
+      "Webmail Business": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 18,
@@ -80881,9 +80885,31 @@
       "Premium Plan": "HK$ 98.00",
       "Pro Plan": "HK$ 58.00",
       "Basic Plan": "HK$ 32.00",
-      "Business Plan": "HK$ 188.00"
+      "Business Plan": "HK$ 188.00",
+      "Webmail Regular": "HK$ 8.00",
+      "Webmail Gold": "HK$ 118.00",
+      "Webmail Sliver": "HK$ 68.00",
+      "Webmail Business": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753722971223,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Webmail Pro": "HK$ 13.00",
+            "Webmail Regular": "HK$ 8.00",
+            "Webmail Gold": "HK$ 118.00",
+            "Webmail Sliver": "HK$ 68.00",
+            "Webmail Business": "HK$ 38.00",
+            "Premium Plan": "HK$ 98.00",
+            "Pro Plan": "HK$ 58.00",
+            "Basic Plan": "HK$ 32.00",
+            "Business Plan": "HK$ 188.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753556989050,

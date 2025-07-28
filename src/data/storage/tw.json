@@ -79897,7 +79897,11 @@
       "Premium Plan": "$390.00",
       "Pro Plan": "$220.00",
       "Basic Plan": "$120.00",
-      "Business Plan": "$790.00"
+      "Business Plan": "$790.00",
+      "Webmail Regular": "$30.00",
+      "Webmail Gold": "$490.00",
+      "Webmail Sliver": "$290.00",
+      "Webmail Business": "$150.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -79906,9 +79910,31 @@
       "Premium Plan": "$390.00",
       "Pro Plan": "$220.00",
       "Basic Plan": "$120.00",
-      "Business Plan": "$790.00"
+      "Business Plan": "$790.00",
+      "Webmail Regular": "$30.00",
+      "Webmail Gold": "$490.00",
+      "Webmail Sliver": "$290.00",
+      "Webmail Business": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753722971223,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Webmail Pro": "$60.00",
+            "Webmail Regular": "$30.00",
+            "Webmail Gold": "$490.00",
+            "Webmail Sliver": "$290.00",
+            "Webmail Business": "$150.00",
+            "Premium Plan": "$390.00",
+            "Pro Plan": "$220.00",
+            "Basic Plan": "$120.00",
+            "Business Plan": "$790.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753556989050,

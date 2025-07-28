@@ -60005,7 +60005,11 @@
       "Premium Plan": "¥88.00",
       "Pro Plan": "¥48.00",
       "Basic Plan": "¥28.00",
-      "Business Plan": "¥168.00"
+      "Business Plan": "¥168.00",
+      "Webmail Regular": "¥8.00",
+      "Webmail Gold": "¥98.00",
+      "Webmail Sliver": "¥58.00",
+      "Webmail Business": "¥38.00"
     },
     "minPriceInfo": {
       "price": 15,
@@ -60014,9 +60018,31 @@
       "Premium Plan": "¥88.00",
       "Pro Plan": "¥48.00",
       "Basic Plan": "¥28.00",
-      "Business Plan": "¥168.00"
+      "Business Plan": "¥168.00",
+      "Webmail Regular": "¥8.00",
+      "Webmail Gold": "¥98.00",
+      "Webmail Sliver": "¥58.00",
+      "Webmail Business": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753722971223,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Webmail Pro": "¥13.00",
+            "Webmail Regular": "¥8.00",
+            "Webmail Gold": "¥98.00",
+            "Webmail Sliver": "¥58.00",
+            "Webmail Business": "¥38.00",
+            "Premium Plan": "¥88.00",
+            "Pro Plan": "¥48.00",
+            "Basic Plan": "¥28.00",
+            "Business Plan": "¥168.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753556989050,
@@ -80235,6 +80261,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753722971223,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751426026026,
