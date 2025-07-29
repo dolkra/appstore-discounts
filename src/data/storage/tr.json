@@ -88350,14 +88350,27 @@
       "Mega Altın Hazinesi": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99",
+      "price": 2.99,
+      "formattedPrice": "₺2,99",
       "Küçük Altın Çantası": "₺9,99",
       "Büyük Altın Sandığı": "₺69,99",
       "Orta Altın Sandığı": "₺39,99",
       "Mega Altın Hazinesi": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753816533792,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Küçük Altın Çantası": "₺9,99",
+            "Büyük Altın Sandığı": "₺69,99",
+            "Orta Altın Sandığı": "₺39,99",
+            "Mega Altın Hazinesi": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753629146057,
