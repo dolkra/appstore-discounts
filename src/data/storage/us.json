@@ -83411,6 +83411,14 @@
     "history": [
       [
         {
+          "timestamp": 1753760637995,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753327439181,
           "price": 0,
           "formattedPrice": "Free",
@@ -115612,6 +115620,17 @@
       "Ground of No Return": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753760637995,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Five Blooms": "$3.99",
+            "Ground of No Return": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753158780541,
