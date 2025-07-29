@@ -84503,11 +84503,21 @@
       "Full Game Unlock": "₺449,99"
     },
     "minPriceInfo": {
-      "price": 289,
-      "formattedPrice": "₺289,00",
-      "Full Game Unlock": "₺449,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Full Game Unlock": "₺289,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753787530796,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game Unlock": "₺289,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752221868417,

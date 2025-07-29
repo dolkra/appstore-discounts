@@ -109094,11 +109094,21 @@
       "Full Game Unlock": "$9.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Full Game Unlock": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753787530796,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game Unlock": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752221868417,
