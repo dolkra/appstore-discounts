@@ -102702,13 +102702,25 @@
     "name": "Lara Croft: Guardian of Light",
     "maxPriceInfo": {
       "price": 79,
-      "formattedPrice": "HK$ 79.00"
+      "formattedPrice": "HK$ 79.00",
+      "Full Game Unlock": "HK$ 79.00"
     },
     "minPriceInfo": {
-      "price": 79,
-      "formattedPrice": "HK$ 79.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Full Game Unlock": "HK$ 79.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753792104511,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Full Game Unlock": "HK$ 79.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
