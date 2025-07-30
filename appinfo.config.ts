@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6478255275,
+    name: {
+      mo: '小学英语四年级上下册 -新起点人教版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6478186205,
+    name: {
+      mo: '小学英语六年级上下册 -新标准外研版',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6478163749,
+    name: {
+      mo: '小学英语五年级上下册 -新标准外研版',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1504218030,
     name: {
       mo: 'WatchWave - Radio Signal Sync',
