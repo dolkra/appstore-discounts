@@ -37265,6 +37265,20 @@
     "history": [
       [
         {
+          "timestamp": 1753837628529,
+          "price": 289,
+          "formattedPrice": "₺289,00",
+          "inAppPurchases": {
+            "All DLC": "₺0,00",
+            "HD Textures": "₺0,00",
+            "Best of British Pack": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Road & Track Pack": "₺0,00",
+            "Drag Pack": "₺0,00",
+            "Sprint Pack": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1753830798016,
           "price": 289,
           "formattedPrice": "₺289,00",
@@ -85128,7 +85142,12 @@
       "1M PP + Pack 4 for OOTP Go 26!": "₺22.999,99",
       "25,000 PP for OOTP Go 26!": "₺899,99",
       "5,500 PP for OOTP Go 26!": "₺229,99",
-      "OOTP26 Pack Booster Bundle": "₺899,99"
+      "OOTP26 Pack Booster Bundle": "₺899,99",
+      "OOTP26 Rainbow Booster Bundle": "₺899,99",
+      "25k PP + 5 Standard Packs!": "₺899,99",
+      "75k PP + 15 Standard Packs!": "₺2.299,99",
+      "1M PP + 200 Standard Packs!": "₺22.999,99",
+      "175k PP + 35 Standard Packs!": "₺4.499,99"
     },
     "minPriceInfo": {
       "price": 449.99,
@@ -85143,9 +85162,33 @@
       "1M PP + Pack 4 for OOTP Go 26!": "₺22.999,99",
       "25,000 PP for OOTP Go 26!": "₺699,99",
       "5,500 PP for OOTP Go 26!": "₺229,99",
-      "OOTP26 Pack Booster Bundle": "₺899,99"
+      "OOTP26 Pack Booster Bundle": "₺899,99",
+      "OOTP26 Rainbow Booster Bundle": "₺899,99",
+      "25k PP + 5 Standard Packs!": "₺899,99",
+      "75k PP + 15 Standard Packs!": "₺2.299,99",
+      "1M PP + 200 Standard Packs!": "₺22.999,99",
+      "175k PP + 35 Standard Packs!": "₺4.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753837628529,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "OOTP26 Rainbow Booster Bundle": "₺899,99",
+            "25k PP + 5 Standard Packs!": "₺899,99",
+            "75k PP + 15 Standard Packs!": "₺2.299,99",
+            "1M PP + 200 Standard Packs!": "₺22.999,99",
+            "175k PP + 35 Standard Packs!": "₺4.499,99",
+            "OOTP26 Pack Booster Bundle": "₺899,99",
+            "1M PP + Pack 2 for OOTP Go 26!": "₺22.999,99",
+            "1M PP + Pack 3 for OOTP Go 26!": "₺22.999,99",
+            "1M PP + Pack 1 for OOTP Go 26!": "₺22.999,99",
+            "75,000 PP for OOTP Go 26!": "₺2.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752722546293,
