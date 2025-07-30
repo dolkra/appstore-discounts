@@ -48348,6 +48348,27 @@
       ]
     ]
   },
+  "1237186593": {
+    "name": "Biblia de Jerusalem Portoghese",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1753863545735,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1237692856": {
     "name": "Gudak Cam",
     "maxPriceInfo": {
@@ -54072,6 +54093,14 @@
       "formattedPrice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753863545735,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746698552946,
@@ -95010,6 +95039,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1753863545735,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$9.99",
+            "All Access Voucher": "$1.99",
+            "DLC pack": "$9.99",
+            "Street Wolf Outfit": "$2.29"
+          }
+        },
         {
           "timestamp": 1753859938705,
           "price": 0,

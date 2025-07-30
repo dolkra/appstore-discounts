@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1237186593,
+    name: {
+      mo: 'Biblia de Jerusalem Portoghese',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6478255275,
     name: {
       mo: '小学英语四年级上下册 -新起点人教版',
