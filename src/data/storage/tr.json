@@ -20810,6 +20810,23 @@
     "history": [
       [
         {
+          "timestamp": 1753882521347,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Race Pass": "₺112,99",
+            "300 Aces": "₺199,99",
+            "700 Aces": "₺449,99",
+            "300 Aces Limited Time Offer": "₺39,99",
+            "Racing Prodigy Small Tyre Pack": "₺129,99",
+            "Racing Prodigy 50 Quali Tyres": "₺229,99",
+            "700 Aces Limited Time Offer": "₺229,99",
+            "Racing Prodigy X30 La Conca L4": "₺699,99",
+            "Racing Prodigy X30 Atlanta": "₺699,99",
+            "Racing Prodigy X30 Kart Dubai": "₺699,99"
+          }
+        },
+        {
           "timestamp": 1753878481599,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -30766,6 +30783,16 @@
       "Premium": "₺122,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1753882521347,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium": "₺122,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752966858585,
