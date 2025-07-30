@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6503427918,
+    name: {
+      mo: '前進！！英雄戰隊物語DX',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1237186593,
     name: {
       mo: 'Biblia de Jerusalem Portoghese',
