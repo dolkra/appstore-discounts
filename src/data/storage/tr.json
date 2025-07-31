@@ -32863,10 +32863,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754003604913,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -36965,6 +36973,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754003604913,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752275574669,
@@ -52930,6 +52946,14 @@
     "history": [
       [
         {
+          "timestamp": 1754003604913,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752189173662,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -67739,6 +67763,14 @@
     "history": [
       [
         {
+          "timestamp": 1754003604913,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752189173662,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -70074,7 +70106,7 @@
     "maxPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99",
-      "Webmail Pro": "₺40,99",
+      "Webmail Pro": "₺99,99",
       "Premium Plan": "₺599,99",
       "Pro Plan": "₺299,99",
       "Basic Plan": "₺179,99",
@@ -70098,6 +70130,24 @@
       "Webmail Business": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754003604913,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Webmail Pro": "₺99,99",
+            "Webmail Regular": "₺39,99",
+            "Webmail Gold": "₺699,99",
+            "Webmail Sliver": "₺399,99",
+            "Webmail Business": "₺229,99",
+            "Premium Plan": "₺599,99",
+            "Pro Plan": "₺299,99",
+            "Basic Plan": "₺179,99",
+            "Business Plan": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753722971223,
@@ -70943,6 +70993,14 @@
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754003604913,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752621138176,
@@ -72957,6 +73015,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754003604913,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747436543532,
