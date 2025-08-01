@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6748949090,
+    name: {
+      tw: '石器抓寵版：重返原始部落',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1498367664,
     name: {
       mo: '充電助手專業版 - 高清充電動畫屏保充電提示音',

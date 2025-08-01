@@ -7008,6 +7008,23 @@
     "history": [
       [
         {
+          "timestamp": 1754082755958,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Superpower 10": "USD 1.99",
+            "Unlock all level packs including future updates": "USD 3.99",
+            "Unlock \"Bamboo Chutes\" level pack": "USD 1.99",
+            "Magnetic Stars Superior Pack": "USD 24.99",
+            "Superpower 50 Sale": "USD 4.99",
+            "Magnetic Stars Grand Pack Sale": "USD 7.99",
+            "Magnetic Stars Grand Pack": "USD 14.99",
+            "Magnetic Stars Large Pack": "USD 6.99",
+            "Magnetic Stars Tiny Pack": "USD 3.99",
+            "Unlock \"Bath Time\" level pack": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1754079275281,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -38014,6 +38031,25 @@
     "history": [
       [
         {
+          "timestamp": 1754082755958,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Stream Palette Selection": "USD 4.99",
+            "HARDCORE TANO*C VOL.II": "USD 4.99",
+            "HARDCORE TANO*C": "USD 4.99",
+            "Cosmic Radio 2024": "USD 4.99",
+            "Miku Extend 2025": "USD 4.99",
+            "Paradigm: Reboot pt. 2": "USD 4.99",
+            "Paradigm: Reboot pt. 1": "USD 4.99",
+            "RAVON": "USD 4.99",
+            "NEKO_II": "USD 9.99",
+            "Rhythm Games Party 2024": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753413837911,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -63154,6 +63190,14 @@
     "history": [
       [
         {
+          "timestamp": 1754082755958,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752430585434,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -77954,6 +77998,31 @@
           "price": 8.99,
           "formattedPrice": "USD 8.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748949090": {
+    "name": "石器抓寵版：重返原始部落",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Diamonds": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免費",
+      "Diamonds": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754082755958,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "USD 19.99"
+          }
         }
       ]
     ]
