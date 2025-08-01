@@ -65927,6 +65927,24 @@
     "history": [
       [
         {
+          "timestamp": 1754065038306,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "丹青閣通行證": "HK$ 78.00",
+            "30元新手禮包​": "HK$ 38.00",
+            "6元新手禮包​​": "HK$ 8.00",
+            "演武大會68元通行證": "HK$ 78.00",
+            "尊享月俸": "HK$ 38.00",
+            "禮包11": "HK$ 398.00",
+            "禮包9": "HK$ 238.00",
+            "禮包7": "HK$ 110.00",
+            "禮包6": "HK$ 78.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753850185862,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -101318,10 +101336,18 @@
       "formattedPrice": "HK$ 118.00"
     },
     "minPriceInfo": {
-      "price": 118,
-      "formattedPrice": "HK$ 118.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754065038306,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745375383677,
