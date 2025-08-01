@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1498367664,
+    name: {
+      mo: '充電助手專業版 - 高清充電動畫屏保充電提示音',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6479699074,
     name: {
       hk: '戰律2：口袋版',
