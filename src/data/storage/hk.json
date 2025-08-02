@@ -51194,6 +51194,25 @@
     "history": [
       [
         {
+          "timestamp": 1754108940214,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Rate": "HK$ 0.00",
+            "Info": "HK$ 0.00",
+            "Tuner": "HK$ 0.00",
+            "Chromakey": "HK$ 0.00",
+            "Unlock All": "HK$ 58.00",
+            "Paint": "HK$ 0.00",
+            "Erase": "HK$ 8.00",
+            "Blend": "HK$ 8.00",
+            "Distortion": "HK$ 0.00",
+            "Magnifier": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752809043868,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -92838,6 +92857,25 @@
     "history": [
       [
         {
+          "timestamp": 1754108940214,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "自創武將": "HK$ 32.00",
+            "戰國七雄": "HK$ 32.00",
+            "激情版": "HK$ 8.00",
+            "無雙戰神": "HK$ 32.00",
+            "西涼悍將": "HK$ 32.00",
+            "自創武將朝代特色兵種補丁": "HK$ 32.00",
+            "楚漢爭霸": "HK$ 32.00",
+            "自創地圖": "HK$ 32.00",
+            "群雄爭霸": "HK$ 18.00",
+            "終身版": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754061267932,
           "price": 0,
           "formattedPrice": "免費",
@@ -97063,7 +97101,8 @@
       "フルーツパーラー": "HK$ 6.00",
       "聖誕夜": "HK$ 9.00",
       "紅葉漫步": "HK$ 9.00",
-      "賞燈月夜": "HK$ 6.00"
+      "賞燈月夜": "HK$ 6.00",
+      "夏日野餐": "HK$ 6.00"
     },
     "minPriceInfo": {
       "price": 15,
@@ -97086,9 +97125,29 @@
       "フルーツパーラー": "HK$ 6.00",
       "聖誕夜": "HK$ 9.00",
       "紅葉漫步": "HK$ 9.00",
-      "賞燈月夜": "HK$ 6.00"
+      "賞燈月夜": "HK$ 6.00",
+      "夏日野餐": "HK$ 6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754108940214,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "花火大會": "HK$ 9.00",
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "夏色クリームソーダ": "HK$ 6.00",
+            "萬聖派對": "HK$ 9.00",
+            "聖誕夜": "HK$ 9.00",
+            "新年日出": "HK$ 9.00",
+            "オーロラプール": "HK$ 6.00",
+            "夏日野餐": "HK$ 6.00",
+            "2025春さくらスキン": "HK$ 2.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754023646176,
@@ -109431,8 +109490,8 @@
   "6748949090": {
     "name": "石器抓寵版：重返原始部落",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免費",
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
       "Diamonds": "HK$ 148.00"
     },
     "minPriceInfo": {
@@ -109442,6 +109501,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754108940214,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1754082755958,
           "price": 0,
