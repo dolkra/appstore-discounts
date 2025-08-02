@@ -37847,6 +37847,16 @@
     "history": [
       [
         {
+          "timestamp": 1754104845008,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium": "$1,090.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753363989829,
           "price": 0,
           "formattedPrice": "免費",
@@ -79347,6 +79357,25 @@
     "history": [
       [
         {
+          "timestamp": 1754104845008,
+          "price": 110,
+          "formattedPrice": "$110.00",
+          "inAppPurchases": {
+            "Content Bundle 2": "$290.00",
+            "Reckless Car Pack": "$90.00",
+            "Off-Road Car Pack": "$90.00",
+            "Racing Heroes Car Pack": "$90.00",
+            "Steel & Wheels Pack": "$60.00",
+            "Goofy Roofs Pack": "$30.00",
+            "Getaway Car Pack": "$90.00",
+            "American All-Stars Car Pack": "$90.00",
+            "Rusty Rats Car Pack": "$90.00",
+            "Modified Monsters Car Pack": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753884862706,
           "price": 110,
           "formattedPrice": "$110.00",
@@ -111452,12 +111481,20 @@
       "Diamonds": "$690.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Diamonds": "$690.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1754104845008,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "$690.00"
+          }
+        },
         {
           "timestamp": 1754082755958,
           "price": 10,
