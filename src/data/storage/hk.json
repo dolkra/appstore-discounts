@@ -74645,6 +74645,27 @@
       ]
     ]
   },
+  "1524371466": {
+    "name": "Poly Bridge 2",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754143933523,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1524418421": {
     "name": "SessionBand Jazz Fusion",
     "maxPriceInfo": {
@@ -83187,6 +83208,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754143933523,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1754082755958,
           "price": 0,
@@ -109571,6 +109598,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754143933523,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 148.00"
+          }
+        },
         {
           "timestamp": 1754118763540,
           "inAppPurchases": {}

@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1524371466,
+    name: {
+      mo: 'Poly Bridge 2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6744608603,
     name: {
       tw: 'A Game About Digging A Hole™',

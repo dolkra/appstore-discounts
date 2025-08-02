@@ -73715,6 +73715,27 @@
       ]
     ]
   },
+  "1524371466": {
+    "name": "Poly Bridge 2",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754143933523,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1524418421": {
     "name": "SessionBand Jazz Fusion",
     "maxPriceInfo": {
@@ -111711,7 +111732,7 @@
     "maxPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00",
-      "Diamonds": "$690.00"
+      "Diamonds": "$2,990.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -111720,6 +111741,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754143933523,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Diamonds": "$2,990.00"
+          }
+        },
         {
           "timestamp": 1754118763540,
           "inAppPurchases": {}

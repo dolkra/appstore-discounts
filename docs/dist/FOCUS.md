@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1262` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1263` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1263|1524371466|Automatic|❌|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|
 |1262|6744608603|Automatic|❌|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|
 |1261|6748949090|Automatic|❌|石器抓寵版：重返原始部落|石器抓寵版：重返原始部落|石器抓寵版：重返原始部落|❌|❌|
 |1260|1498367664|Automatic|充电助手专业版 - 高清充电动画屏保充电提示音|充電助手專業版 - 高清充電動畫屏保充電提示音|充電助手專業版 - 高清充電動畫屏保充電提示音|充電助手專業版 - 高清充電動畫屏保充電提示音|Charger Master Pro|Charger Master Pro|
