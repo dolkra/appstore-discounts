@@ -24871,6 +24871,25 @@
     "history": [
       [
         {
+          "timestamp": 1754122576342,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$490.00",
+            "Racing Prodigy X30 Atlanta": "$490.00",
+            "Racing Prodigy X30 Kart Dubai": "$490.00",
+            "Racing Prodigy X30 B. Vegas": "$490.00",
+            "Racing Prodigy 50 Quali Tyres": "$150.00",
+            "10 Pack Qualifying Tyres": "$30.00",
+            "Figo 100 Octane Fuel Pack - 20": "$120.00",
+            "Le Cont Hards - 40 Tyre Pack": "$120.00",
+            "Le Cont Mediums - 40 Tyre Pack": "$120.00",
+            "Le Cont Softs - 40 Tyres Pack": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1752876785669,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -111719,6 +111738,27 @@
           "inAppPurchases": {
             "Diamonds": "$690.00"
           }
+        }
+      ]
+    ]
+  },
+  "6744608603": {
+    "name": "A Game About Digging A Hole™",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754122576342,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
         }
       ]
     ]
