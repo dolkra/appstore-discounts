@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6463849203,
+    name: {
+      mo: '叫醒冰箱 - 吃新鮮的食物，過健康的生活',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1455479739,
     name: {
       mo: 'Priori-四象限待辦清單',

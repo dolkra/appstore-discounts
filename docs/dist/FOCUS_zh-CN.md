@@ -1,10 +1,11 @@
 
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1264` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1265` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1265|6463849203|自动|叫醒冰箱 - 记录食物保鲜日期|叫醒冰箱 - 吃新鮮的食物，過健康的生活|叫醒冰箱 - 吃新鮮的食物，過健康的生活|叫醒冰箱 - 吃新鮮的食物，過健康的生活|Swing Fridge - Food Management|Swing Fridge - Food Management|
 |1264|1455479739|自动|Priori - 极简四象限|Priori-四象限待辦清單|Priori-四象限待辦清單|Priori-四象限待辦清單|Priori - Simple List|Priori - Simple List|
 |1263|1524371466|自动|❌|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|
 |1262|6744608603|自动|❌|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|
