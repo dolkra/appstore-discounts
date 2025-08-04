@@ -101,6 +101,7 @@ export const latestAppConfig: AppConfig[] = [
       tw: '石器抓寵版：重返原始部落',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1498367664,
