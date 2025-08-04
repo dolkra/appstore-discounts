@@ -1,15 +1,16 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1265` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1266` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1266|1664728315|Automatic|❌|Mutropolis mobile|Mutropolis mobile|Mutropolis mobile|Mutropolis mobile|Mutropolis mobile|
 |1265|6463849203|Automatic|叫醒冰箱 - 记录食物保鲜日期|叫醒冰箱 - 吃新鮮的食物，過健康的生活|叫醒冰箱 - 吃新鮮的食物，過健康的生活|叫醒冰箱 - 吃新鮮的食物，過健康的生活|Swing Fridge - Food Management|Swing Fridge - Food Management|
 |1264|1455479739|Automatic|Priori - 极简四象限|Priori-四象限待辦清單|Priori-四象限待辦清單|Priori-四象限待辦清單|Priori - Simple List|Priori - Simple List|
 |1263|1524371466|Automatic|❌|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|Poly Bridge 2|
 |1262|6744608603|Automatic|❌|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|A Game About Digging A Hole™|
-|1261|6748949090|Automatic|❌|石器抓寵版：重返原始部落|石器抓寵版：重返原始部落|石器抓寵版：重返原始部落|❌|❌|
+|1261| ~~6748949090~~ |Automatic| ~~❌~~ | ~~石器抓寵版：重返原始部落~~ | ~~石器抓寵版：重返原始部落~~ | ~~石器抓寵版：重返原始部落~~ | ~~❌~~ | ~~❌~~ |
 |1260|1498367664|Automatic|充电助手专业版 - 高清充电动画屏保充电提示音|充電助手專業版 - 高清充電動畫屏保充電提示音|充電助手專業版 - 高清充電動畫屏保充電提示音|充電助手專業版 - 高清充電動畫屏保充電提示音|Charger Master Pro|Charger Master Pro|
 |1259|6479699074|Automatic|❌|戰律2：口袋版|戰律2：口袋版|戰律2：口袋版|Wargroove 2: Pocket Edition|Wargroove 2: Pocket Edition|
 |1258|6744878177|Automatic|❌|探險異星飛行隊|探險異星飛行隊|探險異星飛行隊|Final Frontier Story|Final Frontier Story|

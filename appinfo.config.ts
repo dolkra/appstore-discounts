@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1664728315,
+    name: {
+      mo: 'Mutropolis mobile',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6463849203,
     name: {
       mo: '叫醒冰箱 - 吃新鮮的食物，過健康的生活',
