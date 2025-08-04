@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6612033628,
+    name: {
+      mo: '模擬山羊3：大鬧多元宇宙',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1664728315,
     name: {
       mo: 'Mutropolis mobile',

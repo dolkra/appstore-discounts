@@ -26489,6 +26489,23 @@
     "history": [
       [
         {
+          "timestamp": 1754331595829,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "$3.99",
+            "Rayark Selection Vol.2": "$3.99",
+            "V.K Collection": "$3.99",
+            "Forgotten Hourglass": "$9.99",
+            "Cytus Selection Vol.1": "$3.99",
+            "Knight Iris": "$3.99",
+            "Cytus Selection Vol.2": "$3.99",
+            "M2U X NICODE Collection": "$3.99",
+            "MILI Collection": "$3.99",
+            "Rayark Selection Vol.3": "$3.99"
+          }
+        },
+        {
           "timestamp": 1754327933771,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -48296,6 +48313,23 @@
     "history": [
       [
         {
+          "timestamp": 1754331595829,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "180 Rubies": "$2.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Ring Package": "$24.99",
+            "Element Package": "$15.99"
+          }
+        },
+        {
           "timestamp": 1754327933771,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -49450,6 +49484,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1754331595829,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO yearly subscription": "$39.99",
+            "Yearly Subscription": "$19.99",
+            "Lifetime license": "$99.99",
+            "Monthly Subscription": "$5.49"
+          }
+        },
         {
           "timestamp": 1754327933771,
           "price": 0,
@@ -120560,6 +120605,27 @@
           "timestamp": 1754219475926,
           "price": 4.99,
           "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6612033628": {
+    "name": "Goat Simulator 3 - Multiverse",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754331595829,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
           "inAppPurchases": {}
         }
       ]
