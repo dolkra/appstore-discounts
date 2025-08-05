@@ -52027,6 +52027,25 @@
     "history": [
       [
         {
+          "timestamp": 1754410467663,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Orange Cam Film Pack": "$30.00",
+            "Yellow Cam Film Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00",
+            "White Cam Film Pack": "$30.00",
+            "Design Frame Package": "$30.00",
+            "Social Frame Package": "$30.00",
+            "Magazine Frame Package": "$30.00",
+            "Black Frame Package": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754406988499,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -112829,8 +112848,8 @@
   "6748852099": {
     "name": "Delil Zinciri",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 60,
+      "formattedPrice": "$60.00",
       "Büyük Altın Sandığı": "$60.00",
       "Orta Altın Sandığı": "$30.00",
       "Mega Altın Hazinesi": "$150.00",
@@ -112845,6 +112864,19 @@
       "Küçük Altın Çantası": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754410467663,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "$60.00",
+            "Orta Altın Sandığı": "$30.00",
+            "Mega Altın Hazinesi": "$150.00",
+            "Küçük Altın Çantası": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753593576986,
