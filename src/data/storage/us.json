@@ -43104,6 +43104,19 @@
     "history": [
       [
         {
+          "timestamp": 1754421391087,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "$99.99",
+            "Parallels Desktop for Mac #4": "$99.99",
+            "Subscription (1 year)": "$99.99",
+            "Parallels Desktop for Mac #3": "$99.99",
+            "Parallels Desktop for Mac #2": "$99.99",
+            "Parallels Desktop for Mac #5": "$99.99"
+          }
+        },
+        {
           "timestamp": 1754418066243,
           "price": 0,
           "formattedPrice": "Free",
@@ -85636,6 +85649,25 @@
     "history": [
       [
         {
+          "timestamp": 1754421391087,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Founders Pack": "$0.99",
+            "Lisa character": "$0.00",
+            "Gloria skin": "$0.99",
+            "Elsa character": "$0.99",
+            "Jorge skin": "$0.99",
+            "Manuel character": "$0.99",
+            "Stephan character": "$0.99",
+            "Daniel skin": "$0.99",
+            "James character": "$0.99",
+            "Marco character": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753956877947,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -91142,8 +91174,8 @@
   "1612952507": {
     "name": "AeroPads - Pads & Soundscapes",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99",
+      "price": 9.99,
+      "formattedPrice": "$9.99",
       "Orbit Pack": "$4.99"
     },
     "minPriceInfo": {
@@ -91152,6 +91184,16 @@
       "Orbit Pack": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754421391087,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Orbit Pack": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749697861787,
@@ -110840,6 +110882,25 @@
       "Boeing 737-800": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754421391087,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 737-800": "$2.99",
+            "Airbus A380": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "Boeing 737-900": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754302610600,
