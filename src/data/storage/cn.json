@@ -717,7 +717,8 @@
       "Unlock All Tier 4": "¥1,298.00",
       "Reference Files Module": "¥98.00",
       "IR Module": "¥328.00",
-      "Gated Noise RT60": "¥268.00"
+      "Gated Noise RT60": "¥268.00",
+      "Impedance Module": "¥198.00"
     },
     "minPriceInfo": {
       "price": 148,
@@ -744,9 +745,29 @@
       "Unlock All Tier 4": "¥1,298.00",
       "Reference Files Module": "¥98.00",
       "IR Module": "¥328.00",
-      "Gated Noise RT60": "¥268.00"
+      "Gated Noise RT60": "¥268.00",
+      "Impedance Module": "¥198.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754356138938,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "¥58.00",
+            "ETC Module": "¥38.00",
+            "SoundScope VR": "¥168.00",
+            "Transfer Function": "¥328.00",
+            "Phase Meter": "¥58.00",
+            "Gated Noise RT60": "¥268.00",
+            "LARSA": "¥198.00",
+            "SPL Graph Module": "¥68.00",
+            "Surround Generator": "¥298.00",
+            "Impedance Module": "¥198.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754314592864,
@@ -62675,6 +62696,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754356138938,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754082755958,
