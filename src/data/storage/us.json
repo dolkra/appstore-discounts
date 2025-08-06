@@ -72078,7 +72078,8 @@
       "First Purchase: Magic Package": "$4.99",
       "Flash Sale Square Rune 1": "$2.99",
       "Flash Sale Square Rune 2": "$1.99",
-      "Flash Sale Crystal 1": "$4.99"
+      "Flash Sale Crystal 1": "$4.99",
+      "Flash Sale Ore Rune 1": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -72113,9 +72114,29 @@
       "First Purchase: Magic Package": "$4.99",
       "Flash Sale Square Rune 1": "$2.99",
       "Flash Sale Square Rune 2": "$1.99",
-      "Flash Sale Crystal 1": "$4.99"
+      "Flash Sale Crystal 1": "$4.99",
+      "Flash Sale Ore Rune 1": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754464764646,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Piggy Bank": "$2.99",
+            "First Purchase: Legendary Pack": "$9.99",
+            "Flash Sale Crystal 2": "$2.99",
+            "Flash Sale Star Rune 2": "$1.99",
+            "Flash Sale Square Rune 1": "$2.99",
+            "Flash Sale Crystal 3": "$1.99",
+            "Flash Sale Ore Rune 2": "$1.99",
+            "Flash Sale Ore Rune 1": "$2.99",
+            "Double Exp Package 1": "$0.99",
+            "Flash Sale Crystal 1": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754388920250,
