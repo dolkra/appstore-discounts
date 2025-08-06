@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-08-05T18:44:08.141Z</updated>
+    <updated>2025-08-06T22:37:06.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-05T18:44:08.141Z</updated>
+        <updated>2025-08-06T22:37:06.361Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 05 Aug 2025 18:44:08 GMT</id>
+        <id>rankingusWed, 06 Aug 2025 22:37:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-05T18:44:08.141Z</updated>
+        <updated>2025-08-06T22:37:06.361Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1269</b>
+        <b>1272</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1068</b>
+        <b>1071</b>
       </td>
       <td>
         <b>47</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1165</b>
+        <b>1168</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>989</b>
+        <b>992</b>
       </td>
       <td>
         <b>40</b>
@@ -93,6 +93,29 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1198176727">Controller for HomeKit</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Lifetime license</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -115,7 +138,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1093131935">Incredibox</a>
@@ -132,7 +155,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1159700098">To the Moon</a>
@@ -143,29 +166,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>Total Times</span>：<b>1</b>
           </li><li>
             <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1198176727">Controller for HomeKit</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Lifetime license</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -737,6 +737,57 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Controller for HomeKit]]></title>
+        <id>Controller for HomeKit-us-1754518429576</id>
+        <link href="https://apps.apple.com/us/app/controller-for-homekit/id1198176727?uo=4"/>
+        <updated>2025-08-06T22:13:49.576Z</updated>
+        <summary type="html"><![CDATA[Lifetime license: $99.99 → $49.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/controller-for-homekit/id1198176727?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/38/8b/fc388b5e-bf81-cf73-a087-e73991a80638/AppIcon-1-0-1x_U007epad-0-9-0-P3-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Lifetime license：</strong><span>$99.99</span> → <b>
+  <strong>$49.99</strong>
+</b><span>[$49.99 ~ $99.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    PRO yearly subscription：<b>$39.99</b>
+  </li><li>
+    Lifetime license：<b>$49.99</b>
+  </li><li>
+    Monthly Subscription：<b>$5.49</b>
+  </li><li>
+    Yearly Subscription：<b>$19.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Experience and control your Apple Home in a whole new way with Controller for HomeKit. Our app combines all the familiar HomeKit features with numerous additional enhancements, offering you a user-friendly interface, unparalleled control, and flexibility.
+
+* FLOOR PLAN: Create a detailed floor plan of your home using the LiDAR sensor on your iPhone or iPad and control your HomeKit accessories directly through the floor plan.
+* COMPLEX AUTOMATIONS: Utilize advanced triggers and conditions for custom automations that are perfectly tailored to your needs.
+* NOTIFICATIONS: Create custom notifications to stay informed about important events in your home.
+* BACKUPS: Secure your setup and restore it easily when needed.
+* SMART FOLDERS: Organize your devices and automations effortlessly with smart folders and custom filters.
+* WORKFLOWS: Optimize your daily routines with workflows that go beyond the capabilities of Apple Home.
+* SETUP CODES: Securely store your HomeKit and Matter codes in the app, so they are always at hand and never lost.
+* MAINTENANCE: Keep track of your setup, quickly identifying which batteries need to be replaced, which devices are unreachable, or which automations are broken.
+* LOGS: Monitor all activities and changes in your smart home.
+* WIDGETS: Control your devices faster and easier with convenient widgets or quickly jump into your floor plan.
+
+Unlock the full potential of your smart home with Controller for HomeKit. Download the app now and experience how simple and intuitive home automation can be.
+
+For more information, visit our website: https://www.controllerforhomekit.com
+
+Privacy Policy: 
+https://controllerforhomekit.com/privacy-en/
+
+Terms of Use: 
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/89/99/eb8999ec-0245-1c15-b1f5-ea49fe930c76/35282cae-390d-47d8-b4f7-1a944a3d5e17_01.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e1/0c/cf/e10ccf7f-19f1-b1e5-ed88-89937558835e/ae93a330-3a1f-4ff0-b3ef-7a8c5f0aff49_02.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/cb/9d/5bcb9d06-e422-39b0-ce03-517abfe60fc4/e404657a-bc5f-446a-aebd-175624200d84_03.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/94/00/d0940019-0b83-57ae-199c-297416c5d5fc/83b8bddc-13b1-4a9c-a491-3cbd63ff07b2_04.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/34/19/ad3419f6-46fa-e2ab-48ef-d488829fff05/067b78fc-d797-4a3c-8f61-fb5fedcec1a2_05.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/87/69/b1/8769b11d-34b5-619c-fed4-6c2386119bec/fc27cfc1-733c-4b5d-baca-3285406cf137_06.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/ea/fb/fceafb4c-5ae1-892f-6c1a-d066b24c4591/40bf8022-4191-4fc4-9df7-c08c350b8429_07.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/9a/b5/ae9ab58f-37ac-be22-134a-f256723563f0/bbc81b0a-825a-4865-9d1f-1b6135a6f255_08.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/fc/74/c2fc748b-3248-b9d3-cf01-fa4bbd341050/c4cdf412-7fd9-4e50-b3a9-115ca0a7149c_09.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e5/ce/ec/e5ceec46-bf19-6035-ee14-0972f0a1892a/a3e7ea1b-4fad-4f81-907a-57bb3ca08a63_10.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Chain of Evidence]]></title>
         <id>Chain of Evidence-us-1754418066243</id>
         <link href="https://apps.apple.com/us/app/chain-of-evidence/id6748852099?uo=4"/>
@@ -939,98 +990,5 @@ Features:
 ● Evocative soundtrack composed by Disasterpeace.
 ● All the content from the original game + more weapons, enemies and areas from the Special edition.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/58/3e/f5/583ef58f-8544-9680-b20c-4f2fdb18e5a2/mzl.cfgqcerh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/b2/61/d6b261eb-3d6a-36b0-fa79-acf90aeed9c9/mzl.rsgnzmch.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/70/82/b27082ae-7cc2-997e-35f3-65643b69ed1c/mzl.bqtguzii.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/75/e9/ec75e971-26fb-0526-df07-bc299e38a51d/mzl.kqwenuyh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7e/d7/e6/7ed7e66b-d60b-fa0a-e3b5-9b17e5709326/mzl.gztzijkd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/1b/5a/3b1b5ab7-dba4-da30-2a6a-ed1af9cfac53/mzl.rhoeuvwr.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/7b/73/c07b73e1-64a4-b713-15ba-9061a906f543/mzl.yracjgvz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/29/02/0e29025f-f5d8-88b5-f6f9-2c08bcd040e6/mzl.lubgomty.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/76/9f/82769ff7-02c0-4da0-c5a8-d449b109959e/mzl.hwgoqbkb.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b5/fb/0c/b5fb0c8d-40f2-8553-0fcf-8af2cd11eb88/mzl.hthxenuq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/1f/0a/041f0a99-3b9a-5d1a-b2fb-33c2c377ed13/mzl.minsmeic.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/fc/4c/30fc4c25-bf7b-39a6-4b6d-78af998f9612/mzl.ahxlplhd.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
-        <id>Motorsport Manager 4-us-1754215991139</id>
-        <link href="https://apps.apple.com/us/app/motorsport-manager-4/id6449251957?uo=4"/>
-        <updated>2025-08-03T10:13:11.139Z</updated>
-        <summary type="html"><![CDATA[Bundle: $9.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/motorsport-manager-4/id6449251957?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Bundle：</strong><span>$9.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $9.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$4.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Bundle：<b>$4.99</b>
-  </li><li>
-    Pre registration bundle：<b>$5.99</b>
-  </li><li>
-    Premium livery bundle：<b>$5.99</b>
-  </li><li>
-    Game Editor：<b>$5.99</b>
-  </li><li>
-    Very Large Investment：<b>$2.99</b>
-  </li><li>
-    Large Investment：<b>$2.99</b>
-  </li><li>
-    Huge Investment：<b>$4.99</b>
-  </li><li>
-    Investment：<b>$1.99</b>
-  </li><li>
-    Chairman's Payment：<b>$5.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
-
-BUILD YOUR RACING DYNASTY
-Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
-
-ASSEMBLE YOUR DREAM TEAM
-Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
-
-REAL-TIME STRATEGY UNFOLDS
-Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
-
-UNLEASH VARIETY ON THE TRACK
-Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
-
-DRIVERS TAKE CENTER STAGE
-Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
-
-YOUR JOURNEY, YOUR CHALLENGE
-Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
-
-SEIZE CONTROL, MAKE HISTORY
-It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ghost Detector: Haunted Radar]]></title>
-        <id>Ghost Detector: Haunted Radar-us-1754196102418</id>
-        <link href="https://apps.apple.com/us/app/ghost-detector-haunted-radar/id6479307181?uo=4"/>
-        <updated>2025-08-03T04:41:42.418Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/ghost-detector-haunted-radar/id6479307181?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/00/3c/0d003cbb-a851-f4b2-930f-a9b0c30ccc7d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $1.19]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  This app has a simple functionality: detecting the presence of spirits and capturing them. 
-Once captured, it displays the Six Syllable Mantra from Eastern Buddhism as a form of protection and blessing for the user.
-
-• This application might scare you.
-• All sensors are on one page.
-• A real radar to track anomalies.
-• Highly accurate EMF (Electromagnetic Field) detector.
-• Take photos and detect anomalies within - can be freely turned on or off.
-• More detailed instructions are available in the app; simply touch the ? button to access them.
-
-Warning:
-If you are a very sensitive or easily scared individual, please consider not using this app and turning it off. Do not put yourself in danger while using this app. If you believe you are in danger, please close the app, contact someone for help, and leave the area immediately.
-
-Disclaimer:
-Please remember that we cannot guarantee the accuracy of any ghost detection since the app uses different sensors of the device, and thus it greatly depends on the terminal's precision and quality. Since supernatural activities cannot be scientifically proven, we cannot guarantee that the app communicates with real spirits. The results of this app cannot be scientifically verified.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/9e/a4/969ea467-9ec0-aad8-b15b-01c4bda6ecb1/c0995a6f-8fde-4b70-9879-85fc4e47a2cd_01.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/74/75/b7747533-0b18-e5c5-8b4b-d1873584037b/714bc451-5308-4057-ab5b-f7eb38e9e9da_02.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e5/95/c8e59543-0b93-d555-3c91-12c49eaf3fce/e448bd72-da04-4ec1-aa76-9124a1eb6c0d_03.jpeg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/5b/af/7a5baf5b-3fd3-a070-9987-b74699c4b426/1818ec03-b583-4343-979c-c7644e7a42c9_01.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/18/37/7818377f-2a24-2050-6ff5-1d630a22a173/13c93d71-8d18-4c82-be15-b438a326b46d_02.jpeg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d2/b5/b8/d2b5b883-3ea0-7917-a9c3-6306941e6827/55560694-3c44-4e75-9e2f-d60670fb4034_03.jpeg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
