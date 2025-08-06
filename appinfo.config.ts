@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6746746394,
+    name: {
+      tr: 'Mayor Card: City Management',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1499318054,
     name: {
       mo: '南瓜先生2：九龍城寨',
