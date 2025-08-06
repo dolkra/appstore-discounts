@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1415709055,
+    name: {
+      mo: 'ABRSM Music Theory Trainer',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6448106860,
+    name: {
+      mo: 'Private LLM - Local AI Chat',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6746746394,
     name: {
       tr: 'Mayor Card: City Management',

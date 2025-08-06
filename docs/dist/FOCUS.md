@@ -1,10 +1,12 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1270` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1272` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1272|1415709055|Automatic|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|
+|1271|6448106860|Automatic|Private LLM - 本地AI聊天|Private LLM - Local AI Chat|Private LLM - Local AI Chat|Private LLM - Local AI Chat|Private LLM - Local AI Chat|Private LLM - Local AI Chat|
 |1270|6746746394|Automatic|❌|Mayor Card: City Management|Mayor Card: City Management|Mayor Card: City Management|Mayor Card: City Management|Mayor Card: City Management|
 |1269|1499318054|Automatic|❌|南瓜先生2：九龍城寨|南瓜先生2：九龍城寨|❌|Mr Pumpkin 2: Walls of Kowloon|Mr Pumpkin 2: Walls of Kowloon|
 |1268|1555184523|Automatic|❌|波西亞時光|波西亞時光|波西亞時光|My Time at Portia|My Time at Portia|

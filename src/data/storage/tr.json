@@ -35095,7 +35095,10 @@
       "850,000 points": "₺699,99",
       "10,000,000 points": "₺4.499,99",
       "3,750,000 points": "₺2.299,99",
-      "150 kilometers": "₺299,99"
+      "150 kilometers": "₺299,99",
+      "1,000,000 points": "₺1.799,99",
+      "1,300,000 points": "₺2.299,99",
+      "2,160,000 points": "₺3.499,99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -35117,9 +35120,31 @@
       "850,000 points": "₺699,99",
       "10,000,000 points": "₺4.499,99",
       "3,750,000 points": "₺2.299,99",
-      "150 kilometers": "₺299,99"
+      "150 kilometers": "₺299,99",
+      "1,000,000 points": "₺1.799,99",
+      "1,300,000 points": "₺2.299,99",
+      "2,160,000 points": "₺3.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754504392508,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "20,000 points": "₺39,99",
+            "50 kilometers": "₺99,99",
+            "63,000 points": "₺129,99",
+            "176,000 points": "₺349,99",
+            "225,000 points": "₺449,99",
+            "345,000 points": "₺699,99",
+            "600,000 points": "₺999,99",
+            "1,000,000 points": "₺1.799,99",
+            "1,300,000 points": "₺2.299,99",
+            "2,160,000 points": "₺3.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753294743673,
@@ -37517,7 +37542,10 @@
       "Get tips about the triangle blocks (1-6)": "₺39,99",
       "Get tips on the bucket": "₺39,99",
       "Get tips on stone-eyed": "₺39,99",
-      "Get tips about this mysterious stone": "₺39,99"
+      "Get tips about this mysterious stone": "₺39,99",
+      "Get the factory door unlock": "₺39,99",
+      "Open the box to the sea": "₺39,99",
+      "Obtain temple main entrance password": "₺39,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -37538,9 +37566,29 @@
       "Get tips about the triangle blocks (1-6)": "₺39,99",
       "Get tips on the bucket": "₺39,99",
       "Get tips on stone-eyed": "₺39,99",
-      "Get tips about this mysterious stone": "₺39,99"
+      "Get tips about this mysterious stone": "₺39,99",
+      "Get the factory door unlock": "₺39,99",
+      "Open the box to the sea": "₺39,99",
+      "Obtain temple main entrance password": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754504392508,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Get the main entrance lighthouse passcode": "₺39,99",
+            "Lighthouse obtain exit door passcode": "₺39,99",
+            "Get the factory door unlock": "₺39,99",
+            "Open the box to the sea": "₺39,99",
+            "Obtain temple main entrance password": "₺39,99",
+            "Get inside the temple door password": "₺39,99",
+            "Rockets get the door unlocking": "₺39,99",
+            "Open the box to get the rocket": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754327933771,
@@ -38616,7 +38664,10 @@
       "Promote Pack 1": "₺129,99",
       "Double backpack slots": "₺99,99",
       "Double Bonus": "₺99,99",
-      "A Large Bag of Gems": "₺899,99"
+      "A Large Bag of Gems": "₺899,99",
+      "Pouch of Gems": "₺449,99",
+      "A Chest of Gems": "₺2.299,99",
+      "Wagon of Gems": "₺4.499,99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -38632,9 +38683,31 @@
       "Promote Pack 1": "₺129,99",
       "Double backpack slots": "₺99,99",
       "Double Bonus": "₺99,99",
-      "A Large Bag of Gems": "₺899,99"
+      "A Large Bag of Gems": "₺899,99",
+      "Pouch of Gems": "₺449,99",
+      "A Chest of Gems": "₺2.299,99",
+      "Wagon of Gems": "₺4.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754504392508,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Buy 100 Gems": "₺39,99",
+            "Fistful of Gems": "₺229,99",
+            "Pouch of Gems": "₺449,99",
+            "A Chest of Gems": "₺2.299,99",
+            "Wagon of Gems": "₺4.499,99",
+            "A Large Bag of Gems": "₺899,99",
+            "Double Bonus": "₺99,99",
+            "Boxer Big Deal Pack": "₺99,99",
+            "Genius Big Deal Pack": "₺99,99",
+            "Double backpack slots": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751929935086,
@@ -50336,6 +50409,27 @@
       ]
     ]
   },
+  "1415709055": {
+    "name": "ABRSM Music Theory Trainer",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754504392508,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1422480068": {
     "name": "Notes Writer Pro 2025",
     "maxPriceInfo": {
@@ -55683,6 +55777,24 @@
       "《欧·亨利短篇小说精选》": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754504392508,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "每日外刊": "₺57,99",
+            "《归来记上部》": "₺249,99",
+            "《 归来记下部》": "₺249,99",
+            "《小王子精读》": "₺249,99",
+            "《福尔摩斯之血字的研究》": "₺249,99",
+            "《了不起的盖茨比》": "₺249,99",
+            "《老人与海》": "₺249,99",
+            "《爱丽丝梦游仙境》": "₺249,99",
+            "《欧·亨利短篇小说精选》": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753999989881,
@@ -89675,7 +89787,9 @@
       "14.99美元商品": "₺699,99",
       "99.99美元商品": "₺4.499,99",
       "29.99美元商品": "₺1.299,99",
-      "8.99美元商品": "₺399,99"
+      "8.99美元商品": "₺399,99",
+      "0.99美元商品": "₺39,99",
+      "3.99美元商品": "₺179,99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -89689,9 +89803,29 @@
       "14.99美元商品": "₺699,99",
       "99.99美元商品": "₺4.499,99",
       "29.99美元商品": "₺1.299,99",
-      "8.99美元商品": "₺399,99"
+      "8.99美元商品": "₺399,99",
+      "0.99美元商品": "₺39,99",
+      "3.99美元商品": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754504392508,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "0.99美元商品": "₺39,99",
+            "49.99美元商品": "₺2.299,99",
+            "3.99美元商品": "₺179,99",
+            "8.99美元商品": "₺399,99",
+            "29.99美元商品": "₺1.299,99",
+            "99.99美元商品": "₺4.499,99",
+            "14.99美元商品": "₺699,99",
+            "3.99美元商品2": "₺179,99",
+            "12.99美元商品": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746270123905,
@@ -92836,6 +92970,27 @@
           "timestamp": 1754457875664,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6448106860": {
+    "name": "Private LLM - Local AI Chat",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754504392508,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]
