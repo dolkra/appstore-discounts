@@ -6513,6 +6513,25 @@
     "history": [
       [
         {
+          "timestamp": 1754604817740,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "Ferrous Mobile": "USD 2.99",
+            "Hyper-Pop Mobile": "USD 2.99",
+            "Chip-Tune Mobile": "USD 2.99",
+            "Essential Winds": "USD 1.99",
+            "Essential Strings": "USD 1.99",
+            "DubTechno": "USD 1.99",
+            "Chill-Lo-Fi Mobile": "USD 1.99",
+            "Technocraft": "USD 1.99",
+            "Brazil Bass": "USD 1.99",
+            "PsyTrance": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754075597036,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -7024,7 +7043,15 @@
       "Magnetic Stars Large Pack": "USD 6.99",
       "Magnetic Stars Tiny Pack": "USD 3.99",
       "Unlock \"Bath Time\" level pack": "USD 1.99",
-      "Unlock \"Ant Hill\" level pack": "USD 1.99"
+      "Unlock \"Ant Hill\" level pack": "USD 1.99",
+      "Superpower 20": "USD 3.99",
+      "Superpower 50": "USD 7.99",
+      "Superpower 500": "USD 17.99",
+      "Superpower Unlimited": "USD 24.99",
+      "Unlock \"Sticky Steps\" level pack": "USD 1.99",
+      "Unlock \"Shooting the candy\" level pack": "USD 1.99",
+      "Unlock \"Rocket Science\" level pack": "USD 1.99",
+      "Unlock \"Handy сandy\" level pack": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -7039,9 +7066,36 @@
       "Magnetic Stars Large Pack": "USD 6.99",
       "Magnetic Stars Tiny Pack": "USD 3.99",
       "Unlock \"Bath Time\" level pack": "USD 1.99",
-      "Unlock \"Ant Hill\" level pack": "USD 1.99"
+      "Unlock \"Ant Hill\" level pack": "USD 1.99",
+      "Superpower 20": "USD 3.99",
+      "Superpower 50": "USD 7.99",
+      "Superpower 500": "USD 17.99",
+      "Superpower Unlimited": "USD 24.99",
+      "Unlock \"Sticky Steps\" level pack": "USD 1.99",
+      "Unlock \"Shooting the candy\" level pack": "USD 1.99",
+      "Unlock \"Rocket Science\" level pack": "USD 1.99",
+      "Unlock \"Handy сandy\" level pack": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754604817740,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Superpower 10": "USD 1.99",
+            "Superpower 20": "USD 3.99",
+            "Superpower 50": "USD 7.99",
+            "Superpower 500": "USD 17.99",
+            "Unlock all level packs including future updates": "USD 3.99",
+            "Superpower Unlimited": "USD 24.99",
+            "Unlock \"Sticky Steps\" level pack": "USD 1.99",
+            "Unlock \"Shooting the candy\" level pack": "USD 1.99",
+            "Unlock \"Rocket Science\" level pack": "USD 1.99",
+            "Unlock \"Handy сandy\" level pack": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754082755958,
@@ -79659,6 +79713,31 @@
           "price": 4.99,
           "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6459581344": {
+    "name": "Art of Rally",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99",
+      "art of rally: australia dlc": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99",
+      "art of rally: australia dlc": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754604817740,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "USD 1.99"
+          }
         }
       ]
     ]

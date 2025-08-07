@@ -79516,6 +79516,25 @@
     "history": [
       [
         {
+          "timestamp": 1754604817740,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺869,00",
+            "Extra DLC Pack": "₺579,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺264,99",
+            "Weapon Upgrade Ticket x3 (A)": "₺194,99",
+            "Weapon Upgrade Ticket x3 (D)": "₺194,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺194,99",
+            "Weapon Upgrade Ticket x1 (F)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (E)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (A)": "₺78,99",
+            "Weapon Upgrade Ticket x1 (C)": "₺78,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753859938705,
           "price": 0,
           "formattedPrice": "Free",
@@ -93728,6 +93747,31 @@
           "price": 149.99,
           "formattedPrice": "₺149,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6459581344": {
+    "name": "Art of Rally",
+    "maxPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
+      "art of rally: australia dlc": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
+      "art of rally: australia dlc": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754604817740,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "₺99,99"
+          }
         }
       ]
     ]
