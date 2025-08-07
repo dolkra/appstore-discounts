@@ -37277,6 +37277,14 @@
     "history": [
       [
         {
+          "timestamp": 1754576264504,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753956877947,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -62833,6 +62841,20 @@
     "history": [
       [
         {
+          "timestamp": 1754576264504,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Forbidden Bundle": "HK$ 58.00",
+            "The Dancer": "HK$ 18.00",
+            "The Priest": "HK$ 18.00",
+            "The Ghoul": "HK$ 18.00",
+            "The Exile": "HK$ 38.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753802172809,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -86123,10 +86145,18 @@
       "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754576264504,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748354558369,
