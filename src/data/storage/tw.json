@@ -16257,9 +16257,19 @@
     "minPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00",
-      "網絡版訂閱": "$850.00"
+      "網絡版訂閱": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754594100156,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "網絡版訂閱": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746766943792,
@@ -25389,6 +25399,25 @@
       "Le Cont Softs - 40 Tyres Pack": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754594100156,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "300 Aces Limited Time Offer": "$30.00",
+            "300 Aces": "$190.00",
+            "700 Aces": "$320.00",
+            "5000 Aces": "$1,290.00",
+            "15000 Aces": "$2,990.00",
+            "Race Pass": "$160.00",
+            "700 Aces Limited Time Offer": "$150.00",
+            "1000 Aces Limited Time Offer": "$320.00",
+            "1500 Aces Limited Time Offer": "$320.00",
+            "5000 Aces Limited Time Offer": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754126095198,
