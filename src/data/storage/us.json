@@ -42067,6 +42067,14 @@
     "history": [
       [
         {
+          "timestamp": 1754623766608,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753956877947,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -66974,6 +66982,20 @@
       "The Exile": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754623766608,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Forbidden Bundle": "$6.99",
+            "The Dancer": "$1.99",
+            "The Priest": "$1.99",
+            "The Ghoul": "$1.99",
+            "The Exile": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753802172809,
@@ -92914,10 +92936,18 @@
       "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754623766608,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748402466218,
