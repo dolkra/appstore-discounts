@@ -935,7 +935,7 @@
 |347|1516531425|自动|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
 |346|1517349382|自动|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|
 |345|1518841947|自动|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
-|344|1519386476|自动|❌|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames Watch Games 24-in-1|MiniGames Watch Games 24-in-1|
+|344|1519386476|自动|❌|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|Watch Games|Watch Games|
 |343|1523633394|自动|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|
 |342|1525735418|自动|❌|❌|❌|❌|❌|Mesih|
 |341|1528199331|自动|❌|崩潰大陸 2|崩潰大陸 2|崩潰大陸 2|Crashlands 2|Crashlands 2|
