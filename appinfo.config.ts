@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 764925064,
+    name: {
+      mo: 'Waterlogue: Photo to Painting',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6743115658,
     name: {
       us: 'TABS Pocket Edition',
