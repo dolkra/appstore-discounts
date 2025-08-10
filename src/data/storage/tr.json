@@ -62610,14 +62610,22 @@
   "1484622401": {
     "name": "Religion inc. God Simulator",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754856824895,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -63559,8 +63567,8 @@
   "1504760106": {
     "name": "Eco inc.",
     "maxPriceInfo": {
-      "price": 33.99,
-      "formattedPrice": "₺33,99",
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
       "Small Pack": "₺39,99",
       "Medium pack": "₺129,99",
       "Big pack": "₺229,99",
@@ -63579,6 +63587,18 @@
       "+2026 boosters ECO-Initiative!": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754856824895,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "₺10,00",
+            "+444! Triple-Four Booster Pack": "₺99,99",
+            "+2026 boosters ECO-Initiative!": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753009850157,

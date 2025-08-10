@@ -73094,14 +73094,22 @@
   "1484622401": {
     "name": "Religion inc.上帝模擬器",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00"
+      "price": 150,
+      "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
       "price": 10,
       "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754856824895,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -74414,8 +74422,8 @@
   "1504760106": {
     "name": "Eco inc.",
     "maxPriceInfo": {
-      "price": 39,
-      "formattedPrice": "$39.00",
+      "price": 250,
+      "formattedPrice": "$250.00",
       "Small Pack": "$30.00",
       "Big pack": "$150.00",
       "Medium pack": "$90.00",
@@ -74434,6 +74442,18 @@
       "+444! Triple-Four Booster Pack": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754856824895,
+          "price": 250,
+          "formattedPrice": "$250.00",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "+444! Triple-Four Booster Pack": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753009850157,
