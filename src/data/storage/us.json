@@ -97196,6 +97196,23 @@
     "history": [
       [
         {
+          "timestamp": 1754936378013,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Critical Mass": "$6.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Survival Guide": "$2.99",
+            "Ultimate Pack (big discount)": "$4.99"
+          }
+        },
+        {
           "timestamp": 1754932441461,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -125133,6 +125150,27 @@
           "timestamp": 1754910743805,
           "price": 14.99,
           "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748885060": {
+    "name": "Acgbg~Anime Bg Wallpaper",
+    "maxPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "$0.49"
+    },
+    "minPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "$0.49"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754936378013,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
           "inAppPurchases": {}
         }
       ]

@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1278` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1279` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1279|6748885060|Automatic|Acgbg~动漫背景壁纸库|Acgbg~動漫背景壁紙庫|Acgbg~動漫背景壁紙庫|Acgbg~動漫背景壁紙庫|Acgbg~Anime Bg Wallpaper|Acgbg~Anime Bg Wallpaper|
 |1278|6503046688|Automatic|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|
 |1277|1547424687|Automatic|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|
 |1276|1140451547|Automatic|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|
@@ -1020,7 +1021,7 @@ So far, we've covered `6` `Countries or Regions` and  `1278` `Apps` <br />Push n
 |266|6738767322|Automatic|森丘露营地|❌|❌|❌|❌|❌|
 |265|6737434454|Automatic|暗夜地城 - 单机暗黑刷装备挂机游戏|❌|❌|❌|❌|❌|
 |264|6743117370|Automatic|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|
-|263|6740705851|Automatic|手表变身器：时空驱动器 - iWatch发声器|手錶變身器：時空驅動器 - iWatch發聲器|手錶變身器：時空驅動器 - iWatch發聲器|手錶變身器：時空驅動器 - iWatch發聲器|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
+|263|6740705851|Automatic|手表变身器：童年时光驱动器 - 100多种声效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
 |262|6743487416|Automatic|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|
 |261|6478843819|Automatic|❌|家園、異星與獵人|家園、異星與獵人|家園、異星與獵人|Home, Planet & Hunters|Home, Planet & Hunters|
 |260|6502453075|Automatic|❌|Balatro|Balatro|Balatro|Balatro|Balatro|

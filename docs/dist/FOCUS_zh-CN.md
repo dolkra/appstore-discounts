@@ -1,10 +1,11 @@
 
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1278` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1279` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1279|6748885060|自动|Acgbg~动漫背景壁纸库|Acgbg~動漫背景壁紙庫|Acgbg~動漫背景壁紙庫|Acgbg~動漫背景壁紙庫|Acgbg~Anime Bg Wallpaper|Acgbg~Anime Bg Wallpaper|
 |1278|6503046688|自动|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|
 |1277|1547424687|自动|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|
 |1276|1140451547|自动|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|
@@ -1020,7 +1021,7 @@
 |266|6738767322|自动|森丘露营地|❌|❌|❌|❌|❌|
 |265|6737434454|自动|暗夜地城 - 单机暗黑刷装备挂机游戏|❌|❌|❌|❌|❌|
 |264|6743117370|自动|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|
-|263|6740705851|自动|手表变身器：时空驱动器 - iWatch发声器|手錶變身器：時空驅動器 - iWatch發聲器|手錶變身器：時空驅動器 - iWatch發聲器|手錶變身器：時空驅動器 - iWatch發聲器|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
+|263|6740705851|自动|手表变身器：童年时光驱动器 - 100多种声效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
 |262|6743487416|自动|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|
 |261|6478843819|自动|❌|家園、異星與獵人|家園、異星與獵人|家園、異星與獵人|Home, Planet & Hunters|Home, Planet & Hunters|
 |260|6502453075|自动|❌|Balatro|Balatro|Balatro|Balatro|Balatro|

@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6748885060,
+    name: {
+      hk: 'Acgbg~動漫背景壁紙庫',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6503046688,
     name: {
       mo: 'Official Car/Bike DTT-Ireland',
