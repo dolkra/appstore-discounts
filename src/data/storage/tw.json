@@ -25952,6 +25952,25 @@
     "history": [
       [
         {
+          "timestamp": 1754946760640,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "$490.00",
+            "Racing Prodigy X30 Atlanta": "$490.00",
+            "Racing Prodigy X30 Kart Dubai": "$490.00",
+            "Racing Prodigy X30 B. Vegas": "$490.00",
+            "Racing Prodigy 50 Quali Tyres": "$150.00",
+            "10 Pack Qualifying Tyres": "$30.00",
+            "Figo 100 Octane Fuel Pack - 20": "$120.00",
+            "Le Cont Hards - 40 Tyre Pack": "$120.00",
+            "Le Cont Mediums - 40 Tyre Pack": "$120.00",
+            "Le Cont Softs - 40 Tyres Pack": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754627872359,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -82242,6 +82261,27 @@
           "timestamp": 1745328692670,
           "price": 60,
           "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1591192160": {
+    "name": "METAL SLUG 5 ACA NEOGEO",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754946760640,
+          "price": 120,
+          "formattedPrice": "$120.00",
           "inAppPurchases": {}
         }
       ]

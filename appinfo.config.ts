@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1591192160,
+    name: {
+      mo: 'METAL SLUG 5 ACA NEOGEO',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6748885060,
     name: {
       hk: 'Acgbg~動漫背景壁紙庫',

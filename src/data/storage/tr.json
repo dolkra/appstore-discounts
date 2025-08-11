@@ -42923,6 +42923,25 @@
     "history": [
       [
         {
+          "timestamp": 1754946760640,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "₺349,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Ignis Altar": "₺39,99",
+            "Hero Grosh": "₺129,99",
+            "Special Offer 27": "₺349,99",
+            "Special Offer 24": "₺349,99",
+            "Special Offer 21": "₺349,99",
+            "Special Offer 20": "₺349,99",
+            "Special Offer 19": "₺349,99",
+            "Special Offer 18": "₺299,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754852980200,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -72597,6 +72616,27 @@
           "timestamp": 1745328692670,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1591192160": {
+    "name": "METAL SLUG 5 ACA NEOGEO",
+    "maxPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754946760640,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
           "inAppPurchases": {}
         }
       ]
