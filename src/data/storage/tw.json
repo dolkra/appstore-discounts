@@ -25952,6 +25952,23 @@
     "history": [
       [
         {
+          "timestamp": 1754950349951,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Race Pass": "$160.00",
+            "700 Aces": "$320.00",
+            "300 Aces": "$190.00",
+            "5000 Aces": "$1,290.00",
+            "15000 Aces": "$2,990.00",
+            "700 Aces Limited Time Offer": "$150.00",
+            "10 Pack Qualifying Tyres": "$30.00",
+            "RP Value Tyre Pack - Mediums": "$150.00",
+            "Racing Prodigy X30 La Conca L4": "$490.00",
+            "Racing Prodigy X30 Atlanta": "$490.00"
+          }
+        },
+        {
           "timestamp": 1754946760640,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -106537,7 +106554,8 @@
       "ASG29": "$30.00",
       "C90GTx": "$30.00",
       "F4U Corsair": "$30.00",
-      "Junkers Ju 52": "$30.00"
+      "Junkers Ju 52": "$30.00",
+      "F/A-18": "$60.00"
     },
     "minPriceInfo": {
       "price": 120,
@@ -106568,9 +106586,29 @@
       "ASG29": "$30.00",
       "C90GTx": "$30.00",
       "F4U Corsair": "$30.00",
-      "Junkers Ju 52": "$30.00"
+      "Junkers Ju 52": "$30.00",
+      "F/A-18": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754950349951,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Global scenery - 12 months": "$390.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A380": "$60.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "F/A-18": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754896757076,
