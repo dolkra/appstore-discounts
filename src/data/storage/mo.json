@@ -10730,6 +10730,23 @@
     "history": [
       [
         {
+          "timestamp": 1754910743805,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter D": "USD 4.99",
+            "Chapter 6": "USD 4.99",
+            "Chapter 5": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 8": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter K": "USD 4.99",
+            "Chapter S": "USD 4.99",
+            "Chapter R": "USD 4.99"
+          }
+        },
+        {
           "timestamp": 1754907301715,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -80589,6 +80606,27 @@
           "timestamp": 1754651512534,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6503046688": {
+    "name": "Official Car/Bike DTT-Ireland",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754910743805,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
           "inAppPurchases": {}
         }
       ]

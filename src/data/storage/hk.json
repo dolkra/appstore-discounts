@@ -48580,6 +48580,23 @@
     "history": [
       [
         {
+          "timestamp": 1754910743805,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "HK$ 128.00",
+            "Mega Heroe Bundle": "HK$ 148.00",
+            "Hero Beresad": "HK$ 38.00",
+            "Hammerhold Campaign!": "HK$ 58.00",
+            "Pirate Kings Campaign!": "HK$ 58.00",
+            "Hero Eiskalt": "HK$ 32.00",
+            "Tower Blazing Gem": "HK$ 22.00",
+            "Tower Shaolin Temple": "HK$ 8.00",
+            "Hero Dianyun": "HK$ 32.00",
+            "Tower Grim Cemetery": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1754907301715,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -113263,6 +113280,27 @@
           "timestamp": 1754651512534,
           "price": 25,
           "formattedPrice": "HK$ 25.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6503046688": {
+    "name": "Official Car/Bike DTT-Ireland",
+    "maxPriceInfo": {
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
+    },
+    "minPriceInfo": {
+      "price": 118,
+      "formattedPrice": "HK$ 118.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754910743805,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
           "inAppPurchases": {}
         }
       ]
