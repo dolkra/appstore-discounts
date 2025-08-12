@@ -92059,14 +92059,22 @@
   "1659271912": {
     "name": "東京電車２",
     "maxPriceInfo": {
-      "price": 6,
-      "formattedPrice": "HK$ 6.00"
+      "price": 7,
+      "formattedPrice": "HK$ 7.00"
     },
     "minPriceInfo": {
       "price": 6,
       "formattedPrice": "HK$ 6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755011638687,
+          "price": 7,
+          "formattedPrice": "HK$ 7.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

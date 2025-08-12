@@ -90357,14 +90357,22 @@
   "1659271912": {
     "name": "東京電車２",
     "maxPriceInfo": {
-      "price": 25,
-      "formattedPrice": "$25.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
       "price": 25,
       "formattedPrice": "$25.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755011638687,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
