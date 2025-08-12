@@ -19646,6 +19646,25 @@
     "history": [
       [
         {
+          "timestamp": 1754960505653,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Birding Deck": "₺99,99",
+            "Camping Deck": "₺99,99",
+            "Flowers Deck": "₺99,99",
+            "LifeTime Pass": "₺4.499,99",
+            "Mexican Cuisine Deck": "₺99,99",
+            "Welcome Offer": "₺899,99",
+            "Italian Cuisine Deck": "₺99,99",
+            "Dinosaurs Deck": "₺99,99",
+            "Fishing Deck": "₺99,99",
+            "Greek Cuisine Deck": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754915280885,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -46611,6 +46630,24 @@
       "Super Tip": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1754960505653,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "₺20,99",
+            "Power Builder (yearly)": "₺169,99",
+            "Power Builder (weekly)": "₺6,99",
+            "The Ultimate Tip": "₺2.499,99",
+            "Super Mega Smashing Tip": "₺1.299,99",
+            "Super Smashing Tip": "₺799,99",
+            "Super Mega Tip": "₺449,99",
+            "Mega Tip": "₺249,99",
+            "Super Tip": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753265676777,
@@ -76205,6 +76242,27 @@
           "timestamp": 1745528534252,
           "price": 39.99,
           "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1619867109": {
+    "name": "Finding Paradise",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1754960505653,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
           "inAppPurchases": {}
         }
       ]
