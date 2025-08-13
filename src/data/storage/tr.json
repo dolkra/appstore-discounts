@@ -63267,10 +63267,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755097862772,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746115361795,
@@ -68876,6 +68884,25 @@
       "Holiday Halloween Pack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755097862772,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Fun & Games Sports Mix 3 Pack": "₺39,99",
+            "Holiday Thanksgiving Pack": "₺39,99",
+            "Holiday Christmas Pack 2": "₺39,99",
+            "Generations Gen Z Pack": "₺39,99",
+            "Holiday Hannukah Pack": "₺39,99",
+            "Mystery Mix Pack 16": "₺39,99",
+            "Mystery Mix Pack 15": "₺39,99",
+            "Mystery Mix Pack 14": "₺39,99",
+            "Mystery Mix Pack 13": "₺39,99",
+            "Mystery Mix Pack 12": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754993668643,

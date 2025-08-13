@@ -49792,6 +49792,25 @@
     "history": [
       [
         {
+          "timestamp": 1755097862772,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "HD Textures": "$0.00",
+            "Party Mode HD Textures": "$0.00",
+            "Street HD Textures": "$0.00",
+            "Tuner HD Textures": "$0.00",
+            "Open Wheel HD Textures": "$0.00",
+            "Endurance HD Textures": "$0.00",
+            "Touring HD Textures": "$0.00",
+            "All DLC": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Best of British Pack": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754285492951,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -79321,10 +79340,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0.29,
+      "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755097862772,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1746115361795,
