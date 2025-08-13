@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1021566244,
+    name: {
+      mo: 'FINAL FANTASY VII',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1586897675,
+    name: {
+      mo: '我的大学：当大学校长',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6445906099,
+    name: {
+      mo: 'Garten of Banban 3',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6747138769,
     name: {
       mo: 'Easy Text to Speech Reader Pro',
