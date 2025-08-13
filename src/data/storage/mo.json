@@ -31275,6 +31275,27 @@
       ]
     ]
   },
+  "1064060287": {
+    "name": "XP3Player",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755126745084,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1065360416": {
     "name": "BimmerLink for BMW and MINI",
     "maxPriceInfo": {
@@ -61453,6 +61474,20 @@
       "PGC Galaxy Database": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755126745084,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "SkySafari Premium Monthly": "USD 3.99",
+            "SkySafari Premium": "USD 29.99",
+            "Apollo Lunar Missions": "USD 0.00",
+            "GAIA Star Database": "USD 0.00",
+            "PGC Galaxy Database": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755029660710,

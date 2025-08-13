@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1064060287,
+    name: {
+      mo: 'XP3Player',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6747717070,
     name: {
       mo: 'VoidLink',
