@@ -35779,6 +35779,22 @@
     "history": [
       [
         {
+          "timestamp": 1755094432492,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "13 Gems": "$290.00",
+            "6 Gems": "$120.00",
+            "48 Gems": "$990.00",
+            "1 Gem": "$30.00",
+            "150 Gems": "$2,490.00",
+            "74 Gems": "$1,290.00",
+            "28 Gems": "$490.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753312408800,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -36244,6 +36260,20 @@
       "325,000資金": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755094432492,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "25,000資金": "$120.00",
+            "60,000資金": "$320.00",
+            "125,000資金": "$590.00",
+            "700,000資金": "$2,990.00",
+            "325,000資金": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752588818148,
@@ -73892,6 +73922,14 @@
     "history": [
       [
         {
+          "timestamp": 1755094432492,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1748959365680,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -74930,6 +74968,14 @@
       "formattedPrice": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755094432492,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752070365505,
@@ -81688,6 +81734,14 @@
       "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755094432492,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753798671296,
@@ -117579,6 +117633,27 @@
           "timestamp": 1755073093135,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747717070": {
+    "name": "VoidLink",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755094432492,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
