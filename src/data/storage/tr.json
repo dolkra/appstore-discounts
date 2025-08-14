@@ -78541,13 +78541,25 @@
     "name": "Ableton Note",
     "maxPriceInfo": {
       "price": 399.99,
-      "formattedPrice": "₺399,99"
+      "formattedPrice": "₺399,99",
+      "Drift In-App Purchase": "₺179,99"
     },
     "minPriceInfo": {
       "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "formattedPrice": "₺229,99",
+      "Drift In-App Purchase": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755159493802,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Drift In-App Purchase": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751497970464,
