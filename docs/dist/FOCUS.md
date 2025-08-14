@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1289` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1290` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1290|1203306285|Automatic|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|
 |1289|1064060287|Automatic|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|
 |1288|6747717070|Automatic|VoidLink|VoidLink|VoidLink|VoidLink|VoidLink|VoidLink|
 |1287|1021566244|Automatic|❌|FINAL FANTASY VII|FINAL FANTASY VII|FINAL FANTASY VII|FINAL FANTASY VII|FINAL FANTASY VII|
@@ -271,7 +272,7 @@ So far, we've covered `6` `Countries or Regions` and  `1289` `Apps` <br />Push n
 |1026|1114127463|Automatic|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|
 |1025|1636439801|Automatic|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|
 |1024|1479808939|Automatic|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|
-|1023|6451376191|Automatic|Dumb Phone: 简约主屏幕|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: 簡約主畫面|Dumb Phone: Minimal Launcher|Dumb Phone: Minimal Launcher|
+|1023|6451376191|Automatic|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone .|Dumb Phone|
 |1022|6446912063|Automatic|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|Automatic|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|
 |1020|409818349|Automatic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|

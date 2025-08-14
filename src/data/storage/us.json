@@ -9944,6 +9944,25 @@
     "history": [
       [
         {
+          "timestamp": 1755195522647,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Gold Annual": "$59.99",
+            "Gold Monthly": "$7.99",
+            "Gold Level lifetime": "$99.99",
+            "Gold Level Free Trial": "$0.00",
+            "Lunar Return Report": "$3.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Astrolocality Maps": "$24.99",
+            "The Big Three Report": "$3.99",
+            "Relationship Report": "$3.99",
+            "Predictive Report - Untimed": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755018788307,
           "price": 0,
           "formattedPrice": "Free",
@@ -16385,6 +16404,25 @@
       "Dragon Warrior": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755195522647,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Chapter N": "$3.99",
+            "Chapter D": "$4.99",
+            "Chapter L": "$9.99",
+            "Chapter T": "$4.99",
+            "Chapter R": "$4.99",
+            "Chapter 0": "$4.99",
+            "Chapter K": "$4.99",
+            "Chapter 10": "$4.99",
+            "Chapter 9": "$4.99",
+            "Chapter S": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755054876435,
@@ -52107,6 +52145,27 @@
             "Fanatical Supporter": "$9.99",
             "Awesome Supporter": "$4.99"
           }
+        }
+      ]
+    ]
+  },
+  "1203306285": {
+    "name": "Piano Sight-Reading Trainer",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755195522647,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -123860,7 +123919,7 @@
     ]
   },
   "6451376191": {
-    "name": "Dumb Phone: Minimal Launcher",
+    "name": "Dumb Phone .",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "$7.99"

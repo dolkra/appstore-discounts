@@ -35059,6 +35059,19 @@
     "history": [
       [
         {
+          "timestamp": 1755195522647,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "PRO yearly subscription": "¥228.00",
+            "Lifetime license": "¥328.00",
+            "Monthly Subscription": "¥35.00",
+            "Yearly Subscription": "¥138.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755105031958,
           "price": 0,
           "formattedPrice": "免费",
@@ -35303,6 +35316,27 @@
             "Fanatical Supporter": "¥68.00",
             "Awesome Supporter": "¥38.00"
           }
+        }
+      ]
+    ]
+  },
+  "1203306285": {
+    "name": "Piano Sight-Reading Trainer",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755195522647,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -75002,6 +75036,23 @@
     "history": [
       [
         {
+          "timestamp": 1755195522647,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥6.00",
+            "DLC：怪物联盟": "¥9.00",
+            "DLC：龙之神庙": "¥7.00",
+            "DLC：贪婪洞窟": "¥4.00",
+            "DLC：异界": "¥6.00",
+            "DLC：外星入侵": "¥6.00",
+            "新世界启程礼": "¥68.00",
+            "DLC：邪恶之心": "¥9.00",
+            "奇境森林": "¥13.00"
+          }
+        },
+        {
           "timestamp": 1755191513505,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -84925,7 +84976,7 @@
     ]
   },
   "6451376191": {
-    "name": "Dumb Phone: 简约主屏幕",
+    "name": "Dumb Phone",
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "¥58.00"
