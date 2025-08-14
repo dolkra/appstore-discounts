@@ -64920,8 +64920,8 @@
   "1505636751": {
     "name": "TeleGuard",
     "maxPriceInfo": {
-      "price": 35,
-      "formattedPrice": "₺35,00",
+      "price": 39.9,
+      "formattedPrice": "₺39,90",
       "5$": "₺229,99",
       "TeleGuard ID": "₺129,99",
       "Advanced calls": "₺149,99",
@@ -64948,6 +64948,25 @@
       "Small coffee": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755213151840,
+          "price": 39.9,
+          "formattedPrice": "₺39,90",
+          "inAppPurchases": {
+            "5$": "₺229,99",
+            "TeleGuard ID": "₺129,99",
+            "Advanced calls": "₺149,99",
+            "Advanced calls promo": "₺99,99",
+            "Channel": "₺299,99",
+            "100$": "₺4.499,99",
+            "20$": "₺899,99",
+            "Big coffee": "₺229,99",
+            "Medium coffee": "₺129,99",
+            "Small coffee": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747263723701,
@@ -78852,14 +78871,22 @@
   "1636423328": {
     "name": "Cat Quest II",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755213151840,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754979603727,
