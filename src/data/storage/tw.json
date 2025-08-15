@@ -16158,7 +16158,13 @@
       "B17 Flying Fortress": "$90.00",
       "A6M Zero": "$90.00",
       "P-47 Thunderbolt": "$90.00",
-      "Curtiss P-40 Warhawk": "$90.00"
+      "Curtiss P-40 Warhawk": "$90.00",
+      "Fremont RC Club": "$90.00",
+      "Livermore RC Club": "$90.00",
+      "Vaca Valley RC Club": "$90.00",
+      "Bell 47": "$90.00",
+      "Bell 222": "$90.00",
+      "Hughes 500": "$90.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -16182,9 +16188,34 @@
       "B17 Flying Fortress": "$90.00",
       "A6M Zero": "$90.00",
       "P-47 Thunderbolt": "$90.00",
-      "Curtiss P-40 Warhawk": "$90.00"
+      "Curtiss P-40 Warhawk": "$90.00",
+      "Fremont RC Club": "$90.00",
+      "Livermore RC Club": "$90.00",
+      "Vaca Valley RC Club": "$90.00",
+      "Bell 47": "$90.00",
+      "Bell 222": "$90.00",
+      "Hughes 500": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755281922472,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "AH-64 Apache": "$90.00",
+            "Bell 222 Airwolf": "$90.00",
+            "TRex 500": "$90.00",
+            "TRex 700 N": "$90.00",
+            "Fremont RC Club": "$90.00",
+            "Livermore RC Club": "$90.00",
+            "Vaca Valley RC Club": "$90.00",
+            "Bell 47": "$90.00",
+            "Bell 222": "$90.00",
+            "Hughes 500": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754279407132,
@@ -113000,6 +113031,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755281922472,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749055417533,
