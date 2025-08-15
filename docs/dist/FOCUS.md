@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1290` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1291` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1291|6742139144|Automatic|❌|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|Nekopara Love Project Vol.1|Nekopara Love Project Vol.1|
 |1290|1203306285|Automatic|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|
 |1289|1064060287|Automatic|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|
 |1288|6747717070|Automatic|VoidLink|VoidLink|VoidLink|VoidLink|VoidLink|VoidLink|
@@ -297,7 +298,7 @@ So far, we've covered `6` `Countries or Regions` and  `1290` `Apps` <br />Push n
 |1001|535176909|Automatic|❌|BADLAND|BADLAND|BADLAND|BADLAND|BADLAND|
 |1000|601831815|Automatic|❌|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|
 |999|1614795077|Automatic|❌|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|
-|998|6744998205|Automatic|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|
+|998|6744998205|Automatic|赛博神医-猜病每日挑战小测验|猜病-一款有趣的扮演醫生的趣味小遊戲|猜病-一款有趣的扮演醫生的趣味小遊戲|猜病-一款有趣的扮演醫生的趣味小遊戲|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|
 |997|6477745183|Automatic|❌|Echo Ways|Echo Ways|Echo Ways|Echo Ways|Echo Ways|
 |996|557168861|Automatic|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|
 |995|586604476|Automatic|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|
