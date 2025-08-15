@@ -75588,10 +75588,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755264340946,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748451753342,
