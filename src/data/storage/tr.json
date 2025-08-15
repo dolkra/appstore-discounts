@@ -21918,6 +21918,27 @@
       ]
     ]
   },
+  "686923970": {
+    "name": "HRV4Training",
+    "maxPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "minPriceInfo": {
+      "price": 449.99,
+      "formattedPrice": "₺449,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755299553649,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "687236545": {
     "name": "Adv. Learner’s Dictionary (TC)",
     "maxPriceInfo": {
@@ -51668,11 +51689,25 @@
       "formattedPrice": "₺179,99",
       "Dawn of Heroes": "₺179,99",
       "Feature DLC": "₺129,99",
-      "Art Upgrade Pack": "₺129,99",
+      "Art Upgrade Pack": "₺99,99",
       "Heroes Assemble": "₺129,99",
       "Treasures Editor": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755299553649,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Dawn of Heroes": "₺179,99",
+            "Feature DLC": "₺129,99",
+            "Art Upgrade Pack": "₺99,99",
+            "Heroes Assemble": "₺129,99",
+            "Treasures Editor": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752966858585,
@@ -57059,6 +57094,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755299553649,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754953921599,
@@ -63774,6 +63817,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755299553649,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755040345686,
@@ -93530,6 +93581,14 @@
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755299553649,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749078140241,
