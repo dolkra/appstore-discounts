@@ -2744,21 +2744,16 @@
           "range": "[¥88.00 ~ ¥328.00]"
         }
       ]
-    },
+    }
+  ],
+  "hk": [
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/cn/developer/dmitry-mashkin/id1164457417?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/100x100bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png"
-      ],
+      "artistViewUrl": "https://apps.apple.com/hk/developer/chengdu-longyou-tech-ltd/id1373057848?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": true,
       "features": [
+        "gameCenter",
         "iosUniversal"
       ],
       "supportedDevices": [
@@ -2877,65 +2872,123 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "advisories": [],
+      "advisories": [
+        "偶爾/輕度的現實生活暴力"
+      ],
       "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/56/43/e75643d3-ff6a-bc9f-29a0-0b5142dac448/0540c8ed-f7cb-485c-aca5-348915821154_2208x1242_U0028_U7e41_U4f53_U0029.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/1d/ca/5c1dca5b-7391-48d2-ade2-a99988355d6e/5c699395-0900-4651-aa62-cb0ef4db35de_2208x1242_Uff08_U7e41_U4f53_Uff09.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/99/71/c099712f-f618-8dc6-b28c-f2ec08a72ddb/f51e3254-b419-4e7d-bd4b-a00b5d6967cd_1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/1a/1f/181a1f2f-1477-9267-3b05-60687013e353/a4e9b992-9703-4566-99ce-70d40ecaca49_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/28/cc/6828cce7-eefb-9d0a-9890-fade762d3285/748c9c94-9732-41cb-9fdb-0b23ebfd412a_6.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/84/3b/34843bb0-40c0-3083-a90e-be1982f94cf1/0c50b49b-287f-4fa3-a8c7-72deb60fa59e_4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/9a/cc/ac9accb5-9dec-dc7d-2865-a47b65302fd7/c09d8f84-ab83-4c7c-a359-534ce357a66a_3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/74/84/7f74841b-9858-08c4-3b8c-48526e6751b6/f72f2a0e-59ac-4866-9fcb-4e516ee55b64_5.png/406x228bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/14/66/331466f2-f8a1-d656-3554-5d9973e02d88/8f753bf6-7186-4f56-a57d-7482da7cd9f9_2732x2048_Uff08_U7e41_U4f53_Uff09.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/47/e9/1847e98c-8f40-1fa3-3ed4-d338cd577156/c4da9ec1-5aee-4dc6-9060-bd6442b69ad5_2732x2048_U00283_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/8a/3f/778a3f21-9830-5fa2-94e3-e3622eb49012/eeccb768-73d0-4840-8373-19d11b848e12_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/38/09/b1380965-0607-cf1d-0793-f8243d9d8df5/424d7c56-6e29-456e-b64c-04ff8f5e6453_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/b8/3a/63b83a78-9a7c-77a8-d8b7-cfbbd0bd09c3/e8e162ab-8a6e-4e58-9263-1d0dbcd20804_6.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/89/8d/48898d8a-80f6-c269-e478-4ad9e0a9699b/e1103d52-00c6-4a37-adcf-681bc4e1a2c2_4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/2a/44/d62a44fd-408a-dd57-0d2e-4cda663d153e/4009363f-564d-4bb8-8de5-c6ce08276bab_3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/b9/50/03b9505f-9009-f4cd-d997-a9e0d8068cac/fcc76c0d-730b-4adb-abe6-39f8bc824437_5.png/552x414bb.png"
+      ],
       "appletvScreenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "userRatingCountForCurrentVersion": 42,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://artcoastdesign.com/breathein",
-      "averageUserRating": 4.78571,
-      "trackCensoredName": "BreatheIn: Calm Breathing",
+      "averageUserRating": 5,
+      "trackCensoredName": "三國志漢末霸業",
+      "trackViewUrl": "https://apps.apple.com/hk/app/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%A2%E6%9C%AB%E9%9C%B8%E6%A5%AD/id1373057849?uo=4",
+      "contentAdvisoryRating": "12+",
+      "artistId": 1373057848,
+      "artistName": "ChengDu LongYou Tech Ltd",
+      "genres": [
+        "遊戲",
+        "策略",
+        "模擬"
+      ],
+      "price": 38,
+      "releaseDate": "2018-06-15T03:18:21Z",
+      "trackId": 1373057849,
+      "trackName": "三國志漢末霸業",
+      "bundleId": "com.longyoug.hmby",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "genreIds": [
+        "6014",
+        "7017",
+        "7015"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "ChengDu LongYou Tech Ltd",
+      "currentVersionReleaseDate": "2025-08-13T01:49:10Z",
+      "releaseNotes": "《漢末霸業》IOS版2.3.3補丁更新公告（V1.0.6.4050）\n本次更新的主要內容如下：（8月11日 10:00）\n1.修復一些顯示問題。\n2.修復不同等級千軍萬馬裝備技能的武將，同時進入戰場召喚數量異常問題。",
+      "version": "2.4.6",
+      "wrapperType": "software",
+      "currency": "HKD",
+      "description": "《漢末霸業》要求系統版本為iOS 16以上，並使用iPhone 8或8 Plus、iPhone X及以上、iPad Air 2、iPad mini 4、iPad 2017或任意iPad Pro進行遊戲。\n\n官方微博：\nhttp://weibo.com/longyougame\n遊俠網合作論壇：\nhttp://game.ali213.net/forum-1723-1.html\nQQ群\u0010: 293787531   795489685\nFacebook: 搜索 三國誌漢末霸業\n\n【漢末霸業】基本介紹\n\n【三國誌:漢末霸業】是由成都龍遊天下工作室精心制作的壹款回合制君主扮演模式的SLG遊戲。主要是以國人自己對三國遊戲的新思維，新角度來打造不壹樣的三國世界。在回歸傳統策略類的基礎上深度刻畫了三國各城市之間的地域差異以及每個武將自身能力和特性的異同，而在戰鬥方面突出結合天時地利人和的調配來進行作戰的魅力。\n\n\n正式版遊戲特色：\n壹：經典的白描繡像畫風，古樸典雅\n人物頭像采用經典的《三國演義》連環畫的白描繡像畫風和上色。遊戲界面采用古風古韻設計，地道中國風。\n二：簡單易上手的政務管理模式：\n基礎的內政安排、人事探索、軍事偵察、技術開發都采用放置類管理模式，減少繁瑣的重復操作，讓玩家能聚焦其他事件。君主扮演模式，玩家只需要關註首都以及國家的管理。其他城市交給太守進行管理。使用方針給分城下達不同的軍政指令。\n\n三：極其豐富的遊戲內容設定：\n\t超過1300名登場武將（包括歷史和演義武將）。 \n\t30項武將基本能力的細分化設計，更能體現武將之間的差異。\n\t超過300種以上的獨立配置的武將特性，全面凸顯武將個體差異。 \n\t超過500種有考據的物品寶物設定。多種分類劃分來滿足不同的喜好需求。\n\t近六十多個不同類型的城市，200多種有據可考的城市特征和特產。\n\t豐富的技術研究和開發項目，體現了科技對勢力發展的重要性。\n\t三大基本兵種和近二十種特殊兵種構成豐富的兵種體系。\n\t超豐富的官職系統。\n\t各種自然現象和事件災害模擬出多災多難的三國時期。 \n\t豐富的來訪事情，商人、仙人、名士、名醫、名匠、劍客遊走四方，引發各種功能事件。\n\n四：回歸經典回合制，側重策略性排兵布陣的戰鬥系統\n\t天氣和地形、地塊高度的引入更加凸顯天時地利要素對戰爭的影響。\n\t野戰和攻城戰功能獨立分開。攻城有攻城車，霹靂車，井闌，守城有投石機、床弩、塞門刀車。更能凸顯攻守之間的平衡關系。",
+      "minimumOsVersion": "10.0",
+      "averageUserRatingForCurrentVersion": 5,
       "languageCodesISO2A": [
         "EN",
-        "RU"
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "TH",
+        "ZH",
+        "VI"
       ],
-      "fileSizeBytes": "12248064",
-      "formattedPrice": "免费",
-      "averageUserRatingForCurrentVersion": 4.78571,
-      "trackViewUrl": "https://apps.apple.com/cn/app/breathein-calm-breathing/id1481100296?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 1164457417,
-      "artistName": "Dmitry Mashkin",
-      "genres": [
-        "健康健美",
-        "生活"
-      ],
-      "price": 0,
-      "bundleId": "mashkin.Breathe-in",
-      "releaseDate": "2020-01-10T08:00:00Z",
-      "trackId": 1481100296,
-      "trackName": "BreatheIn: Calm Breathing",
-      "genreIds": [
-        "6013",
-        "6012"
-      ],
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Dmitry Mashkin",
-      "currentVersionReleaseDate": "2024-10-25T20:09:24Z",
-      "releaseNotes": "- Added support iOS 18\n- Added support for the iPhone 16\n- Smaller bug fixes and performance improvements",
-      "version": "2.1.57",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "与BreatheIn一起提升您的生活！\n\n您是否曾在生活的混乱中感到迷茫？您是否曾渴望一刻的平静与安宁？与BreatheIn一起深入探索呼吸的变革力量！\n\n解锁平静与活力！\n深呼吸、缓慢、有规律是通向宁静心灵和充满活力生活的秘密钥匙！沉浸在您的呼吸节奏中，体验真正活着的快乐。通过赋能的呼吸练习统一您的心灵和身体，踏上自我发现和更新的旅程！\n\n为您精选和测试的实践！\n在BreatheIn，我们精心挑选并亲自验证了每个呼吸练习，以确保您只得到最好的。通过加入我们探索这些变革性的实践，拥抱更健康、更充实的生活！\n\n与Apple Health无缝集成！\n毫不费力地追踪您的进展！您与BreatheIn的正念分钟会自动添加到Apple Health，使监测您的健康之旅变得前所未有的简单。\n\n发现各种呼吸练习！\n\n方呼吸（4-4-4-4）：一种简单而强大的技巧，可重新获得控制并缓解压力。\n放松呼吸（4-7-8）：一种安定的方法，可平息焦虑并迅速入睡。\nBhramari Pranayama（蜜蜂呼吸）：一种协调技术，可安抚心灵和放松身体。\n同步呼吸：旨在提高心率变异性（HRV）以获得最佳健康。\n一次呼吸，一步一步地改变您的生活！\n每个练习都是通往更平衡、更有韧性的自我的一块垫脚石。与BreatheIn一起征服压力，焕发您的身体，找到您的中心！\n\n今天就开始您的旅程！\n下载BreatheIn，踏入和平、平衡和活力的世界。您每次的呼吸都是通往更充实的您的一步！",
-      "minimumOsVersion": "13.0",
-      "userRatingCount": 42,
-      "inAppPurchases": {},
-      "timestamp": 1755008006130,
+      "fileSizeBytes": "3883694080",
+      "formattedPrice": "HK$ 38.00",
+      "userRatingCountForCurrentVersion": 1,
+      "trackContentRating": "12+",
+      "userRatingCount": 1,
+      "inAppPurchases": {
+        "寶物編輯器": "HK$ 8.00",
+        "美術升級包": "HK$ 18.00",
+        "群英薈": "HK$ 22.00",
+        "出類拔萃": "HK$ 22.00",
+        "蒼天之志": "HK$ 32.00"
+      },
+      "timestamp": 1755267162497,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "¥15.00",
-          "to": "免费",
-          "range": "[免费 ~ ¥15.00]"
+          "from": "HK$ 98.00",
+          "to": "HK$ 38.00",
+          "range": "[HK$ 32.00 ~ HK$ 98.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "美術升級包",
+          "from": "HK$ 32.00",
+          "to": "HK$ 18.00",
+          "range": "[HK$ 18.00 ~ HK$ 32.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "群英薈",
+          "from": "HK$ 32.00",
+          "to": "HK$ 22.00",
+          "range": "[HK$ 22.00 ~ HK$ 32.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "出類拔萃",
+          "from": "HK$ 32.00",
+          "to": "HK$ 22.00",
+          "range": "[HK$ 22.00 ~ HK$ 32.00]"
         }
       ]
-    }
-  ],
-  "hk": [
+    },
     {
       "isGameCenterEnabled": false,
       "features": [
@@ -5632,15 +5685,11 @@
           "range": "[HK$ 6.00 ~ HK$ 7.00]"
         }
       ]
-    },
+    }
+  ],
+  "mo": [
     {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/hk/developer/dmitry-mashkin/id1164457417?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
+      "isGameCenterEnabled": true,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -5757,73 +5806,130 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "advisories": [],
+      "features": [
+        "gameCenter",
+        "iosUniversal"
+      ],
+      "advisories": [
+        "偶爾/輕度的現實生活暴力"
+      ],
       "kind": "software",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png"
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/14/66/331466f2-f8a1-d656-3554-5d9973e02d88/8f753bf6-7186-4f56-a57d-7482da7cd9f9_2732x2048_Uff08_U7e41_U4f53_Uff09.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/47/e9/1847e98c-8f40-1fa3-3ed4-d338cd577156/c4da9ec1-5aee-4dc6-9060-bd6442b69ad5_2732x2048_U00283_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/8a/3f/778a3f21-9830-5fa2-94e3-e3622eb49012/eeccb768-73d0-4840-8373-19d11b848e12_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/38/09/b1380965-0607-cf1d-0793-f8243d9d8df5/424d7c56-6e29-456e-b64c-04ff8f5e6453_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/b8/3a/63b83a78-9a7c-77a8-d8b7-cfbbd0bd09c3/e8e162ab-8a6e-4e58-9263-1d0dbcd20804_6.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/89/8d/48898d8a-80f6-c269-e478-4ad9e0a9699b/e1103d52-00c6-4a37-adcf-681bc4e1a2c2_4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/2a/44/d62a44fd-408a-dd57-0d2e-4cda663d153e/4009363f-564d-4bb8-8de5-c6ce08276bab_3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/b9/50/03b9505f-9009-f4cd-d997-a9e0d8068cac/fcc76c0d-730b-4adb-abe6-39f8bc824437_5.png/552x414bb.png"
       ],
-      "ipadScreenshotUrls": [],
       "appletvScreenshotUrls": [],
-      "trackCensoredName": "BreatheIn: Calm Breathing",
-      "trackViewUrl": "https://apps.apple.com/hk/app/breathein-calm-breathing/id1481100296?uo=4",
-      "averageUserRating": 3.8,
-      "contentAdvisoryRating": "4+",
-      "artistId": 1164457417,
-      "artistName": "Dmitry Mashkin",
+      "artistViewUrl": "https://apps.apple.com/mo/developer/chengdu-longyou-tech-ltd/id1373057848?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/56/43/e75643d3-ff6a-bc9f-29a0-0b5142dac448/0540c8ed-f7cb-485c-aca5-348915821154_2208x1242_U0028_U7e41_U4f53_U0029.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/1d/ca/5c1dca5b-7391-48d2-ade2-a99988355d6e/5c699395-0900-4651-aa62-cb0ef4db35de_2208x1242_Uff08_U7e41_U4f53_Uff09.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/99/71/c099712f-f618-8dc6-b28c-f2ec08a72ddb/f51e3254-b419-4e7d-bd4b-a00b5d6967cd_1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/1a/1f/181a1f2f-1477-9267-3b05-60687013e353/a4e9b992-9703-4566-99ce-70d40ecaca49_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/28/cc/6828cce7-eefb-9d0a-9890-fade762d3285/748c9c94-9732-41cb-9fdb-0b23ebfd412a_6.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/84/3b/34843bb0-40c0-3083-a90e-be1982f94cf1/0c50b49b-287f-4fa3-a8c7-72deb60fa59e_4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/9a/cc/ac9accb5-9dec-dc7d-2865-a47b65302fd7/c09d8f84-ab83-4c7c-a359-534ce357a66a_3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/74/84/7f74841b-9858-08c4-3b8c-48526e6751b6/f72f2a0e-59ac-4866-9fcb-4e516ee55b64_5.png/406x228bb.png"
+      ],
+      "artistId": 1373057848,
+      "artistName": "ChengDu LongYou Tech Ltd",
       "genres": [
-        "健康與健身",
-        "生活風格"
+        "遊戲",
+        "策略",
+        "模擬"
       ],
-      "price": 0,
-      "releaseDate": "2020-01-10T08:00:00Z",
-      "bundleId": "mashkin.Breathe-in",
-      "trackId": 1481100296,
-      "trackName": "BreatheIn: Calm Breathing",
+      "price": 4.99,
+      "releaseDate": "2018-06-15T03:18:21Z",
       "genreIds": [
-        "6013",
-        "6012"
+        "6014",
+        "7017",
+        "7015"
       ],
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
+      "bundleId": "com.longyoug.hmby",
+      "releaseNotes": "《漢末霸業》IOS版2.3.3補丁更新公告（V1.0.6.4050）\n本次更新的主要內容如下：（8月11日 10:00）\n1.修復一些顯示問題。\n2.修復不同等級千軍萬馬裝備技能的武將，同時進入戰場召喚數量異常問題。",
+      "trackId": 1373057849,
+      "trackName": "三國志漢末霸業",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "sellerName": "ChengDu LongYou Tech Ltd",
       "isVppDeviceBasedLicensingEnabled": true,
-      "sellerName": "Dmitry Mashkin",
-      "currentVersionReleaseDate": "2024-10-25T20:09:24Z",
-      "releaseNotes": "- Added support iOS 18\n- Added support for the iPhone 16\n- Smaller bug fixes and performance improvements",
-      "version": "2.1.57",
+      "currentVersionReleaseDate": "2025-08-13T01:49:10Z",
+      "version": "2.4.6",
       "wrapperType": "software",
-      "currency": "HKD",
-      "description": "Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.\n\nRediscover Calm and Energy\n\nDeep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.\n\nExpertly Curated Practices\n\nWe've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!\n\nSeamless Apple Health Integration\n\nTrack your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.\n\nExplore a Range of Techniques\n\n- Square Breathing (4-4-4-4): Regain control and calm your mind.\n- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.\n- Bee Breathing: Soothe your mind with this relaxing technique.\n- Coherent Breathing: Improve your well-being through HRV enhancement.\n- Transform Your Life, One Breath at a Time\n\nConquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!",
-      "minimumOsVersion": "13.0",
-      "sellerUrl": "https://artcoastdesign.com/breathein",
+      "currency": "USD",
+      "description": "《漢末霸業》要求系統版本為iOS 16以上，並使用iPhone 8或8 Plus、iPhone X及以上、iPad Air 2、iPad mini 4、iPad 2017或任意iPad Pro進行遊戲。\n\n官方微博：\nhttp://weibo.com/longyougame\n遊俠網合作論壇：\nhttp://game.ali213.net/forum-1723-1.html\nQQ群\u0010: 293787531   795489685\nFacebook: 搜索 三國誌漢末霸業\n\n【漢末霸業】基本介紹\n\n【三國誌:漢末霸業】是由成都龍遊天下工作室精心制作的壹款回合制君主扮演模式的SLG遊戲。主要是以國人自己對三國遊戲的新思維，新角度來打造不壹樣的三國世界。在回歸傳統策略類的基礎上深度刻畫了三國各城市之間的地域差異以及每個武將自身能力和特性的異同，而在戰鬥方面突出結合天時地利人和的調配來進行作戰的魅力。\n\n\n正式版遊戲特色：\n壹：經典的白描繡像畫風，古樸典雅\n人物頭像采用經典的《三國演義》連環畫的白描繡像畫風和上色。遊戲界面采用古風古韻設計，地道中國風。\n二：簡單易上手的政務管理模式：\n基礎的內政安排、人事探索、軍事偵察、技術開發都采用放置類管理模式，減少繁瑣的重復操作，讓玩家能聚焦其他事件。君主扮演模式，玩家只需要關註首都以及國家的管理。其他城市交給太守進行管理。使用方針給分城下達不同的軍政指令。\n\n三：極其豐富的遊戲內容設定：\n\t超過1300名登場武將（包括歷史和演義武將）。 \n\t30項武將基本能力的細分化設計，更能體現武將之間的差異。\n\t超過300種以上的獨立配置的武將特性，全面凸顯武將個體差異。 \n\t超過500種有考據的物品寶物設定。多種分類劃分來滿足不同的喜好需求。\n\t近六十多個不同類型的城市，200多種有據可考的城市特征和特產。\n\t豐富的技術研究和開發項目，體現了科技對勢力發展的重要性。\n\t三大基本兵種和近二十種特殊兵種構成豐富的兵種體系。\n\t超豐富的官職系統。\n\t各種自然現象和事件災害模擬出多災多難的三國時期。 \n\t豐富的來訪事情，商人、仙人、名士、名醫、名匠、劍客遊走四方，引發各種功能事件。\n\n四：回歸經典回合制，側重策略性排兵布陣的戰鬥系統\n\t天氣和地形、地塊高度的引入更加凸顯天時地利要素對戰爭的影響。\n\t野戰和攻城戰功能獨立分開。攻城有攻城車，霹靂車，井闌，守城有投石機、床弩、塞門刀車。更能凸顯攻守之間的平衡關系。",
+      "trackViewUrl": "https://apps.apple.com/mo/app/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%A2%E6%9C%AB%E9%9C%B8%E6%A5%AD/id1373057849?uo=4",
+      "averageUserRatingForCurrentVersion": 0,
+      "fileSizeBytes": "3883694080",
+      "formattedPrice": "USD 4.99",
+      "contentAdvisoryRating": "12+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "12+",
+      "averageUserRating": 0,
       "languageCodesISO2A": [
         "EN",
-        "RU"
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "TH",
+        "ZH",
+        "VI"
       ],
-      "fileSizeBytes": "12248064",
-      "formattedPrice": "免費",
-      "userRatingCountForCurrentVersion": 5,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.8,
-      "userRatingCount": 5,
-      "inAppPurchases": {},
-      "timestamp": 1755008006130,
+      "minimumOsVersion": "10.0",
+      "trackCensoredName": "三國志漢末霸業",
+      "userRatingCount": 0,
+      "inAppPurchases": {
+        "寶物編輯器": "USD 0.99",
+        "美術升級包": "USD 1.99",
+        "出類拔萃": "USD 2.99",
+        "群英薈": "USD 2.99",
+        "蒼天之志": "USD 3.99"
+      },
+      "timestamp": 1755267162497,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "HK$ 18.00",
-          "to": "免費",
-          "range": "[免費 ~ HK$ 18.00]"
+          "from": "USD 12.99",
+          "to": "USD 4.99",
+          "range": "[USD 3.99 ~ USD 12.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "美術升級包",
+          "from": "USD 3.99",
+          "to": "USD 1.99",
+          "range": "[USD 1.99 ~ USD 3.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "出類拔萃",
+          "from": "USD 3.99",
+          "to": "USD 2.99",
+          "range": "[USD 2.99 ~ USD 3.99]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "群英薈",
+          "from": "USD 3.99",
+          "to": "USD 2.99",
+          "range": "[USD 2.99 ~ USD 3.99]"
         }
       ]
-    }
-  ],
-  "mo": [
+    },
     {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/96/ee/71/96ee712c-b4ed-3b84-76d7-8a1acfd1f8cb/1e660d69-3d17-461d-b084-031988368c7f_1.png/392x696bb.png",
@@ -8100,15 +8206,14 @@
           "range": "[USD 12.99 ~ USD 49.99]"
         }
       ]
-    },
+    }
+  ],
+  "tw": [
     {
-      "isGameCenterEnabled": false,
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/mo/developer/dmitry-mashkin/id1164457417?uo=4",
-      "features": [
-        "iosUniversal"
-      ],
+      "artistViewUrl": "https://apps.apple.com/tw/developer/chengdu-longyou-tech-ltd/id1373057848?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": true,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -8225,73 +8330,127 @@
         "iPadAir13M3-iPadAir13M3",
         "iPadAir13M3Cellular-iPadAir13M3Cellular"
       ],
-      "advisories": [],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png"
+      "features": [
+        "gameCenter",
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/512x512bb.jpg",
+      "advisories": [
+        "偶而/輕微的現實暴力"
+      ],
       "kind": "software",
-      "userRatingCountForCurrentVersion": 1,
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 5,
-      "trackCensoredName": "BreatheIn: Calm Breathing",
-      "trackViewUrl": "https://apps.apple.com/mo/app/breathein-calm-breathing/id1481100296?uo=4",
-      "artistId": 1164457417,
-      "artistName": "Dmitry Mashkin",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/56/43/e75643d3-ff6a-bc9f-29a0-0b5142dac448/0540c8ed-f7cb-485c-aca5-348915821154_2208x1242_U0028_U7e41_U4f53_U0029.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/1d/ca/5c1dca5b-7391-48d2-ade2-a99988355d6e/5c699395-0900-4651-aa62-cb0ef4db35de_2208x1242_Uff08_U7e41_U4f53_Uff09.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/99/71/c099712f-f618-8dc6-b28c-f2ec08a72ddb/f51e3254-b419-4e7d-bd4b-a00b5d6967cd_1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/18/1a/1f/181a1f2f-1477-9267-3b05-60687013e353/a4e9b992-9703-4566-99ce-70d40ecaca49_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/68/28/cc/6828cce7-eefb-9d0a-9890-fade762d3285/748c9c94-9732-41cb-9fdb-0b23ebfd412a_6.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/84/3b/34843bb0-40c0-3083-a90e-be1982f94cf1/0c50b49b-287f-4fa3-a8c7-72deb60fa59e_4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/9a/cc/ac9accb5-9dec-dc7d-2865-a47b65302fd7/c09d8f84-ab83-4c7c-a359-534ce357a66a_3.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/74/84/7f74841b-9858-08c4-3b8c-48526e6751b6/f72f2a0e-59ac-4866-9fcb-4e516ee55b64_5.png/406x228bb.png"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/33/14/66/331466f2-f8a1-d656-3554-5d9973e02d88/8f753bf6-7186-4f56-a57d-7482da7cd9f9_2732x2048_Uff08_U7e41_U4f53_Uff09.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/18/47/e9/1847e98c-8f40-1fa3-3ed4-d338cd577156/c4da9ec1-5aee-4dc6-9060-bd6442b69ad5_2732x2048_U00283_U0029.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/8a/3f/778a3f21-9830-5fa2-94e3-e3622eb49012/eeccb768-73d0-4840-8373-19d11b848e12_1.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/38/09/b1380965-0607-cf1d-0793-f8243d9d8df5/424d7c56-6e29-456e-b64c-04ff8f5e6453_2.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/b8/3a/63b83a78-9a7c-77a8-d8b7-cfbbd0bd09c3/e8e162ab-8a6e-4e58-9263-1d0dbcd20804_6.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/48/89/8d/48898d8a-80f6-c269-e478-4ad9e0a9699b/e1103d52-00c6-4a37-adcf-681bc4e1a2c2_4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/2a/44/d62a44fd-408a-dd57-0d2e-4cda663d153e/4009363f-564d-4bb8-8de5-c6ce08276bab_3.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/b9/50/03b9505f-9009-f4cd-d997-a9e0d8068cac/fcc76c0d-730b-4adb-abe6-39f8bc824437_5.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/83/01/5c830108-d1e3-8460-472c-e095d7c50c93/AppIcon_ios-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "三國志漢末霸業",
+      "trackViewUrl": "https://apps.apple.com/tw/app/%E4%B8%89%E5%9C%8B%E5%BF%97%E6%BC%A2%E6%9C%AB%E9%9C%B8%E6%A5%AD/id1373057849?uo=4",
+      "contentAdvisoryRating": "12+",
+      "averageUserRating": 4.4,
+      "artistId": 1373057848,
+      "artistName": "ChengDu LongYou Tech Ltd",
       "genres": [
-        "健康與健身",
-        "生活風格"
+        "遊戲",
+        "策略",
+        "模擬"
       ],
-      "price": 0,
-      "releaseDate": "2020-01-10T08:00:00Z",
-      "bundleId": "mashkin.Breathe-in",
-      "trackId": 1481100296,
-      "trackName": "BreatheIn: Calm Breathing",
+      "price": 150,
+      "trackId": 1373057849,
+      "trackName": "三國志漢末霸業",
+      "bundleId": "com.longyoug.hmby",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "sellerName": "ChengDu LongYou Tech Ltd",
       "genreIds": [
-        "6013",
-        "6012"
+        "6014",
+        "7017",
+        "7015"
       ],
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "sellerName": "Dmitry Mashkin",
+      "releaseDate": "2018-06-15T03:18:21Z",
       "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2024-10-25T20:09:24Z",
-      "releaseNotes": "- Added support iOS 18\n- Added support for the iPhone 16\n- Smaller bug fixes and performance improvements",
-      "sellerUrl": "https://artcoastdesign.com/breathein",
+      "currentVersionReleaseDate": "2025-08-13T01:49:10Z",
+      "releaseNotes": "《漢末霸業》IOS版2.3.3補丁更新公告（V1.0.6.4050）\n本次更新的主要內容如下：（8月11日 10:00）\n1.修復一些顯示問題。\n2.修復不同等級千軍萬馬裝備技能的武將，同時進入戰場召喚數量異常問題。",
+      "version": "2.4.6",
+      "wrapperType": "software",
+      "currency": "TWD",
+      "description": "《漢末霸業》要求系統版本為iOS 16以上，並使用iPhone 8或8 Plus、iPhone X及以上、iPad Air 2、iPad mini 4、iPad 2017或任意iPad Pro進行遊戲。\n\n官方微博：\nhttp://weibo.com/longyougame\n遊俠網合作論壇：\nhttp://game.ali213.net/forum-1723-1.html\nQQ群\u0010: 293787531   795489685\nFacebook: 搜索 三國誌漢末霸業\n\n【漢末霸業】基本介紹\n\n【三國誌:漢末霸業】是由成都龍遊天下工作室精心制作的壹款回合制君主扮演模式的SLG遊戲。主要是以國人自己對三國遊戲的新思維，新角度來打造不壹樣的三國世界。在回歸傳統策略類的基礎上深度刻畫了三國各城市之間的地域差異以及每個武將自身能力和特性的異同，而在戰鬥方面突出結合天時地利人和的調配來進行作戰的魅力。\n\n\n正式版遊戲特色：\n壹：經典的白描繡像畫風，古樸典雅\n人物頭像采用經典的《三國演義》連環畫的白描繡像畫風和上色。遊戲界面采用古風古韻設計，地道中國風。\n二：簡單易上手的政務管理模式：\n基礎的內政安排、人事探索、軍事偵察、技術開發都采用放置類管理模式，減少繁瑣的重復操作，讓玩家能聚焦其他事件。君主扮演模式，玩家只需要關註首都以及國家的管理。其他城市交給太守進行管理。使用方針給分城下達不同的軍政指令。\n\n三：極其豐富的遊戲內容設定：\n\t超過1300名登場武將（包括歷史和演義武將）。 \n\t30項武將基本能力的細分化設計，更能體現武將之間的差異。\n\t超過300種以上的獨立配置的武將特性，全面凸顯武將個體差異。 \n\t超過500種有考據的物品寶物設定。多種分類劃分來滿足不同的喜好需求。\n\t近六十多個不同類型的城市，200多種有據可考的城市特征和特產。\n\t豐富的技術研究和開發項目，體現了科技對勢力發展的重要性。\n\t三大基本兵種和近二十種特殊兵種構成豐富的兵種體系。\n\t超豐富的官職系統。\n\t各種自然現象和事件災害模擬出多災多難的三國時期。 \n\t豐富的來訪事情，商人、仙人、名士、名醫、名匠、劍客遊走四方，引發各種功能事件。\n\n四：回歸經典回合制，側重策略性排兵布陣的戰鬥系統\n\t天氣和地形、地塊高度的引入更加凸顯天時地利要素對戰爭的影響。\n\t野戰和攻城戰功能獨立分開。攻城有攻城車，霹靂車，井闌，守城有投石機、床弩、塞門刀車。更能凸顯攻守之間的平衡關系。",
+      "averageUserRatingForCurrentVersion": 4.4,
+      "userRatingCountForCurrentVersion": 5,
+      "minimumOsVersion": "10.0",
       "languageCodesISO2A": [
         "EN",
-        "RU"
+        "FR",
+        "DE",
+        "JA",
+        "KO",
+        "PT",
+        "RU",
+        "ZH",
+        "ES",
+        "TH",
+        "ZH",
+        "VI"
       ],
-      "fileSizeBytes": "12248064",
-      "formattedPrice": "免費",
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 5,
-      "version": "2.1.57",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.\n\nRediscover Calm and Energy\n\nDeep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.\n\nExpertly Curated Practices\n\nWe've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!\n\nSeamless Apple Health Integration\n\nTrack your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.\n\nExplore a Range of Techniques\n\n- Square Breathing (4-4-4-4): Regain control and calm your mind.\n- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.\n- Bee Breathing: Soothe your mind with this relaxing technique.\n- Coherent Breathing: Improve your well-being through HRV enhancement.\n- Transform Your Life, One Breath at a Time\n\nConquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!",
-      "minimumOsVersion": "13.0",
-      "userRatingCount": 1,
-      "inAppPurchases": {},
-      "timestamp": 1755008006130,
+      "fileSizeBytes": "3883694080",
+      "formattedPrice": "$150.00",
+      "trackContentRating": "12+",
+      "userRatingCount": 5,
+      "inAppPurchases": {
+        "寶物編輯器": "$30.00",
+        "美術升級包": "$60.00",
+        "群英薈": "$90.00",
+        "出類拔萃": "$90.00",
+        "蒼天之志": "$120.00"
+      },
+      "timestamp": 1755267162497,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "USD 1.99",
-          "to": "免費",
-          "range": "[免費 ~ USD 1.99]"
+          "from": "$390.00",
+          "to": "$150.00",
+          "range": "[$120.00 ~ $390.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "美術升級包",
+          "from": "$120.00",
+          "to": "$60.00",
+          "range": "[$60.00 ~ $120.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "群英薈",
+          "from": "$120.00",
+          "to": "$90.00",
+          "range": "[$90.00 ~ $120.00]"
+        },
+        {
+          "type": "inAppPurchase",
+          "name": "出類拔萃",
+          "from": "$120.00",
+          "to": "$90.00",
+          "range": "[$90.00 ~ $120.00]"
         }
       ]
-    }
-  ],
-  "tw": [
+    },
     {
       "isGameCenterEnabled": false,
       "features": [
@@ -10986,195 +11145,6 @@
           "from": "$990.00",
           "to": "$790.00",
           "range": "[$390.00 ~ $1,490.00]"
-        }
-      ]
-    },
-    {
-      "artistViewUrl": "https://apps.apple.com/tw/developer/dmitry-mashkin/id1164457417?uo=4",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/512x512bb.jpg",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/100x100bb.jpg",
-      "features": [
-        "iosUniversal"
-      ],
-      "supportedDevices": [
-        "iPhone5s-iPhone5s",
-        "iPadAir-iPadAir",
-        "iPadAirCellular-iPadAirCellular",
-        "iPadMiniRetina-iPadMiniRetina",
-        "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
-        "iPhone6-iPhone6",
-        "iPhone6Plus-iPhone6Plus",
-        "iPadAir2-iPadAir2",
-        "iPadAir2Cellular-iPadAir2Cellular",
-        "iPadMini3-iPadMini3",
-        "iPadMini3Cellular-iPadMini3Cellular",
-        "iPodTouchSixthGen-iPodTouchSixthGen",
-        "iPhone6s-iPhone6s",
-        "iPhone6sPlus-iPhone6sPlus",
-        "iPadMini4-iPadMini4",
-        "iPadMini4Cellular-iPadMini4Cellular",
-        "iPadPro-iPadPro",
-        "iPadProCellular-iPadProCellular",
-        "iPadPro97-iPadPro97",
-        "iPadPro97Cellular-iPadPro97Cellular",
-        "iPhoneSE-iPhoneSE",
-        "iPhone7-iPhone7",
-        "iPhone7Plus-iPhone7Plus",
-        "iPad611-iPad611",
-        "iPad612-iPad612",
-        "iPad71-iPad71",
-        "iPad72-iPad72",
-        "iPad73-iPad73",
-        "iPad74-iPad74",
-        "iPhone8-iPhone8",
-        "iPhone8Plus-iPhone8Plus",
-        "iPhoneX-iPhoneX",
-        "iPad75-iPad75",
-        "iPad76-iPad76",
-        "iPhoneXS-iPhoneXS",
-        "iPhoneXSMax-iPhoneXSMax",
-        "iPhoneXR-iPhoneXR",
-        "iPad812-iPad812",
-        "iPad834-iPad834",
-        "iPad856-iPad856",
-        "iPad878-iPad878",
-        "iPadMini5-iPadMini5",
-        "iPadMini5Cellular-iPadMini5Cellular",
-        "iPadAir3-iPadAir3",
-        "iPadAir3Cellular-iPadAir3Cellular",
-        "iPodTouchSeventhGen-iPodTouchSeventhGen",
-        "iPhone11-iPhone11",
-        "iPhone11Pro-iPhone11Pro",
-        "iPadSeventhGen-iPadSeventhGen",
-        "iPadSeventhGenCellular-iPadSeventhGenCellular",
-        "iPhone11ProMax-iPhone11ProMax",
-        "iPhoneSESecondGen-iPhoneSESecondGen",
-        "iPadProSecondGen-iPadProSecondGen",
-        "iPadProSecondGenCellular-iPadProSecondGenCellular",
-        "iPadProFourthGen-iPadProFourthGen",
-        "iPadProFourthGenCellular-iPadProFourthGenCellular",
-        "iPhone12Mini-iPhone12Mini",
-        "iPhone12-iPhone12",
-        "iPhone12Pro-iPhone12Pro",
-        "iPhone12ProMax-iPhone12ProMax",
-        "iPadAir4-iPadAir4",
-        "iPadAir4Cellular-iPadAir4Cellular",
-        "iPadEighthGen-iPadEighthGen",
-        "iPadEighthGenCellular-iPadEighthGenCellular",
-        "iPadProThirdGen-iPadProThirdGen",
-        "iPadProThirdGenCellular-iPadProThirdGenCellular",
-        "iPadProFifthGen-iPadProFifthGen",
-        "iPadProFifthGenCellular-iPadProFifthGenCellular",
-        "iPhone13Pro-iPhone13Pro",
-        "iPhone13ProMax-iPhone13ProMax",
-        "iPhone13Mini-iPhone13Mini",
-        "iPhone13-iPhone13",
-        "iPadMiniSixthGen-iPadMiniSixthGen",
-        "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
-        "iPadNinthGen-iPadNinthGen",
-        "iPadNinthGenCellular-iPadNinthGenCellular",
-        "iPhoneSEThirdGen-iPhoneSEThirdGen",
-        "iPadAirFifthGen-iPadAirFifthGen",
-        "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
-        "iPhone14-iPhone14",
-        "iPhone14Plus-iPhone14Plus",
-        "iPhone14Pro-iPhone14Pro",
-        "iPhone14ProMax-iPhone14ProMax",
-        "iPadTenthGen-iPadTenthGen",
-        "iPadTenthGenCellular-iPadTenthGenCellular",
-        "iPadPro11FourthGen-iPadPro11FourthGen",
-        "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
-        "iPadProSixthGen-iPadProSixthGen",
-        "iPadProSixthGenCellular-iPadProSixthGenCellular",
-        "iPhone15-iPhone15",
-        "iPhone15Plus-iPhone15Plus",
-        "iPhone15Pro-iPhone15Pro",
-        "iPhone15ProMax-iPhone15ProMax",
-        "iPadAir11M2-iPadAir11M2",
-        "iPadAir11M2Cellular-iPadAir11M2Cellular",
-        "iPadAir13M2-iPadAir13M2",
-        "iPadAir13M2Cellular-iPadAir13M2Cellular",
-        "iPadPro11M4-iPadPro11M4",
-        "iPadPro11M4Cellular-iPadPro11M4Cellular",
-        "iPadPro13M4-iPadPro13M4",
-        "iPadPro13M4Cellular-iPadPro13M4Cellular",
-        "iPhone16-iPhone16",
-        "iPhone16Plus-iPhone16Plus",
-        "iPhone16Pro-iPhone16Pro",
-        "iPhone16ProMax-iPhone16ProMax",
-        "iPadMiniA17Pro-iPadMiniA17Pro",
-        "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
-        "iPhone16e-iPhone16e",
-        "iPadA16-iPadA16",
-        "iPadA16Cellular-iPadA16Cellular",
-        "iPadAir11M3-iPadAir11M3",
-        "iPadAir11M3Cellular-iPadAir11M3Cellular",
-        "iPadAir13M3-iPadAir13M3",
-        "iPadAir13M3Cellular-iPadAir13M3Cellular"
-      ],
-      "advisories": [],
-      "isGameCenterEnabled": false,
-      "kind": "software",
-      "sellerUrl": "https://artcoastdesign.com/breathein",
-      "languageCodesISO2A": [
-        "EN",
-        "RU"
-      ],
-      "fileSizeBytes": "12248064",
-      "formattedPrice": "免費",
-      "userRatingCountForCurrentVersion": 5,
-      "trackContentRating": "4+",
-      "averageUserRating": 5,
-      "minimumOsVersion": "13.0",
-      "trackCensoredName": "BreatheIn: Calm Breathing",
-      "trackViewUrl": "https://apps.apple.com/tw/app/breathein-calm-breathing/id1481100296?uo=4",
-      "averageUserRatingForCurrentVersion": 5,
-      "contentAdvisoryRating": "4+",
-      "artistId": 1164457417,
-      "artistName": "Dmitry Mashkin",
-      "genres": [
-        "健康與健身",
-        "生活風格"
-      ],
-      "price": 0,
-      "bundleId": "mashkin.Breathe-in",
-      "releaseDate": "2020-01-10T08:00:00Z",
-      "sellerName": "Dmitry Mashkin",
-      "genreIds": [
-        "6013",
-        "6012"
-      ],
-      "trackName": "BreatheIn: Calm Breathing",
-      "trackId": 1481100296,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Health & Fitness",
-      "primaryGenreId": 6013,
-      "currentVersionReleaseDate": "2024-10-25T20:09:24Z",
-      "releaseNotes": "- Added support iOS 18\n- Added support for the iPhone 16\n- Smaller bug fixes and performance improvements",
-      "version": "2.1.57",
-      "wrapperType": "software",
-      "currency": "TWD",
-      "description": "Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.\n\nRediscover Calm and Energy\n\nDeep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.\n\nExpertly Curated Practices\n\nWe've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!\n\nSeamless Apple Health Integration\n\nTrack your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.\n\nExplore a Range of Techniques\n\n- Square Breathing (4-4-4-4): Regain control and calm your mind.\n- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.\n- Bee Breathing: Soothe your mind with this relaxing technique.\n- Coherent Breathing: Improve your well-being through HRV enhancement.\n- Transform Your Life, One Breath at a Time\n\nConquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!",
-      "userRatingCount": 5,
-      "inAppPurchases": {},
-      "timestamp": 1755008006130,
-      "discounts": [
-        {
-          "type": "price",
-          "name": "价格",
-          "from": "$60.00",
-          "to": "免費",
-          "range": "[免費 ~ $60.00]"
         }
       ]
     }
