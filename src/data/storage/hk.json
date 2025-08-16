@@ -45678,6 +45678,23 @@
     "history": [
       [
         {
+          "timestamp": 1755313777759,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "一筆鑽石": "HK$ 38.00",
+            "促銷禮包3": "HK$ 58.00",
+            "1代套裝(3星)": "HK$ 18.00",
+            "僱傭超能少年": "HK$ 18.00",
+            "雙倍獎勵": "HK$ 18.00",
+            "一小袋鑽石": "HK$ 88.00",
+            "雙倍背包": "HK$ 18.00",
+            "100鑽石": "HK$ 8.00",
+            "促銷禮包2": "HK$ 38.00",
+            "一大袋鑽石": "HK$ 148.00"
+          }
+        },
+        {
           "timestamp": 1755306029267,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -115493,12 +115510,20 @@
       "Diamonds": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Diamonds": "HK$ 32.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1755313777759,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 32.00"
+          }
+        },
         {
           "timestamp": 1755292232089,
           "price": 2,
