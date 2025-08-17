@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 348759822,
+    name: {
+      mo: '新時代日漢辭典(發音版)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1047815745,
+    name: {
+      mo: 'Music With Grandma',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1660616690,
+    name: {
+      mo: 'OneTap Stream - PC Game Stream',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6746699177,
     name: {
       hk: 'Lysoniq',

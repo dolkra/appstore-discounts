@@ -3325,6 +3325,27 @@
       ]
     ]
   },
+  "348759822": {
+    "name": "新時代日漢辭典(發音版)",
+    "maxPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "minPriceInfo": {
+      "price": 220,
+      "formattedPrice": "$220.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755439856933,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "349242632": {
     "name": "六爻裝卦",
     "maxPriceInfo": {
@@ -37283,6 +37304,14 @@
     "history": [
       [
         {
+          "timestamp": 1755439856933,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751206242556,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -38549,6 +38578,27 @@
           "timestamp": 1745481777335,
           "price": 220,
           "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1047815745": {
+    "name": "Music With Grandma",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755439856933,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]
@@ -50147,6 +50197,14 @@
       "formattedPrice": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755439856933,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753884862706,
@@ -74601,12 +74659,23 @@
       "Call of Olympus": "$120.00"
     },
     "minPriceInfo": {
-      "price": 220,
-      "formattedPrice": "$220.00",
+      "price": 90,
+      "formattedPrice": "$90.00",
       "Norse Lands": "$90.00",
       "Call of Olympus": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755439856933,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Norse Lands": "$90.00",
+            "Call of Olympus": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -92225,6 +92294,27 @@
           "timestamp": 1752765249606,
           "price": 190,
           "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1660616690": {
+    "name": "OneTap Stream - PC Game Stream",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755439856933,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]
