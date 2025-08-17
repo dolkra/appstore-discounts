@@ -15878,10 +15878,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755436945283,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750569174365,
@@ -117141,6 +117149,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755436945283,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A350-1000": "$3.99",
+            "Boeing 737-900": "$1.99",
+            "Global scenery - 3 months": "$6.99"
+          }
+        },
         {
           "timestamp": 1755425564524,
           "price": 3.99,
