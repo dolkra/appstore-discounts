@@ -32154,6 +32154,14 @@
     "history": [
       [
         {
+          "timestamp": 1755472319448,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751238723963,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -42943,6 +42951,14 @@
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755472319448,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753917208479,
@@ -64046,12 +64062,23 @@
       "Call of Olympus": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 129.99,
+      "formattedPrice": "₺129,99",
       "Norse Lands": "₺129,99",
       "Call of Olympus": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755472319448,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Norse Lands": "₺129,99",
+            "Call of Olympus": "₺179,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
