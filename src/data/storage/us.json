@@ -40146,6 +40146,14 @@
     "history": [
       [
         {
+          "timestamp": 1755487460810,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751253594307,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -53128,6 +53136,14 @@
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755487460810,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753932444075,
@@ -80532,12 +80548,23 @@
       "Call of Olympus": "$3.99"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Norse Lands": "$2.99",
       "Call of Olympus": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755487460810,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Norse Lands": "$2.99",
+            "Call of Olympus": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
