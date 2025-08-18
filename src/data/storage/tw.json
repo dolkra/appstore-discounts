@@ -116356,13 +116356,31 @@
     "name": "Dumb Phone",
     "maxPriceInfo": {
       "price": 290,
-      "formattedPrice": "$290.00"
+      "formattedPrice": "$290.00",
+      "Dumb Phone Plus Yearly": "$390.00",
+      "Dumb Phone Plus Lifetime": "$990.00",
+      "Dumb Phone Plus Monthly": "$150.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "Dumb Phone Plus Yearly": "$390.00",
+      "Dumb Phone Plus Lifetime": "$990.00",
+      "Dumb Phone Plus Monthly": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755523843772,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "$390.00",
+            "Dumb Phone Plus Lifetime": "$990.00",
+            "Dumb Phone Plus Monthly": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754982859843,

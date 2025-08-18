@@ -80456,13 +80456,31 @@
     "name": "Dumb Phone",
     "maxPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "USD 7.99"
+      "formattedPrice": "USD 7.99",
+      "Dumb Phone Plus Yearly": "USD 11.99",
+      "Dumb Phone Plus Lifetime": "USD 29.99",
+      "Dumb Phone Plus Monthly": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "Dumb Phone Plus Yearly": "USD 11.99",
+      "Dumb Phone Plus Lifetime": "USD 29.99",
+      "Dumb Phone Plus Monthly": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755523843772,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "USD 11.99",
+            "Dumb Phone Plus Lifetime": "USD 29.99",
+            "Dumb Phone Plus Monthly": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754982859843,
