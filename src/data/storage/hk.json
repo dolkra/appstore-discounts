@@ -35527,6 +35527,14 @@
     "history": [
       [
         {
+          "timestamp": 1755526443856,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755439856933,
           "price": 0,
           "formattedPrice": "免費",
@@ -64552,6 +64560,20 @@
     "history": [
       [
         {
+          "timestamp": 1755526443856,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "HK$ 88.00",
+            "Root: The Underworld Expansion": "HK$ 88.00",
+            "The Clockwork Expansion": "HK$ 48.00",
+            "Exiles & Partisans & Vagabonds": "HK$ 58.00",
+            "Root: The Marauder Expansion": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754921720144,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -79689,6 +79711,14 @@
     "history": [
       [
         {
+          "timestamp": 1755526443856,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752934275432,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -81577,6 +81607,27 @@
       ]
     ]
   },
+  "1558634102": {
+    "name": "分貝計 (聲級計)",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755526443856,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1559183447": {
     "name": "PoPo日记 - 心情日记本,记录情绪手账和记事本",
     "maxPriceInfo": {
@@ -83341,6 +83392,17 @@
       "Dune: Imperium - Rise of Ix": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755526443856,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Dune: Imperium - Immortality": "HK$ 88.00",
+            "Dune: Imperium - Rise of Ix": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754921720144,
