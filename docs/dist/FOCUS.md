@@ -12,7 +12,7 @@ So far, we've covered `6` `Countries or Regions` and  `1299` `Apps` <br />Push n
 |1295|6746699177|Automatic|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|
 |1294|403977617|Automatic|❌|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|
 |1293|686923970|Automatic|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|
-|1292|6749533872|Automatic|❌|石器狩獵勇士:原始人部落之戰|❌|石器狩獵勇士:原始人部落之戰|❌|❌|
+|1292|6749533872|Automatic|❌|石器狩獵勇士:原始人部落之戰|石器狩獵勇士:原始人部落之戰|石器狩獵勇士:原始人部落之戰|❌|❌|
 |1291|6742139144|Automatic|❌|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|Nekopara Love Project Vol.1|Nekopara Love Project Vol.1|
 |1290|1203306285|Automatic|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|
 |1289|1064060287|Automatic|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|
