@@ -68,6 +68,21 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6745578435,
+    name: {
+      hk: '暗黑联盟之暴打传说',
+      tw: '暗黑联盟之暴打传说',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6504453094,
+    name: {
+      mo: 'Black Border 2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1198161469,
     name: {
       mo: '百萬樂曲物語',

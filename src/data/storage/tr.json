@@ -72690,6 +72690,20 @@
     "history": [
       [
         {
+          "timestamp": 1755551439427,
+          "price": 1799.99,
+          "formattedPrice": "₺1.799,99",
+          "inAppPurchases": {
+            "SkySafari Premium": "₺1.299,99",
+            "GAIA Star Database": "₺0,00",
+            "PGC Galaxy Database": "₺0,00",
+            "Apollo Lunar Missions": "₺0,00",
+            "SkySafari Premium Monthly": "₺68,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755188239269,
           "price": 1499.99,
           "formattedPrice": "₺1.499,99",
@@ -98540,6 +98554,27 @@
           "timestamp": 1755418570787,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6504453094": {
+    "name": "Black Border 2",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755551439427,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]
