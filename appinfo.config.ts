@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 793232740,
+    name: {
+      mo: "Cadrage Director's Viewfinder",
+    },
+    addType: 'auto',
+  },
+  {
     id: 1269225754,
     name: {
       mo: 'Gorogoa',

@@ -31314,6 +31314,27 @@
       ]
     ]
   },
+  "793232740": {
+    "name": "Cadrage Director's Viewfinder",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755601821301,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "807317212": {
     "name": "Daily Dozen-Culture in Photos",
     "maxPriceInfo": {
@@ -121375,13 +121396,25 @@
     "name": "Total War™: EMPIRE",
     "maxPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "$19.99"
+      "formattedPrice": "$19.99",
+      "A New World Expansion": "$6.99"
     },
     "minPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "$19.99"
+      "formattedPrice": "$19.99",
+      "A New World Expansion": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755601821301,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "A New World Expansion": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,

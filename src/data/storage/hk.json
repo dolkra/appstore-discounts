@@ -1027,6 +1027,23 @@
     "history": [
       [
         {
+          "timestamp": 1755601821301,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Harp Sweeteners": "HK$ 48.00",
+            "Guitar & Bass Sweeteners": "HK$ 48.00",
+            "Tuning Tools": "HK$ 88.00",
+            "Harmonic Tuning": "HK$ 148.00",
+            "Extended Frequency Modes": "HK$ 38.00",
+            "Full Discounted Upgrade Pack": "HK$ 488.00",
+            "Orchestral Sweeteners": "HK$ 48.00",
+            "Buzz Feiten Pack": "HK$ 48.00",
+            "Harmonica Sweeteners": "HK$ 88.00",
+            "World Sweetener Pack": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1755594794949,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -23966,6 +23983,23 @@
     "history": [
       [
         {
+          "timestamp": 1755601821301,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Just For Kids": "HK$ 0.00",
+            "Happy Holidays": "HK$ 18.00",
+            "Mix It Up": "HK$ 0.00",
+            "The Ellen Show": "HK$ 0.00",
+            "Build Your Own Deck": "HK$ 22.00",
+            "Adult Supervision": "HK$ 18.00",
+            "Super Heroes": "HK$ 18.00",
+            "Food Fight": "HK$ 18.00",
+            "Wish You Were Here": "HK$ 18.00",
+            "Branded": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1755598422005,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -27356,6 +27390,27 @@
           "timestamp": 1745578938597,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "793232740": {
+    "name": "Cadrage Director's Viewfinder",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755601821301,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
           "inAppPurchases": {}
         }
       ]
@@ -32392,6 +32447,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755601821301,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "永遠的小夥伴": "HK$ 58.00",
+            "奇怪的试题集": "HK$ 8.00",
+            "音樂合集SP01": "HK$ 0.00",
+            "音樂合集 04": "HK$ 22.00",
+            "音樂合集 01": "HK$ 18.00",
+            "永远的小伙伴（新人优惠）": "HK$ 58.00",
+            "普通的音樂合集10": "HK$ 22.00",
+            "星尘节拍器": "HK$ 18.00",
+            "小酒仙节拍器": "HK$ 8.00",
+            "音樂合集 03": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1755598422005,
           "price": 8,
@@ -111357,13 +111429,25 @@
     "name": "Total War™: EMPIRE",
     "maxPriceInfo": {
       "price": 139,
-      "formattedPrice": "HK$ 139.00"
+      "formattedPrice": "HK$ 139.00",
+      "A New World Expansion": "HK$ 55.00"
     },
     "minPriceInfo": {
       "price": 139,
-      "formattedPrice": "HK$ 139.00"
+      "formattedPrice": "HK$ 139.00",
+      "A New World Expansion": "HK$ 55.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755601821301,
+          "price": 139,
+          "formattedPrice": "HK$ 139.00",
+          "inAppPurchases": {
+            "A New World Expansion": "HK$ 55.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,

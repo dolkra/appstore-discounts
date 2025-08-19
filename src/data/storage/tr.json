@@ -24109,6 +24109,27 @@
       ]
     ]
   },
+  "793232740": {
+    "name": "Cadrage Director's Viewfinder",
+    "maxPriceInfo": {
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
+    },
+    "minPriceInfo": {
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755601821301,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "807317212": {
     "name": "Daily Dozen-Culture in Photos",
     "maxPriceInfo": {
@@ -35394,6 +35415,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755601821301,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "₺2.299,99",
+            "Parallels Desktop for Mac": "₺2.299,99",
+            "Parallels Desktop for Mac #2": "₺2.299,99",
+            "Parallels Desktop for Mac #3": "₺2.299,99",
+            "Parallels Desktop for Mac #5": "₺2.299,99",
+            "Subscription (1 year)": "₺2.299,99"
+          }
+        },
         {
           "timestamp": 1755598422005,
           "price": 0,
@@ -76087,6 +76121,23 @@
     "history": [
       [
         {
+          "timestamp": 1755601821301,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1755598422005,
           "price": 549,
           "formattedPrice": "₺549,00",
@@ -94346,13 +94397,25 @@
     "name": "Total War™: EMPIRE",
     "maxPriceInfo": {
       "price": 549,
-      "formattedPrice": "₺549,00"
+      "formattedPrice": "₺549,00",
+      "A New World Expansion": "₺199,00"
     },
     "minPriceInfo": {
       "price": 549,
-      "formattedPrice": "₺549,00"
+      "formattedPrice": "₺549,00",
+      "A New World Expansion": "₺199,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755601821301,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "A New World Expansion": "₺199,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745492532710,
