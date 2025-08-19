@@ -5158,6 +5158,14 @@
     "history": [
       [
         {
+          "timestamp": 1755612763648,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752986181190,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -5826,6 +5834,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755612763648,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752986181190,
@@ -7857,6 +7873,14 @@
     "history": [
       [
         {
+          "timestamp": 1755612763648,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752986181190,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -8699,14 +8723,22 @@
   "456976375": {
     "name": "衝刺！賽車物語",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755612763648,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755454618016,
@@ -39036,8 +39068,8 @@
   "1241909999": {
     "name": "WorkOutDoors",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "USD 7.99",
+      "price": 8.99,
+      "formattedPrice": "USD 8.99",
       "Generous Tip": "USD 1.99",
       "Fanatical Tip": "USD 19.99",
       "Massive Tip": "USD 9.99",
@@ -39054,6 +39086,20 @@
       "Tip": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755612763648,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Generous Tip": "USD 1.99",
+            "Fanatical Tip": "USD 19.99",
+            "Massive Tip": "USD 9.99",
+            "Very Generous Tip": "USD 4.99",
+            "Tip": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750151670232,
@@ -42955,6 +43001,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755612763648,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752986181190,
@@ -60723,6 +60777,14 @@
     "history": [
       [
         {
+          "timestamp": 1755612763648,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754489848779,
           "price": 1.39,
           "formattedPrice": "USD 1.39",
@@ -60782,6 +60844,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755612763648,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755526443856,
@@ -68546,6 +68616,14 @@
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755612763648,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752986181190,
@@ -83518,6 +83596,27 @@
           "timestamp": 1755551439427,
           "price": 1.49,
           "formattedPrice": "USD 1.49",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747814605": {
+    "name": "Is This Seat Taken?",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755612763648,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
           "inAppPurchases": {}
         }
       ]
