@@ -40325,6 +40325,14 @@
     "history": [
       [
         {
+          "timestamp": 1755572729514,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755487460810,
           "price": 0,
           "formattedPrice": "Free",
@@ -69413,6 +69421,20 @@
     "history": [
       [
         {
+          "timestamp": 1755572729514,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "$9.99",
+            "Root: The Underworld Expansion": "$9.99",
+            "Exiles & Partisans & Vagabonds": "$7.99",
+            "Root: The Marauder Expansion": "$9.99",
+            "The Clockwork Expansion": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754968319025,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -85698,6 +85720,14 @@
     "history": [
       [
         {
+          "timestamp": 1755572729514,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1752982819338,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -91830,6 +91860,17 @@
       "Dune: Imperium - Rise of Ix": "$8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755572729514,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "$9.99",
+            "Dune: Imperium - Immortality": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754968319025,
@@ -104201,6 +104242,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755572729514,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755141304264,
@@ -129707,14 +129756,22 @@
   "6746699177": {
     "name": "Lysoniq",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "$6.99"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755572729514,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755418570787,
