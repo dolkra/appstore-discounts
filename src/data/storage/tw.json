@@ -120328,8 +120328,8 @@
       "1000 Diamonds": "$30.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "2880 Diamonds": "$390.00",
       "5000 Diamonds": "$1,490.00",
       "5880 Diamonds": "$2,490.00",
@@ -120343,6 +120343,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755584337127,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "2880 Diamonds": "$390.00",
+            "5000 Diamonds": "$1,490.00",
+            "5880 Diamonds": "$2,490.00",
+            "1880 Diamonds": "$150.00",
+            "1680 Diamonds": "$120.00",
+            "880 Diamonds": "$390.00",
+            "1480 Diamonds": "$120.00",
+            "780 Diamonds": "$9,990.00",
+            "1180 Diamonds": "$30.00",
+            "1000 Diamonds": "$30.00"
+          }
+        },
         {
           "timestamp": 1755551439427,
           "price": 10,
