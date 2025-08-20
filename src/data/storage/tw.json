@@ -18256,6 +18256,25 @@
     "history": [
       [
         {
+          "timestamp": 1755727834403,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "$30.00",
+            "SLS 2022: Jacksonville": "$30.00",
+            "SLS 2021: World Championship": "$30.00",
+            "SLS 2019: Sao Paulo": "$30.00",
+            "SLS 2019: London": "$30.00",
+            "Sandbox 1 Year": "$760.00",
+            "Sandbox 3 Months": "$300.00",
+            "Sandbox Monthly": "$150.00",
+            "SLS 2018: World Championship": "$30.00",
+            "Mountain of Bolts": "$2,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755076540915,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -24097,7 +24116,8 @@
       "Animal Bundle": "$190.00",
       "Outdoor Bundle": "$120.00",
       "Romance Bundle": "$190.00",
-      "International Cuisine Bundle": "$220.00"
+      "International Cuisine Bundle": "$220.00",
+      "Decades Bundle": "$220.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -24164,9 +24184,29 @@
       "Animal Bundle": "$190.00",
       "Outdoor Bundle": "$120.00",
       "Romance Bundle": "$190.00",
-      "International Cuisine Bundle": "$220.00"
+      "International Cuisine Bundle": "$220.00",
+      "Decades Bundle": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755727834403,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Decades Bundle": "$220.00",
+            "Animal Bundle": "$190.00",
+            "Outdoor Bundle": "$120.00",
+            "Romance Bundle": "$190.00",
+            "International Cuisine Bundle": "$220.00",
+            "Birding Deck": "$60.00",
+            "Camping Deck": "$60.00",
+            "Flowers Deck": "$60.00",
+            "LifeTime Pass": "$2,990.00",
+            "Mexican Cuisine Deck": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755195522647,
@@ -48941,6 +48981,25 @@
       "喚生石660個": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755727834403,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "屬性經驗值增加": "$290.00",
+            "重生經驗值增加": "$290.00",
+            "重生禮包": "$1,290.00",
+            "寶石12000個": "$2,990.00",
+            "重生石50000個": "$2,990.00",
+            "屬性禮包": "$490.00",
+            "地獄石250個": "$1,290.00",
+            "地獄石120個": "$790.00",
+            "地獄石30個": "$290.00",
+            "地獄石500個": "$1,290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755651529701,
