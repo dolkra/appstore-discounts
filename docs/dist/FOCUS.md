@@ -19,7 +19,7 @@ So far, we've covered `6` `Countries or Regions` and  `1306` `Apps` <br />Push n
 |1295|6746699177|Automatic|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|
 |1294|403977617|Automatic|❌|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|
 |1293|686923970|Automatic|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|
-|1292|6749533872|Automatic|❌|石器狩獵勇士:原始人部落之戰|石器狩獵勇士:原始人部落之戰|石器狩獵勇士:原始人部落之戰|❌|❌|
+|1292| ~~6749533872~~ |Automatic| ~~❌~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~❌~~ | ~~❌~~ |
 |1291|6742139144|Automatic|❌|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|Nekopara Love Project Vol.1|Nekopara Love Project Vol.1|
 |1290|1203306285|Automatic|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|
 |1289|1064060287|Automatic|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|
@@ -368,7 +368,7 @@ So far, we've covered `6` `Countries or Regions` and  `1306` `Apps` <br />Push n
 |946|1001096601|Automatic|❌|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|
 |945|1439889483|Automatic|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|
 |944|1562555975|Automatic|D2助手(专业版) for 暗黑破坏神2重制版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2 Pal Pro for Diablo2|D2 Pal Pro for Diablo2|
-|943|1567658979|Automatic|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|
+|943| ~~1567658979~~ |Automatic| ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ |
 |942|6467822375|Automatic|❌|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|
 |941|329772936|Automatic|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|Automatic|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|

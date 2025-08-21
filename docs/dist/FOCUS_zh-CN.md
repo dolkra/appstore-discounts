@@ -19,7 +19,7 @@
 |1295|6746699177|自动|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|
 |1294|403977617|自动|❌|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|
 |1293|686923970|自动|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|
-|1292|6749533872|自动|❌|石器狩獵勇士:原始人部落之戰|石器狩獵勇士:原始人部落之戰|石器狩獵勇士:原始人部落之戰|❌|❌|
+|1292| ~~6749533872~~ |自动| ~~❌~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~❌~~ | ~~❌~~ |
 |1291|6742139144|自动|❌|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|Nekopara Love Project Vol.1|Nekopara Love Project Vol.1|
 |1290|1203306285|自动|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|Piano Sight-Reading Trainer|
 |1289|1064060287|自动|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|XP3Player|
@@ -368,7 +368,7 @@
 |946|1001096601|自动|❌|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|
 |945|1439889483|自动|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|
 |944|1562555975|自动|D2助手(专业版) for 暗黑破坏神2重制版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2 Pal Pro for Diablo2|D2 Pal Pro for Diablo2|
-|943|1567658979|自动|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|SkySafari 7 Pro|
+|943| ~~1567658979~~ |自动| ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ |
 |942|6467822375|自动|❌|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|
 |941|329772936|自动|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|自动|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
