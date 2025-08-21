@@ -51805,6 +51805,25 @@
     "history": [
       [
         {
+          "timestamp": 1755767611980,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "AD:HOUSE Selection": "HK$ 38.00",
+            "Stream Palette Selection": "HK$ 38.00",
+            "HARDCORE TANO*C VOL.II": "HK$ 38.00",
+            "HARDCORE TANO*C": "HK$ 38.00",
+            "Cosmic Radio 2024": "HK$ 38.00",
+            "Miku Extend 2025": "HK$ 38.00",
+            "Paradigm: Reboot pt. 2": "HK$ 38.00",
+            "Paradigm: Reboot pt. 1": "HK$ 38.00",
+            "RAVON": "HK$ 38.00",
+            "NEKO_II": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755342576996,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -95029,16 +95048,37 @@
       "formattedPrice": "免費",
       "生命周期": "HK$ 228.00",
       "月方案": "HK$ 12.00",
-      "年方案": "HK$ 38.00"
+      "年方案": "HK$ 38.00",
+      "生命周期VIP(Apple TV 版)": "HK$ 118.00",
+      "生命周期VIP(Mac 版)": "HK$ 128.00",
+      "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "生命周期": "HK$ 98.00",
       "月方案": "HK$ 12.00",
-      "年方案": "HK$ 38.00"
+      "年方案": "HK$ 38.00",
+      "生命周期VIP(Apple TV 版)": "HK$ 118.00",
+      "生命周期VIP(Mac 版)": "HK$ 128.00",
+      "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755767611980,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "HK$ 228.00",
+            "年方案": "HK$ 38.00",
+            "月方案": "HK$ 12.00",
+            "生命周期VIP(Apple TV 版)": "HK$ 118.00",
+            "生命周期VIP(Mac 版)": "HK$ 128.00",
+            "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1724148128733,
