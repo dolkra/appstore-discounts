@@ -173,6 +173,7 @@ export const latestAppConfig: AppConfig[] = [
       tw: '石器狩獵勇士:原始人部落之戰',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6742139144,
@@ -2640,6 +2641,7 @@ export const part1AppConfig: AppConfig[] = [
       hk: 'SkySafari 7 Pro',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6467822375,
