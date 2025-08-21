@@ -76418,6 +76418,14 @@
     "history": [
       [
         {
+          "timestamp": 1755785582972,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754856824895,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -77788,6 +77796,18 @@
       "+444! Triple-Four Booster Pack": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755785582972,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "$10.00",
+            "+2026 boosters ECO-Initiative!": "$150.00",
+            "+444! Triple-Four Booster Pack": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754856824895,
@@ -88372,6 +88392,16 @@
       "Mr. X Nightmare DLC": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755785582972,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754489848779,
@@ -122005,6 +122035,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755785582972,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "2880 Diamonds": "$390.00",
+            "5000 Diamonds": "$1,490.00",
+            "5880 Diamonds": "$2,490.00",
+            "1880 Diamonds": "$150.00",
+            "1680 Diamonds": "$120.00",
+            "880 Diamonds": "$390.00",
+            "1480 Diamonds": "$120.00",
+            "780 Diamonds": "$9,990.00",
+            "1180 Diamonds": "$30.00",
+            "1000 Diamonds": "$30.00"
+          }
+        },
         {
           "timestamp": 1755753187344,
           "inAppPurchases": {}
