@@ -16433,6 +16433,23 @@
     "history": [
       [
         {
+          "timestamp": 1755774667225,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$1.99",
+            "Realms Plus:10 Friends w/trial": "$7.99",
+            "Minecraft Store Item 6": "$5.99",
+            "Realms Monthly Subscription: You + 2 Friends": "$3.99",
+            "Minecraft Store Item 5": "$4.99",
+            "Minecraft Store Item 10": "$9.99",
+            "Minecraft Store Item 4": "$3.99",
+            "Minecraft Store Item 3": "$2.99",
+            "Realms Plus: You + 10 Friends": "$7.99",
+            "Minecraft Store Item 8": "$7.99"
+          }
+        },
+        {
           "timestamp": 1755771199500,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -20854,6 +20871,25 @@
     "history": [
       [
         {
+          "timestamp": 1755774667225,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Procurement Director": "$0.99",
+            "Disaster Manager": "$0.99",
+            "Medical Coordinator": "$0.99",
+            "Ethics Watchdog": "$0.99",
+            "Chaos Engineer": "$0.99",
+            "Economic Forecaster": "$0.99",
+            "Situation Director": "$0.99",
+            "Outreach Coordinator": "$0.99",
+            "Fast Response EMTs": "$0.99",
+            "Strategic Fundraiser": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1754219475926,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -24130,6 +24166,25 @@
       "Karkinos": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755774667225,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Vault Of Gems": "$49.99",
+            "Wagon Of Gems": "$19.99",
+            "Chest Of Gems": "$9.99",
+            "Barrel Of Gems": "$4.99",
+            "Bag Of Gems": "$2.99",
+            "Special Offer Saitam": "$2.99",
+            "Big Hero Pack 2": "$12.99",
+            "Saitam": "$4.99",
+            "Big Hero Pack": "$9.99",
+            "Hero Pack 5": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755696339443,
@@ -105227,7 +105282,7 @@
       "Monthly VIP": "$1.49",
       "Lifetime VIP": "$14.99",
       "Lifetime VIP(Apple TV only)": "$14.99",
-      "Lifetime VIP(Mac Only)": "$15.99"
+      "Lifetime VIP(Mac Only)": "$29.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -105243,6 +105298,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755774667225,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$14.99",
+            "Yearly VIP": "$4.99",
+            "Monthly VIP": "$1.49",
+            "1 Year": "$4.99",
+            "Lifetime": "$29.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Apple TV only)": "$14.99",
+            "Lifetime VIP(Mac Only)": "$29.99"
+          }
+        },
         {
           "timestamp": 1755767611980,
           "price": 0,
