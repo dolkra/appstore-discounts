@@ -31684,6 +31684,23 @@
     "history": [
       [
         {
+          "timestamp": 1755789222600,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "150 Gems": "₺3.499,99",
+            "74 Gems": "₺1.999,99",
+            "119 Gems": "₺2.499,99",
+            "48 Gems": "₺1.299,99",
+            "28 Gems": "₺699,99",
+            "13 Gems": "₺349,99",
+            "6 Gems": "₺179,99",
+            "1 Gem": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755692682318,
           "price": 0,
           "formattedPrice": "Free",
@@ -95160,14 +95177,27 @@
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
-      "Poku Pack": "₺39,99"
+      "Poku Pack": "₺39,99",
+      "Birbs 2 Pack": "₺39,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
-      "Poku Pack": "₺39,99"
+      "Poku Pack": "₺39,99",
+      "Birbs 2 Pack": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755789222600,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Birbs 2 Pack": "₺39,99",
+            "Poku Pack": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,

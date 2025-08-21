@@ -122446,14 +122446,27 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "Poku Pack": "$0.99"
+      "Poku Pack": "$0.99",
+      "Birbs 2 Pack": "$0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "Poku Pack": "$0.99"
+      "Poku Pack": "$0.99",
+      "Birbs 2 Pack": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755789222600,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Poku Pack": "$0.99",
+            "Birbs 2 Pack": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745406133842,
