@@ -69517,6 +69517,40 @@
       ]
     ]
   },
+  "1424977227": {
+    "name": "Titan Quest HD",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Immortal Throne DLC": "$4.99",
+      "Ragnarök DLC": "$4.99",
+      "Atlantis DLC": "$4.99",
+      "Eternal Embers DLC": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Immortal Throne DLC": "$4.99",
+      "Ragnarök DLC": "$4.99",
+      "Atlantis DLC": "$4.99",
+      "Eternal Embers DLC": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755861015760,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$4.99",
+            "Ragnarök DLC": "$4.99",
+            "Atlantis DLC": "$4.99",
+            "Eternal Embers DLC": "$4.99"
+          }
+        }
+      ]
+    ]
+  },
   "1431466900": {
     "name": "Word Root Dictionary",
     "maxPriceInfo": {
@@ -98766,6 +98800,27 @@
       ]
     ]
   },
+  "1612050352": {
+    "name": "TLHelper",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755861015760,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1612615618": {
     "name": "腕上txt小说阅读器",
     "maxPriceInfo": {
@@ -103276,14 +103331,24 @@
       "Street Wolf Outfit": "$2.99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "DLC pack": "$9.99",
       "All Access Voucher": "$1.99",
       "Street Wolf Outfit": "$2.29"
     },
     "history": [
       [
+        {
+          "timestamp": 1755861015760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "DLC pack": "$19.99",
+            "All Access Voucher": "$4.99",
+            "Street Wolf Outfit": "$2.99"
+          }
+        },
         {
           "timestamp": 1755853999902,
           "price": 9.99,
