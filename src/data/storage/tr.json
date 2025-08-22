@@ -11653,6 +11653,25 @@
     "history": [
       [
         {
+          "timestamp": 1755850626238,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter N": "₺179,99",
+            "Chapter D": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter T": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter 10": "₺229,99",
+            "Chapter 9": "₺229,99",
+            "Chapter S": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755796552467,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -31608,6 +31627,27 @@
           "inAppPurchases": {
             "Buy us a coffee": "₺39,99"
           }
+        }
+      ]
+    ]
+  },
+  "976920216": {
+    "name": "Skelly - Art Model",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1755850626238,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -81731,6 +81771,18 @@
     "history": [
       [
         {
+          "timestamp": 1755850626238,
+          "price": 349.9,
+          "formattedPrice": "₺349,90",
+          "inAppPurchases": {
+            "DLC pack": "₺389,00",
+            "All Access Voucher": "₺174,99",
+            "Street Wolf Outfit": "₺78,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753859938705,
           "price": 349.9,
           "formattedPrice": "₺349,90",
@@ -84808,6 +84860,19 @@
     "history": [
       [
         {
+          "timestamp": 1755850626238,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺1.399,00",
+            "DLC pack": "₺769,00",
+            "All Access Voucher": "₺174,99",
+            "Street Wolf Outfit": "₺105,00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753859938705,
           "price": 0,
           "formattedPrice": "Free",
@@ -84999,6 +85064,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755850626238,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Separate Ways": "₺349,00",
+            "Extra DLC Pack": "₺769,00",
+            "Charm: 'Handgun Ammo'": "₺35,99",
+            "Charm: 'Green Herb'": "₺35,99",
+            "Attaché Case: 'Classic'": "₺35,99",
+            "Attaché Case: 'Gold'": "₺35,99",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99"
+          }
+        },
         {
           "timestamp": 1755846719502,
           "price": 0,

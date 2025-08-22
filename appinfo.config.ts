@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 976920216,
+    name: {
+      mo: 'Skelly - Art Model',
+    },
+    addType: 'auto',
+  },
+  {
     id: 982102012,
     name: {
       mo: '三姑六婆 Pro - 親戚稱呼計算機',
