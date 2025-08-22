@@ -971,7 +971,7 @@ So far, we've covered `6` `Countries or Regions` and  `1310` `Apps` <br />Push n
 |347|1516531425|Automatic|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
 |346|1517349382|Automatic|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|
 |345|1518841947|Automatic|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
-|344|1519386476|Automatic|❌|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|Watch Games|Watch Games|
+|344|1519386476|Automatic|❌|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames - 觀看遊戲街機|MiniGames Watch Games 24-in-1|MiniGames Watch Games 24-in-1|
 |343|1523633394|Automatic|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|
 |342|1525735418|Automatic|❌|❌|❌|❌|❌|Mesih|
 |341|1528199331|Automatic|❌|崩潰大陸 2|崩潰大陸 2|崩潰大陸 2|Crashlands 2|Crashlands 2|
