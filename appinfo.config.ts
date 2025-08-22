@@ -6634,6 +6634,7 @@ export const part1AppConfig: AppConfig[] = [
       tr: 'FILCA - SLR Film Camera',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1437096541,
