@@ -37501,6 +37501,23 @@
     "history": [
       [
         {
+          "timestamp": 1755830347882,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "20,000 points": "₺39,99",
+            "63,000 points": "₺129,99",
+            "25,000 points": "₺39,99",
+            "100,000 points": "₺129,99",
+            "176,000 points": "₺349,99",
+            "225,000 points": "₺449,99",
+            "300,000 points": "₺349,99",
+            "345,000 points": "₺699,99",
+            "50 kilometers": "₺99,99",
+            "500,000 points": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1755824327139,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -90763,6 +90780,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755830347882,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750155233674,
