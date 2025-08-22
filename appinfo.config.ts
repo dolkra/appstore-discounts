@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 691121579,
+    name: {
+      mo: 'AdBlock',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744267787,
+    name: {
+      mo: '這是你的嗎？',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1424977227,
     name: {
       tr: 'Titan Quest HD',
