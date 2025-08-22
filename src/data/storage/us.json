@@ -69640,7 +69640,8 @@
       "FUJI SERIES FILM": "$4.99",
       "LOMO SERIES": "$4.99",
       "IU SERIES FILM": "$4.99",
-      "WEDDING SERIES FILM": "$4.99"
+      "WEDDING SERIES FILM": "$4.99",
+      "Add Credits 100": "$2.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -69652,9 +69653,28 @@
       "FUJI SERIES FILM": "$4.99",
       "LOMO SERIES": "$4.99",
       "IU SERIES FILM": "$4.99",
-      "WEDDING SERIES FILM": "$4.99"
+      "WEDDING SERIES FILM": "$4.99",
+      "Add Credits 100": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755833785337,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "UPGRADE PRO": "$39.99",
+            "UPGRADE PRO VERSION": "$79.99",
+            "KODAK SERIES FILM": "$5.99",
+            "RETRO SERIES FILM": "$4.99",
+            "FUJI SERIES FILM": "$4.99",
+            "LOMO SERIES": "$4.99",
+            "IU SERIES FILM": "$4.99",
+            "WEDDING SERIES FILM": "$4.99",
+            "Add Credits 100": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755663350701,
@@ -97594,6 +97614,16 @@
       "Mr. X Nightmare DLC": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755833785337,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754537922009,
