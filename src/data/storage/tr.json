@@ -21819,14 +21819,22 @@
   "625274950": {
     "name": "中國漢語辭典 Chinese Dictionary",
     "maxPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755919834911,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745442137026,
@@ -41562,13 +41570,25 @@
       "6 Months": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Month": "₺99,99",
       "Year": "₺499,99",
       "6 Months": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755919834911,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "₺99,99",
+            "Year": "₺499,99",
+            "6 Months": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752329477829,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-08-22T04:00:02.451Z</updated>
+    <updated>2025-08-23T03:54:02.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-22T04:00:02.451Z</updated>
+        <updated>2025-08-23T03:54:02.705Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwFri, 22 Aug 2025 04:00:02 GMT</id>
+        <id>rankingtwSat, 23 Aug 2025 03:54:02 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-22T04:00:02.452Z</updated>
+        <updated>2025-08-23T03:54:02.705Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -51,16 +51,16 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1307</b>
+        <b>1312</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1106</b>
+        <b>1111</b>
       </td>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008546980077568+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>1219</b>
+        <b>1224</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>1042</b>
+        <b>1047</b>
       </td>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
     </tr>
   </tbody>
@@ -169,9 +169,9 @@ feedId:157008546980077568+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>3</b>
+            <span>总次数</span>：<b>4</b>
           </li><li>
-            <span>价格</span>：<b>3</b>
+            <span>价格</span>：<b>4</b>
           </li>
         </ul>
       </td>
@@ -689,7 +689,9 @@ feedId:157008546980077568+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1436429074">FILCA - SLR Film Camera</a>
+        <del>
+          <a href="https://apps.apple.com/tw/app/id1436429074">FILCA - SLR Film Camera</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -1612,7 +1614,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1439187947">Rebel Inc. (反叛公司)</a>
+        <a href="https://apps.apple.com/tw/app/id1436429074">FILCA - SLR Film Camera</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1621,7 +1623,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1439881811">RadarOmega</a>
+        <a href="https://apps.apple.com/tw/app/id1439187947">Rebel Inc. (反叛公司)</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1630,7 +1632,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/tw/app/id1439881811">RadarOmega</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1639,7 +1641,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/tw/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1648,7 +1650,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/tw/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1657,7 +1659,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6740471827">手錶經典迷宮遊戲</a>
+        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1666,16 +1668,16 @@ feedId:157008546980077568+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
+        <a href="https://apps.apple.com/tw/app/id6740471827">手錶經典迷宮遊戲</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/tw/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1684,7 +1686,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/tw/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1693,7 +1695,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/tw/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1702,7 +1704,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/tw/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1711,7 +1713,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://apps.apple.com/tw/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1720,7 +1722,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id456637671">安全監控照片+視頻Pro</a>
+        <a href="https://apps.apple.com/tw/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1729,7 +1731,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/tw/app/id456637671">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1738,7 +1740,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/tw/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1747,7 +1749,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id488674899">雨雷達 ° -實時天氣圖</a>
+        <a href="https://apps.apple.com/tw/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1756,7 +1758,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/tw/app/id488674899">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1765,7 +1767,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
+        <a href="https://apps.apple.com/tw/app/id1361473095">MuseDash</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1774,12 +1776,64 @@ feedId:157008546980077568+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>45</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id388624839">CamScanner+</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暗黑联盟之暴打传说]]></title>
+        <id>暗黑联盟之暴打传说-tw-1755919834911</id>
+        <link href="https://apps.apple.com/tw/app/%E6%9A%97%E9%BB%91%E8%81%94%E7%9B%9F%E4%B9%8B%E6%9A%B4%E6%89%93%E4%BC%A0%E8%AF%B4/id6745578435?uo=4"/>
+        <updated>2025-08-23T03:30:34.911Z</updated>
+        <summary type="html"><![CDATA[价格: $10.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%9A%97%E9%BB%91%E8%81%94%E7%9B%9F%E4%B9%8B%E6%9A%B4%E6%89%93%E4%BC%A0%E8%AF%B4/id6745578435?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/22/0e/3b220e66-b97a-6f94-84d4-cce605f1fb7c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$10.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $10.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    2880 Diamonds：<b>$390.00</b>
+  </li><li>
+    5000 Diamonds：<b>$1,490.00</b>
+  </li><li>
+    5880 Diamonds：<b>$2,490.00</b>
+  </li><li>
+    1880 Diamonds：<b>$150.00</b>
+  </li><li>
+    1680 Diamonds：<b>$120.00</b>
+  </li><li>
+    880 Diamonds：<b>$390.00</b>
+  </li><li>
+    1480 Diamonds：<b>$120.00</b>
+  </li><li>
+    780 Diamonds：<b>$9,990.00</b>
+  </li><li>
+    1180 Diamonds：<b>$30.00</b>
+  </li><li>
+    1000 Diamonds：<b>$30.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  玩法简介
+翻牌收集表情鸡：翻开卡牌，收集各种造型夸张、情绪爆棚的尖叫鸡表情包！
+趣味合成升级：3只相同表情的尖叫鸡就能合成新等级，外形更可爱，尖叫声也更魔性！
+技能卡反转战局：使用搞怪技能卡，比如“群体尖叫”“强制合成”“鸡飞狗跳”，让战局瞬间翻盘！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[暗黑联盟之暴打传说]]></title>
@@ -2347,258 +2401,5 @@ Dumb Phone 完全可自訂，讓您選擇對您最重要的應用程式，並在
 
 © www.handy-games.com GmbH
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/51/9c/a3/519ca35a-1278-db30-74cb-79a35eb3b9b7/bd6d4b79-894b-4801-b5ba-393b28039ca1_SPBFBB_Screenshot_2208x1242_UI_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c9/17/5d/c9175d4f-79e1-c865-6820-50f506faf0ba/7336c0d9-dc73-4c86-8d84-7ad228142b48_SPBFBB_Screenshot_2208x1242_UI_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/20/69/77/206977dd-e37f-6cf8-b86c-18cfcbbc7add/f2760d49-96f3-42bf-9ade-42dc509fe145_SPBFBB_Screenshot_2208x1242_UI_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a0/31/00/a03100da-1169-f99c-f8d6-aba4b5a2a122/3249c8b8-e3f5-4e85-aa4c-f5a5d4759779_SPBFBB_Screenshot_2208x1242_UI_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/70/32/e5/7032e5dd-b8c7-6fae-f628-95ece4c5cf0f/3ebb6b76-9794-46f7-a44e-e8f8cf9dbf7f_SPBFBB_Screenshot_2208x1242_UI_05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/56/9e/b4/569eb4ce-6dee-6311-65f8-f13b28327077/829b2ec8-56b1-415d-9852-0e3cae1abc2f_SPBFBB_Screenshot_2208x1242_UI_06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/8c/ed/3a/8ced3af1-27a2-2729-2565-4ca54acddfa0/5d597715-2913-47d4-a82c-77c9a6fd19ab_SPBFBB_Screenshot_2208x1242_UI_07.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/07/15/11/071511e0-e854-0e1f-e191-e734cccb3d39/b1ce3dc5-ae30-4dd7-85d1-0f6af971a962_SPBFBB_Screenshot_UI_2732x2048_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5d/1b/be/5d1bbe8d-cc3d-2bf1-d4bb-ca6dc0ba0511/02f5c6ea-133b-49fe-a2e7-7679f8085221_SPBFBB_Screenshot_UI_2732x2048_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d8/3d/dd/d83ddd31-d475-d4b4-8387-de3f47da880a/a4fc9610-eef6-4ed4-bb03-f0fad39466ad_SPBFBB_Screenshot_UI_2732x2048_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/b8/7e/61b87e71-2b31-739b-e137-6ac9d137c549/909c7560-8b2d-4bb1-829a-e624f6f5b78d_SPBFBB_Screenshot_UI_2732x2048_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/aa/97/55/aa975587-a9fc-f65d-ee2a-e7cc8fe433c3/e4b70d14-893c-4dfd-b2cc-73d8da589ae1_SPBFBB_Screenshot_UI_2732x2048_05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d2/a2/9d/d2a29dac-1f01-2822-7443-ddb5eb9ef87b/a6e29ce1-187a-4e8f-be6c-097c9aa1159c_SPBFBB_Screenshot_UI_2732x2048_06.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e8/08/20/e8082016-1f86-79ff-db52-15ff39155713/9a8e19e2-a72c-417c-9e5c-8524cd881f4c_SPBFBB_Screenshot_UI_2732x2048_07.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗黑联盟之暴打传说]]></title>
-        <id>暗黑联盟之暴打传说-tw-1755657554902</id>
-        <link href="https://apps.apple.com/tw/app/%E6%9A%97%E9%BB%91%E8%81%94%E7%9B%9F%E4%B9%8B%E6%9A%B4%E6%89%93%E4%BC%A0%E8%AF%B4/id6745578435?uo=4"/>
-        <updated>2025-08-20T02:39:14.902Z</updated>
-        <summary type="html"><![CDATA[价格: $10.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%9A%97%E9%BB%91%E8%81%94%E7%9B%9F%E4%B9%8B%E6%9A%B4%E6%89%93%E4%BC%A0%E8%AF%B4/id6745578435?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/22/0e/3b220e66-b97a-6f94-84d4-cce605f1fb7c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$10.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $10.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    2880 Diamonds：<b>$390.00</b>
-  </li><li>
-    5000 Diamonds：<b>$1,490.00</b>
-  </li><li>
-    5880 Diamonds：<b>$2,490.00</b>
-  </li><li>
-    1880 Diamonds：<b>$150.00</b>
-  </li><li>
-    1680 Diamonds：<b>$120.00</b>
-  </li><li>
-    880 Diamonds：<b>$390.00</b>
-  </li><li>
-    1480 Diamonds：<b>$120.00</b>
-  </li><li>
-    780 Diamonds：<b>$9,990.00</b>
-  </li><li>
-    1180 Diamonds：<b>$30.00</b>
-  </li><li>
-    1000 Diamonds：<b>$30.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  玩法简介
-翻牌收集表情鸡：翻开卡牌，收集各种造型夸张、情绪爆棚的尖叫鸡表情包！
-趣味合成升级：3只相同表情的尖叫鸡就能合成新等级，外形更可爱，尖叫声也更魔性！
-技能卡反转战局：使用搞怪技能卡，比如“群体尖叫”“强制合成”“鸡飞狗跳”，让战局瞬间翻盘！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[石器狩獵勇士:原始人部落之戰]]></title>
-        <id>石器狩獵勇士:原始人部落之戰-tw-1755627447261</id>
-        <link href="https://apps.apple.com/tw/app/%E7%9F%B3%E5%99%A8%E7%8B%A9%E7%8D%B5%E5%8B%87%E5%A3%AB-%E5%8E%9F%E5%A7%8B%E4%BA%BA%E9%83%A8%E8%90%BD%E4%B9%8B%E6%88%B0/id6749533872?uo=4"/>
-        <updated>2025-08-19T18:17:27.261Z</updated>
-        <summary type="html"><![CDATA[Diamonds: $150.00 → $70.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%9F%B3%E5%99%A8%E7%8B%A9%E7%8D%B5%E5%8B%87%E5%A3%AB-%E5%8E%9F%E5%A7%8B%E4%BA%BA%E9%83%A8%E8%90%BD%E4%B9%8B%E6%88%B0/id6749533872?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/b4/dd/53b4dd7a-6f0b-516a-c9e9-5b706a624a0a/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Diamonds：</strong><span>$150.00</span> → <b>
-  <strong>$70.00</strong>
-</b><span>[$70.00 ~ $220.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Diamonds：<b>$70.00</b>
-  </li><li>
-    整理房間炫舞烹飪日記移动风之旅人賽馬記移动房舞飪間日炫烹理整：<b>$1,290.00</b>
-  </li><li>
-    吊車遊戲鬼滅建造遊戲寵物三國遊戲新城物戲滅建鬼寵戲車造遊遊吊：<b>$2,990.00</b>
-  </li><li>
-    數碼寶貝櫻花戰鬥遊戲足球急速狂飆豪神寶鬥球足貝花櫻數戰遊碼戲：<b>$990.00</b>
-  </li><li>
-    蔚蓝档案亂鬥海關實名主公神燈精靈霹靂档主海關蓝蔚亂實鬥案名公：<b>$1,990.00</b>
-  </li><li>
-    暗影謎題樂高裝扮遊戲頭髮移動要塞寒霜謎高裝扮頭樂題髮影遊暗戲：<b>$190.00</b>
-  </li><li>
-    地鐵逃生挖礦倉鼠遊戲峽谷地平線5皇室挖鼠鐵逃谷地礦戲倉遊生峽：<b>$1,290.00</b>
-  </li><li>
-    高雄銀行雙人捏臉遊戲蟻國萬國覺醒主菜捏國臉戲行雄銀雙高人蟻遊：<b>$90.00</b>
-  </li><li>
-    車子遊戲飄移水族派對推幣水果忍者聯機飄子幣族派移遊對戲車水推：<b>$2,990.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  在這片古老而神秘的原始土地上，你扮演一位勇敢的原始戰士，肩負著保衛部落的重任。城牆之外，兇猛的恐龍和野獸隨時準備攻擊你。拿起你的武器，準備迎接一場驚心動魄的戰鬥吧！
-遊戲玩法
-遊戲操作簡單，所有玩家都能輕鬆上手。透過在螢幕上左右滑動，你可以控制你的原始戰士在城牆上移動，躲避野獸的攻擊。點擊螢幕，他的武器可以越過城牆射擊，攻擊逼近的敵人。每一次精準的射擊都可能改變戰局，所以要保持警惕，靈活機動，確保每一次攻擊都命中目標。
-武器系統
-在戰鬥中，擊敗野獸不僅可以降低威脅，還能讓你有機會收集它們掉落的武器。這些武器種類繁多，有些可以增加傷害，有些可以擴大射程，有些甚至帶有冰凍或燃燒等特殊效果。巧妙地使用這些武器，將讓你在戰鬥中佔上風。 Boss 戰與強力武器
-成功擊敗一波又一波的野獸後，強大的 Boss 便會出現。這些 Boss 體型巨大，攻擊力驚人，擊敗它們後您將獲得強力武器作為獎勵。這些武器不僅威力強大，還可能擁有獨特的技能，使後續戰鬥更有效率。
-
-生命值恢復與怪物屠殺
-
-在戰鬥中，擊殺一定數量的怪物後，您的生命值將自動恢復。這意味著即使您在激烈的戰鬥中受到傷害，只要您堅持不懈，就能恢復並繼續保衛您的部落。
-
-坐騎與恐龍夥伴
-
-隨著遊戲的進行，您將解鎖坐騎和恐龍夥伴。坐騎可以提高您的移動速度，讓您更靈活地躲避攻擊。恐龍夥伴與您並肩作戰，擁有強大的攻擊力和特殊技能，讓您更輕鬆地擊敗敵人。
-
-這是一款輕鬆的迷你遊戲，非常適合在閒暇時享受。無論你是通勤，還是短暫休息，都能快速沉浸在戰鬥的樂趣中。拿起你的武器，加入保衛原始部落的戰鬥，成為部落的英雄！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SkySafari 7 Pro]]></title>
-        <id>SkySafari 7 Pro-tw-1755620121373</id>
-        <link href="https://apps.apple.com/tw/app/skysafari-7-pro/id1567658979?uo=4"/>
-        <updated>2025-08-19T16:15:21.373Z</updated>
-        <summary type="html"><![CDATA[价格: $1,290.00 → $990.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/skysafari-7-pro/id1567658979?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/f7/21/68f721b3-eb7a-916d-af34-23aa643221a5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$1,290.00</span> → <b>
-  <strong>$990.00</strong>
-</b><span>[$390.00 ~ $1,490.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$990.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    SkySafari Premium Monthly：<b>$120.00</b>
-  </li><li>
-    PGC Galaxy Database：<b>$0.00</b>
-  </li><li>
-    GAIA Star Database：<b>$0.00</b>
-  </li><li>
-    Apollo Lunar Missions：<b>$0.00</b>
-  </li><li>
-    SkySafari Premium：<b>$990.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  SkySafari makes stargazing a simple pleasure. It has the largest database of any astronomy app, includes every comet, asteroid, satellite & solar system object ever discovered, offers unparalleled accuracy, advanced planning and logging tools, flawless telescope control, and provides the very best experience under the stars when you depend on it. Don’t postpone joy. Discover why SkySafari is the #1 recommended astronomy app for serious amateur astronomers since 2009.
-
-Here's what’s new in version 7:
-
-+ Complete support for iOS 18 and iPhone 16. Version 7 brings a new and immersive stargazing experience.
-
-+ Events Finder - go to the new Events section to unlock a powerful search engine that finds astronomical events visible tonight and far into the future. The finder dynamically generates a listing of moon phases, eclipses, planetary moon events, meteor showers and planetary phenomenon such as conjunctions, elongations and oppositions.
-
-+ Notifications - the notifications section has been completely revamped to allow you to customize and manage which events trigger an alert notification on your device.
-
-+ Telescope Support - telescope control is at the heart of SkySafari.  Version 7 takes a giant leap forward by supporting ASCOM Alpaca, INDI & StarSense Explorer.  These next generation control protocols allow you to effortlessly connect to hundreds of compatible astronomical devices.
-
-SkySafari 7 brings social stargazing to mobile devices with two new features to help you connect with other like minded people.
-
-OneSky - allows you to see what other users are observing, in real time.  This feature highlights objects in the sky chart and indicates with a number how many users are observing a particular object.
-
-SkyCast - allows you to guide a friend or group around the night sky through their own copy of SkySafari. After initiating SkyCast, you can generate a link and conveniently share it with other SkySafari users via text message, apps or social media accounts.
-
-+ Sky Tonight -  jump to the new Tonight section to see what’s visible in your sky tonight.  Expanded information has been designed to help plan your night and includes  Moon & Sun info, calendar curations, events and the best positioned deep sky and solar system objects.
-
-+ Improved Observation Tools - SkySafari is the perfect tool to help you plan, record and organize your observations.  New workflows make it easier to add, search, filter and sort data.
-
-+ Home Screen and Lock Screen Widgets  keep your favorite astro information at your fingertips.
-
-The Small Touches:
-
-+ You can now edit the Jupiter GRS Longitude Value in the Settings.
-+ Better Moon Age calculation.
-+ New grid & reference options allow you to display Solstice and Equinox markers, Orbit + Node markers for all solar system objects, and tick marks and labels for the Ecliptic, Meridian, and Equator reference lines.
-+ Previous In-app Purchases are Now Free -  this includes the H-R diagram, 3D Galaxy view, and the PGC galaxy and GAIA star catalogs. Enjoy.
-+ Many more.
-
-If you haven't used SkySafari 7 Pro before, here's what you can do with it:
-
-+ Hold your device up, and SkySafari 7 Pro will find stars, constellations, planets, and more!
-
-+ Simulate the night sky up to 5MM years in the past or future! Animate meteor showers, conjunctions, eclipses, and other celestial events.
-
-+ Control your telescope, log and plan your observations.
-
-+ Optionally backup all of your observing data in our secure cloud storage and make it easily accessible to multiple devices as well as from our new web interface, LiveSky.com.
-
-+ Augmented Reality (AR) mode
-
-+ Night Vision.
-
-+ Orbit Mode. Leave the Earth’s surface behind, and fly through our solar system.
-
-+ Galaxy View shows the position of deep sky objects in our Milky Way!
-
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-https://www.livesky.com/privacy.html
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/4b/66/ec4b6627-9e7a-4d7b-9e59-9dc3c22b2444/fc114c40-4a86-4151-acf1-135348f90def_01_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/41/c8/3441c8a2-9ddb-0ba4-54a2-7d9c33d55819/7d3c5a19-ce1e-493a-b97e-ac44bfe1e3e2_02_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/82/3b/25/823b255b-d6de-2865-4001-54ae3b77ca74/9477ad0f-a87f-48fe-87df-b7d86cfddf29_03_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/3f/6f/973f6fc6-a487-a6d7-d84e-83bcd67eb617/f41d04a7-f92a-4bf8-8326-44a5624d4c52_04_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/33/a6/e733a6c5-9983-9cce-de47-91f52ce960f5/9b64ba56-4005-424b-9ac4-4adc03e276a6_10_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/29/a9/3729a943-c485-0530-a9fe-699afd5b40a1/0bcedd32-ad40-475d-8c85-564a3ca8994b_08_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ee/11/87/ee1187f7-9aa6-a26e-6044-d64a7d862df3/bb8fb1c7-f236-4a78-8eb8-8da51ea5170d_09_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4a/46/754a46a6-9c84-cfd7-19bd-95f14a12c20f/6d960956-086f-4094-9879-148483841975_06_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/4f/e3/bb4fe39e-0ac2-3e00-a123-f53195ee038a/c3b22f39-5c7a-46cf-bd83-588d1912b4ea_05_SS7_Screenshot_iPhone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/05/47/dc/0547dc56-d76f-05e9-a76b-3d645d075327/b1f682b8-1c05-484a-a311-89c284bdbd28_07_SS7_Screenshot_iPhone.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/2a/01/0c2a01fe-e47e-4cc9-b47a-a110a57d01ea/4042e357-ab43-48ad-bb08-c52c04846921_01_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/cf/1d/fdcf1d78-831e-20e5-8bd5-8226e0de2a1d/a7a0b6ff-94fb-41f8-a3d4-3000abeb9896_02_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/3b/07/813b07ea-0be7-9738-35c5-1334ce61cd23/8a9e5258-db74-4b4e-96a5-b788f79dabe8_03_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/c6/78/61c678e7-4d03-8256-6665-9f6cb4ef8fe1/377933b2-01c1-4478-bf01-cfb3687a0c19_04_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/59/e8/bb59e8b6-04aa-55ec-f994-f71e4418a0fa/a8a7bedb-8c9d-4b5e-ad17-4b2430958800_05_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/08/4a/99084abd-62bc-7ee8-584b-a050da479c70/d861049c-217c-49c1-9e9c-c44984660491_06_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/82/39/9e823931-4754-0559-429d-16d381d79ade/385be8d6-bd03-4f58-b9da-f4aba2986b18_07_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/ea/88/edea8817-3658-c7e7-de0c-5f6b7e5eb266/81645ccf-a042-4217-9666-a4d5cc811000_08_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/5d/54/cd5d546d-62e3-cf9c-6103-edb6dcd6ab94/edecb9b2-ea7b-43be-a335-28f63ab96a71_09_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a3/ce/64/a3ce64f7-e854-18de-2bcf-32569ab49314/27ed81ef-4682-4c8b-8ade-92250d6dfbb4_10_SS7_Screenshot_iPad2ndgen.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[手錶變身器：童年時光驅動器 - 100多種聲效]]></title>
-        <id>手錶變身器：童年時光驅動器 - 100多種聲效-tw-1755616424871</id>
-        <link href="https://apps.apple.com/tw/app/%E6%89%8B%E9%8C%B6%E8%AE%8A%E8%BA%AB%E5%99%A8-%E7%AB%A5%E5%B9%B4%E6%99%82%E5%85%89%E9%A9%85%E5%8B%95%E5%99%A8-100%E5%A4%9A%E7%A8%AE%E8%81%B2%E6%95%88/id6740705851?uo=4"/>
-        <updated>2025-08-19T15:13:44.871Z</updated>
-        <summary type="html"><![CDATA[价格: $50.00 → $30.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%89%8B%E9%8C%B6%E8%AE%8A%E8%BA%AB%E5%99%A8-%E7%AB%A5%E5%B9%B4%E6%99%82%E5%85%89%E9%A9%85%E5%8B%95%E5%99%A8-100%E5%A4%9A%E7%A8%AE%E8%81%B2%E6%95%88/id6740705851?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e0/4f/34/e04f3443-660a-7730-407a-f8277e3d2cff/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$50.00</span> → <b>
-  <strong>$30.00</strong>
-</b><span>[$30.00 ~ $60.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$30.00</b>
-</p><h2>应用描述</h2><p>
-  戴上手錶，時空驅動器啟動！
-假面騎士變身音、投籃命中、功夫特效、惡搞聲音全收錄。支援 Apple Watch，一鍵發聲，讓你隨時隨地進入童年熱血世界！
-
-
-回到童年快樂時光，成為你心中的超級英雄！
-
-小時候的動畫片帶給我們無限的幻想和美好的夢想——變身為超人迪迦，拯救世界；化身為蒙面騎士，與怪獸激鬥；或者像悟空一樣，發射強大的龜派氣功！這些記憶，直到今天依然深深印在我們的心中。
-
-這款手錶APP的靈感正是來自那些經典的童年動畫片。我們希望讓你重新體驗那種變身的激動與快感，模擬成為你心中的英雄，無論是超人、龍珠中的悟空，還是蝙蝠俠和蜘蛛俠！在危難時刻，你也能像童年英雄一樣，站出來拯救世界，消滅一切敵人！
-
-你還記得童年時那份信念嗎？那份相信自己能變得強大的力量。現在，你可以通過這款APP再次感受到它——無論何時何地，只需輕輕一觸，變身就在眼前。
-
-現在就下載HeroWatch 手錶變身器，重溫你的英雄夢！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[暗黑联盟之暴打传说]]></title>
-        <id>暗黑联盟之暴打传说-tw-1755584337127</id>
-        <link href="https://apps.apple.com/tw/app/%E6%9A%97%E9%BB%91%E8%81%94%E7%9B%9F%E4%B9%8B%E6%9A%B4%E6%89%93%E4%BC%A0%E8%AF%B4/id6745578435?uo=4"/>
-        <updated>2025-08-19T06:18:57.127Z</updated>
-        <summary type="html"><![CDATA[价格: $10.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%9A%97%E9%BB%91%E8%81%94%E7%9B%9F%E4%B9%8B%E6%9A%B4%E6%89%93%E4%BC%A0%E8%AF%B4/id6745578435?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3b/22/0e/3b220e66-b97a-6f94-84d4-cce605f1fb7c/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$10.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $10.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    2880 Diamonds：<b>$390.00</b>
-  </li><li>
-    5000 Diamonds：<b>$1,490.00</b>
-  </li><li>
-    5880 Diamonds：<b>$2,490.00</b>
-  </li><li>
-    1880 Diamonds：<b>$150.00</b>
-  </li><li>
-    1680 Diamonds：<b>$120.00</b>
-  </li><li>
-    880 Diamonds：<b>$390.00</b>
-  </li><li>
-    1480 Diamonds：<b>$120.00</b>
-  </li><li>
-    780 Diamonds：<b>$9,990.00</b>
-  </li><li>
-    1180 Diamonds：<b>$30.00</b>
-  </li><li>
-    1000 Diamonds：<b>$30.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  玩法简介
-翻牌收集表情鸡：翻开卡牌，收集各种造型夸张、情绪爆棚的尖叫鸡表情包！
-趣味合成升级：3只相同表情的尖叫鸡就能合成新等级，外形更可爱，尖叫声也更魔性！
-技能卡反转战局：使用搞怪技能卡，比如“群体尖叫”“强制合成”“鸡飞狗跳”，让战局瞬间翻盘！
-</p>]]></content>
     </entry>
 </feed>

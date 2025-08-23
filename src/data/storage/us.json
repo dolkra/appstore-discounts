@@ -28227,14 +28227,22 @@
   "625274950": {
     "name": "中國漢語辭典 Chinese Dictionary",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755919834911,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745442137026,
@@ -51442,13 +51450,25 @@
       "6 Months": "$4.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Month": "$1.99",
       "Year": "$11.99",
       "6 Months": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755919834911,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "$1.99",
+            "Year": "$11.99",
+            "6 Months": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752329477829,
@@ -86037,6 +86057,25 @@
     "history": [
       [
         {
+          "timestamp": 1755919834911,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Starter Package B": "$49.99",
+            "Daily Jewel Package": "$19.99",
+            "Lite Daily Jewel Package": "$8.99",
+            "Starter Package A": "$14.99",
+            "Remove AD": "$8.99",
+            "Jewel Package D": "$44.99",
+            "Jewel Package A": "$4.99",
+            "Jewel Package F": "$89.99",
+            "Jewel Package C": "$24.99",
+            "Jewel Package B": "$8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755411495597,
           "price": 0,
           "formattedPrice": "Free",
@@ -87173,6 +87212,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755919834911,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Scale Bundle": "$6.99",
+            "Fur Bundle": "$6.99",
+            "Clan of the Dragon": "$2.99",
+            "Clan of the snake": "$2.99",
+            "Clan of the Lynx": "$2.99",
+            "Clan of the Horse": "$2.99",
+            "Clan of the Kraken": "$2.99",
+            "Winter Bundle": "$6.99",
+            "Clan of the Squirrel": "$2.99",
+            "Clan of the Eagle": "$2.99"
+          }
+        },
         {
           "timestamp": 1755915801363,
           "price": 7.99,
@@ -99701,6 +99757,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755919834911,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754623766608,
