@@ -9926,6 +9926,25 @@
     "history": [
       [
         {
+          "timestamp": 1755922459344,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecon - Skin Pack": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755727834403,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -20339,14 +20358,22 @@
   "625274950": {
     "name": "國語辭典",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755922459344,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745442137026,
@@ -37284,10 +37311,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755922459344,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748041336482,

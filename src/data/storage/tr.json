@@ -41610,10 +41610,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 229.99,
-      "formattedPrice": "₺229,99"
+      "price": 179.99,
+      "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755922459344,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748041336482,
@@ -45028,6 +45036,25 @@
       "Tower Swamp Thing": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755922459344,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hero Beresad": "₺299,99",
+            "Hammerhold Campaign!": "₺349,99",
+            "Tower Blazing Gem": "₺229,99",
+            "Mega Tower Bundle": "₺699,99",
+            "Pirate Kings Campaign!": "₺349,99",
+            "Tower Wicked Sisters": "₺229,99",
+            "Hero Mortemis": "₺129,99",
+            "Tower Grim Cemetery": "₺129,99",
+            "Hero Jack'O Lantern": "₺129,99",
+            "Tower Deep Devil's Reef": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755889803096,
@@ -92201,6 +92228,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755922459344,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺129,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737": "₺39,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "EC135": "₺39,99",
+            "Boeing 787-10": "₺99,99",
+            "Concorde": "₺99,99",
+            "Airbus A321": "₺99,99"
+          }
+        },
         {
           "timestamp": 1755900695136,
           "price": 179.99,
