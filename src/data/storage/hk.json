@@ -118359,14 +118359,27 @@
       "Küçük Altın Çantası": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Büyük Altın Sandığı": "HK$ 18.00",
       "Orta Altın Sandığı": "HK$ 8.00",
       "Mega Altın Hazinesi": "HK$ 38.00",
       "Küçük Altın Çantası": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755933052006,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "HK$ 18.00",
+            "Orta Altın Sandığı": "HK$ 8.00",
+            "Mega Altın Hazinesi": "HK$ 38.00",
+            "Küçük Altın Çantası": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754418066243,
@@ -119115,6 +119128,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755933052006,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1755919834911,
           "price": 0,
