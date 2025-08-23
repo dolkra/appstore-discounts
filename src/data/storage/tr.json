@@ -6565,7 +6565,8 @@
       "The Big Three Report": "₺179,99",
       "Gold Level lifetime": "₺4.999,99",
       "Gold Level Free Trial": "₺0,00",
-      "Gold Monthly": "₺349,99"
+      "Gold Monthly": "₺349,99",
+      "Gold Annual": "₺2.499,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6584,9 +6585,29 @@
       "The Big Three Report": "₺179,99",
       "Gold Level lifetime": "₺4.499,99",
       "Gold Level Free Trial": "₺0,00",
-      "Gold Monthly": "₺349,99"
+      "Gold Monthly": "₺349,99",
+      "Gold Annual": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1755965572245,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Gold Annual": "₺2.499,99",
+            "Gold Monthly": "₺349,99",
+            "Gold Level lifetime": "₺4.499,99",
+            "Gold Level Free Trial": "₺0,00",
+            "Lunar Return Report": "₺179,99",
+            "7-day Trial Astrolocality": "₺0,00",
+            "Astrolocality Maps": "₺999,99",
+            "The Big Three Report": "₺179,99",
+            "Relationship Report": "₺179,99",
+            "Predictive Report - Untimed": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755749721038,
@@ -14917,6 +14938,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1755965572245,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "₺99,99",
+            "Unlock 7 Standard Plagues": "₺129,99",
+            "Unlock Virus": "₺39,99",
+            "Neurax Worm Expansion Pack": "₺99,99",
+            "Unlock All Genes": "₺349,99",
+            "Scenario Pack": "₺129,99",
+            "Simian Flu Expansion Pack": "₺99,99",
+            "Unlock Cheats": "₺449,99",
+            "Plague Pack": "₺599,99",
+            "Unlock Genetic Mimic gene": "₺39,99"
+          }
+        },
         {
           "timestamp": 1755951694719,
           "price": 39.99,
