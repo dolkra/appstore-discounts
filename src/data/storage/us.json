@@ -23390,6 +23390,22 @@
     "history": [
       [
         {
+          "timestamp": 1756059341289,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "500 Monkey Money": "$0.99",
+            "Tower Unlock All Upgrades": "$0.99",
+            "Bundle O' Monkey Money": "$2.99",
+            "Pile O' Monkey Money": "$2.99",
+            "Rank Up": "$0.99",
+            "Vault O' Tokens": "$9.99",
+            "Double Cash Mode": "$9.99",
+            "Vault O' Monkey Money": "$19.99",
+            "Pile O' Tokens": "$4.99"
+          }
+        },
+        {
           "timestamp": 1756055411766,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -79319,14 +79335,22 @@
   "1453318714": {
     "name": "Vostok — Story Maker",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756059341289,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755313777759,

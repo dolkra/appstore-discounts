@@ -50460,6 +50460,23 @@
     "history": [
       [
         {
+          "timestamp": 1756059341289,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "寶石180個": "$90.00",
+            "魔法禮包": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "寶石660個": "$290.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        },
+        {
           "timestamp": 1756055411766,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -72507,6 +72524,23 @@
     "history": [
       [
         {
+          "timestamp": 1756059341289,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Flash Sale Star Rune 1": "$90.00",
+            "First Purchase: Legendary Pack": "$320.00",
+            "Flash Sale Ore Rune 1": "$90.00",
+            "Flash Sale Ore Rune 2": "$60.00",
+            "Flash Sale Crystal 2": "$90.00",
+            "Flash Sale Star Rune 2": "$60.00",
+            "Piggy Bank": "$90.00",
+            "Flash Sale Ultimate Essence 1": "$490.00",
+            "Flash Sale Legendary Essence 1": "$150.00",
+            "Double Exp Package 3": "$120.00"
+          }
+        },
+        {
           "timestamp": 1756055411766,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -73113,14 +73147,22 @@
   "1453318714": {
     "name": "Vostok — 创建美丽快拍页面",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756059341289,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755267162497,
@@ -117773,6 +117815,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756059341289,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Season MLB 2018": "$30.00",
+            "Season MLB 2024": "$30.00",
+            "OOTP26 Rainbow Booster Bundle": "$690.00",
+            "25k PP + 5 Standard Packs!": "$690.00",
+            "75k PP + 15 Standard Packs!": "$1,490.00",
+            "1M PP + 200 Standard Packs!": "$15,000.00",
+            "175k PP + 35 Standard Packs!": "$2,990.00",
+            "OOTP26 Pack Booster Bundle": "$690.00",
+            "1M PP + Pack 2 for OOTP Go 26!": "$15,000.00",
+            "1M PP + Pack 3 for OOTP Go 26!": "$15,000.00"
+          }
+        },
         {
           "timestamp": 1756055411766,
           "price": 320,

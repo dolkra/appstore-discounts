@@ -73749,14 +73749,22 @@
   "1453318714": {
     "name": "Vostok — 创建美丽快拍页面",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756059341289,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755267162497,
@@ -96457,7 +96465,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "生命周期": "HK$ 228.00",
+      "生命周期": "HK$ 268.00",
       "月方案": "HK$ 12.00",
       "年方案": "HK$ 88.00",
       "生命周期VIP(Apple TV 版)": "HK$ 118.00",
@@ -96475,6 +96483,21 @@
       "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756059341289,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "HK$ 268.00",
+            "年方案": "HK$ 88.00",
+            "月方案": "HK$ 12.00",
+            "生命周期VIP(Apple TV 版)": "HK$ 118.00",
+            "生命周期VIP(Mac 版)": "HK$ 228.00",
+            "生命周期VIP(iPhone & iPad 版)": "HK$ 118.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756044602030,

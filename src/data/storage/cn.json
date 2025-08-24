@@ -53805,14 +53805,22 @@
   "1453318714": {
     "name": "Vostok — 创建美丽快拍页面",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756059341289,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755267162497,
@@ -73469,7 +73477,7 @@
       "每月": "¥12.00",
       "年度VIP": "¥68.00",
       "月度VIP": "¥12.00",
-      "终身VIP": "¥89.00",
+      "终身VIP": "¥98.00",
       "终身VIP(Apple TV 平台)": "¥89.00",
       "终身VIP(Mac平台)": "¥178.00"
     },
@@ -73486,6 +73494,23 @@
       "终身VIP(Mac平台)": "¥98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756059341289,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身VIP": "¥98.00",
+            "年度VIP": "¥68.00",
+            "月度VIP": "¥12.00",
+            "每年": "¥68.00",
+            "终身": "¥198.00",
+            "每月": "¥12.00",
+            "终身VIP(Apple TV 平台)": "¥89.00",
+            "终身VIP(Mac平台)": "¥178.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756044602030,
