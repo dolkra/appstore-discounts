@@ -23390,6 +23390,25 @@
     "history": [
       [
         {
+          "timestamp": 1756055411766,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "$0.99",
+            "Classic Tack Tower Skin": "$1.99",
+            "Classic Super Monkey Skin Sale": "$0.99",
+            "Classic Super Monkey Skin": "$1.99",
+            "Classic Ice Tower Skin Sale": "$0.99",
+            "Classic Ice Tower Skin": "$1.99",
+            "Classic Bomb Tower Skin Sale": "$0.99",
+            "Classic Bomb Tower Skin": "$1.99",
+            "Classic Dart Monkey Skin Sale": "$0.99",
+            "Classic Dart Monkey Skin": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755612763648,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -106801,12 +106820,12 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Lifetime": "$29.99",
+      "Lifetime": "$31.99",
       "1 Month": "$1.49",
       "1 Year": "$4.99",
       "Yearly VIP": "$4.99",
       "Monthly VIP": "$1.49",
-      "Lifetime VIP": "$14.99",
+      "Lifetime VIP": "$15.99",
       "Lifetime VIP(Apple TV only)": "$14.99",
       "Lifetime VIP(Mac Only)": "$29.99"
     },
@@ -106823,6 +106842,23 @@
       "Lifetime VIP(Mac Only)": "$15.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756055411766,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$15.99",
+            "Yearly VIP": "$4.99",
+            "Monthly VIP": "$1.49",
+            "1 Year": "$4.99",
+            "Lifetime": "$31.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Apple TV only)": "$14.99",
+            "Lifetime VIP(Mac Only)": "$29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755774667225,
