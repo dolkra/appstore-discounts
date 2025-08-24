@@ -41917,6 +41917,18 @@
     "history": [
       [
         {
+          "timestamp": 1756077071888,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Month": "₺99,99",
+            "Year": "₺499,99",
+            "6 Months": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755919834911,
           "price": 0,
           "formattedPrice": "Free",
@@ -75378,6 +75390,14 @@
     "history": [
       [
         {
+          "timestamp": 1756077071888,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755731492633,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -80281,8 +80301,8 @@
   "1614771445": {
     "name": "Rotaeno",
     "maxPriceInfo": {
-      "price": 59.99,
-      "formattedPrice": "₺59,99",
+      "price": 69.99,
+      "formattedPrice": "₺69,99",
       "1030 Stellar Gems": "₺449,99",
       "510 Stellar Gems": "₺229,99",
       "100 Stellar Gems": "₺39,99",
@@ -80299,6 +80319,20 @@
       "300 Stellar Gems": "₺74,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756077071888,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "1030 Stellar Gems": "₺449,99",
+            "510 Stellar Gems": "₺229,99",
+            "300 Stellar Gems": "₺74,99",
+            "100 Stellar Gems": "₺39,99",
+            "2080 Stellar Gems": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749164539197,
@@ -83755,6 +83789,17 @@
     "history": [
       [
         {
+          "timestamp": 1756077071888,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Hello World!": "₺39,99",
+            "Home Sweet Home": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753830798016,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -84058,8 +84103,8 @@
       "formattedPrice": "Free",
       "Lifetime": "₺1.499,99",
       "1 Month": "₺59,99",
-      "1 Year": "₺199,99",
-      "Yearly VIP": "₺199,99",
+      "1 Year": "₺449,99",
+      "Yearly VIP": "₺449,99",
       "Monthly VIP": "₺59,99",
       "Lifetime VIP": "₺699,99",
       "Lifetime VIP(Apple TV only)": "₺699,99",
@@ -84078,6 +84123,23 @@
       "Lifetime VIP(Mac Only)": "₺699,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756077071888,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "₺699,99",
+            "Yearly VIP": "₺449,99",
+            "Monthly VIP": "₺59,99",
+            "1 Year": "₺449,99",
+            "Lifetime": "₺1.499,99",
+            "1 Month": "₺59,99",
+            "Lifetime VIP(Apple TV only)": "₺699,99",
+            "Lifetime VIP(Mac Only)": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756055411766,
