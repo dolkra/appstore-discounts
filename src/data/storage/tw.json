@@ -76017,7 +76017,8 @@
       "40 Marine Tokens Dynamic 4": "$990.00",
       "40 Marine Tokens Dynamic 3": "$1,190.00",
       "40 Marine Tokens Dynamic 2": "$1,490.00",
-      "NY Shining Obsidian Tokens": "$390.00"
+      "NY Shining Obsidian Tokens": "$390.00",
+      "City Break": "$60.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -76066,9 +76067,28 @@
       "40 Marine Tokens Dynamic 4": "$990.00",
       "40 Marine Tokens Dynamic 3": "$1,190.00",
       "40 Marine Tokens Dynamic 2": "$1,490.00",
-      "NY Shining Obsidian Tokens": "$390.00"
+      "NY Shining Obsidian Tokens": "$390.00",
+      "City Break": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756148998236,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "City Break": "$60.00",
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "Speed Die & New York Theme": "$290.00",
+            "Theme Collection": "$690.00",
+            "Golden Dice": "$150.00",
+            "New York 2121 Board": "$190.00",
+            "Welcome Offer": "$690.00",
+            "Cherry Blossom Tokyo Board": "$190.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756062559492,
@@ -113350,6 +113370,25 @@
       "F/A-18": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756148998236,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$590.00",
+            "Global scenery - 12 months": "$390.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 737 MAX 9": "$60.00",
+            "Airbus A380": "$60.00",
+            "Concorde": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756128349846,
