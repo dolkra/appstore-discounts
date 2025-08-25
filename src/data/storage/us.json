@@ -51927,6 +51927,18 @@
     "history": [
       [
         {
+          "timestamp": 1756091385126,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Month": "$1.99",
+            "Year": "$11.99",
+            "6 Months": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755919834911,
           "price": 0,
           "formattedPrice": "Free",
@@ -93827,6 +93839,14 @@
     "history": [
       [
         {
+          "timestamp": 1756091385126,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755747348770,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -100131,6 +100151,20 @@
       "300 Stellar Gems": "$2.95"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756091385126,
+          "price": 1.49,
+          "formattedPrice": "$1.49",
+          "inAppPurchases": {
+            "510 Stellar Gems": "$4.99",
+            "1030 Stellar Gems": "$9.99",
+            "100 Stellar Gems": "$0.99",
+            "300 Stellar Gems": "$2.95",
+            "2080 Stellar Gems": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1749180180364,
@@ -106467,6 +106501,17 @@
     "history": [
       [
         {
+          "timestamp": 1756091385126,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753846133088,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -106873,8 +106918,8 @@
       "formattedPrice": "Free",
       "Lifetime": "$31.99",
       "1 Month": "$1.49",
-      "1 Year": "$4.99",
-      "Yearly VIP": "$4.99",
+      "1 Year": "$9.99",
+      "Yearly VIP": "$9.99",
       "Monthly VIP": "$1.49",
       "Lifetime VIP": "$15.99",
       "Lifetime VIP(Apple TV only)": "$14.99",
@@ -106894,6 +106939,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756091385126,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$15.99",
+            "Yearly VIP": "$9.99",
+            "Monthly VIP": "$1.49",
+            "1 Year": "$9.99",
+            "Lifetime": "$31.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Apple TV only)": "$14.99",
+            "Lifetime VIP(Mac Only)": "$29.99"
+          }
+        },
         {
           "timestamp": 1756055411766,
           "price": 0,
@@ -129881,14 +129941,22 @@
   "6467822375": {
     "name": "Auto Redial App",
     "maxPriceInfo": {
-      "price": 2.49,
-      "formattedPrice": "$2.49"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756091385126,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748041336482,
