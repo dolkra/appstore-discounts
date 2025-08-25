@@ -72909,14 +72909,27 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99",
-      "Abyssal Terrors 01": "USD 2.99"
+      "Abyssal Terrors 01": "USD 2.99",
+      "Abyssal Terrors": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99",
-      "Abyssal Terrors 01": "USD 2.99"
+      "Abyssal Terrors 01": "USD 2.99",
+      "Abyssal Terrors": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756159939495,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Abyssal Terrors 01": "USD 2.99",
+            "Abyssal Terrors": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

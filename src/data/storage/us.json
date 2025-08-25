@@ -105214,6 +105214,23 @@
     "history": [
       [
         {
+          "timestamp": 1756159939495,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Unlock Temperament": "$6.99",
+            "Monster Pack": "$19.99",
+            "Character Pass": "$11.99"
+          }
+        },
+        {
           "timestamp": 1756128349846,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -107645,14 +107662,27 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
-      "Abyssal Terrors 01": "$2.99"
+      "Abyssal Terrors 01": "$2.99",
+      "Abyssal Terrors": "$2.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
-      "Abyssal Terrors 01": "$2.99"
+      "Abyssal Terrors 01": "$2.99",
+      "Abyssal Terrors": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756159939495,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Abyssal Terrors 01": "$2.99",
+            "Abyssal Terrors": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
