@@ -29813,6 +29813,34 @@
       ]
     ]
   },
+  "989733380": {
+    "name": "航空大亨4",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Game Cash 800,000": "USD 2.99",
+      "Game Cash 200,000": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Game Cash 800,000": "USD 2.99",
+      "Game Cash 200,000": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756113278467,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Game Cash 800,000": "USD 2.99",
+            "Game Cash 200,000": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "992047786": {
     "name": "Analog Wedding",
     "maxPriceInfo": {
@@ -69903,6 +69931,14 @@
       "formattedPrice": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756113278467,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754979603727,

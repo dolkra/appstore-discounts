@@ -13847,10 +13847,21 @@
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00",
-      "Premium": "¥598.00",
-      "Object Pack": "¥8.00"
+      "Premium": "¥218.00",
+      "Object Pack": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756113278467,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {
+            "Object Pack": "¥0.00",
+            "Premium": "¥218.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751368278031,
