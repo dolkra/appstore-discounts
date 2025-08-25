@@ -6142,6 +6142,23 @@
     "history": [
       [
         {
+          "timestamp": 1756120273520,
+          "price": 24.99,
+          "formattedPrice": "$24.99",
+          "inAppPurchases": {
+            "forScore Pro": "$14.99",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$2.99",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Beethoven: The Mutopia Collection": "$0.99",
+            "Händel: The Mutopia Collection": "$0.00"
+          }
+        },
+        {
           "timestamp": 1756116872344,
           "price": 24.99,
           "formattedPrice": "$24.99",
@@ -43254,6 +43271,23 @@
     "history": [
       [
         {
+          "timestamp": 1756120273520,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "$7.99",
+            "Platinum Plan - Trimonthly": "$19.99",
+            "Side Story Chapter 1": "$3.99",
+            "Basic Plan - Monthly": "$1.49",
+            "Expansion Chapter B": "$3.99",
+            "Expansion Chapter H": "$3.99",
+            "Small bottle of Chiming Core": "$0.99",
+            "Expansion Ch. U": "$3.99",
+            "Side Story Chapter 2": "$3.99",
+            "Expansion Chapter E": "$3.99"
+          }
+        },
+        {
           "timestamp": 1756116872344,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -58625,6 +58659,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756120273520,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99"
+          }
+        },
         {
           "timestamp": 1756116872344,
           "price": 1.99,
@@ -125329,6 +125380,14 @@
     "history": [
       [
         {
+          "timestamp": 1756120273520,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1754975602001,
           "price": 9.89,
           "formattedPrice": "$9.89",
@@ -134465,6 +134524,27 @@
           "timestamp": 1755886638673,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744863722": {
+    "name": "neightn_remote",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756120273520,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
           "inAppPurchases": {}
         }
       ]

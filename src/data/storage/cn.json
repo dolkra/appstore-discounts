@@ -279,6 +279,23 @@
     "history": [
       [
         {
+          "timestamp": 1756120273520,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "¥38.00",
+            "Tuning Tools": "¥68.00",
+            "Full Discounted Upgrade Pack": "¥398.00",
+            "Harmonic Tuning": "¥148.00",
+            "Buzz Feiten Pack": "¥38.00",
+            "Extended Frequency Modes": "¥38.00",
+            "Keyboard Sweeteners": "¥148.00",
+            "Orchestral Sweeteners": "¥38.00",
+            "Steel Guitar Sweeteners": "¥98.00",
+            "Harp Sweeteners": "¥38.00"
+          }
+        },
+        {
           "timestamp": 1756116872344,
           "price": 68,
           "formattedPrice": "¥68.00",
@@ -92070,6 +92087,27 @@
             "1480 Diamonds": "¥25.00",
             "780 Diamonds": "¥1,999.00"
           }
+        }
+      ]
+    ]
+  },
+  "6744863722": {
+    "name": "neightn_remote",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756120273520,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
         }
       ]
     ]
