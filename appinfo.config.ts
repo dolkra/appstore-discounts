@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 976063866,
+    name: {
+      mo: 'Weaphones Antiques Firearm Sim',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6749840287,
+    name: {
+      mo: 'Conduit: Open-WebUI Client',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6744863722,
     name: {
       mo: 'neightn_remote',
