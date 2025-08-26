@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1317|976063866|自动|❌|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|
 |1316|6749840287|自动|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|
-|1315|6744863722|自动|neightn_remote|neightn_remote|neightn_remote|neightn_remote|neightn_remote|neightn_remote|
+|1315|6744863722|自动|neightn_remote|neightn remote|neightn_remote|neightn remote|neightn remote|neightn remote|
 |1314|989733380|自动|❌|航空大亨4|航空大亨4|航空大亨4|AirTycoon 4|AirTycoon 4|
 |1313|1557637265|自动|家园、异星与猎人|❌|❌|❌|❌|❌|
 |1312|691121579|自动|❌|AdBlock|AdBlock|AdBlock|AdBlock|AdBlock|

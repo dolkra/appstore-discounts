@@ -7,7 +7,7 @@ So far, we've covered `6` `Countries or Regions` and  `1317` `Apps` <br />Push n
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1317|976063866|Automatic|❌|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|
 |1316|6749840287|Automatic|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|
-|1315|6744863722|Automatic|neightn_remote|neightn_remote|neightn_remote|neightn_remote|neightn_remote|neightn_remote|
+|1315|6744863722|Automatic|neightn_remote|neightn remote|neightn_remote|neightn remote|neightn remote|neightn remote|
 |1314|989733380|Automatic|❌|航空大亨4|航空大亨4|航空大亨4|AirTycoon 4|AirTycoon 4|
 |1313|1557637265|Automatic|家园、异星与猎人|❌|❌|❌|❌|❌|
 |1312|691121579|Automatic|❌|AdBlock|AdBlock|AdBlock|AdBlock|AdBlock|
