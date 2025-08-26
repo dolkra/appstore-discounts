@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6746649752,
+    name: {
+      hk: 'MagicKit Pro：AI智慧工具箱',
+    },
+    addType: 'auto',
+  },
+  {
     id: 976063866,
     name: {
       mo: 'Weaphones Antiques Firearm Sim',
