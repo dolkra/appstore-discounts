@@ -32925,6 +32925,20 @@
     "history": [
       [
         {
+          "timestamp": 1756249858546,
+          "price": 17.99,
+          "formattedPrice": "₺17,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺179,99",
+            "60,000 Gold": "₺449,99",
+            "700,000 Gold": "₺3.999,99",
+            "325,000 Gold": "₺1.999,99",
+            "125,000 Gold": "₺799,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755126745084,
           "price": 5,
           "formattedPrice": "₺5,00",
@@ -55067,8 +55081,8 @@
   "1424977227": {
     "name": "Titan Quest HD",
     "maxPriceInfo": {
-      "price": 5,
-      "formattedPrice": "₺5,00",
+      "price": 69.99,
+      "formattedPrice": "₺69,99",
       "Immortal Throne DLC": "₺19,99",
       "Ragnarök DLC": "₺19,99",
       "Atlantis DLC": "₺19,99",
@@ -55083,6 +55097,19 @@
       "Eternal Embers DLC": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756249858546,
+          "price": 69.99,
+          "formattedPrice": "₺69,99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "₺19,99",
+            "Ragnarök DLC": "₺19,99",
+            "Atlantis DLC": "₺19,99",
+            "Eternal Embers DLC": "₺19,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755861015760,
@@ -66936,6 +66963,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756249858546,
+          "price": 54.99,
+          "formattedPrice": "₺54,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755126745084,
