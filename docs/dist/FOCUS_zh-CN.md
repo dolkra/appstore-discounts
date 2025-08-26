@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |1317|976063866|自动|❌|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|
 |1316|6749840287|自动|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|Conduit: Open-WebUI Client|
-|1315|6744863722|自动|neightn_remote|neightn remote|neightn_remote|neightn remote|neightn remote|neightn remote|
+|1315|6744863722|自动|neightn remote|neightn remote|neightn remote|neightn remote|neightn remote|neightn remote|
 |1314|989733380|自动|❌|航空大亨4|航空大亨4|航空大亨4|AirTycoon 4|AirTycoon 4|
 |1313|1557637265|自动|家园、异星与猎人|❌|❌|❌|❌|❌|
 |1312|691121579|自动|❌|AdBlock|AdBlock|AdBlock|AdBlock|AdBlock|
@@ -1263,7 +1263,7 @@
 |62| ~~866450515~~ |手动| ~~Forest 专注森林 - 番茄钟学习计时器~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest: Focus for Productivity~~ | ~~Forest: Focus for Productivity~~ |
 |61|1600873673|手动|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|❌|❌|❌|
 |60| ~~388624839~~ |手动| ~~扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner + | OCR Scanner~~ | ~~CamScanner + | PDF Scanner~~ |
-|59|768160271|手动|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|航旅纵横PRO-官方源头机票、值机火车票接送机免税酒店|
+|59|768160271|手动|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|
 |58|1439723850|手动|时间规划局 - 倒计时与提醒事项|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|
 |57|6447023668|手动|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|
 |56|6468843723|手动|❌|GTA III – Definitive|GTA III – Definitive|GTA III – Definitive|GTA III – Definitive|GTA III – Definitive|
