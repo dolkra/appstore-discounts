@@ -25152,6 +25152,25 @@
     "history": [
       [
         {
+          "timestamp": 1756221179748,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Decades Bundle": "$220.00",
+            "Animal Bundle": "$190.00",
+            "Outdoor Bundle": "$120.00",
+            "Romance Bundle": "$190.00",
+            "International Cuisine Bundle": "$220.00",
+            "Birding Deck": "$60.00",
+            "Camping Deck": "$60.00",
+            "Flowers Deck": "$60.00",
+            "LifeTime Pass": "$2,990.00",
+            "Mexican Cuisine Deck": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755731492633,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -26367,6 +26386,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756221179748,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753805773036,
@@ -38537,6 +38564,20 @@
       "325,000資金": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756221179748,
+          "price": 85,
+          "formattedPrice": "$85.00",
+          "inAppPurchases": {
+            "25,000資金": "$120.00",
+            "60,000資金": "$320.00",
+            "125,000資金": "$590.00",
+            "700,000資金": "$2,990.00",
+            "325,000資金": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755094432492,
@@ -65361,8 +65402,8 @@
   "1424977227": {
     "name": "Titan Quest HD",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 290,
+      "formattedPrice": "$290.00",
       "Immortal Throne DLC": "$150.00",
       "Ragnarök DLC": "$150.00",
       "Atlantis DLC": "$150.00",
@@ -65377,6 +65418,19 @@
       "Eternal Embers DLC": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756221179748,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Eternal Embers DLC": "$150.00",
+            "Atlantis DLC": "$150.00",
+            "Immortal Throne DLC": "$150.00",
+            "Ragnarök DLC": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755861015760,
@@ -76072,7 +76126,9 @@
       "40 Marine Tokens Dynamic 3": "$1,190.00",
       "40 Marine Tokens Dynamic 2": "$1,490.00",
       "NY Shining Obsidian Tokens": "$390.00",
-      "City Break": "$60.00"
+      "City Break": "$60.00",
+      "Atlantis Obsidian Token Bundle": "$320.00",
+      "Tokyo Obsidian Tokens Bundle": "$390.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -76122,10 +76178,28 @@
       "40 Marine Tokens Dynamic 3": "$1,190.00",
       "40 Marine Tokens Dynamic 2": "$1,490.00",
       "NY Shining Obsidian Tokens": "$390.00",
-      "City Break": "$60.00"
+      "City Break": "$60.00",
+      "Atlantis Obsidian Token Bundle": "$320.00",
+      "Tokyo Obsidian Tokens Bundle": "$390.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1756221179748,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Atlantis Obsidian Token Bundle": "$320.00",
+            "Tokyo Obsidian Tokens Bundle": "$390.00",
+            "40 Marine Tokens": "$1,990.00",
+            "Painters Palette Dice Bundle": "$490.00",
+            "40 Marine Tokens Dynamic 6": "$1,990.00",
+            "40 Marine Tokens Dynamic 5": "$590.00",
+            "40 Marine Tokens Dynamic 4": "$990.00",
+            "40 Marine Tokens Dynamic 3": "$1,190.00",
+            "40 Marine Tokens Dynamic 2": "$1,490.00"
+          }
+        },
         {
           "timestamp": 1756148998236,
           "price": 150,
@@ -77967,6 +78041,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756221179748,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755094432492,
@@ -109637,6 +109719,25 @@
       "Germany Locomotive A": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756221179748,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "$60.00",
+            "Pennsylvania Locomotive B": "$60.00",
+            "Pennsylvania Locomotive A": "$60.00",
+            "Pennsylvania Carriage A": "$60.00",
+            "Pennsylvania Character A": "$60.00",
+            "Pennsylvania Character B": "$60.00",
+            "Germany Carriage B": "$60.00",
+            "Germany Carriage A": "$60.00",
+            "Germany Locomotive B": "$60.00",
+            "Germany Locomotive A": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755774667225,

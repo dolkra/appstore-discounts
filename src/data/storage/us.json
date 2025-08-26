@@ -3196,6 +3196,23 @@
     "history": [
       [
         {
+          "timestamp": 1756221179748,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "HAA Link": "$9.99",
+            "HAA Pro Module": "$19.99",
+            "SPL Enhance": "$19.99",
+            "All-In Module Access": "$9.99",
+            "HAA Upgrade to Pro": "$399.99",
+            "HAA Pro Installer Calibration": "$499.99",
+            "HAA Home Theater": "$99.99",
+            "Unlock All Tier 5": "$249.99",
+            "Unlock All Tier 7": "$349.99",
+            "Unlock All Tier 4": "$199.99"
+          }
+        },
+        {
           "timestamp": 1756181751841,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -29040,6 +29057,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756221179748,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753802172809,
@@ -131307,7 +131332,7 @@
     ]
   },
   "6451376191": {
-    "name": "Dumb Phone *",
+    "name": "Dumb Phone □",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "$7.99",
