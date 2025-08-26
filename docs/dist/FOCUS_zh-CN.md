@@ -20,7 +20,7 @@
 |1306|6747814605|自动|❌|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|
 |1305|793232740|自动|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|
 |1304|1269225754|自动|❌|Gorogoa|Gorogoa|Gorogoa|Gorogoa|Gorogoa|
-|1303|6745578435|自动|正版传奇-鸡哥爆款表情包之战,多开打金高爆超变至尊极品传世界|暗黑联盟之暴打传说|❌|暗黑联盟之暴打传说|❌|❌|
+|1303| ~~6745578435~~ |自动| ~~正版传奇-鸡哥爆款表情包之战,多开打金高爆超变至尊极品传世界~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~❌~~ |
 |1302|6504453094|自动|❌|Black Border 2|Black Border 2|Black Border 2|Black Border 2|Black Border 2|
 |1301|1198161469|自动|❌|百萬樂曲物語|百萬樂曲物語|百萬樂曲物語|March to a Million|March to a Million|
 |1300|1558634102|自动|❌|分貝計 (聲級計)|分貝計 (聲級計)|分貝計 (聲級計)|Sound Meter (SPL meter)|Sound Meter (SPL meter)|
@@ -1256,7 +1256,7 @@
 |70|1661419573|手动|atvTools|atvTools|atvTools|atvTools|atvTools|atvTools|
 |69|6479683928|手动|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|AMood - 你的健康生活好伙伴|
 |68|6443798663|手动|敲木鱼 - 打节拍敲音效解压神器|敲木魚|敲木魚|敲木魚|MuYu|MuYu|
-|67|373454750|手动|随手记Pro–个人家庭生意记账|隨手記Pro–個人家庭生意記帳|隨手記Pro–個人家庭生意記帳|隨手記Pro–個人家庭生意記帳|随手记Pro|随手记Pro–记账财务管理软件|
+|67| ~~373454750~~ |手动| ~~随手记Pro–个人家庭生意记账~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~隨手記Pro–個人家庭生意記帳~~ | ~~随手记Pro~~ | ~~随手记Pro–记账财务管理软件~~ |
 |66|916366645|手动|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|
 |65|1164801111|手动|AutoSleep - 通过手表自动追踪睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep – 在手錶上追蹤睡眠|AutoSleep Track Sleep on Watch|AutoSleep Track Sleep on Watch|
 |64|1625289361|手动|空气投篮|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|AirBasketball - AuditoryAR|
