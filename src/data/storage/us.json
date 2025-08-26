@@ -62024,8 +62024,8 @@
       "Blend": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Crop": "$0.00",
       "Splice": "$0.00",
       "Magnifier": "$0.00",
@@ -62042,6 +62042,25 @@
       "Blend": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756179443066,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Crop": "$0.00",
+            "Splice": "$0.00",
+            "Magnifier": "$0.00",
+            "Distortion": "$0.00",
+            "Paint": "$0.00",
+            "Rotate": "$0.00",
+            "Sticker": "$0.00",
+            "Rate": "$0.00",
+            "Chromakey": "$0.00",
+            "Info": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753500050825,
