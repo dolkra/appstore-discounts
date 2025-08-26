@@ -179,6 +179,7 @@ export const latestAppConfig: AppConfig[] = [
       tw: '暗黑联盟之暴打传说',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6504453094,
@@ -8565,7 +8566,7 @@ export const part1AppConfig: AppConfig[] = [
   { id: 1661419573, name: 'atvTools' },
   { id: 6479683928, name: 'AMood' },
   { id: 6443798663, name: ['敲木鱼 - 打节拍敲音效解压神器', { us: 'MuYu' }] },
-  { id: 373454750, name: '随手记Pro' },
+  { id: 373454750, name: '随手记Pro', allowNotification: false },
   { id: 916366645, name: 'Procreate Pocket' },
   {
     id: 1164801111,
