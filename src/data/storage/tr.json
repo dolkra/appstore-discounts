@@ -102817,14 +102817,22 @@
   "6744863722": {
     "name": "neightn remote",
     "maxPriceInfo": {
-      "price": 179.99,
-      "formattedPrice": "₺179,99"
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
       "price": 179.99,
       "formattedPrice": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756211200648,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756120273520,

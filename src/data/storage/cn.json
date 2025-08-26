@@ -92611,14 +92611,22 @@
   "6744863722": {
     "name": "neightn remote",
     "maxPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
+      "price": 58,
+      "formattedPrice": "¥58.00"
     },
     "minPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756211200648,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756120273520,
