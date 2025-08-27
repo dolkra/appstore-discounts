@@ -41467,6 +41467,20 @@
     "history": [
       [
         {
+          "timestamp": 1756265439368,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$9.99",
+            "25,000 Gold": "$3.99",
+            "125,000 Gold": "$18.99",
+            "325,000 Gold": "$45.99",
+            "700,000 Gold": "$89.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755141304264,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -70874,8 +70888,8 @@
   "1424977227": {
     "name": "Titan Quest HD",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 9.99,
+      "formattedPrice": "$9.99",
       "Immortal Throne DLC": "$4.99",
       "Ragnarök DLC": "$4.99",
       "Atlantis DLC": "$4.99",
@@ -70890,6 +70904,19 @@
       "Eternal Embers DLC": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756265439368,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$4.99",
+            "Ragnarök DLC": "$4.99",
+            "Atlantis DLC": "$4.99",
+            "Eternal Embers DLC": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755861015760,
@@ -84288,6 +84315,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756265439368,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755141304264,
