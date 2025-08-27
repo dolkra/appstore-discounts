@@ -288,7 +288,7 @@
 |1042|983143183|自动|❌|夢幻怪獸|夢幻怪獸|夢幻怪獸|Neo Monsters|Neo Monsters|
 |1041|708196645|自动|❌|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|
 |1040|6503932402|自动|超声智学|超声智学|超声智学|超声智学|超声智学|超声智学|
-|1039|325307477|自动|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|AudioTools - dB, Sound & Audio|
+|1039|325307477|自动|AudioTools - dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|
 |1038|929618748|自动|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|
 |1037|519561306|自动|ATracker PRO - 每日时间管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO Time Tracker|ATracker PRO Time Tracker|
 |1036|1456212639|自动|❌|返校|返校|返校|Detention|Detention|
