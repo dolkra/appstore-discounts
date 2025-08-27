@@ -39305,6 +39305,14 @@
     "history": [
       [
         {
+          "timestamp": 1756286017257,
+          "price": 0.59,
+          "formattedPrice": "$0.59",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1753500050825,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -60350,10 +60358,18 @@
       "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "$1.49"
+      "price": 1.39,
+      "formattedPrice": "$1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756286017257,
+          "price": 1.39,
+          "formattedPrice": "$1.39",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753500050825,
@@ -77414,6 +77430,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756286017257,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "30金玉": "$4.99",
+            "198金玉": "$29.99",
+            "648金玉": "$99.99",
+            "尊享月俸": "$4.99",
+            "6金玉": "$0.99",
+            "328金玉": "$49.99",
+            "6元新手禮包​​": "$0.99",
+            "禮包6": "$9.99",
+            "禮包5": "$4.99"
+          }
+        },
         {
           "timestamp": 1756282575443,
           "price": 0.99,

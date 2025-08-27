@@ -17560,6 +17560,23 @@
     "history": [
       [
         {
+          "timestamp": 1756286017257,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "5,000 Coins": "₺39,99",
+            "25,000 Coins": "₺229,99",
+            "10,000 Coins": "₺99,99",
+            "15,000 Coins": "₺129,99",
+            "85,000 Coins": "₺699,99",
+            "55,000 Coins": "₺449,99",
+            "2.000 coins": "₺39,99",
+            "120.000 coins": "₺2.299,99",
+            "45.000 coins": "₺899,99",
+            "22.000 coins": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1756282575443,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -30733,6 +30750,14 @@
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756286017257,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753485183294,
@@ -49515,10 +49540,18 @@
       "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
-      "price": 69.99,
-      "formattedPrice": "₺69,99"
+      "price": 59.99,
+      "formattedPrice": "₺59,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756286017257,
+          "price": 59.99,
+          "formattedPrice": "₺59,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753485183294,
@@ -59099,6 +59132,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756286017257,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Flash Sale Ore Rune 2": "₺99,99",
+            "Flash Sale Star Rune 2": "₺99,99",
+            "Flash Sale Crystal 2": "₺129,99",
+            "First Purchase: Legendary Pack": "₺449,99",
+            "Piggy Bank": "₺129,99",
+            "Flash Sale Crystal 3": "₺99,99",
+            "Flash Sale Ore Rune 1": "₺129,99",
+            "Double Exp Package 1": "₺39,99",
+            "Flash Sale Star Rune 1": "₺129,99",
+            "Black Friday Inferno": "₺899,99"
+          }
+        },
         {
           "timestamp": 1756282575443,
           "price": 39.99,
