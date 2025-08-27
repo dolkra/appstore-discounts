@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-08-27T09:39:16.182Z</updated>
+    <updated>2025-08-27T13:46:16.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-27T09:39:16.182Z</updated>
+        <updated>2025-08-27T13:46:16.626Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 27 Aug 2025 09:39:16 GMT</id>
+        <id>rankingusWed, 27 Aug 2025 13:46:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-27T09:39:16.182Z</updated>
+        <updated>2025-08-27T13:46:16.626Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -131,6 +131,29 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Bundle</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>
@@ -151,7 +174,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
@@ -168,7 +191,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
@@ -179,29 +202,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Bundle</i>：<b>2</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1556,6 +1556,23 @@ feedId:157008699750812672+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>81</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6458144503">Skul: The Hero Slayer</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -1957,6 +1974,109 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Motorsport Manager 4]]></title>
+        <id>Motorsport Manager 4-us-1756300967310</id>
+        <link href="https://apps.apple.com/us/app/motorsport-manager-4/id6449251957?uo=4"/>
+        <updated>2025-08-27T13:22:47.310Z</updated>
+        <summary type="html"><![CDATA[Bundle: $9.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/motorsport-manager-4/id6449251957?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8c/ee/7d/8cee7d73-3ebd-be3f-a015-7252a7a092e5/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Bundle：</strong><span>$9.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $9.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$4.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Bundle：<b>$4.99</b>
+  </li><li>
+    Pre registration bundle：<b>$5.99</b>
+  </li><li>
+    Premium livery bundle：<b>$5.99</b>
+  </li><li>
+    Game Editor：<b>$5.99</b>
+  </li><li>
+    Very Large Investment：<b>$2.99</b>
+  </li><li>
+    Large Investment：<b>$2.99</b>
+  </li><li>
+    Huge Investment：<b>$4.99</b>
+  </li><li>
+    Investment：<b>$1.99</b>
+  </li><li>
+    Chairman's Payment：<b>$5.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MOTORSPORT MANAGER 4: MASTER RACE STRATEGY
+
+BUILD YOUR RACING DYNASTY
+Immerse yourself in the captivating journey of constructing your motorsport empire from the ground up, where every choice holds the key to your success.
+
+ASSEMBLE YOUR DREAM TEAM
+Hand-pick exceptional drivers and engineer a world-class racing powerhouse. Collaborate closely with drivers to secure pole positions and craft pitstop strategies that lead to race domination.
+
+REAL-TIME STRATEGY UNFOLDS
+Experience the adrenaline-pumping action of races in real-time or navigate through intricate strategy screens. Swiftly adapt to ever-changing weather, unexpected crashes, and the emergence of safety cars.
+
+UNLEASH VARIETY ON THE TRACK
+Embark on thrilling GT and Endurance racing adventures across six distinct championships. Immerse yourself in the iconic beauty of Monaco's settings, rendered in breathtaking artistry.
+
+DRIVERS TAKE CENTER STAGE
+Step into the shoes of promising new drivers, delve into their statistics, and cultivate pivotal relationships. Navigate the revamped HQ, seize upgrade opportunities, and master the new part development system for an immersive journey.
+
+YOUR JOURNEY, YOUR CHALLENGE
+Embark on a motorsport odyssey where every choice shapes your destiny. Witness dynamic AI team movements and adjust the difficulty level as the game evolves with you.
+
+SEIZE CONTROL, MAKE HISTORY
+It's your opportunity to rewrite the annals of racing lore and etch your name into the history of motorsport. Motorsport Manager 4 empowers you like never before.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/78/8a/93/788a93e8-0611-e8a4-a8bb-127ea1ca7cd3/70b8f36f-46ad-4f55-bb44-26b1e1d42d90_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/df/0c/0f/df0c0f1b-b800-355e-e534-877d19d3ad6e/197b9078-d617-4bf1-ae75-a32666c0e221_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/da/36/84/da36845b-602b-4129-904b-4819e9a79cde/acae3ebf-4877-4010-b0c6-c5d2fa892453_FeaturingImage.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d1/7b/38/d17b387b-b95d-8fd1-de10-4b4a8534eceb/5dc173a9-d936-4bec-b601-fb16eab3942c_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/1c/c1/c01cc19a-ac47-a7a7-67ad-81d5020e0e1e/6f8fa231-827b-43d7-a412-284fba943dae_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/9a/e0/489ae001-4876-7503-4d52-09a484de1ee3/b12a712a-9dda-4bc2-a642-3d15ccc0163f_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/57/2f/73/572f736e-01bb-0350-e01e-10b27a29daba/4e65f90a-f4f0-4984-bbea-eeb6ce7e79ff_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/72/1d/a8/721da87c-9e9b-5067-e090-da14770902f9/2ba5b27d-6e12-4261-806f-58f728470a3b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c2/45/59/c24559c0-b7c9-731f-9b2c-29896c7d69eb/65f7b50f-874c-4a56-abcc-5dfefea7987b_FeatureImage.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/53/75/a75375f0-e5cc-2099-11ca-e249ac80a1b3/9e80e2a6-d3b2-4dc2-a736-79fb54c6bd36_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/f7/5d/81f75d80-f417-4fe8-0d65-2c6af7ba98e8/41706b87-c615-448c-9c52-b018dd10d18d_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e4/1b/a7e41bad-5ca9-c26f-8e9d-0b64e44fb512/22fcca1c-f9eb-4301-8497-0ad43f5bb621_5.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Skul: The Hero Slayer]]></title>
+        <id>Skul: The Hero Slayer-us-1756300967310</id>
+        <link href="https://apps.apple.com/us/app/skul-the-hero-slayer/id6458144503?uo=4"/>
+        <updated>2025-08-27T13:22:47.310Z</updated>
+        <summary type="html"><![CDATA[Price: $7.99 → $2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/skul-the-hero-slayer/id6458144503?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/53/a3/33/53a3334f-f36b-44b2-8ebf-c66392675eff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$7.99</span> → <b>
+  <strong>$2.99</strong>
+</b><span>[$2.99 ~ $7.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$2.99</b>
+</p><h2>Application Description</h2><p>
+  Skul is a fast-paced action rogue-lite where losing your head is encouraged. 
+
+Featuring 100 playable characters each with their own unique abilities and a ton of items that can create wild synergies, the battles are as electrifying as they are challenging.
+
+The Demon King's Castle in Ruins
+The human race attacking the Demon King's castle is nothing new and has happened countless times before.
+What makes this time different though, is that the Adventurers decided to join forces with the Imperial Army and the 'Hero of Caerleon' to lead a full onslaught in hopes of wiping out the Demons once and for all. 
+They attacked the Demon stronghold with overwhelming numbers and succeeded in its total destruction. All of the demons in the castle were taken prisoner except for one lone skeleton named 'Skul'.
+
+Dark Mirror Mode
+Once you're through with the main story, test your skills and limits in the new challenging 'Dark Mirror' mode!
+
+FEATURES
+-You’re the last hope of the entire demon race! Play as Skul, a tiny skeleton on a path to slay the pompous heroes and save the demon king from the corrupt army of Carleon.  
+-Losing your head never felt so right: try on new skulls to borrow the powers and dashing outfits of their previous owners and create synergies with unique items to defeat your enemies.
+-What is dead may never die: you will not rest until you have faced all the challenges of this action-packed rogue-lite platformer.
+-Let your hollow eyes feast upon vibrant, cartoony pixel-art 2D animations as you help all sorts of demonic creatures return to their original state.
+-From the Mummies of Egypt to the Minotaur of Greece or even an official Dead Cells crossover… Will you spot all the fun easter eggs scattered across the game?
+
+CAREFULLY REDESIGNED FOR MOBILE
+- Revamped interface – exclusive mobile UI with complete touch control
+- Game Center achievements
+- Cloud Save – Share your progress between iOS devices
+- Compatible with MFi controllers
+- iPhone 15 Optimization (including Pro Max)
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/38/9b/9d/389b9da3-ea83-078d-7709-a594727c5a00/5d20f040-9b33-44b5-828c-7bca1619935a_Screen_8-5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/35/a7/a2/35a7a2aa-bad3-126a-b43b-d2f2df1dd21f/f82c776f-eb6d-48b2-af44-6e3da1b0d13f_Screen_7-5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/85/74/43/8574439c-182f-d508-3825-37b39c975d7c/6ea6a094-6008-4953-b502-4bf0cc0e0b1d_Screen_10-5.5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/86/31/3e/86313ee5-7242-5ddb-036a-225e7632e9e4/e88737d1-6f0a-4317-b665-d815ff1086d2_Screen_1-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3a/84/29/3a8429bf-4048-232c-b09c-e4bb840a18de/24bf11ee-c418-4e88-9b3a-b16847b07640_Screen_2-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/64/61/d0/6461d01d-de0d-0524-681d-dfd10b000bee/718c2634-b78d-4d3c-ad40-92894616e0c7_Screen_3-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/91/55/70/915570bc-ecdc-4e40-de77-6c7bb35ed081/5483c57a-b888-4ae8-96b5-d85b7b9dea7a_Screen_4-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ae/56/61/ae5661b4-f95b-4fae-c29a-80597c5f32e7/77d2c03a-fd2f-48a1-a250-84c6bc1d9a2e_Screen_5-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c7/e8/8c/c7e88c75-f585-0fdc-3091-1157012fb7a6/2771ba55-8f42-411a-a151-6747b02cfc6b_Screen_6-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fe/d0/27/fed02769-ee58-08d6-989a-58767b94099e/6957d79e-4748-4c9d-a985-80440e329e62_Screen_7-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e7/9c/09/e79c090f-9896-c206-d452-6b8590ceed8d/84c554ea-5a13-478d-b8c6-02dc15684793_Screen_8-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/dc/5f/33dc5ff2-0940-e85e-9d43-56f8d40c25a6/503e14ba-1410-4d1b-8bcf-4eaf86502ea4_Screen_9-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/26/77/4d/26774dec-ec52-9c18-411b-24e207e254e9/b7bd114e-fc12-4783-ac8b-4dd1a04584f3_Screen_10-12.9-EN.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Evoland 2]]></title>
         <id>Evoland 2-us-1756286017257</id>
         <link href="https://apps.apple.com/us/app/evoland-2/id1291427111?uo=4"/>
@@ -2333,43 +2453,5 @@ Create your own unique religion by combining different religious aspects in the 
 
 Peace and love to all, brothers and sisters!
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Knight & Dragon III]]></title>
-        <id>Knight &amp; Dragon III-us-1756038123650</id>
-        <link href="https://apps.apple.com/us/app/knight-dragon-iii/id6476064417?uo=4"/>
-        <updated>2025-08-24T12:22:03.650Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/knight-dragon-iii/id6476064417?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/e1/9b/bee19b16-96b8-8587-90dc-1d94a88a576c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  Rare Items! Class Change! And an epic story.
-The third installment of the full-fledged hack-and-slash RPG "Knight and Dragon," packed with replayability!
-
-"Knight and Dragon 3" is the third installment in the hack-and-slash RPG series set in a medieval fantasy world.
-
-One morning, after receiving a certificate from an elderly gentleman, proving you as a full-fledged guild member, you are sent to a small village in the Republic of Gringard. This is where the story begins. Various incidents occurring in the Republic, the conflicts with the neighboring Lindahl Empire, and the story of knights and dragons will eventually involve you in a grand destiny revolving around the stars.
-
-[Features of Knight and Dragon 3]
-▽ The basic systems of a replayable RPG such as intense real-time battles, rare item drops, and class changes are inherited from the previous game!
-▽ Real-time battles are now more interactive, allowing you to dodge, parry, and counter by reading the enemy’s attack timings!
-▽ A variety of weapons like axes, spears, and halberds appear among the items! Additionally, you can create characters to your liking, including dual-wielding and two-handed weapons!
-▽ A world map that enhances the epic story is introduced! The story, with even more volume than the previous game, and the end content are still going strong!
-▽ Moreover, in this game, a diverse range of NPCs with unique characteristics, place names, city names, and other proper nouns depict the grand story!
-▽ Other features such as party dispatch and the Persona function, which were well received in the previous game, are of course continued!
-
-・・・
-
-For those who want to get a feel for the game before purchasing, the previous game "Knight and Dragon" is completely free to enjoy, so please give it a try.
-
-Official Homepage
-http://dgjam.com/knightdragon3
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/61/84/ef/6184ef5d-b6e5-932d-acf4-14d14dbf0f61/d6738b16-1033-456b-b792-4be85b043f46_en.sc1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c3/86/22/c3862270-b013-f975-c0b5-694b3d69dfff/8868f00a-2e50-45f7-a08a-b64ad58e4b6e_en.sc2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/2b/c0/602bc0dd-cd4e-da79-4929-250892402aca/5458d233-f865-4612-b1f1-17502cb6eca4_en.sc3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/e6/74/08e67432-d399-03ce-3fb8-73bc5fd272ae/159f9fcb-83f6-493d-b397-361ea55e13bf_en.sc4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/42/d9/2542d98a-27a1-d549-7224-c04cd74b7671/4c985467-35a4-4afb-900a-b209ec2ce33e_en.sc5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f3/57/67/f3576786-6833-3c7b-7e77-7baabd2256b3/d8fca967-349e-41c7-82b7-b0e4ce2ff764_en.sc6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/23/b9/aa/23b9aa66-bb98-07f3-3d1a-30e9fada27c3/eb7f3c3d-5a16-468e-9eab-2aca23946cb6_en.sc7.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
