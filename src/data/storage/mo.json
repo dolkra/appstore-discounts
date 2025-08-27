@@ -42603,10 +42603,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "USD 1.49"
+      "price": 1.39,
+      "formattedPrice": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756289552392,
+          "price": 1.39,
+          "formattedPrice": "USD 1.39",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1753452788446,
@@ -80147,6 +80155,25 @@
       "Boeing 737-800": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756289552392,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Boeing 737-800": "USD 2.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99",
+            "ASK 21": "USD 0.99",
+            "Airbus A321": "USD 1.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Global scenery - 1 month": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754907301715,
