@@ -6043,6 +6043,27 @@
       ]
     ]
   },
+  "387910013": {
+    "name": "SSTV Slow Scan TV",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756303912105,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "388130466": {
     "name": "iSlash",
     "maxPriceInfo": {
@@ -26483,6 +26504,14 @@
     "history": [
       [
         {
+          "timestamp": 1756303912105,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1751033553596,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -27837,6 +27866,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756303912105,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754921720144,
@@ -38246,6 +38283,22 @@
       "119 Gems": "$1,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756303912105,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "13 Gems": "$290.00",
+            "6 Gems": "$120.00",
+            "48 Gems": "$990.00",
+            "1 Gem": "$30.00",
+            "150 Gems": "$2,490.00",
+            "74 Gems": "$1,290.00",
+            "28 Gems": "$490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756041611159,
@@ -75719,6 +75772,23 @@
     "history": [
       [
         {
+          "timestamp": 1756303912105,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "$120.00",
+            "国家地理百科精读（第一期）": "$190.00",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$990.00",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "$990.00",
+            "Albert：不走弯路学英语": "$190.00",
+            "聆听诺奖背后的时代之音": "$490.00",
+            "顾悦：如何成为英语学习高手": "$490.00",
+            "林小鹿英语精读（1-7季合集升级版）": "$2,290.00",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "$990.00",
+            "林小鹿经济学人精读": "$690.00"
+          }
+        },
+        {
           "timestamp": 1756300967310,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -83179,6 +83249,27 @@
           "timestamp": 1745634497549,
           "price": 220,
           "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1539778232": {
+    "name": "Afterplace",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756303912105,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
@@ -109192,10 +109283,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 120,
-      "formattedPrice": "$120.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756303912105,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752070365505,
@@ -113307,10 +113406,18 @@
       "formattedPrice": "$100.00"
     },
     "minPriceInfo": {
-      "price": 100,
-      "formattedPrice": "$100.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756303912105,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745355731152,
@@ -125456,6 +125563,34 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6457201683": {
+    "name": "紅薯AI",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "红薯AI月度会员": "$90.00",
+      "红薯AI年度会员": "$490.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "红薯AI月度会员": "$90.00",
+      "红薯AI年度会员": "$490.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756303912105,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "红薯AI月度会员": "$90.00",
+            "红薯AI年度会员": "$490.00"
+          }
         }
       ]
     ]

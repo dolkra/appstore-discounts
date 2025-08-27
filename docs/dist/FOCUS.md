@@ -1,10 +1,13 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1319` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1322` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1322|387910013|Automatic|SSTV Slow Scan TV|SSTV Slow Scan TV|SSTV Slow Scan TV|SSTV Slow Scan TV|SSTV Slow Scan TV|SSTV Slow Scan TV|
+|1321|1539778232|Automatic|❌|Afterplace|Afterplace|Afterplace|Afterplace|Afterplace|
+|1320|6457201683|Automatic|❌|紅薯AI|紅薯AI|紅薯AI|红薯AI|红薯AI|
 |1319|6504854196|Automatic|下一站江湖Ⅱ|❌|❌|❌|❌|❌|
 |1318|6746649752|Automatic|MagicKit Pro：AI智能工具箱|MagicKit Pro：AI智慧工具箱|MagicKit Pro：AI智慧工具箱|MagicKit Pro：AI智慧工具箱|MagicKit Pro: AI Smart Toolbox|MagicKit Pro: AI Smart Toolbox|
 |1317|976063866|Automatic|❌|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|Weaphones Antiques Firearm Sim|

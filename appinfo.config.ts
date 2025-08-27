@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 387910013,
+    name: {
+      mo: 'SSTV Slow Scan TV',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1539778232,
+    name: {
+      us: 'Afterplace',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6457201683,
+    name: {
+      mo: '紅薯AI',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6504854196,
     name: {
       cn: '下一站江湖Ⅱ',
