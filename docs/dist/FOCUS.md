@@ -288,7 +288,7 @@ So far, we've covered `6` `Countries or Regions` and  `1322` `Apps` <br />Push n
 |1042|983143183|Automatic|❌|夢幻怪獸|夢幻怪獸|夢幻怪獸|Neo Monsters|Neo Monsters|
 |1041|708196645|Automatic|❌|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|
 |1040|6503932402|Automatic|超声智学|超声智学|超声智学|超声智学|超声智学|超声智学|
-|1039|325307477|Automatic|AudioTools - dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|
+|1039|325307477|Automatic|AudioTools，dB，声音与音频|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|
 |1038|929618748|Automatic|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|
 |1037|519561306|Automatic|ATracker PRO - 每日时间管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO Time Tracker|ATracker PRO Time Tracker|
 |1036|1456212639|Automatic|❌|返校|返校|返校|Detention|Detention|
