@@ -68,6 +68,14 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6749620111,
+    name: {
+      hk: '石器手機版Go！自由抓捕,寵物養成遊戲',
+      tw: '石器手機版Go！自由抓捕,寵物養成遊戲',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6746189288,
     name: {
       tw: '不/存在的你，和我',

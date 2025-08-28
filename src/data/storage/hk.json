@@ -16952,6 +16952,23 @@
     "history": [
       [
         {
+          "timestamp": 1756415470383,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "TRex 700 N": "HK$ 22.00",
+            "Hughes 500": "HK$ 22.00",
+            "TRex 500": "HK$ 22.00",
+            "Airbus A380 EDF": "HK$ 22.00",
+            "Bell 47": "HK$ 22.00",
+            "All Heli and Drone models": "HK$ 118.00",
+            "TRex 450 Pro": "HK$ 22.00",
+            "Rebel 50% scale": "HK$ 22.00",
+            "Blast 450 3D": "HK$ 22.00",
+            "AH-64 Apache": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1756412022646,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -121718,6 +121735,31 @@
           "price": 12,
           "formattedPrice": "HK$ 12.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749620111": {
+    "name": "石器手機版Go！自由抓捕,寵物養成遊戲",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Diamonds": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "Diamonds": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756415470383,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 32.00"
+          }
         }
       ]
     ]
