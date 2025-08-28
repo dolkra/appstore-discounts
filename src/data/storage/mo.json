@@ -15019,6 +15019,14 @@
     "history": [
       [
         {
+          "timestamp": 1756368991204,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "網絡版訂閱": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1756365149529,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -33822,6 +33830,20 @@
     "history": [
       [
         {
+          "timestamp": 1756368991204,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "USD 79.99",
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99",
+            "Parallels Desktop for Mac": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756303912105,
           "price": 0,
           "formattedPrice": "免費",
@@ -45006,6 +45028,25 @@
     "history": [
       [
         {
+          "timestamp": 1756368991204,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "茶具魔王皮膚卡牌包 C": "USD 4.99",
+            "茶具魔王皮膚卡牌包 B": "USD 4.99",
+            "茶具魔王皮膚卡牌包 A": "USD 4.99",
+            "小墮落勇士造型卡牌包": "USD 25.99",
+            "小勇士造型卡牌包": "USD 25.99",
+            "黑暗的魔王皮膚卡牌包": "USD 7.99",
+            "光芒的魔王皮膚卡牌包": "USD 7.99",
+            "魔王覺醒蛇女卡牌包": "USD 4.99",
+            "神話完整卡牌包": "USD 39.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755601821301,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -48293,6 +48334,27 @@
           "timestamp": 1745375383677,
           "price": 6.29,
           "formattedPrice": "USD 6.29",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1435709869": {
+    "name": "CodeMatch",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756368991204,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

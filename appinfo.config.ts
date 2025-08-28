@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1435709869,
+    name: {
+      mo: 'CodeMatch',
+    },
+    addType: 'auto',
+  },
+  {
     id: 387910013,
     name: {
       mo: 'SSTV Slow Scan TV',
