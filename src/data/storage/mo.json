@@ -57009,7 +57009,9 @@
       "40 Marine Tokens Dynamic 3": "USD 36.99",
       "40 Marine Tokens Dynamic 2": "USD 45.99",
       "NY Shining Obsidian Tokens": "USD 11.99",
-      "CherryBlossomTokyoOrigamiToken": "USD 2.99"
+      "CherryBlossomTokyoOrigamiToken": "USD 2.99",
+      "Atlantis Obsidian Token Bundle": "USD 9.99",
+      "Tokyo Obsidian Tokens Bundle": "USD 11.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -57051,10 +57053,28 @@
       "40 Marine Tokens Dynamic 3": "USD 36.99",
       "40 Marine Tokens Dynamic 2": "USD 45.99",
       "NY Shining Obsidian Tokens": "USD 11.99",
-      "CherryBlossomTokyoOrigamiToken": "USD 2.99"
+      "CherryBlossomTokyoOrigamiToken": "USD 2.99",
+      "Atlantis Obsidian Token Bundle": "USD 9.99",
+      "Tokyo Obsidian Tokens Bundle": "USD 11.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1756375977811,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Atlantis Obsidian Token Bundle": "USD 9.99",
+            "Tokyo Obsidian Tokens Bundle": "USD 11.99",
+            "40 Marine Tokens": "USD 59.99",
+            "Painters Palette Dice Bundle": "USD 14.99",
+            "40 Marine Tokens Dynamic 6": "USD 54.99",
+            "40 Marine Tokens Dynamic 5": "USD 18.99",
+            "40 Marine Tokens Dynamic 4": "USD 27.99",
+            "40 Marine Tokens Dynamic 3": "USD 36.99",
+            "40 Marine Tokens Dynamic 2": "USD 45.99"
+          }
+        },
         {
           "timestamp": 1756354472876,
           "price": 4.99,
@@ -79593,6 +79613,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756375977811,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755830347882,
