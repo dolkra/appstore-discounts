@@ -100126,14 +100126,22 @@
   "6478398981": {
     "name": "IPTV Smart Pro - 4K Live TV",
     "maxPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756412022646,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745665323137,
