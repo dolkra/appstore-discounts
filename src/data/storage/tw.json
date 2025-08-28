@@ -97767,13 +97767,25 @@
     "name": "GTA: Vice City – Definitive",
     "maxPriceInfo": {
       "price": 600,
-      "formattedPrice": "$600.00"
+      "formattedPrice": "$600.00",
+      "完整版遊戲": "$690.00"
     },
     "minPriceInfo": {
       "price": 600,
-      "formattedPrice": "$600.00"
+      "formattedPrice": "$600.00",
+      "完整版遊戲": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756365149529,
+          "price": 600,
+          "formattedPrice": "$600.00",
+          "inAppPurchases": {
+            "完整版遊戲": "$690.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,

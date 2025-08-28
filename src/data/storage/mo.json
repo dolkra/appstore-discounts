@@ -15009,7 +15009,7 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99",
-      "網絡版訂閱": "USD 2.99"
+      "網絡版訂閱": "USD 26.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -15017,6 +15017,16 @@
       "網絡版訂閱": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756365149529,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "網絡版訂閱": "USD 26.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746766943792,
@@ -74202,13 +74212,25 @@
     "name": "GTA: Vice City – Definitive",
     "maxPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "USD 19.99"
+      "formattedPrice": "USD 19.99",
+      "完整版遊戲": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "USD 19.99"
+      "formattedPrice": "USD 19.99",
+      "完整版遊戲": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756365149529,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "完整版遊戲": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,

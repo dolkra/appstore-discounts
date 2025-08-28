@@ -86971,13 +86971,25 @@
     "name": "GTA: Vice City – Definitive",
     "maxPriceInfo": {
       "price": 439,
-      "formattedPrice": "₺439,00"
+      "formattedPrice": "₺439,00",
+      "Full Game": "₺899,99"
     },
     "minPriceInfo": {
       "price": 439,
-      "formattedPrice": "₺439,00"
+      "formattedPrice": "₺439,00",
+      "Full Game": "₺899,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756365149529,
+          "price": 439,
+          "formattedPrice": "₺439,00",
+          "inAppPurchases": {
+            "Full Game": "₺899,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -102496,6 +102508,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756365149529,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "₺399,99",
+            "Mystic Mayhem Pack": "₺179,99",
+            "Sun and Spice Bundle": "₺299,99",
+            "Santa Claws Card Back": "₺39,99",
+            "Santa Claws Pack": "₺179,99",
+            "Under the Tree location": "₺99,99",
+            "Santa Claws Emoji Pack": "₺39,99",
+            "All Wrapped Up outfit": "₺99,99",
+            "Snow Globe Outfit": "₺99,99",
+            "Mystic Mayhem Location": "₺39,99"
+          }
+        },
         {
           "timestamp": 1756361931175,
           "price": 179.99,
