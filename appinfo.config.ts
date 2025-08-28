@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 314306777,
+    name: {
+      mo: '慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6749620111,
     name: {
       hk: '石器手機版Go！自由抓捕,寵物養成遊戲',
