@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6746189288,
+    name: {
+      tw: '不/存在的你，和我',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1411823462,
     name: {
       tw: '7Days : Backer',
