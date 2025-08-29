@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6443943397,
+    name: {
+      mo: 'Wilderless 流浪荒野',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1637438059,
     name: {
       hk: 'UnTrap for YouTube',

@@ -16516,6 +16516,14 @@
     "history": [
       [
         {
+          "timestamp": 1756476705248,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756303912105,
           "price": 0,
           "formattedPrice": "免费",
@@ -94118,6 +94126,27 @@
           "timestamp": 1756444321825,
           "price": 19.8,
           "formattedPrice": "¥19.80",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6443943397": {
+    "name": "Wilderless 流浪荒野",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756476705248,
+          "price": 0,
+          "formattedPrice": "免费",
           "inAppPurchases": {}
         }
       ]
