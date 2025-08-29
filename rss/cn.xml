@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-08-29T03:54:07.054Z</updated>
+    <updated>2025-08-29T19:33:17.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-29T03:54:07.055Z</updated>
+        <updated>2025-08-29T19:33:17.794Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 29 Aug 2025 03:54:07 GMT</id>
+        <id>rankingcnFri, 29 Aug 2025 19:33:17 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-08-29T03:54:07.056Z</updated>
+        <updated>2025-08-29T19:33:17.794Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,16 +51,16 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1327</b>
+        <b>1331</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1126</b>
+        <b>1130</b>
       </td>
       <td>
-        <b>52</b>
+        <b>54</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>707</b>
+        <b>711</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>545</b>
+        <b>549</b>
       </td>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
     </tr>
   </tbody>
@@ -114,7 +114,9 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
+        <del>
+          <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -137,6 +139,29 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1217732174">TA - 一对一聊天，遇见对的人</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>4</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>3个月会员</i>：<b>4</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <del>
           <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
         </del>
@@ -153,7 +178,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
@@ -168,29 +193,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>App 内购买项目</span><ol>
               <li>
                 <i>Premium</i>：<b>3</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id1217732174">TA - 一对一聊天，遇见对的人</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>3</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>3个月会员</i>：<b>3</b>
               </li>
             </ol>
           </li>
@@ -1029,7 +1031,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1444383602">Goodnotes 6：笔记，PDF，AI</a>
+        <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1038,7 +1040,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/cn/app/id1444383602">Goodnotes 6：笔记，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1047,7 +1049,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
+        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1056,7 +1058,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1065,7 +1067,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1074,7 +1076,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
+        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1083,7 +1085,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
+        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1092,7 +1094,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1101,7 +1103,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1110,7 +1112,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
+        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1119,7 +1121,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
+        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1128,7 +1130,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
+        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1137,7 +1139,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
+        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1146,12 +1148,75 @@ feedId:157007849019630592+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>35</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TA - 一对一聊天，遇见对的人]]></title>
+        <id>TA - 一对一聊天，遇见对的人-cn-1756494550900</id>
+        <link href="https://apps.apple.com/cn/app/ta-%E4%B8%80%E5%AF%B9%E4%B8%80%E8%81%8A%E5%A4%A9-%E9%81%87%E8%A7%81%E5%AF%B9%E7%9A%84%E4%BA%BA/id1217732174?uo=4"/>
+        <updated>2025-08-29T19:09:10.900Z</updated>
+        <summary type="html"><![CDATA[3个月会员: ¥60.00 → ¥28.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/ta-%E4%B8%80%E5%AF%B9%E4%B8%80%E8%81%8A%E5%A4%A9-%E9%81%87%E8%A7%81%E5%AF%B9%E7%9A%84%E4%BA%BA/id1217732174?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5b/59/ef/5b59efaa-0e2a-8c02-5c51-7f7696fdd77d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>3个月会员：</strong><span>¥60.00</span> → <b>
+  <strong>¥28.00</strong>
+</b><span>[¥28.00 ~ ¥60.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥1.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    1周会员：<b>¥6.00</b>
+  </li><li>
+    1个月会员：<b>¥18.00</b>
+  </li><li>
+    6T币：<b>¥6.00</b>
+  </li><li>
+    3个月会员：<b>¥28.00</b>
+  </li><li>
+    600T币：<b>¥6.00</b>
+  </li><li>
+    3000T币：<b>¥30.00</b>
+  </li><li>
+    40T币：<b>¥40.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《TA》自上线以来，已成功配对了几十万对！他们从最开始的相遇，再慢慢相恋。
+
+很多人找不到对象的真正原因是缺乏认识异性的途径，《TA》正是一条认识异性的好途径。
+
+《TA》会根据年龄、学历、兴趣爱好等维度进行配对，把最合适两人配成一对，再进行一对一聊天。
+
+每个APP都有一个定位，《TA》的定位是【靠谱】。如果你想找到男朋友、女朋友、结婚对象，那欢迎你。
+
+-----联系我们-----
+如在使用过程中遇到任何问题，请联系我们：
+- 在线帮助：在TA中选择“我” -> “意见反馈”
+- 邮件服务：shiyixin0420@163.com（如果是帐号问题，请在邮件中注明出问题的帐号）
+
+-----连续订阅说明-----
+- TA提供按月、按季、按年三种周期订阅。
+- 费用将在确认购买时通过你的 iTunes 账号收取。
+- 根据App Store自动续约规则，会员会在订阅期结束前24小时内自动续约（含免费试用），你可以在会员订阅期结束前至少24小时取消订阅。
+- 通过账号设置 - 管理订阅来取消订阅。
+- 条款与隐私政策：https://www.bokuigo.cn/misterrightPrivacyPolicy/index.jsp
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2a/e8/19/2ae819f5-ff96-9772-3276-e9688a888b02/mzl.grlpkvva.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b0/41/3e/b0413e5f-2123-dff9-8b38-a667a7d56555/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/02/2b/15/022b15de-c630-befd-1006-592c643ae8e8/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/37/bf/e837bfe1-33ca-7908-4293-5add12e3d56c/mzl.nkajuwjs.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f9/47/14/f94714f3-b5db-bd99-837d-c45fb2c8d997/mzl.ovztugah.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b0/ed/42/b0ed4248-3f4f-99e0-cb03-bbe23609134f/mzl.ddlemsat.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4e/62/30/4e6230e4-6671-fb5d-069a-57745d50310a/mzl.clmeflyd.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/09/83/ed/0983ed5f-ae80-3eae-4552-fe80eb65a683/mzl.yihauzko.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/39/00/ea390030-04b0-71f4-621d-e29d9b526320/mzl.xueonhhk.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[比手划脚 - 你说我猜合家欢聚会神器]]></title>
@@ -1524,46 +1589,5 @@ FocusDots是一个简单的时间管理应用，包含四个简单的步骤：
 
 感谢您选择FocusDots！我们由衷感谢您的支持，希望我们的应用能帮助您提高生产力和时间管理技巧。如果您有任何反馈或建议，我们非常乐意听取！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0a/39/ea/0a39eafd-421b-223e-825e-9d6b81b50668/c6a8bebd-3ae0-492e-accf-41f05e480f90_0__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/7c/b3/177cb366-ab59-6412-7647-28fb5d5d8933/e324b6e6-e9c0-4cb8-9055-ee4a7bee2049_1__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/81/81/7d818112-847b-9586-0d36-b46f33744d5a/4e390f07-7a39-4ddd-9ba4-1f1b4ae8dc44_2__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/a1/5e/4aa15e13-29a0-383c-1338-96dde7397087/ebd86c06-286a-4ffa-bcbe-c57433703236_3__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d6/02/7b/d6027bcd-638b-91a6-662b-ff1ce19bf5a9/cb08a10b-200a-4f9d-8ddd-a85641f14164_4__U2013_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/94/cb/bd/94cbbd7a-c188-b069-3eac-ee57f83b43a3/eb145635-6e64-4a5a-a152-d3088b7cdb77_5__U2013_1.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/de/a5/71/dea57135-90b8-4727-4d72-19360022855d/8992dc54-397b-4ecc-9e03-922d19608ff5_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/da/ba/21/daba21fc-ab50-8cbe-41e5-f0ff6c5e807b/fc7d9f7e-5e40-4747-bea5-74c59e2a10d9_2.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梁的挠度]]></title>
-        <id>梁的挠度-cn-1756221179748</id>
-        <link href="https://apps.apple.com/cn/app/%E6%A2%81%E7%9A%84%E6%8C%A0%E5%BA%A6/id670400597?uo=4"/>
-        <updated>2025-08-26T15:12:59.748Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%A2%81%E7%9A%84%E6%8C%A0%E5%BA%A6/id670400597?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ca/0b/63ca0b9f-d0f0-41b2-e454-3186c4e2691d/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[免费 ~ ¥98.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥8.00</b>
-</p><h2>应用描述</h2><p>
-  梁的挠度是一个功能强大且多功能的计算器，适用于梁、二维桁架和二维框架。界面简洁直观，图形输出采用最先进技术。除了反力、剪切、弯矩和挠度结果外，梁的挠度还能计算横截面和梁沿线的内部剪切和弯曲应力。
-
-二维框架和桁架编辑器
-
-二维编辑器与梁编辑器无缝集成。绘制任意框架和桁架结构，并使用与梁相同的简单界面应用载荷和约束。您可以直接在二维编辑器中可视化结果，或选择一个梁以获取更多见解。
-
-内部应力
-
-获取内部弯曲和剪切应力图，除了剪切、弯矩和挠度图。可以沿着梁的长度以及横截面的垂直轴线可视化内部应力。
-
-横截面编辑器
-
-编辑内置的横截面。惯性矩和面积值会自动计算并应用到其余的梁计算中。
-
-更多功能
-
-• 内置数据库包含更多数据供您参考和方便使用。
-• 可选应用梁自重
-• 无限设计文件
-• 快速启动模板
-
-联系我们
-
-我们期待您的反馈！如果您有任何问题、疑问或评论，请发送电子邮件至contact@ketchep.com。
-</p>]]></content>
     </entry>
 </feed>
