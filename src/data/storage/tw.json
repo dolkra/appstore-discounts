@@ -126454,6 +126454,14 @@
     "history": [
       [
         {
+          "timestamp": 1756444321825,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Diamonds": "$120.00"
+          }
+        },
+        {
           "timestamp": 1756438220702,
           "price": 0,
           "formattedPrice": "免費",
@@ -126468,6 +126476,27 @@
           "inAppPurchases": {
             "Diamonds": "$120.00"
           }
+        }
+      ]
+    ]
+  },
+  "6749845582": {
+    "name": "NPD知识普及",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756444321825,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
         }
       ]
     ]

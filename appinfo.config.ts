@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6749845582,
+    name: {
+      mo: 'NPD知识普及',
+    },
+    addType: 'auto',
+  },
+  {
     id: 314306777,
     name: {
       mo: '慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02',
