@@ -303,7 +303,7 @@
 |1032|1123652342|自动|❌|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|Jurassic GO - Dinosaur Snap Adventures|Jurassic GO - Dinosaur Snap Adventures|
 |1031|6742740688|自动|无声冲突|❌|❌|❌|❌|❌|
 |1030|1369253556|自动|长时间曝光|長時間曝光|長時間曝光|長時間曝光|Light | Long Exposure|Light | Long Exposure|
-|1029|6449251957|自动|❌|Motorsport Manager 4|Motorsport Manager 4|Motorsport Manager 4|Motorsport Manager 4|Motorsport Manager 4|
+|1029| ~~6449251957~~ |自动| ~~❌~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ |
 |1028|968820626|自动|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|
 |1027|1065791514|自动|❌|開羅拉麵店|開羅拉麵店|開羅拉麵店|The Ramen Sensei|The Ramen Sensei|
 |1026|1114127463|自动|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|
@@ -1144,7 +1144,7 @@
 |191|6449748961|手动|❌|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|
 |190|6499559693|手动|iStat Menus 7|iStat Menus 7|iStat Menus 7|iStat Menus 7|iStat Menus 7|iStat Menus 7|
 |189|6475002485|手动|❌|Reeder.|Reeder.|Reeder.|Reeder.|Reeder.|
-|188|1198176727|手动|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|
+|188| ~~1198176727~~ |手动| ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ |
 |187|904280696|手动|Things 3|Things 3|Things 3|Things 3|Things 3|Things 3|
 |186|1055511498|手动|Day One Journal|Day One Journal|Day One Journal|Day One Journal|Day One|Day One|
 |185|1208145167|手动|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|Picsew - Scrollshot & Collage|

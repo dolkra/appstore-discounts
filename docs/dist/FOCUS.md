@@ -303,7 +303,7 @@ So far, we've covered `6` `Countries or Regions` and  `1327` `Apps` <br />Push n
 |1032|1123652342|Automatic|❌|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|侏羅紀GO - 恐龍抓拍歷險 - 發現並且抓拍可愛、有趣的恐龍|Jurassic GO - Dinosaur Snap Adventures|Jurassic GO - Dinosaur Snap Adventures|
 |1031|6742740688|Automatic|无声冲突|❌|❌|❌|❌|❌|
 |1030|1369253556|Automatic|长时间曝光|長時間曝光|長時間曝光|長時間曝光|Light | Long Exposure|Light | Long Exposure|
-|1029|6449251957|Automatic|❌|Motorsport Manager 4|Motorsport Manager 4|Motorsport Manager 4|Motorsport Manager 4|Motorsport Manager 4|
+|1029| ~~6449251957~~ |Automatic| ~~❌~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ | ~~Motorsport Manager 4~~ |
 |1028|968820626|Automatic|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|Watch Tuner Lite|
 |1027|1065791514|Automatic|❌|開羅拉麵店|開羅拉麵店|開羅拉麵店|The Ramen Sensei|The Ramen Sensei|
 |1026|1114127463|Automatic|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|
@@ -1144,7 +1144,7 @@ So far, we've covered `6` `Countries or Regions` and  `1327` `Apps` <br />Push n
 |191|6449748961|Manual|❌|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|DEATH STRANDING DIRECTOR'S CUT|
 |190|6499559693|Manual|iStat Menus 7|iStat Menus 7|iStat Menus 7|iStat Menus 7|iStat Menus 7|iStat Menus 7|
 |189|6475002485|Manual|❌|Reeder.|Reeder.|Reeder.|Reeder.|Reeder.|
-|188|1198176727|Manual|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|Controller for HomeKit|
+|188| ~~1198176727~~ |Manual| ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ |
 |187|904280696|Manual|Things 3|Things 3|Things 3|Things 3|Things 3|Things 3|
 |186|1055511498|Manual|Day One Journal|Day One Journal|Day One Journal|Day One Journal|Day One|Day One|
 |185|1208145167|Manual|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|Picsew - Scrollshot & Collage|
