@@ -56800,10 +56800,18 @@
       "formattedPrice": "HK$ 8.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 2,
+      "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756438220702,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -121912,12 +121920,20 @@
       "Diamonds": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Diamonds": "HK$ 32.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1756438220702,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "HK$ 32.00"
+          }
+        },
         {
           "timestamp": 1756415470383,
           "price": 2,

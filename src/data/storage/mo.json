@@ -16614,6 +16614,25 @@
     "history": [
       [
         {
+          "timestamp": 1756438220702,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "USD 0.99",
+            "SLS 2022: Jacksonville": "USD 0.99",
+            "SLS 2021: World Championship": "USD 0.99",
+            "SLS 2019: Sao Paulo": "USD 0.99",
+            "SLS 2019: London": "USD 0.99",
+            "Sandbox 1 Year": "USD 24.99",
+            "Sandbox 3 Months": "USD 9.99",
+            "Sandbox Monthly": "USD 4.99",
+            "SLS 2018: World Championship": "USD 0.99",
+            "Mountain of Bolts": "USD 99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755249235896,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -36078,7 +36097,8 @@
       "Heroes and Skins Complete 2024": "USD 24.99",
       "Desperado Unlock Pack": "USD 7.99",
       "英雄包": "USD 4.99",
-      "Fast Track Pack": "USD 8.99"
+      "Fast Track Pack": "USD 8.99",
+      "Powers Pro Launch Pack": "USD 8.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -36098,14 +36118,33 @@
       "She-Ra Sword Booster Sale": "USD 1.99",
       "She-Ra Sword Power Booster": "USD 3.99",
       "She-Ra Prestige Pack": "USD 12.99",
-      "Battle Cat Booster Pack": "USD 3.99",
+      "Battle Cat Booster Pack": "USD 1.99",
       "Battle Cat Prestige Pack": "USD 3.99",
       "Heroes and Skins Complete 2024": "USD 24.99",
       "Desperado Unlock Pack": "USD 7.99",
       "英雄包": "USD 4.99",
-      "Fast Track Pack": "USD 8.99"
+      "Fast Track Pack": "USD 8.99",
+      "Powers Pro Launch Pack": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756438220702,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Powers Pro Launch Pack": "USD 8.99",
+            "Desperado Unlock Pack": "USD 7.99",
+            "She-Ra Prestige Pack Sale": "USD 6.99",
+            "She-Ra Sword Booster Sale": "USD 1.99",
+            "She-Ra Sword Power Booster": "USD 3.99",
+            "She-Ra Prestige Pack": "USD 12.99",
+            "Battle Cat Booster Pack": "USD 1.99",
+            "Battle Cat Prestige Pack": "USD 3.99",
+            "Rogue Legends": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756224893468,
@@ -39020,6 +39059,25 @@
       "地獄石500個": "USD 41.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756438220702,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "屬性經驗值增加": "USD 8.99",
+            "重生經驗值增加": "USD 8.99",
+            "重生禮包": "USD 41.99",
+            "寶石12000個": "USD 84.99",
+            "重生石50000個": "USD 84.99",
+            "屬性禮包": "USD 15.99",
+            "地獄石250個": "USD 41.99",
+            "地獄石120個": "USD 24.99",
+            "地獄石30個": "USD 8.99",
+            "地獄石500個": "USD 41.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753715697409,
@@ -44457,10 +44515,18 @@
       "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756438220702,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,

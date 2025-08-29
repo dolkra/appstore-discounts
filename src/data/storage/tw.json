@@ -34749,6 +34749,23 @@
     "history": [
       [
         {
+          "timestamp": 1756438220702,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Medium Coin Pack": "$60.00",
+            "Small Coin Pack": "$30.00",
+            "Pig": "$30.00",
+            "Dog": "$30.00",
+            "Rooster": "$30.00",
+            "Monkey": "$30.00",
+            "Goat": "$30.00",
+            "Horse": "$30.00"
+          }
+        },
+        {
           "timestamp": 1756422693541,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -58534,10 +58551,18 @@
       "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 10,
+      "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756438220702,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745362938822,
@@ -126405,12 +126430,20 @@
       "Diamonds": "$120.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Diamonds": "$120.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1756438220702,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "$120.00"
+          }
+        },
         {
           "timestamp": 1756415470383,
           "price": 10,
