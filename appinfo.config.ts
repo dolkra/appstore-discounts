@@ -2187,6 +2187,7 @@ export const part1AppConfig: AppConfig[] = [
       mo: 'Motorsport Manager 4',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 968820626,
@@ -8199,6 +8200,7 @@ export const part1AppConfig: AppConfig[] = [
   {
     id: 1198176727,
     name: 'Controller for HomeKit',
+    allowNotification: false,
   },
   {
     id: 904280696,
