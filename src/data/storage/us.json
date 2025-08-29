@@ -109921,7 +109921,7 @@
       "Yearly VIP": "$9.99",
       "Monthly VIP": "$1.49",
       "Lifetime VIP": "$15.99",
-      "Lifetime VIP(Apple TV only)": "$14.99",
+      "Lifetime VIP(Apple TV only)": "$29.99",
       "Lifetime VIP(Mac Only)": "$29.99",
       "Lifetime VIP(iPhone&iPad only)": "$14.99"
     },
@@ -109939,6 +109939,24 @@
       "Lifetime VIP(iPhone&iPad only)": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756505478938,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime VIP": "$15.99",
+            "Monthly VIP": "$1.49",
+            "Yearly VIP": "$9.99",
+            "Lifetime VIP(iPhone&iPad only)": "$14.99",
+            "1 Year": "$9.99",
+            "Lifetime VIP(Apple TV only)": "$29.99",
+            "Lifetime": "$31.99",
+            "1 Month": "$1.49",
+            "Lifetime VIP(Mac Only)": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756347828965,
@@ -124924,6 +124942,25 @@
       "Boeing 737-800": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756505478938,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$3.99",
+            "The Aircraft Bundle": "$17.99",
+            "Global scenery - 12 months": "$12.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Airbus A380": "$1.99",
+            "Global scenery - 3 months": "$6.99",
+            "Boeing 737-900": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756419089220,
