@@ -45859,6 +45859,14 @@
     "history": [
       [
         {
+          "timestamp": 1756595462633,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755472319448,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -55354,6 +55362,20 @@
     "history": [
       [
         {
+          "timestamp": 1756595462633,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
+          "inAppPurchases": {
+            "Dawn of Heroes": "₺179,99",
+            "Feature DLC": "₺179,99",
+            "Art Upgrade Pack": "₺179,99",
+            "Heroes Assemble": "₺179,99",
+            "Treasures Editor": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755299553649,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -62034,6 +62056,18 @@
       "Lifetime Premium": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756595462633,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "300 Altitude Query Times": "₺179,99",
+            "100 Altitude Query Times": "₺129,99",
+            "Lifetime Premium": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753398816267,
@@ -78659,6 +78693,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756595462633,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755126745084,
@@ -102355,14 +102397,22 @@
   "6744710434": {
     "name": "Pocket Games World",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756595462633,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1748581339114,
