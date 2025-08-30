@@ -26936,6 +26936,27 @@
       ]
     ]
   },
+  "657638474": {
+    "name": "Lightbot : Programming Puzzles",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756530647215,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "666508823": {
     "name": "Battleheart Legacy",
     "maxPriceInfo": {
@@ -126936,6 +126957,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756530647215,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "Diamonds": "$220.00"
+          }
+        },
         {
           "timestamp": 1756524228420,
           "price": 0,
