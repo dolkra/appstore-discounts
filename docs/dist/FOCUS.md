@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1336` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1337` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1337|446760220|Automatic|❌|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|
 |1336|1067575393|Automatic|照片橡皮擦 - 去除水印杂物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|Image Eraser - Inpaint & heal|Image Eraser - Inpaint & heal|
 |1335|311768443|Automatic|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
 |1334|453126527|Automatic|德比抽识卡 - 乐谱抽识卡！|德比抽識卡 - 樂譜抽識卡！|德比抽識卡 - 樂譜抽識卡！|德比抽識卡 - 樂譜抽識卡！|Flashnote Derby|Flashnote Derby|
