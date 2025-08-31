@@ -66824,14 +66824,22 @@
   "1411823462": {
     "name": "7Days : Backer",
     "maxPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 2,
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756649386918,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756379410498,
@@ -112883,6 +112891,14 @@
       "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756649386918,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754065038306,
