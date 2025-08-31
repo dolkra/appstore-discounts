@@ -9203,6 +9203,25 @@
     "history": [
       [
         {
+          "timestamp": 1756624247614,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {
+            "Chip-Tune Mobile": "$90.00",
+            "Amped Guitar & Bass": "$90.00",
+            "Acoustic Guitars": "$30.00",
+            "Varazdin Orchestral Mobile": "$120.00",
+            "Tuned 808 Bass": "$30.00",
+            "Voices": "$30.00",
+            "Synth Lead": "$60.00",
+            "Sliced Beats": "$30.00",
+            "Chill-Lo-Fi Mobile": "$60.00",
+            "Groove Machine Synth": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756120273520,
           "price": 490,
           "formattedPrice": "$490.00",
@@ -127369,6 +127388,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756624247614,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1756609287534,
           "price": 0,
