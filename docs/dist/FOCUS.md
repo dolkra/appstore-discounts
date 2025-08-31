@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1334` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1335` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1335|311768443|Automatic|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
 |1334|453126527|Automatic|德比抽识卡 - 乐谱抽识卡！|德比抽識卡 - 樂譜抽識卡！|德比抽識卡 - 樂譜抽識卡！|德比抽識卡 - 樂譜抽識卡！|Flashnote Derby|Flashnote Derby|
 |1333|1236657805|Automatic|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|
 |1332|657638474|Automatic|❌|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|
@@ -13,7 +14,7 @@ So far, we've covered `6` `Countries or Regions` and  `1334` `Apps` <br />Push n
 |1329|1637438059|Automatic|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|
 |1328|6749845582|Automatic|NPD知识普及|NPD知识普及|NPD知识普及|NPD知识普及|NPD知识普及|NPD知识普及|
 |1327|314306777|Automatic|❌|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|Kamasutra Sex Positions Guide|Kamasutra Sex Positions Guide|
-|1326|6749620111|Automatic|❌|石器手機版Go！自由抓捕,寵物養成遊戲|❌|石器手機版Go！自由抓捕,寵物養成遊戲|❌|❌|
+|1326| ~~6749620111~~ |Automatic| ~~❌~~ | ~~石器手機版Go！自由抓捕,寵物養成遊戲~~ | ~~❌~~ | ~~石器手機版Go！自由抓捕,寵物養成遊戲~~ | ~~❌~~ | ~~❌~~ |
 |1325|6746189288|Automatic|❌|不/存在的你，和我|不/存在的你，和我|不/存在的你，和我|The NOexistenceN of you AND me|The NOexistenceN of you AND me|
 |1324|1411823462|Automatic|❌|7Days : Backer|7Days : Backer|7Days : Backer|7Days : Backer|7Days : Backer|
 |1323|1435709869|Automatic|CodeMatch|CodeMatch|CodeMatch|CodeMatch|CodeMatch|CodeMatch|
