@@ -131,6 +131,7 @@ export const latestAppConfig: AppConfig[] = [
       tw: '石器手機版Go！自由抓捕,寵物養成遊戲',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6746189288,
