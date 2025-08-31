@@ -56459,14 +56459,22 @@
   "1411823462": {
     "name": "7Days : Backer",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756681866312,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756379410498,
@@ -95876,6 +95884,14 @@
       "formattedPrice": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756681866312,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754065038306,
