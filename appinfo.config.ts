@@ -6617,6 +6617,7 @@ export const part1AppConfig: AppConfig[] = [
       cn: 'TA - 一对一聊天，遇见对的人',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1237692856,
