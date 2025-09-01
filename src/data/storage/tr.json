@@ -105789,14 +105789,22 @@
   "6749845582": {
     "name": "NPD知识普及",
     "maxPriceInfo": {
-      "price": 129.99,
-      "formattedPrice": "₺129,99"
+      "price": 899.99,
+      "formattedPrice": "₺899,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756733000595,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756444321825,

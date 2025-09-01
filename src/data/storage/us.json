@@ -10922,6 +10922,23 @@
     "history": [
       [
         {
+          "timestamp": 1756733000595,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "$3.99",
+            "Predictive Report - Full": "$3.99",
+            "Relationship Report": "$3.99",
+            "Birthday Report": "$3.99",
+            "Child Report - Full": "$3.99",
+            "Predictive Report - No Background": "$2.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Gold Level Free Trial": "$0.00",
+            "Astrolocality Maps": "$24.99",
+            "Gold Monthly": "$7.99"
+          }
+        },
+        {
           "timestamp": 1756700557051,
           "price": 0,
           "formattedPrice": "Free",
@@ -55570,6 +55587,25 @@
       "2160 Rubies": "$24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756733000595,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Total Package": "$15.99",
+            "Magic Package": "$8.99",
+            "Feature Package": "$3.99",
+            "Awakening Package": "$41.99",
+            "Automatic Package": "$15.99",
+            "Ring Package": "$24.99",
+            "18000 Rebirth Stones": "$41.99",
+            "8400 Rebirth Stones": "$24.99",
+            "2400 Rebirth Stones": "$8.99",
+            "1100 Rebirth Stones": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756408178849,
@@ -139481,14 +139517,22 @@
   "6749845582": {
     "name": "NPD知识普及",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 19.99,
+      "formattedPrice": "$19.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756733000595,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756444321825,
