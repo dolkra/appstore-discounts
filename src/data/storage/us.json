@@ -2161,6 +2161,23 @@
     "history": [
       [
         {
+          "timestamp": 1756743263128,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Harmonic Tuning": "$19.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Extended Frequency Modes": "$4.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Buzz Feiten Pack": "$5.99"
+          }
+        },
+        {
           "timestamp": 1756739522555,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -5436,6 +5453,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756743263128,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        },
         {
           "timestamp": 1756739522555,
           "price": 2.99,
@@ -122018,7 +122052,8 @@
       "Tuxedo Theme": "$0.99",
       "Siamese Theme": "$0.99",
       "City Night Theme": "$0.99",
-      "Calico Theme": "$0.99"
+      "Calico Theme": "$0.99",
+      "Bella": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -122038,9 +122073,29 @@
       "Tuxedo Theme": "$0.99",
       "Siamese Theme": "$0.99",
       "City Night Theme": "$0.99",
-      "Calico Theme": "$0.99"
+      "Calico Theme": "$0.99",
+      "Bella": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756743263128,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Bella": "$0.99",
+            "Monthly": "$1.99",
+            "Yearly": "$11.99",
+            "Lucky": "$0.99",
+            "Grey Theme": "$0.99",
+            "City Night Theme": "$0.99",
+            "Siamese Theme": "$0.99",
+            "Calico Theme": "$0.99",
+            "2025 Spring Forest Theme": "$0.99",
+            "2025 Spring Lawn Theme": "$1.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755059037771,
