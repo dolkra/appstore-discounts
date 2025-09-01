@@ -72847,14 +72847,22 @@
   "1411823462": {
     "name": "7Days : Backer",
     "maxPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "$0.49"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.49,
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756696523576,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756379410498,
@@ -125988,6 +125996,14 @@
       "formattedPrice": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756696523576,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754065038306,
