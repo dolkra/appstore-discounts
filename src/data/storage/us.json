@@ -81219,6 +81219,23 @@
     "history": [
       [
         {
+          "timestamp": 1756815881634,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "$19.99",
+            "Dynasty Pet": "$14.99",
+            "Ultimate Amulet": "$5.99",
+            "Ultimate Ring": "$5.99",
+            "Ultimate Pet": "$5.99",
+            "Ultimate Ancient": "$12.99",
+            "Royal Rune": "$2.99",
+            "Norths Warden Pet Pack": "$14.99",
+            "Norths Warden Set": "$19.99",
+            "Black Friday Combo Items": "$29.99"
+          }
+        },
+        {
           "timestamp": 1756786493184,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -140114,8 +140131,8 @@
   "6749845582": {
     "name": "NPD知识普及",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "$19.99"
+      "price": 29.99,
+      "formattedPrice": "$29.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -140123,6 +140140,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756815881634,
+          "price": 29.99,
+          "formattedPrice": "$29.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1756797144767,
           "price": 0.99,
