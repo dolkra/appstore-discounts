@@ -12438,7 +12438,9 @@
       "DubTechno": "$1.99",
       "Technocraft": "$1.99",
       "Brazil Bass": "$1.99",
-      "PsyTrance": "$2.99"
+      "PsyTrance": "$2.99",
+      "Drumaxx": "$1.99",
+      "SFX": "$0.00"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -12462,9 +12464,30 @@
       "DubTechno": "$1.99",
       "Technocraft": "$1.99",
       "Brazil Bass": "$1.99",
-      "PsyTrance": "$2.99"
+      "PsyTrance": "$2.99",
+      "Drumaxx": "$1.99",
+      "SFX": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756825985899,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Drumaxx": "$1.99",
+            "Sliced Beats": "$0.99",
+            "SFX": "$0.00",
+            "Amped Guitar & Bass": "$2.99",
+            "Synth Lead": "$1.99",
+            "Transistor Bass": "$0.00",
+            "Groove Machine Synth": "$0.00",
+            "Voices": "$0.99",
+            "Acoustic Guitars": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756559856068,
@@ -51330,6 +51353,25 @@
     "history": [
       [
         {
+          "timestamp": 1756825985899,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "宝石通行证": "$14.99",
+            "休假证明": "$14.99",
+            "小憩十次": "$3.99",
+            "新春灯笼": "$14.99",
+            "购买十次": "$3.99",
+            "狂欢十次": "$3.99",
+            "圣诞派对": "$14.99",
+            "黄金通行证": "$14.99",
+            "劳动勋章": "$14.99",
+            "劳动十次": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755264340946,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -55267,6 +55309,25 @@
       "Touring HD Textures": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756825985899,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "HD Textures": "$0.00",
+            "Party Mode HD Textures": "$0.00",
+            "Street HD Textures": "$0.00",
+            "Tuner HD Textures": "$0.00",
+            "Open Wheel HD Textures": "$0.00",
+            "Endurance HD Textures": "$0.00",
+            "Touring HD Textures": "$0.00",
+            "All DLC": "$0.00",
+            "Black Edition Pack": "$0.00",
+            "Best of British Pack": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756480236686,
