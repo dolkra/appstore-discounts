@@ -10994,6 +10994,23 @@
     "history": [
       [
         {
+          "timestamp": 1756811429221,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "$3.99",
+            "Predictive Report - Full": "$3.99",
+            "Relationship Report": "$3.99",
+            "Birthday Report": "$3.99",
+            "Child Report - Full": "$3.99",
+            "Predictive Report - No Background": "$2.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Gold Level Free Trial": "$0.00",
+            "Astrolocality Maps": "$24.99",
+            "Gold Monthly": "$7.99"
+          }
+        },
+        {
           "timestamp": 1756808005896,
           "price": 0,
           "formattedPrice": "Free",
@@ -140126,6 +140143,27 @@
           "timestamp": 1756444321825,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6469603539": {
+    "name": "All of You",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756811429221,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
           "inAppPurchases": {}
         }
       ]

@@ -35490,6 +35490,23 @@
     "history": [
       [
         {
+          "timestamp": 1756811429221,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Unlock all stages": "$30.00",
+            "Atom": "$30.00",
+            "Small Coin Pack": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Tiger": "$30.00",
+            "Dragon": "$30.00",
+            "Snake": "$30.00",
+            "Pig": "$30.00",
+            "Rabbit": "$30.00"
+          }
+        },
+        {
           "timestamp": 1756808005896,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -51209,6 +51226,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756811429221,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "一筆鑽石": "$150.00",
+            "1代套裝(3星)": "$60.00",
+            "僱傭超能少年": "$60.00",
+            "一小袋鑽石": "$320.00",
+            "促銷禮包3": "$290.00",
+            "雙倍獎勵": "$60.00",
+            "100鑽石": "$30.00",
+            "雙倍背包": "$60.00",
+            "促銷禮包2": "$150.00",
+            "一大袋鑽石": "$690.00"
+          }
+        },
         {
           "timestamp": 1756808005896,
           "price": 10,
@@ -128741,6 +128775,27 @@
           "timestamp": 1756476705248,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6469603539": {
+    "name": "All of You",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756811429221,
+          "price": 120,
+          "formattedPrice": "$120.00",
           "inAppPurchases": {}
         }
       ]
