@@ -58256,6 +58256,25 @@
     "history": [
       [
         {
+          "timestamp": 1756819459834,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Design Frame Package": "$30.00",
+            "Social Frame Package": "$30.00",
+            "Magazine Frame Package": "$30.00",
+            "Black Frame Pack": "$30.00",
+            "Geometric Frame Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Retro Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Upgrade Deluxe Edition": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755033129507,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -59660,6 +59679,25 @@
       "Blend": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756819459834,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Rate": "$0.00",
+            "Info": "$0.00",
+            "Tuner": "$0.00",
+            "Chromakey": "$0.00",
+            "Unlock All": "$290.00",
+            "Paint": "$0.00",
+            "Erase": "$30.00",
+            "Blend": "$30.00",
+            "Distortion": "$0.00",
+            "Magnifier": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756332670864,
@@ -122588,6 +122626,22 @@
     "history": [
       [
         {
+          "timestamp": 1756819459834,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "49.99美元商品": "$1,490.00",
+            "12.99美元商品": "$390.00",
+            "12.99美元商品2": "$390.00",
+            "0.99美元商品": "$30.00",
+            "19.99美元商品": "$690.00",
+            "14.99美元商品": "$490.00",
+            "8.99美元商品": "$290.00",
+            "3.99美元商品": "$120.00"
+          }
+        },
+        {
           "timestamp": 1756797144767,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -128725,8 +128779,8 @@
   "6749845582": {
     "name": "NPD知识普及",
     "maxPriceInfo": {
-      "price": 690,
-      "formattedPrice": "$690.00"
+      "price": 990,
+      "formattedPrice": "$990.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -128734,6 +128788,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756819459834,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1756797144767,
           "price": 30,

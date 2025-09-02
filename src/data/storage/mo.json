@@ -20409,6 +20409,23 @@
     "history": [
       [
         {
+          "timestamp": 1756819459834,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Just For Kids": "USD 0.00",
+            "Mix It Up": "USD 0.00",
+            "Happy Holidays": "USD 1.99",
+            "Build Your Own Deck": "USD 2.99",
+            "Super Heroes": "USD 1.99",
+            "The Ellen Show": "USD 0.00",
+            "Panda Express": "USD 1.99",
+            "Ocean Vacation": "USD 0.00",
+            "Express Yourself": "USD 1.99",
+            "Adult Supervision": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1756815881634,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -35650,6 +35667,25 @@
       "猫女特权": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756819459834,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "猫女特权": "USD 3.99",
+            "闯关基金XII": "USD 49.99",
+            "至尊闯关基金XII": "USD 99.99",
+            "1元首充礼包": "USD 0.99",
+            "王者礼包": "USD 29.99",
+            "黄金礼包": "USD 9.99",
+            "铂金礼包": "USD 14.99",
+            "钻石礼包": "USD 19.99",
+            "白银礼包": "USD 3.99",
+            "黑铁礼包": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756725025853,
@@ -88031,8 +88067,8 @@
   "6749845582": {
     "name": "NPD知识普及",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "USD 19.99"
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -88040,6 +88076,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1756819459834,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1756797144767,
           "price": 0.99,
