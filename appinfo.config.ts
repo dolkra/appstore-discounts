@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 402405770,
+    name: {
+      mo: 'Massive Dev Chart Timer',
+    },
+    addType: 'auto',
+  },
+  {
     id: 445270462,
     name: {
       mo: '紫微斗數排盤',
