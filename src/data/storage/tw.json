@@ -77979,14 +77979,22 @@
   "1473749002": {
     "name": "Vergi Akademisi Pro",
     "maxPriceInfo": {
-      "price": 390,
-      "formattedPrice": "$390.00"
+      "price": 690,
+      "formattedPrice": "$690.00"
     },
     "minPriceInfo": {
       "price": 390,
       "formattedPrice": "$390.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756998730429,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745604174662,

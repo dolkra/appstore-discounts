@@ -23110,6 +23110,23 @@
     "history": [
       [
         {
+          "timestamp": 1756998730429,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "问财专业版连续包月": "¥168.00",
+            "问财进阶版连续包月": "¥68.00",
+            "598花币": "¥598.00",
+            "299花币": "¥299.00",
+            "早盘选股宝连续包月": "¥268.00",
+            "机构探测器连续包月": "¥118.00",
+            "金牛情报连续包月": "¥73.00",
+            "分时顶底连续包季": "¥128.00",
+            "波段雷达连续包季": "¥288.00",
+            "主力密码连续包月": "¥118.00"
+          }
+        },
+        {
           "timestamp": 1756952141276,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -58305,14 +58322,22 @@
   "1473749002": {
     "name": "Vergi Akademisi Pro",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "¥88.00"
+      "price": 148,
+      "formattedPrice": "¥148.00"
     },
     "minPriceInfo": {
       "price": 88,
       "formattedPrice": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756998730429,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745604174662,
