@@ -12604,6 +12604,25 @@
     "history": [
       [
         {
+          "timestamp": 1756962718886,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "$0.99",
+            "Varazdin Orchestral Mobile": "$3.99",
+            "Synth Lead": "$1.99",
+            "Amped Guitar & Bass": "$2.99",
+            "Voices": "$0.99",
+            "Sliced Beats": "$0.99",
+            "Acoustic Guitars": "$0.99",
+            "Synth Plucks": "$1.99",
+            "Groove Machine Synth": "$0.00",
+            "Transistor Bass": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756829680598,
           "price": 14.99,
           "formattedPrice": "$14.99",
@@ -24794,6 +24813,25 @@
       "45.000 coins": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756962718886,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "85,000 Coins": "$14.99",
+            "55,000 Coins": "$9.99",
+            "25,000 Coins": "$4.99",
+            "15,000 Coins": "$2.99",
+            "10,000 Coins": "$1.99",
+            "5,000 Coins": "$0.99",
+            "120.000 coins": "$49.99",
+            "45.000 coins": "$19.99",
+            "22.000 coins": "$9.99",
+            "10.000 coins": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756434256077,
@@ -38834,6 +38872,25 @@
       "Lonely Mountain Add-on": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756962718886,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Grottoes Add-on": "$0.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Temples of 4 Elements Add-on": "$3.99",
+            "Heart of Evil Add-on": "$6.99",
+            "Wonderwood Add-on": "$8.99",
+            "Lonely Mountain Add-on": "$6.99",
+            "Invasion Add-on": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756494550900,
@@ -141513,6 +141570,27 @@
           "timestamp": 1756811429221,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748683190": {
+    "name": "Eco Power Towns",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1756962718886,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

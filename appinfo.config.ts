@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6748683190,
+    name: {
+      mo: 'Eco Power Towns （生態小鎮電力計畫）',
+    },
+    addType: 'auto',
+  },
+  {
     id: 351058026,
     name: {
       mo: '通勝 300年版',
