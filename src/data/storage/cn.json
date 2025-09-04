@@ -23110,6 +23110,25 @@
     "history": [
       [
         {
+          "timestamp": 1757002500366,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "¥8.00",
+            "金牛会员连续包月": "¥6.00",
+            "手机超级Level-2连续包半年": "¥48.00",
+            "手机高级诊股连续包月": "¥8.00",
+            "手机Level-2包年服务": "¥88.00",
+            "金牛会员尊享版连续包年": "¥98.00",
+            "金牛会员月版": "¥18.00",
+            "手机超级Level2两年版": "¥158.00",
+            "主力密码连续包月": "¥118.00",
+            "短线宝连续包月": "¥138.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756998730429,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -24738,14 +24757,22 @@
   "1009747025": {
     "name": "zFuse - 影音播放器",
     "maxPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757002500366,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755069284891,
