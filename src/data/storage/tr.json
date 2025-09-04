@@ -64049,14 +64049,22 @@
   "1473749002": {
     "name": "Vergi Akademisi Pro",
     "maxPriceInfo": {
-      "price": 599.99,
-      "formattedPrice": "₺599,99"
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
     },
     "minPriceInfo": {
       "price": 599.99,
       "formattedPrice": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756995113504,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745604174662,

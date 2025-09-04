@@ -85602,14 +85602,22 @@
   "1473749002": {
     "name": "Vergi Akademisi Pro",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "$12.99"
+      "price": 19.99,
+      "formattedPrice": "$19.99"
     },
     "minPriceInfo": {
       "price": 12.99,
       "formattedPrice": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1756995113504,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745604174662,
