@@ -11170,6 +11170,25 @@
     "history": [
       [
         {
+          "timestamp": 1757081481119,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Called Shot 50": "$320.00",
+            "Called Shot 4": "$30.00",
+            "GOLD BAT": "$490.00",
+            "AllLevel_5up": "$320.00",
+            "AllLevel_1up": "$90.00",
+            "EyeLevel_5up": "$120.00",
+            "EyeLevel_1up": "$30.00",
+            "ContactLevel_5up": "$120.00",
+            "ContactLevel_1up": "$30.00",
+            "PowerLevel_5up": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756293039323,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -22968,6 +22987,27 @@
       ]
     ]
   },
+  "571863178": {
+    "name": "AudioStretch",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "575154654": {
     "name": "Pou",
     "maxPriceInfo": {
@@ -28308,8 +28348,8 @@
       "VII Bundle 01": "$90.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Rayark Selection Vol.2": "$120.00",
       "V.K Collection": "$120.00",
       "被遺忘的沙漏": "$320.00",
@@ -28334,6 +28374,25 @@
       "VII Bundle 01": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "$120.00",
+            "Ayatsugu_Otowa Collection": "$120.00",
+            "Sherwin Collection": "$120.00",
+            "Capchii Collection": "$120.00",
+            "VII Bundle 06": "$390.00",
+            "VII Bundle 05": "$390.00",
+            "VII Bundle 03": "$220.00",
+            "VII Bundle 02": "$150.00",
+            "VII Bundle 04": "$290.00",
+            "VII Bundle 01": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756041611159,
@@ -32906,10 +32965,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -57483,14 +57550,14 @@
       "price": 0,
       "formattedPrice": "免費",
       "Miku": "$320.00",
-      "CAPSO": "$320.00",
+      "CAPSO": "$150.00",
       "ConneR": "$320.00",
       "Xenon": "$320.00",
       "9 Characters": "$1,190.00",
       "Cherry": "$320.00",
-      "Kizuna AI": "$320.00",
+      "Kizuna AI": "$150.00",
       "Battle CHAOS 2019": "$60.00",
-      "Alice": "$320.00",
+      "Alice": "$150.00",
       "Neko": "$320.00",
       "maimai DX+": "$60.00",
       "JOE": "$320.00",
@@ -57508,6 +57575,25 @@
       "AD:HOUSE Selection": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "$320.00",
+            "CAPSO": "$150.00",
+            "ConneR": "$320.00",
+            "Xenon": "$320.00",
+            "9 Characters": "$1,190.00",
+            "Cherry": "$320.00",
+            "Kizuna AI": "$150.00",
+            "Battle CHAOS 2019": "$150.00",
+            "Alice": "$150.00",
+            "Neko": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756952141276,
@@ -76378,6 +76464,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756750597530,
@@ -129453,11 +129547,21 @@
       "art of rally: australia dlc": "$60.00"
     },
     "minPriceInfo": {
-      "price": 290,
-      "formattedPrice": "$290.00",
+      "price": 120,
+      "formattedPrice": "$120.00",
       "art of rally: australia dlc": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754604817740,

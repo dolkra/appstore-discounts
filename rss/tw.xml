@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-09-03T23:34:21.212Z</updated>
+    <updated>2025-09-05T14:35:15.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-09-03T23:34:21.212Z</updated>
+        <updated>2025-09-05T14:35:15.600Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwWed, 03 Sep 2025 23:34:21 GMT</id>
+        <id>rankingtwFri, 05 Sep 2025 14:35:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-09-03T23:34:21.212Z</updated>
+        <updated>2025-09-05T14:35:15.600Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -51,13 +51,13 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1343</b>
+        <b>1348</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1142</b>
+        <b>1147</b>
       </td>
       <td>
         <b>56</b>
@@ -68,13 +68,13 @@ feedId:157008546980077568+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>1253</b>
+        <b>1258</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>1076</b>
+        <b>1081</b>
       </td>
       <td>
         <b>50</b>
@@ -93,6 +93,40 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id700637744">DEEMO</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id870322730">Implosion 聚爆</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1055511498">Day One Journal</a>
@@ -115,7 +149,34 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id1290687550">Cytus II</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>CAPSO</i>：<b>1</b>
+              </li><li>
+                <i>Kizuna AI</i>：<b>1</b>
+              </li><li>
+                <i>Alice</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1447509164">Freya • Surge Timer</a>
@@ -132,7 +193,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1453318714">Vostok — 创建美丽快拍页面</a>
@@ -149,7 +210,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1453820315">This Is the Police 2</a>
@@ -166,7 +227,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1519571900">Luwian</a>
@@ -183,7 +244,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1571643809">地城謎蹤</a>
@@ -200,10 +261,27 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6749845582">NPD知识普及</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id6459581344">Art of Rally</a>
       </td>
       <td>
         <ul>
@@ -679,6 +757,245 @@ feedId:157008546980077568+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Art of Rally]]></title>
+        <id>Art of Rally-tw-1757081481119</id>
+        <link href="https://apps.apple.com/tw/app/art-of-rally/id6459581344?uo=4"/>
+        <updated>2025-09-05T14:11:21.119Z</updated>
+        <summary type="html"><![CDATA[价格: $290.00 → $120.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/art-of-rally/id6459581344?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/a3/f2/e3a3f2c8-44df-9a02-9235-8e191847dda6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$290.00</span> → <b>
+  <strong>$120.00</strong>
+</b><span>[$120.00 ~ $290.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>$120.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    art of rally: australia dlc：<b>$60.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Race across the world through colorful and stylized environments in top-down view.
+Compete for first place in the leaderboards with daily and weekly challenges.
+Will you master the art of rally?
+
+Experience the golden era of rally in Career mode, traveling across 78 stages from Finland to Sardinia, Norway, Japan, Germany, Kenya and Indonesia.
+
+Get behind the wheel of your favorite vintage cars, ranging from the 60’s to the 80’s, Group B, Group S and Group A.
+
+From beginner-friendly options to driving modes that’ll challenge the most expert drivers, all players can tackle the races using their favorite rally driving tricks: Scandinavian flick, counter steering, left foot braking, handbrake turns.
+
+Get your name out at the top of the Leaderboard in our daily and weekly challenges.
+
+Show off your driving skills, or simply your favourite landscapes, with the integrated Photo and Replay mode.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/42/50/7d/42507d82-eb55-ac38-dbf4-5bd93810dae7/b64221d4-e44e-4005-b562-9ba7bebfbed6_Art_of_Rally-Game_Apple5.5-Screenshot1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e3/df/d4/e3dfd451-ab6f-ecc5-5b9d-b3c185c7407e/97cff71f-8787-48df-ad8d-4a424507773a_Art_of_Rally-Game_Apple5.5-Screenshot6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/31/cc/7531cc9b-674b-3891-965d-05d1a311e806/5699d356-1ac3-40ec-80c9-52d6a4564c59_Art_of_Rally-Game_Apple5.5-Screenshot3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0d/9f/4b/0d9f4b0a-8d64-1535-9f80-7c1f7aca78d2/4d111b0d-a216-46af-b196-83c1115f3e8e_Art_of_Rally-Game_Apple5.5-Screenshot2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/77/54/b2/7754b218-7796-9b62-89e8-42a1d034a8e8/9f40f264-3097-445a-83ba-74c3fe6dabb3_Art_of_Rally-Game_Apple5.5-Screenshot7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/61/e1/c261e1ae-96e7-8ac5-1dfc-2442017b04aa/9031525b-bfaf-404b-8962-ceb048fb7f2b_Art_of_Rally-Game_Apple5.5-Screenshot4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/83/68/7a/83687a6e-5956-1b59-0cad-c8d416808812/fa79690a-e151-4c3a-b3ed-e52fcf888ee7_Art_of_Rally-Game_Apple5.5-Screenshot8.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/00/e6/d6/00e6d6e4-a98f-295a-f7ec-0e8d663312f6/554e1941-9a10-418c-a2ce-79e543c851ec_Art_of_Rally-Game_Apple5.5-Screenshot9.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/90/08/86/90088628-9822-729d-4afe-728c13490e92/cc63c1e8-7e66-43b8-8249-a83c1dd17ddc_Art_of_Rally-Game_Apple5.5-Screenshot5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/37/10/51371067-3442-0ded-c68f-fab344251894/536fed54-26d9-43bd-a0b6-3f242b993194_Art_of_Rally-Game_AppleiPad-Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0f/1d/e1/0f1de12f-bcd8-6051-3f96-e25b256d0166/6e5666e4-3730-45cd-9835-4052b1076286_Art_of_Rally-Game_AppleiPad-Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/9a/cb/4a9acb64-3cae-6d05-c5f9-a39711cf512f/025b04c3-bb18-4286-b5a8-35abe0c3c338_Art_of_Rally-Game_AppleiPad-Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/65/65/44/656544e1-cb82-a3d3-6840-61d25799daf6/7f9e828a-4038-4c4a-8e7e-a6a77d2c448a_Art_of_Rally-Game_AppleiPad-Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/96/64/69/966469bf-25a5-df81-d4a0-2b76ab19a706/f4352e1e-16f0-4599-9a38-a53fec5dddc6_Art_of_Rally-Game_AppleiPad-Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/56/05/18/56051856-c81f-1567-4d03-0359c3388ca2/0db67cbe-aa01-478a-aaa6-c3399b7980da_Art_of_Rally-Game_AppleiPad-Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/58/8b/7b588b8d-eed8-ec3b-6aeb-8fcc23ed3ffb/8939b4ce-2015-404c-8aef-c4852a997c86_Art_of_Rally-Game_AppleiPad-Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e3/4f/a7/e34fa721-eec6-09fb-01aa-35009271426a/35437aab-748f-4222-a36e-5f0757926402_Art_of_Rally-Game_AppleiPad-Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/25/cf/eb25cf25-f1d5-8704-93cf-b9ab32a55607/ee4772a1-50b4-4407-b88d-08540883f972_Art_of_Rally-Game_AppleiPad-Screenshot5.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEEMO]]></title>
+        <id>DEEMO-tw-1757081481119</id>
+        <link href="https://apps.apple.com/tw/app/deemo/id700637744?uo=4"/>
+        <updated>2025-09-05T14:11:21.119Z</updated>
+        <summary type="html"><![CDATA[价格: $60.00 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/deemo/id700637744?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/f5/71/9ef5716c-d5ae-3cbb-2d85-9cbe57b09559/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$60.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $60.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Rayark 12th Collection：<b>$120.00</b>
+  </li><li>
+    Ayatsugu_Otowa Collection：<b>$120.00</b>
+  </li><li>
+    Sherwin Collection：<b>$120.00</b>
+  </li><li>
+    Capchii Collection：<b>$120.00</b>
+  </li><li>
+    VII Bundle 06：<b>$390.00</b>
+  </li><li>
+    VII Bundle 05：<b>$390.00</b>
+  </li><li>
+    VII Bundle 03：<b>$220.00</b>
+  </li><li>
+    VII Bundle 02：<b>$150.00</b>
+  </li><li>
+    VII Bundle 04：<b>$290.00</b>
+  </li><li>
+    VII Bundle 01：<b>$90.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  "轉身離開之前，別忘了說最後一次再見"
+感動全球千萬人的手機音樂遊戲，
+人氣音樂遊戲 Cytus 製作團隊感動鉅獻，
+雷亞遊戲原班人馬打造新質感鋼琴演奏遊戲 "DEEMO"
+
+
+從天而降，遺失了過去的少女
+孤獨在樹屋世界裡演奏 Piano 的 Deemo
+兩人意外的邂逅。
+指尖下敲響的琴弦之音，
+推開了童話旅程的序幕...
+
+
+遊戲特色：
+- 故事曲含免費 歌曲 高達60首，總共收錄超過220首歌曲。
+- 隨著遊戲進程解開更多音樂與歌曲，發掘最動人的故事體驗
+- 陪著 Deemo 徜徉在現代童話般的美麗劇情中
+- 網羅全世界的原創樂師，帶來各種不同風格的鋼琴原創歌曲
+- 經典直覺的遊戲系統，體驗最初音樂帶來的純粹感動
+- 透過點擊(tap)與滑動(slide)，跟著節拍演奏出曲曲動人的音樂
+- 探索場景，拼湊出劇情線索、獲得遊戲中的隱藏要素
+- 單機遊戲，遊戲過程不用網路即可遊玩
+- Twitter、Facebook 分享分數功能，可至 Youtube 觀看更多官方影片。
+
+-----------------------------------------
+※ 本遊戲依中華民國遊戲軟體分級管理辦法分類為 : 保護級。
+※ 本遊戲內另提供付費購買項目，請依個人興趣、能力進行購買，請勿過度消費
+※ 請注意遊戲時間，避免沉迷。
+※ 請勿利用本遊戲進行賭博或其他違反法令行為
+※ 無行為能力人及限制行為能力人必須於法定代理人閱讀、瞭解並同意「雷亞遊戲使用者服務條款」及「雷亞遊戲個人資料暨隱私政策條款」之所有內容後，方得使用本遊戲服務。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d1/96/16/d1961608-ab11-ae72-0df8-16d27d3178f5/5e0034fe-fa44-428e-80f3-11936b810dfa_IMG_2438.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/23/ef/c1/23efc1d2-288a-e998-03d8-061a899543d8/c044ac61-0c7f-4d0f-8f09-5bd274790ca0_alice_cover__U62f7_U8c9d.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6a/ff/bf/6affbf82-add2-590d-3d8a-b88ef4d50c31/cbc7e3b8-8ec8-42a9-8e73-d01904cc686d_deemo_cover__U62f7_U8c9d.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/3c/34/543c3486-9bce-29e3-7f06-f5ed1dadc02e/bb35b48e-9bef-4c36-b672-2cc9b1312643_IMG_2469__U62f7_U8c9d.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/82/e3/77/82e37785-feb7-58cf-4714-e7236172d7c8/06de6723-755d-40f6-a653-741d3a2231e8_IMG_2464__U62f7_U8c9d.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/77/57/e0775750-b483-b242-5c89-cbea455a9db9/65c2a968-df6f-44e8-8aac-85b83d35d638_2208x1242_zh_2__U62f7_U8c9d.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f3/73/27/f3732732-aa04-9cca-167f-add88f3a60d1/2b2a3a8b-ec9b-4a7e-bed5-0cf258a901c7_2208x1242_zh__U62f7_U8c9d.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/2d/b2/442db23d-c4f7-3f6a-5091-1673c288a6da/a22ff310-e643-48e5-bb75-344ddf47a525_IMG_1346.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f3/b2/de/f3b2ded7-16e2-e808-fd2b-10dc6a272fa6/0f4072a3-3240-430e-ad69-70c9abfad7e6_alice_cover__U62f7_U8c9d.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/54/0c/25/540c2559-6a34-10e7-2922-125c0f85a27c/638f213f-e8ee-4709-86f7-2faef1338c43_deemo_cover__U62f7_U8c9d.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/b2/92/22b2928d-775d-c698-fc39-ae0fbe703a0e/9d6e94a8-7f69-4ce0-bb56-07b4e0f685f2_IMG_1385__U62f7_U8c9d.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/a1/33/80a1335a-a5b9-1cef-3d35-9e6c37977077/c4689809-4450-4f1a-ac33-aaa732a16254_IMG_1381__U62f7_U8c9d.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/10/84/28/1084283d-c03a-e08d-b374-075a97004a08/431eb0d5-87ad-4a59-b38e-6eec40846e77_2732x2048_zh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/0e/2b/940e2b7e-b1b5-776b-8371-770b0378825c/bb8ddeb6-5661-4234-962e-51777e016fa5_2732x2048_zh_2.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Implosion 聚爆]]></title>
+        <id>Implosion 聚爆-tw-1757081481119</id>
+        <link href="https://apps.apple.com/tw/app/implosion-%E8%81%9A%E7%88%86/id870322730?uo=4"/>
+        <updated>2025-09-05T14:11:21.119Z</updated>
+        <summary type="html"><![CDATA[价格: $60.00 → $30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/implosion-%E8%81%9A%E7%88%86/id870322730?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/08/c0/b4/08c0b4ef-75f7-8995-2455-6d657376912d/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$60.00</span> → <b>
+  <strong>$30.00</strong>
+</b><span>[$30.00 ~ $60.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>$30.00</b>
+</p><h2>应用描述</h2><p>
+  繼Deemo，Mandora，Cytus後，雷亞遊戲最新年度力作，將AAA等級遊戲體驗帶上手機!
+
+在離開地球的20年後，人類文明又再度面臨了考驗。
+你將操作第三代戰神裝甲(WM-III)，對抗神秘的物種撒達(XADA)，決定人類的存亡！
+
+遊戲特色:
+
+- 主機遊戲般的畫面及動作
+
+- 好萊塢等級音效工程：
+  音樂由交響樂團演奏錄製，由葛萊美獎得主錄音師，曾錄製過「魔戒」、「暗黑破壞神」的John Kurlander操刀製作。
+
+- 最佳化的操作介面，進程遠戰都提供全新手機遊戲操作體感
+
+- 原創ARK系統，使用不同核心搭配出最適合自己的能力
+
+- 在「選項」中登入Game Center 後即可使用iCloud雲端存檔
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0c/ca/27/0cca27c9-b9b5-64d5-db57-0197cfd18d84/mzl.kpryxzpv.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ae/7d/40/ae7d408a-73b5-f9f4-d9b5-42747fd65a4d/mzl.frqqyowl.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/74/5a/7d/745a7d5b-2ced-7bfc-e8c8-4dad5894498a/mzl.lerksnkc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/08/7e/b3087e68-4872-e6dd-5b7e-4e1882ed700c/mzl.eqnwhysd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/41/ae/32/41ae3201-f8ef-f3f4-a105-ad2fdd4a5b05/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6d/f7/c8/6df7c825-a812-0446-b169-0301fe2ae024/mzl.xuyjahlq.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/6e/bb/a96ebb4f-a8f9-ad49-bf3e-c1d24d288f10/mzl.kzqfphkc.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/36/72/38/36723811-6dcd-e2f5-5234-16bd5611c333/mzl.frpusnma.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/11/8a/74/118a744f-679b-50bb-4d14-f6f5a46b4320/mzl.tdpbcqlf.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/77/45/5a/77455ab6-d6e2-886c-cfa4-53901b683dd1/pr_source.png/480x360bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cytus II]]></title>
+        <id>Cytus II-tw-1757081481119</id>
+        <link href="https://apps.apple.com/tw/app/cytus-ii/id1290687550?uo=4"/>
+        <updated>2025-09-05T14:11:21.119Z</updated>
+        <summary type="html"><![CDATA[价格: $60.00 → 免費<br/>CAPSO: $320.00 → $150.00<br/>Kizuna AI: $320.00 → $150.00<br/>Alice: $320.00 → $150.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/cytus-ii/id1290687550?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/79/2f/00792f52-8cbd-1c5b-4131-5477751d6f68/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$60.00</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ $60.00]</span>）
+</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>CAPSO：</strong><span>$320.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $320.00]</span>
+  </li><li>
+    <strong>Kizuna AI：</strong><span>$320.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $320.00]</span>
+  </li><li>
+    <strong>Alice：</strong><span>$320.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $320.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Miku：<b>$320.00</b>
+  </li><li>
+    CAPSO：<b>$150.00</b>
+  </li><li>
+    ConneR：<b>$320.00</b>
+  </li><li>
+    Xenon：<b>$320.00</b>
+  </li><li>
+    9 Characters：<b>$1,190.00</b>
+  </li><li>
+    Cherry：<b>$320.00</b>
+  </li><li>
+    Kizuna AI：<b>$150.00</b>
+  </li><li>
+    Battle CHAOS 2019：<b>$150.00</b>
+  </li><li>
+    Alice：<b>$150.00</b>
+  </li><li>
+    Neko：<b>$320.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  「Cytus II」是雷亞遊戲繼「Cytus」、「Deemo」及「VOEZ」三款全球音樂遊戲排行榜冠軍作品後，由原班人馬傾注全力打造的音樂節奏遊戲續作。
+
+
+未來，人類重新定義了網路的發展和連線方式，能夠輕易地在現實世界同步存取網路世界，改變了千年以來生活的樣貌。
+
+在巨型精神網路空間cyTus裡，一位來歷不明的傳奇DJ Æsir，其音樂有著讓人為之瘋狂的魅力，每個音符和節拍都能夠深深重擊聽者的靈魂深處。
+
+某日，從未露面的Æsir突然宣布要舉辦第一場大型虛擬音樂祭——Æsir-FEST，邀請了當紅偶像歌手以及人氣DJ作為開場嘉賓。
+
+宣傳公開之際即造成前所未見的討論熱潮，所有人無不想一睹Æsir的真實面貌。
+
+而在音樂祭入場的前一小時，數以千萬計的連線瀏覽次數打破歷史紀錄，整個城市瞬間沸騰了起來，等待Æsir如同天神般的降臨……
+
+遊戲特色：
+
+-獨特動態判定線音樂遊戲玩法
+跟隨判定線打擊拍點以獲得高分，透過五種不同特性的拍點及隨節奏動態變化的判定線，讓遊戲過程更貼合音樂，輕鬆融入並沉浸在樂曲之中。
+
+-50首+IAP(額外付費內容)，超越250首最高質量樂曲
+本次收錄樂曲涵蓋世界各地如日韓、歐美、台灣等創作者的作品，透過數位角色引領玩家遊玩如電音、搖滾、古典等不同風格之樂曲，是不辜負千萬人期待的自信力作。
+
+-多達800種不同譜面關卡 
+設計超過800種由易到難的音樂譜面，豐富的遊戲內容滿足不同等級的玩家，透過指尖的打擊體驗最刺激的挑戰和樂趣。
+
+-與遊戲中的角色們一同進入虛擬的網路世界探險
+獨特的故事系統 "iM" 將帶領玩家與遊戲中的角色逐步拼湊出 「Cytus II」背後的劇情脈絡與世界觀，在極富動態的視覺體驗中揭開故事的真實面貌。
+
+PAFF (CV:上坂すみれ)
+NEKO (CV:花守ゆみり)
+Xenon (CV:関智一)
+ConneR (CV:竹内栄治)
+Cherry (CV:ファイルーズあい)
+Nora (CV:石見舞菜香)
+Ivy (CV:河瀬茉希)
+Vanessa (CV:楠木ともり)
+Rin (CV:能登麻美子)
+
+
+*************************************************************
+Cytus II 將不定期進行遊戲內購商品的連網認證
+若您發現於驗證時間點時，您的裝置未連上網路導致內購商品丟失
+請確認將裝置連上網路後，點選"恢復購買紀錄"，即可恢復內購內容
+*************************************************************
+
+※ 本遊戲依中華民國遊戲軟體分級管理辦法分類為 : 輔15級。
+※ 本遊戲內另提供付費購買項目，請依個人興趣、能力進行購買，請勿過度消費
+※ 請注意遊戲時間，避免沉迷。
+※ 請勿利用本遊戲進行賭博或其他違反法令行為。
+※ 無行為能力人及限制行為能力人必須於法定代理人閱讀、瞭解並同意「雷亞遊戲使用者服務條款」及「雷亞遊戲個人資料暨隱私政策條款」之所有內容後，方得使用本遊戲服務。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0f/9a/62/0f9a62ea-250f-60b5-a4df-9eb630d54166/413b7d8c-5519-4c51-899f-ecce71d70753_KV-2208X1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9d/95/74/9d957494-165d-6b0c-3276-25fd19db1935/56e6c56f-3e29-48d9-ab3b-77ec9e7131b4__U5c0d_U7acb-2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f2/c1/24/f2c124f0-7629-9e7b-4182-78f12284d482/27658c31-1a10-4ea0-bc50-6ac7e2fd2bfe_5.5_001_0000.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2e/e8/3a/2ee83a4e-2567-1eed-bead-a15e8f47ecdc/e6ed071c-1b9f-4e52-8ccd-c4204bc06ad6__U9078_U6b4c-2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/50/ad/7550ad4d-d343-6a50-15b8-bbee49d9707a/0eaf9fe2-20c4-4e9a-9a30-e551fb27852c__U6253_U6b4c-2208X1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9b/5c/65/9b5c65ca-115d-ebfd-821c-a4502f6c2523/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/53/b2/a1/53b2a1b3-7dda-94a8-494d-b657804e3819/3072f8ae-29e3-48b6-b605-53fb1aede14c_Screenshot94.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/d6/ae/d4d6aeb8-6de5-bc3c-d064-a0b47e13b62b/300b2a4a-febd-4557-af5b-36834d306535_KV-2732X2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fe/e6/aa/fee6aa23-61d5-7f93-0fb1-94d00dae0f83/fddb281f-abdf-4b28-ad71-f3d3865dd007__U5c0d_U7acb-2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bb/73/05/bb7305a8-f2ea-f22c-427a-975f1b74bcd7/b7a2b3be-39e0-4d14-8b20-d0522737329d_IPAD_004_0001.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/01/20/70/012070c0-b7e9-08ce-de23-d894ccc07896/152f8093-1697-4619-8052-616e99823de6__U9078_U6b4c-2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/60/0d/f9/600df9a5-3e46-ccb7-e437-530fc8299617/1d925099-3674-4610-a1dd-ad8daeade6f3__U6253_U6b4c-2732X2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bf/cc/5c/bfcc5cfb-fedc-fb9b-f9dc-04e10e976e0b/1738192e-aad9-45ca-8f34-e6d5fab39746_Screenshot93.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/31/d5/d6/31d5d65c-b480-e712-b293-31f19850c02d/pr_source.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Freya • Surge Timer]]></title>
         <id>Freya • Surge Timer-tw-1756941036393</id>
         <link href="https://apps.apple.com/tw/app/freya-surge-timer/id1447509164?uo=4"/>
@@ -831,209 +1148,5 @@ This Is the Police 2是廣受好評的黑色劇“This Is the Police”的續集
 
 © www.handy-games.com GmbH
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/39/6f/d0/396fd0cd-c702-3bfd-4cef-82072bd59894/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/9e/1a/0e9e1a15-d2fd-cf01-b155-824454d83b0b/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/14/6d/c4146d72-4742-76ca-7c30-c38f973184fb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/77/93/7b/77937b81-2119-b8c0-a8d4-c77692cf9970/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d2/aa/5c/d2aa5c70-0f60-73cb-6967-8958e786131f/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/81/3c/3a813cec-4739-0532-1bf9-c2e675671e0d/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/de/e5/20/dee52056-e07f-83ad-6f2f-7d5e90246de4/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/00/1b/39/001b3922-e5e8-7252-8d0c-d71fe364384f/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/74/52/66/745266b0-5eda-a0c4-fb82-f682852a1912/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bb/1f/a8/bb1fa885-da9a-8fc2-b786-821854ee78c1/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/1c/61/44/1c614451-3156-1d6d-cfdf-f70d1c7115f1/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3a/49/5c/3a495c81-0702-3eac-c27d-7553fd5ea00a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4b/b7/f4/4bb7f43b-42b4-3a13-4368-f436341d5075/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/43/7e/af437e8b-2f63-753a-0aec-c5d869268d77/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/12/3f/42/123f42a8-0c69-514f-da56-f719d56d7180/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/56/f0/c9/56f0c92a-e560-3b4a-c797-0bca7adfb983/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NPD知识普及]]></title>
-        <id>NPD知识普及-tw-1756797144767</id>
-        <link href="https://apps.apple.com/tw/app/npd%E7%9F%A5%E8%AF%86%E6%99%AE%E5%8F%8A/id6749845582?uo=4"/>
-        <updated>2025-09-02T07:12:24.767Z</updated>
-        <summary type="html"><![CDATA[价格: $690.00 → $30.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/npd%E7%9F%A5%E8%AF%86%E6%99%AE%E5%8F%8A/id6749845582?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/21/19/0a211901-8d8e-574b-45c4-0c3a36a20e4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$690.00</span> → <b>
-  <strong>$30.00</strong>
-</b><span>[$30.00 ~ $690.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$30.00</b>
-</p><h2>应用描述</h2><p>
-  专门为关注自恋型人格障碍（Narcissistic Personality Disorder, NPD）的用户提供全面的认知、评估、应对和支持服务。应用基于权威心理学研究和临床实践经验，旨在帮助用户更好地理解NPD，学习有效的应对策略，并获得必要的专业支持。
-Medical Disclaimer: The information in this app is provided for educational purposes only and is not a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
-免责声明：本应用提供的内容仅供教育和参考之用，不能替代专业医生的诊断或治疗建议。如有任何健康问题，请务必在使用本应用的内容前咨询医生或其他有资质的医疗服务人员。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Luwian]]></title>
-        <id>Luwian-tw-1756750597530</id>
-        <link href="https://apps.apple.com/tw/app/luwian/id1519571900?uo=4"/>
-        <updated>2025-09-01T18:16:37.530Z</updated>
-        <summary type="html"><![CDATA[价格: $190.00 → $60.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/luwian/id1519571900?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/88/49/09884904-8701-6292-35f8-0bee995a4b4c/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$190.00</span> → <b>
-  <strong>$60.00</strong>
-</b><span>[免費 ~ $190.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$60.00</b>
-</p><h2>应用描述</h2><p>
-  Luwian 是一款複雜的相機應用程序，旨在提供對相機硬體的完全手動控制，從而使用戶能夠使用 DSLR 設計釋放他們的創造力。此外，該應用程式還附帶 Luwian Raw Magic Lite 後處理編輯器，可提高影像品質。
-
-Luwian 提供的手動控制包括曝光、對焦、對焦鎖定、變焦和白平衡，以及預設和自訂調整選項、ISO 和快門速度。該應用程式還提供對 40 個濾鏡、29 個虛擬 FX、17 個模擬電影和 36 個經典電影色調的訪問，這些都可以在主相機面板上輕鬆使用。
-
-Luwian 是業餘和專業攝影師的強大工具，提供一系列功能，使他們能夠輕鬆捕捉令人驚嘆的影像。其直覺的介面確保用戶可以輕鬆導航應用程式並存取其功能，而其手動控制使他們能夠對相機硬體進行精確控制。透過 Luwian，攝影師可以精確、清晰地捕捉他們的視覺，使其成為攝影領域人士的理想工具。
-
-主要面板特點：
-
-曝光控制
-對焦+對焦鎖定控制
-飛漲
-白平衡
-國際標準化組織
-快門速度
-目標網格
-全螢幕
-方位指示器
-目前解析度指示器
-手電筒模式：自動/開/關
-閃光模式：自動/開/關
-相機切換選單
-錄影切換按鈕：普通/慢動作/縮時
-快門按鈕
-視訊錄製按鈕
-雙鏡頭錄製模式（僅限 iPhone 11 及更高版本）
-真實深度背景相機（僅限 iPhone 11 及更高版本）
-快門定時器
-手動模式
-自動模式
-人像模式（僅限 iPhone 11 及更高版本）
-類比電影模式
-電影色調濾鏡模式
-經典濾鏡與視覺特效
-選單
-盧維安原始魔法精簡版
-
-
-所有 Raw Magic Lite 功能：
-
-導入/選擇/刪除
-媒體 EXIF 資訊和詳細信息
-照片編輯裁剪調整大小
-影片編輯裁切調整大小（測試版）
-照片/影片調整
-照片/影片通用濾鏡與視覺特效
-照片/影片類比濾鏡
-照片/影片電影色調濾鏡
-
-
-所有設定功能：
-
-照片品質設定
-相機預設存取和錄影 FPS 設定
-縮時攝影速度 2 倍至 10 倍
-開啟和關閉主面板過濾器視圖
-快門定時器設定為三秒。至 15 秒。
-關於部分和支援頁面的鏈接
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c0/6e/58/c06e5881-ce6b-0937-c609-58d2f8557c29/6f1b0132-9e9f-4d6c-9a4e-665b22853abb_IMG_0371.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/d2/c6/e0d2c615-fa3a-9184-a794-f99d8e498feb/d4427147-6b62-4596-af09-4a35b87832b7_IMG_0361.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/35/2e/54352e36-df06-92d2-7382-616163bbb956/41a9bd83-f212-49a7-b859-89839d95947d_IMG_0367.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f1/43/52/f14352db-757c-16d0-ac24-bb0307170978/009c4331-a38f-4fa4-9a48-324d6c3297b7_IMG_0370.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/a0/ce/05a0ce88-5d87-920e-4ce6-65dcf6a299d0/9f7c8b2e-4e28-40e3-af67-9e4c8cc4c87f_IMG_0355.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/51/3e/29/513e2968-5f23-18ef-5e55-6f3ea87d4d27/6025441a-c5a3-4c3b-992a-a0810e756e7b_IMG_0366.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/a8/42/fba8424c-3bd8-c7a7-27bf-44f2594d50ec/8ade7d85-8601-4b85-ad46-71f78a576f70_IMG_0358.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/59/71/c2/5971c217-ec0d-d3c3-35d1-7ca62761fe4b/3029f292-94ef-4c72-8b3f-719e026963d7_IMG_0364.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/1b/94/9f1b949b-7f73-6f9e-d20b-e87a38107d24/dfa9dad6-f006-4129-81e3-df4e75edc5df_IMG_0354.PNG/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fa/f1/99/faf199e4-5393-4915-9245-e76cd195a1be/b7d4c8f2-3fdf-418e-9614-e6ff4611804a_IMG_0363.PNG/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/01/c5/c101c5cd-820e-f6a1-c7a2-acc2e7941d81/c01ad8dc-2249-4a9c-99dc-dbdacce6d0ef_IMG_4837.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/c0/47/ebc04760-d923-61a0-2b42-9faf46dfed1b/e237afaa-91ab-4b7d-9743-d08d84e8007e_IMG_4838.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/96/89/f69689c0-95c7-cff1-83bb-7e5d0ff3a5e6/027e9775-3cca-49a0-bef6-5b85a44014ce_IMG_4839.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/e1/44/a9e1440f-2c05-4ed8-5b7b-d9660dea11cf/40afaf66-c845-40ee-bd57-8f9dec3c3b25_IMG_4840.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/77/f1/5e77f16c-4330-d0a5-42ba-97d21ded51f0/2cacf49f-ca2e-4e0b-a709-d5d128a67e7d_IMG_4841.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/58/d6/f3/58d6f321-4ba3-07a7-0cbf-70f532c05659/65cf9bb7-586d-4a7a-a956-dca5b790d254_IMG_4842.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7a/a2/cf/7aa2cf8a-114b-caa2-798d-2166cbfd94b3/0d110993-d0ce-4f7d-915e-13824cc14b14_IMG_4845.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/1f/06/ba1f068b-46bd-ab58-d3d4-a14b4cfa18a6/19b42da0-02d3-4156-ae7c-80d0e31f8350_IMG_4846.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/49/c4/40/49c4405c-a2da-797c-4bbb-2e7068f6df35/d354edf7-fb27-4ccd-830a-d7ba6f3e2c73_IMG_4852.PNG/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9a/ca/ee/9acaee9a-3a6a-46bf-b378-0f39eae40c86/485059ea-3015-4324-ad9e-c9b7ee96674e_IMG_4859.PNG/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
-        <id>Vostok — 创建美丽快拍页面-tw-1756750597530</id>
-        <link href="https://apps.apple.com/tw/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
-        <updated>2025-09-01T18:16:37.530Z</updated>
-        <summary type="html"><![CDATA[价格: $120.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/1d/98/2c1d98df-53f5-756e-3f8c-32662eb9f304/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$120.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $120.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  為您的企業、品牌或博客創作精彩的故事。 Vostok 將幫助您釋放照片的潛力，更有效地使用 Instagram 並與觀眾交流。
-
-只是一些設計可能性：
-
-· 200+社交設計模板
-· 西里爾文專屬字體
-· 450+ 獨家貼紙
-· 照片的灰塵和顆粒效果
-· 背景：紙張紋理、大理石、漸變、顏色
-· 無訂閱或廣告
-· 黑暗模式
-
-被 Apple 評為 2019 年最佳應用之一
-
-使用 200 多個模板創建精美的社交內容供您選擇。
-
-我們喜歡聽到您的想法和反饋。
-給我們發電子郵件 hello@vostokapp.ru 或在 Instagram 上通過@vostokapp DM我們
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Day One Journal]]></title>
-        <id>Day One Journal-tw-1756725025853</id>
-        <link href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&amp;uo=4"/>
-        <updated>2025-09-01T11:10:25.853Z</updated>
-        <summary type="html"><![CDATA[Premium: $1,090.00 → $190.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/day-one-journal/id1055511498?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/4f/49/9a4f4917-2753-a510-b438-3284cda1f2c9/AppIcon-0-0-85-220-0-0-3-0-2x.png/60x60bb.png" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Premium：</strong><span>$1,090.00</span> → <b>
-  <strong>$190.00</strong>
-</b><span>[$190.00 ~ $1,090.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Premium：<b>$190.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Apple 年度最佳應用程式 Day One，全球下載次數超過 1,500 萬次，獲得 200,000 次 5 星評價，徹底改變了寫日記的方式，讓你記錄生活中的點點滴滴。  在全球最值得信賴的數位日記中安全地儲存音訊、影片、照片、筆記等其他內容。
-
-「Day One 創造珍貴的回憶，近乎完美：完全隱密的數位空間。」 –《紐約時報》
-
-「Day One 讓寫日記變得輕鬆愉快。」 – 《連線》
-
-「這款優異的日記應用程式賞心悅目、簡單好用，讓競爭對手難以超越。」–《Macworld》
-
-為什麼選擇 Day One？
-
-Day One 是原創日記應用程式。十年來持續更新並增添功能，打造全球最隱密、最值得信賴，也最好用的日記平台。
-
-簡單好用，讓人著迷
-
-• 獲獎設計，美觀大方
-• 無限文本條目
-• 無限量照片和影片*
-•強大的 RTF 文字格式與 Markdown
-• 記錄生活點滴的全新方式*
-
-私密又安全
-
-• 自動備份，妥善保護日記條目
-• 端對端加密，100% 確保日記隱密
-•透過密碼或 TouchID 保障日記條目安全
-•提供多種匯出選項 (pdf、純文字、JSON 等)，確保日記條目永遠歸你所有
-
-養成並保持習慣
-
-•可設定的提醒通知
-• 每日不重覆的日記提示，消除你的撰寫障礙
-•可自訂範本讓你省下時間，並讓版面看起來井井有條
-• 今日檢視讓你快速查看今天去過哪些地方、做了哪些事
-
-隨時隨地寫日記
-
-• 跨平台應用程式，可在 iPhone、Apple Watch、iPad 和 Mac 上使用
-• 可透過電子郵件直接傳送條目到日記中
-
-專為記錄回憶打造
-
-• 「在這一天」功能讓你重溫過往回憶
-• 標籤、我的最愛和搜尋篩選條件讓你輕鬆找到所需內容
-• 「地圖檢視」讓你快速查看已記錄的所有地點
-
-*Day One 是款提供使用者永久免費使用的應用程式，完全不限條目數量。 Day One Premium 會員另可享有無限量照片、影片及同步功能。 立即開始免費試用。
-
-隱私權政策：https://dayoneapp.com/privacy-policy/
-
-使用條款：https://dayoneapp.com/terms-of-use/
-
-如需技術協助或有其他問題，請前往：https://dayoneapp.com/contact/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/ea/4d/36ea4d03-cc5b-c1fe-dec0-fe8db8438c7b/9616e6e1-eb84-4ad2-b510-63f91517ed26_Mac1-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/10/c6/2610c62c-aa1f-331b-10bc-6f9d7971837a/a0d8e438-0519-4e57-8d86-2e4807552aff_Mac2-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/17/77/ad/1777adcc-3a6a-2c57-cd59-99b2090c60a3/b92f6312-a18b-4488-866b-56d500ee8eb2_Mac3-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/95/2e/cf952ed1-0789-536e-8026-85e7131cfcf3/b9a002a6-6656-4f33-9743-c0a74615c9ab_Mac4-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/05/2c/c4/052cc4c8-296e-3f98-1071-2f06f6c0c8ef/c4f0e9b6-a42b-47b5-898e-62421f90bd77_Mac5-DayOne.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/47/db/0f47db2a-94ff-deb1-d8c7-935c46f6203d/21ce8c55-4bf5-45ae-b705-8faf38653136_Mac6-DayOne.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

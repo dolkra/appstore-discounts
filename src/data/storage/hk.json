@@ -21916,6 +21916,27 @@
       ]
     ]
   },
+  "571863178": {
+    "name": "AudioStretch",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "575154654": {
     "name": "Pou",
     "maxPriceInfo": {
@@ -27625,12 +27646,12 @@
       "Eshen Chen Colleciton Vol.1": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Rayark Selection Vol.2": "HK$ 32.00",
       "V.K Collection": "HK$ 32.00",
       "Rayark Selection Vol.1": "HK$ 32.00",
-      "被遺忘的沙漏": "HK$ 88.00",
+      "被遺忘的沙漏": "HK$ 58.00",
       "Cytus Selection Vol.1": "HK$ 32.00",
       "Cytus Selection Vol.2": "HK$ 32.00",
       "Rayark Selection Vol.3": "HK$ 32.00",
@@ -27651,6 +27672,25 @@
       "Eshen Chen Colleciton Vol.1": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Rayark Selection Vol.2": "HK$ 32.00",
+            "V.K Collection": "HK$ 32.00",
+            "Rayark Selection Vol.1": "HK$ 32.00",
+            "被遺忘的沙漏": "HK$ 58.00",
+            "Cytus Selection Vol.1": "HK$ 32.00",
+            "Cytus Selection Vol.2": "HK$ 32.00",
+            "Rayark Selection Vol.3": "HK$ 32.00",
+            "Knight Iris": "HK$ 32.00",
+            "MILI Collection": "HK$ 32.00",
+            "M2U X NICODE Collection": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756379410498,
@@ -32201,10 +32241,18 @@
       "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -54150,6 +54198,25 @@
     "history": [
       [
         {
+          "timestamp": 1757081481119,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Pirate Kings Campaign!": "HK$ 58.00",
+            "Hammerhold Campaign!": "HK$ 58.00",
+            "Tower Ignis Altar": "HK$ 22.00",
+            "Hero Grosh": "HK$ 38.00",
+            "Special Offer 27": "HK$ 58.00",
+            "Special Offer 24": "HK$ 58.00",
+            "Special Offer 21": "HK$ 58.00",
+            "Special Offer 20": "HK$ 58.00",
+            "Special Offer 19": "HK$ 58.00",
+            "Special Offer 18": "HK$ 58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756397731217,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -55905,14 +55972,14 @@
       "formattedPrice": "免費",
       "Miku": "HK$ 88.00",
       "ConneR": "HK$ 88.00",
-      "CAPSO": "HK$ 88.00",
+      "CAPSO": "HK$ 38.00",
       "Xenon": "HK$ 88.00",
       "9 Characters": "HK$ 288.00",
       "Cherry": "HK$ 88.00",
-      "Kizuna AI": "HK$ 88.00",
+      "Kizuna AI": "HK$ 38.00",
       "Battle CHAOS 2019": "HK$ 18.00",
       "Neko": "HK$ 88.00",
-      "Alice": "HK$ 88.00",
+      "Alice": "HK$ 38.00",
       "Emotion Samples 01": "HK$ 18.00",
       "Nora": "HK$ 88.00",
       "Game Disc vol.1": "HK$ 18.00",
@@ -55934,6 +56001,25 @@
       "AD:HOUSE Selection": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "HK$ 88.00",
+            "ConneR": "HK$ 88.00",
+            "CAPSO": "HK$ 38.00",
+            "Xenon": "HK$ 88.00",
+            "9 Characters": "HK$ 288.00",
+            "Cherry": "HK$ 88.00",
+            "Kizuna AI": "HK$ 38.00",
+            "Battle CHAOS 2019": "HK$ 38.00",
+            "Neko": "HK$ 88.00",
+            "Alice": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756966670466,
@@ -77759,6 +77845,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756750597530,
@@ -124926,11 +125020,21 @@
       "art of rally: australia dlc": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "HK$ 58.00",
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
       "art of rally: australia dlc": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757081481119,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754604817740,

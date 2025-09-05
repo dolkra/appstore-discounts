@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 571863178,
+    name: {
+      mo: 'AudioStretch',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1254981556,
     name: {
       hk: 'Reverse Audio',
