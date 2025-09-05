@@ -55698,6 +55698,25 @@
     "history": [
       [
         {
+          "timestamp": 1757033769396,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Promote Pack 5": "$14.99",
+            "Promote Pack 4": "$9.99",
+            "Promote Pack 3": "$7.99",
+            "Promote Pack 2": "$4.99",
+            "Promote Pack 1": "$2.99",
+            "Double backpack slots": "$1.99",
+            "Genius Big Deal Pack": "$1.99",
+            "Boxer Big Deal Pack": "$1.99",
+            "Double Bonus": "$1.99",
+            "A Large Bag of Gems": "$19.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1753474464308,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -88586,13 +88605,46 @@
     "name": "Religion inc. God Simulator",
     "maxPriceInfo": {
       "price": 4.19,
-      "formattedPrice": "$4.19"
+      "formattedPrice": "$4.19",
+      "All at once": "$1.99",
+      "Destructive": "$0.49",
+      "Shamanism": "$0.49",
+      "Totalitarian": "$0.49",
+      "Pantheon": "$0.49",
+      "Acceleration": "$0.99",
+      "Spiritualism": "$0.49",
+      "Paganism": "$0.49"
     },
     "minPriceInfo": {
       "price": 0.29,
-      "formattedPrice": "$0.29"
+      "formattedPrice": "$0.29",
+      "All at once": "$1.99",
+      "Destructive": "$0.49",
+      "Shamanism": "$0.49",
+      "Totalitarian": "$0.49",
+      "Pantheon": "$0.49",
+      "Acceleration": "$0.99",
+      "Spiritualism": "$0.49",
+      "Paganism": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757033769396,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "All at once": "$1.99",
+            "Destructive": "$0.49",
+            "Shamanism": "$0.49",
+            "Totalitarian": "$0.49",
+            "Pantheon": "$0.49",
+            "Acceleration": "$0.99",
+            "Spiritualism": "$0.49",
+            "Paganism": "$0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756066353127,
