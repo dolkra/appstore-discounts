@@ -1991,6 +1991,25 @@
     "history": [
       [
         {
+          "timestamp": 1757146407241,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "HAA Link": "$320.00",
+            "HAA Pro Module": "$690.00",
+            "SPL Enhance": "$690.00",
+            "All-In Module Access": "$320.00",
+            "HAA Upgrade to Pro": "$13,000.00",
+            "HAA Pro Installer Calibration": "$15,000.00",
+            "HAA Home Theater": "$2,990.00",
+            "Unlock All Tier 5": "$7,990.00",
+            "Unlock All Tier 7": "$11,000.00",
+            "Unlock All Tier 4": "$6,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756451541204,
           "price": 690,
           "formattedPrice": "$690.00",
@@ -19944,6 +19963,34 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "530090434": {
+    "name": "7 Wonders",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00",
+      "Leaders Expansion": "$60.00",
+      "Cities Expansion": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00",
+      "Leaders Expansion": "$60.00",
+      "Cities Expansion": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1757146407241,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Leaders Expansion": "$60.00",
+            "Cities Expansion": "$60.00"
+          }
         }
       ]
     ]
@@ -130822,6 +130869,31 @@
           "price": 60,
           "formattedPrice": "$60.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748947135": {
+    "name": "共鸣之心",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Unlock full game content": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Unlock full game content": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1757146407241,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Unlock full game content": "$90.00"
+          }
         }
       ]
     ]

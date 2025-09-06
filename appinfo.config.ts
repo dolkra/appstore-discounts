@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 530090434,
+    name: {
+      mo: '7 Wonders',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6748947135,
+    name: {
+      cn: '共鸣之心',
+    },
+    addType: 'auto',
+  },
+  {
     id: 304878580,
     name: {
       mo: 'Omar Sharif Bridge Card Game',
