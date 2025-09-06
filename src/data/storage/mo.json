@@ -65659,14 +65659,22 @@
   "1548185534": {
     "name": "Musical Maze",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757153436114,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

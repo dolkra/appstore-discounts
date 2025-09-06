@@ -86883,14 +86883,22 @@
   "1548185534": {
     "name": "Musical Maze",
     "maxPriceInfo": {
-      "price": 2,
-      "formattedPrice": "HK$ 2.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 2,
       "formattedPrice": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757153436114,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
