@@ -51204,13 +51204,25 @@
       "6 Months": "$150.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "Month": "$50.00",
       "Year": "$390.00",
       "6 Months": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757161213257,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Month": "$50.00",
+            "Year": "$390.00",
+            "6 Months": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752329477829,

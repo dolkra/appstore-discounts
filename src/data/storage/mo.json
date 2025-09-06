@@ -39860,13 +39860,25 @@
       "Month": "USD 1.49"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Year": "USD 11.99",
       "6 Months": "USD 4.99",
       "Month": "USD 1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757161213257,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 4.99",
+            "Month": "USD 1.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752329477829,
