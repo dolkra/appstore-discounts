@@ -68,6 +68,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 509969070,
+    name: {
+      mo: '人教版初中7~9年级文言文翻译|背诵|练习大全',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1474422612,
+    name: {
+      mo: 'TimeLine - Travel back in time',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6751258224,
+    name: {
+      mo: '古诗学习助手',
+    },
+    addType: 'auto',
+  },
+  {
     id: 530090434,
     name: {
       mo: '7 Wonders',
