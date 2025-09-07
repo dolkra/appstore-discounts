@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1292787392,
+    name: {
+      mo: "Papa's Hot Doggeria To Go!",
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1530986797,
+    name: {
+      mo: 'Ultimate Tiger Simulator 2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 509969070,
     name: {
       mo: '人教版初中7~9年级文言文翻译|背诵|练习大全',
