@@ -24948,6 +24948,25 @@
     "history": [
       [
         {
+          "timestamp": 1757365845455,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "₺179,99",
+            "Ayatsugu_Otowa Collection": "₺179,99",
+            "Sherwin Collection": "₺179,99",
+            "Capchii Collection": "₺179,99",
+            "VII Bundle 06": "₺599,99",
+            "VII Bundle 05": "₺499,99",
+            "VII Bundle 03": "₺299,99",
+            "VII Bundle 02": "₺229,99",
+            "VII Bundle 04": "₺399,99",
+            "VII Bundle 01": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757347997822,
           "price": 0,
           "formattedPrice": "Free",
@@ -31015,6 +31034,25 @@
       "Biomes Add-on (Special Price)": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757365845455,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Grottoes Add-on": "₺39,99",
+            "Wonderwood Add-on": "₺399,99",
+            "Heroes Add-on": "₺179,99",
+            "Temples of 4 Elements Add-on": "₺179,99",
+            "Abandoned Mines Add-on": "₺39,99",
+            "Invasion Add-on": "₺229,99",
+            "Heart of Evil Add-on": "₺299,99",
+            "Bosses & Monsters Add-on": "₺349,99",
+            "Lonely Mountain Add-on": "₺299,99",
+            "Biomes Add-on (Special Price)": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754356138938,
@@ -109232,6 +109270,31 @@
           "price": 249.99,
           "formattedPrice": "₺249,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6743611124": {
+    "name": "扫毒风暴",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
+      "解锁全部章节": "₺179,99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
+      "解锁全部章节": "₺179,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1757365845455,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "解锁全部章节": "₺179,99"
+          }
         }
       ]
     ]
