@@ -42897,6 +42897,23 @@
     "history": [
       [
         {
+          "timestamp": 1757319461044,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$120.00",
+            "基本方案（每月續訂）": "$30.00",
+            "擴充章節B": "$120.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節 U": "$120.00",
+            "satella Selection 限時挑戰書": "$90.00",
+            "擴充章節 I": "$120.00",
+            "支線第二章": "$120.00"
+          }
+        },
+        {
           "timestamp": 1757315577336,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -44932,10 +44949,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 30,
+      "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757319461044,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754576264504,
@@ -48643,6 +48668,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1757319461044,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "63,000 points": "$90.00",
+            "225,000 points": "$320.00",
+            "176,000 points": "$290.00",
+            "345,000 points": "$490.00",
+            "20,000 points": "$30.00",
+            "100,000 points": "$90.00",
+            "600,000 points": "$790.00",
+            "500,000 points": "$320.00",
+            "25,000 points": "$30.00",
+            "300,000 points": "$290.00"
+          }
+        },
         {
           "timestamp": 1757315577336,
           "price": 20,
