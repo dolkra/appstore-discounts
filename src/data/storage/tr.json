@@ -18682,14 +18682,22 @@
   "555612465": {
     "name": "CWMoney Pro - Expense Tracker",
     "maxPriceInfo": {
-      "price": 449.99,
-      "formattedPrice": "₺449,99"
+      "price": 1199.99,
+      "formattedPrice": "₺1.199,99"
     },
     "minPriceInfo": {
       "price": 449.99,
       "formattedPrice": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757299107018,
+          "price": 1199.99,
+          "formattedPrice": "₺1.199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

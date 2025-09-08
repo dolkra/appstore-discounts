@@ -739,7 +739,7 @@
 |625|459313476|自动|Tenuto|Tenuto|Tenuto|Tenuto|Tenuto|Tenuto|
 |624|478126577|自动|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|
 |623|493493802|自动|RhymeZone|RhymeZone|RhymeZone|RhymeZone|RhymeZone|RhymeZone|
-|622|555612465|自动|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|CWMoney Pro - Expense Tracker|CWMoney Pro - Expense Tracker|
+|622|555612465|自动|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney Pro - Expense Tracker|CWMoney Pro - Expense Tracker|
 |621|564730202|自动|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|
 |620|582584117|自动|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|
 |619|633600716|自动|432 Player|432 Player|432 Player|432 Player|432 Player|432 Player|

@@ -739,7 +739,7 @@ So far, we've covered `6` `Countries or Regions` and  `1356` `Apps` <br />Push n
 |625|459313476|Automatic|Tenuto|Tenuto|Tenuto|Tenuto|Tenuto|Tenuto|
 |624|478126577|Automatic|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|Merriam-Webster Dictionary+|
 |623|493493802|Automatic|RhymeZone|RhymeZone|RhymeZone|RhymeZone|RhymeZone|RhymeZone|
-|622|555612465|Automatic|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|存錢記帳-管理預算、掃描記帳、理財分析CWMoney Pro|CWMoney Pro - Expense Tracker|CWMoney Pro - Expense Tracker|
+|622|555612465|Automatic|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳|CWMoney Pro - Expense Tracker|CWMoney Pro - Expense Tracker|
 |621|564730202|Automatic|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|Money Manager (Remove Ads)|
 |620|582584117|Automatic|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|Solocator - GPS Field Camera|
 |619|633600716|Automatic|432 Player|432 Player|432 Player|432 Player|432 Player|432 Player|
