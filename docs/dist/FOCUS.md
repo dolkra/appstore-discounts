@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1356` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1357` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1357|6749298780|Automatic|❌|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|
 |1356|1292787392|Automatic|❌|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|
 |1355|1530986797|Automatic|❌|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|
 |1354|509969070|Automatic|❌|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|
