@@ -38476,6 +38476,23 @@
     "history": [
       [
         {
+          "timestamp": 1757459415953,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {
+            "SVIP auto-renew quarterly": "₺179,99",
+            "90 Days SVIP": "₺129,99",
+            "Annual Special SVIP": "₺599,99",
+            "545 Days SVIP": "₺599,99",
+            "3-Year SVIP": "₺999,99",
+            "100 Days SVIP": "₺129,99",
+            "Quarterly SVIP": "₺129,99",
+            "1-Year SVIP": "₺599,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1756829680598,
           "price": 699.99,
           "formattedPrice": "₺699,99",
@@ -105039,6 +105056,14 @@
     "history": [
       [
         {
+          "timestamp": 1757459415953,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756300967310,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -109382,7 +109407,7 @@
     ]
   },
   "6749840287": {
-    "name": "Conduit: Open-WebUI Client",
+    "name": "Conduit: OpenWebUI Client",
     "maxPriceInfo": {
       "price": 179.99,
       "formattedPrice": "₺179,99"
