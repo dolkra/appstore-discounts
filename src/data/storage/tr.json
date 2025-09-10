@@ -81206,12 +81206,23 @@
       "Erzak Paketi": "₺3,99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99",
+      "price": 2.99,
+      "formattedPrice": "₺2,99",
       "Sağlık Paketi": "₺3,99",
       "Erzak Paketi": "₺3,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757481103835,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Sağlık Paketi": "₺3,99",
+            "Erzak Paketi": "₺3,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757334329828,
