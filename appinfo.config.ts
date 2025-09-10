@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1331393380,
+    name: {
+      mo: 'The House of Da Vinci 2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6749132733,
     name: {
       tw: '女王的遊戲：盛世天下',

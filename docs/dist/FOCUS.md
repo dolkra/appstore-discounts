@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1363` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1364` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1364|1331393380|Automatic|❌|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|
 |1363|6749132733|Automatic|❌|❌|❌|女王的遊戲：盛世天下|❌|❌|
 |1362|6743148949|Automatic|盛世天下：女王的游戏|❌|❌|❌|❌|❌|
 |1361|6741892043|Automatic|❌|Road to Empress - 盛世天下|Road to Empress - 盛世天下|❌|Road to Empress|Road to Empress|
