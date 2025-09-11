@@ -19746,6 +19746,25 @@
     "history": [
       [
         {
+          "timestamp": 1757585550767,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "₺39,99",
+            "Classic Tack Tower Skin": "₺99,99",
+            "Classic Super Monkey Skin Sale": "₺39,99",
+            "Classic Super Monkey Skin": "₺99,99",
+            "Classic Ice Tower Skin Sale": "₺39,99",
+            "Classic Ice Tower Skin": "₺99,99",
+            "Classic Bomb Tower Skin Sale": "₺39,99",
+            "Classic Bomb Tower Skin": "₺99,99",
+            "Classic Dart Monkey Skin Sale": "₺39,99",
+            "Classic Dart Monkey Skin": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757110248311,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -92677,12 +92696,20 @@
       "Full Game": "₺899,99"
     },
     "minPriceInfo": {
-      "price": 439,
-      "formattedPrice": "₺439,00",
+      "price": 0,
+      "formattedPrice": "Free",
       "Full Game": "₺439,00"
     },
     "history": [
       [
+        {
+          "timestamp": 1757585550767,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Full Game": "₺439,00"
+          }
+        },
         {
           "timestamp": 1757545875955,
           "price": 439,
