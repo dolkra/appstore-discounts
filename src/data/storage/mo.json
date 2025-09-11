@@ -23772,6 +23772,14 @@
     "history": [
       [
         {
+          "timestamp": 1757599964821,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757513502207,
           "price": 0,
           "formattedPrice": "免費",
@@ -28739,6 +28747,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757599964821,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1751811032625,
@@ -48315,6 +48331,23 @@
     "history": [
       [
         {
+          "timestamp": 1757599964821,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "USD 3.99",
+            "原版怪獸繼承卡牌包": "USD 17.99",
+            "覺醒魔王完整卡牌包": "USD 26.99",
+            "原版魔王完整卡牌包": "USD 26.99",
+            "怪獸繼承": "USD 4.99",
+            "原版地宮卡牌包": "USD 17.99",
+            "覺醒魔王卡牌包": "USD 17.99",
+            "原版魔王權能卡牌包": "USD 17.99",
+            "覺醒技能卡牌包": "USD 17.99",
+            "原版魔王加速卡牌包": "USD 8.99"
+          }
+        },
+        {
           "timestamp": 1757545875955,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -58191,6 +58224,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757599964821,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757254173137,
@@ -68235,6 +68276,27 @@
           "timestamp": 1745503347397,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1561658854": {
+    "name": "Battery Widget 2.0",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1757599964821,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
           "inAppPurchases": {}
         }
       ]
