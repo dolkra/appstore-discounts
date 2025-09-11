@@ -3409,6 +3409,23 @@
     "history": [
       [
         {
+          "timestamp": 1757561270650,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "Portland HipstaPak": "₺39,99",
+            "Williamsburg Starter HipstaPak": "₺39,99",
+            "Mission Hipstapak": "₺39,99",
+            "Shibuya HipstaPak": "₺39,99",
+            "Camden HipstaPak": "₺39,99",
+            "Soho HipstaPak": "₺39,99",
+            "RetroPak One": "₺99,99",
+            "Bondi HipstaPak": "₺39,99",
+            "Tintype SnapPak": "₺39,99",
+            "Wicker Park HipstaPak": "₺39,99"
+          }
+        },
+        {
           "timestamp": 1757557262040,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -20893,6 +20910,25 @@
       "Karkinos": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757561270650,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Vault Of Gems": "₺2.299,99",
+            "Wagon Of Gems": "₺899,99",
+            "Chest Of Gems": "₺449,99",
+            "Barrel Of Gems": "₺229,99",
+            "Bag Of Gems": "₺129,99",
+            "Special Offer Saitam": "₺129,99",
+            "Big Hero Pack 2": "₺599,99",
+            "Saitam": "₺229,99",
+            "Big Hero Pack": "₺449,99",
+            "Hero Pack 5": "₺229,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757477637692,
@@ -65216,6 +65252,25 @@
       "《欧·亨利短篇小说精选》": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757561270650,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "肖维青英文原著精读课-纳尼亚传奇篇": "₺1.299,99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "₺1.299,99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "₺1.299,99",
+            "大学英语_外刊精读 | 2024年度TOP100精选": "₺1.299,99",
+            "林小鹿英语精读（1-7季合集升级版）": "₺2.999,99",
+            "大学英语_外刊精读 | 2023年度TOP100精选": "₺1.299,99",
+            "林小鹿经济学人精读": "₺899,99",
+            "精听党 | 英语六级真题精品课": "₺349,99",
+            "精听党 | 英语四级真题精品课": "₺399,99",
+            "英语时文精读（新冠专题）": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756966670466,
@@ -110145,10 +110200,18 @@
       "formattedPrice": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757561270650,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1756275475815,
