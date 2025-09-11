@@ -58299,7 +58299,7 @@
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00",
-      "Priority 10k for 1 year": "¥68.00",
+      "Priority 10k for 1 year": "¥58.00",
       "Priority 10k for 1 month": "¥7.00",
       "Priority 100k for lifetime": "¥88.00",
       "Priority 10k for lifetime": "¥128.00",
@@ -58309,6 +58309,23 @@
       "PRO version": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757614477285,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "PRO version": "¥22.00",
+            "PRO version discounted": "¥22.00",
+            "Priority 10k for 1 month": "¥7.00",
+            "Priority 10k for 1 year": "¥58.00",
+            "Priority 100k for 1 month": "¥3.00",
+            "Priority 100k for 1 year": "¥38.00",
+            "Priority 10k for lifetime": "¥128.00",
+            "Priority 100k for lifetime": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
