@@ -32,7 +32,7 @@ So far, we've covered `6` `Countries or Regions` and  `1365` `Apps` <br />Push n
 |1341|402405770|Automatic|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|
 |1340|445270462|Automatic|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|
 |1339|6469603539|Automatic|❌|All of You|All of You|All of You|All of You|All of You|
-|1338|1537782938|Automatic|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|
+|1338|1537782938|Automatic|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|
 |1337|446760220|Automatic|❌|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|
 |1336|1067575393|Automatic|照片橡皮擦 - 去除水印杂物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|Image Eraser - Inpaint & heal|Image Eraser - Inpaint & heal|
 |1335|311768443|Automatic|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|

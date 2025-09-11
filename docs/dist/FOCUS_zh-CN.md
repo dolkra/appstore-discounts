@@ -32,7 +32,7 @@
 |1341|402405770|自动|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|Massive Dev Chart Timer|
 |1340|445270462|自动|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|紫微斗數排盤|
 |1339|6469603539|自动|❌|All of You|All of You|All of You|All of You|All of You|
-|1338|1537782938|自动|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|墨墨记忆卡 | 考研考证外语学习Anki闪卡|
+|1338|1537782938|自动|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|墨墨记忆卡｜考研考公考证外语学习闪卡|
 |1337|446760220|自动|❌|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|
 |1336|1067575393|自动|照片橡皮擦 - 去除水印杂物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|Image Eraser - Inpaint & heal|Image Eraser - Inpaint & heal|
 |1335|311768443|自动|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
