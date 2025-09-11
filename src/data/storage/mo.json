@@ -67067,7 +67067,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "終身版": "USD 6.99",
+      "終身版": "USD 12.99",
       "年付VIP": "USD 2.99",
       "內測獎勵": "USD 0.00",
       "免費試用": "USD 0.00",
@@ -67091,6 +67091,24 @@
       "Latte": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757593368711,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身版": "USD 12.99",
+            "免費試用": "USD 0.00",
+            "Americano": "USD 1.99",
+            "Mocha": "USD 3.99",
+            "Latte": "USD 2.99",
+            "社區版 VIP": "USD 0.00",
+            "教育版VIP(2024)": "USD 0.00",
+            "年付VIP": "USD 2.99",
+            "內測獎勵": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1744275750859,
@@ -90896,6 +90914,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1757593368711,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1757561270650,
           "price": 0,
