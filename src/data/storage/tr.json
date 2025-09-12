@@ -73340,10 +73340,18 @@
       "formattedPrice": "₺9,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757683199043,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -73961,10 +73969,18 @@
       "formattedPrice": "₺9,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 2.99,
+      "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757683199043,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -75944,10 +75960,18 @@
       "formattedPrice": "₺19,99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757683199043,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -82384,6 +82408,17 @@
       "Erzak Paketi": "₺3,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757683199043,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "Sağlık Paketi": "₺3,99",
+            "Erzak Paketi": "₺3,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757481103835,
