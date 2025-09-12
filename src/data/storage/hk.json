@@ -33214,6 +33214,14 @@
     "history": [
       [
         {
+          "timestamp": 1757686286690,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757081481119,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -122997,14 +123005,26 @@
     "maxPriceInfo": {
       "price": 139,
       "formattedPrice": "HK$ 139.00",
-      "A New World Expansion": "HK$ 55.00"
+      "A New World Expansion": "HK$ 55.00",
+      "'A New World' Expansion": "HK$ 55.00"
     },
     "minPriceInfo": {
       "price": 139,
       "formattedPrice": "HK$ 139.00",
-      "A New World Expansion": "HK$ 55.00"
+      "A New World Expansion": "HK$ 55.00",
+      "'A New World' Expansion": "HK$ 55.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757686286690,
+          "price": 139,
+          "formattedPrice": "HK$ 139.00",
+          "inAppPurchases": {
+            "'A New World' Expansion": "HK$ 55.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755620121373,
@@ -128373,6 +128393,16 @@
       "art of rally: australia dlc": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757686286690,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757081481119,

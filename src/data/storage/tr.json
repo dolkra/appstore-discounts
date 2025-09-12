@@ -105869,14 +105869,26 @@
     "maxPriceInfo": {
       "price": 549,
       "formattedPrice": "₺549,00",
-      "A New World Expansion": "₺199,00"
+      "A New World Expansion": "₺199,00",
+      "'A New World' Expansion": "₺199,00"
     },
     "minPriceInfo": {
       "price": 549,
       "formattedPrice": "₺549,00",
-      "A New World Expansion": "₺199,00"
+      "A New World Expansion": "₺199,00",
+      "'A New World' Expansion": "₺199,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757686286690,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "'A New World' Expansion": "₺199,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755620121373,

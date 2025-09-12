@@ -33916,6 +33916,14 @@
     "history": [
       [
         {
+          "timestamp": 1757686286690,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757081481119,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -126178,14 +126186,26 @@
     "maxPriceInfo": {
       "price": 549,
       "formattedPrice": "$549.00",
-      "A New World Expansion": "$220.00"
+      "A New World Expansion": "$220.00",
+      "'A New World' Expansion": "$220.00"
     },
     "minPriceInfo": {
       "price": 549,
       "formattedPrice": "$549.00",
-      "A New World Expansion": "$220.00"
+      "A New World Expansion": "$220.00",
+      "'A New World' Expansion": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757686286690,
+          "price": 549,
+          "formattedPrice": "$549.00",
+          "inAppPurchases": {
+            "'A New World' Expansion": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755620121373,
@@ -132951,6 +132971,16 @@
       "art of rally: australia dlc": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757686286690,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "art of rally: australia dlc": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757081481119,
