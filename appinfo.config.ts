@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1494621456,
+    name: {
+      mo: 'Buteyko Breathing Daily Log',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1558052531,
     name: {
       mo: '風光攝影助手Pro:風光攝影計劃好幫手',
