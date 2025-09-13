@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 574423763,
+    name: {
+      mo: '雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1566827448,
     name: {
       mo: 'Forgotten Hill: First Steps',
