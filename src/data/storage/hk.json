@@ -89323,7 +89323,7 @@
       "formattedPrice": "免費",
       "終身版": "HK$ 98.00",
       "免費試用": "HK$ 0.00",
-      "年付VIP": "HK$ 22.00",
+      "年付VIP": "HK$ 38.00",
       "內測獎勵": "HK$ 0.00",
       "社區版 VIP": "HK$ 0.00",
       "教育版VIP(2024)": "HK$ 0.00",
@@ -89345,6 +89345,24 @@
       "Latte": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757772536043,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身版": "HK$ 98.00",
+            "免費試用": "HK$ 0.00",
+            "Americano": "HK$ 18.00",
+            "Mocha": "HK$ 32.00",
+            "Latte": "HK$ 22.00",
+            "社區版 VIP": "HK$ 0.00",
+            "教育版VIP(2024)": "HK$ 0.00",
+            "年付VIP": "HK$ 38.00",
+            "內測獎勵": "HK$ 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757593368711,
@@ -93923,6 +93941,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757772536043,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757506984312,
