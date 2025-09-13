@@ -37635,6 +37635,25 @@
     "history": [
       [
         {
+          "timestamp": 1757797754878,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Platinum Plan - Monthly": "₺30,99",
+            "Platinum Plan - Trimonthly": "₺82,99",
+            "Small bottle of Chiming Core": "₺39,99",
+            "Expansion Chapter O": "₺179,99",
+            "Expansion Chapter B": "₺179,99",
+            "Expansion Ch. V": "₺179,99",
+            "Expansion Ch. U": "₺179,99",
+            "Expansion Chapter T": "₺179,99",
+            "Expansion Chapter S": "₺179,99",
+            "Secret Library Selection 1": "₺179,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757794263758,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -66761,6 +66780,27 @@
           "timestamp": 1745328692670,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1475239344": {
+    "name": "Forgotten Hill Disillusion",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1757797754878,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
           "inAppPurchases": {}
         }
       ]
