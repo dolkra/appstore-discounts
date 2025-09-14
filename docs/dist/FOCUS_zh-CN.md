@@ -1,10 +1,12 @@
 
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1375` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1377` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1377|1504024081|自动|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|
+|1376|1581546143|自动|蓬莱镇|蓬莱镇|蓬莱镇|蓬莱镇|The Immortal Mayor|The Immortal Mayor|
 |1375|1546106967|自动|❌|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|
 |1374|1475239344|自动|❌|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|
 |1373|574423763|自动|雅调-最专业十二平均律调音器，吉他、尤克里里、小提琴校音器|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|Elegantune Pro Chromatic Tuner|Elegantune Pro Chromatic Tuner|

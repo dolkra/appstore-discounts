@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1504024081,
+    name: {
+      mo: 'Fast Forward Videos -Boomerang',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1581546143,
+    name: {
+      mo: '蓬莱镇',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1546106967,
     name: {
       mo: 'Sokoban (Boxman) Classic',
