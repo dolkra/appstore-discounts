@@ -42695,6 +42695,22 @@
     "history": [
       [
         {
+          "timestamp": 1757862589027,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Powers Pro Launch Pack": "₺399,99",
+            "Desperado Unlock Pack": "₺349,99",
+            "She-Ra Prestige Pack Sale": "₺299,99",
+            "She-Ra Sword Booster Sale": "₺99,99",
+            "She-Ra Sword Power Booster": "₺179,99",
+            "She-Ra Prestige Pack": "₺599,99",
+            "Battle Cat Booster Pack": "₺99,99",
+            "Battle Cat Prestige Pack": "₺179,99",
+            "Rogue Legends": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1757855673531,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -76380,10 +76396,18 @@
       "formattedPrice": "₺19,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757862589027,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757683199043,
@@ -99089,14 +99113,27 @@
       "Premium Pack": "₺34,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99",
+      "price": 2.99,
+      "formattedPrice": "₺2,99",
       "Standard Pack": "₺4,99",
       "Elite Pack": "₺59,99",
       "Advanced Pack": "₺19,99",
       "Premium Pack": "₺34,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1757862589027,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {
+            "Standard Pack": "₺4,99",
+            "Elite Pack": "₺59,99",
+            "Advanced Pack": "₺19,99",
+            "Premium Pack": "₺34,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
