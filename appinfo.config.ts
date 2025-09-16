@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1234266367,
+    name: {
+      mo: 'Drum Tuner - iDrumTune Pro',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1504024081,
     name: {
       mo: 'Fast Forward Videos -Boomerang',
