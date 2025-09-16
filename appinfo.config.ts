@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1170448156,
+    name: {
+      mo: 'World Uncovered (Full)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6673892874,
+    name: {
+      mo: '常春藤-New TOEIC ® 挑戰片語',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1234266367,
     name: {
       mo: 'Drum Tuner - iDrumTune Pro',
