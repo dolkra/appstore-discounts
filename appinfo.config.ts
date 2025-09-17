@@ -68,6 +68,15 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6747307749,
+    name: {
+      hk: 'CHAKK - 스토리 꾸미는 재미, 챡!',
+      mo: 'CHAKK - 스토리 꾸미는 재미, 챡!',
+      tw: 'CHAKK - 스토리 꾸미는 재미, 챡!',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1075462280,
     name: {
       mo: 'My Aurora Forecast Pro',
