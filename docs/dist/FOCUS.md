@@ -929,7 +929,7 @@ So far, we've covered `6` `Countries or Regions` and  `1381` `Apps` <br />Push n
 |460|955687901|Automatic|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
 |459|961932335|Automatic|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|
 |458|963034692|Automatic|Streaks|Streaks|Streaks|Streaks|Streaks|Streaks|
-|457|964708975|Automatic|古诗文网|古诗文网|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|
+|457|964708975|Automatic|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|
 |456|973482987|Automatic|❌|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|
 |455|975683986|Automatic|❌|Door Kickers|Door Kickers|Door Kickers|Door Kickers|Door Kickers|
 |454|982175678|Automatic|❌|This War of Mine|This War of Mine|This War of Mine|This War of Mine|This War of Mine|

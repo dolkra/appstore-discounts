@@ -929,7 +929,7 @@
 |460|955687901|自动|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
 |459|961932335|自动|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|
 |458|963034692|自动|Streaks|Streaks|Streaks|Streaks|Streaks|Streaks|
-|457|964708975|自动|古诗文网|古诗文网|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|
+|457|964708975|自动|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|
 |456|973482987|自动|❌|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|
 |455|975683986|自动|❌|Door Kickers|Door Kickers|Door Kickers|Door Kickers|Door Kickers|
 |454|982175678|自动|❌|This War of Mine|This War of Mine|This War of Mine|This War of Mine|This War of Mine|
