@@ -727,7 +727,7 @@ So far, we've covered `6` `Countries or Regions` and  `1383` `Apps` <br />Push n
 |664| ~~6446178861~~ |Automatic| ~~PlayNav - 影片内无广告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - No ads in videos!~~ | ~~PlayNav - No ads in videos!~~ |
 |663|363385252|Automatic|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|
 |662|430270438|Automatic|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|
-|661|679454835|Automatic|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|
+|661|679454835|Automatic|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|
 |660|911201894|Automatic|❌|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|
 |659|921954809|Automatic|❌|❌|❌|❌|Craft The World-Pocket Edition|Craft The World-Pocket Edition|
 |658|1093859891|Automatic|djembeföla!|djembeföla!|djembeföla!|djembeföla!|djembeföla!|djembeföla!|

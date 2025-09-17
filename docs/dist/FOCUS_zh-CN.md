@@ -727,7 +727,7 @@
 |664| ~~6446178861~~ |自动| ~~PlayNav - 影片内无广告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - No ads in videos!~~ | ~~PlayNav - No ads in videos!~~ |
 |663|363385252|自动|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|
 |662|430270438|自动|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|
-|661|679454835|自动|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|
+|661|679454835|自动|Rarevision VHS - Retro 80s Cam|Rarevision VHS - Retro 80s Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|
 |660|911201894|自动|❌|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|
 |659|921954809|自动|❌|❌|❌|❌|Craft The World-Pocket Edition|Craft The World-Pocket Edition|
 |658|1093859891|自动|djembeföla!|djembeföla!|djembeföla!|djembeföla!|djembeföla!|djembeföla!|
