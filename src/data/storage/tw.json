@@ -40829,7 +40829,7 @@
     ]
   },
   "964708975": {
-    "name": "古诗文网",
+    "name": "古诗文网-唐诗宋词古文典籍",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
@@ -119463,10 +119463,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758111870887,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755360821342,
@@ -129046,6 +129054,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758111870887,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Season MLB 2018": "$30.00",
+            "Season MLB 2024": "$30.00",
+            "OOTP26 Pack Booster Bundle": "$690.00",
+            "OOTP26 Rainbow Booster Bundle": "$690.00",
+            "25k PP + 5 Standard Packs!": "$690.00",
+            "75k PP + 15 Standard Packs!": "$1,490.00"
+          }
+        },
         {
           "timestamp": 1758107398471,
           "price": 320,

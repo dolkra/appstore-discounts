@@ -31879,7 +31879,7 @@
     ]
   },
   "964708975": {
-    "name": "古诗文网",
+    "name": "古诗文网-唐诗宋词古文典籍",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
@@ -73619,6 +73619,23 @@
     "history": [
       [
         {
+          "timestamp": 1758111870887,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "《Opposing Fronts》火線對決": "USD 0.00",
+            "所有內容": "USD 0.00",
+            "《Tales of Valor》": "USD 0.00",
+            "西班牙語音頻": "USD 0.00",
+            "戰役任務 11-15": "USD 0.00",
+            "俄語音頻": "USD 0.00",
+            "Opposing Fronts - Russian": "USD 0.00",
+            "2 vs 2 獨立戰役地圖": "USD 0.00",
+            "戰役任務 2-5": "USD 0.00",
+            "1 vs 1 獨立戰役地圖": "USD 0.00"
+          }
+        },
+        {
           "timestamp": 1758107398471,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -85127,10 +85144,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758111870887,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755360821342,

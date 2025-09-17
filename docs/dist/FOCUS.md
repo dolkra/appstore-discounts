@@ -929,7 +929,7 @@ So far, we've covered `6` `Countries or Regions` and  `1381` `Apps` <br />Push n
 |460|955687901|Automatic|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
 |459|961932335|Automatic|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|
 |458|963034692|Automatic|Streaks|Streaks|Streaks|Streaks|Streaks|Streaks|
-|457|964708975|Automatic|古诗文网|古诗文网|古诗文网|古诗文网|古诗文网|古诗文网|
+|457|964708975|Automatic|古诗文网|古诗文网|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|
 |456|973482987|Automatic|❌|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|
 |455|975683986|Automatic|❌|Door Kickers|Door Kickers|Door Kickers|Door Kickers|Door Kickers|
 |454|982175678|Automatic|❌|This War of Mine|This War of Mine|This War of Mine|This War of Mine|This War of Mine|
@@ -1172,7 +1172,7 @@ So far, we've covered `6` `Countries or Regions` and  `1381` `Apps` <br />Push n
 |217|6480501528|Automatic|TODO：猫咪待办事项 & 提醒事项 & 备忘录|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo：To do list & Reminder|Cat Todo：To do list & Reminder|
 |216|6714479204|Automatic|❌|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|
 |215|6740349666|Automatic|❌|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|
-|214|6473097811|Automatic|❌|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|
+|214|6473097811|Automatic|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|
 |213|6463616555|Automatic|❌|Ticket to Ride®|Ticket to Ride®|Ticket to Ride®|Ticket to Ride®|Ticket to Ride®|
 |212|6477835115|Automatic|❌|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|
 |211|6449003064|Automatic|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|

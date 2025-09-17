@@ -929,7 +929,7 @@
 |460|955687901|自动|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|kirakira+|
 |459|961932335|自动|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|Analog Tokyo|
 |458|963034692|自动|Streaks|Streaks|Streaks|Streaks|Streaks|Streaks|
-|457|964708975|自动|古诗文网|古诗文网|古诗文网|古诗文网|古诗文网|古诗文网|
+|457|964708975|自动|古诗文网|古诗文网|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|古诗文网-唐诗宋词古文典籍|
 |456|973482987|自动|❌|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|Five Nights at Freddy's 3|
 |455|975683986|自动|❌|Door Kickers|Door Kickers|Door Kickers|Door Kickers|Door Kickers|
 |454|982175678|自动|❌|This War of Mine|This War of Mine|This War of Mine|This War of Mine|This War of Mine|
@@ -1172,7 +1172,7 @@
 |217|6480501528|自动|TODO：猫咪待办事项 & 提醒事项 & 备忘录|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo - 備忘錄 & 待辦事項 & 記事本|Cat Todo：To do list & Reminder|Cat Todo：To do list & Reminder|
 |216|6714479204|自动|❌|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|Lowriders Comeback: Boulevard|
 |215|6740349666|自动|❌|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|Backyard Baseball '97|
-|214|6473097811|自动|❌|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|
+|214|6473097811|自动|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|Doodle Baseball Game|
 |213|6463616555|自动|❌|Ticket to Ride®|Ticket to Ride®|Ticket to Ride®|Ticket to Ride®|Ticket to Ride®|
 |212|6477835115|自动|❌|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|Papa's Paleteria To Go!|
 |211|6449003064|自动|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|Goblin Tools|
