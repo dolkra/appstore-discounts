@@ -129652,14 +129652,22 @@
   "6742526717": {
     "name": "WatchTube for YouTube",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758093085058,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745665323137,

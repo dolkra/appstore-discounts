@@ -97023,14 +97023,22 @@
   "6742526717": {
     "name": "WatchTube for YouTube",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758093085058,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745665323137,
