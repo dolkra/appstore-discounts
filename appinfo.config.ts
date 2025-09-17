@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1370362850,
+    name: {
+      mo: 'LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6747307749,
     name: {
       hk: 'CHAKK - 스토리 꾸미는 재미, 챡!',
