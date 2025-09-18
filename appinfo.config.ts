@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1484024784,
+    name: {
+      mo: '子午線157: 第1章',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1672085276,
+    name: {
+      mo: 'Aiko',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1370362850,
     name: {
       mo: 'LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計',
