@@ -7189,6 +7189,14 @@
     "history": [
       [
         {
+          "timestamp": 1758179489128,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755505193634,
           "price": 699.99,
           "formattedPrice": "₺699,99",
@@ -12446,6 +12454,14 @@
       "formattedPrice": "₺229,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758179489128,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755508679212,
@@ -33329,10 +33345,18 @@
       "formattedPrice": "₺699,99"
     },
     "minPriceInfo": {
-      "price": 449.99,
-      "formattedPrice": "₺449,99"
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758179489128,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749716244670,
@@ -55263,7 +55287,9 @@
       "Super Smashing Tip": "₺799,99",
       "Super Mega Tip": "₺449,99",
       "Mega Tip": "₺249,99",
-      "Super Tip": "₺229,99"
+      "Super Tip": "₺229,99",
+      "Small Tip": "₺39,99",
+      "Large Tip": "₺179,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -55278,9 +55304,30 @@
       "Super Smashing Tip": "₺799,99",
       "Super Mega Tip": "₺449,99",
       "Mega Tip": "₺249,99",
-      "Super Tip": "₺229,99"
+      "Super Tip": "₺229,99",
+      "Small Tip": "₺39,99",
+      "Large Tip": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758179489128,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Micro Tip": "₺39,99",
+            "Small Tip": "₺39,99",
+            "Medium Tip": "₺99,99",
+            "Large Tip": "₺179,99",
+            "Super Tip": "₺229,99",
+            "Mega Tip": "₺249,99",
+            "Super Mega Tip": "₺449,99",
+            "Super Smashing Tip": "₺799,99",
+            "Super Mega Smashing Tip": "₺1.299,99",
+            "The Ultimate Tip": "₺2.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757913171601,
@@ -108316,6 +108363,14 @@
       "formattedPrice": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758179489128,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755508679212,

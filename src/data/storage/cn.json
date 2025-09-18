@@ -101201,14 +101201,22 @@
   "6749845582": {
     "name": "NPD知识普及",
     "maxPriceInfo": {
-      "price": 198,
-      "formattedPrice": "¥198.00"
+      "price": 298,
+      "formattedPrice": "¥298.00"
     },
     "minPriceInfo": {
       "price": 9.9,
       "formattedPrice": "¥9.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758179489128,
+          "price": 298,
+          "formattedPrice": "¥298.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757135440730,
