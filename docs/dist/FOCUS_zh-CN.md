@@ -19,7 +19,7 @@
 |1374|1475239344|自动|❌|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|
 |1373|574423763|自动|雅调-最专业十二平均律调音器，吉他、尤克里里、小提琴校音器|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|Elegantune Pro Chromatic Tuner|Elegantune Pro Chromatic Tuner|
 |1372|1566827448|自动|❌|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|
-|1371|6751425710|自动|❌|愛的課程|愛的課程|愛的課程|A Course of Love|A Course of Love|
+|1371|6751425710|自动|爱的课程|愛的課程|愛的課程|愛的課程|A Course of Love|A Course of Love|
 |1370|1494197457|自动|白平衡AI - KEV|白平衡计AI - KEV|白平衡计AI - KEV|白平衡计AI - KEV|White Balance Meter AI - KEV|White Balance Meter AI - KEV|
 |1369|1511788295|自动|❌|Crying Suns|Crying Suns|Crying Suns|Crying Suns|Crying Suns|
 |1368|1494621456|自动|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|
