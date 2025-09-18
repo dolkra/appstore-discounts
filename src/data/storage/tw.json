@@ -86042,13 +86042,13 @@
     "maxPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00",
-      "All at once": "$60.00",
-      "Destructive": "$20.00",
-      "Shamanism": "$20.00",
-      "Totalitarian": "$20.00",
-      "Pantheon": "$20.00",
+      "All at once": "$120.00",
+      "Destructive": "$30.00",
+      "Shamanism": "$30.00",
+      "Totalitarian": "$30.00",
+      "Pantheon": "$30.00",
       "Acceleration": "$30.00",
-      "Spiritualism": "$20.00",
+      "Spiritualism": "$30.00",
       "Paganism": "$20.00"
     },
     "minPriceInfo": {
@@ -86064,6 +86064,22 @@
       "Paganism": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758208338417,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "All at once": "$120.00",
+            "Destructive": "$30.00",
+            "Shamanism": "$30.00",
+            "Totalitarian": "$30.00",
+            "Pantheon": "$30.00",
+            "Acceleration": "$30.00",
+            "Spiritualism": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757779936505,
