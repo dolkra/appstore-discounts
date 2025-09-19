@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 513370441,
+    name: {
+      mo: 'ParseGreek - Greek Quizzing',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6752503669,
     name: {
       hk: 'Solar Arc',
