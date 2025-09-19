@@ -24715,6 +24715,25 @@
     "history": [
       [
         {
+          "timestamp": 1758243424851,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "骷心巫龍": "$220.00",
+            "黑龍灰霸齒": "$220.00",
+            "大型英雄包 2": "$390.00",
+            "倪浮世": "$30.00",
+            "剎陀羅": "$90.00",
+            "但丁": "$150.00",
+            "英雄包 3": "$60.00",
+            "庫紹": "$90.00",
+            "帝娥翠": "$30.00",
+            "英雄包 1": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1757736813064,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -53142,6 +53161,27 @@
           "timestamp": 1745334141417,
           "price": 220,
           "formattedPrice": "$220.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1148617550": {
+    "name": "My Jump 2",
+    "maxPriceInfo": {
+      "price": 590,
+      "formattedPrice": "$590.00"
+    },
+    "minPriceInfo": {
+      "price": 590,
+      "formattedPrice": "$590.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1758243424851,
+          "price": 590,
+          "formattedPrice": "$590.00",
           "inAppPurchases": {}
         }
       ]

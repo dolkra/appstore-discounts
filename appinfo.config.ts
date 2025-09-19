@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1148617550,
+    name: {
+      mo: 'My Jump 2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 973789555,
     name: {
       mo: '夢想商店街物語',
