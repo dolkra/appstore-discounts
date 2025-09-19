@@ -4658,6 +4658,25 @@
     "history": [
       [
         {
+          "timestamp": 1758305795133,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "forScore Pro + Family Sharing": "₺999,99",
+            "forScore Pro 30-Day Pass": "₺129,99",
+            "Haydn: String Quartets": "₺99,99",
+            "Christmas Carol Collection": "₺99,99",
+            "Bach: Cello Suites": "₺99,99",
+            "Vivaldi: The Four Seasons": "₺99,99",
+            "Mozart: Twelve Duets": "₺99,99",
+            "The Mutopia Piano Collection": "₺229,99",
+            "forScore Pro": "₺699,99",
+            "Voluntary Upgrade": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758172308383,
           "price": 999.99,
           "formattedPrice": "₺999,99",
@@ -12601,6 +12620,25 @@
       "Biome Settlers - Skin Pack 2": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758305795133,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Vehicles pack": "₺449,99",
+            "Tools Pack": "₺249,99",
+            "Scary Pack": "₺449,99",
+            "Weapon Pack": "₺249,99",
+            "Minecraft Pets Pack": "₺449,99",
+            "Minecraft Morph Pack": "₺249,99",
+            "Marketplace Pass Full": "₺129,99",
+            "Marketplace Pass Trial": "₺129,99",
+            "The Incredibles": "₺349,99",
+            "Marketplace Pass w/trial": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756325591725,
@@ -114937,6 +114975,27 @@
           "timestamp": 1758269785305,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744650366": {
+    "name": "MyScoreTracker – Score Counter",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1758305795133,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
           "inAppPurchases": {}
         }
       ]

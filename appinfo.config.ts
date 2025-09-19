@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6744650366,
+    name: {
+      mo: 'MyScoreTracker – 計分器',
+    },
+    addType: 'auto',
+  },
+  {
     id: 513370441,
     name: {
       mo: 'ParseGreek - Greek Quizzing',
