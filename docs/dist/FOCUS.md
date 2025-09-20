@@ -9,7 +9,7 @@ So far, we've covered `6` `Countries or Regions` and  `1392` `Apps` <br />Push n
 |1391|6474672665|Automatic|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|Automatic|MyScoreTracker – 计分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – Score Counter|MyScoreTracker – Score Counter|
 |1389|513370441|Automatic|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|
-|1388|6752503669|Automatic|Solar Arc|Solar Arc|Solar Arc|Solar Arc|Solar Arc|Solar Arc|
+|1388|6752503669|Automatic|Solar Arc|Solar Arc|Solar Arc|Solar Arc|Solar Arc: Sunlight widget|Solar Arc: Sunlight widget|
 |1387|1148617550|Automatic|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|Automatic|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|
 |1385|1484024784|Automatic|❌|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|
