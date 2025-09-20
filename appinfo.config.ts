@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1551546168,
+    name: {
+      mo: '中文認字遊戲(無廣告版）',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6474672665,
+    name: {
+      mo: '開拓神秘島 DX',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6744650366,
     name: {
       mo: 'MyScoreTracker – 計分器',
