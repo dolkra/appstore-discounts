@@ -629,7 +629,7 @@ So far, we've covered `6` `Countries or Regions` and  `1390` `Apps` <br />Push n
 |769|6502287918|Automatic|❌|PPSSPP Gold - PSP emulator|PPSSPP Gold - PSP emulator|PPSSPP Gold - PSP emulator|PPSSPP Gold - PSP emulator|PPSSPP Gold - PSP emulator|
 |768|400666114|Automatic|Guitar Pro|Guitar Pro|Guitar Pro|Guitar Pro|Guitar Pro|Guitar Pro|
 |767|562989701|Automatic|❌|Vector Classic|Vector Classic|Vector Classic|Vector Classic|Vector Classic|
-|766|1127680609|Automatic|吾龟 - 记录乌龟生长，制作生长曲线|Tortoise - Keep Recording|吾龜 – 科學記錄你的寵物龜成長|吾龜 – 科學記錄你的寵物龜成長|Tortoise - Keep Tracking|Tortoise - Keep Tracking|
+|766|1127680609|Automatic|吾龟 — 乌龟成长记录·体重曲线|吾龜 – 科學記錄你的寵物龜成長|吾龜 – 科學記錄你的寵物龜成長|吾龜 – 科學記錄你的寵物龜成長|Tortoise - Keep Tracking|Tortoise - Keep Tracking|
 |765|1171627280|Automatic|❌|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-无尽的地下城: 暗黑世界|魔窟-无尽的地下城: 暗黑世界|
 |764|1179421849|Automatic|❌|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|
 |763|1260311003|Automatic|五线谱照片扫描仪 - 乐谱图像识别|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - Sheet Music|Notation Scanner - Sheet Music|
