@@ -68,6 +68,14 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 379869627,
+    name: {
+      hk: 'Living Earth - Clock & Weather',
+      mo: 'Living Earth - Clock & Weather',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1093924230,
     name: {
       mo: 'iAnnotate 4 — PDFs & more',
