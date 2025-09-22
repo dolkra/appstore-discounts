@@ -71491,6 +71491,23 @@
     "history": [
       [
         {
+          "timestamp": 1758529063330,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$150.00",
+            "All Poster Packs": "$90.00",
+            "Wisdom Font Pack": "$0.00",
+            "Just Font Pack": "$0.00",
+            "Style Film Pack": "$30.00",
+            "All Filter Packs": "$60.00",
+            "Unique Font Pack": "$30.00",
+            "Future Font Pack": "$0.00",
+            "Rainbow Film Pack": "$30.00",
+            "Always Font Pack": "$0.00"
+          }
+        },
+        {
           "timestamp": 1758525190491,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -105011,6 +105028,16 @@
     "history": [
       [
         {
+          "timestamp": 1758529063330,
+          "price": 285,
+          "formattedPrice": "$285.00",
+          "inAppPurchases": {
+            "可下載內容包": "$280.00",
+            "通行證": "$59.00",
+            "Street Wolf 裝束": "$65.00"
+          }
+        },
+        {
           "timestamp": 1758525190491,
           "price": 1130,
           "formattedPrice": "$1,130.00",
@@ -108098,6 +108125,19 @@
       "Street Wolf 裝束": "$65.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758529063330,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "$285.00",
+            "通行證": "$59.00",
+            "可下載內容包": "$280.00",
+            "Street Wolf 裝束": "$65.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755853999902,
@@ -113471,6 +113511,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758529063330,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "群雄爭霸": "$90.00",
+            "終身版": "$220.00",
+            "楚漢爭霸": "$190.00",
+            "巾幗綻芳華": "$120.00",
+            "自創地圖": "$120.00",
+            "無雙戰神": "$190.00",
+            "重振漢室": "$90.00"
+          }
+        },
         {
           "timestamp": 1758525190491,
           "price": 0,
@@ -139280,6 +139337,40 @@
           "price": 190,
           "formattedPrice": "$190.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748572801": {
+    "name": "首爾驅魔人1111: Roguelite",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "200,000 x Coins": "$320.00",
+      "80,000 x Coins": "$150.00",
+      "40,000 x Coins": "$90.00",
+      "10,000 x Coins": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00",
+      "200,000 x Coins": "$320.00",
+      "80,000 x Coins": "$150.00",
+      "40,000 x Coins": "$90.00",
+      "10,000 x Coins": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1758529063330,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "200,000 x Coins": "$320.00",
+            "80,000 x Coins": "$150.00",
+            "40,000 x Coins": "$90.00",
+            "10,000 x Coins": "$30.00"
+          }
         }
       ]
     ]

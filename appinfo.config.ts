@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6748572801,
+    name: {
+      mo: '首爾驅魔人1111: Roguelite',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1551546168,
     name: {
       mo: '中文認字遊戲(無廣告版）',
