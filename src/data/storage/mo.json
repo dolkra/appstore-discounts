@@ -45862,14 +45862,26 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Remove ADs": "USD 1.99"
+      "Remove ADs": "USD 1.99",
+      "Remove Ads": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Remove ADs": "USD 1.99"
+      "Remove ADs": "USD 1.99",
+      "Remove Ads": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758543903430,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Remove Ads": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757027467111,
@@ -68135,7 +68147,8 @@
       "购买30个海星": "USD 3.99",
       "购买6个海星": "USD 0.99",
       "6800贝壳购买": "USD 9.99",
-      "1200贝壳购买": "USD 1.99"
+      "1200贝壳购买": "USD 1.99",
+      "3000贝壳购买": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -68150,9 +68163,29 @@
       "购买30个海星": "USD 3.99",
       "购买6个海星": "USD 0.99",
       "6800贝壳购买": "USD 9.99",
-      "1200贝壳购买": "USD 1.99"
+      "1200贝壳购买": "USD 1.99",
+      "3000贝壳购买": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758543903430,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "600贝壳购买": "USD 0.99",
+            "3000贝壳购买": "USD 3.99",
+            "1200贝壳购买": "USD 1.99",
+            "6800贝壳购买": "USD 9.99",
+            "购买6个海星": "USD 0.99",
+            "购买30个海星": "USD 3.99",
+            "购买68个海星": "USD 9.99",
+            "购买128个海星": "USD 19.99",
+            "购买12个海星": "USD 1.99",
+            "心岛日记心礼会员VIP（1个月）": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751638347969,

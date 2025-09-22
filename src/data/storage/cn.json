@@ -43522,14 +43522,26 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00",
-      "Remove ADs": "¥15.00"
+      "Remove ADs": "¥15.00",
+      "Remove Ads": "¥15.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00",
-      "Remove ADs": "¥15.00"
+      "Remove ADs": "¥15.00",
+      "Remove Ads": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758543903430,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "Remove Ads": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1757027467111,
