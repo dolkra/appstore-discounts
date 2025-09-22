@@ -70,7 +70,7 @@
 |1331|465810912|自动|计算器HD+专业版|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|
 |1330|6443943397|自动|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|❌|❌|
 |1329|1637438059|自动|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|
-|1328|6749845582|自动|NPD知识普及|NPD知识普及|NPD知识普及|NPD知识普及|NPD知识普及|NPD知识普及|
+|1328| ~~6749845582~~ |自动| ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ |
 |1327|314306777|自动|❌|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|Kamasutra Sex Positions Guide|Kamasutra Sex Positions Guide|
 |1326| ~~6749620111~~ |自动| ~~❌~~ | ~~石器手機版Go！自由抓捕,寵物養成遊戲~~ | ~~❌~~ | ~~石器手機版Go！自由抓捕,寵物養成遊戲~~ | ~~❌~~ | ~~❌~~ |
 |1325|6746189288|自动|❌|不/存在的你，和我|不/存在的你，和我|不/存在的你，和我|The NOexistenceN of you AND me|The NOexistenceN of you AND me|
