@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1093924230,
+    name: {
+      mo: 'iAnnotate 4 — PDFs & more',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1096461203,
     name: {
       mo: '南瓜先生大冒險HD',
