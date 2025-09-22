@@ -531,6 +531,7 @@ export const latestAppConfig: AppConfig[] = [
       mo: 'NPD知识普及',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 314306777,
