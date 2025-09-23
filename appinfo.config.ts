@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 735752897,
+    name: {
+      mo: 'Beat the Boss 3 (17+)',
+    },
+    addType: 'auto',
+  },
+  {
     id: 379869627,
     name: {
       hk: 'Living Earth - Clock & Weather',
