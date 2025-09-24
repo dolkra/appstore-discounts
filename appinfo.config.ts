@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1603239519,
+    name: {
+      mo: '反叛公司: 場景工房',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1512282997,
     name: {
       mo: '子午线157: 第2章',
