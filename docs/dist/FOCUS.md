@@ -1142,7 +1142,7 @@ So far, we've covered `6` `Countries or Regions` and  `1400` `Apps` <br />Push n
 |266|6738767322|Automatic|森丘露营地|❌|❌|❌|❌|❌|
 |265|6737434454|Automatic|暗夜地城 - 单机暗黑刷装备挂机游戏|❌|❌|❌|❌|❌|
 |264|6743117370|Automatic|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|Clash X Pro : Network Analyzer|
-|263|6740705851|Automatic|手表变身器：童年时光驱动器 - 100多种声效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
+|263|6740705851|Automatic|手表变身器-手表游戏集100+多种音效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|手錶變身器：童年時光驅動器 - 100多種聲效|Henshin Hero - Game for watch|Henshin Hero - Game for watch|
 |262|6743487416|Automatic|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|
 |261|6478843819|Automatic|❌|家園、異星與獵人|家園、異星與獵人|家園、異星與獵人|Home, Planet & Hunters|Home, Planet & Hunters|
 |260|6502453075|Automatic|❌|Balatro|Balatro|Balatro|Balatro|Balatro|
