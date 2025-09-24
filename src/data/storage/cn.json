@@ -74695,6 +74695,23 @@
     "history": [
       [
         {
+          "timestamp": 1758720163693,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "购买钻石6元": "¥6.00",
+            "购买钻石30元": "¥30.00",
+            "购买钻石68元": "¥68.00",
+            "购买钻石18元": "¥18.00",
+            "购买钻石1元": "¥1.00",
+            "购买钻石12元": "¥12.00",
+            "购买钻石98元": "¥98.00",
+            "购买钻石128元": "¥128.00",
+            "购买钻石198元": "¥198.00",
+            "60鑽石": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1758716666731,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -77139,6 +77156,27 @@
           "timestamp": 1745362938822,
           "price": 6,
           "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1612913355": {
+    "name": "修仙家族模拟器",
+    "maxPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "minPriceInfo": {
+      "price": 0,
+      "formattedPrice": "免费"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1758720163693,
+          "price": 0,
+          "formattedPrice": "免费",
           "inAppPurchases": {}
         }
       ]

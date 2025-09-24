@@ -13794,6 +13794,25 @@
     "history": [
       [
         {
+          "timestamp": 1758720163693,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter N": "₺179,99",
+            "Chapter D": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter T": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter 10": "₺229,99",
+            "Chapter 9": "₺229,99",
+            "Chapter S": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758258733871,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -92585,6 +92604,27 @@
           "timestamp": 1745362938822,
           "price": 29.99,
           "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1612913355": {
+    "name": "修仙家族模拟器",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1758720163693,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
           "inAppPurchases": {}
         }
       ]
