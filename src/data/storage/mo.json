@@ -46322,15 +46322,37 @@
       "price": 0,
       "formattedPrice": "免費",
       "Remove ADs": "USD 1.99",
-      "Remove Ads": "USD 1.99"
+      "Remove Ads": "USD 1.99",
+      "Barista Special": "USD 9.99",
+      "Large Coffee": "USD 4.99",
+      "Medium Coffee": "USD 2.99",
+      "Small Coffee": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Remove ADs": "USD 1.99",
-      "Remove Ads": "USD 1.99"
+      "Remove Ads": "USD 1.99",
+      "Barista Special": "USD 9.99",
+      "Large Coffee": "USD 4.99",
+      "Medium Coffee": "USD 2.99",
+      "Small Coffee": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758788188347,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Barista Special": "USD 9.99",
+            "Large Coffee": "USD 4.99",
+            "Medium Coffee": "USD 2.99",
+            "Small Coffee": "USD 1.99",
+            "Remove Ads": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758543903430,
