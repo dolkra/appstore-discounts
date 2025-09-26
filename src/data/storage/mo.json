@@ -96166,14 +96166,22 @@
   "6752503669": {
     "name": "Solar Arc: Sunlight widget",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758921012660,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758269785305,
