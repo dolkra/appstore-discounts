@@ -8748,6 +8748,7 @@ export const part1AppConfig: AppConfig[] = [
   {
     id: 1055511498,
     name: 'Day One',
+    allowNotification: false,
   },
   {
     id: 1208145167,
@@ -9049,6 +9050,7 @@ export const part1AppConfig: AppConfig[] = [
   {
     id: 1453318714,
     name: ['Vostok — 创建美丽快拍页面', { us: 'Vostok — Story Make' }],
+    allowNotification: false,
   },
   {
     id: 931188326,
