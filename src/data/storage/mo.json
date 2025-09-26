@@ -21914,6 +21914,23 @@
     "history": [
       [
         {
+          "timestamp": 1758895879586,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Just For Kids": "USD 0.00",
+            "Mix It Up": "USD 0.00",
+            "Happy Holidays": "USD 1.99",
+            "Build Your Own Deck": "USD 2.99",
+            "Super Heroes": "USD 1.99",
+            "The Ellen Show": "USD 0.00",
+            "Panda Express": "USD 1.99",
+            "Ocean Vacation": "USD 0.00",
+            "Express Yourself": "USD 1.99",
+            "Adult Supervision": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1758892900291,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -27319,6 +27336,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758895879586,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "USD 2.79",
+            "1 Mo. Fongo Plus": "USD 9.99",
+            "1 Mo. Global Texting": "USD 3.99",
+            "3 Mo. CAN Texting": "USD 5.49",
+            "12 Mo. Fongo Ultimate": "USD 99.99",
+            "3 Mo. Fongo Ultimate": "USD 29.99",
+            "6 Mo. Fongo Ultimate": "USD 54.99",
+            "1 Mo. Fongo Ultimate": "USD 12.99",
+            "12 Mo. Remove Ads": "USD 16.99",
+            "6 Mo. Remove Ads": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1758892900291,
           "price": 4.99,
@@ -43969,6 +44003,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1758895879586,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "功能禮包": "USD 3.99",
+            "魔法禮包": "USD 8.99",
+            "綜合禮包": "USD 15.99",
+            "寶石180個": "USD 2.99",
+            "喚生石2400個": "USD 8.99",
+            "自動禮包": "USD 15.99",
+            "魅魔禮包": "USD 41.99",
+            "寶石300個": "USD 3.99",
+            "戒指禮包": "USD 24.99",
+            "地獄石240個": "USD 24.99"
+          }
+        },
         {
           "timestamp": 1758892900291,
           "price": 0.99,
@@ -61126,6 +61177,27 @@
             "200 Tips": "USD 0.99",
             "30 Mini-Game Tickets": "USD 1.99"
           }
+        }
+      ]
+    ]
+  },
+  "1452151266": {
+    "name": "壓力單位轉換",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1758895879586,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
         }
       ]
     ]

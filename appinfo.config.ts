@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1452151266,
+    name: {
+      mo: '壓力單位轉換',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6746137187,
     name: {
       mo: 'Poppy Playtime Chapter 4',
