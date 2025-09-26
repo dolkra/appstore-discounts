@@ -1222,7 +1222,7 @@
 |189|6475002485|手动|❌|Reeder.|Reeder.|Reeder.|Reeder.|Reeder.|
 |188| ~~1198176727~~ |手动| ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ | ~~Controller for HomeKit~~ |
 |187|904280696|手动|Things 3|Things 3|Things 3|Things 3|Things 3|Things 3|
-|186|1055511498|手动|Day One Journal|Day One Journal|Day One Journal|Day One Journal|Day One|Day One|
+|186| ~~1055511498~~ |手动| ~~Day One Journal~~ | ~~Day One Journal~~ | ~~Day One Journal~~ | ~~Day One Journal~~ | ~~Day One~~ | ~~Day One~~ |
 |185|1208145167|手动|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|Picsew - Scrollshot & Collage|
 |184|1444636541|手动|Photomator|Photomator|Photomator|Photomator|Photomator – Photo Editor|Photomator|
 |183| ~~1444383602~~ |手动| ~~Goodnotes 6：笔记，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6: AI Notes & Docs~~ | ~~Goodnotes 6: AI Notes & Docs~~ |
@@ -1285,7 +1285,7 @@
 |126|1309638846|手动|Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影|Vintage Camera - Goodak|Vintage Camera - Goodak|
 |125|1618180398|手动|照片同步-导出备份相册照片视频|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|照片同步-備份相冊照片視頻|PhotoSync-Backup your photos|PhotoSync-Backup your photos|
 |124| ~~456637671~~ |手动| ~~安全监控照片+视频Pro~~ | ~~安全監控照片+視頻Pro~~ | ~~安全監控照片+視頻Pro~~ | ~~安全監控照片+視頻Pro~~ | ~~Safety Photo+Video Pro~~ | ~~Safety Photo+Video Pro~~ |
-|123|1453318714|手动|Vostok — 创建美丽快拍页面|Vostok — 创建美丽快拍页面|Vostok — 创建美丽快拍页面|Vostok — 创建美丽快拍页面|Vostok — Story Maker|Vostok — Story Maker|
+|123| ~~1453318714~~ |手动| ~~Vostok — 创建美丽快拍页面~~ | ~~Vostok — 创建美丽快拍页面~~ | ~~Vostok — 创建美丽快拍页面~~ | ~~Vostok — 创建美丽快拍页面~~ | ~~Vostok — Story Maker~~ | ~~Vostok — Story Maker~~ |
 |122|931188326|手动|DayCost|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|DayCost Pro - Personal Finance|
 |121|6449930220|手动|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari  手表浏览器|Wafari - Watch Browser|Wafari - Watch Browser|
 |120| ~~818394449~~ |手动| ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~时间轴-全球历史~~ | ~~Timeline - World history~~ | ~~Timeline - World history~~ |
