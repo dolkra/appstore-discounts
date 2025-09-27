@@ -33543,6 +33543,27 @@
       ]
     ]
   },
+  "1104742864": {
+    "name": "中医诊所系统",
+    "maxPriceInfo": {
+      "price": 398,
+      "formattedPrice": "¥398.00"
+    },
+    "minPriceInfo": {
+      "price": 398,
+      "formattedPrice": "¥398.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1758982169008,
+          "price": 398,
+          "formattedPrice": "¥398.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1104795347": {
     "name": "iFiles 2",
     "maxPriceInfo": {
@@ -82997,6 +83018,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1758982169008,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758463769891,
