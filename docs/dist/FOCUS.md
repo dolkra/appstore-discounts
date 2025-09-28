@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1406` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1407` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1407|1070462618|Automatic|❌|Hero Emblems II|Hero Emblems II|Hero Emblems II|Hero Emblems II|Hero Emblems II|
 |1406|1104742864|Automatic|中医诊所系统|中醫診所系統|中醫診所系統|中醫診所系統|TCM Clinic System|TCM Clinic System|
 |1405|1452151266|Automatic|压力单位转换|壓力單位轉換|壓力單位轉換|壓力單位轉換|Pressure Units Converter|Pressure Units Converter|
 |1404|6746137187|Automatic|❌|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|
