@@ -93704,6 +93704,14 @@
     "history": [
       [
         {
+          "timestamp": 1759107485157,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756351840082,
           "price": 69.99,
           "formattedPrice": "₺69,99",
@@ -108290,7 +108298,8 @@
       "F4U Corsair": "₺39,99",
       "Junkers Ju 52": "₺39,99",
       "Boeing 737-800": "₺129,99",
-      "CRJ900": "₺39,99"
+      "CRJ900": "₺39,99",
+      "Me 262": "₺99,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -108321,9 +108330,29 @@
       "F4U Corsair": "₺39,99",
       "Junkers Ju 52": "₺39,99",
       "Boeing 737-800": "₺129,99",
-      "CRJ900": "₺39,99"
+      "CRJ900": "₺39,99",
+      "Me 262": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759107485157,
+          "price": 179.99,
+          "formattedPrice": "₺179,99",
+          "inAppPurchases": {
+            "Me 262": "₺99,99",
+            "Boeing 737-800": "₺129,99",
+            "Airbus A350-1000": "₺179,99",
+            "Robin DR400": "₺39,99",
+            "Boeing 777F": "₺99,99",
+            "Airbus A319": "₺99,99",
+            "Antares 21E": "₺39,99",
+            "ASK 21": "₺39,99",
+            "Airbus A321": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759010997019,
