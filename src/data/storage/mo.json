@@ -34899,6 +34899,14 @@
     "history": [
       [
         {
+          "timestamp": 1759158739810,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755526443856,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -37306,6 +37314,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759158739810,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "連續包月 SVIP": "USD 1.49",
+            "年度 SVIP": "USD 13.49",
+            "SVIP 連續包年": "USD 12.99",
+            "連續包年 SVIP": "USD 12.99",
+            "連續包季 SVIP": "USD 3.99",
+            "活動特惠季度 SVIP": "USD 2.99",
+            "新年特惠 1 年 SVIP 聯合禮包 3": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 2": "USD 12.99",
+            "新年特惠 1 年 SVIP 聯合禮包 1": "USD 12.99",
+            "SVIP特惠 (買一年送半年)": "USD 12.99"
+          }
+        },
         {
           "timestamp": 1759155151599,
           "price": 14.99,
@@ -40786,7 +40811,7 @@
     ]
   },
   "1111420122": {
-    "name": "Hear My Baby Heartbeat App",
+    "name": "Hear My Baby Heartbeat App 2.0",
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "USD 7.99"

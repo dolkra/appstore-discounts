@@ -984,7 +984,7 @@ So far, we've covered `6` `Countries or Regions` and  `1413` `Apps` <br />Push n
 |437|1099088440|Automatic|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|
 |436|1108479411|Automatic|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|
 |435|1110646984|Automatic|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|
-|434|1111420122|Automatic|❌|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat Monitor|Hear My Baby Heartbeat App 2.0|
+|434|1111420122|Automatic|❌|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|
 |433|1112429079|Automatic|物种起源|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|
 |432|1113736426|Automatic|❌|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|
 |431|1118115766|Automatic|❌|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|

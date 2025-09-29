@@ -984,7 +984,7 @@
 |437|1099088440|自动|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|
 |436|1108479411|自动|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|
 |435|1110646984|自动|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|
-|434|1111420122|自动|❌|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat Monitor|Hear My Baby Heartbeat App 2.0|
+|434|1111420122|自动|❌|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|
 |433|1112429079|自动|物种起源|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|
 |432|1113736426|自动|❌|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|
 |431|1118115766|自动|❌|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|
