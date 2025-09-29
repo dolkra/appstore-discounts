@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6633427774,
+    name: {
+      cn: '为了吾王-多人联机策略跑团',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6472942395,
     name: {
       mo: 'Explorer for Sketchfab',
