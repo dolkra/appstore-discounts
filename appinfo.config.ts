@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1437669537,
+    name: {
+      mo: 'Bendy and the Ink Machine',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6633427774,
     name: {
       cn: '为了吾王-多人联机策略跑团',
