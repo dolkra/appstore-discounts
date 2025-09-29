@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6472942395,
+    name: {
+      mo: 'Explorer for Sketchfab',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1451559391,
     name: {
       mo: 'Phone Buddy Phone Lost Alert',
