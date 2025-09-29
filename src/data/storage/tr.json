@@ -16957,6 +16957,23 @@
     "history": [
       [
         {
+          "timestamp": 1759129990146,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "TRex 700 N": "₺129,99",
+            "TRex 500": "₺129,99",
+            "AH-64 Apache": "₺129,99",
+            "Blast 450 3D": "₺129,99",
+            "Bell 222": "₺129,99",
+            "Bell 222 Airwolf": "₺129,99",
+            "A10 Warthog": "₺129,99",
+            "Hughes 500": "₺129,99",
+            "Bell 47": "₺129,99",
+            "Montana 3D": "₺129,99"
+          }
+        },
+        {
           "timestamp": 1759122774266,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -73343,6 +73360,25 @@
     "history": [
       [
         {
+          "timestamp": 1759129990146,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺499,99",
+            "Orient Express": "₺129,99",
+            "New York 2121 Board": "₺249,99",
+            "The Complete Collection": "₺1.499,99",
+            "Champions Token Bundle": "₺299,99",
+            "Victorian London Board": "₺249,99",
+            "Theme Collection": "₺999,99",
+            "Lava Dice": "₺229,99",
+            "Transylvania Theme Bundle": "₺449,99",
+            "New York 2121": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759021340716,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -92187,6 +92223,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759129990146,
+          "price": 549,
+          "formattedPrice": "₺549,00",
+          "inAppPurchases": {
+            "Opposing Fronts": "₺0,00",
+            "All Content": "₺0,00",
+            "Tales of Valor": "₺0,00",
+            "1 vs 1 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 2-5": "₺0,00",
+            "2 vs 2 Skirmish Maps": "₺0,00",
+            "4 vs 4 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 6-10": "₺0,00",
+            "3 vs 3 Skirmish Maps": "₺0,00",
+            "Invasion of Normandy 11-15": "₺0,00"
+          }
+        },
         {
           "timestamp": 1759126824674,
           "price": 549,
@@ -119558,7 +119611,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Sunlight widget",
+    "name": "Solar Arc: Sunrise & Sunset",
     "maxPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
