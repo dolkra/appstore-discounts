@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1412` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1413` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1413|1335318686|Automatic|❌|IPSW Go|IPSW Go|IPSW Go|IPSW Go|IPSW Go|
 |1412|1437669537|Automatic|❌|Bendy and the Ink Machine|Bendy and the Ink Machine|Bendy and the Ink Machine|Bendy and the Ink Machine|Bendy and the Ink Machine|
 |1411|6633427774|Automatic|为了吾王-多人联机策略跑团|❌|❌|❌|❌|❌|
 |1410|6472942395|Automatic|Explorer for Sketchfab|Explorer for Sketchfab|Explorer for Sketchfab|Explorer for Sketchfab|Explorer for Sketchfab|Explorer for Sketchfab|
@@ -983,7 +984,7 @@ So far, we've covered `6` `Countries or Regions` and  `1412` `Apps` <br />Push n
 |437|1099088440|Automatic|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|
 |436|1108479411|Automatic|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|
 |435|1110646984|Automatic|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|
-|434|1111420122|Automatic|❌|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat Monitor|Hear My Baby Heartbeat App|
+|434|1111420122|Automatic|❌|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat Monitor|Hear My Baby Heartbeat App 2.0|
 |433|1112429079|Automatic|物种起源|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|
 |432|1113736426|Automatic|❌|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|
 |431|1118115766|Automatic|❌|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|
