@@ -500,7 +500,7 @@
 |917|1560779038|自动|伤寒论条阅|伤寒论条阅|伤寒论条阅|伤寒论条阅|伤寒论条阅|伤寒论条阅|
 |916|6450680262|自动|❌|CMSPlayer|CMSPlayer|CMSPlayer|CMSPlayer|CMSPlayer|
 |915|6443750571|自动|EmoGuard - 关键字拦截器|EmoGuard - 關鍵字攔截器|EmoGuard - 關鍵字攔截器|EmoGuard - 關鍵字攔截器|EmoGuard - Keyword Blocker|EmoGuard - Keyword Blocker|
-|914|6466976437|自动|❌|OOTP Baseball 26 Go!|OOTP Baseball 26 Go!|OOTP Baseball 26 Go!|OOTP Baseball 26 Go!|OOTP Baseball 26 Go!|
+|914| ~~6466976437~~ |自动| ~~❌~~ | ~~OOTP Baseball 26 Go!~~ | ~~OOTP Baseball 26 Go!~~ | ~~OOTP Baseball 26 Go!~~ | ~~OOTP Baseball 26 Go!~~ | ~~OOTP Baseball 26 Go!~~ |
 |913|424591347|自动|❌|FINAL FANTASY III (3D REMAKE)|FINAL FANTASY III (3D REMAKE)|FINAL FANTASY III (3D REMAKE)|FINAL FANTASY III (3D REMAKE)|FINAL FANTASY III (3D REMAKE)|
 |912|563082328|自动|Military Retirement|Military Retirement|Military Retirement|Military Retirement|Military Retirement|Military Retirement|
 |911|962291530|自动|Analog Beijing|Analog Beijing|Analog Beijing|Analog Beijing|Analog Beijing|Analog Beijing|
