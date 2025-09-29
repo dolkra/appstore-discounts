@@ -3575,6 +3575,7 @@ export const part1AppConfig: AppConfig[] = [
       tw: 'OOTP Baseball 26 Go!',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 424591347,
