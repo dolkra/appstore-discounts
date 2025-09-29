@@ -19631,6 +19631,23 @@
     "history": [
       [
         {
+          "timestamp": 1759180223086,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Tower Unlock All Upgrades": "USD 0.99",
+            "Pile O' Monkey Money": "USD 4.99",
+            "Vault O' Monkey Money": "USD 19.99",
+            "Vault O' Tokens": "USD 9.99",
+            "Bundle O' Monkey Money": "USD 2.99",
+            "Mountain O' Monkey Money": "USD 49.99",
+            "Classic Tack Tower Skin Sale": "USD 0.99",
+            "Classic Tack Tower Skin": "USD 1.99",
+            "Classic Super Monkey Skin Sale": "USD 0.99",
+            "Classic Super Monkey Skin": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1759176755573,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -48033,6 +48050,27 @@
           "timestamp": 1721960142187,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1278822051": {
+    "name": "殺戮の天使",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759180223086,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]
