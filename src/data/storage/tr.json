@@ -38289,6 +38289,16 @@
     "history": [
       [
         {
+          "timestamp": 1759273866660,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "The Little Ones": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745708536984,
           "price": 599.99,
           "formattedPrice": "₺599,99",
@@ -39610,6 +39620,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759273866660,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759187467462,
@@ -65089,6 +65107,14 @@
     "history": [
       [
         {
+          "timestamp": 1759273866660,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756681866312,
           "price": 229.99,
           "formattedPrice": "₺229,99",
@@ -79522,6 +79548,14 @@
     "history": [
       [
         {
+          "timestamp": 1759273866660,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1755299553649,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -81211,8 +81245,8 @@
       "Small coffee": "₺39,99"
     },
     "minPriceInfo": {
-      "price": 35,
-      "formattedPrice": "₺35,00",
+      "price": 29.99,
+      "formattedPrice": "₺29,99",
       "5$": "₺229,99",
       "TeleGuard ID": "₺99,99",
       "Advanced calls": "₺149,99",
@@ -81225,6 +81259,25 @@
       "Small coffee": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759273866660,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {
+            "5$": "₺229,99",
+            "TeleGuard ID": "₺129,99",
+            "Advanced calls": "₺149,99",
+            "Advanced calls promo": "₺99,99",
+            "Channel": "₺299,99",
+            "100$": "₺4.499,99",
+            "20$": "₺899,99",
+            "Big coffee": "₺229,99",
+            "Medium coffee": "₺129,99",
+            "Small coffee": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1755213151840,
