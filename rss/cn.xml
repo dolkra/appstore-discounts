@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-09-29T15:38:08.441Z</updated>
+    <updated>2025-09-30T02:44:20.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-09-29T15:38:08.442Z</updated>
+        <updated>2025-09-30T02:44:20.986Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 29 Sep 2025 15:38:08 GMT</id>
+        <id>rankingcnTue, 30 Sep 2025 02:44:20 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-09-29T15:38:08.443Z</updated>
+        <updated>2025-09-30T02:44:20.986Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1413</b>
+        <b>1414</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1212</b>
+        <b>1213</b>
       </td>
       <td>
         <b>60</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>754</b>
+        <b>755</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>592</b>
+        <b>593</b>
       </td>
       <td>
         <b>39</b>
@@ -1022,6 +1022,62 @@ feedId:157007849019630592+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>51</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>52</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>DLC：英雄对决</i>：<b>1</b>
+              </li><li>
+                <i>DLC：怪物联盟</i>：<b>1</b>
+              </li><li>
+                <i>DLC：龙之神庙</i>：<b>1</b>
+              </li><li>
+                <i>DLC：贪婪洞窟</i>：<b>1</b>
+              </li><li>
+                <i>DLC：异界</i>：<b>1</b>
+              </li><li>
+                <i>DLC：外星入侵</i>：<b>1</b>
+              </li><li>
+                <i>DLC：邪恶之心</i>：<b>1</b>
+              </li><li>
+                <i>DLC：孤山世界</i>：<b>1</b>
+              </li><li>
+                <i>奇境森林</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -1385,6 +1441,155 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[怪物乐土]]></title>
+        <id>怪物乐土-cn-1759198736602</id>
+        <link href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4"/>
+        <updated>2025-09-30T02:18:56.602Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b7/94/80b794a5-54cf-d801-c62d-4cbdc5fcbddb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥12.00 ~ ¥18.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥15.00</b>
+</p><h2>应用描述</h2><p>
+  宠物对战与银河恶魔城的融合。在可爱的侧视像素世界中收集和训练怪物，并让其为你作战。
+
+【寻找灵魂使魔，成为你最可靠的冒险伙伴】
+跟随先人的步伐，成为一个怪物饲养人并拯救怪物避难所。借助收集的怪物组建团队，开展史诗般冒险，解锁不断扩张的世界。在成为终极怪物饲养人的过程中，你将揭开威胁着人类与怪物之间和平的谜团。
+
+【探索银河恶魔城式的世界】
+探索银河恶魔城式的世界。借助培养的怪物们各种专属能力，你可以在这个世界上进行探索，拓宽自己视界。砍掉树藤、撞倒墙壁、滑过间隙......在怪物的帮助下，通通不在话下。
+
+【组建你自己的队伍】
+从世界各地孵化、收集和训练怪物，组建自己的组合。每个怪物均具备独有技能树，方便定制你自己的队伍。
+
+【战术3V3作战，激情碰撞】
+有策略地发出进攻命令，发挥最大效果；集中进攻以创造各种连击，反复出招，找到最佳的连击，从而获得最为稀有的怪兽蛋。
+
+【与其他的饲养员联机匹配战斗】
+针锋相对，在线上玩家对战中体验雄壮的战斗，接受技巧与能力的试炼！收集并训练怪物，点满它们的技能树，一路作战，让你的怪物撑到最后！
+
+【联系我们】
+抖音：@良心工作室
+快手：@良心工作室
+B站：@良心工作室
+小红书：@良心工作室
+微博：@良心工作室官方
+Q群：925023982
+
+若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[打造世界-经典沙盒建造]]></title>
+        <id>打造世界-经典沙盒建造-cn-1759198736602</id>
+        <link href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4"/>
+        <updated>2025-09-30T02:18:56.602Z</updated>
+        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00<br/>DLC：英雄对决: ¥8.00 → ¥6.00<br/>DLC：怪物联盟: ¥12.00 → ¥9.00<br/>DLC：龙之神庙: ¥9.00 → ¥7.00<br/>DLC：贪婪洞窟: ¥6.00 → ¥4.00<br/>DLC：异界: ¥8.00 → ¥6.00<br/>DLC：外星入侵: ¥8.00 → ¥6.00<br/>DLC：邪恶之心: ¥12.00 → ¥9.00<br/>DLC：孤山世界: ¥12.00 → ¥9.00<br/>奇境森林: ¥15.00 → ¥13.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/da/13/63da13de-f588-8ae2-54c2-5b482baf422f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥18.00</span> → <b>
+  <strong>¥12.00</strong>
+</b><span>[¥9.00 ~ ¥18.00]</span>）
+</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>DLC：英雄对决：</strong><span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>
+  </li><li>
+    <strong>DLC：怪物联盟：</strong><span>¥12.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥12.00]</span>
+  </li><li>
+    <strong>DLC：龙之神庙：</strong><span>¥9.00</span> → <b>
+  <strong>¥7.00</strong>
+</b><span>[¥7.00 ~ ¥9.00]</span>
+  </li><li>
+    <strong>DLC：贪婪洞窟：</strong><span>¥6.00</span> → <b>
+  <strong>¥4.00</strong>
+</b><span>[¥4.00 ~ ¥6.00]</span>
+  </li><li>
+    <strong>DLC：异界：</strong><span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>
+  </li><li>
+    <strong>DLC：外星入侵：</strong><span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>
+  </li><li>
+    <strong>DLC：邪恶之心：</strong><span>¥12.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥12.00]</span>
+  </li><li>
+    <strong>DLC：孤山世界：</strong><span>¥12.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥12.00]</span>
+  </li><li>
+    <strong>奇境森林：</strong><span>¥15.00</span> → <b>
+  <strong>¥13.00</strong>
+</b><span>[¥13.00 ~ ¥15.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥12.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    DLC：姐妹连：<b>¥2.00</b>
+  </li><li>
+    DLC：英雄对决：<b>¥6.00</b>
+  </li><li>
+    DLC：怪物联盟：<b>¥9.00</b>
+  </li><li>
+    DLC：龙之神庙：<b>¥7.00</b>
+  </li><li>
+    DLC：贪婪洞窟：<b>¥4.00</b>
+  </li><li>
+    DLC：异界：<b>¥6.00</b>
+  </li><li>
+    DLC：外星入侵：<b>¥6.00</b>
+  </li><li>
+    DLC：邪恶之心：<b>¥9.00</b>
+  </li><li>
+    DLC：孤山世界：<b>¥9.00</b>
+  </li><li>
+    奇境森林：<b>¥13.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《打造世界》结合了策略、方块建造沙盒以及塔防多种元素。游戏中，你不是一个人在战斗，需要带领矮人部落在这个充满危险生物的随机世界里进行探索，安排他们分工合作收集资源，制作需要的物品、武器和盔甲，以及建造城堡，来抵御危险生物的入侵。
+
+【世界探索、沙盒生存】
+游戏共有七个不同的世界（游戏本体4个地图+3个dlc地图），每个世界都是随机生成的岛屿，你可以在游戏中自由的改变地形地貌。不同世界有着各自的地理及生物特色，同时也暗藏各类怪物和BOSS。带上大聪明矮人征服各个世界吧！
+
+【资源采集、制作发展】
+游戏中挖掘矿藏、捕捉动物、打败敌人、种植农田等等方式获得原料；升级科技树，制作数百种完全不同的物品！要知道除了常规的武器、建筑材料、食物、炼金药水外，你甚至建造一个广大的矿井网，配上升降机和铁路，快速抵达藏有最珍贵金属的矿脉中。如何发展矮人部落，你可要好好思考一下。
+对了，必须得告诉你，游戏中存在各种魔法，比如打开传送门，提高矮人运输资源的效率；使用魔法之光照亮黑暗的洞穴吓跑怪物；使用降水或是魔法森林加快树木成长，或者是使用指南针魔法找到隐藏资源，从而帮助加快资源开采，探索世界。
+
+【自由建造、殖民管理】
+发展一个部落可没那么容易，你需要安排矮人们的衣食住行，可以直接控制矮人进行挖掘、砍伐、攻击、建造等操作，并在矮人与怪物和BOSS战斗时使用魔法帮助他们。
+在游戏刚开始时，你只有1位矮人，随着在这个世界的等级提升，会获得更多的矮人；而随着人数越来越多，部落规模也越来越大的。
+部落的发展，建筑是必不可少的，发挥你天马星空的想象吧，无论是建古代宫殿风格、还是想要征服天空的空中住宅、又或者是结合现代科技坚不可摧的堡垒，只要你脑洞够大，创造独属于你的矮人之家！
+
+【即时战略&塔防战斗】
+有些怪物会成群结队的来掠夺矮人资源，有些怪物会定期从传送门而来攻打矮人，你需要带领矮人建立攻防系统，在的堡垒周围的路上设满陷阱和导弹塔，抵抗成群结队入侵而来的敌人。
+
+【DLC拓展内容】
+丰富的DLC内容拓展既可以带你领略不一样的世界：融合中式风格元素的《龙之神庙》、家园领地保卫战的《孤山世界》、暗黑领主和矮人的终极决战《邪恶之心》，还可以让你在世界探索中增加更多乐趣：女矮人携宠物及新装备登场的《姐妹连》、在神秘的斯芬克斯的沙漠世界探索神庙的《废弃矿山》、充满了植物和古老的魔法的《贪婪洞窟》，召唤英雄战士和法师的《英雄对决》，对抗更加强大的地下深渊头目的《怪物联盟》。
+
+【联系我们】
+抖音：@良心工作室
+快手：@良心工作室
+B站：@良心工作室
+小红书：@良心工作室
+微博：@良心工作室官方
+Q群：320015298
+
+若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[电影精灵 - 专业视频编辑和电影制作]]></title>

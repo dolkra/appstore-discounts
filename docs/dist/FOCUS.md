@@ -119,7 +119,7 @@ So far, we've covered `6` `Countries or Regions` and  `1414` `Apps` <br />Push n
 |1303| ~~6745578435~~ |Automatic| ~~正版传奇-鸡哥爆款表情包之战,多开打金高爆超变至尊极品传世界~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~❌~~ |
 |1302|6504453094|Automatic|❌|Black Border 2|Black Border 2|Black Border 2|Black Border 2|Black Border 2|
 |1301|1198161469|Automatic|❌|百萬樂曲物語|百萬樂曲物語|百萬樂曲物語|March to a Million|March to a Million|
-|1300|1558634102|Automatic|❌|分貝計 (聲級計)|分貝計 (聲級計)|分貝計 (聲級計)|Sound Meter (SPL meter)|Sound Meter (SPL meter)|
+|1300|1558634102|Automatic|分贝计 (声级计)|分貝計 (聲級計)|分貝計 (聲級計)|分貝計 (聲級計)|Sound Meter (SPL meter)|Sound Meter (SPL meter)|
 |1299|456976375|Automatic|❌|衝刺！賽車物語|衝刺！賽車物語|衝刺！賽車物語|Grand Prix Story|Grand Prix Story|
 |1298|348759822|Automatic|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|
 |1297|1047815745|Automatic|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|
@@ -196,7 +196,7 @@ So far, we've covered `6` `Countries or Regions` and  `1414` `Apps` <br />Push n
 |1226|1659946589|Automatic|❌|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|Super Dark Deception|
 |1225|725234217|Automatic|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|Rock Drum Machine|
 |1224|6572283606|Automatic|❌|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|中医古籍名著大全（离线版）|
-|1223|6742472194|Automatic|❌|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|
+|1223|6742472194|Automatic|❌|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|鬼谷八荒 Tale of Immortal|Tale of Immortal|Tale of Immortal|
 |1222|834248867|Automatic|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|SKRWT|
 |1221|507937883|Automatic|❌|THE KING OF FIGHTERS-i 2012|THE KING OF FIGHTERS-i 2012|THE KING OF FIGHTERS-i 2012|THE KING OF FIGHTERS-i 2012|THE KING OF FIGHTERS-i 2012|
 |1220|6747970208|Automatic|❌|Rush Hour Girlfriends|Rush Hour Girlfriends|Rush Hour Girlfriends|Rush Hour Girlfriends|Rush Hour Girlfriends|
