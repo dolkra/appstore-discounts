@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6749466141,
+    name: {
+      us: 'Red Dot - ICE Activity Alerts',
+    },
+    addType: 'auto',
+  },
+  {
     id: 495937600,
     name: {
       mo: 'The Tiny Bang Story',
