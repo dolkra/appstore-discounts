@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-01T03:31:16.121Z</updated>
+    <updated>2025-10-01T13:50:03.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-01T03:31:16.123Z</updated>
+        <updated>2025-10-01T13:50:03.474Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 01 Oct 2025 03:31:16 GMT</id>
+        <id>rankingusWed, 01 Oct 2025 13:50:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-01T03:31:16.123Z</updated>
+        <updated>2025-10-01T13:50:03.474Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -147,6 +147,23 @@ feedId:157008699750812672+userId:73658201673997312
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1505636751">TeleGuard</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6451009326">LMP - Music Hub</a>
       </td>
       <td>
         <ul>
@@ -611,6 +628,52 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMP - Music Hub]]></title>
+        <id>LMP - Music Hub-us-1759325052205</id>
+        <link href="https://apps.apple.com/us/app/lmp-music-hub/id6451009326?uo=4"/>
+        <updated>2025-10-01T13:24:12.205Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/lmp-music-hub/id6451009326?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/02/29/b20229a8-bb44-191c-9b1e-1c31c866e8c7/icon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h2>Application Description</h2><p>
+  Play local music or stream from a file/media server with LMP. 
+
+Apple TV version included, with support for Emby, Navidrome, Plex, and Jellyfin.
+
+▣ Import via iTunes or folder and play local tracks
+
+LMP was designed from scratch with offline music in mind. You can store music on your device in two forms: iTunes music or audio file. The first would require syncing with iTunes on Windows or Finder on Mac. To import as audio files, simply transfer them to the LMP Music folder on your device via any means. If you choose the latter, you will be able to enjoy additional features, such as editing of metadata via the LMP browser assistant.
+
+▣ Connect to a cloud server and stream music from the server
+
+If you have insufficient storage on your device, you can also store your tracks on a server and stream from the server. File servers using SMB and WebDAV are supported. However, we recommend hosting a media server instead, via Plex, Emby, Navidrome or Subsonic due to faster import speeds. All tracks come together seamlessly, no matter how they are imported, providing a unified experience. You can enable the option in the settings to hide repeated tracks across servers.
+
+▣ Manage playlists with ease
+
+LMP has its own playlist system that allows you to not only add tracks from all sources, but also artists. All tracks belonging to the artist would automatically be added to the playlist everytime you open the app or rescan, even newly added ones. With flexible artist splitting, you will be able to ensure that tracks get allocated to the right artist.
+
+When the AI playlist is enabled, LMP will also be able to generate a playlist for you based on your listening preferences. Usage data is only recorded if this feature is enabled, and all data recorded for this is stored locally, so you do not have to worry about data privacy.
+
+▣ Supports CarPlay & Siri
+
+With support for CarPlay, you can start playing a playlist or control what's playing from your car's CarPlay console. Alternatively, you can also tell Siri to start playing a track or all tracks belonging to a particular artist, or use it to control the playback state of the current track.
+
+▣ Support LRC lyrics
+
+LMP supports both embedded lyrics and .lrc files. Use the LRC or Enhanced LRC format, and the app will be able to autoscroll lyrics as the music plays. If you do not have time to add your own lyrics, you can specify the lyrics API to use, and the app will attempt to fetch lyrics of any track that is playing.
+
+▣ Browser Assistant
+
+Manage local files on the app using the LMP browser assistant, which you can open on your computer's browser. Import new files or move/delete existing files using the Folders tool, edit music metadata using the Metadata tool or even manage your playlists using the playlists tool.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/4e/b1/024eb1ae-1e63-70fb-cc2d-72da117c0a43/2ffddeb0-d4b4-4c4b-88dc-6d8d8851ff53_Main.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/87/1c/03871ccd-b7bd-0a94-50c2-dd897e2accba/0f92d25c-d4fa-43a7-9640-59f7f6db5868_Imports.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/95/bc/e395bc9a-c2e3-af50-4375-84c432d31bbc/13413303-72c4-4e69-94a8-c2b5d3561462_CarPlay.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/16/e8/e416e8f6-a951-3f97-a3f7-1bf3825afefa/fdb232fa-cae9-41c4-a467-013780ec8d18_Lyrics.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/07/d4/3307d43f-e8f5-e5bb-9269-a15aa25eb1b6/55646a04-6d00-4605-8278-3e19070dd6e9_Playlist.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/c7/06/39c70661-0d1c-6747-0f12-2751b75742e7/dd7287cb-47ff-4199-a52c-9863d97a0d15_Artist_Split.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/5b/0a/ac5b0a1b-f2b7-0246-69b2-c30cec30e27a/b110a9b3-bd15-4e67-bde8-c9a5eb78feee_LMP_Assistant.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/32/1e/46321e29-cc0c-7940-0f70-b0efb1ffca02/f88f631a-854e-492e-b491-21c48821a075_Chinese_Optimization.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/11/a9/3511a987-6364-97b4-c4ef-10042896ebcb/4188a5f8-8d24-4da6-8463-73ad24056345_Widgets.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/94/24/429424ae-53ca-f269-14b1-158597f888b8/188118bc-684c-4a5a-8040-4f0dc7e82c8d_Main.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/9d/15/269d15f5-8f2f-f145-741c-608300dc17b6/04427514-1754-4c8e-9e77-8a040fcb48c6_Imports.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/0f/c9/540fc94d-1046-9a88-b6a3-47f16ba78fd1/4f3508e0-1404-4050-9471-a16ff0ac4229_Lyrics.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/23/21/192321b0-fcd2-94fa-419d-e319614087b3/d52b5533-e545-4d6b-9d07-53da6d7238eb_Playlists.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/98/f6/8a98f6af-bf78-43f3-49ed-c3f88d47150f/d6b49f22-102e-40b1-8f48-b03b3738fe57_Assistant.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7Days : Backer]]></title>
@@ -1601,195 +1664,5 @@ Features:
 - An Ever-changing Spire: Whenever you embark on a journey up the Spire, the layout differs each time. Choose a risky or safe path, face different enemies, choose different cards, discover different relics, and even fight different bosses!
 - Powerful Relics to Discover: Powerful items known as relics can be found throughout the Spire. The effects of these relics can greatly enhance your deck through powerful interactions. But beware, obtaining a relic may cost you more than just gold…
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5d/30/05/5d300525-410b-3acf-6ad1-675cf05cdbbe/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/33/75/c2/3375c25b-0d72-259b-3dfd-bf23510c0979/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/e1/c3/a9e1c388-1272-0081-5d3b-28b63bee69f4/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0d/a9/84/0da98413-3973-d0d7-2f46-49c9991dc950/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/21/4e/6e/214e6ef9-1059-8997-a43b-21b8e95b63b7/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f2/de/f1/f2def195-680e-04f9-e28e-9c200773a98f/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7e/2d/85/7e2d859f-931c-3364-682b-898ae1faf782/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5f/94/63/5f9463b4-22d9-8db1-3f7d-eac3d94ddb19/pr_source.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OOTP Baseball 26 Go!]]></title>
-        <id>OOTP Baseball 26 Go!-us-1759065408999</id>
-        <link href="https://apps.apple.com/us/app/ootp-baseball-26-go/id6466976437?uo=4"/>
-        <updated>2025-09-28T13:16:48.999Z</updated>
-        <summary type="html"><![CDATA[OOTP26 Pack Booster Bundle: $124.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/ootp-baseball-26-go/id6466976437?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/0f/9b/630f9bd8-a4c1-4dee-9cde-ea9d6eb78088/AppIconiOS-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>OOTP26 Pack Booster Bundle：</strong><span>$124.99</span> → <b>
-  <strong>$14.99</strong>
-</b><span>[$14.99 ~ $124.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$9.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    OOTP26 Rainbow Booster Bundle：<b>$19.99</b>
-  </li><li>
-    OOTP26 Pack Booster Bundle：<b>$14.99</b>
-  </li><li>
-    25,000 PP for OOTP Go 26!：<b>$19.99</b>
-  </li><li>
-    175,000 PP for OOTP Go 26!：<b>$99.99</b>
-  </li><li>
-    12,000 PP for OOTP Go 26!：<b>$9.99</b>
-  </li><li>
-    Bundle MLB All-In-One：<b>$19.99</b>
-  </li><li>
-    5,500 PP for OOTP Go 26!：<b>$4.99</b>
-  </li><li>
-    75,000 PP for OOTP Go 26!：<b>$49.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Take the beloved Out of the Park Baseball series with you wherever you go. The award-winning baseball simulation game is now in your hands wherever you are in the world! 
-
-Manage teams, control any franchise in 2025 or throughout MLB History, build and draft your Perfect Team, build a completely fictional baseball universe and so much more. You can oversee your league at a high level or play out each game in the gorgeous 3D game mode, managing play by play or even pitch by pitch. OOTP has it all covered.
-
-Play Your Way
-· Franchise Mode: A single-player oriented mode where you can run your favorite MLB, KBO, international or fictional baseball organization. 2025 MLB and 2025 KBO seasons - with accurate teams, schedules, and rosters - are included! Plus! 1927, 1984, and 2014 MLB seasons also included. 
-· Perfect Team Mode: Build a dynasty in this online mode competing against players around the world.
-
-Manage MLB History
-· Gain access to historical MLB leagues and rosters from 1901 - 2024
-· Simulate any and all MLB scenarios and games that you have dreamt of
-· Manage all on-field decisions and strategies
-· Draft, scout, trade, and sign players to build a powerhouse 
-
-Official MLB & KBO Licenses
-· Full 2025 rosters from both MLB & KBO franchises free with game purchase
-· Includes full MLB and MiLB rosters
-
-Create Your Perfect Team
-· Create your own custom team to pit against players around the world
-· Cross-platform compatibility with Out of the Park Baseball 26 users
-· Pull and collect player cards from the vast player pool available
-· Compete in tournaments against other players to see who has the best team
-
-New This Year
-· Full Scouting System: Improve scouting accuracy on players, develop reports, choose priorities, assign scouting budgets, and more
-· 3D Upgrades: New dynamic scoreboard, custom randomized fictional park generation
-· Roster, AI, and Engine: Greatly improved AI, added more variety and detail in players ratings by expanding the internal scale
-· KBO Improvements: Added military service time and free agent cash compensation
-· Perfect Team Notifications: New settings all you to choose what to receive push notifications about
-· Perfect Team Clubhouse Stars: Purchase exclusive cards and pack bundles with these Stars; earned through tournaments, Perfect Draft, and league play.
-· Perfect Team Variants: New and revamped boosted-card mechanic, with a more user friendly way to boost; "feed as you go"
-· And more!
-
-
-OOTP Go 26 comes with an additional three historical MLB seasons for FREE! Run any franchise from the 1927, 1984, and 2014 MLB seasons. All other historical MLB seasons (1901-2024) available for purchase. 
-
-Major League and MiLB trademarks and copyrights are used with permission of Major League Baseball.
-
-Officially Licensed Product – MLB Players, Inc. PLAYERS CHOICE®
-
-Out of the Park Developments © Copyright 2025. All Rights Reserved
-
-* Access permission notice for gameplay
-· STORAGE: The permission is required to store game data and will not access personal files such as photos.
-· MEMORY: Recommended system minimum of 2 GB RAM
-· PHONE: The permission is required to proceed with in-game events and rewards and will not affect calls.
-· CONTACTS: The permission is required to sync your friend list and Google Account.
-
-※ You'll be able to enjoy the service except features related to above authorities even if you don't give permission to the above.
-"Consumer Information:
-• Language support: English, 한국어
-
-• Items are available for purchase in this game. Some paid items may not be refundable depending on the type of item.
-• For Com2uS Mobile Game Terms of Service, visit http://www.withhive.com/.
-- Terms of Service : http://terms.withhive.com/terms/policy/view/M9/T1
-- Privacy Policy : http://terms.withhive.com/terms/policy/view/M9/T3
-• For questions or customer support, please contact our Customer Support by visiting https://support.ootpdevelopments.com/portal/en/home
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/ff/49/08ff497c-88e8-0669-71c2-3826a9796d01/main_screen.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/99/89/979989ef-36c8-2c99-374f-1831f95c7883/mariners_park.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/95/3f/9a953f11-b03e-0dac-1af2-22ac35b6102a/kbo.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/c5/72/49c572be-fea4-c2f3-69ff-2d3667e0401e/pack.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/26/33/90263325-f9f8-0d7f-9de3-3d58fdf42299/home_office.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/f9/03/c2f903a3-0505-881a-f122-aa8acdb9813b/scouting.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/41/74/b6417442-7488-497f-ae2e-7542fbcf2638/judge.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/13/42/fa1342be-2ca6-7380-95e7-79b408b6ebac/hist_b_w.PNG/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OOTP Baseball 26 Go!]]></title>
-        <id>OOTP Baseball 26 Go!-us-1759032846848</id>
-        <link href="https://apps.apple.com/us/app/ootp-baseball-26-go/id6466976437?uo=4"/>
-        <updated>2025-09-28T04:14:06.848Z</updated>
-        <summary type="html"><![CDATA[OOTP26 Pack Booster Bundle: $124.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/ootp-baseball-26-go/id6466976437?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/0f/9b/630f9bd8-a4c1-4dee-9cde-ea9d6eb78088/AppIconiOS-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>OOTP26 Pack Booster Bundle：</strong><span>$124.99</span> → <b>
-  <strong>$14.99</strong>
-</b><span>[$14.99 ~ $124.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$9.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    OOTP26 Rainbow Booster Bundle：<b>$19.99</b>
-  </li><li>
-    OOTP26 Pack Booster Bundle：<b>$14.99</b>
-  </li><li>
-    25,000 PP for OOTP Go 26!：<b>$19.99</b>
-  </li><li>
-    175,000 PP for OOTP Go 26!：<b>$99.99</b>
-  </li><li>
-    12,000 PP for OOTP Go 26!：<b>$9.99</b>
-  </li><li>
-    5,500 PP for OOTP Go 26!：<b>$4.99</b>
-  </li><li>
-    Bundle MLB All-In-One：<b>$19.99</b>
-  </li><li>
-    75,000 PP for OOTP Go 26!：<b>$49.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Take the beloved Out of the Park Baseball series with you wherever you go. The award-winning baseball simulation game is now in your hands wherever you are in the world! 
-
-Manage teams, control any franchise in 2025 or throughout MLB History, build and draft your Perfect Team, build a completely fictional baseball universe and so much more. You can oversee your league at a high level or play out each game in the gorgeous 3D game mode, managing play by play or even pitch by pitch. OOTP has it all covered.
-
-Play Your Way
-· Franchise Mode: A single-player oriented mode where you can run your favorite MLB, KBO, international or fictional baseball organization. 2025 MLB and 2025 KBO seasons - with accurate teams, schedules, and rosters - are included! Plus! 1927, 1984, and 2014 MLB seasons also included. 
-· Perfect Team Mode: Build a dynasty in this online mode competing against players around the world.
-
-Manage MLB History
-· Gain access to historical MLB leagues and rosters from 1901 - 2024
-· Simulate any and all MLB scenarios and games that you have dreamt of
-· Manage all on-field decisions and strategies
-· Draft, scout, trade, and sign players to build a powerhouse 
-
-Official MLB & KBO Licenses
-· Full 2025 rosters from both MLB & KBO franchises free with game purchase
-· Includes full MLB and MiLB rosters
-
-Create Your Perfect Team
-· Create your own custom team to pit against players around the world
-· Cross-platform compatibility with Out of the Park Baseball 26 users
-· Pull and collect player cards from the vast player pool available
-· Compete in tournaments against other players to see who has the best team
-
-New This Year
-· Full Scouting System: Improve scouting accuracy on players, develop reports, choose priorities, assign scouting budgets, and more
-· 3D Upgrades: New dynamic scoreboard, custom randomized fictional park generation
-· Roster, AI, and Engine: Greatly improved AI, added more variety and detail in players ratings by expanding the internal scale
-· KBO Improvements: Added military service time and free agent cash compensation
-· Perfect Team Notifications: New settings all you to choose what to receive push notifications about
-· Perfect Team Clubhouse Stars: Purchase exclusive cards and pack bundles with these Stars; earned through tournaments, Perfect Draft, and league play.
-· Perfect Team Variants: New and revamped boosted-card mechanic, with a more user friendly way to boost; "feed as you go"
-· And more!
-
-
-OOTP Go 26 comes with an additional three historical MLB seasons for FREE! Run any franchise from the 1927, 1984, and 2014 MLB seasons. All other historical MLB seasons (1901-2024) available for purchase. 
-
-Major League and MiLB trademarks and copyrights are used with permission of Major League Baseball.
-
-Officially Licensed Product – MLB Players, Inc. PLAYERS CHOICE®
-
-Out of the Park Developments © Copyright 2025. All Rights Reserved
-
-* Access permission notice for gameplay
-· STORAGE: The permission is required to store game data and will not access personal files such as photos.
-· MEMORY: Recommended system minimum of 2 GB RAM
-· PHONE: The permission is required to proceed with in-game events and rewards and will not affect calls.
-· CONTACTS: The permission is required to sync your friend list and Google Account.
-
-※ You'll be able to enjoy the service except features related to above authorities even if you don't give permission to the above.
-"Consumer Information:
-• Language support: English, 한국어
-
-• Items are available for purchase in this game. Some paid items may not be refundable depending on the type of item.
-• For Com2uS Mobile Game Terms of Service, visit http://www.withhive.com/.
-- Terms of Service : http://terms.withhive.com/terms/policy/view/M9/T1
-- Privacy Policy : http://terms.withhive.com/terms/policy/view/M9/T3
-• For questions or customer support, please contact our Customer Support by visiting https://support.ootpdevelopments.com/portal/en/home
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/08/ff/49/08ff497c-88e8-0669-71c2-3826a9796d01/main_screen.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/99/89/979989ef-36c8-2c99-374f-1831f95c7883/mariners_park.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/95/3f/9a953f11-b03e-0dac-1af2-22ac35b6102a/kbo.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/c5/72/49c572be-fea4-c2f3-69ff-2d3667e0401e/pack.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/26/33/90263325-f9f8-0d7f-9de3-3d58fdf42299/home_office.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/f9/03/c2f903a3-0505-881a-f122-aa8acdb9813b/scouting.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/41/74/b6417442-7488-497f-ae2e-7542fbcf2638/judge.PNG/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fa/13/42/fa1342be-2ca6-7380-95e7-79b408b6ebac/hist_b_w.PNG/406x228bb.png" />]]></content>
     </entry>
 </feed>
