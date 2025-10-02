@@ -80390,14 +80390,27 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99",
-      "Orbit Pack": "USD 4.99"
+      "Orbit Pack": "USD 4.99",
+      "Rocket Science Pack": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99",
-      "Orbit Pack": "USD 4.99"
+      "Orbit Pack": "USD 4.99",
+      "Rocket Science Pack": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759424942258,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Rocket Science Pack": "USD 4.99",
+            "Orbit Pack": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759360249869,
@@ -81169,10 +81182,18 @@
       "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759424942258,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,

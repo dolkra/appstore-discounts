@@ -48757,6 +48757,25 @@
     "history": [
       [
         {
+          "timestamp": 1759424942258,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Purchase game": "₺39,99",
+            "Props Tip: Temple corner": "₺39,99",
+            "Props Tip: Pyramid": "₺39,99",
+            "Props Tip: flower": "₺39,99",
+            "Get tips on holographic camera": "₺39,99",
+            "Get tips about two weeks mesh box factory eye": "₺39,99",
+            "Get tips about the triangle blocks (1-6)": "₺39,99",
+            "Get tips on the bucket": "₺39,99",
+            "Get tips on stone-eyed": "₺39,99",
+            "Get tips about this mysterious stone": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759079365353,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -96147,15 +96166,26 @@
     "maxPriceInfo": {
       "price": 449.99,
       "formattedPrice": "₺449,99",
-      "Orbit Pack": "₺229,99"
+      "Orbit Pack": "₺229,99",
+      "Rocket Science Pack": "₺229,99"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99",
-      "Orbit Pack": "₺99,99"
+      "Orbit Pack": "₺99,99",
+      "Rocket Science Pack": "₺229,99"
     },
     "history": [
       [
+        {
+          "timestamp": 1759424942258,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Rocket Science Pack": "₺229,99",
+            "Orbit Pack": "₺229,99"
+          }
+        },
         {
           "timestamp": 1759360249869,
           "price": 299.99,
@@ -96933,10 +96963,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759424942258,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,

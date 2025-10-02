@@ -79648,14 +79648,27 @@
     "maxPriceInfo": {
       "price": 68,
       "formattedPrice": "¥68.00",
-      "Orbit Pack": "¥38.00"
+      "Orbit Pack": "¥38.00",
+      "Rocket Science Pack": "¥38.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00",
-      "Orbit Pack": "¥38.00"
+      "Orbit Pack": "¥38.00",
+      "Rocket Science Pack": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759424942258,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Orbit Pack": "¥38.00",
+            "Rocket Science Pack": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759360249869,
