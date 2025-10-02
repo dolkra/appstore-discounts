@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 391269557,
+    name: {
+      mo: 'Apnea Trainer',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6749466141,
     name: {
       us: 'Red Dot - ICE Activity Alerts',
