@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 542397575,
+    name: {
+      mo: 'Space Agency',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 663068211,
+    name: {
+      mo: 'SimpleRockets',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1588558691,
     name: {
       mo: 'Math Master | 數學遊戲 火柴拼圖 | 交叉数学',
