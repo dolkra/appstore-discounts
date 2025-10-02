@@ -65766,6 +65766,21 @@
     "history": [
       [
         {
+          "timestamp": 1759411255526,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Explorer Pack": "USD 10.99",
+            "The Complete Collection": "USD 34.99",
+            "City Break": "USD 1.99",
+            "Victorian London Board": "USD 5.99",
+            "Theme Collection": "USD 29.99",
+            "Welcome Offer": "USD 19.99",
+            "New York 2121 Board": "USD 5.99",
+            "Orient Express": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1759407784077,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -89302,7 +89317,9 @@
       "Leek Goldcoin +10000": "USD 9.99",
       "Leek Goldcoin +100": "USD 0.99",
       "Leek Goldcoin +10": "USD 0.99",
-      "Leek Goldcoin +1000": "USD 3.99"
+      "Leek Goldcoin +1000": "USD 3.99",
+      "宝箱大师": "USD 2.99",
+      "10000枚韭菜金币": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -89311,9 +89328,26 @@
       "Leek Goldcoin +10000": "USD 9.99",
       "Leek Goldcoin +100": "USD 0.99",
       "Leek Goldcoin +10": "USD 0.99",
-      "Leek Goldcoin +1000": "USD 3.99"
+      "Leek Goldcoin +1000": "USD 3.99",
+      "宝箱大师": "USD 2.99",
+      "10000枚韭菜金币": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759411255526,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "宝箱大师": "USD 2.99",
+            "Leek VIP": "USD 1.99",
+            "10000枚韭菜金币": "USD 9.99",
+            "Leek Goldcoin +100": "USD 0.99",
+            "Leek Goldcoin +10": "USD 0.99",
+            "Leek Goldcoin +1000": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
