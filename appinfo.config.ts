@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6738239220,
+    name: {
+      mo: '电工证考试题库-2024最新电工考试题库',
+    },
+    addType: 'auto',
+  },
+  {
     id: 391269557,
     name: {
       mo: 'Apnea Trainer',
