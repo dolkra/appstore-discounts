@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-02T23:37:03.145Z</updated>
+    <updated>2025-10-03T20:39:21.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-02T23:37:03.146Z</updated>
+        <updated>2025-10-03T20:39:21.483Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 02 Oct 2025 23:37:03 GMT</id>
+        <id>rankingcnFri, 03 Oct 2025 20:39:21 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-02T23:37:03.146Z</updated>
+        <updated>2025-10-03T20:39:21.483Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1422</b>
+        <b>1423</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1221</b>
+        <b>1222</b>
       </td>
       <td>
         <b>60</b>
@@ -95,14 +95,20 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
+        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>1</b>
+            <span>总次数</span>：<b>2</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 内购买项目</span><ol>
+              <li>
+                <i>英雄枪手</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -112,7 +118,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
       </td>
       <td>
         <ul>
@@ -129,7 +135,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1622064157">Sismo: Vibration Meter & Alert</a>
+        <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
         <ul>
@@ -146,20 +152,14 @@ feedId:157007849019630592+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
+        <a href="https://apps.apple.com/cn/app/id1622064157">Sismo: Vibration Meter & Alert</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App 内购买项目</span><ol>
-              <li>
-                <i>英雄枪手</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>价格</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -527,6 +527,77 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[钢铁战队(R)]]></title>
+        <id>钢铁战队(R)-cn-1759522375548</id>
+        <link href="https://apps.apple.com/cn/app/%E9%92%A2%E9%93%81%E6%88%98%E9%98%9F-r/id1659316190?uo=4"/>
+        <updated>2025-10-03T20:12:55.548Z</updated>
+        <summary type="html"><![CDATA[英雄枪手: ¥15.00 → ¥9.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%92%A2%E9%93%81%E6%88%98%E9%98%9F-r/id1659316190?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/96/50/09/965009ec-37cc-8290-2945-04385b9bf59f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
+  <li>
+    <strong>英雄枪手：</strong><span>¥15.00</span> → <b>
+  <strong>¥9.00</strong>
+</b><span>[¥9.00 ~ ¥15.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥18.00</b>
+</p><h3>App 内购买项目</h3><ul>
+  <li>
+    英雄青翼：<b>¥25.00</b>
+  </li><li>
+    英雄自由猎人：<b>¥16.00</b>
+  </li><li>
+    英雄铁甲马克：<b>¥25.00</b>
+  </li><li>
+    英雄超能博士：<b>¥16.00</b>
+  </li><li>
+    英雄桂英：<b>¥9.00</b>
+  </li><li>
+    英雄塞帕斯：<b>¥16.00</b>
+  </li><li>
+    英雄风刃：<b>¥9.00</b>
+  </li><li>
+    英雄虚空猎手：<b>¥16.00</b>
+  </li><li>
+    英雄枪手：<b>¥9.00</b>
+  </li><li>
+    英雄命运女侠：<b>¥9.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  ===铁皮公司正版授权===
+===中国地区正式回归===
+
+这是游戏创作者继获奖作品Kingdom Rush（王国保卫战）三部曲之后的又一超凡太空奇幻历险之作。即时，动态以及深度策略的游戏模式将带你穿越到不可思议的未知星球。沉浸式拟真游戏场景，过瘾的游戏玩法，以及超凡绝佳的艺术感和一丝诙谐幽默感带你进入激烈的战争世界。勇猛的士兵，威猛的机甲人和强大的外星人通通等你来统率，并肩迎接最强挑战。
+
+招募和训练银河系中最伟大的英雄，率领他们参与几乎不可能完成的危险任务，发动他们强大的力量和能力。即使是在战斗最激烈的时候你也可通过改变自己部队的角色而进行战略调整，突击队员调整为狙击兵，火焰喷射器调整为导弹发射器。通过炸弹袭击，智能地雷，支援部队，砲塔和各种特种武器转变战斗态势。
+
+机器人军队整装待发;星际战舰坠毁了;到处是巨大怪物，未知的种族;所向披靡的攻击;绝望的营救;无所畏惧地破坏行动正在银河之中发生......银河系需要你的统领。
+
+银河系需要钢铁战队
+
+***游戏特色***
+
+-指导你的部队参加3个不同世界的21次任务。准备好发动英勇的攻击，坚守阵地，拯救平民，潜入超级计算机和各种英雄的物品。每个任务需要新的战术和行动才能取得胜利。
+
+-通过17次终结式特别行动的战术规则测试你的机智。每个关卡通过伤痕铭记挑战。谅你也不敢。
+
+-解锁不可能模式。仅对大无畏敢死队开放。谅你绝对不敢。
+
+-在史诗战斗中击败巨大而非凡的头目。这些头目卑鄙而异常地巨大，他们决心要将你碾碎。钢铁战队，整装待发！
+
+-40+升级以提升你的战略，同时授予你的部队防御无人机，凝固汽油弹火箭，反弹爆炸和更多的器械可使用。
+
+-14位具有出色能力的英雄听从你的调遣。将他们训练到极致出色，否则惹恼他们后果自负。
+
+-8种可向敌人发动进攻的特种武器，让你的战术更加具有深度。还有什么比得上一个瞄准了的导弹？对50枚高爆炸炸弹的轨道炮袭击！
+
+-完成70+成就中的任何成就，赢得你应得的奖励。
+
+选择你的游戏困难模式，找到属于你的公平挑战：休闲，普通或老兵，你自己决定！！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/01/b2/27/01b22791-5ad9-12f0-1303-5b4ea10cc68f/ffcae78f-3562-4909-91e1-da21e20a7267_2208x1242_1-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/dc/ca/10/dcca10a7-0883-7fdb-18f3-0e14dc31ce3b/72e4089c-698c-48db-9337-21c50668b5db_2208x1242_2-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/06/a9/42/06a94223-f919-b565-e550-e11b99966fba/4ba42fc5-6516-47c1-a10e-c4f1404bfe24_2208x1242_3-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a2/f0/7a/a2f07af9-b905-c5d1-bd91-30640d35a03b/d1682118-3b77-4757-b4ee-204446ffd010_2208x1242_4-zh-cn.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/64/f7/11/64f71168-0d7f-124d-0d19-36939e3fe28f/b8af4872-d0a9-4a9c-a5e5-a2a499f6bb62_2208x1242_5-zh-cn.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/73/5d/c0/735dc061-969c-6809-8ba4-b846c6f5c262/d8bd83cd-f74a-46f3-b07a-6d03282d13f8_2732x2048_1-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/51/61/a4/5161a423-1a2f-99e9-bb70-7855d6e8bcad/d0fe1f38-7a94-4854-b6a4-d20aff512cb6_2732x2048_2-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/46/41/5f/46415fce-724e-3cfb-e3f6-3ad34d975a7d/3060744b-f471-40e9-8a4e-aa462f507762_2732x2048_3-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/14/25/6c/14256c65-1a3e-806c-53b4-ccb27a1be4a0/1252fdb8-9668-4ea9-889b-eca37bf47617_2732x2048_4-zh-cn.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/24/a3/54/24a3546c-0971-d227-0473-de60c04866f9/a3c210be-fe80-4b87-8bbd-41284b92e738_2732x2048_5-zh-cn.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[钢铁战队(R)]]></title>
@@ -933,379 +1004,5 @@ Pads and soundscapes are intended as a subtle accompaniment to musical arrangeme
 
 * 振幅扫描
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/e1/d5/a4e1d59b-7300-7654-a902-751a5d5bdc69/mzl.jvnkbypg.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/70/d7/9c/70d79c5a-b7fc-e41b-4d8b-74b8c2fd1576/mzl.zunrjmkm.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/6e/79/75/6e7975e7-c858-087d-ca26-93e02c68eac4/mzl.wlsgoida.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/bf/75/59/bf755902-ea9d-9d56-d33d-eb2c04bf6617/mzl.mvlbylzw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/19/f9/bc/19f9bcb4-a35e-3fb2-0d3a-4b728583d164/mzl.rlbfwsws.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/5b/cd/94/5bcd949e-63f1-77b0-b9fb-6720ae6dd7d2/mzl.gtbonkvz.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/d7/09/c3/d709c343-a22a-a05c-292e-2a040907314f/mzl.jdoisxxq.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/65/c0/86/65c086a4-af5c-1fc5-4723-0ad2404053b4/mzl.wefuqzkm.png/480x360bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/d3/b6/f3/d3b6f3f7-a62e-39b6-6a9f-2829494a637b/mzl.rcldslhr.png/360x480bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/bc/93/be/bc93be27-4d4c-044a-254c-325d5de85b93/mzl.siihecrh.png/480x360bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
-        <id>BreatheIn: Calm Breathing-cn-1759241567027</id>
-        <link href="https://apps.apple.com/cn/app/breathein-calm-breathing/id1481100296?uo=4"/>
-        <updated>2025-09-30T14:12:47.027Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/breathein-calm-breathing/id1481100296?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  与BreatheIn一起提升您的生活！
-
-您是否曾在生活的混乱中感到迷茫？您是否曾渴望一刻的平静与安宁？与BreatheIn一起深入探索呼吸的变革力量！
-
-解锁平静与活力！
-深呼吸、缓慢、有规律是通向宁静心灵和充满活力生活的秘密钥匙！沉浸在您的呼吸节奏中，体验真正活着的快乐。通过赋能的呼吸练习统一您的心灵和身体，踏上自我发现和更新的旅程！
-
-为您精选和测试的实践！
-在BreatheIn，我们精心挑选并亲自验证了每个呼吸练习，以确保您只得到最好的。通过加入我们探索这些变革性的实践，拥抱更健康、更充实的生活！
-
-与Apple Health无缝集成！
-毫不费力地追踪您的进展！您与BreatheIn的正念分钟会自动添加到Apple Health，使监测您的健康之旅变得前所未有的简单。
-
-发现各种呼吸练习！
-
-方呼吸（4-4-4-4）：一种简单而强大的技巧，可重新获得控制并缓解压力。
-放松呼吸（4-7-8）：一种安定的方法，可平息焦虑并迅速入睡。
-Bhramari Pranayama（蜜蜂呼吸）：一种协调技术，可安抚心灵和放松身体。
-同步呼吸：旨在提高心率变异性（HRV）以获得最佳健康。
-一次呼吸，一步一步地改变您的生活！
-每个练习都是通往更平衡、更有韧性的自我的一块垫脚石。与BreatheIn一起征服压力，焕发您的身体，找到您的中心！
-
-今天就开始您的旅程！
-下载BreatheIn，踏入和平、平衡和活力的世界。您每次的呼吸都是通往更充实的您的一步！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[帕斯卡契约]]></title>
-        <id>帕斯卡契约-cn-1759241567027</id>
-        <link href="https://apps.apple.com/cn/app/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%A5%91%E7%BA%A6/id1476649036?uo=4"/>
-        <updated>2025-09-30T14:12:47.027Z</updated>
-        <summary type="html"><![CDATA[价格: ¥35.00 → ¥25.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%B8%95%E6%96%AF%E5%8D%A1%E5%A5%91%E7%BA%A6/id1476649036?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/5f/95/4d5f9550-dcee-1191-97b3-0a1ce028ad03/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥35.00</span> → <b>
-  <strong>¥25.00</strong>
-</b><span>[¥25.00 ~ ¥35.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥25.00</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    追加內容·「深入黑雾」：<b>¥6.00</b>
-  </li><li>
-    遗忘之潮：<b>¥18.00</b>
-  </li><li>
-    皇座之舞：<b>¥12.00</b>
-  </li><li>
-    泰伦斯先驱者套装：<b>¥6.00</b>
-  </li><li>
-    成人礼：<b>¥6.00</b>
-  </li><li>
-    睡美人套装：<b>¥6.00</b>
-  </li><li>
-    秘灵：<b>¥6.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  2022年8月19日
-最新追加内容「皇座之舞」现已推出！
-执念的亡魂再一次被召唤到索拉斯，背负所有德慕格的意志，重新踏上充满血腥的复仇之路。
-德慕格的领袖伊琳娜将在本模式中作为可操作角色登场。以快节奏的双刀轮舞，通过截然不同的方式体验索拉斯大陆的挑战。
-
-
-2020年8月20日
-资料片「遗忘之潮」现已发售！
-追加新剧情、新场景、新可操作角色。
-和杰洛尔德一起，去探索被诅咒的伊西索亚吧！
-
-■ 设备支持：
- 
-- iOS 9 及以上系统
-
-- iPhone6S 及以上的 iPhone 机型
-
-- 拥有 2G 及以上内存的 iPad 机型
-
-
-■ 游戏简介
-
-《帕斯卡契约》是一款幻想风格的动作角色扮演游戏，由TIPSWORKS工作室开发，拥有超高品质的画面表现，将带来移动平台前所未有的感官体验。
-
-世界被黑雾笼罩，光明微渺而神秘，人们在其中迷失狂乱……而这一切背后的秘密至今无人知晓。玩家将操作多名角色，体验深邃的故事，探索多样的地图，遭遇超乎想象的敌人，在史诗级的配乐中面对史诗级的BOSS，迎接史诗级的死亡与真相！
-
-
-■ 游戏特色
-
-- 20小时以上的游戏内容，让人难忘的冒险
-
-- 4名可操作角色，4种特色鲜明的战斗体验 
-
-- 几十种敌人，丰富且有深度的ACT战斗
-
-- 众多NPC和隐藏支线
-
-- 极具探索感的立体地图
-
-- 电影化的演出与叙事，全程语音
-
-- 极富渲染力的配乐，由世界著名交响乐团倾情演奏
-
-- 使用MFi认证手柄游玩，操作体验更佳
-
-
-■ 故事背景
-
-上古时代，一场天灾导致太阳沉入海底，失去光明的大陆突然被名为“污秽”的黑雾所笼罩。与此同时被后人尊为神明的“巨像”第一次行走于大地之上，散发着星火一般的光，驱散着黑雾也为人类带来了唯一的希望。
-
-千百年之后，人类早已习惯同巨像相伴而行，穿行于黑雾之中苟延残喘。然而一场神秘的瘟疫，导致巨像相继陨落。被教会放逐的先驱者泰伦斯，发现这场瘟疫似乎与多年前离开自己的妻子——特蕾莎，有着某种联系。为了追查瘟疫的源头，同时也为了寻回失踪多年的妻子，泰伦斯开始了一场极尽悲苦的救赎之旅。
-
-■ 官方社群
-- 官方QQ群： 820237970
-- 微信公众号：帕斯卡契约
-- 官方贴吧：帕斯卡契约
-- 官方微博：帕斯卡契约
-- BiliBili官方账号：帕斯卡契约
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/9a/09/cf/9a09cf1a-8514-995f-0087-71035412292c/f648fb9d-f020-4da2-80f9-468e261024eb_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1d/94/5a/1d945a01-d7fb-e71d-411b-456f8c663f56/cc9df958-5ccc-448a-b6db-154000014e85_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b2/23/91/b2239170-9d37-9832-d655-6e7391f56c33/e2dec6d8-745f-413e-8286-66e1b2398230__U7ef4_U5965_U62c9CH.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/cd/bd/f9/cdbdf94f-435c-abad-39b7-57315df2ca3b/ec7f92d6-9700-4adb-b43a-52206f6316ad__U8d1d_U59ae_U5854CH.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/40/28/11/402811f3-1f11-ab02-1170-7e8450de32eb/986c9ff3-630c-4a10-93a8-d333382e22ac_The-Tides-of-Oblivion_2_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/18/4a/43184a2c-98f0-11a9-a53b-7868b0821202/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/28/bf/42/28bf425c-3762-252b-5179-7dfcc8409869/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/21/1a/49/211a49c9-e85f-f6f2-aefc-adb0cefeda5e/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a9/3b/2f/a93b2f52-7b88-1961-8f14-4d30b14c8b04/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e4/24/82/e4248246-c3b9-8e11-aaf0-829468badfb1/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/79/ed/13/79ed13c4-2c6f-31d7-686c-5a0d16ccbc96/3a101f9a-26a2-4dc5-bb5f-08bc939ad3d7_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/10/d8/09/10d80916-80d3-5761-48b4-b3c6fc33ea80/99407b87-5729-4731-9169-b72f56f1bfdf_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/23/29/e9/2329e97a-9d22-8561-8e51-b68e102e6dff/e9276453-72dd-451d-b566-222205d3f72e__U7ef4_U5965_U62c9CH.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/6f/99/5b/6f995bf0-9ea1-640e-7c3e-4183bd21aa94/0618e5da-000d-45d3-925f-809dfb113220__U8d1d_U59ae_U5854CH.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/4c/7a/61/4c7a61c8-985b-42d2-9bc0-a0c6b8736431/ee74474a-6da6-444e-b7c1-a787959313df_The-Tides-of-Oblivion_2-2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a7/89/9e/a7899e0e-5328-fd01-5115-6f75f01ba170/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d1/a6/da/d1a6dabf-eae8-9075-00cc-61d396d4560c/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2a/8b/4a/2a8b4a7c-fffd-0cb6-3c79-21ca4be1d995/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/f2/82/02/f282029c-5277-384b-ecd6-d7e29bfd9b21/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e3/f6/66/e3f6663e-a876-b240-a29d-7d9f1dffe317/pr_source.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[重生细胞]]></title>
-        <id>重生细胞-cn-1759241567027</id>
-        <link href="https://apps.apple.com/cn/app/%E9%87%8D%E7%94%9F%E7%BB%86%E8%83%9E/id1523446532?uo=4"/>
-        <updated>2025-09-30T14:12:47.027Z</updated>
-        <summary type="html"><![CDATA[解锁《致命坠落》DLC: ¥8.00 → ¥6.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%87%8D%E7%94%9F%E7%BB%86%E8%83%9E/id1523446532?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/61/85/916185ae-66f8-1c25-3ea7-592114f77fb9/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>解锁《致命坠落》DLC：</strong><span>¥8.00</span> → <b>
-  <strong>¥6.00</strong>
-</b><span>[¥6.00 ~ ¥8.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>¥15.00</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    解锁《坏种》DLC：<b>¥8.00</b>
-  </li><li>
-    解锁《致命坠落》DLC：<b>¥6.00</b>
-  </li><li>
-    解锁《王后与海》DLC：<b>¥8.00</b>
-  </li><li>
-    解锁《重返恶魔城》DLC：<b>¥16.00</b>
-  </li><li>
-    解锁《一路向海》DLC捆绑包：<b>¥18.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  死亡并非永眠。
-
-操作炼金实验失败的产物，在杀戮与重生的反复轮回中探索一座房间不断变化的巨大城堡，解开这座阴暗孤岛上的秘密…!
-当然，前提是你能战胜镇守其中的诸多守卫。
-
-重生细胞是一款RogueVania类型的平台动作游戏。你需要在一次一次战斗中锤炼战斗技巧，精通拥有独特使用方式的各种武器，并且将翻滚和闪避等走位操作视为本能，以逃过那些出其不意出现的怪潮侵袭，迎战强横凶残的守卫和Boss。
-
-鏖战、死亡、重生、再战
-
-继PC与主机平台之后，《重生细胞》准备在移动平台开启战斗！
-
-【主要特色】
-• RogueVania: 逐步攻略经过悉心设计的相连关卡，体验rogue-lite类型的重复可玩性，直面肾上腺素激增的凶险场面。
-• 凌厉爽快的2D动作体验：洞悉敌人的出手套路灵活走位，否则你将止步于半途，无缘城堡中隐藏的更多秘密。
-• 非线性进程：在反复的死亡中突破难关，根据自己的游玩风格或心情自由选择装备与技能搭配。厌倦了臭气熏天的下水道？攀上城头呼吸新鲜的空气吧！
-• 随心所欲的游玩：探索城堡的边边角角和隐秘通道，发现深藏在城堡深处的迷人景观，抑或是直冲终点？一切由你。
-
-【针对移动平台进行的悉心优化】
-• 两种攻击模式：传统与移动版新加入的自动攻击系统。
-• 定制键位与触屏操作：根据你的喜好调整按钮位置及大小，通过触屏滑动来进行闪避走位…
-• MFi设备以及主机控制器蓝牙连接特性支持。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[梁的挠度]]></title>
-        <id>梁的挠度-cn-1759209151722</id>
-        <link href="https://apps.apple.com/cn/app/%E6%A2%81%E7%9A%84%E6%8C%A0%E5%BA%A6/id670400597?uo=4"/>
-        <updated>2025-09-30T05:12:31.722Z</updated>
-        <summary type="html"><![CDATA[价格: ¥58.00 → ¥48.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%A2%81%E7%9A%84%E6%8C%A0%E5%BA%A6/id670400597?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/63/ca/0b/63ca0b9f-d0f0-41b2-e454-3186c4e2691d/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥58.00</span> → <b>
-  <strong>¥48.00</strong>
-</b><span>[免费 ~ ¥98.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥48.00</b>
-</p><h2>应用描述</h2><p>
-  梁的挠度是一个功能强大且多功能的计算器，适用于梁、二维桁架和二维框架。界面简洁直观，图形输出采用最先进技术。除了反力、剪切、弯矩和挠度结果外，梁的挠度还能计算横截面和梁沿线的内部剪切和弯曲应力。
-
-二维框架和桁架编辑器
-
-二维编辑器与梁编辑器无缝集成。绘制任意框架和桁架结构，并使用与梁相同的简单界面应用载荷和约束。您可以直接在二维编辑器中可视化结果，或选择一个梁以获取更多见解。
-
-内部应力
-
-获取内部弯曲和剪切应力图，除了剪切、弯矩和挠度图。可以沿着梁的长度以及横截面的垂直轴线可视化内部应力。
-
-横截面编辑器
-
-编辑内置的横截面。惯性矩和面积值会自动计算并应用到其余的梁计算中。
-
-更多功能
-
-• 内置数据库包含更多数据供您参考和方便使用。
-• 可选应用梁自重
-• 无限设计文件
-• 快速启动模板
-
-联系我们
-
-我们期待您的反馈！如果您有任何问题、疑问或评论，请发送电子邮件至contact@ketchep.com。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪物乐土]]></title>
-        <id>怪物乐土-cn-1759198736602</id>
-        <link href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4"/>
-        <updated>2025-09-30T02:18:56.602Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥15.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/80/b7/94/80b794a5-54cf-d801-c62d-4cbdc5fcbddb/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥15.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥15.00</b>
-</p><h2>应用描述</h2><p>
-  宠物对战与银河恶魔城的融合。在可爱的侧视像素世界中收集和训练怪物，并让其为你作战。
-
-【寻找灵魂使魔，成为你最可靠的冒险伙伴】
-跟随先人的步伐，成为一个怪物饲养人并拯救怪物避难所。借助收集的怪物组建团队，开展史诗般冒险，解锁不断扩张的世界。在成为终极怪物饲养人的过程中，你将揭开威胁着人类与怪物之间和平的谜团。
-
-【探索银河恶魔城式的世界】
-探索银河恶魔城式的世界。借助培养的怪物们各种专属能力，你可以在这个世界上进行探索，拓宽自己视界。砍掉树藤、撞倒墙壁、滑过间隙......在怪物的帮助下，通通不在话下。
-
-【组建你自己的队伍】
-从世界各地孵化、收集和训练怪物，组建自己的组合。每个怪物均具备独有技能树，方便定制你自己的队伍。
-
-【战术3V3作战，激情碰撞】
-有策略地发出进攻命令，发挥最大效果；集中进攻以创造各种连击，反复出招，找到最佳的连击，从而获得最为稀有的怪兽蛋。
-
-【与其他的饲养员联机匹配战斗】
-针锋相对，在线上玩家对战中体验雄壮的战斗，接受技巧与能力的试炼！收集并训练怪物，点满它们的技能树，一路作战，让你的怪物撑到最后！
-
-【联系我们】
-抖音：@良心工作室
-快手：@良心工作室
-B站：@良心工作室
-小红书：@良心工作室
-微博：@良心工作室官方
-Q群：925023982
-
-若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[打造世界-经典沙盒建造]]></title>
-        <id>打造世界-经典沙盒建造-cn-1759198736602</id>
-        <link href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4"/>
-        <updated>2025-09-30T02:18:56.602Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00<br/>DLC：英雄对决: ¥8.00 → ¥6.00<br/>DLC：怪物联盟: ¥12.00 → ¥9.00<br/>DLC：龙之神庙: ¥9.00 → ¥7.00<br/>DLC：贪婪洞窟: ¥6.00 → ¥4.00<br/>DLC：异界: ¥8.00 → ¥6.00<br/>DLC：外星入侵: ¥8.00 → ¥6.00<br/>DLC：邪恶之心: ¥12.00 → ¥9.00<br/>DLC：孤山世界: ¥12.00 → ¥9.00<br/>奇境森林: ¥15.00 → ¥13.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%93%E9%80%A0%E4%B8%96%E7%95%8C-%E7%BB%8F%E5%85%B8%E6%B2%99%E7%9B%92%E5%BB%BA%E9%80%A0/id6550914957?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/da/13/63da13de-f588-8ae2-54c2-5b482baf422f/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥9.00 ~ ¥18.00]</span>）
-</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>DLC：英雄对决：</strong><span>¥8.00</span> → <b>
-  <strong>¥6.00</strong>
-</b><span>[¥6.00 ~ ¥8.00]</span>
-  </li><li>
-    <strong>DLC：怪物联盟：</strong><span>¥12.00</span> → <b>
-  <strong>¥9.00</strong>
-</b><span>[¥9.00 ~ ¥12.00]</span>
-  </li><li>
-    <strong>DLC：龙之神庙：</strong><span>¥9.00</span> → <b>
-  <strong>¥7.00</strong>
-</b><span>[¥7.00 ~ ¥9.00]</span>
-  </li><li>
-    <strong>DLC：贪婪洞窟：</strong><span>¥6.00</span> → <b>
-  <strong>¥4.00</strong>
-</b><span>[¥4.00 ~ ¥6.00]</span>
-  </li><li>
-    <strong>DLC：异界：</strong><span>¥8.00</span> → <b>
-  <strong>¥6.00</strong>
-</b><span>[¥6.00 ~ ¥8.00]</span>
-  </li><li>
-    <strong>DLC：外星入侵：</strong><span>¥8.00</span> → <b>
-  <strong>¥6.00</strong>
-</b><span>[¥6.00 ~ ¥8.00]</span>
-  </li><li>
-    <strong>DLC：邪恶之心：</strong><span>¥12.00</span> → <b>
-  <strong>¥9.00</strong>
-</b><span>[¥9.00 ~ ¥12.00]</span>
-  </li><li>
-    <strong>DLC：孤山世界：</strong><span>¥12.00</span> → <b>
-  <strong>¥9.00</strong>
-</b><span>[¥9.00 ~ ¥12.00]</span>
-  </li><li>
-    <strong>奇境森林：</strong><span>¥15.00</span> → <b>
-  <strong>¥13.00</strong>
-</b><span>[¥13.00 ~ ¥15.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>¥12.00</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    DLC：姐妹连：<b>¥2.00</b>
-  </li><li>
-    DLC：英雄对决：<b>¥6.00</b>
-  </li><li>
-    DLC：怪物联盟：<b>¥9.00</b>
-  </li><li>
-    DLC：龙之神庙：<b>¥7.00</b>
-  </li><li>
-    DLC：贪婪洞窟：<b>¥4.00</b>
-  </li><li>
-    DLC：异界：<b>¥6.00</b>
-  </li><li>
-    DLC：外星入侵：<b>¥6.00</b>
-  </li><li>
-    DLC：邪恶之心：<b>¥9.00</b>
-  </li><li>
-    DLC：孤山世界：<b>¥9.00</b>
-  </li><li>
-    奇境森林：<b>¥13.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  《打造世界》结合了策略、方块建造沙盒以及塔防多种元素。游戏中，你不是一个人在战斗，需要带领矮人部落在这个充满危险生物的随机世界里进行探索，安排他们分工合作收集资源，制作需要的物品、武器和盔甲，以及建造城堡，来抵御危险生物的入侵。
-
-【世界探索、沙盒生存】
-游戏共有七个不同的世界（游戏本体4个地图+3个dlc地图），每个世界都是随机生成的岛屿，你可以在游戏中自由的改变地形地貌。不同世界有着各自的地理及生物特色，同时也暗藏各类怪物和BOSS。带上大聪明矮人征服各个世界吧！
-
-【资源采集、制作发展】
-游戏中挖掘矿藏、捕捉动物、打败敌人、种植农田等等方式获得原料；升级科技树，制作数百种完全不同的物品！要知道除了常规的武器、建筑材料、食物、炼金药水外，你甚至建造一个广大的矿井网，配上升降机和铁路，快速抵达藏有最珍贵金属的矿脉中。如何发展矮人部落，你可要好好思考一下。
-对了，必须得告诉你，游戏中存在各种魔法，比如打开传送门，提高矮人运输资源的效率；使用魔法之光照亮黑暗的洞穴吓跑怪物；使用降水或是魔法森林加快树木成长，或者是使用指南针魔法找到隐藏资源，从而帮助加快资源开采，探索世界。
-
-【自由建造、殖民管理】
-发展一个部落可没那么容易，你需要安排矮人们的衣食住行，可以直接控制矮人进行挖掘、砍伐、攻击、建造等操作，并在矮人与怪物和BOSS战斗时使用魔法帮助他们。
-在游戏刚开始时，你只有1位矮人，随着在这个世界的等级提升，会获得更多的矮人；而随着人数越来越多，部落规模也越来越大的。
-部落的发展，建筑是必不可少的，发挥你天马星空的想象吧，无论是建古代宫殿风格、还是想要征服天空的空中住宅、又或者是结合现代科技坚不可摧的堡垒，只要你脑洞够大，创造独属于你的矮人之家！
-
-【即时战略&塔防战斗】
-有些怪物会成群结队的来掠夺矮人资源，有些怪物会定期从传送门而来攻打矮人，你需要带领矮人建立攻防系统，在的堡垒周围的路上设满陷阱和导弹塔，抵抗成群结队入侵而来的敌人。
-
-【DLC拓展内容】
-丰富的DLC内容拓展既可以带你领略不一样的世界：融合中式风格元素的《龙之神庙》、家园领地保卫战的《孤山世界》、暗黑领主和矮人的终极决战《邪恶之心》，还可以让你在世界探索中增加更多乐趣：女矮人携宠物及新装备登场的《姐妹连》、在神秘的斯芬克斯的沙漠世界探索神庙的《废弃矿山》、充满了植物和古老的魔法的《贪婪洞窟》，召唤英雄战士和法师的《英雄对决》，对抗更加强大的地下深渊头目的《怪物联盟》。
-
-【联系我们】
-抖音：@良心工作室
-快手：@良心工作室
-B站：@良心工作室
-小红书：@良心工作室
-微博：@良心工作室官方
-Q群：320015298
-
-若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
-</p>]]></content>
     </entry>
 </feed>
