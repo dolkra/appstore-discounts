@@ -8705,6 +8705,23 @@
     "history": [
       [
         {
+          "timestamp": 1759518572700,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "神秘鴨優惠套裝": "USD 0.99",
+            "大頑固優惠套裝": "USD 0.99",
+            "艾莉優惠套裝": "USD 0.99",
+            "鎖匠 － 全部愛麗鎖": "USD 1.99",
+            "愛麗的故事": "USD 0.99",
+            "假日優惠套裝": "USD 3.99",
+            "鎖匠 - 一把鎖": "USD 0.99",
+            "神秘鴨": "USD 2.99",
+            "鎖匠 – 全部的神秘鎖": "USD 4.99",
+            "鎖匠 – 全部的大頑固鎖": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1759508043028,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -43425,14 +43442,33 @@
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
-      "Map Subscription": "USD 1.99"
+      "Map Subscription": "USD 1.99",
+      "Map Tracer Pro Annual Sub": "USD 59.99",
+      "Map Tracer Pro Half-Year Sub": "USD 34.99",
+      "Map Tracer Pro Monthly Sub": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99",
-      "Map Subscription": "USD 1.99"
+      "Map Subscription": "USD 1.99",
+      "Map Tracer Pro Annual Sub": "USD 59.99",
+      "Map Tracer Pro Half-Year Sub": "USD 34.99",
+      "Map Tracer Pro Monthly Sub": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759518572700,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Map Tracer Pro Annual Sub": "USD 59.99",
+            "Map Tracer Pro Half-Year Sub": "USD 34.99",
+            "Map Tracer Pro Monthly Sub": "USD 9.99",
+            "Map Subscription": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754835087428,

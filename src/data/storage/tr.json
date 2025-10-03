@@ -50055,14 +50055,33 @@
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99",
-      "Map Subscription": "₺49,99"
+      "Map Subscription": "₺49,99",
+      "Map Tracer Pro Annual Sub": "₺2.499,99",
+      "Map Tracer Pro Half-Year Sub": "₺1.499,99",
+      "Map Tracer Pro Monthly Sub": "₺449,99"
     },
     "minPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99",
-      "Map Subscription": "₺49,99"
+      "Map Subscription": "₺49,99",
+      "Map Tracer Pro Annual Sub": "₺2.499,99",
+      "Map Tracer Pro Half-Year Sub": "₺1.499,99",
+      "Map Tracer Pro Monthly Sub": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759518572700,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Map Subscription": "₺49,99",
+            "Map Tracer Pro Annual Sub": "₺2.499,99",
+            "Map Tracer Pro Half-Year Sub": "₺1.499,99",
+            "Map Tracer Pro Monthly Sub": "₺449,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754835087428,
@@ -103167,6 +103186,25 @@
       "Weapon Upgrade Ticket x1 (E)": "₺41,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759518572700,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "₺2.599,00",
+            "Extra DLC Pack": "₺769,00",
+            "Weapon Upgrade Ticket x5 (A)": "₺349,00",
+            "Weapon Upgrade Ticket x3 (A)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (D)": "₺254,99",
+            "Weapon Upgrade Ticket x3 (C)": "₺254,99",
+            "Weapon Upgrade Ticket x1 (F)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (E)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (A)": "₺105,00",
+            "Weapon Upgrade Ticket x1 (C)": "₺105,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759389081510,

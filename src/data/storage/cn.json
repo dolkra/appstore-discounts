@@ -39220,14 +39220,33 @@
     "maxPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00",
-      "Map Subscription": "¥15.00"
+      "Map Subscription": "¥15.00",
+      "Map Tracer Pro Annual Sub": "¥398.00",
+      "Map Tracer Pro Half-Year Sub": "¥228.00",
+      "Map Tracer Pro Monthly Sub": "¥68.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "¥38.00",
-      "Map Subscription": "¥15.00"
+      "Map Subscription": "¥15.00",
+      "Map Tracer Pro Annual Sub": "¥398.00",
+      "Map Tracer Pro Half-Year Sub": "¥228.00",
+      "Map Tracer Pro Monthly Sub": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759518572700,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Map Subscription": "¥15.00",
+            "Map Tracer Pro Annual Sub": "¥398.00",
+            "Map Tracer Pro Half-Year Sub": "¥228.00",
+            "Map Tracer Pro Monthly Sub": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754835087428,
@@ -85054,6 +85073,18 @@
       "少许点券": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759518572700,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "特别礼包": "¥28.00",
+            "英雄超能博士": "¥16.00",
+            "英雄枪手": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759446649091,
