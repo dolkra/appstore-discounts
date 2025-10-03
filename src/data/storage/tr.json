@@ -59722,6 +59722,22 @@
     "history": [
       [
         {
+          "timestamp": 1759475507353,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "₺6,99",
+            "Power Builder (monthly)": "₺20,99",
+            "Micro Tip": "₺39,99",
+            "Power Builder (yearly)": "₺169,99",
+            "Medium Tip": "₺99,99",
+            "The Ultimate Tip": "₺2.499,99",
+            "Super Mega Smashing Tip": "₺1.299,99",
+            "Super Smashing Tip": "₺799,99",
+            "Super Mega Tip": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1759472263046,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -65999,10 +66015,18 @@
       "formattedPrice": "₺4,99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 2.99,
+      "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759475507353,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
