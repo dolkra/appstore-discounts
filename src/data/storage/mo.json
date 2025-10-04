@@ -9065,6 +9065,24 @@
     "history": [
       [
         {
+          "timestamp": 1759619443058,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Magnetic Stars Superior Pack": "USD 24.99",
+            "Superpower 50 Sale": "USD 4.99",
+            "Magnetic Stars Grand Pack Sale": "USD 7.99",
+            "Magnetic Stars Grand Pack": "USD 14.99",
+            "Magnetic Stars Large Pack": "USD 6.99",
+            "Magnetic Stars Tiny Pack": "USD 3.99",
+            "Unlock \"Bath Time\" level pack": "USD 1.99",
+            "Unlock \"Bamboo Chutes\" level pack": "USD 1.99",
+            "Unlock \"Ant Hill\" level pack": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759112128102,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -68086,7 +68104,7 @@
     "maxPriceInfo": {
       "price": 4.19,
       "formattedPrice": "USD 4.19",
-      "All at once": "USD 3.99",
+      "All at once": "USD 4.99",
       "Destructive": "USD 0.99",
       "Shamanism": "USD 0.99",
       "Totalitarian": "USD 0.99",
@@ -68103,11 +68121,28 @@
       "Shamanism": "USD 0.49",
       "Totalitarian": "USD 0.49",
       "Pantheon": "USD 0.49",
-      "Acceleration": "USD 0.99",
+      "Acceleration": "USD 0.29",
       "Spiritualism": "USD 0.49",
       "Paganism": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759619443058,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "All at once": "USD 4.99",
+            "Destructive": "USD 0.99",
+            "Shamanism": "USD 0.99",
+            "Totalitarian": "USD 0.99",
+            "Pantheon": "USD 0.99",
+            "Acceleration": "USD 0.29",
+            "Spiritualism": "USD 0.99",
+            "Paganism": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758212069533,
