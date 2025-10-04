@@ -28363,6 +28363,23 @@
     "history": [
       [
         {
+          "timestamp": 1759608686096,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Rayark Selection Vol.1": "₺179,99",
+            "V.K Collection": "₺179,99",
+            "Forgotten Hourglass": "₺449,99",
+            "Rayark Selection Vol.2": "₺179,99",
+            "Cytus Selection Vol.1": "₺179,99",
+            "Cytus Selection Vol.2": "₺179,99",
+            "Brian Crain Collection": "₺179,99",
+            "Knight Iris": "₺179,99",
+            "Knight Rosabell Collection": "₺179,99",
+            "MILI Collection": "₺179,99"
+          }
+        },
+        {
           "timestamp": 1759601701919,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -81661,6 +81678,27 @@
           "timestamp": 1745328692670,
           "price": 449.99,
           "formattedPrice": "₺449,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1492041417": {
+    "name": "FINAL FANTASY IV",
+    "maxPriceInfo": {
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
+    },
+    "minPriceInfo": {
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759608686096,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
           "inAppPurchases": {}
         }
       ]
