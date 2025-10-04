@@ -53290,6 +53290,25 @@
     "history": [
       [
         {
+          "timestamp": 1759586965464,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "裁剪": "¥0.00",
+            "放大镜": "¥0.00",
+            "速度": "¥0.00",
+            "哈哈镜": "¥0.00",
+            "绘画": "¥0.00",
+            "旋转": "¥0.00",
+            "信息": "¥0.00",
+            "色度键": "¥0.00",
+            "拼接": "¥0.00",
+            "贴画": "¥0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759068548962,
           "price": 0,
           "formattedPrice": "免费",
@@ -67090,6 +67109,14 @@
     "history": [
       [
         {
+          "timestamp": 1759586965464,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759241567027,
           "price": 0,
           "formattedPrice": "免费",
@@ -79418,6 +79445,14 @@
       "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759586965464,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759421668227,
@@ -108535,6 +108570,27 @@
           "timestamp": 1759381907684,
           "price": 6,
           "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6504041194": {
+    "name": "空调遥控器-格力空调遥控器",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759586965464,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]
