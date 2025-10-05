@@ -3663,6 +3663,25 @@
     "history": [
       [
         {
+          "timestamp": 1759695115666,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {
+            "HipstaBoy SnapPak": "₺99,99",
+            "Príncipe Real HipstaPak": "₺99,99",
+            "Coyoacán HipstaPak": "₺99,99",
+            "Ohara HipstaPak": "₺99,99",
+            "RetroPak 2022": "₺299,99",
+            "RetroPak 2023": "₺449,99",
+            "RetroPak Twenty-One": "₺229,99",
+            "Highland Park HipstaPak": "₺39,99",
+            "Pilsen HipstaPak": "₺39,99",
+            "Tiong Bahru HipstaPak": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759489788173,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -39161,6 +39180,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759695115666,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "150 Gems": "₺3.499,99",
+            "74 Gems": "₺1.999,99",
+            "119 Gems": "₺2.499,99",
+            "48 Gems": "₺1.299,99",
+            "28 Gems": "₺699,99",
+            "13 Gems": "₺349,99",
+            "6 Gems": "₺179,99",
+            "1 Gem": "₺39,99"
+          }
+        },
         {
           "timestamp": 1759619443058,
           "price": 39.99,
@@ -123536,6 +123570,27 @@
           "timestamp": 1759586965464,
           "price": 39.99,
           "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749698268": {
+    "name": "乾坤易趣",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759695115666,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
           "inAppPurchases": {}
         }
       ]

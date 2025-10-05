@@ -82966,6 +82966,25 @@
     "history": [
       [
         {
+          "timestamp": 1759695115666,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "自建武将皮肤4": "¥30.00",
+            "自建武将皮肤3": "¥68.00",
+            "自建武将皮肤2": "¥30.00",
+            "自创武将皮肤1": "¥68.00",
+            "一袋碎片": "¥328.00",
+            "一堆碎片": "¥30.00",
+            "自定义武将席位6": "¥30.00",
+            "自定义武将席位4": "¥30.00",
+            "自定义武将席位5": "¥30.00",
+            "自定义武将席位3": "¥30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759561825023,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -109083,6 +109102,27 @@
           "timestamp": 1759586965464,
           "price": 8,
           "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749698268": {
+    "name": "小易决策-选择困难小救星",
+    "maxPriceInfo": {
+      "price": 5,
+      "formattedPrice": "¥5.00"
+    },
+    "minPriceInfo": {
+      "price": 5,
+      "formattedPrice": "¥5.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759695115666,
+          "price": 5,
+          "formattedPrice": "¥5.00",
           "inAppPurchases": {}
         }
       ]
