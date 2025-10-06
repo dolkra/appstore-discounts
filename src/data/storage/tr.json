@@ -14580,6 +14580,25 @@
     "history": [
       [
         {
+          "timestamp": 1759742130599,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter N": "₺179,99",
+            "Chapter D": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter T": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter 10": "₺229,99",
+            "Chapter 9": "₺229,99",
+            "Chapter S": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759263188808,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -123151,6 +123170,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759742130599,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758070536390,
