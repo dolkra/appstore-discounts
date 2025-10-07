@@ -46345,6 +46345,25 @@
     "history": [
       [
         {
+          "timestamp": 1759821179150,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "7,000,000 points": "₺3.499,99",
+            "500,000 points": "₺449,99",
+            "2,100,000 points": "₺1.499,99",
+            "100,000 points": "₺129,99",
+            "25,000 points": "₺39,99",
+            "1,500,000 points": "₺999,99",
+            "850,000 points": "₺699,99",
+            "10,000,000 points": "₺4.499,99",
+            "3,750,000 points": "₺2.299,99",
+            "300,000 points": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759763548850,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -47555,7 +47574,10 @@
       "Tier 4 Insta Monkeys Pack Sale": "₺179,99",
       "Extra Monkey Money": "₺99,99",
       "Powers Pro Launch Pack": "₺399,99",
-      "Map Editor Supporter": "₺299,99"
+      "Map Editor Supporter": "₺299,99",
+      "Havoc Staff Booster Sale": "₺99,99",
+      "Skeletor Obyn Prestige Pack": "₺299,99",
+      "Havoc Staff Booster": "₺179,99"
     },
     "minPriceInfo": {
       "price": 179.99,
@@ -47585,9 +47607,30 @@
       "Tier 4 Insta Monkeys Pack Sale": "₺179,99",
       "Extra Monkey Money": "₺99,99",
       "Powers Pro Launch Pack": "₺399,99",
-      "Map Editor Supporter": "₺299,99"
+      "Map Editor Supporter": "₺299,99",
+      "Havoc Staff Booster Sale": "₺99,99",
+      "Skeletor Obyn Prestige Pack": "₺299,99",
+      "Havoc Staff Booster": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759821179150,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Havoc Staff Booster Sale": "₺99,99",
+            "Skeletor Obyn Prestige Pack": "₺299,99",
+            "Havoc Staff Booster": "₺179,99",
+            "Powers Pro Launch Pack": "₺399,99",
+            "Desperado Unlock Pack": "₺349,99",
+            "She-Ra Prestige Pack Sale": "₺299,99",
+            "She-Ra Sword Booster Sale": "₺99,99",
+            "She-Ra Sword Power Booster": "₺179,99",
+            "She-Ra Prestige Pack": "₺599,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759702231329,
@@ -74339,6 +74382,18 @@
       "Annual": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759821179150,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "₺800,00",
+            "Annual": "₺299,99",
+            "Monthly": "₺59,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758478510918,
