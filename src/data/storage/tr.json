@@ -39,6 +39,18 @@
     "history": [
       [
         {
+          "timestamp": 1759825033083,
+          "price": 449.99,
+          "formattedPrice": "₺449,99",
+          "inAppPurchases": {
+            "RadarScope Pro Subscription": "₺449,99",
+            "Pro Tier 1": "₺26,99",
+            "Pro Tier 2": "₺369,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1751430191350,
           "price": 449.99,
           "formattedPrice": "₺449,99",
@@ -46345,6 +46357,23 @@
     "history": [
       [
         {
+          "timestamp": 1759825033083,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "20,000 points": "₺39,99",
+            "63,000 points": "₺129,99",
+            "25,000 points": "₺39,99",
+            "176,000 points": "₺349,99",
+            "225,000 points": "₺449,99",
+            "100,000 points": "₺129,99",
+            "345,000 points": "₺699,99",
+            "50 kilometers": "₺99,99",
+            "300,000 points": "₺349,99",
+            "500,000 points": "₺449,99"
+          }
+        },
+        {
           "timestamp": 1759821179150,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -47614,6 +47643,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1759825033083,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "₺129,99",
+            "Monkey Money": "₺99,99",
+            "(5,000) Monkey XP": "₺19,99",
+            "Full Tower Unlock": "₺229,99",
+            "Pile O Monkey Money": "₺229,99",
+            "Vault O Monkey Money Sale": "₺299,99",
+            "Paragon Unlock": "₺229,99",
+            "Double Cash Mode": "₺399,99",
+            "Knowledge Point": "₺39,99",
+            "10 Knowledge Points": "₺349,99"
+          }
+        },
         {
           "timestamp": 1759821179150,
           "price": 299.99,
@@ -74384,6 +74430,16 @@
     "history": [
       [
         {
+          "timestamp": 1759825033083,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "₺59,99",
+            "Lifetime": "₺899,99",
+            "Annual": "₺299,99"
+          }
+        },
+        {
           "timestamp": 1759821179150,
           "price": 0,
           "formattedPrice": "Free",
@@ -88575,6 +88631,27 @@
           "timestamp": 1745355731152,
           "price": 229.99,
           "formattedPrice": "₺229,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1563156209": {
+    "name": "Legend of Mana",
+    "maxPriceInfo": {
+      "price": 1199.99,
+      "formattedPrice": "₺1.199,99"
+    },
+    "minPriceInfo": {
+      "price": 1199.99,
+      "formattedPrice": "₺1.199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759825033083,
+          "price": 1199.99,
+          "formattedPrice": "₺1.199,99",
           "inAppPurchases": {}
         }
       ]
