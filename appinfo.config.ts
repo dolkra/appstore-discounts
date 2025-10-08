@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 944118456,
+    name: {
+      mo: 'Exif Viewer by Fluntro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1499001662,
+    name: {
+      mo: 'EvoCreo2: Monster Trainer Game',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6753102795,
     name: {
       mo: 'Zero One Progrise',

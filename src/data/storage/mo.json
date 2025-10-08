@@ -29734,6 +29734,19 @@
     "history": [
       [
         {
+          "timestamp": 1759940107332,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "3D Model (A Month)": "USD 0.99",
+            "3D Model (A Year)": "USD 5.99",
+            "Location Explorer (Month)": "USD 4.99",
+            "Location Explorer (A Year)": "USD 29.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759155151599,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -32790,6 +32803,27 @@
           "timestamp": 1746727392708,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "944118456": {
+    "name": "Exif Viewer by Fluntro",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759940107332,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
@@ -70063,6 +70097,58 @@
       ]
     ]
   },
+  "1499001662": {
+    "name": "EvoCreo2: Monster Trainer Game",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Evoker Kit": "USD 0.99",
+      "Evoker Package": "USD 9.99",
+      "Hunter Package": "USD 9.99",
+      "Tamer Kit": "USD 0.99",
+      "Prime Gemma 10000": "USD 74.99",
+      "Prime Gemma 2500": "USD 19.99",
+      "Master Package": "USD 19.99",
+      "Prime Gemma 1200": "USD 9.99",
+      "Prime Gemma 5000": "USD 39.99",
+      "Prime Gemma 500": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Evoker Kit": "USD 0.99",
+      "Evoker Package": "USD 9.99",
+      "Hunter Package": "USD 9.99",
+      "Tamer Kit": "USD 0.99",
+      "Prime Gemma 10000": "USD 74.99",
+      "Prime Gemma 2500": "USD 19.99",
+      "Master Package": "USD 19.99",
+      "Prime Gemma 1200": "USD 9.99",
+      "Prime Gemma 5000": "USD 39.99",
+      "Prime Gemma 500": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1759940107332,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Evoker Kit": "USD 0.99",
+            "Evoker Package": "USD 9.99",
+            "Hunter Package": "USD 9.99",
+            "Tamer Kit": "USD 0.99",
+            "Prime Gemma 10000": "USD 74.99",
+            "Prime Gemma 2500": "USD 19.99",
+            "Master Package": "USD 19.99",
+            "Prime Gemma 1200": "USD 9.99",
+            "Prime Gemma 5000": "USD 39.99",
+            "Prime Gemma 500": "USD 4.99"
+          }
+        }
+      ]
+    ]
+  },
   "1499085878": {
     "name": "CNC Lathe Simulator",
     "maxPriceInfo": {
@@ -74748,7 +74834,8 @@
       "Infinitum Support Banner": "USD 3.99",
       "Death of Divinity": "USD 4.99",
       "Tribes of Twilight": "USD 4.99",
-      "Buy the devs a coffee": "USD 4.99"
+      "Buy the devs a coffee": "USD 4.99",
+      "Synthesis Support Pack": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -74764,9 +74851,29 @@
       "Infinitum Support Banner": "USD 3.99",
       "Death of Divinity": "USD 4.99",
       "Tribes of Twilight": "USD 4.99",
-      "Buy the devs a coffee": "USD 4.99"
+      "Buy the devs a coffee": "USD 4.99",
+      "Synthesis Support Pack": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759940107332,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "USD 0.00",
+            "Eclypse Supporter Pack": "USD 3.99",
+            "Dawncaster Mega Bundle": "USD 12.99",
+            "Synthesis Support Pack": "USD 3.99",
+            "Infernal Invasions": "USD 5.99",
+            "Dawncaster Origins Bundle": "USD 4.99",
+            "Siege of Shadows": "USD 4.99",
+            "Catalyst Support Pack": "USD 4.99",
+            "Masks of Misery": "USD 4.99",
+            "Infinitum Support Banner": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754662568344,
