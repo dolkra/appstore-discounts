@@ -68,6 +68,34 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 828444157,
+    name: {
+      mo: '最新英语口语8000句大全',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1467728966,
+    name: {
+      mo: 'Photo Summary',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1532666619,
+    name: {
+      mo: 'Clear Spaces',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742179746,
+    name: {
+      tw: '帕拉貝倫：傳奇圍城',
+    },
+    addType: 'auto',
+  },
+  {
     id: 944118456,
     name: {
       mo: 'Exif Viewer by Fluntro',
