@@ -1359,7 +1359,7 @@ So far, we've covered `6` `Countries or Regions` and  `1432` `Apps` <br />Push n
 |81|6480159520|Manual|转录大师 - 录音转文字、实时离线转录|Whisper Pen - 語音轉文字|Whisper Pen - 語音轉文字|Whisper Pen - 語音轉文字|Whisper Pen - Speech to Text|Whisper Pen - Speech to Text|
 |80|966489322|Manual|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|
 |79|898876435|Manual|巧摄专业版：风光摄影计划神器|Planit巧攝專業版：风光攝影計劃神器|Planit巧攝專業版：风光攝影計劃神器|Planit巧攝專業版：风光攝影計劃神器|Planit Pro: Photo Planner|Planit Pro: Photo Planner|
-|78|1062745479|Manual|HeartWatch: 心脏和活动监测器|HeartWatch: 監測心率|HeartWatch: 監測心率|HeartWatch: 監測心率|HeartWatch: Heart Rate Tracker|HeartWatch: Heart Rate Tracker|
+|78|1062745479|Manual|HeartWatch: 心脏和活动监测器|HeartWatch: 監測心率|HeartWatch: 監測心率|HeartWatch: 監測心率|HeartWatch: Heart Rate Monitor|HeartWatch: Heart Rate Monitor|
 |77|6476963352|Manual|万能生成器|万能生成器|万能生成器|万能生成器|万能生成器|万能生成器|
 |76|1459076631|Manual|隐形守护者|隐形守护者|隐形守护者|❌|隐形守护者|❌|
 |75|1660014964|Manual|飞越13号房|❌|❌|❌|❌|❌|
