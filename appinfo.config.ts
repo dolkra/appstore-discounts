@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6753102795,
+    name: {
+      mo: 'Zero One Progrise',
+    },
+    addType: 'auto',
+  },
+  {
     id: 372731237,
     name: {
       mo: 'Fusion Calculator',
