@@ -31530,6 +31530,14 @@
     "history": [
       [
         {
+          "timestamp": 1760023677325,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757858973793,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -33048,6 +33056,14 @@
       "formattedPrice": "USD 0.59"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760023677325,
+          "price": 0.59,
+          "formattedPrice": "USD 0.59",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757340762899,
@@ -51688,6 +51704,14 @@
       "formattedPrice": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760023677325,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757340762899,
@@ -81938,6 +81962,14 @@
     "history": [
       [
         {
+          "timestamp": 1760023677325,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759907535515,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -96406,14 +96438,27 @@
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "USD 6.99",
-      "Developer Supporter Pack": "USD 2.99"
+      "Developer Supporter Pack": "USD 2.99",
+      "The Weaver": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "USD 6.99",
-      "Developer Supporter Pack": "USD 2.99"
+      "Developer Supporter Pack": "USD 2.99",
+      "The Weaver": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760023677325,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "The Weaver": "USD 3.99",
+            "Developer Supporter Pack": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,

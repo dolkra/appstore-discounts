@@ -38120,6 +38120,14 @@
     "history": [
       [
         {
+          "timestamp": 1760023677325,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1757373119208,
           "price": 129.99,
           "formattedPrice": "₺129,99",
@@ -61451,6 +61459,14 @@
       "formattedPrice": "₺59,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760023677325,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757373119208,
@@ -98983,6 +98999,14 @@
     "history": [
       [
         {
+          "timestamp": 1760023677325,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759907535515,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -120361,14 +120385,27 @@
     "maxPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",
-      "Developer Supporter Pack": "₺129,99"
+      "Developer Supporter Pack": "₺129,99",
+      "The Weaver": "₺179,99"
     },
     "minPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",
-      "Developer Supporter Pack": "₺129,99"
+      "Developer Supporter Pack": "₺129,99",
+      "The Weaver": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760023677325,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "The Weaver": "₺179,99",
+            "Developer Supporter Pack": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
