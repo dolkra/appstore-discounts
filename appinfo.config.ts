@@ -68,6 +68,48 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 645412785,
+    name: {
+      mo: '公式',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 814898894,
+    name: {
+      mo: '物理公式',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1023154291,
+    name: {
+      mo: '練音符',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1212201213,
+    name: {
+      mo: '鋤大d (豪華版)',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1576148500,
+    name: {
+      mo: 'Meridian 157: Chapter 3',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6497068802,
+    name: {
+      mo: '音符抽認卡：識譜',
+    },
+    addType: 'auto',
+  },
+  {
     id: 828444157,
     name: {
       mo: '最新英语口语8000句大全',
