@@ -31214,7 +31214,8 @@
       "3200 Diamonds": "₺999,99",
       "15500 Diamonds": "₺4.499,99",
       "82000 Coins": "₺999,99",
-      "180000 Coins": "₺2.299,99"
+      "180000 Coins": "₺2.299,99",
+      "450000 Coins": "₺4.499,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -31228,9 +31229,29 @@
       "3200 Diamonds": "₺999,99",
       "15500 Diamonds": "₺4.499,99",
       "82000 Coins": "₺999,99",
-      "180000 Coins": "₺2.299,99"
+      "180000 Coins": "₺2.299,99",
+      "450000 Coins": "₺4.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759997782600,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "5000 Coins": "₺99,99",
+            "14000 Coins": "₺229,99",
+            "30000 Coins": "₺449,99",
+            "82000 Coins": "₺999,99",
+            "180000 Coins": "₺2.299,99",
+            "450000 Coins": "₺4.499,99",
+            "220 Diamonds": "₺99,99",
+            "580 Diamonds": "₺229,99",
+            "1210 Diamonds": "₺449,99",
+            "3200 Diamonds": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758615386513,
@@ -99957,14 +99978,22 @@
   "1621065119": {
     "name": "Ace Attorney Trilogy",
     "maxPriceInfo": {
-      "price": 599.99,
-      "formattedPrice": "₺599,99"
+      "price": 699.99,
+      "formattedPrice": "₺699,99"
     },
     "minPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759997782600,
+          "price": 699.99,
+          "formattedPrice": "₺699,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758697954925,
