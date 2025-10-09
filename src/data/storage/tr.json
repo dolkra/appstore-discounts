@@ -82356,10 +82356,21 @@
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99",
-      "Norse Lands": "₺129,99",
-      "Call of Olympus": "₺179,99"
+      "Norse Lands": "₺99,99",
+      "Call of Olympus": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759990749297,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "Call of Olympus": "₺129,99",
+            "Norse Lands": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756422693541,
