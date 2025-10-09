@@ -68575,10 +68575,21 @@
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99",
-      "Norse Lands": "USD 2.99",
-      "Call of Olympus": "USD 3.99"
+      "Norse Lands": "USD 1.99",
+      "Call of Olympus": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759993947253,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Call of Olympus": "USD 2.99",
+            "Norse Lands": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756390344357,
@@ -82930,10 +82941,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1759993947253,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745470938782,
