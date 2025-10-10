@@ -41274,6 +41274,23 @@
     "history": [
       [
         {
+          "timestamp": 1760116286693,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "魔王战令-6000积分": "USD 3.99",
+            "高级精英战令": "USD 8.99",
+            "魔王战令-3000积分": "USD 0.99",
+            "魔王战令-15000积分": "USD 9.99",
+            "初级精英战令": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1760112895470,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -84877,14 +84894,22 @@
   "1633865171": {
     "name": "獬豸 · 民法典 - 法律/司法解释/指导案例",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760116286693,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
