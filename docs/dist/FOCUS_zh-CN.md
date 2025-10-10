@@ -11,7 +11,7 @@
 |1443|1023154291|自动|练音符|練音符|練音符|練音符|Music Note Trainer|Music Note Trainer|
 |1442|1212201213|自动|❌|鋤大d (豪華版)|鋤大d (豪華版)|鋤大d (豪華版)|Big 2 - Pusoy Dos (Deluxe)|Big 2 - Pusoy Dos (Deluxe)|
 |1441|1576148500|自动|❌|Meridian 157: Chapter 3|Meridian 157: Chapter 3|Meridian 157: Chapter 3|Meridian 157: Chapter 3|Meridian 157: Chapter 3|
-|1440|6497068802|自动|❌|音符抽認卡：識譜|音符抽認卡：識譜|音符抽認卡：識譜|Note Flash: Music Reading|Note Flash: Music Reading|
+|1440|6497068802|自动|音符抽认卡：识谱|音符抽認卡：識譜|音符抽認卡：識譜|音符抽認卡：識譜|Note Flash: Music Reading|Note Flash: Music Reading|
 |1439|828444157|自动|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|
 |1438|1467728966|自动|Photo Summary|Photo Summary|Photo Summary|Photo Summary|Photo Summary|Photo Summary|
 |1437|1532666619|自动|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|
@@ -309,7 +309,7 @@
 |1145|1287138671|自动|❌|Thumper：便攜版|Thumper：便攜版|Thumper：便攜版|Thumper: Pocket Edition|Thumper: Pocket Edition|
 |1144|6747207796|自动|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|
 |1143|6449183990|自动|❌|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|DQM: The Dark Prince|DQM: The Dark Prince|
-|1142|6667107639|自动|❌|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|
+|1142|6667107639|自动|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|
 |1141|682170196|自动|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|
 |1140|1076450419|自动|汉语拼音字母表-学习中文普通话发音声调拼读基础入门教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|Chinese Pinyin: Learn Mandarin|Chinese Pinyin: Learn Mandarin|
 |1139|1490431826|自动|图片对比|图片对比|图片对比|图片对比|图片对比|图片对比|

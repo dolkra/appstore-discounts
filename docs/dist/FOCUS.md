@@ -11,7 +11,7 @@ So far, we've covered `6` `Countries or Regions` and  `1446` `Apps` <br />Push n
 |1443|1023154291|Automatic|练音符|練音符|練音符|練音符|Music Note Trainer|Music Note Trainer|
 |1442|1212201213|Automatic|❌|鋤大d (豪華版)|鋤大d (豪華版)|鋤大d (豪華版)|Big 2 - Pusoy Dos (Deluxe)|Big 2 - Pusoy Dos (Deluxe)|
 |1441|1576148500|Automatic|❌|Meridian 157: Chapter 3|Meridian 157: Chapter 3|Meridian 157: Chapter 3|Meridian 157: Chapter 3|Meridian 157: Chapter 3|
-|1440|6497068802|Automatic|❌|音符抽認卡：識譜|音符抽認卡：識譜|音符抽認卡：識譜|Note Flash: Music Reading|Note Flash: Music Reading|
+|1440|6497068802|Automatic|音符抽认卡：识谱|音符抽認卡：識譜|音符抽認卡：識譜|音符抽認卡：識譜|Note Flash: Music Reading|Note Flash: Music Reading|
 |1439|828444157|Automatic|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|最新英语口语8000句大全|
 |1438|1467728966|Automatic|Photo Summary|Photo Summary|Photo Summary|Photo Summary|Photo Summary|Photo Summary|
 |1437|1532666619|Automatic|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|
@@ -309,7 +309,7 @@ So far, we've covered `6` `Countries or Regions` and  `1446` `Apps` <br />Push n
 |1145|1287138671|Automatic|❌|Thumper：便攜版|Thumper：便攜版|Thumper：便攜版|Thumper: Pocket Edition|Thumper: Pocket Edition|
 |1144|6747207796|Automatic|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|PeeWee Purpdrank's Soundboard|
 |1143|6449183990|Automatic|❌|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|勇者鬥惡龍 怪物仙境3 魔族王子與艾爾芙的旅程|DQM: The Dark Prince|DQM: The Dark Prince|
-|1142|6667107639|Automatic|❌|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|
+|1142|6667107639|Automatic|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|HTML WYSIWYG|
 |1141|682170196|Automatic|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|ChiWalking|
 |1140|1076450419|Automatic|汉语拼音字母表-学习中文普通话发音声调拼读基础入门教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|漢語拼音字母表-學習中文普通話發音聲調拼讀基礎入門教程|Chinese Pinyin: Learn Mandarin|Chinese Pinyin: Learn Mandarin|
 |1139|1490431826|Automatic|图片对比|图片对比|图片对比|图片对比|图片对比|图片对比|

@@ -42448,6 +42448,23 @@
     "history": [
       [
         {
+          "timestamp": 1760062811432,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "周卡": "¥12.00",
+            "少量信用点": "¥6.00",
+            "大月卡": "¥45.00",
+            "小月卡": "¥25.00",
+            "中等信用点": "¥12.00",
+            "超多信用点": "¥50.00",
+            "超级多信用点": "¥258.00",
+            "福利升级": "¥6.00",
+            "海量信用点": "¥108.00",
+            "大量信用点": "¥25.00"
+          }
+        },
+        {
           "timestamp": 1760057776765,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -60332,6 +60349,16 @@
     "history": [
       [
         {
+          "timestamp": 1760062811432,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758329639679,
           "price": 0,
           "formattedPrice": "免费",
@@ -69851,6 +69878,25 @@
       "1元礼包": "¥1.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760062811432,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6金玉": "¥6.00",
+            "30金玉": "¥30.00",
+            "68金玉": "¥68.00",
+            "198金玉": "¥198.00",
+            "648金玉": "¥648.00",
+            "高级月奉": "¥30.00",
+            "328金玉": "¥328.00",
+            "30元礼包": "¥30.00",
+            "6元新手礼包": "¥6.00",
+            "68元礼包": "¥68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759997782600,
@@ -94877,6 +94923,14 @@
     "history": [
       [
         {
+          "timestamp": 1760062811432,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758853195988,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -95713,6 +95767,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760062811432,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758853195988,
@@ -110797,6 +110859,48 @@
           "timestamp": 1759926321040,
           "price": 15,
           "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6497068802": {
+    "name": "音符抽认卡：识谱",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760062811432,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6667107639": {
+    "name": "HTML WYSIWYG",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760062811432,
+          "price": 18,
+          "formattedPrice": "¥18.00",
           "inAppPurchases": {}
         }
       ]
