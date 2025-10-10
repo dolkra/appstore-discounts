@@ -490,7 +490,7 @@ So far, we've covered `6` `Countries or Regions` and  `1446` `Apps` <br />Push n
 |964|1313164055|Automatic|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|
 |963|1553774029|Automatic|❌|Taskmaster The App|Taskmaster The App|Taskmaster The App|Taskmaster The App|Taskmaster The App|
 |962|6449433291|Automatic|❌|❌|❌|常春藤108課綱基礎單字|常春藤108課綱基礎單字|常春藤108課綱基礎單字|
-|961|1403183441|Automatic|❌|Ala Mobile GP|Ala Mobile GP|Ala Mobile GP|Ala Mobile GP|Ala Mobile GP|
+|961|1403183441|Automatic|❌|Ala Mobile|Ala Mobile|Ala Mobile|Ala Mobile|Ala Mobile|
 |960|1538900393|Automatic|❌|風雲拳擊物語|風雲拳擊物語|風雲拳擊物語|Boxing Gym Story|Boxing Gym Story|
 |959|6476442028|Automatic|❌|❌|❌|❌|❌|Zelzele Türkiye|
 |958|461659980|Automatic|❌|Phonics Genius|Phonics Genius|Phonics Genius|Phonics Genius|Phonics Genius|

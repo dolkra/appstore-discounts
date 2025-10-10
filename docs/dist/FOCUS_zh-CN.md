@@ -490,7 +490,7 @@
 |964|1313164055|自动|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|
 |963|1553774029|自动|❌|Taskmaster The App|Taskmaster The App|Taskmaster The App|Taskmaster The App|Taskmaster The App|
 |962|6449433291|自动|❌|❌|❌|常春藤108課綱基礎單字|常春藤108課綱基礎單字|常春藤108課綱基礎單字|
-|961|1403183441|自动|❌|Ala Mobile GP|Ala Mobile GP|Ala Mobile GP|Ala Mobile GP|Ala Mobile GP|
+|961|1403183441|自动|❌|Ala Mobile|Ala Mobile|Ala Mobile|Ala Mobile|Ala Mobile|
 |960|1538900393|自动|❌|風雲拳擊物語|風雲拳擊物語|風雲拳擊物語|Boxing Gym Story|Boxing Gym Story|
 |959|6476442028|自动|❌|❌|❌|❌|❌|Zelzele Türkiye|
 |958|461659980|自动|❌|Phonics Genius|Phonics Genius|Phonics Genius|Phonics Genius|Phonics Genius|
