@@ -110796,14 +110796,22 @@
   "6753017460": {
     "name": "TL Assistant",
     "maxPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760073151606,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759327934089,
