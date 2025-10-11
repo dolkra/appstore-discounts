@@ -30904,6 +30904,19 @@
     "history": [
       [
         {
+          "timestamp": 1760202561249,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "¥498.00",
+            "Parallels Desktop for Mac #4": "¥498.00",
+            "Parallels Desktop for Mac #2": "¥498.00",
+            "订阅（1 年）": "¥618.00",
+            "Parallels Desktop for Mac #3": "¥498.00",
+            "Parallels Desktop for Mac #5": "¥498.00"
+          }
+        },
+        {
           "timestamp": 1760199168240,
           "price": 0,
           "formattedPrice": "免费",
@@ -97441,14 +97454,22 @@
   "6740705851": {
     "name": "手表变身器-手表游戏集100+多种音效",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 9.9,
+      "formattedPrice": "¥9.90"
     },
     "minPriceInfo": {
       "price": 6,
       "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760202561249,
+          "price": 9.9,
+          "formattedPrice": "¥9.90",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752703995588,
