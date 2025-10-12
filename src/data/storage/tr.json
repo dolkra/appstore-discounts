@@ -15039,6 +15039,25 @@
     "history": [
       [
         {
+          "timestamp": 1760303399656,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Chapter D": "₺229,99",
+            "Chapter R": "₺229,99",
+            "Chapter N": "₺179,99",
+            "Chapter 0": "₺229,99",
+            "Chapter K": "₺229,99",
+            "Chapter T": "₺229,99",
+            "Chapter S": "₺229,99",
+            "Chapter L": "₺449,99",
+            "Chapter 8": "₺229,99",
+            "Chapter 10": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760299951537,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -78047,7 +78066,11 @@
       "Orange Ghost Token": "₺129,99",
       "Purple Pumpkin Token": "₺129,99",
       "Purple Ghost Token": "₺129,99",
-      "White Pumpkin Token": "₺129,99"
+      "White Pumpkin Token": "₺129,99",
+      "Shining Obsidian Dice": "₺229,99",
+      "Shining Obsidian Bundle": "₺2.499,99",
+      "Forest Shining Obsidian Bundle": "₺499,99",
+      "Snowdrop Valley Obsidian Bundle": "₺499,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -78158,9 +78181,26 @@
       "Orange Ghost Token": "₺129,99",
       "Purple Pumpkin Token": "₺129,99",
       "Purple Ghost Token": "₺129,99",
-      "White Pumpkin Token": "₺129,99"
+      "White Pumpkin Token": "₺129,99",
+      "Shining Obsidian Dice": "₺229,99",
+      "Shining Obsidian Bundle": "₺2.499,99",
+      "Forest Shining Obsidian Bundle": "₺499,99",
+      "Snowdrop Valley Obsidian Bundle": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760303399656,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
+          "inAppPurchases": {
+            "Shining Obsidian Dice": "₺229,99",
+            "Shining Obsidian Bundle": "₺2.499,99",
+            "Forest Shining Obsidian Bundle": "₺499,99",
+            "Snowdrop Valley Obsidian Bundle": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760296125266,
