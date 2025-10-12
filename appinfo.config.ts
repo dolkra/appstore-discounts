@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6738282698,
+    name: {
+      hk: 'RCS - Real Combat Simulator',
+    },
+    addType: 'auto',
+  },
+  {
     id: 961227503,
     name: {
       mo: '燒杯 - BEAKER',
