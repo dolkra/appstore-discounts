@@ -3756,6 +3756,14 @@
     "history": [
       [
         {
+          "timestamp": 1760317243839,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1750173218085,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -38043,6 +38051,25 @@
     "history": [
       [
         {
+          "timestamp": 1760317243839,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "限時挑戰書": "USD 2.99",
+            "satella Selection 限時挑戰書": "USD 2.99",
+            "Lanota 9週年 限時挑戰書": "USD 3.99",
+            "ULTRA BONK Hour 限時挑戰書": "USD 2.99",
+            "Radiant Star Trail 限時挑戰書": "USD 3.99",
+            "KALPA Collaboration 限時挑戰書": "USD 2.99",
+            "主線第八章": "USD 9.99",
+            "Glorious Chorus 限時挑戰書": "USD 2.99",
+            "Neon Rhapsody 限時挑戰書": "USD 2.99",
+            "Colorful Meteor Shower 限時挑戰書": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1758308958486,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -64129,7 +64156,13 @@
       "Role Package": "USD 2.99",
       "英雄礼包II": "USD 9.99",
       "Heroic Package#1": "USD 9.99",
-      "Resource Package": "USD 2.99"
+      "Resource Package": "USD 2.99",
+      "7200 gems": "USD 99.99",
+      "60 gems": "USD 0.99",
+      "310 gems": "USD 4.99",
+      "2080 gems": "USD 29.99",
+      "Gold Decree": "USD 89.99",
+      "Silver Decree": "USD 49.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -64143,9 +64176,34 @@
       "Role Package": "USD 2.99",
       "英雄礼包II": "USD 9.99",
       "Heroic Package#1": "USD 9.99",
-      "Resource Package": "USD 2.99"
+      "Resource Package": "USD 2.99",
+      "7200 gems": "USD 99.99",
+      "60 gems": "USD 0.99",
+      "310 gems": "USD 4.99",
+      "2080 gems": "USD 29.99",
+      "Gold Decree": "USD 89.99",
+      "Silver Decree": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760317243839,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "7200 gems": "USD 99.99",
+            "60 gems": "USD 0.99",
+            "310 gems": "USD 4.99",
+            "2080 gems": "USD 29.99",
+            "Gold Decree": "USD 89.99",
+            "Silver Decree": "USD 49.99",
+            "Resource Package": "USD 2.99",
+            "Heroic Package#1": "USD 9.99",
+            "英雄礼包II": "USD 9.99",
+            "Role Package": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745528534252,
