@@ -9129,6 +9129,7 @@ export const part1AppConfig: AppConfig[] = [
       'FyTube - 没有广告的 YouTube',
       { us: 'FyTube - YouTube Without Ads' },
     ],
+    allowNotification: false,
   },
   {
     id: 1175912897,
