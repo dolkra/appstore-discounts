@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1369699810,
+    name: {
+      mo: 'Nuclear inc 2. Atom simulator',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1638485107,
     name: {
       tw: '檔案管理器',

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-10-13T04:41:11.939Z</updated>
+    <updated>2025-10-14T14:39:05.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-13T04:41:11.940Z</updated>
+        <updated>2025-10-14T14:39:05.752Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoMon, 13 Oct 2025 04:41:11 GMT</id>
+        <id>rankingmoTue, 14 Oct 2025 14:39:05 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-13T04:41:11.941Z</updated>
+        <updated>2025-10-14T14:39:05.752Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,16 +51,16 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1448</b>
+        <b>1453</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1247</b>
+        <b>1252</b>
       </td>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1339</b>
+        <b>1344</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>1160</b>
+        <b>1165</b>
       </td>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:157008389768002560+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
+        <del>
+          <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -413,7 +415,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1291427111">Evoland 2</a>
+        <a href="https://apps.apple.com/mo/app/id1230231705">The Witness</a>
       </td>
       <td>
         <ul>
@@ -430,7 +432,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1400032769">Card.Note - 多彩卡片笔记</a>
+        <a href="https://apps.apple.com/mo/app/id1291427111">Evoland 2</a>
       </td>
       <td>
         <ul>
@@ -447,7 +449,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1435461053">This Is the Police</a>
+        <a href="https://apps.apple.com/mo/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
         <ul>
@@ -462,6 +464,23 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>
         <b>22</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id1435461053">This Is the Police</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1477991646">王國：兩個皇冠</a>
@@ -486,7 +505,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1484622401">Religion inc.上帝模擬器</a>
@@ -509,7 +528,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1523633394">SpongeBob SquarePants</a>
@@ -526,7 +545,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1539778232">Afterplace</a>
@@ -543,7 +562,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1571643809">地城謎蹤</a>
@@ -560,7 +579,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1575192531">遊樂園夢物語</a>
@@ -577,7 +596,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1580067723">Wall of insanity</a>
@@ -594,7 +613,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1587301632">全能備忘錄</a>
@@ -611,7 +630,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1596406400">黄鸭证件照-最美求职考试证照制作神器</a>
@@ -628,7 +647,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -645,7 +664,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1616652599">Kingdom Eighties</a>
@@ -662,7 +681,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1622064157">Sismo: Vibration Meter & Alert</a>
@@ -679,7 +698,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1631859420">劫後公司</a>
@@ -696,7 +715,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1642733080">DungeonSquad</a>
@@ -713,7 +732,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1672004303">探險頑皮動物園</a>
@@ -730,7 +749,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6451009326">LMP - Music Hub</a>
@@ -747,7 +766,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6466296603">The Last Game</a>
@@ -764,7 +783,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6746649752">MagicKit Pro：AI智慧工具箱</a>
@@ -781,7 +800,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6449003064">Goblin Tools</a>
@@ -798,7 +817,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6504323939">勇者鬥惡龍X　覺醒的五種族　OFFLINE</a>
@@ -821,7 +840,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -838,7 +857,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6740349666">Backyard Baseball '97</a>
@@ -855,7 +874,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6740349855">Backyard Football '99</a>
@@ -872,7 +891,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6738371720">銀盤滑冰場物語</a>
@@ -889,7 +908,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6740349587">Backyard Baseball '01</a>
@@ -1243,7 +1262,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/mo/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1252,7 +1271,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/mo/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1261,7 +1280,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/mo/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1270,7 +1289,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/mo/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1279,7 +1298,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://apps.apple.com/mo/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1288,7 +1307,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id456637671">安全監控照片+視頻Pro</a>
+        <a href="https://apps.apple.com/mo/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1297,7 +1316,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1453318714">Vostok — 创建美丽快拍页面</a>
+        <a href="https://apps.apple.com/mo/app/id456637671">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1306,7 +1325,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/mo/app/id1453318714">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1315,7 +1334,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/mo/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1324,7 +1343,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id488674899">雨雷達 ° -實時天氣圖</a>
+        <a href="https://apps.apple.com/mo/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1333,7 +1352,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/mo/app/id488674899">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1342,7 +1361,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
+        <a href="https://apps.apple.com/mo/app/id1361473095">MuseDash</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1351,7 +1370,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
+        <a href="https://apps.apple.com/mo/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1360,12 +1379,43 @@ feedId:157008389768002560+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/mo/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>51</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/mo/app/id388624839">CamScanner+</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Witness]]></title>
+        <id>The Witness-mo-1760451172606</id>
+        <link href="https://apps.apple.com/mo/app/the-witness/id1230231705?uo=4"/>
+        <updated>2025-10-14T14:12:52.606Z</updated>
+        <summary type="html"><![CDATA[价格: USD 9.99 → USD 4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/the-witness/id1230231705?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/3b/b3/a83bb3ed-719a-6839-a259-f17a11a9cc07/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 9.99</span> → <b>
+  <strong>USD 4.99</strong>
+</b><span>[USD 4.99 ~ USD 9.99]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>USD 4.99</b>
+</p><h2>应用描述</h2><p>
+  你獨自一人在一座陌生的島嶼醒來，島上充滿各種令人意想不到的謎題，等你來挑戰。
+
+你不記得自己是誰，也不記得是如何來到這裡，你唯一能做的就是探索這座島嶼，希望挖掘線索找回自己的記憶，想辦法找到回家的路。
+
+The Witness 是一個單人遊戲，玩家在一個含有數十個地點的開放世界裡探索並克服 500 道以上的謎題。這個遊戲相當敬重玩家的聰明才智，並珍惜他們寶貴的時間。這裡沒有濫竽充數的謎題，每道謎題都結合新的概念在裡面。所以，這是一個充滿創意的遊戲。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/28/8b/aa288bc2-99ce-095a-a116-60f4ed595ee7/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/40/14/ba4014cf-35b4-d173-697e-b126c3402e82/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/ec/80/50ec806c-1fda-f711-d752-0b53ffb986fb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/18/61/ba18616d-68a1-4363-b09a-1995e5caf2ba/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/62/be/d362beec-a947-1b47-e97a-a7576b27bcab/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/aa/fb/97aafbe5-3fdd-91ed-f68f-d05dafa2dbb3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/16/8b/3d/168b3d80-cd3f-a052-bda7-78360aa25db3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/cc/3c/f4cc3cd1-852c-2492-93c4-85d20d53494f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/10/f4/dd10f4a6-84a1-5fc1-d913-f354a2272d2e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/74/d3/d2/74d3d228-fa16-91ba-4e23-84f9125c4423/pr_source.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FyTube -沒有廣告的 YouTube]]></title>
@@ -1760,259 +1810,5 @@ https://idcamera-834ff.web.app
 微博：PoPoem开发者
 邮箱：yande18@126.com
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[大江戶物語]]></title>
-        <id>大江戶物語-mo-1760177462403</id>
-        <link href="https://apps.apple.com/mo/app/%E5%A4%A7%E6%B1%9F%E6%88%B6%E7%89%A9%E8%AA%9E/id474177077?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E5%A4%A7%E6%B1%9F%E6%88%B6%E7%89%A9%E8%AA%9E/id474177077?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0f/36/730f3667-aa75-9d90-5496-218133154bbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 1.99 ~ USD 4.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h2>应用描述</h2><p>
-  建造亮麗的江戶之城。
-配置城堡和小巷，建立出大氣的城下町吧！
-
-增加代表商店和居民經濟價值的『俸祿』，爭取成為日本第一的大名吧。
-
-發展的秘訣在於將契合度好的建築物建在一起，例如『蕎麥麵店＋天婦羅店』、『地藏菩薩＋帽傘店』等。
-
-建造客棧後，歷史上的名人也許會在『各國漫遊之旅』、『驅鬼之旅』、『寺子屋修學旅行』中前來參觀。
-
-開闢江戶未來的也許就是正在瀏覽介紹的你！！
-----
-其它遊戲請透過關鍵字「Kairosoft」來進行搜索。https://kairopark.jp
-還有支援移動設備/電腦的遊戲發展國物語等免費遊戲哦。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/33/bb/43/33bb4365-a8ce-8c2b-8f8a-1522c46c45ef/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/b6/c1/20b6c184-d1bf-f393-2ceb-2511aa4b1f2c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d0/da/88/d0da8808-0a6f-5fb3-8e51-a0b793e50de7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/6b/29/c06b292a-5993-f57a-2699-711d73626db1/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/11/11/bf1111ea-add7-4528-757a-0e0ee9006444/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0d/bd/b8/0dbdb832-04f7-fee4-c9bd-f33a481d11d8/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/48/24/aa/4824aacc-965c-d61c-aa32-7a50753a629b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b5/3e/5e/b53e5e35-82cb-ae69-708c-8d4ad75b645e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/44/0f/c8/440fc844-b721-8797-1d69-8387e80c8f28/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d0/5f/72/d05f72de-8a5f-0e86-e199-01679745b53d/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[合戰忍者村物語]]></title>
-        <id>合戰忍者村物語-mo-1760177462403</id>
-        <link href="https://apps.apple.com/mo/app/%E5%90%88%E6%88%B0%E5%BF%8D%E8%80%85%E6%9D%91%E7%89%A9%E8%AA%9E/id792638268?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E5%90%88%E6%88%B0%E5%BF%8D%E8%80%85%E6%9D%91%E7%89%A9%E8%AA%9E/id792638268?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/01/db/36/01db36e3-1fae-8e5e-1d10-571ae16314c3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h2>应用描述</h2><p>
-  戰國時代的忍者戰爭遊戲！！
-是一款發展忍者村，進而一統天下的模擬類遊戲。
-
-忍者村的村民（真實身份為忍者）們會向來訪的旅客兜售自製的商品以及從村裡採集到的木材和礦石來賺錢。賺來的錢可以作為軍費，用於村民的修行或是增強裝備和兵力，所以請好好經營村莊哦。
-
-村民透過不斷修行可以學會各式各樣的技能，讓他們裝備上武器和鎧甲……
-然後就去打開戰鬥的序幕吧。
-
-還有可能遇到歷史名將！？
-----
-其它遊戲請透過關鍵字「Kairosoft」來進行搜索。https://kairopark.jp
-還有支援移動設備/電腦的遊戲發展國物語等免費遊戲哦。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/84/ca/2584ca14-9ad3-8763-c2d1-2ece8856d569/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/ed/fd/88edfdbc-6320-c18d-367b-4b9531a531ed/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/87/84/ab878470-b323-a759-c435-e11995e62333/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/2b/4c/972b4ca3-00a7-e12b-d0c3-d3f4e0c526ce/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8b/74/57/8b745762-0a8f-0843-6263-5ee97d014519/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/a9/b1/6ca9b115-b1fa-b528-730d-fed83aa3c6e2/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4e/83/e6/4e83e630-d487-1a32-60d4-00703db7810a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/79/ac/d2/79acd252-a413-9648-fd6e-e4039e0515b5/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9c/01/19/9c01191e-b9ad-075e-71d2-647f43ba1f3b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/79/ff/7479ff09-8bbb-ad3b-757b-02f93b076406/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[探險頑皮動物園]]></title>
-        <id>探險頑皮動物園-mo-1760177462403</id>
-        <link href="https://apps.apple.com/mo/app/%E6%8E%A2%E9%9A%AA%E9%A0%91%E7%9A%AE%E5%8B%95%E7%89%A9%E5%9C%92/id1672004303?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[价格: USD 5.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E6%8E%A2%E9%9A%AA%E9%A0%91%E7%9A%AE%E5%8B%95%E7%89%A9%E5%9C%92/id1672004303?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ad/2e/41ad2ed4-8d45-c434-ef5b-7e4e8d0a2f88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 5.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 5.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h2>应用描述</h2><p>
-  出發前往草原、寒冷地帶、叢林等地去探險，尋找動物！
-來經營一座讓各種動物都能舒適生活，大受歡迎的動物園吧！
-
-首日開張就馬上讓客人因可愛的動物而笑容滿面。
-餵食肚子餓的動物，照顧牠們吧。
-
-送禮物給還有點緊張的動物來增進彼此的感情應該也不錯喔。
-依照動物的生態來選擇要送牠蘋果、樹果或肉類吧。
-要是養殖場內的植物設置也能夠配合動物的生活環境就更棒了！
-
-也別忘了讓客人逛得舒適喔！
-若是有長椅和休息區域，再加上熱狗販售店的話就能讓客人玩到太陽下山了吧。
-當動物園的區域變大後，引入園區巴士來讓移動變得更輕鬆！
-
-當同一個養殖場內的動物彼此感情變好就會萌生戀情……還可能生下小孩子唷！
-如果養殖場內只有雄性的話，就藉由探險或介紹所來幫牠們尋找雌性的夥伴吧。
-動物可以透過緊張的雇用交涉而成為夥伴，要幫牠取一個專屬的名字喔。
-
-於SNS上也大受世界矚目！來吧，靠你的經營技巧來朝五星級動物園邁進吧！
-
-輕觸、拖曳、放大與縮小等操作方式皆可對應。
-
-更多遊戲請搜尋「Kairosoft」。https://kairopark.jp
-這裡有許多您可能玩過的免費遊戲，也有大量買斷制應用程式！
-都是2D點陣圖風格的Kairosoft系列遊戲喔。
-
-請跟隨我們的Twitter，以獲得最新資訊。
-https://twitter.com/kairokun2010
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2b/f4/16/2bf416d1-a1b7-b56e-e4a4-69a796b27eb8/dbd7c387-6b0a-4aff-b559-52d25fcaec30_i55_zoo201_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8d/b2/5a/8db25a87-f0f5-9d8f-292f-ced66803e337/c6bfb1e4-29f1-4012-b0d4-0593d563699d_i55_zoo202_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ee/da/7e/eeda7eba-83be-0177-0775-b8687f1f106a/8585252c-3349-4e4a-8ef6-212198dcb924_i55_zoo203_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/aa/64/81aa6461-bcaf-ea45-747c-b4c117666588/848b8d43-7ea0-4f3d-aea9-2fe0d01101f8_i55_zoo204_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/04/5a/b1/045ab110-b986-77d8-aa0c-a8ad0ef35c0e/4bccb332-6a63-458c-aa69-32ff4872a70e_i55_zoo205_tc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ca/fb/a9/cafba930-b00b-f44e-26c1-3dcd7084850e/f78bad8e-a490-4d16-af4f-2232e21dc650_iPro_zoo201_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/65/f4/0865f4a5-cdbd-5821-6657-36bc49525589/df0019c2-c4f2-4b44-bba9-a6af702f61ff_iPro_zoo202_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5e/9d/29/5e9d291e-0844-bb5d-b6de-548ae54eecf3/db65fec2-0862-4ac3-b3a2-cd1535bcaa77_iPro_zoo203_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f2/90/af/f290af12-87eb-1064-1759-c20e1e732b3a/328a863b-aa8e-4742-95ec-4545d0e228f9_iPro_zoo204_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/73/9a/6c/739a6c1a-755f-b1f2-9907-f1e25d19413e/cf8327ba-7c57-44b8-b07f-6abf62e960f8_iPro_zoo205_tc.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遊樂園夢物語]]></title>
-        <id>遊樂園夢物語-mo-1760177462403</id>
-        <link href="https://apps.apple.com/mo/app/%E9%81%8A%E6%A8%82%E5%9C%92%E5%A4%A2%E7%89%A9%E8%AA%9E/id1575192531?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[价格: USD 5.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E9%81%8A%E6%A8%82%E5%9C%92%E5%A4%A2%E7%89%A9%E8%AA%9E/id1575192531?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/24/c7/a124c75a-582b-d1ae-75b2-70e18bb1ac3e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 5.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 5.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h2>应用描述</h2><p>
-  來打造充滿笑容與回憶的美好遊樂園吧！
-首先要建造「旋轉咖啡杯」及「彈跳床」等設施來招攬遊客。再來招募人氣吉祥物並加以培育，讓他們參加盛裝遊行吧。
-
-來訪的遊客或許會在社群網路平台上發表感想喔。
-參考對遊樂園的感想或期望，並活用在經營上吧。
-其中說不定會有因為看了知名評論家的感想而來訪的遊客喔？
-想建造更多遊樂設施，就需要有土地。
-盡情外包工程來擴大土地吧。
-或許有朝一日，興建「摩天輪」及「雲霄飛車」等巨大遊樂設施也不是夢喔？
-另外，整修交通機關可以讓遠方的遊客也來參訪。
-
-而遊樂園最不可或缺的，就是身為門面的吉祥物。
-透過每年一次的獲得交涉，來招募理想的吉祥物吧。
-只要獲得新吉祥物，就會開放建造「雪國區」或「宇宙區」、「沙漠區」等符合吉祥物氛圍的遊樂區。如果人氣夠高，在參加盛裝遊行時，也會讓遊客滿意。
-
-遊客滿足時就會累積點數，可以將此點數用在研究設施等指令上。
-強化遊樂設施的人氣與性能來創造粉絲，並登上全國遊樂園排行榜吧。
-要在遼闊土地上打造出怎樣的遊樂園，都在您一念之間！
-
-一起來經營充滿許多遊客的夢幻主題遊樂園吧！
---
-本作還支援觸控捲動及畫面的擴大縮小。
-
-更多遊戲請搜尋「Kairosoft」。https://kairopark.jp
-這裡有許多您可能玩過的免費遊戲，也有大量買斷制應用程式！
-都是2D點陣圖風格的Kairosoft系列遊戲喔！
-
-請追蹤我們的Twitter，以獲得最新資訊。
-https://twitter.com/kairokun2010
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/70/12/93/701293e1-a07f-e6d4-df26-6509e1924364/76c925d9-66e5-446d-aba8-9776008613ed_i55_themepark01_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/35/f5/ec/35f5ecb7-e9ee-7da5-c662-7f40aa62c254/4176affe-421d-489c-8afc-c33aae48453d_i55_themepark02_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7d/e5/68/7de56818-b318-b07c-03eb-2d268422c684/7f420809-02e2-4b5e-b2e8-c1f50f748609_i55_themepark03_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/8f/59/ce/8f59ce49-f1eb-0041-e843-12740f5a3126/9fdd5486-7e14-46bc-8a19-a7e7bcf236e0_i55_themepark04_tc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/23/ed/f9/23edf96d-1ecc-a4f1-b13e-495d35172e12/1e63b4c0-2512-4e57-ab4d-0e1ae1d90c8a_i55_themepark05_tc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f3/f2/ed/f3f2ed14-37bb-b3f3-d5f3-e5ca6bed5d3a/6b2becdc-9354-43b8-abf5-5bab5d7b5183_iPro_themepark01_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/06/b1/c2/06b1c2d8-91aa-c2a7-5065-63e8d06144be/04314654-db71-4c03-b744-561dbb652174_iPro_themepark02_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/cc/7b/c9/cc7bc919-12e8-42c7-09d1-dc8516c55c6c/645c2f50-b5b5-4550-91ea-c5d06f05743f_iPro_themepark03_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/5e/68/055e682f-07b9-91c3-ff2e-552df3cbc843/6318f956-a10d-4bd9-97f1-f595271d078a_iPro_themepark04_tc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ed/92/2d/ed922dca-d9f6-a2d7-8743-f984e9780d26/fb5ab496-4c27-43cd-a17e-0bd4b78600a5_iPro_themepark05_tc.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[遊戲發展國++]]></title>
-        <id>遊戲發展國++-mo-1760177462403</id>
-        <link href="https://apps.apple.com/mo/app/%E9%81%8A%E6%88%B2%E7%99%BC%E5%B1%95%E5%9C%8B/id396085661?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E9%81%8A%E6%88%B2%E7%99%BC%E5%B1%95%E5%9C%8B/id396085661?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/94/2c/e9942c4e-1411-c270-16ff-afba1061763f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 1.99</strong>
-</b><span>[USD 0.99 ~ USD 4.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 1.99</b>
-</p><h2>应用描述</h2><p>
-  經營一家遊戲公司，達成百萬人氣。
-
-這是大幅強化後的升級版，新增了在自己公司內部開發遊戲機的功能以及轉職系統。
-
-找尋優秀職員並對他們進行培養吧。
-培養公司職員後，可開發的遊戲種類和內容會變多。尋找出人氣組合，在新型主機上進行發售吧！不僅如此，程式員及音樂製作等與遊戲相關的職業系統也將登場。
-
-成為遊戲界的霸者吧。
-----
-KAIROSOFT旗下的其他模擬遊戲情報可連線至Kairo公園查看喔！
-http://kairopark.jp
-
-https://twitter.com/kairokun2010
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/ac/36/91/ac36910b-29b9-727c-7b22-0fc195df47f8/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/ad/bb/fa/adbbfa08-adbe-798c-36db-173a224dea0d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/ef/6c/1a/ef6c1aa5-c98e-0cf5-5a11-e99e8c364a3b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/03/d7/9e/03d79e83-14ca-6fef-208f-c2325105d5dc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/3a/c1/61/3ac161bd-0ad3-1d7b-4a53-91514886399e/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/8e/62/46/8e624646-2354-aec1-6fd8-bb6fcf1d7a4d/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/c4/80/d8/c480d8cc-260c-0d75-00aa-40c1b5c701f9/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/3e/e0/10/3ee010fe-c140-79da-9ad0-7ac2b88c463c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/bc/97/ff/bc97ff2c-bf9f-0f82-14f4-e36ff9d74e94/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/e7/ed/f8/e7edf8ac-d4bc-9d6f-875f-8d635898ae33/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[箱庭鐵道物語]]></title>
-        <id>箱庭鐵道物語-mo-1760177462403</id>
-        <link href="https://apps.apple.com/mo/app/%E7%AE%B1%E5%BA%AD%E9%90%B5%E9%81%93%E7%89%A9%E8%AA%9E/id1121484538?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[价格: USD 5.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%AE%B1%E5%BA%AD%E9%90%B5%E9%81%93%E7%89%A9%E8%AA%9E/id1121484538?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/5c/d6/165cd656-7900-d07b-9d1d-1cde7609e25f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 5.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 5.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h2>应用描述</h2><p>
-  這是一款經營鐵路公司車站的模擬遊戲， 
-自由配置各種設備，引進自己喜歡的列車吧。
-設置必備的自動販賣機、長椅、指示牌來增加便利性，
-設置便利店、壽司店、蕎麥麵店等店鋪來增加人氣。
-
-連接車廂還能造出商務列車和觀光列車哦。
-開發周邊地區後能夠吸引新的顧客前來。
-
-通勤顧客和學生將絡繹不絕，屬於你的大型車站即將發車運轉！
-----
-其它遊戲請藉由關鍵字「Kairosoft」來進行搜索。https://kairopark.jp
-還有支援移動設備/電腦的遊戲發展國物語等免費遊戲哦。
-
-請跟隨我們的X(Twitter)，以獲得最新資訊。
-https://twitter.com/kairokun2010
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/8a/a9/fd/8aa9fd97-7ecf-d40e-23ea-433a1ae80927/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/85/39/7e/85397eea-3bc8-8b29-eba8-e95742f5e977/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/1d/26/ba1d26d0-253b-4bf6-ffa7-14bf1fd8b9a4/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/49/72/bc/4972bc20-6eac-9009-18c8-3ee78b2aa327/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/dc/ae/f4dcae82-5314-511a-a004-45280a2bb23c/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/06/2d/96/062d96d4-2f33-81e7-cbc4-b59ba1c97d46/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ca/dd/0a/cadd0a43-aa6c-1e97-5c5c-b32b9ebd4f6e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/06/5d/78/065d7812-e028-9ae0-468f-8e02914a2b33/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/94/37/9e/94379eb0-1a5c-74c7-617a-9b16498915d5/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/d4/5e/bdd45e0c-469b-2c69-03ff-ce6293f03c33/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[銀盤滑冰場物語]]></title>
-        <id>銀盤滑冰場物語-mo-1760177462403</id>
-        <link href="https://apps.apple.com/mo/app/%E9%8A%80%E7%9B%A4%E6%BB%91%E5%86%B0%E5%A0%B4%E7%89%A9%E8%AA%9E/id6738371720?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[价格: USD 6.99 → USD 4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E9%8A%80%E7%9B%A4%E6%BB%91%E5%86%B0%E5%A0%B4%E7%89%A9%E8%AA%9E/id6738371720?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/71/f7/2b71f7d0-b448-cb43-4cc5-ce34bf88a8d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 6.99</span> → <b>
-  <strong>USD 4.99</strong>
-</b><span>[USD 4.99 ~ USD 6.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 4.99</b>
-</p><h2>应用描述</h2><p>
-  來經營專屬於你的滑冰場吧。
-還可以培育員工參加競技賽喔。
-
-首先你要準備一個大型滑冰場來吸引客人。
-在滑冰場上布置一些裝飾品增添魅力，讓大家不禁想要多拍幾張照。
-設置「三溫暖」療癒身心；設置「熱湯吧」用熱湯紓解疲憊。
-客人的迴響有時也會發上社群喔！
-
-「要是有這種菜色就好了」
-積極回應客人的要求吧！
-你可以搭配各種材料開發出你的原創菜色。
-運動後送上一頓美食，客人也會笑容滿面。
-
-指導員的培育也很重要。
-「旋轉」、「艾克索跳」……學會各種技巧後，
-再編組一套最能發揮實力的演出節目去挑戰競技賽吧！
-得到優勝的話，滑冰場的評價肯定也會跟著水漲船高！
-
-打開知名度後，其他城鎮的鎮長也聞風而來。
-這時就可以把滑冰場遷往更好的地點，吸引全世界的人來多多光顧囉！
-
-來吧，一起打造五星滑冰場，讓客人們留下深刻回憶吧！
-
-其它遊戲請透過關鍵字「Kairosoft」來進行搜索。https://kairopark.jp
-還有支援移動設備/電腦的遊戲發展國物語等免費遊戲哦。
-</p>]]></content>
     </entry>
 </feed>
