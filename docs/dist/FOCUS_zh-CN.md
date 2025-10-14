@@ -1279,7 +1279,7 @@
 |180|6499198824|手动|蜂软扫描 - 全能扫描仪|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|
 |179|1538124245|手动|哪里哪里|where I put it|where I put it|where I put it|where I put it|where I put it|
 |178|6446469093|手动|口袋时钟 - StandBy待机Widget桌面翻页创意时钟|口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶|口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶|口袋時鐘-創意全屏精準錶盤懸浮顯示鎖屏桌面小組件手錶|Clock Pocket:standby widget|Clock Pocket:standby widget|
-|177|1610668825|手动|FyTube - 没有广告的 YouTube|FyTube -沒有廣告的 YouTube|FyTube -沒有廣告的 YouTube|FyTube -沒有廣告的 YouTube|FyTube - YouTube Without Ads|FyTube - YouTube Without Ads|
+|177| ~~1610668825~~ |手动| ~~FyTube - 没有广告的 YouTube~~ | ~~FyTube -沒有廣告的 YouTube~~ | ~~FyTube -沒有廣告的 YouTube~~ | ~~FyTube -沒有廣告的 YouTube~~ | ~~FyTube - YouTube Without Ads~~ | ~~FyTube - YouTube Without Ads~~ |
 |176|1175912897|手动|EverMemo印象便签|EverMemo印象便簽|EverMemo印象便簽|EverMemo印象便簽|EverMemo - Fastest Note|EverMemo|
 |175|6504433140|手动|LaxtTime - 日常记录/循环提醒/习惯养成/倒计时|LaxtTime|LaxtTime|LaxtTime|LaxtTime - Remember Last Time|LaxtTime - Remember Last Time|
 |174|920133658|手动|解剖和生理学|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|Anatomy & Physiology|
