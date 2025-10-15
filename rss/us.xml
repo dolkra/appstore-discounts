@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-13T08:44:11.231Z</updated>
+    <updated>2025-10-15T03:59:05.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-13T08:44:11.232Z</updated>
+        <updated>2025-10-15T03:59:05.646Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 13 Oct 2025 08:44:11 GMT</id>
+        <id>rankingusWed, 15 Oct 2025 03:59:05 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-13T08:44:11.233Z</updated>
+        <updated>2025-10-15T03:59:05.646Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,16 +51,16 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1449</b>
+        <b>1453</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1248</b>
+        <b>1252</b>
       </td>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1334</b>
+        <b>1338</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1158</b>
+        <b>1162</b>
       </td>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
     </tr>
   </tbody>
@@ -122,7 +122,9 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
+        <del>
+          <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -434,7 +436,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1291427111">Evoland 2</a>
+        <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
       </td>
       <td>
         <ul>
@@ -451,7 +453,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1298544927">My Child Lebensborn</a>
+        <a href="https://apps.apple.com/us/app/id1291427111">Evoland 2</a>
       </td>
       <td>
         <ul>
@@ -468,7 +470,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
+        <a href="https://apps.apple.com/us/app/id1298544927">My Child Lebensborn</a>
       </td>
       <td>
         <ul>
@@ -485,7 +487,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1411823462">7Days : Backer</a>
+        <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
         <ul>
@@ -502,7 +504,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
+        <a href="https://apps.apple.com/us/app/id1411823462">7Days : Backer</a>
       </td>
       <td>
         <ul>
@@ -517,6 +519,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>25</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1473785373">MoneyTrack: Expense & Budget</a>
@@ -539,7 +558,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1477991646">Kingdom Two Crowns</a>
@@ -564,7 +583,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481100296">BreatheIn: Calm Breathing</a>
@@ -581,7 +600,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1505636751">TeleGuard</a>
@@ -598,7 +617,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1523633394">SpongeBob SquarePants</a>
@@ -615,7 +634,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1539778232">Afterplace</a>
@@ -632,7 +651,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
@@ -649,7 +668,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575192531">Dream Park Story</a>
@@ -666,7 +685,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -683,7 +702,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -700,7 +719,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1596406400">黄鸭证件照-最美求职考试证照制作神器</a>
@@ -717,7 +736,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -734,7 +753,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1616652599">Kingdom Eighties</a>
@@ -751,7 +770,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1622064157">Sismo: Vibration Meter & Alert</a>
@@ -768,7 +787,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1631859420">After Inc.</a>
@@ -785,7 +804,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -802,7 +821,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1672004303">Zoo Park Story</a>
@@ -819,7 +838,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451009326">LMP - Music Hub</a>
@@ -836,7 +855,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6466296603">The Last Game</a>
@@ -853,7 +872,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6746649752">MagicKit Pro: AI Smart Toolbox</a>
@@ -870,7 +889,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449003064">Goblin Tools</a>
@@ -887,7 +906,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
@@ -904,7 +923,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349855">Backyard Football '99</a>
@@ -921,7 +940,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -938,7 +957,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738371720">Skating Rink Story</a>
@@ -955,7 +974,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349587">Backyard Baseball '01</a>
@@ -1300,7 +1319,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
+        <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1309,7 +1328,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1318,7 +1337,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1327,7 +1346,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1336,7 +1355,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1345,7 +1364,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1354,7 +1373,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
+        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1363,7 +1382,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1372,7 +1391,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1381,7 +1400,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id488674899">RAIN RADAR °- sky weather NOAA</a>
+        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1390,7 +1409,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/us/app/id488674899">RAIN RADAR °- sky weather NOAA</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1399,7 +1418,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id373454750">随手记Pro</a>
+        <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1408,7 +1427,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id866450515">Forest: Focus for Productivity</a>
+        <a href="https://apps.apple.com/us/app/id373454750">随手记Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1417,12 +1436,43 @@ feedId:157008699750812672+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id866450515">Forest: Focus for Productivity</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>50</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id388624839">CamScanner + | OCR Scanner</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Witness]]></title>
+        <id>The Witness-us-1760499173261</id>
+        <link href="https://apps.apple.com/us/app/the-witness/id1230231705?uo=4"/>
+        <updated>2025-10-15T03:32:53.261Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-witness/id1230231705?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a8/3b/b3/a83bb3ed-719a-6839-a259-f17a11a9cc07/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $9.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$4.99</b>
+</p><h2>Application Description</h2><p>
+  You wake up, alone, on a strange island full of puzzles that will challenge and surprise you.
+
+You don't remember who you are, and you don't remember how you got here, but there's one thing you can do: explore the island in hope of discovering clues, regaining your memory, and somehow finding your way home.
+
+The Witness is a single-player game in an open world with dozens of locations to explore and over 500 puzzles. This game respects you as an intelligent player and it treats your time as precious. There's no filler; each of those puzzles brings its own new idea into the mix. So, this is a game full of ideas.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/aa/28/8b/aa288bc2-99ce-095a-a116-60f4ed595ee7/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/40/14/ba4014cf-35b4-d173-697e-b126c3402e82/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/ec/80/50ec806c-1fda-f711-d752-0b53ffb986fb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ba/18/61/ba18616d-68a1-4363-b09a-1995e5caf2ba/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/62/be/d362beec-a947-1b47-e97a-a7576b27bcab/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/aa/fb/97aafbe5-3fdd-91ed-f68f-d05dafa2dbb3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/16/8b/3d/168b3d80-cd3f-a052-bda7-78360aa25db3/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f4/cc/3c/f4cc3cd1-852c-2492-93c4-85d20d53494f/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/dd/10/f4/dd10f4a6-84a1-5fc1-d913-f354a2272d2e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/74/d3/d2/74d3d228-fa16-91ba-4e23-84f9125c4423/pr_source.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Religion inc. God Simulator]]></title>
@@ -1649,407 +1699,5 @@ Full-Featured Color Picker
 
 Visit snowCanoe.com to check out more screenshots, videos, and artwork.
 </p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/90/73/4f/90734fcf-dfef-c016-ae6f-5900dd8cedba/5af65c1c-5464-43e2-b86a-ba4843bc5e06_Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/af/6e/a7af6e2c-47ad-c847-fa74-a6716f7fd212/d5e0783c-b639-4b13-b8a9-d9ab1514561d_Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/18/23/b5/1823b5dd-55e6-bb4e-8714-c34328c996ca/9cc1685e-d15e-4f39-9bc1-360d4f628280_Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/36/ae/48/36ae489a-561d-2308-707a-ba920df1b2f1/c3b9b682-8199-48c5-a5d4-c4529917f7a5_Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/25/8c/0e258c61-ade5-3b84-fd40-049b45551c0b/d8682575-87f7-4578-a375-42d00bcbb062_Screenshot5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f3/f3/d1f3f319-1555-a266-41bd-f3a093e96d13/5568fdef-fb06-425c-ad95-c0227c9f4697_Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/07/c2/8107c279-0640-f4d9-a275-ed3037091d56/3213636f-cef5-480a-b509-4b6b50b22a6f_Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/40/a0/50/40a050b1-16ba-dd5d-6522-2933e0ef1a88/1ff73799-41c0-4522-ac2c-c608e21b8fd3_Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/7f/a1/0e7fa13a-719d-731d-a5b9-e7400258187a/a30911bf-f1ba-445d-8b6a-00792572bcca_Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/5f/88/325f88fd-afd3-e5ad-9be1-e92cb85539b7/71fd637f-9fa4-438a-98cc-636997ccc728_Screenshot10.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄鸭证件照-最美求职考试证照制作神器]]></title>
-        <id>黄鸭证件照-最美求职考试证照制作神器-us-1760239758715</id>
-        <link href="https://apps.apple.com/us/app/%E9%BB%84%E9%B8%AD%E8%AF%81%E4%BB%B6%E7%85%A7-%E6%9C%80%E7%BE%8E%E6%B1%82%E8%81%8C%E8%80%83%E8%AF%95%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E7%A5%9E%E5%99%A8/id1596406400?uo=4"/>
-        <updated>2025-10-12T03:29:18.715Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E9%BB%84%E9%B8%AD%E8%AF%81%E4%BB%B6%E7%85%A7-%E6%9C%80%E7%BE%8E%E6%B1%82%E8%81%8C%E8%80%83%E8%AF%95%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E7%A5%9E%E5%99%A8/id1596406400?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/6b/b0/b06bb0b1-a97e-59c8-2e41-e0ac06f1d597/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    黄鸭证件照永久VIP：<b>$1.99</b>
-  </li><li>
-    黄鸭证件照3元：<b>$0.99</b>
-  </li><li>
-    黄鸭证件照-周度会员：<b>$0.99</b>
-  </li><li>
-    黄鸭证件照1元：<b>$0.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  黄鸭证件照， 小红书博主推荐，抖音超热门证件照APP，求职求学必备！
-
-为什么选择黄鸭证件照？
-
-一次付费下载，永久使用，还可设置分享给朋友家人（依照iCloud家庭账户规则）
-
-“一款功能强大的证件照制作软件，用户可免费保存无水印电子证件照到手机相册，还有众多实用小工具功能等你探索。”
-
-===百种证件照尺寸，够专业===
-
-包含1寸、2寸、3寸、4寸等常规尺寸，同时提供百余种官方指定证照规格，如：毕业照、学位照、入学照等学生证照；会计、考研、计算机、公务员、医护、考研、幼师及语言类考试证照；还有社保、签证、简历、驾照等其他类满足您的各类拍摄场景需求。软件智能推出当下热门的证件照尺寸，让你更快捷高效的用手机制作证件照！
-
-===一键抠图换背景，够智能===
-
-发丝级抠图引擎，ps小白的福音！傻瓜式操作智能抠图，配合多元化背景底色，除了常规红蓝白，还增加高级色和糖果色，可根据不同的使用场景随意切换。展现你最美气质的同时，确保证件照的专业合规性，一图多用不是梦，旧图改造还能用！
-
-===超自然美颜美妆，够高级===
-
-AI智能算法提供磨皮、美白、瘦脸、等美颜功能。更有适合懒人、手残党的一键式化妆，满足你对自然妆、男神妆、女神妆的需求，支持自定义妆容程度。一键还原最美且真实的你，打造完美、自然、高级感脸庞，告别证照不美时代！
-
-===海量服饰在线换，够正式===
-
-不同风格的男装、女装、童装，满足多种场景需求的同时，支持自助调节服饰大小和位置，搭配消除笔调整细节，效果简直完美！
-
-
--隐私政策：https://shimo.im/docs/qKVR8J3PQKtGHKk6/
--服务条款：https://www.freeprivacypolicy.com/live/8d648196-576f-4b7b-a889-01476e5f167b
-
-https://idcamera-834ff.web.app
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/da/77/4b/da774b68-162b-49a2-92c5-dec27e638d4a/d46268ee-6d52-4e55-ab8e-1c106deea1ba_1242x2208aa.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/82/63/c782639d-d958-d6f1-4c93-83a4968bfaed/d0b5c7a6-3c28-4cb0-865f-e397dc95e63d_Apple_iPhone_8_Plus_Screenshot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/95/33/b395338e-43d1-5c98-df4a-ca588c157431/c2cf5247-bcbb-4d36-9eff-812d46911ad7_Apple_iPhone_8_Plus_Screenshot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/56/68/3c5668ef-67ea-5182-d2ac-7d49d7952d3d/fabed569-5543-4cf7-a1d0-9e4d93f70221_Apple_iPhone_8_Plus_Screenshot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/05/ba/f605bae7-9607-a11e-f34b-8f058d51c87d/435cc9e5-5220-46cc-9d65-23dbfd892e51_Apple_iPhone_8_Plus_Screenshot_4.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backyard Baseball '01]]></title>
-        <id>Backyard Baseball '01-us-1760199168240</id>
-        <link href="https://apps.apple.com/us/app/backyard-baseball-01/id6740349587?uo=4"/>
-        <updated>2025-10-11T16:12:48.240Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/backyard-baseball-01/id6740349587?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/3e/f22d3ebd-1e8e-0f33-aeb9-8a65b6daf3f8/AppIcon-1x_U007epad-0-1-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  STEP UP TO THE PLATE
-Relive the second baseball game in the Backyard Sports franchise, now enhanced to run on iOS. Whether you're picking your dream team, playing a pick-up game, or diving into a full season, step up to the plate and experience the game that made baseball fun for everyone!
-
-Backyard Baseball ‘01 teams up the Backyard kids with Backyardified MLB legends. Create your own Backyard team, customize your uniforms, and strategize to win the Championship. Play a single pick-up game or play through an entire season. Backyard Baseball ‘01 features intuitive controls for all ages!
-
-SWING BACK INTO BASEBALL
-Enjoy baseball like it’s 2001!
-30 Charming Backyard kids
-Legendary MLB Players
-MLB Team Marks
-Hilarious Bloopers
-8 Classic Ballparks
-9 Pitching Power-ups and 4 batting Power-ups
-Lively commentary from Sunny Day and Vinnie
-
-To get into the swing of things, choose a batter and face Mr. Clanky for some batting practice. This is where you’ll learn just when to click to make your chosen batter hit the ball!
-
-THE GOAT RETURNS
-Play with the legend himself, Pablo Sanchez. Build a roster from a cast of 30 hilarious child athletes and 28 legendary pros that made Backyard Baseball ‘01 a sports classic. Returning MLB players include Derek Jeter, Alex Rodriguez, Cal Ripken Jr., Sammy Sosa, Mike Piazza, Randy Johnson, Nomar Garciaparra, Jeff Bagwell, Jason Giambi, Chipper Jones, Jeromy Burnitz, Mark McGwire, Shawn Green, Vladimir Guerrero, Kenny Lofton, Jason Kendall, Barry Larkin, Marty Cordova, Mo Vaughn, Raul Mondesi, Curt Schilling, Alex Gonzalez, Juan Gonzalez, Larry Walker, Carlos Beltran, Tony Gwynn, Ivan Rodriguez, and Jose Canseco.
-
-Game Modes include:
-Choose from three modes of play (Easy Mode, Medium Mode, Hard Mode)
-Random Pick-up: A quick way to jump right in! The computer chooses a random team for you and itself and the game starts immediately.
-Single Game: You take turns with the computer choosing players from a random pool of characters.
-Season: You pick your home field, create a team, and manage the team through a 14 game series. The opposing teams are computer generated. At the end of the season, the best two teams advance to the BBL playoffs (best of 3). If you keep winning, you’ll compete in the Super Entire Nation Tournament and Ultra Grand Championship of the Universe Series!
-
-ADDITIONAL INFORMATION
-At our core, we are fans first – not just of video games, but of the Backyard Sports franchise. Fans have asked for accessible and legal ways to play their original Backyard titles for years, and we are excited to deliver.
-
-Without having access to the source code, there are hard limitations on the experience we can create. As an example, we can’t use the original 32bit code to support modern macOS, as even with an incredibly clever wrapper, macOS can’t execute the binaries.
-
-Backyard Baseball ‘01 runs well, looks better than ever, includes new bonus features to test your mettle, and creates a new installation for digital preservation within the Backyard Sports catalog that allows the next generation of fans to fall in love with the game.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
-        <id>Card.Note - 多彩卡片笔记-us-1760199168240</id>
-        <link href="https://apps.apple.com/us/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
-        <updated>2025-10-11T16:12:48.240Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f1/4f/3bf14f8d-b541-ac77-ea8c-f9e03dd0cb6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Card.Note Premiun：<b>$1.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  「Card.Note」：每个念头都值得用心记录
-
-这是一款以卡片为主要设计理念的极简记事 App 。
-你写的每一段文字都可以生成一张张精美的卡片 。
-
-你可以用它来写诗、短文、随想； 
-也可以用它来写日记、清单、规划、要事提醒；
-还可以直接用语音输入来记录每个瞬间的念头。
-
-「Card.Note」九大特点：
-
-1.极简设计
-循着极简的设计理念，结合图标及手势操作，轻松上手。
-
-2.全局卡片化
-充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
-
-3.全局手势化
-下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
-
-4.语音录入
-打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
-
-5.要事提醒：
-可设置提醒闹种，重要事情和计划不再错失。
-
-6.快捷高效
-支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
-
-7.文青定制
-精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
-
-8.iCloud云同步
-支持iCloud云同步，多台设备间数据可任意同步。
-
-9.深色模式
-全局适配深色模式，视觉舒适不刺眼。
-
-感谢下载，生活愉快。
-
-如有问题或建议，请联系开发者
-微博：PoPoem开发者
-邮箱：yande18@126.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh! Edo Towns]]></title>
-        <id>Oh! Edo Towns-us-1760177462403</id>
-        <link href="https://apps.apple.com/us/app/oh-edo-towns/id474177077?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/oh-edo-towns/id474177077?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/73/0f/36/730f3667-aa75-9d90-5496-218133154bbf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$1.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h2>Application Description</h2><p>
-  Plunge into the past for a rousing romp through Edo period Japan! Your ideal samurai town awaits you!
-
-Erect houses, castles, and all manner of medieval marvels with a touch of the finger--rewriting the pages of history as you see fit!
-
-Strategically place compatible buildings to make "combos," boosting your Yield to become the best castle town in all the land!
-
----- 
-
-Turn your device to rotate the screen, touch to scroll, and pinch to zoom in and out. 
-
-Supports iPhone, iPod touch, and iPad. 
-Note: Screen rotation and zoom are only available on iPhone 3GS and later, iPod touch 2nd generation and later, and iPad. 
-
-The game now lets you switch between English and Japanese.
-
-Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp. Be sure to check out both our free-to-play and our paid games!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/be/24/76/be247669-7f2d-5bb1-037b-c1bd3fece5b4/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/22/2b/b5/222bb55f-1833-4747-4c02-17bd17c32d49/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/00/9d/20/009d204e-d00d-a197-4449-95fffd457738/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e8/23/5c/e8235ca1-b0d0-0adb-0c92-70d8794f34eb/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/fa/d9/fbfad959-47a9-81c3-e3b5-20a49be00424/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/2d/4f/562d4f3c-cb36-97c2-6df5-aa456e69165b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/08/f1/a2/08f1a2b2-9437-7d5c-fe67-7a49aa012cc2/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/ee/bf/a7eebf22-b4e1-c00e-979b-f8f95da6a2e7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8d/6a/4b/8d6a4b5b-ddb6-1d7b-0971-8df0b1b5c29f/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/56/66/5f566624-8c7b-cb3c-ae48-ce47e8dc9f31/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ninja Village]]></title>
-        <id>Ninja Village-us-1760177462403</id>
-        <link href="https://apps.apple.com/us/app/ninja-village/id792638268?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/ninja-village/id792638268?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/01/db/36/01db36e3-1fae-8e5e-1d10-571ae16314c3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h2>Application Description</h2><p>
-  Rewrite the history of feudal Japan with an army of the ultimate guerrilla warriors: ninjas!
-
-The shogun has fallen from power, plunging the land into chaos as feuding feudal lords scramble to take his place. But the shogun has an ace up his sleeve: you! As the head of a leading ninja clan, it's up to you to rally your followers and help unify Japan!
-
-As their fearless leader, you'll need to train your fellow ninjas in the ways of modern 16th-century warfare--including the use of those newfangled matchlock guns! Assign them to infantry, cavalry, and other units to form an army fit for a shogun!
-
-Of course, war is costly in more ways than one. Between battles, your followers will raise funds by producing food, handicrafts, and other goods to sell to passing travellers.
-
-Arm your ninjas with the best gear, training, and skills and lead them to victory in the struggle for unification! You may even meet some of the era's greatest generals along the way...
-
----
-Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp. Be sure to check out both our free-to-play and our paid games!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/91/6b/af/916baf14-7db3-8b34-4783-284bba878e43/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/a4/6b/92a46bde-9f1f-d8ab-265c-dab8876b8c65/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a4/fd/30/a4fd30f4-609c-eccc-15aa-95c274db9190/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/dc/5a/d6dc5a9a-c7d5-b5a8-2235-bf8286fba378/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5a/4e/0d/5a4e0de9-7de7-0e94-a5c4-6483bc13e409/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5f/0e/bf/5f0ebf48-360c-a45a-6fe1-c371d63d09ce/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/de/e6/6b/dee66bf5-2566-aade-09cd-843242f673e8/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a9/e5/13/a9e5132d-ae37-118c-0900-214c8cf7aee6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f8/bd/41/f8bd4117-36f2-9ccf-ee07-6343fab3bb4a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/b1/6a/a9b16a54-777e-6817-3beb-48195fcfd88b/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zoo Park Story]]></title>
-        <id>Zoo Park Story-us-1760177462403</id>
-        <link href="https://apps.apple.com/us/app/zoo-park-story/id1672004303?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[Price: $5.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/zoo-park-story/id1672004303?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/ad/2e/41ad2ed4-8d45-c434-ef5b-7e4e8d0a2f88/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$5.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $5.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h2>Application Description</h2><p>
-  Ready to build the zoo of your dreams? Depart on wild adventures to find exotic fauna, exploring all manner of environments from savanna to tundra, jungle and beyond! Give your new animal friends a home and take your zoo to the top of the industry!
-
-Savor the thrill of opening day. Feed the animals in your burgeoning lineup—even give them the occasional treat to show you care! From apples to acorns, meat, and more, tailor your critters' diet according to their natural habitat. On that note, do the same with the surrounding flora too!
-
-Your customers will also require expert care. Develop your zoo's infrastructure, installing benches, fountains, and the odd hot dog stand to make sure zoo-goers stay satisfied till close. Propel your place to mega-park proportions and you'll even be able to start an on-site shuttle!
-
-What's more, if you're lucky, two of your critters who share the same pen may find romance—resulting in the grand gift of life! Potential partners can be found via the Animal Hub or when out exploring. But be forewarned; the latter method requires animals be won over through a heated battle of negotiation!
-
-Well, what are you waiting for? Build a top-ranking zoo, set social media ablaze, and show the world your wild side!
-
-Supports drag to scroll and pinch to zoom.
-
-Search for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp
-Be sure to check out both our free-to-play and our paid games!
-Kairosoft's pixel art game series continues!
-
-Follow us on Twitter for the latest Kairosoft news and information.
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/30/d2/43/30d24399-2ba3-6308-354e-ef4566291556/dc33171b-cbe6-4a51-8072-e775acf63f2e_i55_zoo201_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fc/e9/50/fce950d2-55de-41df-4656-81557e736f4d/789c3282-d80b-4073-ac4c-7afa0688a3e2_i55_zoo202_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/08/37/c9/0837c97a-7c40-3c97-6bc4-fa9f8f5a7b36/f1510240-d311-4147-b0dc-e5f1c6b8ea9c_i55_zoo203_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7b/17/0d/7b170d35-5b68-b8db-08dc-37974275f60c/68aef34a-a6d4-4d9e-9e97-8c6f8038adbd_i55_zoo204_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/63/40/01/63400161-7010-85cd-bf5f-2556cbd3e1a1/9a2aaf0f-bd4e-4c3c-8a04-d928cab91a0e_i55_zoo205_en.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/14/f2/4b/14f24b7f-37e2-5e39-9021-95e5d06dcb32/c45f6f49-afd2-47f1-a69c-e1ee770cee15_iPro_zoo201_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/25/da/a9/25daa96d-dd6a-d1b2-1689-93373c3490ec/dfc5a372-c37b-457f-a142-1241bbc27c81_iPro_zoo202_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fa/d7/79/fad77911-2820-b91b-f0fa-c7102afc3951/1642b630-e160-4d14-8927-b5a91f0a2159_iPro_zoo203_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/04/93/0f/04930f82-3df4-2a64-95bc-760c03231862/e1c8748b-728d-4f30-848f-f5c95829facc_iPro_zoo204_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d9/21/56/d9215612-4c74-980d-ccca-6f0871d6e5b3/7a26c2dc-503e-4b38-bec5-50215a4863a7_iPro_zoo205_en.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream Park Story]]></title>
-        <id>Dream Park Story-us-1760177462403</id>
-        <link href="https://apps.apple.com/us/app/dream-park-story/id1575192531?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[Price: $5.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/dream-park-story/id1575192531?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a1/24/c7/a124c75a-582b-d1ae-75b2-70e18bb1ac3e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$5.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $5.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h2>Application Description</h2><p>
-  Throw open the gates to a magical kingdom of fun and thrills!
-
-Create and customize your own amusement park. From humble attractions like the teacup ride or trampolines, you'll be able to build up to bigger and better things. You can even hire mascots and hold fantastic parades!
-
-What do your visitors like best? How can you improve? There's no better place to check up-to-the-minute feedback than the park's social media. Work hard, and you might attract the attention of famous online influencers!
-
-Running out of space to build new rides? No problem! Just call your friendly neighborhood construction company to expand the park grounds. Soon you'll be setting up Ferris wheels, roller coasters, and other large-scale attractions to catch the eyes of prospective customers passing by.
-
-Don't forget about mascots - these cute and quirky characters are the first things people will think of when they talk about your park! You'll be able to scout a new mascot every year. Signing one will give you access to special themed areas, like the the Space Zone, Snow Zone, and Desert Zone. Keep increasing your popularity and delight your visitors with spectacular parades!
-
-The more impressed your visitors are, the more points you'll earn. These can be used to research new attractions and fixtures or add new functions to existing ones. Give your fans an experience they'll never forget and work your way up through the rankings!
-
-Take your first step on the roller coaster ride of amusement park management! What kind of park will YOU create?
---
-Supports drag to scroll and pinch to zoom.
-
-Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp
-Be sure to check out both our free-to-play and our paid games!
-Kairosoft's pixel art game series continues!
-
-Follow us on Twitter for the latest Kairosoft news and information.
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/cb/97/46/cb9746a3-b12f-be00-d2f5-65ff82448efb/1aa774dd-f1d3-4d24-a88f-ff0f3218a8ae_i55_themepark01_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c6/72/82/c672828a-543b-501f-50d8-9e33a10c533f/cde87576-877b-42ff-a267-ba5d91134402_i55_themepark02_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/75/dc/71/75dc7141-9197-43e6-ed9b-17228feecc0e/2e3fad1e-03fd-4889-ad32-c74b8227d91a_i55_themepark03_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/b3/ff/d2/b3ffd20d-97b6-eb47-c376-a30c0ca11b72/334e810c-6f31-4683-9dae-64c5917a96c9_i55_themepark04_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4c/5a/aa/4c5aaa63-b9e8-8dcb-c1df-d76e620ce30d/96566850-2eee-4b13-94fe-fd77ed2a5bb9_i55_themepark05_en.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1d/4b/74/1d4b7468-a9b7-cf74-23f5-8bc36d884488/d4147b9c-d7f1-4f05-86ab-46973539ef8d_iPro_themepark01_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/1b/64/21/1b642132-93e9-afd8-c7d8-27dda8ebb057/dfde5865-7a9e-4456-8c79-1170a177f256_iPro_themepark02_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/36/c6/f0/36c6f01a-f2a5-392d-abc5-0b8f5bcec127/53600ebf-6be7-44b0-8dac-b0e593c80bb7_iPro_themepark03_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5c/34/68/5c346835-cbc1-1ffc-ddb6-c9e6cf3cfc85/dcf310b1-32b6-48f8-bc8f-5fb01510eacb_iPro_themepark04_en.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d5/c3/de/d5c3deb2-f866-7c55-ceaf-285411065786/e6ba04b6-8a0e-4087-84e7-e39944c9fc21_iPro_themepark05_en.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Game Dev Story]]></title>
-        <id>Game Dev Story-us-1760177462403</id>
-        <link href="https://apps.apple.com/us/app/game-dev-story/id396085661?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/game-dev-story/id396085661?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/e9/94/2c/e9942c4e-1411-c270-16ff-afba1061763f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$0.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  Manage your own game company and try to create a million-selling game in this unique simulation.
-
-Features the ability to develop your company's own game console, plus a system for changing your staff members' professions.
-
-Hire talented people and train them to develop their skills.
-
-As your staff gets more experience, you will unlock a wider array of game genres and content to develop. Try to find the most popular combinations and develop for the latest platform!
-Your staff members can have a variety of game-related professions, from programmer to sound engineer.
-
-Work hard and you may reach the top of the video game industry!
---
-Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp. 
-Be sure to check out both our free-to-play and our paid games!
-
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/93/dd/81/93dd81a7-e3bd-f150-d981-1608b6172a1c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/3c/51/d6/3c51d660-e985-bec5-2d83-47da93e0b8b4/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/7a/13/e9/7a13e928-27a5-ca43-338f-6fe124b24880/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b0/b0/2c/b0b02c7b-23b4-3c5f-553e-fd6964a8a4c9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bb/ba/2d/bbba2d58-7d83-ccdd-dfe7-d82ecc44c0e1/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/52/8b/58/528b5860-27ab-a136-9283-40357ad6b44b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/25/10/46/25104611-5056-eeff-4749-1df84a3af1cf/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/49/90/2a/49902a1e-6134-eff3-4fb1-5f5016115361/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e1/9a/17/e19a1735-c914-dff7-7bce-bd7551fbcb75/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/d2/da/05/d2da055a-0ad8-966f-8696-dbc9f4321cf5/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Station Manager]]></title>
-        <id>Station Manager-us-1760177462403</id>
-        <link href="https://apps.apple.com/us/app/station-manager/id1121484538?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[Price: $5.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/station-manager/id1121484538?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/16/5c/d6/165cd656-7900-d07b-9d1d-1cde7609e25f/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$5.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $5.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h2>Application Description</h2><p>
-  All aboard this exciting journey to build the world's greatest train station!
-
-Customize your station with your favorite facilities and trains. Help your passengers travel in comfort by adding vending machines, benches, information boards and more. With fun features including arcades, VIP lounges and taco stands, you'll soon be everyone's favorite stop!
-
-Link different carriages to create new trains for business, tourism and more. Expand into the surrounding area to attract new passengers.
-
-It's full steam ahead for your spectacular new station! Watch as it fills with commuters, students and other travelers!
-
---------------------------------------------------------
-All game progress is stored on your device. Save data cannot be restored after deleting or reinstalling the app.
-
-Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp. Be sure to check out both our free-to-play and our paid games!
-
-
-Follow us on X(Twitter) for the latest news!
-https://twitter.com/kairokun2010
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/25/a3/b3/25a3b35b-c530-17f9-5119-5f8de1e86833/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/2c/ef/b7/2cefb7b1-ece8-6a90-4e1c-77142012e3e3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/4f/d1/df/4fd1df50-0c1e-268c-7430-6f0c920b470d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ec/70/11/ec70112c-1e38-1fa9-d083-a1dc05f9a8ad/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/be/b2/ea/beb2ea87-f484-36eb-802d-8ca229ad69e0/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e4/db/0f/e4db0f7f-9a68-19fa-ca26-3470fa388e28/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/89/ba/56/89ba563f-8aa3-d9f9-0d91-5181280d8ae0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c8/8e/2a/c88e2af6-ebbb-726a-bd9a-d613d7185570/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5a/f1/cc/5af1ccdf-9084-fba8-c274-1bea2a3fb284/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/40/8a/ec/408aec40-9ed3-d192-a670-5effa4a570ca/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skating Rink Story]]></title>
-        <id>Skating Rink Story-us-1760177462403</id>
-        <link href="https://apps.apple.com/us/app/skating-rink-story/id6738371720?uo=4"/>
-        <updated>2025-10-11T10:11:02.403Z</updated>
-        <summary type="html"><![CDATA[Price: $6.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/skating-rink-story/id6738371720?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/71/f7/2b71f7d0-b448-cb43-4cc5-ce34bf88a8d5/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$6.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $6.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$4.99</b>
-</p><h2>Application Description</h2><p>
-  Let the elegant sound of carefully sharpened metal on meticulously maintained ice ring through your ears as you manage your very own ice skating rink. Train up your eager staff and enter them into competitions.
-
-But first things first—you're going to need a huge rink, a place where your customers can glide with glee. And you never know when a carefully placed object on the ice may lead to an impromptu photoshoot.
-
-Make sure your skaters are warm and happy off the ice with a heated room and soup bar. Some people might even post their experiences on social media, too!
-
-Keep customers coming back by listening to their requests, like increasing the food choices at your rink. And with the right combination, who knows what amazing dishes you may discover! You can't skate on an empty stomach, after all!
-
-You're also going to need a capable instructor or two to teach skaters all kinds of amazing tricks and bring out their full potential! And once they master the basics, have them create a figure-skating program and enter competitions! Their success on the ice will mean more business for your rink!
-
-Looks like even the mayor from the town over has heard about your rink and come to check it out for themselves! With this kind of popularity, it won't be long until you have people coming from all over the world!
-
-Now, get ready to create countless wonderful memories with your skaters, and aim to turn your rink into an unforgettable, 5-star facility!
-
-Try searching for "Kairosoft" to see all of our games, or visit us at https://kairopark.jp. Be sure to check out both our free-to-play and our paid games!
-</p>]]></content>
     </entry>
 </feed>
