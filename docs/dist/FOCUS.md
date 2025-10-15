@@ -1456,5 +1456,5 @@ So far, we've covered `6` `Countries or Regions` and  `1453` `Apps` <br />Push n
 |5|1443988620|Manual|❌|Quantumult X|Quantumult X|Quantumult X|Quantumult X|Quantumult X|
 |4|932747118|Manual|❌|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|Shadowrocket|
 |3|1642682818|Manual|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|熊猫吃短信2 - 垃圾短信拦截|
-|2|1319191852|Manual|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 垃圾短信过滤|
+|2|1319191852|Manual|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 旧版|熊猫吃短信 - 垃圾短信过滤|熊猫吃短信 - 旧版|熊猫吃短信 - 旧版|熊猫吃短信 - 垃圾短信过滤|
 |1|1067198688|Manual|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|彩云天气Pro|
