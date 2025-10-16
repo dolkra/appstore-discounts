@@ -1106,7 +1106,7 @@ So far, we've covered `6` `Countries or Regions` and  `1455` `Apps` <br />Push n
 |357|1500098830|Automatic|❌|視頻大師 Pro|視頻大師 Pro|視頻大師 Pro|❌|Video Master Pro|
 |356|1503486239|Automatic|❌|大富翁10|大富翁10|大富翁10|Richman10|Richman10|
 |355|1504662191|Automatic|❌|❌|❌|❌|❌|Monarşi|
-|354|1504760106|Automatic|❌|Eco inc.|Eco inc.|Eco inc.|Eco inc.|Eco inc.|
+|354|1504760106|Automatic|❌|Eco Inc. 拯救地球|Eco Inc. 拯救地球|Eco Inc. 拯救地球|Eco inc. Save the Earth|Eco inc. Save the Earth|
 |353|1504952058|Automatic|❌|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|Papa's Sushiria To Go!|
 |352|1505636751|Automatic|❌|TeleGuard|TeleGuard|TeleGuard|TeleGuard|TeleGuard|
 |351|1509344823|Automatic|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|Ezberle|
