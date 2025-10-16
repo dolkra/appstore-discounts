@@ -5391,6 +5391,25 @@
     "history": [
       [
         {
+          "timestamp": 1760627631048,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "forScore Pro + Family Sharing": "₺999,99",
+            "forScore Pro 30-Day Pass": "₺129,99",
+            "Haydn: String Quartets": "₺99,99",
+            "Christmas Carol Collection": "₺99,99",
+            "Bach: Cello Suites": "₺99,99",
+            "Vivaldi: The Four Seasons": "₺99,99",
+            "Mozart: Twelve Duets": "₺99,99",
+            "The Mutopia Piano Collection": "₺229,99",
+            "forScore Pro": "₺699,99",
+            "Voluntary Upgrade": "₺349,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760415282563,
           "price": 999.99,
           "formattedPrice": "₺999,99",
@@ -96796,6 +96815,25 @@
     "history": [
       [
         {
+          "timestamp": 1760627631048,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {
+            "Daniel skin": "₺39,99",
+            "Reyna skin": "₺39,99",
+            "Jorge skin": "₺39,99",
+            "Gloria skin": "₺39,99",
+            "Purple menu color": "₺179,99",
+            "Red menu color": "₺99,99",
+            "Yellow menu color": "₺39,99",
+            "James character": "₺39,99",
+            "Lisa character": "₺0,00",
+            "Elsa character": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1759353049446,
           "price": 39.99,
           "formattedPrice": "₺39,99",
@@ -129621,6 +129659,27 @@
             "RCS Pro (1 year)": "₺1.799,99",
             "RCS Pro (6 months)": "₺1.299,99"
           }
+        }
+      ]
+    ]
+  },
+  "6468493048": {
+    "name": "CropandGrade",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760627631048,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
         }
       ]
     ]
