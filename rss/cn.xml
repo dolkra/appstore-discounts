@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-10-13T05:38:09.510Z</updated>
+    <updated>2025-10-16T03:58:11.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-13T05:38:09.512Z</updated>
+        <updated>2025-10-16T03:58:11.518Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 13 Oct 2025 05:38:09 GMT</id>
+        <id>rankingcnThu, 16 Oct 2025 03:58:11 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-13T05:38:09.512Z</updated>
+        <updated>2025-10-16T03:58:11.518Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,16 +51,16 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1449</b>
+        <b>1453</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1248</b>
+        <b>1252</b>
       </td>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>775</b>
+        <b>777</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>613</b>
+        <b>615</b>
       </td>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
+        <del>
+          <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -220,7 +222,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
+        <a href="https://apps.apple.com/cn/app/id1558052531">风光摄影助手Pro:风光摄影计划好帮手</a>
       </td>
       <td>
         <ul>
@@ -237,7 +239,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1596406400">黄鸭证件照-最美求职考试证照制作神器</a>
+        <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
       </td>
       <td>
         <ul>
@@ -254,7 +256,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+        <a href="https://apps.apple.com/cn/app/id1596406400">黄鸭证件照-最美求职考试证照制作神器</a>
       </td>
       <td>
         <ul>
@@ -271,7 +273,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1622064157">Sismo: Vibration Meter & Alert</a>
+        <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
       </td>
       <td>
         <ul>
@@ -288,7 +290,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6742311454">伏魔诀-阴阳秘术诡道修仙录</a>
+        <a href="https://apps.apple.com/cn/app/id1622064157">Sismo: Vibration Meter & Alert</a>
       </td>
       <td>
         <ul>
@@ -305,7 +307,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6746649752">MagicKit Pro：AI智能工具箱</a>
+        <a href="https://apps.apple.com/cn/app/id6742311454">伏魔诀-阴阳秘术诡道修仙录</a>
       </td>
       <td>
         <ul>
@@ -322,7 +324,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6449003064">Goblin Tools</a>
+        <a href="https://apps.apple.com/cn/app/id6746649752">MagicKit Pro：AI智能工具箱</a>
       </td>
       <td>
         <ul>
@@ -337,6 +339,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6449003064">Goblin Tools</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504854196">下一站江湖Ⅱ</a>
@@ -591,7 +610,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -600,7 +619,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
+        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -609,7 +628,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -618,7 +637,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -627,7 +646,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
+        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -636,7 +655,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
+        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -645,7 +664,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
+        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -654,7 +673,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -663,7 +682,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -672,7 +691,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
+        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -681,7 +700,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
+        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -690,7 +709,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
+        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -699,7 +718,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
+        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -708,12 +727,52 @@ feedId:157007849019630592+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>40</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[风光摄影助手Pro:风光摄影计划好帮手]]></title>
+        <id>风光摄影助手Pro:风光摄影计划好帮手-cn-1760585534480</id>
+        <link href="https://apps.apple.com/cn/app/%E9%A3%8E%E5%85%89%E6%91%84%E5%BD%B1%E5%8A%A9%E6%89%8Bpro-%E9%A3%8E%E5%85%89%E6%91%84%E5%BD%B1%E8%AE%A1%E5%88%92%E5%A5%BD%E5%B8%AE%E6%89%8B/id1558052531?uo=4"/>
+        <updated>2025-10-16T03:32:14.480Z</updated>
+        <summary type="html"><![CDATA[价格: ¥58.00 → ¥48.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%A3%8E%E5%85%89%E6%91%84%E5%BD%B1%E5%8A%A9%E6%89%8Bpro-%E9%A3%8E%E5%85%89%E6%91%84%E5%BD%B1%E8%AE%A1%E5%88%92%E5%A5%BD%E5%B8%AE%E6%89%8B/id1558052531?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/67/52/5e/67525e11-f1b2-356a-23f0-2084d87cb838/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥58.00</span> → <b>
+  <strong>¥48.00</strong>
+</b><span>[¥48.00 ~ ¥58.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥48.00</b>
+</p><h2>应用描述</h2><p>
+  “风光摄影助手Pro”是“风光摄影助手”App的永久专业版，购买此版本可以永久使用所有专业功能。
+“风光摄影助手Pro”包含地图、现场3D指南针、现场AR、详细信息四大模块。
+地图--可以在地图上任意选取位置，并推算该位置的太阳、月亮、以及银河的方位，您也可以通过光污染地图来寻找适合拍摄星空的机位。另外我们在图上上新增了天气查询功能，现在您可以查询任意位置10天内的高度局部化的天气数据，包括天气、温度、风向、风速、湿度、可视距离、云层覆盖率等信息，精确到每个小时。
+3D指南针--以3D指南针的形式推算指定位置的太阳、月亮、银河的方位。
+本地AR--用AR的方式直观的推算太阳、月亮、银河的位置，此功能在拍摄现场提前预测构图方式非常实用。在AR界面上，您还可以模拟指定曝光时间下的星轨。这样您在拍摄星轨照片的时候就可以提前预估需要的拍摄时间了。
+详细信息--列出了当前位置的一天内的各种特殊时刻，以及星历功能。
+另外您还可以保存在地图上选择的地点，以及把各种特殊时刻添加到日历中以获得自动提醒。
+底部的时间滚动条可以切换多钟模式，以切换不同的时间跨度，帮助您更精确的选择时间。
+此外，App中还集成了多种实用工具，比如景深计算器、星点计算器、星轨计算器、光绘笔。
+
+
+隐私声明: https://blog.csdn.net/syx151/article/details/143922426?spm=1001.2014.3001.5501
+
+许可协议: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/c3/6c/cac36c52-6893-1901-10a1-32e777b846ae/2c2f3620-d3f5-447d-b638-5822d6715eaa_IMG_9214.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/5d/94/935d944c-a007-3418-835b-ec53e9e9a1f2/9519df20-894a-46aa-83b8-6671f6b8d5ba_IMG_9217.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/e6/71/67e67110-b71a-8ede-1b8e-b792270790d4/467fbb45-db90-4764-a240-518f9ea7a420_IMG_6045.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/14/46/9d1446af-fe53-9181-1738-ced21d3637fd/f18b53ba-07da-43db-a378-250c3893ad6e_IMG_9218.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/54/d8/f2/54d8f252-6257-e5ca-950a-9a5b7c91a7c0/69a9377a-a860-43db-af18-429ecf9bfc6b_IMG_9216.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/a1/eb/42a1eb37-5588-a83a-2e4a-678ecfc2e7c9/894a1c64-b319-4571-aca4-e9d9265775f3_IMG_9219.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/29/2f/5c292fed-4f77-adfb-321b-a79c1c7c2adb/a9f027cf-f2a4-4e67-85d8-6598564b9293_IMG_9215.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/4c/19/b04c1946-7e21-783e-fd90-9591b8b84ed4/616d3225-8555-4568-9eb4-00e8479b4921_IMG_6050.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/fc/93/a8fc930e-ff01-bb8d-1aff-bd77b7f6f777/626eda5b-f734-4546-8fc3-f7f98aa26716_IMG_6046.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/c3/6c/b9c36c25-401a-8b29-0181-37c98437b3de/27a6d30d-af63-41b2-94fd-cca993c4efc6_IMG_9212.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FyTube - 没有广告的 YouTube]]></title>
@@ -813,179 +872,5 @@ FyTube与YouTube合作。
 YouTube名称和标志为Google公司注册商标。版权所有。
 © FyTube®
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/a4/d9/90a4d952-0b39-a742-bc4a-4eb47ccc970f/f776954c-6912-48b6-934a-86239979e6a6_imagen2-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/40/28/564028f3-d2cb-c54f-f51e-f21f4bf259e8/a73f7310-e47b-42f1-8b98-21939fbd4104_imagen4-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/66/be/84/66be840a-0f2c-ff7b-071f-03b442a653cd/0d632ab1-8ec0-4617-98c8-8f4af7dfac9e_imagen3-ok2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/62/cc/3662cc6d-1c52-d780-5c41-e996eee6f81c/bd380450-bf62-4eee-8adf-66d1c6f8aa8b_imagen1-ok2.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspire Pro]]></title>
-        <id>Inspire Pro-cn-1760317243839</id>
-        <link href="https://apps.apple.com/cn/app/inspire-pro/id355460798?uo=4"/>
-        <updated>2025-10-13T01:00:43.839Z</updated>
-        <summary type="html"><![CDATA[价格: ¥148.00 → ¥68.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/inspire-pro/id355460798?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/9f/0d/f59f0dd0-8930-fe1b-9cfe-9d4328ea951f/AppIcon-1x_U007emarketing-5-0-P3-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥148.00</span> → <b>
-  <strong>¥68.00</strong>
-</b><span>[¥38.00 ~ ¥148.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥68.00</b>
-</p><h2>应用描述</h2><p>
-  App Store专供、精心设计、功能强大、iPad量身定做 - Inspire Pro为您提供令人难以置信的快速逼真绘画体验，让您随时随地记录灵感。
-
-我们独有的绘画引擎Sorcery™充分利用GPU的性能，以炫丽的64位色彩、激光般锐利的子像素精度和极快速度来渲染画笔的笔触。本身已很精美的湿油画笔笔触，加上干画笔的惊人混合效果绝对会惊艳到您。轻压并涂抹画布即可为您的作品添加淡柔模糊效果，而用力按压则可将画布上的颜色混合，创造出新的色彩。
-
-无论您是初学者、专业画家或是介于二者之间的阶段，这款最直观而令人惊叹的iPad插画应用Inspire Pro的简单性和强大功能都将令您乐在其中。
-
-画笔
-• 150种分为15组供您选用的高品质画笔：油漆、气笔、喷漆、泼漆、石墨铅笔、蜡笔、马克笔、粉笔、炭笔、粉彩和孔泰笔、基本图形、复杂图形、形状轮廓、图案和纹理
-• 所有画笔均可用作湿画笔，干画笔（混合）或橡皮擦
-• 超过20种不同的配置赋予画笔笔触强大的多功能性和变化性
-
-绘画
-• Sorcery™，App Store上最快的64位绘画引擎
-• 功能完备的Apple Pencil支持压力、倾斜角度、方向和双击
-• Smart Keyboard支持超过20个上下文敏感型键盘快捷键
-• 可创建任意尺寸画布，iPad Pro上可大至16K (64MP)
-• 双纹理画笔
-• 64位颜色
-• 时刻支持所有设备方向 - 轻松切换横竖屏绘画
-• 多达1000级的撤消和重做功能
-• 无需打开菜单，触摸和滑动热点即可快速更改画笔大小、不透明度和压力
-• 可利用吸管工具通过触摸和保持手势从画布中选择绘画颜色
-• 画布可以移动，旋转和放大（可放大至6400％）
-
-画布回放视频录制
-• 绘画时自动记录画笔笔触而无任何延迟
-• 您可以直接在图库中逐笔播放您正在创建的作品视频
-• 画布回放视频可以导出到您的照片或任何其他地方
-• 导出的视频拥有高品质HD画质，分辨率最高可达1080p
-
-颜色选择器
-• 使用直观的颜色选择器选择您可以想象到的任何绘画颜色
-• HSB和RGB滑块搭配一个大色轮，色块和不透明度滑块
-• 在绘画时，您上一次使用的颜色会自动保存到调色板中
-• 您也可以通过拖放将您喜爱的颜色保存到调色板中
-
-访问snowCanoe.com查看更多的屏幕快照，视频和作品。
-</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/92/33/3c/92333c1f-72ee-f1fb-1213-41bc247fe52b/44a1dc0b-4f26-477b-a05d-10adcd9298cc_Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/45/ea/e445ea25-5ce5-c01b-286a-29abb3c72bcf/2f3dc663-a885-4a26-b31f-442214eae818_Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/79/17/1a/79171a11-e834-c6f9-b876-8b215bbb2f1d/06bc0b57-5f67-4108-ae8e-b832dfbc8ed9_Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/47/b1/c8/47b1c821-ad70-53e3-b983-86e5099ed583/ba9408fe-2c05-46cf-b327-d7edc32740c3_Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/71/2f/93/712f9369-eae4-b486-80bc-1837c38e9969/e2ffb1ba-ae83-46bc-b37b-c923c368a283_Screenshot5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/59/66/d5/5966d5a8-a5ab-e5f6-9177-ef5b383534ff/34f3f204-f498-4d2e-8fe4-ac45ec203462_Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/92/ae/eb/92aeeb27-eaa8-6529-9a96-e0d5ae0e93e9/15c362d2-4851-439c-bbfb-535de5f98419_Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0d/3e/92/0d3e92ee-d109-3fa1-9f02-c34b4f890063/3f26ca87-0daa-44c6-92e2-b9c14d0fd3e9_Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2f/4d/c6/2f4dc6e0-61cc-18e3-3547-bff1e073d74d/3ea66689-9c6c-4a57-bc6f-ac05146c2662_Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/14/2d/07/142d073f-d424-0b98-ed0f-a64304e081c3/5e8f249e-8dbc-4259-9ee7-8147d3d4afb3_Screenshot10.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[黄鸭证件照-最美求职考试证照制作神器]]></title>
-        <id>黄鸭证件照-最美求职考试证照制作神器-cn-1760199168240</id>
-        <link href="https://apps.apple.com/cn/app/%E9%BB%84%E9%B8%AD%E8%AF%81%E4%BB%B6%E7%85%A7-%E6%9C%80%E7%BE%8E%E6%B1%82%E8%81%8C%E8%80%83%E8%AF%95%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E7%A5%9E%E5%99%A8/id1596406400?uo=4"/>
-        <updated>2025-10-11T16:12:48.240Z</updated>
-        <summary type="html"><![CDATA[价格: ¥2.80 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%BB%84%E9%B8%AD%E8%AF%81%E4%BB%B6%E7%85%A7-%E6%9C%80%E7%BE%8E%E6%B1%82%E8%81%8C%E8%80%83%E8%AF%95%E8%AF%81%E7%85%A7%E5%88%B6%E4%BD%9C%E7%A5%9E%E5%99%A8/id1596406400?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/6b/b0/b06bb0b1-a97e-59c8-2e41-e0ac06f1d597/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥2.80</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥2.80]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    黄鸭证件照永久VIP：<b>¥15.00</b>
-  </li><li>
-    黄鸭证件照3元：<b>¥3.00</b>
-  </li><li>
-    黄鸭证件照-周度会员：<b>¥6.00</b>
-  </li><li>
-    黄鸭证件照1元：<b>¥1.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  黄鸭证件照， 小红书博主推荐，抖音超热门证件照APP，求职求学必备！
-
-为什么选择黄鸭证件照？
-
-一次付费下载，永久使用，还可设置分享给朋友家人（依照iCloud家庭账户规则）
-
-“一款功能强大的证件照制作软件，用户可免费保存无水印电子证件照到手机相册，还有众多实用小工具功能等你探索。”
-
-===百种证件照尺寸，够专业===
-
-包含1寸、2寸、3寸、4寸等常规尺寸，同时提供百余种官方指定证照规格，如：毕业照、学位照、入学照等学生证照；会计、考研、计算机、公务员、医护、考研、幼师及语言类考试证照；还有社保、签证、简历、驾照等其他类满足您的各类拍摄场景需求。软件智能推出当下热门的证件照尺寸，让你更快捷高效的用手机制作证件照！
-
-===一键抠图换背景，够智能===
-
-发丝级抠图引擎，ps小白的福音！傻瓜式操作智能抠图，配合多元化背景底色，除了常规红蓝白，还增加高级色和糖果色，可根据不同的使用场景随意切换。展现你最美气质的同时，确保证件照的专业合规性，一图多用不是梦，旧图改造还能用！
-
-===超自然美颜美妆，够高级===
-
-AI智能算法提供磨皮、美白、瘦脸、等美颜功能。更有适合懒人、手残党的一键式化妆，满足你对自然妆、男神妆、女神妆的需求，支持自定义妆容程度。一键还原最美且真实的你，打造完美、自然、高级感脸庞，告别证照不美时代！
-
-===海量服饰在线换，够正式===
-
-不同风格的男装、女装、童装，满足多种场景需求的同时，支持自助调节服饰大小和位置，搭配消除笔调整细节，效果简直完美！
-
-
--隐私政策：https://shimo.im/docs/qKVR8J3PQKtGHKk6/
--服务条款：https://www.freeprivacypolicy.com/live/8d648196-576f-4b7b-a889-01476e5f167b
-
-https://idcamera-834ff.web.app
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/da/77/4b/da774b68-162b-49a2-92c5-dec27e638d4a/d46268ee-6d52-4e55-ab8e-1c106deea1ba_1242x2208aa.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c7/82/63/c782639d-d958-d6f1-4c93-83a4968bfaed/d0b5c7a6-3c28-4cb0-865f-e397dc95e63d_Apple_iPhone_8_Plus_Screenshot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b3/95/33/b395338e-43d1-5c98-df4a-ca588c157431/c2cf5247-bcbb-4d36-9eff-812d46911ad7_Apple_iPhone_8_Plus_Screenshot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/56/68/3c5668ef-67ea-5182-d2ac-7d49d7952d3d/fabed569-5543-4cf7-a1d0-9e4d93f70221_Apple_iPhone_8_Plus_Screenshot_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/f6/05/ba/f605bae7-9607-a11e-f34b-8f058d51c87d/435cc9e5-5220-46cc-9d65-23dbfd892e51_Apple_iPhone_8_Plus_Screenshot_4.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
-        <id>Card.Note - 多彩卡片笔记-cn-1760199168240</id>
-        <link href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4"/>
-        <updated>2025-10-11T16:12:48.240Z</updated>
-        <summary type="html"><![CDATA[价格: ¥1.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/card-note-%E5%A4%9A%E5%BD%A9%E5%8D%A1%E7%89%87%E7%AC%94%E8%AE%B0/id1400032769?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/f1/4f/3bf14f8d-b541-ac77-ea8c-f9e03dd0cb6a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥1.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥3.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App 内购买项目</h3><ul>
-  <li>
-    Card.Note Premiun：<b>¥12.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  「Card.Note」：每个念头都值得用心记录
-
-这是一款以卡片为主要设计理念的极简记事 App 。
-你写的每一段文字都可以生成一张张精美的卡片 。
-
-你可以用它来写诗、短文、随想； 
-也可以用它来写日记、清单、规划、要事提醒；
-还可以直接用语音输入来记录每个瞬间的念头。
-
-「Card.Note」九大特点：
-
-1.极简设计
-循着极简的设计理念，结合图标及手势操作，轻松上手。
-
-2.全局卡片化
-充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
-
-3.全局手势化
-下拉可新建笔记，再下拉可保存笔记，右滑可呼出作品集，长按卡片可预览卡片内容。
-
-4.语音录入
-打开便可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
-
-5.要事提醒：
-可设置提醒闹种，重要事情和计划不再错失。
-
-6.快捷高效
-支持3D-Touch及Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
-
-7.文青定制
-精选了 10 款记事字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
-
-8.iCloud云同步
-支持iCloud云同步，多台设备间数据可任意同步。
-
-9.深色模式
-全局适配深色模式，视觉舒适不刺眼。
-
-感谢下载，生活愉快。
-
-如有问题或建议，请联系开发者
-微博：PoPoem开发者
-邮箱：yande18@126.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
