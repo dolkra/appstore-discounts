@@ -8,7 +8,7 @@ So far, we've covered `6` `Countries or Regions` and  `1453` `Apps` <br />Push n
 |1453|1369699810|Automatic|❌|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|
 |1452|1638485107|Automatic|文件管理器|檔案管理器|檔案管理器|檔案管理器|EasyDocuments|EasyDocuments|
 |1451|386303262|Automatic|❌|Beyond Ynth|Beyond Ynth|Beyond Ynth|Beyond Ynth|Beyond Ynth|
-|1450|314481272|Automatic|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|
+|1450|314481272|Automatic|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|
 |1449|1530345628|Automatic|❌|溫泉物語2|溫泉物語2|溫泉物語2|Hot Springs Story2|Hot Springs Story2|
 |1448|438927135|Automatic|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|
 |1447|6738282698|Automatic|❌|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|

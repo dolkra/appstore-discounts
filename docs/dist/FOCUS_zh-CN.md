@@ -8,7 +8,7 @@
 |1453|1369699810|自动|❌|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|Nuclear inc 2. Atom simulator|
 |1452|1638485107|自动|文件管理器|檔案管理器|檔案管理器|檔案管理器|EasyDocuments|EasyDocuments|
 |1451|386303262|自动|❌|Beyond Ynth|Beyond Ynth|Beyond Ynth|Beyond Ynth|Beyond Ynth|
-|1450|314481272|自动|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|紫微斗數 批語版|
+|1450|314481272|自动|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|易仙紫微斗數 (AI分析)|
 |1449|1530345628|自动|❌|溫泉物語2|溫泉物語2|溫泉物語2|Hot Springs Story2|Hot Springs Story2|
 |1448|438927135|自动|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|Breviarium Meum|
 |1447|6738282698|自动|❌|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|RCS - Real Combat Simulator|

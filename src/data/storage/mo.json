@@ -1648,16 +1648,28 @@
     ]
   },
   "314481272": {
-    "name": "紫微斗數 批語版",
+    "name": "易仙紫微斗數 (AI分析)",
     "maxPriceInfo": {
       "price": 19.99,
-      "formattedPrice": "USD 19.99"
+      "formattedPrice": "USD 19.99",
+      "全能版": "USD 19.99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "USD 19.99"
+      "price": 0,
+      "formattedPrice": "免費",
+      "全能版": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760588052006,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "全能版": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760353842585,
