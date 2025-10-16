@@ -846,6 +846,27 @@
       ]
     ]
   },
+  "322681972": {
+    "name": "DrugDoses",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760649097753,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "323048611": {
     "name": "Dr.eye譯典通",
     "maxPriceInfo": {
@@ -9200,12 +9221,31 @@
       "Child Report - Untimed": "¥22.00",
       "My Pet Report": "¥15.00",
       "Predictive Report - Untimed": "¥22.00",
-      "Gold Level lifetime": "¥598.00",
+      "Gold Level lifetime": "¥498.00",
       "Gold Level Free Trial": "¥0.00",
       "Gold Annual": "¥298.00",
       "Gold Monthly": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760649097753,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "¥28.00",
+            "Relationship Report": "¥28.00",
+            "Predictive Report - Full": "¥28.00",
+            "7-day Trial Astrolocality": "¥0.00",
+            "Astrolocality Maps": "¥168.00",
+            "Child Report - Full": "¥28.00",
+            "Gold Monthly": "¥58.00",
+            "Gold Level Free Trial": "¥0.00",
+            "Gold Level lifetime": "¥498.00",
+            "Predictive Report - No Background": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760534819200,
@@ -24823,6 +24863,27 @@
             "Unlock Slow Shutter - Limited": "¥22.00",
             "Unlock Time-lapse - Limited": "¥22.00"
           }
+        }
+      ]
+    ]
+  },
+  "928403895": {
+    "name": "拼音字典专业版",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760649097753,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
         }
       ]
     ]

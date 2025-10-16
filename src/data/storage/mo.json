@@ -1897,6 +1897,27 @@
       ]
     ]
   },
+  "322681972": {
+    "name": "DrugDoses",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760649097753,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "323048611": {
     "name": "Dr.eye譯典通",
     "maxPriceInfo": {
@@ -7449,12 +7470,31 @@
       "Predictive Report - Full": "USD 3.99",
       "My Pet Report": "USD 1.99",
       "Child Report - Untimed": "USD 2.99",
-      "Gold Level lifetime": "USD 79.99",
+      "Gold Level lifetime": "USD 69.99",
       "Gold Level Free Trial": "USD 0.00",
       "Gold Annual": "USD 39.99",
       "Gold Monthly": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760649097753,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Gold Annual": "USD 39.99",
+            "Gold Monthly": "USD 7.99",
+            "Gold Level lifetime": "USD 69.99",
+            "Gold Level Free Trial": "USD 0.00",
+            "Lunar Return Report": "USD 3.99",
+            "7-day Trial Astrolocality": "USD 0.00",
+            "Astrolocality Maps": "USD 24.99",
+            "The Big Three Report": "USD 3.99",
+            "Relationship Report": "USD 3.99",
+            "Predictive Report - Untimed": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756735910110,
@@ -32475,6 +32515,27 @@
             "Unlock Time-lapse - Limited": "USD 2.99",
             "Unlock Slow Shutter - Limited": "USD 2.99"
           }
+        }
+      ]
+    ]
+  },
+  "928403895": {
+    "name": "拼音字典專業版",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760649097753,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
         }
       ]
     ]
