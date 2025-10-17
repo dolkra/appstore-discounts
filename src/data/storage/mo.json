@@ -41071,7 +41071,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "金鉆VIP": "USD 0.99",
+      "金鉆VIP": "USD 3.99",
       "移除廣告": "USD 0.00"
     },
     "minPriceInfo": {
@@ -41081,6 +41081,17 @@
       "移除廣告": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760681913167,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "移除廣告": "USD 0.00",
+            "金鉆VIP": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756638524352,
