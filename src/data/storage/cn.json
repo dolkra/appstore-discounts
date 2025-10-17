@@ -41234,6 +41234,25 @@
     "history": [
       [
         {
+          "timestamp": 1760677938327,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "私信付费1元": "¥8.00",
+            "私信付费8元": "¥8.00",
+            "私信付费6元": "¥8.00",
+            "私信付费3元": "¥8.00",
+            "998元": "¥998.00",
+            "618元": "¥698.00",
+            "488元": "¥498.00",
+            "218元": "¥228.00",
+            "118元": "¥128.00",
+            "50元": "¥58.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760235915157,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -71209,6 +71228,27 @@
           "timestamp": 1745328692670,
           "price": 3,
           "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1497165353": {
+    "name": "Dictionnaire Larousse français",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760677938327,
+          "price": 48,
+          "formattedPrice": "¥48.00",
           "inAppPurchases": {}
         }
       ]
@@ -113788,6 +113828,31 @@
           "price": 22,
           "formattedPrice": "¥22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740115177": {
+    "name": "破门而入：行动小队",
+    "maxPriceInfo": {
+      "price": 9,
+      "formattedPrice": "¥9.00",
+      "DLC：海外行动": "¥4.00"
+    },
+    "minPriceInfo": {
+      "price": 9,
+      "formattedPrice": "¥9.00",
+      "DLC：海外行动": "¥4.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760677938327,
+          "price": 9,
+          "formattedPrice": "¥9.00",
+          "inAppPurchases": {
+            "DLC：海外行动": "¥4.00"
+          }
         }
       ]
     ]

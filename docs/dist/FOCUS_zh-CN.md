@@ -1,10 +1,12 @@
 
 # 关注焦点
-当前已收录 `6` 个 `国家或地区` 和 `1457` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `6` 个 `国家或地区` 和 `1459` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 >特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br />如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br />目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1459|1497165353|自动|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|
+|1458|6740115177|自动|破门而入：行动小队|❌|❌|❌|❌|❌|
 |1457|322681972|自动|DrugDoses|DrugDoses|DrugDoses|DrugDoses|DrugDoses|DrugDoses|
 |1456|928403895|自动|拼音字典专业版|拼音字典專業版|拼音字典專業版|拼音字典專業版|Hanyu Pinyin Dictionary Pro|Hanyu Pinyin Dictionary Pro|
 |1455|832390059|自动|时间相机高级版|時間相機高級版|時間相機高級版|時間相機高級版|Timestamp Camera Pro|Timestamp Camera Pro|

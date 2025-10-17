@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1497165353,
+    name: {
+      mo: 'Dictionnaire Larousse français',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6740115177,
+    name: {
+      cn: '破门而入：行动小队',
+    },
+    addType: 'auto',
+  },
+  {
     id: 322681972,
     name: {
       mo: 'DrugDoses',
