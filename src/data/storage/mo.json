@@ -18462,6 +18462,25 @@
     "history": [
       [
         {
+          "timestamp": 1760796582008,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Procurement Director": "USD 0.99",
+            "Disaster Manager": "USD 0.99",
+            "Medical Coordinator": "USD 0.99",
+            "Ethics Watchdog": "USD 0.99",
+            "Chaos Engineer": "USD 0.99",
+            "Economic Forecaster": "USD 0.99",
+            "Situation Director": "USD 0.99",
+            "Outreach Coordinator": "USD 0.99",
+            "Fast Response EMTs": "USD 0.99",
+            "Strategic Fundraiser": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760689047761,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -44395,6 +44414,27 @@
           "timestamp": 1745384546601,
           "price": 59.99,
           "formattedPrice": "USD 59.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1113002956": {
+    "name": "Plague Inc (瘟疫公司):場景工房",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760796582008,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

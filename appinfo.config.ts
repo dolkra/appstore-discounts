@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1113002956,
+    name: {
+      mo: 'Plague Inc (瘟疫公司):場景工房',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1552864378,
     name: {
       mo: 'ScourgeBringer',

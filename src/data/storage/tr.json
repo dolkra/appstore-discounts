@@ -22127,6 +22127,25 @@
     "history": [
       [
         {
+          "timestamp": 1760796582008,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Mission 37 Gold": "₺129,99",
+            "Mission 36 Gold": "₺129,99",
+            "Mission 37 Demo": "₺39,99",
+            "Mission 36 Demo": "₺39,99",
+            "Mission 36 Skip": "₺99,99",
+            "Mission 35 Skip": "₺99,99",
+            "Mission 35 Gold": "₺129,99",
+            "Mission 35 Demo": "₺39,99",
+            "Mission 34 Skip": "₺99,99",
+            "Mission 34 Gold": "₺129,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760479893373,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -50376,6 +50395,27 @@
           "timestamp": 1745384546601,
           "price": 2499.99,
           "formattedPrice": "₺2.499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1113002956": {
+    "name": "Plague Inc: Scenario Creator",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760796582008,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
           "inAppPurchases": {}
         }
       ]
