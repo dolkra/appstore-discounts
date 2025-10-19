@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1566817391,
+    name: {
+      mo: 'オフトレカメラ',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6753934071,
     name: {
       hk: 'Slime Dash - Roguelike Game',
