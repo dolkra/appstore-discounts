@@ -100780,10 +100780,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1760958647345,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -132229,6 +132237,27 @@
           "timestamp": 1760854661306,
           "price": 39.99,
           "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6751436807": {
+    "name": "Crime Life Simulator: Premium",
+    "maxPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "minPriceInfo": {
+      "price": 229.99,
+      "formattedPrice": "₺229,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1760958647345,
+          "price": 229.99,
+          "formattedPrice": "₺229,99",
           "inAppPurchases": {}
         }
       ]
