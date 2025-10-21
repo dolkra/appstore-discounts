@@ -18492,6 +18492,16 @@
     "history": [
       [
         {
+          "timestamp": 1761013660166,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "網絡版訂閱": "USD 26.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1760288971956,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -104418,6 +104428,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761013660166,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759971405779,
