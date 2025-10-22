@@ -8446,6 +8446,7 @@ export const part1AppConfig: AppConfig[] = [
       cn: '钢铁战队(R)',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1662217862,
