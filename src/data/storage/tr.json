@@ -90896,13 +90896,28 @@
     "name": "Luwian",
     "maxPriceInfo": {
       "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "formattedPrice": "₺249,99",
+      "Luwian Pro Annual Membership": "₺699,99",
+      "Luwian Pro Monthly Membership": "₺129,99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Luwian Pro Annual Membership": "₺699,99",
+      "Luwian Pro Monthly Membership": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761109971251,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Luwian Pro Annual Membership": "₺699,99",
+            "Luwian Pro Monthly Membership": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756746598071,
