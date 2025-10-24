@@ -441,7 +441,7 @@ So far, we've covered `6` `Countries or Regions` and  `1473` `Apps` <br />Push n
 |1040|6503932402|Automatic|超声智学|超声智学|超声智学|超声智学|超声智学|超声智学|
 |1039|325307477|Automatic|AudioTools，dB，声音与音频|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|AudioTools, dB, Sound & Audio|
 |1038|929618748|Automatic|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|Squeezy Men|
-|1037|519561306|Automatic|ATracker PRO - 每日时间管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO - 每日時間管理|ATracker PRO Time Tracker|ATracker PRO Time Tracker|
+|1037| ~~519561306~~ |Automatic| ~~ATracker PRO - 每日时间管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO - 每日時間管理~~ | ~~ATracker PRO Time Tracker~~ | ~~ATracker PRO Time Tracker~~ |
 |1036|1456212639|Automatic|❌|返校|返校|返校|Detention|Detention|
 |1035|734464614|Automatic|生命密码|生命密碼|生命密碼|生命密碼|Numberology|Numberology|
 |1034|941671702|Automatic|GR Viewer|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|GR Remote Viewer for GR2 & GR3|
@@ -1116,7 +1116,7 @@ So far, we've covered `6` `Countries or Regions` and  `1473` `Apps` <br />Push n
 |365|1480844881|Automatic|❌|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|
 |364|1481006495|Automatic|倒计时应用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|Countdown App|Countdown App|
 |363|1482339363|Automatic|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|
-|362|1484622401|Automatic|❌|Religion inc.上帝模擬器|Religion inc.上帝模擬器|Religion inc.上帝模擬器|Religion inc. God Simulator|Religion inc. God Simulator|
+|362| ~~1484622401~~ |Automatic| ~~❌~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc. God Simulator~~ | ~~Religion inc. God Simulator~~ |
 |361|1485875855|Automatic|❌|❌|❌|❌|❌|Başkanlar|
 |360|1491530147|Automatic|❌|❌|❌|Slay the Spire|Slay the Spire|Slay the Spire|
 |359|1497120981|Automatic|LUCH: Photo Effects & Filters|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH: Photo Effects & Filters|LUCH: Photo Effects & Presets|
@@ -1438,7 +1438,7 @@ So far, we've covered `6` `Countries or Regions` and  `1473` `Apps` <br />Push n
 |43|1630034110|Manual|Bob - 翻译和 OCR 工具|Bob - 翻译和 OCR 工具|Bob - 翻译和 OCR 工具|Bob - 翻译和 OCR 工具|Bob - 翻译和 OCR 工具|Bob - 翻译和 OCR 工具|
 |42|1009747025|Manual|zFuse - 影音播放器|zFuse - 影片播放器|zFuse - 影片播放器|zFuse - 影片播放器|zFuse - Video Player|zFuse - Video Player|
 |41|1054505347|Manual|zFuse - 视频播放器|zFuse - 視頻播放器|zFuse - 視頻播放器|zFuse - 視頻播放器|zFuse - Media Player|zFuse - Media Player|
-|40|1659622164|Manual|VidHub - 高清影片视频播放器，快速播放云盘网盘|VidHub -Video Library & Player|VidHub -Video Library & Player|VidHub -Video Library & Player|VidHub -Video Library & Player|VidHub -Video Library & Player|
+|40| ~~1659622164~~ |Manual| ~~VidHub - 高清影片视频播放器，快速播放云盘网盘~~ | ~~VidHub -Video Library & Player~~ | ~~VidHub -Video Library & Player~~ | ~~VidHub -Video Library & Player~~ | ~~VidHub -Video Library & Player~~ | ~~VidHub -Video Library & Player~~ |
 |39|1136220934|Manual|Infuse|Infuse|Infuse|Infuse|Infuse|Infuse|
 |38|1476649036|Manual|帕斯卡契约|Pascal's Wager|Pascal's Wager|Pascal's Wager|Pascal's Wager|Pascal's Wager|
 |37|1635315427|Manual|暖雪|❌|❌|❌|❌|❌|
