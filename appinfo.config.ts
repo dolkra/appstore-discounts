@@ -3159,6 +3159,7 @@ export const part1AppConfig: AppConfig[] = [
       mo: 'ATracker PRO - 每日時間管理',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1456212639,
@@ -7986,6 +7987,7 @@ export const part1AppConfig: AppConfig[] = [
       tr: 'Religion inc. God Simulator',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1485875855,
@@ -9755,6 +9757,7 @@ export const part1AppConfig: AppConfig[] = [
       'VidHub - 高清影片视频播放器，快速播放云盘网盘',
       { us: 'VidHub -Video Library & Player' },
     ],
+    allowNotification: false,
   },
   {
     id: 1136220934,
