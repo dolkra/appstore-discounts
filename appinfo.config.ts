@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1459657920,
+    name: {
+      mo: 'Blood Card',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1592854410,
+    name: {
+      tw: '荒島物語100天 - 單人無人島生存遊戲',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1136993233,
     name: {
       mo: 'Apollo Justice Ace Attorney',

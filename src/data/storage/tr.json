@@ -79680,6 +79680,27 @@
       ]
     ]
   },
+  "1459657920": {
+    "name": "Blood Card",
+    "maxPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "minPriceInfo": {
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1761347481749,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1459749978": {
     "name": "List背单词",
     "maxPriceInfo": {
@@ -96913,14 +96934,22 @@
   "1561442623": {
     "name": "Access Code Zero",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 129.99,
+      "formattedPrice": "₺129,99"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761347481749,
+          "price": 129.99,
+          "formattedPrice": "₺129,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760882985218,
@@ -104529,6 +104558,27 @@
       ]
     ]
   },
+  "1592854410": {
+    "name": "Island Story: 100 Days",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "₺39,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1761347481749,
+          "price": 39.99,
+          "formattedPrice": "₺39,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1592917505": {
     "name": "Noir – Dark Mode for Safari",
     "maxPriceInfo": {
@@ -104582,9 +104632,26 @@
       "Monthly Membership": "₺19,99",
       "年度会员": "₺149,99",
       "月度会员": "₺39,99",
-      "Lifetime Membership": "₺399,99"
+      "Lifetime Membership": "₺349,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761347481749,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Quarterly Membership": "₺129,99",
+            "Lifetime - Education": "₺449,99",
+            "年度会员升级终身会员": "₺449,99",
+            "Yearly Membership": "₺179,99",
+            "Monthly Membership": "₺19,99",
+            "年度会员": "₺179,99",
+            "月度会员": "₺39,99",
+            "Lifetime Membership": "₺349,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1743062557675,
