@@ -52022,6 +52022,23 @@
     "history": [
       [
         {
+          "timestamp": 1761308751406,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "USD 15.99",
+            "Mega Heroe Bundle": "USD 17.99",
+            "Hero Beresad": "USD 6.99",
+            "Hammerhold Campaign!": "USD 7.99",
+            "Tower Grim Cemetery": "USD 2.99",
+            "Tower Blazing Gem": "USD 4.99",
+            "Hero Tank": "USD 5.99",
+            "Hero Mortemis": "USD 2.99",
+            "Hero Eiskalt": "USD 5.99",
+            "Pirate Kings Campaign!": "USD 7.99"
+          }
+        },
+        {
           "timestamp": 1761304267230,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -57216,6 +57233,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761308751406,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Crop": "USD 0.00",
+            "Sticker": "USD 0.00",
+            "Splice": "USD 0.00",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00",
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Paint": "USD 0.00",
+            "Rotate": "USD 0.00",
+            "Chromakey": "USD 0.00"
+          }
+        },
         {
           "timestamp": 1761304267230,
           "price": 0.99,
@@ -104556,10 +104590,18 @@
       "formattedPrice": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "USD 8.99"
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761308751406,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1752588818148,
