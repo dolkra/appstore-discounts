@@ -40359,6 +40359,23 @@
     "history": [
       [
         {
+          "timestamp": 1761390556340,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "支線第一章": "USD 3.99",
+            "白金方案（每月續訂）": "USD 4.49",
+            "擴充章節 U": "USD 3.99",
+            "白金方案（每三個月續訂）": "USD 12.49",
+            "擴充章節D": "USD 3.99",
+            "擴充章節B": "USD 3.99",
+            "擴充章節C": "USD 3.99",
+            "支線第二章": "USD 3.99",
+            "擴充章節 J": "USD 3.99",
+            "擴充章節H": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1761387075952,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -53355,6 +53372,27 @@
           "timestamp": 1745328692670,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1250601531": {
+    "name": "RAW Power",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "USD 12.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1761390556340,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
           "inAppPurchases": {}
         }
       ]

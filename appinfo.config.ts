@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1250601531,
+    name: {
+      mo: 'RAW Power',
+    },
+    addType: 'auto',
+  },
+  {
     id: 479665601,
     name: {
       mo: 'iZip專業版 - Zip RAR 壓縮、解壓縮工具',
