@@ -31748,6 +31748,25 @@
     "history": [
       [
         {
+          "timestamp": 1761365655929,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "连续包月 SVIP": "¥9.00",
+            "SVIP 连续包月": "¥9.00",
+            "年度 SVIP": "¥90.00",
+            "SVIP 连续包年": "¥90.00",
+            "雨季特惠 100 天 SVIP": "¥19.90",
+            "季度SVIP": "¥18.80",
+            "1年SVIP": "¥88.00",
+            "连续包季 SVIP": "¥26.00",
+            "SVIP特惠 (买一年送半年)": "¥88.00",
+            "SVIP特惠 (买两年送一年)": "¥168.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761196356728,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -71583,14 +71602,22 @@
   "1467728966": {
     "name": "Photo Summary",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 28,
+      "formattedPrice": "¥28.00"
     },
     "minPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761365655929,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759961482145,
@@ -120452,6 +120479,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761365655929,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "扩充章节 U": "¥22.00",
+            "调律计划：虚拟歌手精选辑": "¥28.00",
+            "扩充章节 H": "¥22.00",
+            "调律计划：PinocchioP精选辑": "¥28.00",
+            "扩充章节 X": "¥22.00",
+            "扩充章节 R": "¥22.00",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "扩充章节 Y": "¥22.00",
+            "扩充章节 W": "¥22.00"
+          }
+        },
         {
           "timestamp": 1761343896601,
           "price": 6,
