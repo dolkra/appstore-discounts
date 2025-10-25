@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 479665601,
+    name: {
+      mo: 'iZip專業版 - Zip RAR 壓縮、解壓縮工具',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6754234559,
     name: {
       tr: 'Husha - Echoheart Chat',
