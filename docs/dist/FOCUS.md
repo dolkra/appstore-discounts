@@ -5,8 +5,8 @@ So far, we've covered `6` `Countries or Regions` and  `1476` `Apps` <br />Push n
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|1476|1459657920|Automatic|❌|Blood Card|❌|Blood Card|Blood Card|Blood Card|
-|1475|1592854410|Automatic|❌|荒島物語100天 - 單人無人島生存遊戲|❌|荒島物語100天 - 單人無人島生存遊戲|Island Story: 100 Days|Island Story: 100 Days|
+|1476|1459657920|Automatic|❌|Blood Card|Blood Card|Blood Card|Blood Card|Blood Card|
+|1475|1592854410|Automatic|❌|荒島物語100天 - 單人無人島生存遊戲|荒島物語100天 - 單人無人島生存遊戲|荒島物語100天 - 單人無人島生存遊戲|Island Story: 100 Days|Island Story: 100 Days|
 |1474|1136993233|Automatic|❌|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|
 |1473|6753102218|Automatic|神器行者：奥罗瑞恩传奇|神器行者：奥罗瑞恩传奇|神器行者：奥罗瑞恩传奇|神器行者：奥罗瑞恩传奇|Artifact Seeker|Artifact Seeker|
 |1472|906586079|Automatic|Morse Toad|Morse Toad|Morse Toad|Morse Toad|Morse Toad|Morse Toad|
@@ -995,7 +995,7 @@ So far, we've covered `6` `Countries or Regions` and  `1476` `Apps` <br />Push n
 |489|741990930|Automatic|❌|Walkout Song DJ|❌|❌|Walkout Song DJ|❌|
 |488|763692274|Automatic|❌|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|
 |487|784373321|Automatic|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
-|486|807317212|Automatic|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|
+|486|807317212|Automatic|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|
 |485|824305459|Automatic|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
 |484| ~~829581836~~ |Automatic| ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ |
 |483|837860959|Automatic|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|

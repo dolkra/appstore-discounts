@@ -5,8 +5,8 @@
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|1476|1459657920|自动|❌|Blood Card|❌|Blood Card|Blood Card|Blood Card|
-|1475|1592854410|自动|❌|荒島物語100天 - 單人無人島生存遊戲|❌|荒島物語100天 - 單人無人島生存遊戲|Island Story: 100 Days|Island Story: 100 Days|
+|1476|1459657920|自动|❌|Blood Card|Blood Card|Blood Card|Blood Card|Blood Card|
+|1475|1592854410|自动|❌|荒島物語100天 - 單人無人島生存遊戲|荒島物語100天 - 單人無人島生存遊戲|荒島物語100天 - 單人無人島生存遊戲|Island Story: 100 Days|Island Story: 100 Days|
 |1474|1136993233|自动|❌|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|
 |1473|6753102218|自动|神器行者：奥罗瑞恩传奇|神器行者：奥罗瑞恩传奇|神器行者：奥罗瑞恩传奇|神器行者：奥罗瑞恩传奇|Artifact Seeker|Artifact Seeker|
 |1472|906586079|自动|Morse Toad|Morse Toad|Morse Toad|Morse Toad|Morse Toad|Morse Toad|
@@ -995,7 +995,7 @@
 |489|741990930|自动|❌|Walkout Song DJ|❌|❌|Walkout Song DJ|❌|
 |488|763692274|自动|❌|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|
 |487|784373321|自动|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
-|486|807317212|自动|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|每日精選-天文地理人文照片之美|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|
+|486|807317212|自动|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|
 |485|824305459|自动|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
 |484| ~~829581836~~ |自动| ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ |
 |483|837860959|自动|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|
