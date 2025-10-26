@@ -10808,7 +10808,8 @@
       "Essential Winds": "₺99,99",
       "DubTechno": "₺99,99",
       "Technocraft": "₺99,99",
-      "Synthetix Beats": "₺99,99"
+      "Synthetix Beats": "₺99,99",
+      "Oldschool Breakbeats": "₺99,99"
     },
     "minPriceInfo": {
       "price": 399.99,
@@ -10833,9 +10834,29 @@
       "Essential Winds": "₺99,99",
       "DubTechno": "₺99,99",
       "Technocraft": "₺99,99",
-      "Synthetix Beats": "₺99,99"
+      "Synthetix Beats": "₺99,99",
+      "Oldschool Breakbeats": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761462660166,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Sliced Beats": "₺39,99",
+            "Tuned 808 Bass": "₺39,99",
+            "Varazdin Orchestral Mobile": "₺179,99",
+            "Amped Guitar & Bass": "₺129,99",
+            "Voices": "₺39,99",
+            "Synth Lead": "₺99,99",
+            "Oldschool Breakbeats": "₺99,99",
+            "Acoustic Guitars": "₺39,99",
+            "Synth Plucks": "₺99,99",
+            "Essential Strings": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761365655929,
@@ -136186,6 +136207,10 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761462660166,
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761459426395,
           "price": 0,
