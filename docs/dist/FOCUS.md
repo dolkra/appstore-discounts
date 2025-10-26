@@ -1,10 +1,11 @@
 
 # Focus
-So far, we've covered `6` `Countries or Regions` and  `1480` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `6` `Countries or Regions` and  `1481` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 >Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br />If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br />The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1481|1517410833|Automatic|❌|Startup Panic|Startup Panic|Startup Panic|Startup Panic|Startup Panic|
 |1480|6753707049|Automatic|通胜 2026|通勝 2026|通勝 2026|通勝 2026|通勝 2026|通勝 2026|
 |1479|1250601531|Automatic|RAW Power|RAW Power|RAW Power|RAW Power|RAW Power|RAW Power|
 |1478|479665601|Automatic|iZip专业版 - Zip Rar 压缩、解压缩工具|iZip專業版 - Zip RAR 壓縮、解壓縮工具|iZip專業版 - Zip RAR 壓縮、解壓縮工具|iZip專業版 - Zip RAR 壓縮、解壓縮工具|iZip Pro -Zip Unzip Unrar Tool|iZip Pro -Zip Unzip Unrar Tool|
@@ -1303,7 +1304,7 @@ So far, we've covered `6` `Countries or Regions` and  `1480` `Apps` <br />Push n
 |185|1208145167|Manual|Picsew - 滚动截图 & 长图拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - 滾動截圖 & 長圖拼接|Picsew - Scrollshot & Collage|Picsew - Scrollshot & Collage|
 |184|1444636541|Manual|Photomator|Photomator|Photomator|Photomator|Photomator – Photo Editor|Photomator|
 |183| ~~1444383602~~ |Manual| ~~Goodnotes 6：笔记，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6：筆記，PDF，AI~~ | ~~Goodnotes 6: AI Notes & Docs~~ | ~~Goodnotes 6: AI Notes & Docs~~ |
-|182|1473785373|Manual|钱迹记账-无广告自动记账软件 & 预算 & 资产管理|錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算|錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算|錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算|MoneyTrack: Expense & Budget|MoneyTrack: Expense & Budget|
+|182| ~~1473785373~~ |Manual| ~~钱迹记账-无广告自动记账软件 & 预算 & 资产管理~~ | ~~錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算~~ | ~~錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算~~ | ~~錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算~~ | ~~MoneyTrack: Expense & Budget~~ | ~~MoneyTrack: Expense & Budget~~ |
 |181|1461652639|Manual|网络调试精灵|TCP UDP Ping  Socket 網絡調試助手|TCP UDP Ping  Socket 網絡調試助手|TCP UDP Ping  Socket 網絡調試助手|iSocketTool|iSocketTool|
 |180|6499198824|Manual|蜂软扫描 - 全能扫描仪|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|ScanGo - PDF Document Scanner|
 |179|1538124245|Manual|哪里哪里|where I put it|where I put it|where I put it|where I put it|where I put it|
