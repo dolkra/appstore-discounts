@@ -9309,6 +9309,7 @@ export const part1AppConfig: AppConfig[] = [
   {
     id: 1473785373,
     name: ['钱迹记账-无广告随手记账本', { us: '钱迹-存钱记账小能手' }],
+    allowNotification: false,
   },
   {
     id: 1461652639,
