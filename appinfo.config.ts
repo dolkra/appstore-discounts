@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1449383466,
+    name: {
+      mo: 'WristChat for Facebook',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1517410833,
     name: {
       mo: 'Startup Panic',
