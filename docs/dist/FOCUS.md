@@ -10,7 +10,7 @@ So far, we've covered `6` `Countries or Regions` and  `1482` `Apps` <br />Push n
 |1480|6753707049|Automatic|通胜 2026|通勝 2026|通勝 2026|通勝 2026|通勝 2026|通勝 2026|
 |1479|1250601531|Automatic|RAW Power|RAW Power|RAW Power|RAW Power|RAW Power|RAW Power|
 |1478|479665601|Automatic|iZip专业版 - Zip Rar 压缩、解压缩工具|iZip專業版 - Zip RAR 壓縮、解壓縮工具|iZip專業版 - Zip RAR 壓縮、解壓縮工具|iZip專業版 - Zip RAR 壓縮、解壓縮工具|iZip Pro -Zip Unzip Unrar Tool|iZip Pro -Zip Unzip Unrar Tool|
-|1477|6754234559|Automatic|❌|❌|❌|❌|Husha - Echoheart Chat|Husha - Echoheart Chat|
+|1477| ~~6754234559~~ |Automatic| ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~Husha - Echoheart Chat~~ | ~~Husha - Echoheart Chat~~ |
 |1476|1459657920|Automatic|❌|Blood Card|Blood Card|Blood Card|Blood Card|Blood Card|
 |1475|1592854410|Automatic|❌|荒島物語100天 - 單人無人島生存遊戲|荒島物語100天 - 單人無人島生存遊戲|荒島物語100天 - 單人無人島生存遊戲|Island Story: 100 Days|Island Story: 100 Days|
 |1474|1136993233|Automatic|❌|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|Apollo Justice Ace Attorney|
