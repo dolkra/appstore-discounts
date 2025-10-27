@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1637377410,
+    name: {
+      mo: 'Flying Carpet File Transfer',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1449383466,
     name: {
       mo: 'WristChat for Facebook',
