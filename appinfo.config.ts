@@ -108,6 +108,7 @@ export const latestAppConfig: AppConfig[] = [
       tr: 'Husha - Echoheart Chat',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 1459657920,
