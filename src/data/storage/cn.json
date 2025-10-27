@@ -94340,12 +94340,23 @@
       "Monthly": "¥28.00"
     },
     "minPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "Yearly": "¥268.00",
       "Monthly": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761556581671,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Yearly": "¥268.00",
+            "Monthly": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760941181671,

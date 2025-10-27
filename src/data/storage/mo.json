@@ -90577,12 +90577,23 @@
       "Monthly": "USD 3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Yearly": "USD 35.99",
       "Monthly": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761556581671,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Yearly": "USD 35.99",
+            "Monthly": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1756465798841,
