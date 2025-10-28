@@ -68,6 +68,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 390017969,
+    name: {
+      mo: 'Due - Reminders & Timers',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6742044212,
+    name: {
+      cn: '简记快捷记账-自动记账&记账理财助手',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1637377410,
     name: {
       mo: 'Flying Carpet File Transfer',
