@@ -32476,13 +32476,30 @@
       "Deep Stats expansion": "USD 2.99",
       "Mind-blowing Tip": "USD 12.99",
       "Tagging expansion": "USD 2.99",
-      "Amazing Tip": "USD 6.99",
+      "Amazing Tip": "USD 5.99",
       "Generous Tip": "USD 2.99",
       "Kind Tip": "USD 0.99",
       "Challenges Expansion": "USD 1.99",
       "One Year of BG Stats Cloud Sync": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761736291446,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Deep Stats expansion": "USD 2.99",
+            "Mind-blowing Tip": "USD 12.99",
+            "Tagging expansion": "USD 2.99",
+            "Amazing Tip": "USD 5.99",
+            "Generous Tip": "USD 2.99",
+            "Kind Tip": "USD 0.99",
+            "Challenges Expansion": "USD 1.99",
+            "One Year of BG Stats Cloud Sync": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745839136197,
@@ -108259,6 +108276,31 @@
           "inAppPurchases": {
             "年订阅": "USD 1.99",
             "月订阅": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6739813869": {
+    "name": "Fortune Quest - Roguelike",
+    "maxPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "尊榮通行證": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "USD 0.49",
+      "尊榮通行證": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1761736291446,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {
+            "尊榮通行證": "USD 3.99"
           }
         }
       ]

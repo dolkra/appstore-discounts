@@ -68,6 +68,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6739813869,
+    name: {
+      tw: 'Fortune Quest - Roguelike',
+    },
+    addType: 'auto',
+  },
+  {
     id: 390017969,
     name: {
       mo: 'Due - Reminders & Timers',
