@@ -14,6 +14,7 @@ export const getRegionNameMap = (tProp?: Translate) => {
     tw: t('中国台湾'),
     us: t('美国'),
     tr: t('土耳其'),
+    pt: t('葡萄牙'),
   }
 }
 
@@ -28,6 +29,7 @@ export const regionInAppPurchasesTextMap: Record<Region, string> = {
   tw: 'App 內購買',
   us: 'In-App Purchases',
   tr: `In-App Purchases`,
+  pt: 'Compras In-App',
 }
 
 /**
@@ -40,6 +42,7 @@ export const regionLanguageCodeMap: Record<Region, string> = {
   tw: 'zh-CN',
   us: 'en',
   tr: 'en',
+  pt: 'en',
 }
 
 /**
@@ -53,6 +56,7 @@ export const regionTimezoneMap: Record<Region, string> = {
   tw: 'Asia/Taipei',
   us: 'America/New_York',
   tr: 'Europe/Istanbul',
+  pt: 'Europe/Lisbon',
 }
 
 /**
