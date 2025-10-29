@@ -72,6 +72,27 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 981914761,
+    name: {
+      mo: '首尔韩国语第一册 -大学韩语一本通',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1512939054,
+    name: {
+      mo: 'Teach Monster: Reading for Fun',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6744589266,
+    name: {
+      mo: 'DeviDeviSurvivor',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6739813869,
     name: {
       tw: 'Fortune Quest - Roguelike',
