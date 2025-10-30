@@ -54,7 +54,7 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
 |tw|Taiwan, China|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tw.xml|
 |us|United States|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/us.xml|
 |tr|Türkiye|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tr.xml|
-|pt|Portugal|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/pt.xml|
+|pt|葡萄牙|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/pt.xml|
 
 ## Telegram
 Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel")  to Subscribe

@@ -57,6 +57,7 @@
 |tw|中国台湾|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tw.xml|
 |us|美国|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/us.xml|
 |tr|土耳其|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/tr.xml|
+|pt|葡萄牙|https://raw.githubusercontent.com/appstore-discounts/appstore-discounts/main/rss/pt.xml|
 
 ## Telegram
 点击 [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=flat&logo=telegram "telegram")](https://t.me/appstore_discounts "telegram-channel") 订阅
