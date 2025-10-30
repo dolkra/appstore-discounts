@@ -9541,7 +9541,8 @@
       "28 Gems": "17,99 €",
       "48 Gems": "29,99 €",
       "74 Gems": "49,99 €",
-      "150 Gems": "89,99 €"
+      "150 Gems": "89,99 €",
+      "119 Gems": "69,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -9552,10 +9553,26 @@
       "28 Gems": "17,99 €",
       "48 Gems": "29,99 €",
       "74 Gems": "49,99 €",
-      "150 Gems": "89,99 €"
+      "150 Gems": "89,99 €",
+      "119 Gems": "69,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761808358078,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "150 Gems": "89,99 €",
+            "74 Gems": "49,99 €",
+            "119 Gems": "69,99 €",
+            "48 Gems": "29,99 €",
+            "28 Gems": "17,99 €",
+            "13 Gems": "8,99 €",
+            "6 Gems": "3,99 €",
+            "1 Gem": "0,99 €"
+          }
+        },
         {
           "timestamp": 1761797674362,
           "price": 0,
@@ -12182,7 +12199,9 @@
       "Props Tip: flower": "0,99 €",
       "Get tips on holographic camera": "0,99 €",
       "Get tips about two weeks mesh box factory eye": "0,99 €",
-      "Get tips about the triangle blocks (1-6)": "0,99 €"
+      "Get tips about the triangle blocks (1-6)": "0,99 €",
+      "Get tips on the bucket": "0,99 €",
+      "Get tips on stone-eyed": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -12196,10 +12215,29 @@
       "Props Tip: flower": "0,99 €",
       "Get tips on holographic camera": "0,99 €",
       "Get tips about two weeks mesh box factory eye": "0,99 €",
-      "Get tips about the triangle blocks (1-6)": "0,99 €"
+      "Get tips about the triangle blocks (1-6)": "0,99 €",
+      "Get tips on the bucket": "0,99 €",
+      "Get tips on stone-eyed": "0,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761808358078,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Purchase game": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €",
+            "Get tips on the bucket": "0,99 €",
+            "Get tips on stone-eyed": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €"
+          }
+        },
         {
           "timestamp": 1761797674362,
           "price": 0.99,
@@ -18597,7 +18635,8 @@
       "Nordic-Baltic Voyage": "2,99 €",
       "Euro Trip": "2,99 €",
       "Promotion": "19,99 €",
-      "Golden Flames Bundle": "9,99 €"
+      "Golden Flames Bundle": "9,99 €",
+      "The Dragon": "2,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -18611,10 +18650,28 @@
       "Nordic-Baltic Voyage": "2,99 €",
       "Euro Trip": "2,99 €",
       "Promotion": "19,99 €",
-      "Golden Flames Bundle": "9,99 €"
+      "Golden Flames Bundle": "9,99 €",
+      "The Dragon": "2,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761808358078,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Speed Die": "7,99 €",
+            "New York 2121 Board": "5,99 €",
+            "Welcome Offer": "19,99 €",
+            "New York 2121": "7,99 €",
+            "Promotion": "19,99 €",
+            "Euro Trip": "2,99 €",
+            "Nordic-Baltic Voyage": "2,99 €",
+            "The Dragon": "2,99 €"
+          }
+        },
         {
           "timestamp": 1761797674362,
           "price": 4.99,
@@ -25702,7 +25759,7 @@
     ]
   },
   "6753934071": {
-    "name": "Slime Dash - Roguelike Game",
+    "name": "Slime Dash: Roguelike Game",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
@@ -31035,7 +31092,16 @@
       "Nordic Map": "6,99 €",
       "Legendary Asia Map": "6,99 €",
       "Bertie Hawkes": "1,99 €",
-      "Pennsylvania Carriage B": "1,99 €"
+      "Pennsylvania Carriage B": "1,99 €",
+      "Pennsylvania Locomotive B": "1,99 €",
+      "Pennsylvania Locomotive A": "1,99 €",
+      "Pennsylvania Carriage A": "1,99 €",
+      "Pennsylvania Character A": "1,99 €",
+      "Pennsylvania Character B": "1,99 €",
+      "Germany Carriage B": "1,99 €",
+      "Germany Carriage A": "1,99 €",
+      "Germany Locomotive B": "1,99 €",
+      "Germany Locomotive A": "1,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -31049,10 +31115,36 @@
       "Nordic Map": "6,99 €",
       "Legendary Asia Map": "6,99 €",
       "Bertie Hawkes": "1,99 €",
-      "Pennsylvania Carriage B": "1,99 €"
+      "Pennsylvania Carriage B": "1,99 €",
+      "Pennsylvania Locomotive B": "1,99 €",
+      "Pennsylvania Locomotive A": "1,99 €",
+      "Pennsylvania Carriage A": "1,99 €",
+      "Pennsylvania Character A": "1,99 €",
+      "Pennsylvania Character B": "1,99 €",
+      "Germany Carriage B": "1,99 €",
+      "Germany Carriage A": "1,99 €",
+      "Germany Locomotive B": "1,99 €",
+      "Germany Locomotive A": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761808358078,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Pennsylvania Carriage B": "1,99 €",
+            "Pennsylvania Locomotive B": "1,99 €",
+            "Pennsylvania Locomotive A": "1,99 €",
+            "Pennsylvania Carriage A": "1,99 €",
+            "Pennsylvania Character A": "1,99 €",
+            "Pennsylvania Character B": "1,99 €",
+            "Germany Carriage B": "1,99 €",
+            "Germany Carriage A": "1,99 €",
+            "Germany Locomotive B": "1,99 €",
+            "Germany Locomotive A": "1,99 €"
+          }
+        },
         {
           "timestamp": 1761797674362,
           "price": 4.99,

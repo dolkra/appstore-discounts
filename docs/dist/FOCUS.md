@@ -35,7 +35,7 @@ So far, we've covered `7` `Countries or Regions` and  `1492` `Apps` <br />Push n
 |1465|1133544923|Automatic|❌|Hidden Folks|Hidden Folks|Hidden Folks|Hidden Folks|Hidden Folks|Hidden Folks|
 |1464|1561442623|Automatic|❌|Access Code Zero|Access Code Zero|Access Code Zero|Access Code Zero|Access Code Zero|Access Code Zero|
 |1463|1566817391|Automatic|Shred Snap|オフトレカメラ|オフトレカメラ|オフトレカメラ|Shred Snap|Shred Snap|オフトレカメラ|
-|1462|6753934071|Automatic|❌|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|
+|1462|6753934071|Automatic|❌|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash: Roguelike Game|Slime Dash: Roguelike Game|Slime Dash: Roguelike Game|
 |1461|1113002956|Automatic|❌|Plague Inc (瘟疫公司):場景工房|Plague Inc (瘟疫公司):場景工房|Plague Inc (瘟疫公司):場景工房|Plague Inc: Scenario Creator|Plague Inc: Scenario Creator|Plague Inc: Criador de Cenário|
 |1460|1552864378|Automatic|❌|ScourgeBringer|ScourgeBringer|ScourgeBringer|ScourgeBringer|ScourgeBringer|ScourgeBringer|
 |1459|1497165353|Automatic|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|

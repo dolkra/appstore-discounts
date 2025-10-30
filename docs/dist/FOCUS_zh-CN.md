@@ -35,7 +35,7 @@
 |1465|1133544923|自动|❌|Hidden Folks|Hidden Folks|Hidden Folks|Hidden Folks|Hidden Folks|Hidden Folks|
 |1464|1561442623|自动|❌|Access Code Zero|Access Code Zero|Access Code Zero|Access Code Zero|Access Code Zero|Access Code Zero|
 |1463|1566817391|自动|Shred Snap|オフトレカメラ|オフトレカメラ|オフトレカメラ|Shred Snap|Shred Snap|オフトレカメラ|
-|1462|6753934071|自动|❌|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|
+|1462|6753934071|自动|❌|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash - Roguelike Game|Slime Dash: Roguelike Game|Slime Dash: Roguelike Game|Slime Dash: Roguelike Game|
 |1461|1113002956|自动|❌|Plague Inc (瘟疫公司):場景工房|Plague Inc (瘟疫公司):場景工房|Plague Inc (瘟疫公司):場景工房|Plague Inc: Scenario Creator|Plague Inc: Scenario Creator|Plague Inc: Criador de Cenário|
 |1460|1552864378|自动|❌|ScourgeBringer|ScourgeBringer|ScourgeBringer|ScourgeBringer|ScourgeBringer|ScourgeBringer|
 |1459|1497165353|自动|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|Dictionnaire Larousse français|
