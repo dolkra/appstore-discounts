@@ -12941,11 +12941,17 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761797674362,
           "price": 5.99,
@@ -13868,8 +13874,8 @@
   "1230231705": {
     "name": "The Witness",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -13877,6 +13883,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761797674362,
           "price": 5.99,
@@ -14709,11 +14721,17 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761797674362,
           "price": 2.99,
@@ -16244,11 +16262,17 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761797674362,
           "price": 2.99,
@@ -17958,11 +17982,17 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761797674362,
           "price": 2.99,
@@ -23211,8 +23241,8 @@
   "1587301632": {
     "name": "All In One Memo",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Gratuito"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -23220,6 +23250,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761797674362,
           "price": 0,
@@ -24465,11 +24501,17 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1761797674362,
           "price": 2.99,
@@ -26369,14 +26411,24 @@
       "DLC - The Tournament": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "DLC - Land of the Eclipse": "1,99 €",
       "DLC - The Ember Saga": "1,99 €",
       "DLC - The Tournament": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1761865879459,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "1,99 €",
+            "DLC - The Ember Saga": "1,99 €",
+            "DLC - The Tournament": "1,99 €"
+          }
+        },
         {
           "timestamp": 1761797674362,
           "price": 5.99,

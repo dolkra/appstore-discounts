@@ -72,6 +72,14 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6752563564,
+    name: {
+      hk: '石器懷舊服 - 1:1移植版',
+      tw: '石器懷舊服 - 1:1移植版',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6753921107,
     name: {
       pt: 'GestO',
