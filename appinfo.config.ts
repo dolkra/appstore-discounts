@@ -72,6 +72,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6753921107,
+    name: {
+      pt: 'GestO',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6753980946,
+    name: {
+      pt: 'Urbexplore Portugal',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6702020560,
     name: {
       mo: 'Swiss Rounds',
