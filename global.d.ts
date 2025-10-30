@@ -1,7 +1,7 @@
 import { Translate } from 'i18n-pro'
 
 declare global {
-  type Region = 'cn' | 'hk' | 'mo' | 'tw' | 'us' | 'tr'
+  type Region = 'cn' | 'hk' | 'mo' | 'tw' | 'us' | 'tr' | 'pt'
 
   type AppConfig = {
     id: number
