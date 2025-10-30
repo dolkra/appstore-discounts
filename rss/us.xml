@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-10-30T03:32:04.267Z</updated>
+    <updated>2025-10-30T09:44:15.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-30T03:32:04.269Z</updated>
+        <updated>2025-10-30T09:44:15.025Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,14 +29,14 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 30 Oct 2025 03:32:04 GMT</id>
+        <id>rankingusThu, 30 Oct 2025 09:44:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-10-30T03:32:04.269Z</updated>
+        <updated>2025-10-30T09:44:15.025Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
     <b>United States(US)</b>
-  </li><li>Türkiye(TR)</li>
+  </li><li>Türkiye(TR)</li><li>Portugal(PT)</li>
 </ol><h2>Statistics of the Number of App Tracked</h2><table>
   <thead>
     <tr>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1490</b>
+        <b>1492</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1289</b>
+        <b>1291</b>
       </td>
       <td>
         <b>67</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1373</b>
+        <b>1374</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1197</b>
+        <b>1198</b>
       </td>
       <td>
         <b>55</b>
@@ -170,6 +170,35 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id598581396">Kingdom Rush Frontiers TD</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Bonehart</i>：<b>2</b>
+              </li><li>
+                <i>Sha'tra</i>：<b>2</b>
+              </li><li>
+                <i>Grawl</i>：<b>2</b>
+              </li><li>
+                <i>Ashbite</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
       </td>
       <td>
@@ -182,35 +211,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>Pro Tier 2</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id598581396">Kingdom Rush Frontiers TD</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Bonehart</i>：<b>1</b>
-              </li><li>
-                <i>Sha'tra</i>：<b>1</b>
-              </li><li>
-                <i>Grawl</i>：<b>1</b>
-              </li><li>
-                <i>Ashbite</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -2265,6 +2265,106 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kingdom Rush Frontiers TD]]></title>
+        <id>Kingdom Rush Frontiers TD-us-1761815619966</id>
+        <link href="https://apps.apple.com/us/app/kingdom-rush-frontiers-td/id598581396?uo=4"/>
+        <updated>2025-10-30T09:13:39.966Z</updated>
+        <summary type="html"><![CDATA[Bonehart: $6.99 → $4.99<br/>Sha'tra: $2.99 → $0.99<br/>Grawl: $2.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/kingdom-rush-frontiers-td/id598581396?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Bonehart：</strong><span>$6.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $6.99]</span>
+  </li><li>
+    <strong>Sha'tra：</strong><span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>
+  </li><li>
+    <strong>Grawl：</strong><span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Saitam：<b>$2.99</b>
+  </li><li>
+    Bonehart：<b>$4.99</b>
+  </li><li>
+    Captain Blackthorne：<b>$0.99</b>
+  </li><li>
+    Sha'tra：<b>$0.99</b>
+  </li><li>
+    Nivus：<b>$0.99</b>
+  </li><li>
+    Grawl：<b>$0.99</b>
+  </li><li>
+    Kahz：<b>$2.99</b>
+  </li><li>
+    Karkinos：<b>$0.99</b>
+  </li><li>
+    Big Hero Pack 2：<b>$14.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Kingdom Rush Frontiers is a whole new level of the furiously fast, enchantingly charming gameplay that made kingdom Rush an award-winning Tower Defense hit.
+Defend exotic lands from dragons, man-eating plants, and ghastly denizens of the underworld -all with flashy towers, levels, heroes, and more goodies to help you crush your enemies to a pulp.
+
+BUILD MIGHTY TOWERS!
+
+
+• OVER 18 TOWER ABILITIES! Unleash Death Riders, pestilence clouds, or assassins that steal and kill your enemies!
+
+• 8 SPECIALIZED TOWER UPGRADES! Slice, sizzle, and stomp your foes with Crossbow Forts, Mighty Templars, Necromancers, and even Earthquake Machines - hey, we told you we were shaking things up.
+
+• UPGRADE SYSTEM allows you to min/max your towers towards your preferred strategy.
+
+• Fortify the frontier in exotic news lands - hold the line in deserts, jungles, and even the underworld!
+
+TRAIN LEGENDARY HEROES
+
+
+• 16 LEGENDARY HEROES. Choose among mighty champions and train their abilities! Each has unique specialties that fit different play styles and strategies!
+
+• Special units and features on every stage! Watch out for the Black Dragon!
+
+DEFEAT THEM ALL
+
+
+• OVER 40 ENEMIES with unique abilities! Stay on your toes as you fight through desert sandworms, tribal shamans, nomad tribes, and underground terrors. Action like you have never seen before!
+
+• MERCILESS BOSS FIGHTS! Hey, we told you to get those upgrades...
+
+MORE MIND-BOGGLING CONTENT
+
+
+• Hours of army with OVER 80 ACHIEVEMENTS! what can you expect from Ironhide Games, the creators of Kingdom rush? You will be hooked for hours searching for Easter eggs and achievements!
+
+• IN-GAME ENCYCLOPEDIA! learn all about your enemies and you will be able to plan the best strategy to defeat them. Study up!
+
+• CLASSIC, IRON, AND HEROIC GAME MODES to challenge your tactical skills!
+
+• 3 DIFFICULTY MODES! Are you up for a real challenge? Go with Hard mode!
+
+• PLAY IT OFFLINE! No internet? No problem! You will be able to jump into real action even offline!
+
+-----------------------------------------------------
+
+PRAISE FOR KINGDOM RUSH: IGN Editor's Choice, Slide To Play Must Have, 148 Apps Editor's Choice, Jay is Games Game of the Year, Pocket Gamer Gold Award, Touch Arcade 4.5/5
+
+Terms and Conditions:
+https://www.ironhidegames.com/TermsOfService
+
+Privacy Policy:
+https://www.ironhidegames.com/PrivacyPolicy
+
+Video creators, podcast creators, and streamers:
+We would love to see your content on Youtube and Twitch! We support and promote channel creators so, if you want us to showcase your videos or want to know more about our games, feel free to write to us to contact@ironhidegames.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8e/b0/788eb0fc-afa8-245b-799b-a195718790a4/5a6affe9-dc30-420d-a725-ad6aa8e9001b_screenshots_2208x12420001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/98/cd/7998cd5a-99b1-b03b-4c9d-42f9c371611c/10e242a9-64da-43ec-a049-230d6672b48f_screenshots_2208x12420002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/87/32/a0873242-dd94-fe5d-70f4-ccc55b6d4d54/c1460a05-6fe6-422b-a563-4e245dd8af37_screenshots_2208x12420003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/ba/96/9aba96b9-f838-936d-0524-c1f932ea79b3/7c12dd14-89b7-41c3-968b-33b7225a8730_screenshots_2208x12420004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/e1/00/a3e1007a-194c-5dc2-1c97-3c2991b1ab9c/436d4067-8ab6-4f41-9103-69ee4cd85a91_screenshots_2208x12420005.png/406x228bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bendy and the Ink Machine]]></title>
         <id>Bendy and the Ink Machine-us-1761793530817</id>
         <link href="https://apps.apple.com/us/app/bendy-and-the-ink-machine/id1437669537?uo=4"/>
@@ -3398,150 +3498,5 @@ Books, important collections, hobby tools, children's toys, seasonal clothes, an
 微博：PoPoem开发者
 邮箱：yande18@126.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/6e/b8/57/6eb857b0-c493-a6a0-05e0-19b44b243f2a/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/73/ae/fd/73aefda1-50fe-fb4b-ea98-bc2ee388d642/mzl.pogeubab.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/96/5a/59/965a59d6-acd7-6b5a-409e-dbc572e12488/mzl.yydefkqe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/dc/40/8e/dc408e3e-eaf7-af17-c437-397f6207f461/mzl.eesfoite.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ab/44/49/ab4449da-da40-c2cb-2c63-91bd6c5fee47/mzl.dewnfyac.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/8f/2d/03/8f2d0314-54e4-2a2c-b32b-a6163a88eb73/mzl.bxzoxsku.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/bd/d5/d3/bdd5d3df-4d32-74a2-1621-33b554072a93/pr_source.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ad/2a/f6/ad2af69e-af25-e58a-028b-ccd917b02e55/mzl.cqrsjwem.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/fc/a7/ec/fca7ec60-f6bc-4340-6061-1494232e4447/mzl.dbxkfsyu.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/21/89/9c/21899cee-d9d1-6b7d-a52e-51cb74652f58/mzl.ubjivyyc.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/30/15/0a/30150ab3-b087-9445-397a-0531b74e6c21/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/86/56/54/86565426-f911-76bd-d82a-ece6667bfa2c/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/2b/77/91/2b779197-3b2d-a11a-13bc-2f343998a6f1/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/ff/42/af/ff42afee-1471-e004-3a18-fa7b43d77d21/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/12/69/39/126939f0-2646-0972-ef9c-35d89c5cad22/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/1e/fe/d8/1efed884-8fa3-28f8-ac70-265c61a21a64/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/60/2b/20/602b208f-d37c-8a94-ede7-d77b32d0bdb1/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/fa/20/43/fa2043fc-1549-3573-f451-69ad78615c7a/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/de/ed/3d/deed3dd8-c2b0-82d8-2f45-a5d5716cadb3/mzl.wftiudsj.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UnTrap for YouTube]]></title>
-        <id>UnTrap for YouTube-us-1761556581671</id>
-        <link href="https://apps.apple.com/us/app/untrap-for-youtube/id1637438059?uo=4"/>
-        <updated>2025-10-27T09:16:21.671Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/untrap-for-youtube/id1637438059?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/38/78/04/387804ae-ddec-cbe5-cd15-11eca8f4e7d0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Monthly：<b>$3.99</b>
-  </li><li>
-    Yearly：<b>$35.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Transform YouTube website into a clean and productive space.
-
-Access 250+ powerful features including AI video summaries, layout customization, content filters, automation, and focus tools.
-
-
-◆ Enhance Your YouTube Experience
-
-- Hide Shorts, comments, related, and suggested videos
-- Grayscale, blur, or hide thumbnails
-- Auto-redirect the YouTube homepage to a custom page
-- Remove notifications, buttons, sidebars, and trending tabs
-- Auto-enable Theater or Full Screen mode
-- Hide ad banners and auto-skip video promotions
-- Block videos, channels, or comments using keywords, channel IDs, or regex
-
-◆ AI Video Summaries 
-
-- Instant Video Summary: Get a clear overview of any YouTube video in just 5 seconds
-- Key Insights Extraction: Understand the main points without watching the entire video
-- Timestamped Navigation: Jump directly to the most important moments
-- Multilingual Support: Summarize and translate in over 40 languages
-- Top Comments Overview: Instantly see the most insightful viewer opinions
-- Enhanced Transcript Generator: Get transcripts that outperform YouTube’s auto-captions in clarity and accuracy
-
-◆ Productivity Tools 
-
-- Password-Protected Settings: Keep your preferences secure
-- Temporary Focus Mode: Block distractions with a single click
-- Scheduled Focus Sessions: Automate distraction-free time blocks
-- Opening Delays: Add a pause before accessing YouTube or launching the extension
-- Custom Hotkeys: Instantly trigger features with keyboard shortcuts
-
-◆ Available On 
-
-- Safari: https://apps.apple.com/us/app/id1637438059
-- Chrome, Opera, Brave: https://chromewebstore.google.com/detail/untrap-for-youtube/enboaomnljigfhfjfoalacienlhjlfil
-- Firefox: https://addons.mozilla.org/firefox/addon/untrap-for-youtube/
-- Edge:  https://microsoftedge.microsoft.com/addons/detail/untrap-for-youtube/ngnefladcohhmmibccafkdbcijjoppdoT
-
-◆ Works with YouTube website on desktop, mobile, and embedded videos. 
-
-
-Important: UnTrap is only available as a browser extension and is not compatible with the YouTube app.
-
-Terms Of Use: https://untrap.app/tos/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a0/0f/cd/a00fcd86-5290-090c-878d-30ef1f92fb0f/a0ac29a0-3e2f-4421-bc60-b1584971c938_Iphone_5.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ff/2f/9e/ff2f9ed0-d3fb-7fa4-9f78-fcda02e3027c/8910fa82-aa10-4746-a7c5-90da3e352733_Iphone_5.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/40/31/98/40319832-cba4-62c2-950d-f0fed3f1db14/fa203a3d-02e9-4d16-985d-daa7388e1668_Iphone_5.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/d7/a0/13d7a0ff-8b1c-6d4e-618e-6dc5a1511954/6070df74-88be-416c-a6ea-ecf7552e1f8f_Iphone_5.5-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/81/84/60/81846000-cc95-0c3d-c05c-bc614422efcf/1d203ae8-08c9-438b-9408-94d1eeee2ae8_Iphone_5.5-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e4/a3/13/e4a31318-5045-6cb1-9a27-5f1719cf7d1c/5510bb33-d770-4390-81e1-0022dc9e13d5_Iphone_5.5-6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e3/57/59/e357591d-6656-48b9-530d-d2c364f069d0/b9c49679-26b3-4ac2-807d-dcd6013377ac_Iphone_5.5-7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/74/5b/85/745b8568-215e-b50d-32ef-e378b58ccc6b/7c1e2e3a-f31e-4dbc-be29-df968567df83_Iphone_5.5-8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/4a/b8/434ab803-e9d8-814a-9d7a-53537fdc9dca/3487d92d-d4d3-46b4-8a4f-ddddc46fb94c_iPad_3d_Gen.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/41/7d/ca/417dca60-db06-e501-9cce-979d50f27570/668216e3-7081-4bf5-a0b7-940685c1414d_iPad_3d_Gen-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/08/7f/4c/087f4ce7-4f78-84fd-993e-e4812b7f2bd4/cfbbf56d-8ed9-46e9-9fd8-e1a58a7f4b85_iPad_3d_Gen-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9e/aa/b0/9eaab0de-8a10-b8fc-2fee-198102b4073b/086e13d2-a83a-40fd-8938-a5f434dc9a56_iPad_3d_Gen-4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1b/af/5c/1baf5cd5-4e47-6917-9bd1-cf645e62491a/01f22d1f-57d5-445b-bb5d-a66b13e7a1c6_iPad_3d_Gen-5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/de/e3/e9dee381-5cfa-dcfa-75d7-a481b19d0a21/8bf578a3-04aa-4b2a-b98b-26f892fae0fb_iPad_3d_Gen-6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/f9/16/2ef9169e-9578-e967-11d1-eeadeb48c4e3/c9c9e68e-a636-487f-8a5a-2db4065788c8_iPad_3d_Gen-7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b1/f0/16/b1f016ac-8c14-f51f-33eb-c7fd216cbae5/3507a700-15f1-4b4a-bfa7-d747f66e0932_iPad_3d_Gen-8.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be Focused Pro - Focus Timer]]></title>
-        <id>Be Focused Pro - Focus Timer-us-1761549232937</id>
-        <link href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4"/>
-        <updated>2025-10-27T07:13:52.937Z</updated>
-        <summary type="html"><![CDATA[Price: $12.99 → $7.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/46/13/91461341-6b5e-0d9c-50ee-482695e71cd0/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$12.99</span> → <b>
-  <strong>$7.99</strong>
-</b><span>[Free ~ $12.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$7.99</b>
-</p><h2>Application Description</h2><p>
-  Staying on task seems is a real challenge for our screen-bound generation. The Be Focused lets you get things done by breaking up individual tasks among discrete intervals, separated by short breaks. It’s a surprisingly effective way to retain motivation and focus. Create tasks, configure breaks and track your progress throughout the day, week or custom period. Use Be Focused on your iPhone, iPad, or Mac — everything stays perfectly in sync.
-
-Task Management
-
-•	Create and manage tasks
-•	Add notes and due dates to tasks
-•	Organize tasks with tags and filters
-•	Paste task lists from other apps
-
-Timer Control
-
-•	Start, pause, or skip intervals
-•	Auto-start the next interval (optionally)
-•	Plan intervals needed for task completion and track accuracy
-•	Manage completed intervals
-
-Timer Customization
-
-•	Set durations for work sessions, short and long breaks
-•	Define number of intervals before a long break
-•	Set a daily goal for completed intervals 
-•	Assign different timer settings to individual tasks
-
-Reports
-
-•	View detailed reports to monitor your progress
-•	Export your data in CSV format
-
-Sounds and Notifications
-
-•	Chronometer ticking sound with adjustable frequency
-•	Variety of alarm sounds
-•	Interactive notifications
-•	Adjustable volume for alarms and chronometer
-
-Integration
-
-•	Sync across all your devices (iPhone, iPad, Mac) *
-•	Integration with Focus Matrix to manage tasks using urgent/important principle **
-•	Integration with Shortcuts app to automate workflow
-
-Quick Access
-
-•	Widgets for Lock Screen and Home Screen
-•	Live activities for Lock Screen and Dynamic Island
-•	Control to start or stop the timer from the Lock Screen, Controls Center, or Action Button
-
-Automation
-
-•	Integration with Shortcuts app (control tasks and timers via Shortcuts app)
-•	Automate Shortcuts execution on events in Be Focused app
-
-Device Support
-
-•	Apple Watch support
-•	Also available for Mac
-•	Dark and Light mode support
-
-* Sync with Mac requires Be Focused Pro for macOS, sold separately.
-** Integration with Focus Matrix requires the Pro version of Focus Matrix, sold separately.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/82/4d/20824d7d-c5d0-a566-2d98-b902acf5d294/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e8/37/2b/e8372bbc-f76a-dea2-8a0e-31de2d6d876f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/28/1c/7b/281c7b07-ee07-5935-34e4-8df4e5837b87/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ad/78/bf/ad78bfab-e77f-f3f9-5d47-27d9cbe9286b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/57/5d/65/575d65dc-00bc-9560-7bd9-b0342086c9c2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/21/20/bc2120f7-69ce-9d73-bb9d-c146ee30bd1e/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4c/d6/22/4cd62246-cfb7-a199-9104-ee4c26e4e305/9cabfa62-9a99-45ca-87e0-fa2615013278_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7d/31/88/7d3188e8-5486-9f20-1f21-23c92f07b21c/efbc24b1-b12f-42e8-a1fb-f985ed0c7199_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7a/78/4d/7a784d0e-470b-c69b-060f-35de586f19ec/e9d26e1e-fc76-4205-934c-68bc0a3f34ac_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f0/d1/ec/f0d1ecd8-26fb-af21-cc6f-da018bc2fe37/23f7f239-0c56-457b-ab5e-708dc85b3df4_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/30/89/a23089ea-5ac2-ae96-77b7-5f9beccfdbb7/8899c3f3-bc66-4c66-832d-a3454224ac48_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/13/2b/c5/132bc5eb-1d98-e735-a34d-60fa03c74e36/8d4fd987-3e8c-4145-aaca-ce7591d18b2b_6.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
