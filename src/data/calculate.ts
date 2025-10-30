@@ -8,7 +8,8 @@ const timeStorageAppInfoFields = ['price', 'formattedPrice', 'inAppPurchases']
 function getPrice(priceStrProp: string, region: Region) {
   let priceStr = priceStrProp
 
-  if (region === 'tr') {
+  // eg: '1.234,56' = 1234.56
+  if (['tr', 'pt'].includes(region)) {
     priceStr = priceStr
       .replace('.', 'dot')
       .replace(',', '.')
