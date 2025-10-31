@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 5
+    },
+    "auditLog": "logs/.8929a066e1e20cab48ddbfa9c509b48984514299-audit.json",
+    "files": [
+        {
+            "date": 1761898614718,
+            "name": "logs/scrapeless-2025-10-31.log",
+            "hash": "e7c737cf659344868ee52574af24be0e067921db1e0972a842d6139983ebae6f"
+        }
+    ],
+    "hashType": "sha256"
+}
