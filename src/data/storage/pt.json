@@ -22080,6 +22080,23 @@
     "history": [
       [
         {
+          "timestamp": 1761923486398,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "0,00 €",
+            "Dawncaster Origins Bundle": "5,99 €",
+            "Siege of Shadows": "5,99 €",
+            "Masks of Misery": "5,99 €",
+            "Dawncaster Mega Bundle": "14,99 €",
+            "Infernal Invasions": "6,99 €",
+            "Death of Divinity": "5,99 €",
+            "Tribes of Twilight": "5,99 €",
+            "Synthesis Support Pack": "4,99 €",
+            "Eclypse Supporter Pack": "4,99 €"
+          }
+        },
+        {
           "timestamp": 1761919995978,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -31761,7 +31778,8 @@
       "Germany Carriage B": "1,99 €",
       "Germany Carriage A": "1,99 €",
       "Germany Locomotive B": "1,99 €",
-      "Germany Locomotive A": "1,99 €"
+      "Germany Locomotive A": "1,99 €",
+      "Germany Expansion": "7,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -31784,9 +31802,29 @@
       "Germany Carriage B": "1,99 €",
       "Germany Carriage A": "1,99 €",
       "Germany Locomotive B": "1,99 €",
-      "Germany Locomotive A": "1,99 €"
+      "Germany Locomotive A": "1,99 €",
+      "Germany Expansion": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761923486398,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Europe Expansion": "9,99 €",
+            "Round the World Ticket": "29,99 €",
+            "Europe Map": "8,99 €",
+            "1910 Ticket Pack": "3,99 €",
+            "Nordic Bundle": "7,99 €",
+            "Japan Expansion Bundle": "7,99 €",
+            "Nordic Map": "6,99 €",
+            "Legendary Asia Map": "6,99 €",
+            "Bertie Hawkes": "1,99 €",
+            "Germany Expansion": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761812233000,
