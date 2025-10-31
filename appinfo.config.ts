@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 666202151,
+    name: {
+      mo: '汇声绘影 PRO',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6752563564,
     name: {
       hk: '石器懷舊服 - 1:1移植版',
