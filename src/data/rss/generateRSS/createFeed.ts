@@ -10,6 +10,7 @@ const legacyFollowRegionFeedMap: Record<Region, string> = {
   tw: '73536236398899200',
   us: '49753370488353792',
   tr: '99063474310237184',
+  pt: '206976450490868736',
 }
 
 const followRegionFeedMap: Record<Region, string> = {
@@ -19,6 +20,7 @@ const followRegionFeedMap: Record<Region, string> = {
   tw: '157008546980077568',
   us: '157008699750812672',
   tr: '157008924688563200',
+  pt: '206907475259680768',
 }
 
 export function createFeed(region: Region) {
