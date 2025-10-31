@@ -1,7 +1,7 @@
 import { initI18n } from 'i18n-pro'
 import en from './en.json'
 
-const { t, withI18n } = initI18n({
+const { t: initT } = initI18n({
   namespace: 'data',
   langs: {
     en,
@@ -42,9 +42,7 @@ const { t, withI18n } = initI18n({
 })
 
 export default function init(locale?: string) {
-  const { t } = withI18n({
-    locale,
-  })
+  const t = initT.withLocale(locale)
 
   Object.defineProperty(global, 't', {
     get() {

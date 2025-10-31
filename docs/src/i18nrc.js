@@ -2,7 +2,7 @@ const { join } = require('path')
 
 module.exports = {
   funcName: 't',
-  input: ['**/appinfo.config.ts', 'docs/src/**/*.{ts,tsx}'],
+  input: ['../../appinfo.config.ts', '**/*.{ts,tsx}'],
   output: {
     path: join(__dirname, 'i18n'),
   },
