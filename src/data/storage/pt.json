@@ -4574,6 +4574,27 @@
       ]
     ]
   },
+  "530060483": {
+    "name": "METAL SLUG 3",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1761919995978,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "530090434": {
     "name": "7 Wonders",
     "maxPriceInfo": {
@@ -22036,7 +22057,9 @@
       "Death of Divinity": "5,99 €",
       "Tribes of Twilight": "5,99 €",
       "Synthesis Support Pack": "4,99 €",
-      "Eclypse Supporter Pack": "4,99 €"
+      "Eclypse Supporter Pack": "4,99 €",
+      "Catalyst Support Pack": "5,99 €",
+      "Infinitum Support Banner": "3,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -22050,9 +22073,30 @@
       "Death of Divinity": "5,99 €",
       "Tribes of Twilight": "5,99 €",
       "Synthesis Support Pack": "4,99 €",
-      "Eclypse Supporter Pack": "4,99 €"
+      "Eclypse Supporter Pack": "4,99 €",
+      "Catalyst Support Pack": "5,99 €",
+      "Infinitum Support Banner": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761919995978,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Synthesis Support Pack": "4,99 €",
+            "Infernal Invasions": "6,99 €",
+            "Vaul of the Void Promo Pack": "0,00 €",
+            "Eclypse Supporter Pack": "4,99 €",
+            "Dawncaster Origins Bundle": "5,99 €",
+            "Dawncaster Mega Bundle": "14,99 €",
+            "Siege of Shadows": "5,99 €",
+            "Catalyst Support Pack": "5,99 €",
+            "Masks of Misery": "5,99 €",
+            "Infinitum Support Banner": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
