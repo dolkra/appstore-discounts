@@ -8270,13 +8270,25 @@
       "A Little Light (Small Tip)": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
+      "price": 4.99,
+      "formattedPrice": "4,99 €",
       "All the Light (Huge Tip)": "9,99 €",
       "More Light (Medium Tip)": "3,99 €",
       "A Little Light (Small Tip)": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761948690487,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "All the Light (Huge Tip)": "9,99 €",
+            "More Light (Medium Tip)": "3,99 €",
+            "A Little Light (Small Tip)": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -12647,6 +12659,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1761948690487,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €",
+            "Get tips about the diamond pyramid": "0,99 €",
+            "Purchase game": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €"
+          }
+        },
         {
           "timestamp": 1761941657013,
           "price": 0.99,
