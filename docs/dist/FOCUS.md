@@ -1037,7 +1037,7 @@ So far, we've covered `7` `Countries or Regions` and  `1496` `Apps` <br />Push n
 |469|927098908|Automatic|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|Pro Camera by Moment|
 |468|932389062|Automatic|❌|永不言棄！！ - 不可能的節奏跳躍 & 黑色小球翻滾|永不言棄！！ - 不可能的節奏跳躍 & 黑色小球翻滾|永不言棄！！ - 不可能的節奏跳躍 & 黑色小球翻滾|Give It Up! - Jump to the Beat|Give It Up! - Jump to the Beat|Give It Up! - Ritmo de Música|
 |467|935216956|Automatic|❌|Papers, Please|Papers, Please|Papers, Please|Papers, Please|Papers, Please|Papers, Please|
-|466|935528099|Automatic|同步音律|同步音律|同步音律|同步音律|MUSYNX|MUSYNX|❌|
+|466|935528099|Automatic|同步音律|同步音律|同步音律|同步音律|MUSYNX|MUSYNX|同步音律|
 |465|941143328|Automatic|❌|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|Five Nights at Freddy's 2|
 |464|945322477|Automatic|❌|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|新仙劍奇俠傳(正版單機)|
 |463|946477821|Automatic|❌|Evoland|Evoland|Evoland|Evoland|Evoland|Evoland|
