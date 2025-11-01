@@ -20482,14 +20482,22 @@
   "1509344823": {
     "name": "Ezberle",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761991930479,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
