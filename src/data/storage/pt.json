@@ -27354,14 +27354,22 @@
   "6742139144": {
     "name": "ネコぱら ラブプロジェクト Vol.1",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761958949101,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

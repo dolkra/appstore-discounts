@@ -18288,6 +18288,25 @@
     "history": [
       [
         {
+          "timestamp": 1761958949101,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "USD 2.99",
+            "RC Transformer": "USD 2.99",
+            "Race Car": "USD 2.99",
+            "Lego Car": "USD 2.99",
+            "XB-70 Valkirie": "USD 2.99",
+            "BVM King Cat": "USD 2.99",
+            "B17 Flying Fortress": "USD 2.99",
+            "A6M Zero": "USD 2.99",
+            "P-47 Thunderbolt": "USD 2.99",
+            "Curtiss P-40 Warhawk": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761833521805,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -107647,14 +107666,22 @@
   "6742139144": {
     "name": "貓娘樂園 Love Project Vol.1",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1761958949101,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1755249235896,
