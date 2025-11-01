@@ -72,6 +72,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1000884506,
+    name: {
+      mo: 'Hmmsim 2 - Train Simulator',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6477356535,
+    name: {
+      tr: 'Etiket Tofask',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1007346233,
     name: {
       mo: 'Rhythm Swing- Music Drills',
