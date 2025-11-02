@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 886697025,
+    name: {
+      mo: 'ArtPose Female Edition',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1000884506,
     name: {
       mo: 'Hmmsim 2 - Train Simulator',
