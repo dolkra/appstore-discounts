@@ -30494,7 +30494,8 @@
       "Robin DR400": "0,99 €",
       "Antares 21E": "0,99 €",
       "ASK 21": "0,99 €",
-      "Boeing 737 MAX 9": "1,99 €"
+      "Boeing 737 MAX 9": "1,99 €",
+      "Boeing 737-900": "1,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -30514,9 +30515,29 @@
       "Robin DR400": "0,99 €",
       "Antares 21E": "0,99 €",
       "ASK 21": "0,99 €",
-      "Boeing 737 MAX 9": "1,99 €"
+      "Boeing 737 MAX 9": "1,99 €",
+      "Boeing 737-900": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762056949898,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A321": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A319": "1,99 €",
+            "Global scenery - 12 months": "14,99 €",
+            "Boeing 777F": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761973908407,
