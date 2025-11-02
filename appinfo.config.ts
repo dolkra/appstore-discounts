@@ -72,6 +72,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1583113291,
+    name: {
+      pt: 'IRFSpro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6587551050,
+    name: {
+      mo: 'FilmN Kankokuma: Ramune',
+    },
+    addType: 'auto',
+  },
+  {
     id: 886697025,
     name: {
       mo: 'ArtPose Female Edition',
