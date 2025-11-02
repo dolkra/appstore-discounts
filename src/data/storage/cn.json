@@ -58423,6 +58423,23 @@
     "history": [
       [
         {
+          "timestamp": 1762107299824,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Package": "¥8.00",
+            "Stamp Frame Package": "¥8.00",
+            "Stroke Frame Package": "¥8.00",
+            "Retro Frame Package": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "White Cam Film Pack": "¥8.00",
+            "Design Frame Package": "¥8.00",
+            "Social Frame Package": "¥8.00",
+            "Magazine Frame Package": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1762103405648,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -90968,6 +90985,27 @@
           "timestamp": 1722784406759,
           "price": 6,
           "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1618663548": {
+    "name": "swimstats live",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762107299824,
+          "price": 15,
+          "formattedPrice": "¥15.00",
           "inAppPurchases": {}
         }
       ]

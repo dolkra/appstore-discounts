@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1618663548,
+    name: {
+      pt: 'swimstats live',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1583113291,
     name: {
       pt: 'IRFSpro',
