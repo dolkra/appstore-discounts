@@ -38,10 +38,10 @@ export default function parseInAppPurchases(props: ParseInAppPurchasesProps) {
     return res
   }
 
-  const pElement = $('p.attributes')
+  const pElement = $('p.attributes').last()
 
   const [pagePrice, pageInAppPurchasesText] = (
-    pElement?.text()?.trim()?.split(' · ') || []
+    pElement?.text()?.trim()?.split('·') || []
   ).map((item) => item.trim())
 
   if (formattedPrice !== pagePrice) {
