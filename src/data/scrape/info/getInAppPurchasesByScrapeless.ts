@@ -1,8 +1,6 @@
 import { Scrapeless } from '@scrapeless-ai/sdk'
-import { load } from 'cheerio'
-import { isEmpty } from 'lodash'
 import chalk from 'chalk'
-import { regionInAppPurchasesTextMap } from '../../../../appinfo.config'
+import parseInAppPurchases from './parseInAppPurchases'
 
 export const SCRAPELESS_TOKEN = process.env.SCRAPELESS_TOKEN
 
@@ -19,8 +17,8 @@ export default async function getInAppPurchasesByScrapeless(
   times = 1,
 ): Promise<AppInfo['inAppPurchases']> {
   console.log(log)
-  const { trackViewUrl, formattedPrice, trackName } = appInfo
-  const inAppPurchases: AppInfo['inAppPurchases'] = {}
+  const { trackViewUrl } = appInfo
+  let inAppPurchasesRes: AppInfo['inAppPurchases'] = {}
   const url = `${trackViewUrl}${
     trackViewUrl.includes('?') ? '&' : '?'
   }timestamp=${Date.now()}`
@@ -28,7 +26,7 @@ export default async function getInAppPurchasesByScrapeless(
   function retry() {
     if (times > IN_APP_PURCHASE_MAX_TIMES) {
       console.log(chalk.red(log))
-      return inAppPurchases
+      return inAppPurchasesRes
     }
     return new Promise<AppInfo['inAppPurchases']>((resolve) => {
       setTimeout(() => {
@@ -51,52 +49,21 @@ export default async function getInAppPurchasesByScrapeless(
       },
     })
 
-    const $ = load(tempRes)
-
-    const inAppPurchasesText = regionInAppPurchasesTextMap[region]
-
-    $('.information-list__item').each((index, element) => {
-      const title = $(element).find('dt').text().trim()
-      if (title === inAppPurchasesText) {
-        $(element)
-          .find('.list-with-numbers__item')
-          .each((i, item) => {
-            const name = $(item)
-              .find('.list-with-numbers__item__title span')
-              .text()
-              .trim()
-            const price = $(item)
-              .find('.list-with-numbers__item__price')
-              .text()
-              .trim()
-
-            if (name && price) {
-              inAppPurchases[name] = price
-            }
-          })
-      }
+    const {
+      inAppPurchases,
+      isPriceNotEqual,
+      inAppPurchasesError,
+      isPriceEmpty,
+    } = parseInAppPurchases({
+      appInfo,
+      region,
+      htmlContent: tempRes,
+      log,
     })
-    const price = $('.app-header__list__item--price')?.text()?.trim?.()
-    const inAppPurchaseElementText = $(
-      '.app-header__list__item--in-app-purchase',
-    )?.text?.()
-    const isPriceNotEqual = formattedPrice !== price
-    const inAppPurchasesError =
-      inAppPurchaseElementText && isEmpty(inAppPurchases)
 
-    if (isPriceNotEqual) {
-      console.error(
-        `${log}【${trackName}】appInfo price(${formattedPrice}) !== pageInfo price(${price})`,
-      )
-    }
+    inAppPurchasesRes = inAppPurchases
 
-    if (inAppPurchasesError) {
-      console.error(
-        `${log}【${trackName}】is In-App purchase，but can't get relate info`,
-      )
-    }
-
-    if ((isPriceNotEqual && isEmpty(price)) || inAppPurchasesError) {
+    if ((isPriceNotEqual && isPriceEmpty) || inAppPurchasesError) {
       return retry()
     }
   } catch (error) {
@@ -104,5 +71,5 @@ export default async function getInAppPurchasesByScrapeless(
     return retry()
   }
 
-  return inAppPurchases
+  return inAppPurchasesRes
 }

@@ -23,10 +23,10 @@ export const getRegionNameMap = (tProp?: Translate) => {
  * 文本内容一定要对得上，不然获取不到应用的内购信息
  */
 export const regionInAppPurchasesTextMap: Record<Region, string> = {
-  cn: 'App 内购买项目',
-  hk: 'App 內購買項目',
-  mo: 'App 內購買項目',
-  tw: 'App 內購買',
+  cn: 'App内购买',
+  hk: 'App 內購買',
+  mo: 'App 內購買',
+  tw: 'App內購買',
   us: 'In-App Purchases',
   tr: `In-App Purchases`,
   pt: 'Compras integradas',

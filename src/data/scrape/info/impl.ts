@@ -1,8 +1,6 @@
 import nodeFetch from 'node-fetch'
-import { load } from 'cheerio'
-import { isEmpty } from 'lodash'
 import chalk from 'chalk'
-import { regionInAppPurchasesTextMap } from '../../../../appinfo.config'
+import parseInAppPurchases from './parseInAppPurchases'
 
 const IN_APP_PURCHASE_MAX_TIMES = 50
 
@@ -33,8 +31,8 @@ export async function getInAppPurchases(
   times = 1,
 ): Promise<AppInfo['inAppPurchases']> {
   console.log(log)
-  const { trackViewUrl, formattedPrice, trackName } = appInfo
-  const inAppPurchases: AppInfo['inAppPurchases'] = {}
+  const { trackViewUrl } = appInfo
+  let inAppPurchasesRes: AppInfo['inAppPurchases'] = {}
   const url = `${trackViewUrl}${
     trackViewUrl.includes('?') ? '&' : '?'
   }timestamp=${Date.now()}`
@@ -42,7 +40,7 @@ export async function getInAppPurchases(
   function retry() {
     if (times > IN_APP_PURCHASE_MAX_TIMES) {
       console.log(chalk.red(log))
-      return inAppPurchases
+      return inAppPurchasesRes
     }
     return new Promise<AppInfo['inAppPurchases']>((resolve) => {
       setTimeout(() => {
@@ -59,52 +57,21 @@ export async function getInAppPurchases(
       },
     }).then((res) => res.text())) as string
 
-    const $ = load(tempRes)
-
-    const inAppPurchasesText = regionInAppPurchasesTextMap[region]
-
-    $('.information-list__item').each((index, element) => {
-      const title = $(element).find('dt').text().trim()
-      if (title === inAppPurchasesText) {
-        $(element)
-          .find('.list-with-numbers__item')
-          .each((i, item) => {
-            const name = $(item)
-              .find('.list-with-numbers__item__title span')
-              .text()
-              .trim()
-            const price = $(item)
-              .find('.list-with-numbers__item__price')
-              .text()
-              .trim()
-
-            if (name && price) {
-              inAppPurchases[name] = price
-            }
-          })
-      }
+    const {
+      inAppPurchases,
+      isPriceNotEqual,
+      inAppPurchasesError,
+      isPriceEmpty,
+    } = parseInAppPurchases({
+      appInfo,
+      region,
+      htmlContent: tempRes,
+      log,
     })
-    const price = $('.app-header__list__item--price')?.text()?.trim?.()
-    const inAppPurchaseElementText = $(
-      '.app-header__list__item--in-app-purchase',
-    )?.text?.()
-    const isPriceNotEqual = formattedPrice !== price
-    const inAppPurchasesError =
-      inAppPurchaseElementText && isEmpty(inAppPurchases)
 
-    if (isPriceNotEqual) {
-      console.error(
-        `${log}【${trackName}】appInfo price(${formattedPrice}) !== pageInfo price(${price})`,
-      )
-    }
+    inAppPurchasesRes = inAppPurchases
 
-    if (inAppPurchasesError) {
-      console.error(
-        `${log}【${trackName}】is In-App purchase，but can't get relate info`,
-      )
-    }
-
-    if ((isPriceNotEqual && isEmpty(price)) || inAppPurchasesError) {
+    if ((isPriceNotEqual && isPriceEmpty) || inAppPurchasesError) {
       return retry()
     }
   } catch (error) {
@@ -112,7 +79,7 @@ export async function getInAppPurchases(
     return retry()
   }
 
-  return inAppPurchases
+  return inAppPurchasesRes
 }
 
 export async function getAppInfo(
