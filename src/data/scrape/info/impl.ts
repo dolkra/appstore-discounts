@@ -57,21 +57,17 @@ export async function getInAppPurchases(
       },
     }).then((res) => res.text())) as string
 
-    const {
-      inAppPurchases,
-      isPriceNotEqual,
-      inAppPurchasesError,
-      isPriceEmpty,
-    } = parseInAppPurchases({
+    const { inAppPurchases, needRetry } = parseInAppPurchases({
       appInfo,
       region,
       htmlContent: tempRes,
       log,
+      times,
     })
 
     inAppPurchasesRes = inAppPurchases
 
-    if ((isPriceNotEqual && isPriceEmpty) || inAppPurchasesError) {
+    if (needRetry) {
       return retry()
     }
   } catch (error) {

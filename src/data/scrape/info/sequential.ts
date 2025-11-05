@@ -20,7 +20,7 @@ export default async function getRegionAppInfo(
         const inAppPurchases = await getInAppPurchases(
           appInfo,
           region,
-          `${label}【${j + 1}/${appInfos.length}】${appInfo.trackName}`,
+          `${label}【${j + 1}/${appInfos.length}】【${appInfo.trackName}】`,
         )
 
         newAppInfos.push({

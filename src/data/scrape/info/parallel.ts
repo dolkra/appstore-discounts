@@ -41,7 +41,7 @@ export default async function getRegionAppInfo(
               : getInAppPurchases)(
               appInfo,
               region,
-              `${label}【${j + 1}/${appInfos.length}】${appInfo.trackName}`,
+              `${label}【${j + 1}/${appInfos.length}】【${appInfo.trackName}】`,
             ),
           ),
         ),

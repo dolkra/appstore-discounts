@@ -1,60 +1,61 @@
 import { regionInAppPurchasesTextMap } from 'appinfo.config'
 import { load } from 'cheerio'
-import { isEmpty } from 'lodash'
+import { isEmpty, pick } from 'lodash'
+import chalk from 'chalk'
 
 export type ParseInAppPurchasesProps = {
   appInfo: RequestAppInfo
   region: Region
   htmlContent: string
   log: string
+  times: number
 }
 
-export default function parseInAppPurchases(props: ParseInAppPurchasesProps) {
-  const { appInfo, htmlContent, region, log } = props
+export type ParseInAppPurchasesReturnType = {
+  needRetry: boolean
+  inAppPurchases: AppInfo['inAppPurchases']
+}
 
-  const { formattedPrice, trackName } = appInfo
+export default function parseInAppPurchases(
+  props: ParseInAppPurchasesProps,
+): ParseInAppPurchasesReturnType {
+  const { htmlContent, region, log, times } = props
 
   const inAppPurchasesText = regionInAppPurchasesTextMap[region]
 
   const $ = load(htmlContent)
 
-  const inAppPurchasesElement = $('#information').find(
-    `dt:contains("${inAppPurchasesText}")`,
-  )
-
   const inAppPurchases: AppInfo['inAppPurchases'] = {}
-  let isPriceNotEqual = false
+  let informationLoadError = false
   let inAppPurchasesError = false
-  let isPriceEmpty = false
+
+  const timesLog = chalk.red(`【x${times}】`)
 
   const getReturn = () => {
     const res = {
       inAppPurchases,
-      isPriceNotEqual,
+      informationLoadError,
       inAppPurchasesError,
-      isPriceEmpty,
+      needRetry: informationLoadError || inAppPurchasesError,
     }
 
-    return res
+    return pick(res, [
+      'needRetry',
+      'inAppPurchases',
+    ]) as ParseInAppPurchasesReturnType
   }
 
-  const pElement = $('p.attributes').last()
+  const informationElement = $('#information')
 
-  const [pagePrice, pageInAppPurchasesText] = (
-    pElement?.text()?.trim()?.split('·') || []
-  ).map((item) => item.trim())
-
-  if (formattedPrice !== pagePrice) {
-    isPriceNotEqual = true
-    console.error(
-      `${log}【${trackName}】appInfo price(${formattedPrice}) !== pageInfo price(${pagePrice})`,
-    )
-    if (isEmpty(pagePrice)) {
-      isPriceEmpty = true
-    }
+  if (!informationElement?.html()) {
+    informationLoadError = true
+    console.error(`${log}${timesLog}can't load \`information\` element`)
     return getReturn()
   }
 
+  const inAppPurchasesElement = $(informationElement).find(
+    `dt:contains("${inAppPurchasesText}")`,
+  )
   inAppPurchasesElement
     ?.parent?.()
     ?.find?.('div.text-pair')
@@ -80,7 +81,7 @@ export default function parseInAppPurchases(props: ParseInAppPurchasesProps) {
   if (inAppPurchasesElement?.html() && isEmpty(inAppPurchases)) {
     inAppPurchasesError = true
     console.error(
-      `${log}【${trackName}】is In-App purchase，but can't get relate info`,
+      `${log}${timesLog}is In-App purchase，but can't get relate info`,
     )
   }
 
