@@ -72,6 +72,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 982457990,
+    name: {
+      mo: '求生無限-無限流大冒險',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6751413449,
+    name: {
+      tw: 'Keep on Mining!',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6478566840,
     name: {
       mo: 'Magic Research 2',

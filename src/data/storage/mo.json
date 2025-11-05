@@ -25423,7 +25423,8 @@
       "Under The Tree Deck": "USD 0.99",
       "Outdoor Bundle Sale": "USD 2.99",
       "Animal Bundle Sale": "USD 3.99",
-      "Holiday Bundle 2025 Sale": "USD 6.99"
+      "Holiday Bundle 2025 Sale": "USD 6.99",
+      "Greatest Hits Vol. 1": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -25494,9 +25495,29 @@
       "Under The Tree Deck": "USD 0.99",
       "Outdoor Bundle Sale": "USD 2.99",
       "Animal Bundle Sale": "USD 3.99",
-      "Holiday Bundle 2025 Sale": "USD 6.99"
+      "Holiday Bundle 2025 Sale": "USD 6.99",
+      "Greatest Hits Vol. 1": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Greatest Hits Vol. 1": "USD 9.99",
+            "Just For Kids": "USD 0.00",
+            "Mix It Up": "USD 0.00",
+            "Happy Holidays": "USD 1.99",
+            "Build Your Own Deck": "USD 2.99",
+            "Super Heroes": "USD 1.99",
+            "The Ellen Show": "USD 0.00",
+            "Panda Express": "USD 1.99",
+            "Ocean Vacation": "USD 0.00",
+            "Express Yourself": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761685888191,
@@ -27568,6 +27589,14 @@
       "formattedPrice": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761747191228,
@@ -30819,7 +30848,7 @@
     ]
   },
   "768160271": {
-    "name": "航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店",
+    "name": "航旅纵横PRO-民航官方直销平台",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
@@ -32910,7 +32939,8 @@
       "Generous Tip": "USD 2.99",
       "Kind Tip": "USD 0.99",
       "Challenges Expansion": "USD 1.99",
-      "One Year of BG Stats Cloud Sync": "USD 0.99"
+      "One Year of BG Stats Cloud Sync": "USD 0.99",
+      "Power Expansion": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -32922,9 +32952,28 @@
       "Generous Tip": "USD 2.99",
       "Kind Tip": "USD 0.99",
       "Challenges Expansion": "USD 1.99",
-      "One Year of BG Stats Cloud Sync": "USD 0.99"
+      "One Year of BG Stats Cloud Sync": "USD 0.99",
+      "Power Expansion": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Deep Stats expansion": "USD 2.99",
+            "Power Expansion": "USD 4.99",
+            "Mind-blowing Tip": "USD 12.99",
+            "Tagging expansion": "USD 2.99",
+            "Amazing Tip": "USD 5.99",
+            "Generous Tip": "USD 2.99",
+            "Kind Tip": "USD 0.99",
+            "Challenges Expansion": "USD 1.99",
+            "One Year of BG Stats Cloud Sync": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761736291446,
@@ -38312,6 +38361,25 @@
     "history": [
       [
         {
+          "timestamp": 1762313071665,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "永久金紫会员": "USD 39.99",
+            "下载次数": "USD 0.99",
+            "金紫会员永久": "USD 39.99",
+            "金紫会员6个月": "USD 6.99",
+            "金紫会员12个月": "USD 11.99",
+            "金紫会员1个月": "USD 1.99",
+            "纯净模式永久": "USD 29.99",
+            "纯净模式12个月": "USD 7.49",
+            "纯净模式6个月": "USD 4.49",
+            "纯净模式1个月": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761891557302,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -38835,6 +38903,49 @@
           "formattedPrice": "USD 1.99",
           "inAppPurchases": {
             "The Little Ones": "USD 1.99"
+          }
+        }
+      ]
+    ]
+  },
+  "982457990": {
+    "name": "求生無限-無限流大冒險",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "積分包 Ⅱ": "USD 4.99",
+      "積分包 I": "USD 0.99",
+      "積分包 Ⅵ": "USD 99.99",
+      "積分包 Ⅴ": "USD 39.99",
+      "積分包 Ⅳ": "USD 19.99",
+      "積分包 Ⅲ": "USD 9.99",
+      "雙倍積分包": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29",
+      "積分包 Ⅱ": "USD 4.99",
+      "積分包 I": "USD 0.99",
+      "積分包 Ⅵ": "USD 99.99",
+      "積分包 Ⅴ": "USD 39.99",
+      "積分包 Ⅳ": "USD 19.99",
+      "積分包 Ⅲ": "USD 9.99",
+      "雙倍積分包": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "積分包 Ⅱ": "USD 4.99",
+            "積分包 I": "USD 0.99",
+            "積分包 Ⅵ": "USD 99.99",
+            "積分包 Ⅴ": "USD 39.99",
+            "積分包 Ⅳ": "USD 19.99",
+            "積分包 Ⅲ": "USD 9.99",
+            "雙倍積分包": "USD 1.99"
           }
         }
       ]
@@ -49133,14 +49244,22 @@
   "1137257203": {
     "name": "Namaz Vakti Pro (Reklamsız)",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -49233,6 +49352,14 @@
       "Map Tracer Pro Monthly Sub": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759518572700,
@@ -54774,6 +54901,14 @@
       "iTHUMP - CUPP Interface": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760941181671,
@@ -71029,6 +71164,14 @@
       "formattedPrice": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 6.29,
+          "formattedPrice": "USD 6.29",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761142428049,
@@ -92601,6 +92744,14 @@
     "history": [
       [
         {
+          "timestamp": 1762313071665,
+          "price": 7.79,
+          "formattedPrice": "USD 7.79",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1761142428049,
           "price": 1.39,
           "formattedPrice": "USD 1.39",
@@ -105731,6 +105882,18 @@
     "history": [
       [
         {
+          "timestamp": 1762313071665,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "USD 11.99",
+            "Dumb Phone Plus Lifetime": "USD 29.99",
+            "Dumb Phone Plus Monthly": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1755699169767,
           "price": 0,
           "formattedPrice": "免費",
@@ -108271,6 +108434,14 @@
     "history": [
       [
         {
+          "timestamp": 1762313071665,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1758345071488,
           "price": 0.49,
           "formattedPrice": "USD 0.49",
@@ -109413,13 +109584,25 @@
     "name": "小易决策-选择困难小救星",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Pro(终身免费)": "USD 0.00"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Pro(终身免费)": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Pro(终身免费)": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1759695115666,
@@ -109840,6 +110023,17 @@
     "history": [
       [
         {
+          "timestamp": 1762313071665,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "石器起源：復古冒險": "USD 2.99",
+            "Diamonds": "USD 28.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762067469213,
           "inAppPurchases": {}
         },
@@ -109974,6 +110168,27 @@
           "timestamp": 1762157920735,
           "price": 4.69,
           "formattedPrice": "USD 4.69",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6751413449": {
+    "name": "Keep on Mining!",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762313071665,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]

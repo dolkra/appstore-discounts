@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1503` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1505` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1505|982457990|Automatic|❌|求生無限-無限流大冒險|求生無限-無限流大冒險|求生無限-無限流大冒險|求生无限: 无限流角色扮演大冒险|❌|❌|
+|1504|6751413449|Automatic|❌|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|
 |1503|6478566840|Automatic|❌|Magic Research 2|Magic Research 2|Magic Research 2|Magic Research 2|Magic Research 2|Magic Research 2|
 |1502|1618663548|Automatic|swimstats live|swimstats live|swimstats live|swimstats live|swimstats live|swimstats live|swimstats live|
 |1501|1583113291|Automatic|❌|❌|❌|❌|❌|❌|IRFSpro|
@@ -1451,7 +1453,7 @@ So far, we've covered `7` `Countries or Regions` and  `1503` `Apps` <br />Push n
 |62| ~~866450515~~ |Manual| ~~Forest 专注森林 - 番茄钟学习计时器~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest 專注森林 - 讀書專注番茄鐘~~ | ~~Forest: Focus for Productivity~~ | ~~Forest: Focus for Productivity~~ | ~~❌~~ |
 |61|1600873673|Manual|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|炭炭背单词｜四六级考研等英语单词学习|❌|❌|❌|❌|
 |60| ~~388624839~~ |Manual| ~~扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner+~~ | ~~CamScanner + | OCR Scanner~~ | ~~CamScanner + | PDF Scanner~~ | ~~❌~~ |
-|59|768160271|Manual|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|航旅纵横PRO-民航官方直销平台值机火车票接送机免税酒店|
+|59|768160271|Manual|航旅纵横PRO-民航官方直销平台|航旅纵横PRO-民航官方直销平台|航旅纵横PRO-民航官方直销平台|航旅纵横PRO-民航官方直销平台|航旅纵横PRO-民航官方直销平台|航旅纵横PRO-民航官方直销平台|航旅纵横PRO-民航官方直销平台|
 |58|1439723850|Manual|时间规划局 - 倒计时与提醒事项|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|Countdown! Reminders and Timer|
 |57|6447023668|Manual|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|爱韩剧 - 韩剧TV大全|❌|
 |56|6468843723|Manual|❌|GTA III – Definitive|GTA III – Definitive|GTA III – Definitive|GTA III – Definitive|GTA III – Definitive|GTA III – Definitive|
