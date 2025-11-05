@@ -27,7 +27,7 @@ const { t: initT } = initI18n({
 
 Object.defineProperty(global, 't', {
   get() {
-    return t
+    return initT
   },
 })
 

@@ -24,12 +24,17 @@ function getUrl(appIds: Array<string | number>, region: Region) {
   return url
 }
 
+export type GetInAppPurchasesResult = {
+  inAppPurchases: AppInfo['inAppPurchases']
+  times: number
+}
+
 export async function getInAppPurchases(
   appInfo: RequestAppInfo,
   region: Region,
   log: string,
   times = 1,
-): Promise<AppInfo['inAppPurchases']> {
+): Promise<GetInAppPurchasesResult> {
   console.log(log)
   const { trackViewUrl } = appInfo
   let inAppPurchasesRes: AppInfo['inAppPurchases'] = {}
@@ -40,9 +45,12 @@ export async function getInAppPurchases(
   function retry() {
     if (times > IN_APP_PURCHASE_MAX_TIMES) {
       console.log(chalk.red(log))
-      return inAppPurchasesRes
+      return {
+        inAppPurchases: inAppPurchasesRes,
+        times,
+      }
     }
-    return new Promise<AppInfo['inAppPurchases']>((resolve) => {
+    return new Promise<GetInAppPurchasesResult>((resolve) => {
       setTimeout(() => {
         resolve(getInAppPurchases(appInfo, region, log, times + 1))
       }, 1000)
@@ -75,7 +83,10 @@ export async function getInAppPurchases(
     return retry()
   }
 
-  return inAppPurchasesRes
+  return {
+    inAppPurchases: inAppPurchasesRes,
+    times,
+  }
 }
 
 export async function getAppInfo(

@@ -67,13 +67,17 @@ declare global {
 
   type AppInfo = RequestAppInfo & {
     inAppPurchases: Record<string, string>
+    inAppPurchasesTimes: number
   }
 
   type RegionAppInfo = Partial<Record<Region, AppInfo[]>>
 
   type TimeStorageAppInfo = {
     timestamp: number
-  } & Pick<AppInfo, 'price' | 'formattedPrice' | 'inAppPurchases'>
+  } & Pick<
+    AppInfo,
+    'price' | 'formattedPrice' | 'inAppPurchases' | 'inAppPurchasesTimes'
+  >
 
   type DateStorageAppInfo = TimeStorageAppInfo[]
 
@@ -238,4 +242,12 @@ declare global {
   }
 
   type Sponsors = TypeSponsors[]
+
+  type LogInfo = {
+    timestamp: number
+    regionAppInfo: Record<
+      Region,
+      Array<Pick<AppInfo, 'trackId' | 'trackName' | 'inAppPurchasesTimes'>>
+    >
+  }
 }

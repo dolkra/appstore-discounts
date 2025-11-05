@@ -10,6 +10,7 @@ import pushTelegramNotification from './telegram'
 // import updateIpCounter from './ip'
 import pushDingTalkNotification from './dingtalk'
 import updateAppInfoConfig from './config'
+import updateLog from './log'
 
 async function controller() {
   start('controller')
@@ -56,6 +57,11 @@ async function controller() {
   await pushTelegramNotification(regionDiscountInfo)
 
   await pushDingTalkNotification(regionDiscountInfo)
+
+  updateLog({
+    timestamp,
+    regionAppInfo,
+  })
 
   end('controller')
   summarize()
