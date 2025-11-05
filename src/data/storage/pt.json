@@ -10946,6 +10946,31 @@
       ]
     ]
   },
+  "1020967894": {
+    "name": "GPS Diagnostic: Teste Satélite",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Coordinates Pro": "0,00 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Coordinates Pro": "0,00 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762338071697,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Coordinates Pro": "0,00 €"
+          }
+        }
+      ]
+    ]
+  },
   "1021566244": {
     "name": "FINAL FANTASY VII",
     "maxPriceInfo": {
@@ -22883,7 +22908,9 @@
       "Xerife de Pedrareia": "0,99 €",
       "Pijaminha Confortável": "0,99 €",
       "Gesto Despreocupado": "0,99 €",
-      "Inocente Memória": "0,99 €"
+      "Inocente Memória": "0,99 €",
+      "Elegância Azul": "0,99 €",
+      "Paixão Country": "0,99 €"
     },
     "minPriceInfo": {
       "price": 8.99,
@@ -22897,9 +22924,30 @@
       "Xerife de Pedrareia": "0,99 €",
       "Pijaminha Confortável": "0,99 €",
       "Gesto Despreocupado": "0,99 €",
-      "Inocente Memória": "0,99 €"
+      "Inocente Memória": "0,99 €",
+      "Elegância Azul": "0,99 €",
+      "Paixão Country": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762338071697,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Drip Extra": "0,99 €",
+            "Futurista": "0,99 €",
+            "Xerife de Pedrareia": "0,99 €",
+            "Pijaminha Confortável": "0,99 €",
+            "Coração Errante": "0,99 €",
+            "Gesto Despreocupado": "0,99 €",
+            "Asseio Listrado": "0,99 €",
+            "Inocente Memória": "0,99 €",
+            "Elegância Azul": "0,99 €",
+            "Paixão Country": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -28833,10 +28881,18 @@
       "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762338071697,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

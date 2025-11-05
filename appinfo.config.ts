@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1020967894,
+    name: {
+      mo: 'GPS診斷 - 衛星測試工具和坐標',
+    },
+    addType: 'auto',
+  },
+  {
     id: 982457990,
     name: {
       mo: '求生無限-無限流大冒險',
