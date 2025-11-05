@@ -16,7 +16,7 @@ export default async function getInAppPurchasesByScrapeless(
   log: string,
   times = 1,
 ): Promise<AppInfo['inAppPurchases']> {
-  console.log(log)
+  console.log(log + 'by scrapeless')
   const { trackViewUrl } = appInfo
   let inAppPurchasesRes: AppInfo['inAppPurchases'] = {}
   const url = `${trackViewUrl}${
