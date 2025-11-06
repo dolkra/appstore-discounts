@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1506` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1507` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1507|911208088|Automatic|❌|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|DRAGON QUEST III|
 |1506|1020967894|Automatic|GPS诊断 - 卫星测试工具和坐标|GPS診斷 - 衛星測試工具和坐標|GPS診斷 - 衛星測試工具和坐標|GPS診斷 - 衛星測試工具和坐標|GPS Diagnostic: Satellite Test|GPS Diagnostic: Satellite Test|GPS Diagnostic: Teste Satélite|
 |1505|982457990|Automatic|❌|求生無限-無限流大冒險|求生無限-無限流大冒險|求生無限-無限流大冒險|求生无限: 无限流角色扮演大冒险|❌|❌|
 |1504|6751413449|Automatic|❌|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|Keep on Mining!|

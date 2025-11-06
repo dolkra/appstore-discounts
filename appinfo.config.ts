@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 911208088,
+    name: {
+      mo: 'DRAGON QUEST III',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1020967894,
     name: {
       mo: 'GPS診斷 - 衛星測試工具和坐標',
