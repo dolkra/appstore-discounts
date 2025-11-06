@@ -28,8 +28,9 @@ function saveRegionDiscountInfo(regionDiscountInfo: LogInfo[]) {
 export default function getLastLogInfo(props: {
   timestamp: number
   regionAppInfo: RegionAppInfo
+  duration: string
 }): LogInfo[] {
-  const { timestamp, regionAppInfo } = props
+  const { timestamp, regionAppInfo, duration } = props
 
   const logInfo: LogInfo = {
     timestamp,
@@ -37,13 +38,19 @@ export default function getLastLogInfo(props: {
       (res, [region, discountInfo]) => {
         const appInfo = discountInfo
           .reduce((appInfoRes, appInfo) => {
-            const { trackId, trackName, inAppPurchasesTimes } = appInfo
+            const {
+              trackId,
+              trackName,
+              inAppPurchasesTimes,
+              inAppPurchasesFailed,
+            } = appInfo
 
             if (inAppPurchasesTimes > 1) {
               appInfoRes.push({
                 trackId,
                 trackName,
                 inAppPurchasesTimes,
+                inAppPurchasesFailed,
               })
             }
 
@@ -55,6 +62,14 @@ export default function getLastLogInfo(props: {
         return res
       },
       {} as LogInfo['regionAppInfo'],
+    ),
+    duration,
+    regionAppCount: Object.entries(regionAppInfo).reduce(
+      (res, [region, appInfo]) => {
+        res[region] = appInfo.length
+        return res
+      },
+      {} as LogInfo['regionAppCount'],
     ),
   }
   const existingInfo = readLogInfo()

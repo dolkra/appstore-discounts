@@ -42,11 +42,12 @@ export default async function getRegionAppInfo(
         ),
       )
       res[region] = appInfos.reduce((res, appInfo, j) => {
-        const { inAppPurchases, times } = inAppPurchasesArr[j]
+        const { inAppPurchases, times, failed } = inAppPurchasesArr[j]
         res.push({
           ...appInfo,
           inAppPurchases,
           inAppPurchasesTimes: times,
+          inAppPurchasesFailed: failed,
         })
         return res
       }, [] as AppInfo[])

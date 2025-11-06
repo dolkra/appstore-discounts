@@ -58,13 +58,15 @@ async function controller() {
 
   await pushDingTalkNotification(regionDiscountInfo)
 
+  end('controller')
+
+  const sum = summarize()
+
   updateLog({
     timestamp,
     regionAppInfo,
+    duration: sum['controller'],
   })
-
-  end('controller')
-  summarize()
 }
 
 controller()

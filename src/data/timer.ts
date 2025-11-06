@@ -1,6 +1,6 @@
 import { isEmpty } from 'lodash'
 
-let state: Record<
+const state: Record<
   string,
   {
     start: number
@@ -62,9 +62,13 @@ function getDistance(start: number, end: number) {
 }
 
 function summarize() {
-  Object.entries(state).forEach(([key, time]) => {
+  const sum = Object.entries(state).reduce((res, [key, time]) => {
+    res[key] = getDistance(time.start, time.end)
     console.info(`${key} 耗时：${getDistance(time.start, time.end)}`)
-  })
+    return res
+  }, {})
+
+  return sum as Record<string, string>
 }
 
 export { start, end, summarize }

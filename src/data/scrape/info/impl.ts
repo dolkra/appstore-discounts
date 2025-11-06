@@ -27,6 +27,7 @@ function getUrl(appIds: Array<string | number>, region: Region) {
 export type GetInAppPurchasesResult = {
   inAppPurchases: AppInfo['inAppPurchases']
   times: number
+  failed?: boolean
 }
 
 export async function getInAppPurchases(
@@ -43,11 +44,12 @@ export async function getInAppPurchases(
   }timestamp=${Date.now()}`
 
   function retry() {
-    if (times > IN_APP_PURCHASE_MAX_TIMES) {
-      console.log(chalk.red(log))
+    if (times >= IN_APP_PURCHASE_MAX_TIMES) {
+      console.log(chalk.red(log + ' failed'))
       return {
         inAppPurchases: inAppPurchasesRes,
         times,
+        failed: true,
       }
     }
     return new Promise<GetInAppPurchasesResult>((resolve) => {

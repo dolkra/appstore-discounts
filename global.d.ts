@@ -68,6 +68,7 @@ declare global {
   type AppInfo = RequestAppInfo & {
     inAppPurchases: Record<string, string>
     inAppPurchasesTimes: number
+    inAppPurchasesFailed?: boolean
   }
 
   type RegionAppInfo = Partial<Record<Region, AppInfo[]>>
@@ -247,7 +248,17 @@ declare global {
     timestamp: number
     regionAppInfo: Record<
       Region,
-      Array<Pick<AppInfo, 'trackId' | 'trackName' | 'inAppPurchasesTimes'>>
+      Array<
+        Pick<
+          AppInfo,
+          | 'trackId'
+          | 'trackName'
+          | 'inAppPurchasesTimes'
+          | 'inAppPurchasesFailed'
+        >
+      >
     >
+    duration: string
+    regionAppCount: Record<Region, number>
   }
 }
