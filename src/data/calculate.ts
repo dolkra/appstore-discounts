@@ -180,6 +180,9 @@ export default function calculateLatestRegionStorageAppInfoAndRegionDiscountsInf
             TimeStorageAppInfo,
             'timestamp'
           >),
+          inAppPurchases: appInfo.inAppPurchasesFailed
+            ? get(oldAppInfo, 'inAppPurchases', {})
+            : appInfo.inAppPurchases,
         }
         let maxPriceInfo = (currentStorageAppInfo?.maxPriceInfo ||
           {}) as PriceInfo
