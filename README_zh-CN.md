@@ -64,7 +64,7 @@
 ## 钉钉
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
 # 运行机制及流程
-本项目基于 `GitHub Actions` 定时任务（每 `60` 分钟）自动执行以下流程：
+本项目基于 `GitHub Actions` 定时任务（每 `120` 分钟）自动执行以下流程：
 1. 获取付费排行榜应用信息
 2. 更新跟踪应用列表
 3. 获取应用最新价格信息

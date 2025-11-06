@@ -72,6 +72,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6747080984,
+    name: {
+      hk: 'Trigramly',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6449265626,
+    name: {
+      pt: 'Groic : Listen music togther',
+    },
+    addType: 'auto',
+  },
+  {
     id: 911208088,
     name: {
       mo: 'DRAGON QUEST III',

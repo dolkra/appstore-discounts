@@ -4405,7 +4405,13 @@
       "Boeing 747 Jumbo Jet": "2,99 €",
       "RC Transformer": "2,99 €",
       "Race Car": "2,99 €",
-      "Lego Car": "2,99 €"
+      "Lego Car": "2,99 €",
+      "XB-70 Valkirie": "2,99 €",
+      "BVM King Cat": "2,99 €",
+      "B17 Flying Fortress": "2,99 €",
+      "A6M Zero": "2,99 €",
+      "P-47 Thunderbolt": "2,99 €",
+      "Curtiss P-40 Warhawk": "2,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -4419,9 +4425,34 @@
       "Boeing 747 Jumbo Jet": "2,99 €",
       "RC Transformer": "2,99 €",
       "Race Car": "2,99 €",
-      "Lego Car": "2,99 €"
+      "Lego Car": "2,99 €",
+      "XB-70 Valkirie": "2,99 €",
+      "BVM King Cat": "2,99 €",
+      "B17 Flying Fortress": "2,99 €",
+      "A6M Zero": "2,99 €",
+      "P-47 Thunderbolt": "2,99 €",
+      "Curtiss P-40 Warhawk": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762418022058,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "2,99 €",
+            "RC Transformer": "2,99 €",
+            "Race Car": "2,99 €",
+            "Lego Car": "2,99 €",
+            "XB-70 Valkirie": "2,99 €",
+            "BVM King Cat": "2,99 €",
+            "B17 Flying Fortress": "2,99 €",
+            "A6M Zero": "2,99 €",
+            "P-47 Thunderbolt": "2,99 €",
+            "Curtiss P-40 Warhawk": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -6331,6 +6362,23 @@
     "history": [
       [
         {
+          "timestamp": 1762418022058,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mix It Up": "0,00 €",
+            "The Ellen Show": "0,00 €",
+            "Happy Holidays": "1,99 €",
+            "Just For Kids": "0,00 €",
+            "Ellen Premiere Week in NYC": "1,99 €",
+            "Build Your Own Deck": "2,99 €",
+            "Good News!": "2,99 €",
+            "Ocean Vacation": "0,00 €",
+            "Wish You Were Here": "1,99 €",
+            "Express Yourself": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1762412068141,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -8196,6 +8244,23 @@
     "history": [
       [
         {
+          "timestamp": 1762418022058,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "$5 Crédito": "5,99 €",
+            "$10 Crédito": "9,99 €",
+            "1 Mo. texto globais": "3,99 €",
+            "1 Mo.texto Canadá": "2,99 €",
+            "6 Mo.texto Canadá": "9,99 €",
+            "12 Mo.texto globais": "29,99 €",
+            "12 Mo.texto Canadá": "19,99 €",
+            "1 Mo.Fongo Plus": "9,99 €",
+            "3 Mo.texto Canadá": "5,99 €",
+            "3 Mo.texto globais": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1762412068141,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -10033,6 +10098,23 @@
     "history": [
       [
         {
+          "timestamp": 1762418022058,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "永久金紫会员": "44,99 €",
+            "下载次数": "0,99 €",
+            "金紫会员永久": "44,99 €",
+            "金紫会员6个月": "7,99 €",
+            "金紫会员12个月": "12,99 €",
+            "金紫会员1个月": "1,99 €",
+            "纯净模式永久": "34,99 €",
+            "纯净模式12个月": "8,49 €",
+            "纯净模式6个月": "4,99 €",
+            "纯净模式1个月": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1762412068141,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -10466,6 +10548,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1762418022058,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "The Little Ones": "1,99 €"
+          }
+        },
         {
           "timestamp": 1762412068141,
           "price": 17.99,
@@ -24008,7 +24098,9 @@
       "Reyna skin": "0,99 €",
       "Purple menu color": "3,99 €",
       "Red menu color": "1,99 €",
-      "Yellow menu color": "0,99 €"
+      "Yellow menu color": "0,99 €",
+      "James character": "0,99 €",
+      "Elsa character": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -24022,9 +24114,30 @@
       "Reyna skin": "0,99 €",
       "Purple menu color": "3,99 €",
       "Red menu color": "1,99 €",
-      "Yellow menu color": "0,99 €"
+      "Yellow menu color": "0,99 €",
+      "James character": "0,99 €",
+      "Elsa character": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762418022058,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Daniel skin": "0,99 €",
+            "Reyna skin": "0,99 €",
+            "Jorge skin": "0,99 €",
+            "Gloria skin": "0,99 €",
+            "Purple menu color": "3,99 €",
+            "Red menu color": "1,99 €",
+            "Yellow menu color": "0,99 €",
+            "James character": "0,99 €",
+            "Lisa character": "0,00 €",
+            "Elsa character": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -26859,11 +26972,11 @@
   "1640627334": {
     "name": "Resident Evil Village for Mac",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
-      "Pacote de Expansão": "9,99 €",
-      "Cupom de Acesso Total": "1,99 €",
-      "Traje \"Street Wolf\"": "2,29 €"
+      "price": 39.99,
+      "formattedPrice": "39,99 €",
+      "Pacote de Expansão": "19,99 €",
+      "Cupom de Acesso Total": "4,99 €",
+      "Traje \"Street Wolf\"": "2,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -26873,6 +26986,18 @@
       "Traje \"Street Wolf\"": "2,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762418022058,
+          "price": 39.99,
+          "formattedPrice": "39,99 €",
+          "inAppPurchases": {
+            "Pacote de Expansão": "19,99 €",
+            "Cupom de Acesso Total": "4,99 €",
+            "Traje \"Street Wolf\"": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -34319,10 +34444,10 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Jogo base": "9,99 €",
-      "Cupom de Acesso Total": "1,99 €",
-      "Pacote de Expansão": "9,99 €",
-      "Traje \"Street Wolf\"": "2,29 €"
+      "Jogo base": "39,99 €",
+      "Cupom de Acesso Total": "4,99 €",
+      "Pacote de Expansão": "19,99 €",
+      "Traje \"Street Wolf\"": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -34333,6 +34458,19 @@
       "Traje \"Street Wolf\"": "2,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762418022058,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "39,99 €",
+            "Cupom de Acesso Total": "4,99 €",
+            "Pacote de Expansão": "19,99 €",
+            "Traje \"Street Wolf\"": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -34353,16 +34491,16 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Jogo base": "19,99 €",
+      "Jogo base": "69,99 €",
       "Caminhos Distintos": "9,99 €",
-      "Weapon Upgrade Ticket x1 (B)": "2,29 €",
-      "Weapon Upgrade Ticket x1 (A)": "2,29 €",
-      "Pacote de DLC Extra": "14,99 €",
+      "Weapon Upgrade Ticket x1 (B)": "2,99 €",
+      "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+      "Pacote de DLC Extra": "19,99 €",
       "Maleta: \"Ouro\"": "0,99 €",
-      "Weapon Upgrade Ticket x5 (A)": "7,49 €",
-      "Weapon Upgrade Ticket x3 (A)": "5,29 €",
-      "Weapon Upgrade Ticket x3 (D)": "5,29 €",
-      "Weapon Upgrade Ticket x3 (C)": "5,29 €"
+      "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+      "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+      "Weapon Upgrade Ticket x3 (D)": "6,99 €",
+      "Weapon Upgrade Ticket x3 (C)": "6,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -34379,6 +34517,25 @@
       "Weapon Upgrade Ticket x3 (C)": "5,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762418022058,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Maleta: \"Ouro\"": "0,99 €",
+            "Caminhos Distintos": "9,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (B)": "2,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (D)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (C)": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -34505,6 +34662,58 @@
           "price": 3.99,
           "formattedPrice": "3,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747080984": {
+    "name": "Trigramly",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762418022058,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449265626": {
+    "name": "Groic : Listen music togther",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Groic Pro Half-Yearly": "6,99 €",
+      "Groic Pro Monthly": "1,99 €",
+      "Groic Pro Yearly": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Groic Pro Half-Yearly": "6,99 €",
+      "Groic Pro Monthly": "1,99 €",
+      "Groic Pro Yearly": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762418022058,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Groic Pro Half-Yearly": "6,99 €",
+            "Groic Pro Monthly": "1,99 €",
+            "Groic Pro Yearly": "9,99 €"
+          }
         }
       ]
     ]
