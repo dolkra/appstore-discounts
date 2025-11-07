@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6747325233,
+    name: {
+      mo: '完蛋！我被美女包围了！2',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1346501102,
     name: {
       mo: 'FSNotes',
