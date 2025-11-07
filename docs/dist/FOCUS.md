@@ -712,7 +712,7 @@ So far, we've covered `7` `Countries or Regions` and  `1510` `Apps` <br />Push n
 |808|998437590|Automatic|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|
 |807|430388524|Automatic|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|Do! Spring Mint - To Do List|
 |806|592155900|Automatic|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|Wake up! Earthquake|
-|805|625274950|Automatic|漢語詞典繁體版|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|
+|805|625274950|Automatic|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|國語辭典|
 |804|998834675|Automatic|❌|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|Clouds & Sheep 2 Premium|
 |803|1232529101|Automatic|❌|歸家異途|歸家異途|歸家異途|Home Behind|Home Behind|Home Behind|
 |802|1573482724|Automatic|❌|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|Coffee Inc 2|
