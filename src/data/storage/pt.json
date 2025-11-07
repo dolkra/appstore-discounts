@@ -4865,7 +4865,17 @@
       "Pacote de expansão Gripe símia": "1,99 €",
       "Pacote de Praga das Sombras": "1,99 €",
       "Expansão Cura": "3,99 €",
-      "Desbloquear Trapaças": "9,99 €"
+      "Desbloquear Trapaças": "9,99 €",
+      "Procurement Director": "0,99 €",
+      "Disaster Manager": "0,99 €",
+      "Medical Coordinator": "0,99 €",
+      "Ethics Watchdog": "0,99 €",
+      "Chaos Engineer": "0,99 €",
+      "Economic Forecaster": "0,99 €",
+      "Situation Director": "0,99 €",
+      "Outreach Coordinator": "0,99 €",
+      "Fast Response EMTs": "0,99 €",
+      "Strategic Fundraiser": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -4880,9 +4890,38 @@
       "Pacote de expansão Gripe símia": "1,99 €",
       "Pacote de Praga das Sombras": "1,99 €",
       "Expansão Cura": "3,99 €",
-      "Desbloquear Trapaças": "9,99 €"
+      "Desbloquear Trapaças": "9,99 €",
+      "Procurement Director": "0,99 €",
+      "Disaster Manager": "0,99 €",
+      "Medical Coordinator": "0,99 €",
+      "Ethics Watchdog": "0,99 €",
+      "Chaos Engineer": "0,99 €",
+      "Economic Forecaster": "0,99 €",
+      "Situation Director": "0,99 €",
+      "Outreach Coordinator": "0,99 €",
+      "Fast Response EMTs": "0,99 €",
+      "Strategic Fundraiser": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762519983391,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Procurement Director": "0,99 €",
+            "Disaster Manager": "0,99 €",
+            "Medical Coordinator": "0,99 €",
+            "Ethics Watchdog": "0,99 €",
+            "Chaos Engineer": "0,99 €",
+            "Economic Forecaster": "0,99 €",
+            "Situation Director": "0,99 €",
+            "Outreach Coordinator": "0,99 €",
+            "Fast Response EMTs": "0,99 €",
+            "Strategic Fundraiser": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761894722407,
@@ -6286,6 +6325,24 @@
     "history": [
       [
         {
+          "timestamp": 1762519983391,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Saitam": "2,99 €",
+            "Bravosso": "5,99 €",
+            "Capitão Agulhanegra": "0,99 €",
+            "Sha'tra": "0,99 €",
+            "Nivus": "0,99 €",
+            "Pedreira": "0,99 €",
+            "Kahz": "2,99 €",
+            "Karkinos": "0,99 €",
+            "Grande pacote de heróis 2": "17,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762313071665,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -7450,7 +7507,17 @@
       "Sakuzyo Collection": "3,99 €",
       "Knight Iris": "3,99 €",
       "Cytus Selection Vol.1": "3,99 €",
-      "Brian Crain Collection": "3,99 €"
+      "Brian Crain Collection": "3,99 €",
+      "Rayark 12th Collection": "3,99 €",
+      "Ayatsugu_Otowa Collection": "3,99 €",
+      "Sherwin Collection": "3,99 €",
+      "Capchii Collection": "3,99 €",
+      "VII Bundle 06": "14,99 €",
+      "VII Bundle 05": "11,99 €",
+      "VII Bundle 03": "7,99 €",
+      "VII Bundle 02": "5,99 €",
+      "VII Bundle 04": "9,99 €",
+      "VII Bundle 01": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -7464,9 +7531,38 @@
       "Sakuzyo Collection": "3,99 €",
       "Knight Iris": "3,99 €",
       "Cytus Selection Vol.1": "3,99 €",
-      "Brian Crain Collection": "3,99 €"
+      "Brian Crain Collection": "3,99 €",
+      "Rayark 12th Collection": "3,99 €",
+      "Ayatsugu_Otowa Collection": "3,99 €",
+      "Sherwin Collection": "3,99 €",
+      "Capchii Collection": "3,99 €",
+      "VII Bundle 06": "14,99 €",
+      "VII Bundle 05": "11,99 €",
+      "VII Bundle 03": "7,99 €",
+      "VII Bundle 02": "5,99 €",
+      "VII Bundle 04": "9,99 €",
+      "VII Bundle 01": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762519983391,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Rayark 12th Collection": "3,99 €",
+            "Ayatsugu_Otowa Collection": "3,99 €",
+            "Sherwin Collection": "3,99 €",
+            "Capchii Collection": "3,99 €",
+            "VII Bundle 06": "14,99 €",
+            "VII Bundle 05": "11,99 €",
+            "VII Bundle 03": "7,99 €",
+            "VII Bundle 02": "5,99 €",
+            "VII Bundle 04": "9,99 €",
+            "VII Bundle 01": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -20550,7 +20646,11 @@
       "Paris, La Belle Epoque Board": "5,99 €",
       "New Premium+ Cthulhu Token": "9,99 €",
       "1935 Atlantic City": "7,99 €",
-      "Orient Express": "2,99 €"
+      "Orient Express": "2,99 €",
+      "Victorian London Obsidian Tokens": "11,99 €",
+      "Shining Obsidian Dice": "4,99 €",
+      "Shining Obsidian Bundle": "59,99 €",
+      "Forest Shining Obsidian Bundle": "11,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -20569,9 +20669,26 @@
       "Paris, La Belle Epoque Board": "5,99 €",
       "New Premium+ Cthulhu Token": "9,99 €",
       "1935 Atlantic City": "7,99 €",
-      "Orient Express": "2,99 €"
+      "Orient Express": "2,99 €",
+      "Victorian London Obsidian Tokens": "11,99 €",
+      "Shining Obsidian Dice": "4,99 €",
+      "Shining Obsidian Bundle": "59,99 €",
+      "Forest Shining Obsidian Bundle": "11,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762519983391,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Victorian London Obsidian Tokens": "11,99 €",
+            "Shining Obsidian Dice": "4,99 €",
+            "Shining Obsidian Bundle": "59,99 €",
+            "Forest Shining Obsidian Bundle": "11,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762412068141,
@@ -25338,6 +25455,25 @@
       "American All-Stars Car Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762519983391,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Content Bundle 2": "8,99 €",
+            "Reckless Car Pack": "2,99 €",
+            "Off-Road Car Pack": "2,99 €",
+            "Racing Heroes Car Pack": "2,99 €",
+            "Steel & Wheels Pack": "1,99 €",
+            "Goofy Roofs Pack": "0,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "American All-Stars Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762446905790,
