@@ -3525,7 +3525,8 @@
       "GOLD BAT": "17,99 €",
       "AllLevel_1up": "2,99 €",
       "EyeLevel_5up": "3,99 €",
-      "EyeLevel_1up": "0,99 €"
+      "EyeLevel_1up": "0,99 €",
+      "ContactLevel_1up": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -3539,9 +3540,29 @@
       "GOLD BAT": "17,99 €",
       "AllLevel_1up": "2,99 €",
       "EyeLevel_5up": "3,99 €",
-      "EyeLevel_1up": "0,99 €"
+      "EyeLevel_1up": "0,99 €",
+      "ContactLevel_1up": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762497487151,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "PowerLevel_1Up": "0,99 €",
+            "PowerLevel_5up": "3,99 €",
+            "ContactLevel_1up": "0,99 €",
+            "ContactLevel_5up": "3,99 €",
+            "EyeLevel_1up": "0,99 €",
+            "EyeLevel_5up": "3,99 €",
+            "AllLevel_1up": "2,99 €",
+            "AllLevel_5up": "9,99 €",
+            "GOLD BAT": "17,99 €",
+            "Called Shot 4": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
