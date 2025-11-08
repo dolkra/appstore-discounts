@@ -25,7 +25,7 @@
 |1496|1007346233|自动|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|
 |1495|530060483|自动|❌|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|
 |1494|666202151|自动|汇声绘影|汇声绘影 PRO|汇声绘影 PRO|汇声绘影 PRO|movieStudio PRO-Video Editor|vivaMovie PRO|movieStudio PRO-Video Editor|
-|1493|6752563564|自动|❌|石器懷舊服 - 1:1移植版|石器懷舊服 - 1:1移植版|石器懷舊服 - 1:1移植版|❌|❌|❌|
+|1493| ~~6752563564~~ |自动| ~~❌~~ | ~~石器懷舊服 - 1:1移植版~~ | ~~石器懷舊服 - 1:1移植版~~ | ~~石器懷舊服 - 1:1移植版~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1492|6753921107|自动|❌|❌|❌|❌|❌|❌|GestO|
 |1491|6753980946|自动|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|
 |1490|6702020560|自动|❌|Swiss Rounds|Swiss Rounds|Swiss Rounds|Swiss Rounds|Swiss Rounds|Swiss Rounds|

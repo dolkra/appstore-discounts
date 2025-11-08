@@ -25,7 +25,7 @@ So far, we've covered `7` `Countries or Regions` and  `1511` `Apps` <br />Push n
 |1496|1007346233|Automatic|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|
 |1495|530060483|Automatic|❌|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|
 |1494|666202151|Automatic|汇声绘影|汇声绘影 PRO|汇声绘影 PRO|汇声绘影 PRO|movieStudio PRO-Video Editor|vivaMovie PRO|movieStudio PRO-Video Editor|
-|1493|6752563564|Automatic|❌|石器懷舊服 - 1:1移植版|石器懷舊服 - 1:1移植版|石器懷舊服 - 1:1移植版|❌|❌|❌|
+|1493| ~~6752563564~~ |Automatic| ~~❌~~ | ~~石器懷舊服 - 1:1移植版~~ | ~~石器懷舊服 - 1:1移植版~~ | ~~石器懷舊服 - 1:1移植版~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1492|6753921107|Automatic|❌|❌|❌|❌|❌|❌|GestO|
 |1491|6753980946|Automatic|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|Urbexplore Portugal|
 |1490|6702020560|Automatic|❌|Swiss Rounds|Swiss Rounds|Swiss Rounds|Swiss Rounds|Swiss Rounds|Swiss Rounds|
