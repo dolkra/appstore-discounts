@@ -1,5 +1,6 @@
 import { start, end } from '../../timer'
-import { getInAppPurchases, getAppInfo } from './impl'
+import { getByFetch } from './getInAppPurchases'
+import getAppInfo from './getAppInfo'
 
 export default async function getRegionAppInfo(
   appIds: Array<string | number>,
@@ -17,15 +18,19 @@ export default async function getRegionAppInfo(
       const newAppInfos: AppInfo[] = []
       for (let j = 0; j < appInfos.length; j++) {
         const appInfo = appInfos[j]
-        const inAppPurchases = await getInAppPurchases(
+        const { inAppPurchases, times, failed } = await getByFetch({
           appInfo,
           region,
-          `${label}【${j + 1}/${appInfos.length}】【${appInfo.trackName}】`,
-        )
+          log: `${label}【${j + 1}/${appInfos.length}】【${
+            appInfo.trackName
+          }】`,
+        })
 
         newAppInfos.push({
           ...appInfo,
           inAppPurchases,
+          inAppPurchasesTimes: times,
+          inAppPurchasesFailed: failed,
         })
       }
       res[region] = newAppInfos

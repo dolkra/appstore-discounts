@@ -28,7 +28,10 @@ async function controller() {
 
   // await updateIpCounter()
 
-  const regionAppInfo = await getRegionAppInfo(appIds, regions)
+  const { regionAppInfo, limitCount, scrapeType } = await getRegionAppInfo(
+    appIds,
+    regions,
+  )
 
   if (Object.keys(regionAppInfo).length === 0) {
     console.info('No data captured, program execution has ended')
@@ -66,6 +69,8 @@ async function controller() {
     timestamp,
     regionAppInfo,
     duration: sum['controller'],
+    limitCount,
+    scrapeType,
   })
 }
 

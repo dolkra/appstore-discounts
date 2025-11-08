@@ -244,6 +244,8 @@ declare global {
 
   type Sponsors = TypeSponsors[]
 
+  type InAppPurchasesScrapeType = 'fetch' | 'playwright'
+
   type LogInfo = {
     timestamp: number
     regionAppInfo: Record<
@@ -260,5 +262,7 @@ declare global {
     >
     duration: string
     regionAppCount: Record<Region, number>
+    limitCount: number
+    inAppPurchasesScrapeType: InAppPurchasesScrapeType
   }
 }

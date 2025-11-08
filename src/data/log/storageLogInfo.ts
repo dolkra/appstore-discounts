@@ -29,8 +29,10 @@ export default function getLastLogInfo(props: {
   timestamp: number
   regionAppInfo: RegionAppInfo
   duration: string
+  limitCount: number
+  scrapeType: InAppPurchasesScrapeType
 }): LogInfo[] {
-  const { timestamp, regionAppInfo, duration } = props
+  const { timestamp, regionAppInfo, duration, limitCount, scrapeType } = props
 
   const logInfo: LogInfo = {
     timestamp,
@@ -71,6 +73,8 @@ export default function getLastLogInfo(props: {
       },
       {} as LogInfo['regionAppCount'],
     ),
+    limitCount,
+    inAppPurchasesScrapeType: scrapeType,
   }
   const existingInfo = readLogInfo()
 

@@ -2,9 +2,13 @@ import dayjs from 'dayjs'
 import parallel from './parallel'
 import { regionTimezoneMap } from 'appinfo.config'
 
-export default function (appIds: Array<string | number>, regions: Region[]) {
+export default async function (
+  appIds: Array<string | number>,
+  regions: Region[],
+) {
   const hour = dayjs().tz(regionTimezoneMap.cn).hour()
   let limitCount = 10
+  let scrapeType: InAppPurchasesScrapeType = 'fetch'
 
   if (hour >= 4 && hour < 6) {
     limitCount = 4
@@ -16,5 +20,15 @@ export default function (appIds: Array<string | number>, regions: Region[]) {
     limitCount = 12
   }
 
-  return parallel(appIds, regions, limitCount)
+  if (hour % 4 === 0) {
+    scrapeType = 'playwright'
+  }
+
+  const regionAppInfo = await parallel(appIds, regions, limitCount, scrapeType)
+
+  return {
+    regionAppInfo,
+    limitCount,
+    scrapeType,
+  }
 }
