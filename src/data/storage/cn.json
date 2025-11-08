@@ -112666,6 +112666,23 @@
     "history": [
       [
         {
+          "timestamp": 1762590656664,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "终身版": "¥45.00",
+            "战国七雄": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "楚汉争霸": "¥36.00",
+            "无双战神": "¥36.00",
+            "自创地图": "¥24.00",
+            "斜谷残阳": "¥36.00",
+            "自创武将朝代特色兵种补丁": "¥48.00",
+            "重振汉室": "¥18.00"
+          }
+        },
+        {
           "timestamp": 1762554240199,
           "price": 0,
           "formattedPrice": "免费",
@@ -126691,6 +126708,27 @@
             "Groic Pro Monthly": "¥15.00",
             "Groic Pro Yearly": "¥68.00"
           }
+        }
+      ]
+    ]
+  },
+  "6749849358": {
+    "name": "摩斯密码工具",
+    "maxPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "minPriceInfo": {
+      "price": 1,
+      "formattedPrice": "¥1.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762590656664,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
         }
       ]
     ]
