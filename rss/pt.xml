@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2025-11-08T02:57:08.657Z</updated>
+    <updated>2025-11-08T13:52:16.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-08T02:57:08.657Z</updated>
+        <updated>2025-11-08T13:52:16.070Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptSat, 08 Nov 2025 02:57:08 GMT</id>
+        <id>rankingptSat, 08 Nov 2025 13:52:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-08T02:57:08.657Z</updated>
+        <updated>2025-11-08T13:52:16.070Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,16 +51,16 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1511</b>
+        <b>1513</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1310</b>
+        <b>1312</b>
       </td>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
     </tr>
     <tr>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1247</b>
+        <b>1249</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1103</b>
+        <b>1105</b>
       </td>
       <td>
         <b></b>
@@ -289,7 +289,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1587860402">Moncage</a>
+        <a href="https://apps.apple.com/pt/app/id1587301632">All In One Memo</a>
       </td>
       <td>
         <ul>
@@ -306,7 +306,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1601446687">Streets of Rage 4</a>
+        <a href="https://apps.apple.com/pt/app/id1587860402">Moncage</a>
       </td>
       <td>
         <ul>
@@ -323,7 +323,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1659903900">Super Mega Lucky Box</a>
+        <a href="https://apps.apple.com/pt/app/id1601446687">Streets of Rage 4</a>
       </td>
       <td>
         <ul>
@@ -340,7 +340,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6478639011">Subnautica</a>
+        <a href="https://apps.apple.com/pt/app/id1659903900">Super Mega Lucky Box</a>
       </td>
       <td>
         <ul>
@@ -355,6 +355,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6478639011">Subnautica</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6702013134">Cat Flow - Tempo de estudo</a>
@@ -380,6 +397,25 @@ feedId:206907475259680768+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All In One Memo]]></title>
+        <id>All In One Memo-pt-1762606078559</id>
+        <link href="https://apps.apple.com/pt/app/all-in-one-memo/id1587301632?uo=4"/>
+        <updated>2025-11-08T12:47:58.559Z</updated>
+        <summary type="html"><![CDATA[Price: 3,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/all-in-one-memo/id1587301632?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>3,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 3,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h2>Application Description</h2><p>
+  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
+And there are reminders that you can never forget.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7Days : Backer]]></title>
@@ -981,144 +1017,5 @@ Twitter: @MoncageTheGame
 Email: moncagethegame@gmail.com
 Discord: https://discord.com/invite/TEVX2uPEsj
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Subnautica]]></title>
-        <id>Subnautica-pt-1762338071697</id>
-        <link href="https://apps.apple.com/pt/app/subnautica/id6478639011?uo=4"/>
-        <updated>2025-11-05T10:21:11.697Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 6,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/subnautica/id6478639011?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/eb/5b/e8/eb5be8e8-3c4a-fcff-b2b6-f4661b30475d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>6,99 €</strong>
-</b><span>[6,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>6,99 €</b>
-</p><h2>Application Description</h2><p>
-  *Confira se o seu dispositivo é suportado antes de jogar Subnautica!*
-
-Subnautica é um jogo de aventura subaquática ambientado em um planeta oceânico alienígena. Um mundo aberto enorme repleto de maravilhas e perigos está à sua espera!
-
-Mergulhe nas profundezas, fabrique equipamentos, pilote submarinos e supere a vida selvagem para explorar recifes de corais, vulcões, sistemas de cavernas e muito mais — tudo enquanto tenta sobreviver. Desvende o mistério deste mundo repleto de criaturas, tanto amigáveis quanto hostis, com pistas de uma era passada.
-
-Jogue no modo de sobrevivência e vivencie o desafio original ou troque para o modo de liberdade ou criativo para explorar o planeta oceânico sem a pressão da sede, da fome ou do oxigênio. 
-
-RECURSOS
-• SOBREVIVA — Após cair em um vasto planeta subaquático, você corre contra o tempo para encontrar comida, água e para desenvolver os equipamentos necessários para explorar.
-• EXPLORE — Gerencie fome, sede e fornecimento de oxigênio conforme mergulha nas enormes florestas de alga, nos planaltos iluminados pelo sol, nos recifes bioluminescentes e sistemas de caverna enormes.
-• SUCATEIE — Colete recursos do oceano à sua volta. Aventure-se ainda mais nas profundezas para encontrar recursos mais raros, permitindo a fabricação de itens avançados.
-• FABRIQUE — Crie bases para se abrigar, veículos para pilotar, ferramentas de sobrevivência para auxiliar na navegação e na adaptação a este cenário subaquático. 
-• DESCUBRA — O que aconteceu com o planeta? O que causou o seu acidente? Você consegue achar uma saída deste planeta sem morrer?
-• PERSONALIZE — Jogue no modo de sobrevivência e vivencie o desafio original ou troque para o modo de liberdade ou criativo para explorar o planeta oceânico sem a pressão da sede, da fome ou do oxigênio.
-
-CUIDADOSAMENTE REPROJETADO PARA DISPOSITIVOS MÓVEIS
-• Interface reformulada — IU móvel exclusiva com controle de toque completo
-• Conquistas do Game Center
-• Salvamento na nuvem — compartilhe o progresso entre dispositivos iOS
-• Compatível com controles MFi
-• Otimização para iPhone 16 (incluindo Pro Max)
-
------
-
-*DISPOSITIVOS INCOMPATÍVEIS (O jogo não funciona)* :
-- iPhone Xr, iPhone SE Gen 2 (2020)
-- iPad Mini Gen 5, iPad Air Gen 3, iPad Gen 8, iPad Gen 9
-
-*DISPOSITIVOS COMPATÍVEIS APENAS EM BAIXA RESOLUÇÃO* :
-- iPhone Xs, iPhone Xs Max, iPhone 11, iPhone 11 Pro, iPhone 11 Pro Max, iPhone 12, iPhone 12 Mini, iPhone 13, iPhone 13 Mini, iPhone SE Gen 3 (2022) 
-- iPad Pro 10.5"", iPad Mini Gen 6, iPad Air Gen 4, iPad Gen 10, iPad Pro 11"" Gen 1, iPad Pro 12.9"" Gen 3
-
-*DISPOSITIVOS COMPATÍVEIS* :
-- iPhone 12 Pro, iPhone 12 Pro Max, iPhone 13 Pro, iPhone 13 Pro Max, iPhone 14 E ACIMA  
-- iPad Pro 11"" Gen 2, iPad Pro 12.9"" Gen 4, iPad Air Gen 5, iPad Pro 11"" Gen 3, iPad Pro 11"" Gen 4, iPad Pro 12.9"" Gen 5, iPad Pro 12.9"" Gen 6 E ACIMA
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[古诗文网-唐诗宋词古文典籍]]></title>
-        <id>古诗文网-唐诗宋词古文典籍-pt-1762313071665</id>
-        <link href="https://apps.apple.com/pt/app/%E5%8F%A4%E8%AF%97%E6%96%87%E7%BD%91-%E5%94%90%E8%AF%97%E5%AE%8B%E8%AF%8D%E5%8F%A4%E6%96%87%E5%85%B8%E7%B1%8D/id964708975?uo=4"/>
-        <updated>2025-11-05T03:24:31.665Z</updated>
-        <summary type="html"><![CDATA[Price: 0,99 € → 0,29 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/%E5%8F%A4%E8%AF%97%E6%96%87%E7%BD%91-%E5%94%90%E8%AF%97%E5%AE%8B%E8%AF%8D%E5%8F%A4%E6%96%87%E5%85%B8%E7%B1%8D/id964708975?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/1a/bd/431abd40-bea5-17a9-23f1-961c09137f87/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>0,99 €</span> → <b>
-  <strong>0,29 €</strong>
-</b><span>[Gratuito ~ 0,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,29 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    永久金紫会员：<b>44,99 €</b>
-  </li><li>
-    下载次数：<b>0,99 €</b>
-  </li><li>
-    金紫会员永久：<b>44,99 €</b>
-  </li><li>
-    金紫会员6个月：<b>7,99 €</b>
-  </li><li>
-    金紫会员12个月：<b>12,99 €</b>
-  </li><li>
-    金紫会员1个月：<b>1,99 €</b>
-  </li><li>
-    纯净模式永久：<b>34,99 €</b>
-  </li><li>
-    纯净模式12个月：<b>8,49 €</b>
-  </li><li>
-    纯净模式6个月：<b>4,99 €</b>
-  </li><li>
-    纯净模式1个月：<b>0,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【主要特色】
-1、古诗文、古籍特别全，分类详细
-2、注释翻译解析质量沉实，有拼音批注方便查看，还有朗读
-3、内容权威，文献证明，内嵌字典，赏析到位
-4、界面简洁清新很有代入感
-5、功能实用快捷、浏览丝滑方便，分屏便捷，搜索迅速，引导合理
-
-【学生党必备】
-古文带拼音+真人朗读，文言文突击神器
-中高考高频考点诗词一键收藏，支持下载
-
-【文艺爱好者专属】
-每日推送，AI算法匹配你的审美偏好
-边听名家朗诵《将进酒》，边看互动注释解析
-
-【学术研究利器】
-收录100万+文献资料，含《四库全书》
-智能对比不同版本注释，文献溯源权威
-
-四大核心竞争力
-最全文库：覆盖先秦至明清2万+作者作品
-精准解析：附【创作背景】【文言语法】【典故溯源】三维解读
-交互黑科技：分屏对照（原文/译文/注释/赏析/拼音自由组合）
-零干扰体验：沉浸式阅读
-
-【订阅及单购说明】
-一、金紫会员自动订阅说明
-1. 服务名称：订阅金紫会员
-2. 订阅周期：1个月、6个月和12个月
-3. 金紫会员价格：10元/1个月、50元/6个月和85元/12个月。
-4. 购买金紫会员自动订阅的帐号，会在服务到期前24小时，自动在iTunes账户扣费并延长相应月份的有效期。
-5. 如需取消订阅，请手动打开iOS的“设置” -->进入“iTunes Store 与 App Store”-->点击“Apple ID”，选择"查看Apple ID"，进入"账户设置"页面，点击“订阅”，选择古文岛金紫会员取消订阅即可。如未在订阅期结束的至少24小时前关闭订阅，此订阅将会自动续订。
-
-二、金紫会员永久单次付费说明
-1.服务名称：金紫会员永久
-2.订阅周期：永久
-3.若您从AppStore购买金紫会员永久，则为单次付费永久生效
-
-三、其它单次付费说明
-1.服务名称：下载次数
-2.订阅周期：单次
-3.若您从AppStore购买下载次数，则为单次付费单次生效
-
-四、相关协议
-1. 用户协议：https://app24.guwendao.net/agreementChunjingIOSGwd.aspx
-2.金紫会员服务协议（含其它单购项目）：https://app24.guwendao.net/agreementSvipIOSGwd.aspx
-3.隐私协议：https://app24.guwendao.net/yinsiIosGwd.aspx
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/58/96/5f58964f-852f-b629-cdad-abffb527890f/5379ce79-a11b-4d2e-816e-db95707b01c7__U53e4_U8bd7_U6587_U7f511.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/b3/f4/40b3f47d-6402-3291-357f-9acf86be3850/06f4f8dd-3d56-49cf-8792-6d0150be6f2b__U53e4_U8bd7_U6587_U7f512.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a7/ae/20/a7ae201d-9b00-5b1c-0700-df596bfbc491/0f103429-0879-4985-ace5-db3956144a4c__U53e4_U8bd7_U6587_U7f513.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/0a/c4/5c0ac40c-bf31-994f-e7ac-1456bdeaf920/50010c10-a0c5-4ab1-91c0-3b2b7928cc02__U53e4_U8bd7_U6587_U7f514.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/cd/f0/d4cdf046-ba19-5ffe-55cb-4f96229576d7/e59bb122-d0f3-4eee-be0d-370dd64d41d6__U53e4_U8bd7_U6587_U7f515.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6d/9c/76/6d9c768f-63aa-7545-3ef8-7a88a4f0d7dc/a6d45b98-d834-4838-bb9d-f0eec255fe95__U53e4_U8bd7_U6587_U7f511.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/9a/6c/849a6c3f-4fb4-ca36-34ec-12eb0a7fa1df/37040a03-2f54-4e21-aa8e-557398d9c729__U53e4_U8bd7_U6587_U7f512.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c3/60/27/c3602795-76ef-6955-56e8-12bda7191330/e0a89087-1a15-4f78-aa08-48e0856d261d__U53e4_U8bd7_U6587_U7f513.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/dd/78/14dd7895-b3e2-b3ec-8995-669bfebfc659/7f8bfca9-3927-4030-8087-17d14517e60e__U53e4_U8bd7_U6587_U7f515.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fb/cb/ca/fbcbca26-4a59-ea9a-0c1a-16d148ed70ed/f60635c5-ce05-4eba-9c79-382b8d8dcdbb__U53e4_U8bd7_U6587_U7f514.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
