@@ -18292,10 +18292,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762566856839,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -21517,8 +21525,8 @@
   "1499001662": {
     "name": "EvoCreo 2: Jogo de Monstro RPG",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 4.99,
+      "formattedPrice": "4,99 €",
       "Starter Package": "2,99 €",
       "Hunter Package": "9,99 €",
       "Tamer Kit": "0,99 €",
@@ -21547,6 +21555,25 @@
       "Prime Gemma 2500": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762566856839,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Evoker Kit": "0,99 €",
+            "Prime gemma 100": "0,99 €",
+            "Prime Gemma 500": "5,99 €",
+            "Prime Gemma 2500": "22,99 €",
+            "Prime Gemma 1200": "9,99 €",
+            "Starter Package": "2,99 €",
+            "Hunter Package": "9,99 €",
+            "Tamer Kit": "0,99 €",
+            "Master Package": "19,99 €",
+            "Evoker Package": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762110538119,
@@ -34353,7 +34380,8 @@
       "John Deere 8R 410": "2,49 €",
       "Versatile 4WD 620": "2,49 €",
       "New Holland T8.435 Genesis": "2,49 €",
-      "Kubota RTV-XG850 SIDEKICK": "1,99 €"
+      "Kubota RTV-XG850 SIDEKICK": "1,99 €",
+      "Case IH Speed-Tiller": "1,19 €"
     },
     "minPriceInfo": {
       "price": 7.99,
@@ -34369,9 +34397,29 @@
       "John Deere 8R 410": "2,49 €",
       "Versatile 4WD 620": "2,49 €",
       "New Holland T8.435 Genesis": "2,49 €",
-      "Kubota RTV-XG850 SIDEKICK": "1,99 €"
+      "Kubota RTV-XG850 SIDEKICK": "1,99 €",
+      "Case IH Speed-Tiller": "1,19 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762566856839,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "Case IH Speed-Tiller": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "New Holland T8.435 Genesis": "2,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762454298462,
