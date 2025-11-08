@@ -204,6 +204,7 @@ export const latestAppConfig: AppConfig[] = [
       tw: '石器懷舊服 - 1:1移植版',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6753921107,
