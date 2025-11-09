@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1551779746,
+    name: {
+      mo: '打字練習簿 Premium',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6753062308,
     name: {
       hk: '石器經典版-情懷服',
