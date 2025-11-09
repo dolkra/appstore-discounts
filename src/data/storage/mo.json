@@ -74692,6 +74692,21 @@
     "history": [
       [
         {
+          "timestamp": 1762662549539,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Explorer Pack": "USD 10.99",
+            "The Complete Collection": "USD 34.99",
+            "City Break": "USD 1.99",
+            "Welcome Offer": "USD 19.99",
+            "Victorian London Board": "USD 5.99",
+            "Theme Collection": "USD 29.99",
+            "New York 2121 Board": "USD 5.99",
+            "Orient Express": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1762653910679,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -111344,6 +111359,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1762662549539,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "USD 99.00"
+          }
+        },
         {
           "timestamp": 1762653910679,
           "inAppPurchases": {
