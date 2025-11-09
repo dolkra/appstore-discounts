@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-11-09T15:21:06.201Z</updated>
+    <updated>2025-11-09T17:33:05.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-09T15:21:06.203Z</updated>
+        <updated>2025-11-09T17:33:05.711Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwSun, 09 Nov 2025 15:21:06 GMT</id>
+        <id>rankingtwSun, 09 Nov 2025 17:33:05 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-09T15:21:06.203Z</updated>
+        <updated>2025-11-09T17:33:05.711Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -567,6 +567,23 @@ feedId:157008546980077568+userId:73658201673997312
                 <i>Diamonds</i>：<b>1</b>
               </li>
             </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>26</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tw/app/id6451009326">LMP - Music Hub</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -1125,6 +1142,52 @@ feedId:157008546980077568+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LMP - Music Hub]]></title>
+        <id>LMP - Music Hub-tw-1762705725489</id>
+        <link href="https://apps.apple.com/tw/app/lmp-music-hub/id6451009326?uo=4"/>
+        <updated>2025-11-09T16:28:45.489Z</updated>
+        <summary type="html"><![CDATA[价格: $90.00 → $30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/lmp-music-hub/id6451009326?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/02/29/b20229a8-bb44-191c-9b1e-1c31c866e8c7/icon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$90.00</span> → <b>
+  <strong>$30.00</strong>
+</b><span>[$30.00 ~ $90.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>$30.00</b>
+</p><h2>应用描述</h2><p>
+  Play local music or stream from a file/media server with LMP. 
+
+Apple TV version included, with support for Emby, Navidrome, Plex, and Jellyfin.
+
+▣ Import via iTunes or folder and play local tracks
+
+LMP was designed from scratch with offline music in mind. You can store music on your device in two forms: iTunes music or audio file. The first would require syncing with iTunes on Windows or Finder on Mac. To import as audio files, simply transfer them to the LMP Music folder on your device via any means. If you choose the latter, you will be able to enjoy additional features, such as editing of metadata via the LMP browser assistant.
+
+▣ Connect to a cloud server and stream music from the server
+
+If you have insufficient storage on your device, you can also store your tracks on a server and stream from the server. File servers using SMB and WebDAV are supported. However, we recommend hosting a media server instead, via Plex, Emby, Navidrome or Subsonic due to faster import speeds. All tracks come together seamlessly, no matter how they are imported, providing a unified experience. You can enable the option in the settings to hide repeated tracks across servers.
+
+▣ Manage playlists with ease
+
+LMP has its own playlist system that allows you to not only add tracks from all sources, but also artists. All tracks belonging to the artist would automatically be added to the playlist everytime you open the app or rescan, even newly added ones. With flexible artist splitting, you will be able to ensure that tracks get allocated to the right artist.
+
+When the AI playlist is enabled, LMP will also be able to generate a playlist for you based on your listening preferences. Usage data is only recorded if this feature is enabled, and all data recorded for this is stored locally, so you do not have to worry about data privacy.
+
+▣ Supports CarPlay & Siri
+
+With support for CarPlay, you can start playing a playlist or control what's playing from your car's CarPlay console. Alternatively, you can also tell Siri to start playing a track or all tracks belonging to a particular artist, or use it to control the playback state of the current track.
+
+▣ Support LRC lyrics
+
+LMP supports both embedded lyrics and .lrc files. Use the LRC or Enhanced LRC format, and the app will be able to autoscroll lyrics as the music plays. If you do not have time to add your own lyrics, you can specify the lyrics API to use, and the app will attempt to fetch lyrics of any track that is playing.
+
+▣ Browser Assistant
+
+Manage local files on the app using the LMP browser assistant, which you can open on your computer's browser. Import new files or move/delete existing files using the Folders tool, edit music metadata using the Metadata tool or even manage your playlists using the playlists tool.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/4e/b1/024eb1ae-1e63-70fb-cc2d-72da117c0a43/2ffddeb0-d4b4-4c4b-88dc-6d8d8851ff53_Main.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/87/1c/03871ccd-b7bd-0a94-50c2-dd897e2accba/0f92d25c-d4fa-43a7-9640-59f7f6db5868_Imports.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/95/bc/e395bc9a-c2e3-af50-4375-84c432d31bbc/13413303-72c4-4e69-94a8-c2b5d3561462_CarPlay.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/16/e8/e416e8f6-a951-3f97-a3f7-1bf3825afefa/fdb232fa-cae9-41c4-a467-013780ec8d18_Lyrics.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/07/d4/3307d43f-e8f5-e5bb-9269-a15aa25eb1b6/55646a04-6d00-4605-8278-3e19070dd6e9_Playlist.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/c7/06/39c70661-0d1c-6747-0f12-2751b75742e7/dd7287cb-47ff-4199-a52c-9863d97a0d15_Artist_Split.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/5b/0a/ac5b0a1b-f2b7-0246-69b2-c30cec30e27a/b110a9b3-bd15-4e67-bde8-c9a5eb78feee_LMP_Assistant.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/32/1e/46321e29-cc0c-7940-0f70-b0efb1ffca02/f88f631a-854e-492e-b491-21c48821a075_Chinese_Optimization.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/11/a9/3511a987-6364-97b4-c4ef-10042896ebcb/4188a5f8-8d24-4da6-8463-73ad24056345_Widgets.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/94/24/429424ae-53ca-f269-14b1-158597f888b8/188118bc-684c-4a5a-8040-4f0dc7e82c8d_Main.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/9d/15/269d15f5-8f2f-f145-741c-608300dc17b6/04427514-1754-4c8e-9e77-8a040fcb48c6_Imports.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/0f/c9/540fc94d-1046-9a88-b6a3-47f16ba78fd1/4f3508e0-1404-4050-9471-a16ff0ac4229_Lyrics.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/23/21/192321b0-fcd2-94fa-419d-e319614087b3/d52b5533-e545-4d6b-9d07-53da6d7238eb_Playlists.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/98/f6/8a98f6af-bf78-43f3-49ed-c3f88d47150f/d6b49f22-102e-40b1-8f48-b03b3738fe57_Assistant.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stay for Safari - 瀏覽器伴侶]]></title>
         <id>Stay for Safari - 瀏覽器伴侶-tw-1762698035015</id>
         <link href="https://apps.apple.com/tw/app/stay-for-safari-%E7%80%8F%E8%A6%BD%E5%99%A8%E4%BC%B4%E4%BE%B6/id1591620171?uo=4"/>
@@ -1622,84 +1685,6 @@ And there are reminders that you can never forget.
 
 
 現在，召喚你的第一隻寵物，領取開局福利，讓遠古大陸記住你的名字 —— 征程自此啟航！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cat Flow - 貓計時器 & 專注番茄鐘]]></title>
-        <id>Cat Flow - 貓計時器 &amp; 專注番茄鐘-tw-1762446905790</id>
-        <link href="https://apps.apple.com/tw/app/cat-flow-%E8%B2%93%E8%A8%88%E6%99%82%E5%99%A8-%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id6702013134?uo=4"/>
-        <updated>2025-11-06T16:35:05.790Z</updated>
-        <summary type="html"><![CDATA[价格: $10.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/cat-flow-%E8%B2%93%E8%A8%88%E6%99%82%E5%99%A8-%E5%B0%88%E6%B3%A8%E7%95%AA%E8%8C%84%E9%90%98/id6702013134?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/c9/8e/4fc98e6b-422f-ba0f-8c2a-4b9a6fdc9210/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$10.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $10.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h3>App內購買</h3><ul>
-  <li>
-    招財：<b>$30.00</b>
-  </li><li>
-    月夜：<b>$60.00</b>
-  </li><li>
-    小灰：<b>$30.00</b>
-  </li><li>
-    每月：<b>$60.00</b>
-  </li><li>
-    每年：<b>$390.00</b>
-  </li><li>
-    天空：<b>$60.00</b>
-  </li><li>
-    森林：<b>$60.00</b>
-  </li><li>
-    點點：<b>$30.00</b>
-  </li><li>
-    可可：<b>$30.00</b>
-  </li><li>
-    辛巴：<b>$30.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  喜歡可愛的貓咪嗎？想要更好的專注，減少對手機的依賴嗎？CatBox貓咪將陪伴你，訓練集中力和培養自律習慣，陪伴你一起成長～
-
-CatBox Flow 是CatBox正式系列APP的第二個，是一款貓咪化的專注和冥想App，希望可愛的貓咪陪伴你一起管理時間，在場景化的空間裡放下手機，一起專注於重要事情。
-
-
-陪伴式專注，貓咪會陪伴主人，守護主人的時間！
-
-
-陪伴式專注： 
-• 在專注中重新掌控人生時間 
-• 貓咪會一直陪伴和守護在主人身邊 
-• 30秒後重力傳感器促發停止設定，讓貓咪更好的守護時間 
-• 豐富的貓咪們可以訂閱和單獨購買哦
-
-場景化空間： 
-• 場景式空間，結合貓咪，一起沉浸在專注的事情中 
-• 可以自定義不同的時間，場景和主題，塑造個人習慣 
-• 豐富的場景可以訂閱和單獨購買哦
-
-多維數據回顧： 
-• 詳盡的專注數據，貓貓陪你一起回顧 
-• 解鎖貓咪和場景可以讓不同的貓咪為你守護不同的數據
-
-
-主人，現在就放下手機，讓貓咪陪伴你一起專注吧
-
-
-未來功能： 深度專注功能 貓咪養成系統
-
-
-• 隱私政策和使用條款
-
-https://nicolecat.com/cat/privacy.html
-https://nicolecat.com/cat/terms.html
-
-• 聯繫我們
-如果您玩得開心，請隨時聯繫我們：
-
-support@nicolecat.com
 </p>]]></content>
     </entry>
 </feed>

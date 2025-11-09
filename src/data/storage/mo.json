@@ -87028,9 +87028,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Lifetime": "USD 3.99"
+      "Lifetime": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762705725489,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1731430929415,
@@ -95377,6 +95387,14 @@
     "history": [
       [
         {
+          "timestamp": 1762705725489,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1762096249573,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -96948,6 +96966,25 @@
       "武器專屬強化券 x3 (B)": "USD 6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762705725489,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 59.99",
+            "逆命殊途": "USD 9.99",
+            "額外內容擴充包": "USD 19.99",
+            "武器專屬強化券 x5 (A)": "USD 9.99",
+            "武器專屬強化券 x3 (A)": "USD 6.99",
+            "武器專屬強化券 x3 (D)": "USD 6.99",
+            "武器專屬強化券 x3 (C)": "USD 6.99",
+            "武器專屬強化券 x1 (F)": "USD 2.99",
+            "武器專屬強化券 x1 (E)": "USD 2.99",
+            "武器專屬強化券 x1 (A)": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762698035015,
@@ -104748,6 +104785,14 @@
     "history": [
       [
         {
+          "timestamp": 1762705725489,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1759500691907,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -111398,6 +111443,16 @@
       "Diamonds": "USD 99.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762705725489,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Diamonds": "USD 99.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762676963102,
