@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1623264392,
+    name: {
+      pt: 'Exame Federativo | app',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6670338827,
     name: {
       mo: '牛牛挤奶',

@@ -52843,6 +52843,23 @@
     "history": [
       [
         {
+          "timestamp": 1762806637553,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1762799822116,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -95067,6 +95084,27 @@
           "timestamp": 1721960142187,
           "price": 18,
           "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1623264392": {
+    "name": "Exame Federativo | app",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762806637553,
+          "price": 98,
+          "formattedPrice": "¥98.00",
           "inAppPurchases": {}
         }
       ]

@@ -16794,6 +16794,23 @@
     "history": [
       [
         {
+          "timestamp": 1762806637553,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "CAPSO": "9,99 €",
+            "9 Characters": "39,99 €",
+            "Aroma": "9,99 €",
+            "ConneR": "9,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "9,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1762799822116,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -27596,6 +27613,27 @@
           "timestamp": 1761797674362,
           "price": 6.99,
           "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1623264392": {
+    "name": "Exame Federativo | app",
+    "maxPriceInfo": {
+      "price": 15.99,
+      "formattedPrice": "15,99 €"
+    },
+    "minPriceInfo": {
+      "price": 15.99,
+      "formattedPrice": "15,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762806637553,
+          "price": 15.99,
+          "formattedPrice": "15,99 €",
           "inAppPurchases": {}
         }
       ]
