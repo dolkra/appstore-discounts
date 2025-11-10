@@ -25721,8 +25721,8 @@
       "Greatest Hits Vol. 1": "USD 9.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Just For Kids": "USD 0.00",
       "Mix It Up": "USD 0.00",
       "Happy Holidays": "USD 1.99",
@@ -25793,6 +25793,25 @@
       "Greatest Hits Vol. 1": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762799822116,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Just For Kids": "USD 0.00",
+            "Greatest Hits Vol. 1": "USD 9.99",
+            "Mix It Up": "USD 0.00",
+            "Happy Holidays": "USD 1.99",
+            "Build Your Own Deck": "USD 2.99",
+            "Super Heroes": "USD 1.99",
+            "The Ellen Show": "USD 0.00",
+            "Panda Express": "USD 1.99",
+            "Ocean Vacation": "USD 0.00",
+            "Express Yourself": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762454298462,
@@ -111614,6 +111633,27 @@
           "timestamp": 1762740396714,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6670338827": {
+    "name": "牛牛挤奶",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762799822116,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]

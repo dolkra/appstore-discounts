@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6670338827,
+    name: {
+      mo: '牛牛挤奶',
+    },
+    addType: 'auto',
+  },
+  {
     id: 364876095,
     name: {
       mo: 'Jump Desktop (RDP, VNC, Fluid)',
