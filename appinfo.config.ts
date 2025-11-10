@@ -72,6 +72,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1450106361,
+    name: {
+      mo: 'Tripiday - 最佳旅行規劃App',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 6733247534,
+    name: {
+      mo: '生命數字命理',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1551779746,
     name: {
       mo: '打字練習簿 Premium',

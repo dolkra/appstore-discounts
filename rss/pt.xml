@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2025-11-09T03:08:08.452Z</updated>
+    <updated>2025-11-10T03:11:11.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-09T03:08:08.452Z</updated>
+        <updated>2025-11-10T03:11:11.775Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptSun, 09 Nov 2025 03:08:08 GMT</id>
+        <id>rankingptMon, 10 Nov 2025 03:11:11 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-09T03:08:08.452Z</updated>
+        <updated>2025-11-10T03:11:11.775Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1514</b>
+        <b>1517</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1313</b>
+        <b>1316</b>
       </td>
       <td>
         <b>68</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1250</b>
+        <b>1253</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1106</b>
+        <b>1109</b>
       </td>
       <td>
         <b></b>
@@ -403,6 +403,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>18</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6451009326">LMP - Music Hub</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -414,6 +431,52 @@ feedId:206907475259680768+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LMP - Music Hub]]></title>
+        <id>LMP - Music Hub-pt-1762740396714</id>
+        <link href="https://apps.apple.com/pt/app/lmp-music-hub/id6451009326?uo=4"/>
+        <updated>2025-11-10T02:06:36.714Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/lmp-music-hub/id6451009326?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/02/29/b20229a8-bb44-191c-9b1e-1c31c866e8c7/icon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h2>Application Description</h2><p>
+  Play local music or stream from a file/media server with LMP. 
+
+Apple TV version included, with support for Emby, Navidrome, Plex, and Jellyfin.
+
+▣ Import via iTunes or folder and play local tracks
+
+LMP was designed from scratch with offline music in mind. You can store music on your device in two forms: iTunes music or audio file. The first would require syncing with iTunes on Windows or Finder on Mac. To import as audio files, simply transfer them to the LMP Music folder on your device via any means. If you choose the latter, you will be able to enjoy additional features, such as editing of metadata via the LMP browser assistant.
+
+▣ Connect to a cloud server and stream music from the server
+
+If you have insufficient storage on your device, you can also store your tracks on a server and stream from the server. File servers using SMB and WebDAV are supported. However, we recommend hosting a media server instead, via Plex, Emby, Navidrome or Subsonic due to faster import speeds. All tracks come together seamlessly, no matter how they are imported, providing a unified experience. You can enable the option in the settings to hide repeated tracks across servers.
+
+▣ Manage playlists with ease
+
+LMP has its own playlist system that allows you to not only add tracks from all sources, but also artists. All tracks belonging to the artist would automatically be added to the playlist everytime you open the app or rescan, even newly added ones. With flexible artist splitting, you will be able to ensure that tracks get allocated to the right artist.
+
+When the AI playlist is enabled, LMP will also be able to generate a playlist for you based on your listening preferences. Usage data is only recorded if this feature is enabled, and all data recorded for this is stored locally, so you do not have to worry about data privacy.
+
+▣ Supports CarPlay & Siri
+
+With support for CarPlay, you can start playing a playlist or control what's playing from your car's CarPlay console. Alternatively, you can also tell Siri to start playing a track or all tracks belonging to a particular artist, or use it to control the playback state of the current track.
+
+▣ Support LRC lyrics
+
+LMP supports both embedded lyrics and .lrc files. Use the LRC or Enhanced LRC format, and the app will be able to autoscroll lyrics as the music plays. If you do not have time to add your own lyrics, you can specify the lyrics API to use, and the app will attempt to fetch lyrics of any track that is playing.
+
+▣ Browser Assistant
+
+Manage local files on the app using the LMP browser assistant, which you can open on your computer's browser. Import new files or move/delete existing files using the Folders tool, edit music metadata using the Metadata tool or even manage your playlists using the playlists tool.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/4e/b1/024eb1ae-1e63-70fb-cc2d-72da117c0a43/2ffddeb0-d4b4-4c4b-88dc-6d8d8851ff53_Main.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/87/1c/03871ccd-b7bd-0a94-50c2-dd897e2accba/0f92d25c-d4fa-43a7-9640-59f7f6db5868_Imports.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/95/bc/e395bc9a-c2e3-af50-4375-84c432d31bbc/13413303-72c4-4e69-94a8-c2b5d3561462_CarPlay.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/16/e8/e416e8f6-a951-3f97-a3f7-1bf3825afefa/fdb232fa-cae9-41c4-a467-013780ec8d18_Lyrics.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/07/d4/3307d43f-e8f5-e5bb-9269-a15aa25eb1b6/55646a04-6d00-4605-8278-3e19070dd6e9_Playlist.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/c7/06/39c70661-0d1c-6747-0f12-2751b75742e7/dd7287cb-47ff-4199-a52c-9863d97a0d15_Artist_Split.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/5b/0a/ac5b0a1b-f2b7-0246-69b2-c30cec30e27a/b110a9b3-bd15-4e67-bde8-c9a5eb78feee_LMP_Assistant.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/32/1e/46321e29-cc0c-7940-0f70-b0efb1ffca02/f88f631a-854e-492e-b491-21c48821a075_Chinese_Optimization.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/11/a9/3511a987-6364-97b4-c4ef-10042896ebcb/4188a5f8-8d24-4da6-8463-73ad24056345_Widgets.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/94/24/429424ae-53ca-f269-14b1-158597f888b8/188118bc-684c-4a5a-8040-4f0dc7e82c8d_Main.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/9d/15/269d15f5-8f2f-f145-741c-608300dc17b6/04427514-1754-4c8e-9e77-8a040fcb48c6_Imports.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/0f/c9/540fc94d-1046-9a88-b6a3-47f16ba78fd1/4f3508e0-1404-4050-9471-a16ff0ac4229_Lyrics.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/23/21/192321b0-fcd2-94fa-419d-e319614087b3/d52b5533-e545-4d6b-9d07-53da6d7238eb_Playlists.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/98/f6/8a98f6af-bf78-43f3-49ed-c3f88d47150f/d6b49f22-102e-40b1-8f48-b03b3738fe57_Assistant.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DayCircle - Day counter]]></title>
@@ -595,464 +658,5 @@ Você vai se apaixonar pela trilha sonora estimulante, as dublagens completas e 
 
 ELOGIOS AO KINGDOM RUSH: Escolha do Editor da IGN, Jogos Essenciais da Slide to Play, Escolha do Editor da 148 Apps, Jogo do Ano da Jay is Games, Prêmio de Ouro da Pocket Gamer, 4,5/5 da Touch Arcade, CNET. Melhores Jogos de iPad
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/95/eb/e2/95ebe2e2-10c3-b822-081e-c6a6728aff7d/7b191397-1772-45e2-9ca5-e4c4865ea057_screenshots_2208x12420041.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/67/9b/7c/679b7c24-6ca7-6b7c-8bf5-b4ea5ba0d0cb/461a2e28-36b3-4293-a691-84cb1f08221b_screenshots_2208x12420042.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/65/b1/dc/65b1dce1-0411-3496-25a5-a57fa8deb3c7/eef930ef-6c9a-4368-8b9d-e91df1b69285_screenshots_2208x12420043.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5a/f4/2b/5af42b75-4c11-a0b4-0d7f-21105875d9b6/e83691f0-5afb-4f37-ba65-ee65ded2689a_screenshots_2208x12420044.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/91/f7/c9/91f7c914-fa07-d69f-5d7c-e25224ce0f94/33a73054-afa8-4318-a759-15337133fdbb_screenshots_2208x12420045.jpg/406x228bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cat Flow - Tempo de estudo]]></title>
-        <id>Cat Flow - Tempo de estudo-pt-1762480822421</id>
-        <link href="https://apps.apple.com/pt/app/cat-flow-tempo-de-estudo/id6702013134?uo=4"/>
-        <updated>2025-11-07T02:00:22.421Z</updated>
-        <summary type="html"><![CDATA[Price: 0,29 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/cat-flow-tempo-de-estudo/id6702013134?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/c9/8e/4fc98e6b-422f-ba0f-8c2a-4b9a6fdc9210/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>0,29 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 0,29 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Yearly：<b>12,99 €</b>
-  </li><li>
-    Monthly：<b>1,99 €</b>
-  </li><li>
-    Moonnight：<b>1,99 €</b>
-  </li><li>
-    Sky：<b>1,99 €</b>
-  </li><li>
-    Forest：<b>1,99 €</b>
-  </li><li>
-    Loki：<b>0,99 €</b>
-  </li><li>
-    Coco：<b>0,99 €</b>
-  </li><li>
-    Lucky：<b>0,99 €</b>
-  </li><li>
-    Simba：<b>0,99 €</b>
-  </li><li>
-    Toby：<b>0,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Adora gatos adoráveis? Quer um melhor foco e menos dependência do seu telemóvel? Deixe os gatos CatBox acompanhá-lo, treinando a sua concentração e construindo hábitos disciplinados, crescendo consigo ao longo do caminho!
-O CatBox Flow é o segundo aplicativo da série oficial CatBox. É um aplicativo de foco e meditação com tema de gatos que espera ter gatos fofos ao seu lado para ajudar a gerir o seu tempo. Num espaço cenografado, largue o seu telemóvel e foque-se no que mais importa.
-
-Foco ao estilo de companheiro, onde os gatos ficam consigo e protegem o seu tempo!
-
-Foco ao estilo de companheiro:
-
-• Recupere o controlo do seu tempo enquanto se concentra.
-• Os gatos ficarão consigo e protegerão o seu tempo.
-• Após 30 segundos, o sensor de gravidade irá ativar uma definição de paragem para ajudar o gato a proteger o seu tempo.
-• Vários gatos estão disponíveis por assinatura e compra individual!
-
-Espaço cenografado:
-
-• Espaços imersivos baseados em cenas com gatos para se concentrar no que importa.
-• Personalize diferentes tempos, cenas e temas para construir hábitos pessoais.
-• Uma ampla variedade de cenas está disponível por assinatura ou compra individual.
-
-Revisão de dados multidimensionais:
-
-• Dados de foco detalhados com os gatos ao seu lado para rever.
-• Desbloquear gatos e cenas permite que diferentes gatos protejam diferentes dados para si.
-
-Mestre, largue o seu telemóvel agora e deixe os gatos acompanhá-lo na concentração!
-
-Recursos futuros:
-
-Modo de foco profundo
-Sistema de treino de gatos
-
-Política de Privacidade e Termos de Utilização:
-
-https://nicolecat.com/cat/privacy.html
-https://nicolecat.com/cat/terms.html
-
-Contacte-nos
-Se estiver a divertir-se, não hesite em contactar-nos a qualquer momento:
-
-support@nicolecat.com
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyper Light Drifter]]></title>
-        <id>Hyper Light Drifter-pt-1762460942623</id>
-        <link href="https://apps.apple.com/pt/app/hyper-light-drifter/id1453875289?uo=4"/>
-        <updated>2025-11-06T20:29:02.623Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/hyper-light-drifter/id1453875289?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/37/e1/c337e14f-ffda-948e-cd37-c97548f34a23/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h2>Application Description</h2><p>
-  Finalmente, o premiado slash-'em-up da Heart Machine chega ao iOS na sua versão mais polida e refinada de sempre, a Special Edition.
-
-
-► Vencedor dos prémios "Audience Award" e "Excellence in Visual Art" do prestigiado Independent Games Festival.
-
-► Mais de 14 nomeações nas categorias Melhor Design Visual, Melhor Áudio e Melhor Jogo Original.
-
-► 9/10 Destructoid « Um exemplo de excelência. Podem existir falhas, mas são insignificantes e não causam granes estragos. »
-
-► 9,5/10 Game Informer « A combinação da banda sonora, dos gráficos e dos combates cria um ambiente complexo que vale a pena explorar. »
-
-► Recomendado pela Eurogamer « O slash-'em-up da Heart Machine é esgotante e preciso - e incrivelmente belo. »
-
-► 9/10 GameSpot « É mais do que simplesmente bonito; o Hyper Light Drifter usa os seus gráficos para te guiar e relaxar. As paisagens magníficas desaceleram a pulsação entre sequências de combate difíceis, que te deixam sem fôlego. »
-
-► 8,5 Polygon « O Hyper Light Drifter combina habilmente momentos contemplativos com ação vertiginosa. »
-
-► 5 Estrelas Darkstation « O RPG de ação, visto de cima, Hyper Light Drifter é um jogo espantoso: lindo, um mundo fascinante para explorar, controlos sem falhas, música magnífica e a confiança no jogador que o fará descobrir as coisas sozinho. »
-
-
-Os ecos de um passado sombrio e violento ressoam através das terras selvagens, repletas de tesouros e sangue. Os Drifters deste mundo são os colecionadores de conhecimentos esquecidos, tecnologias perdidas e histórias desfeitas. O nosso Drifter é assombrado por uma doença insaciável, viajando pelas terras do Tempo Sepultado, na esperança de descobrir uma forma de apaziguar a doença cruel.
-
-Hyper Light Drifter é um RPG de ação/aventura ao estilo dos melhores clássicos de 16 bits, com mecânicas modernizadas e gráficos numa escala grandiosamente superior. Explora um vasto mundo deslumbrante e em ruínas, repleto de perigos e tecnologias esquecidas.
-
-
-Características:
-
-● Jogabilidade de 120 fps no iPad Pro / 60 fps no iPhone e iPad.
-● Compatível com controladores MFi.
-● Conquistas no Game Center.
-● Vibração táctil.
-● Desde as personagens aos elementos subtis do cenário, tudo foi concebido à mão com o maior dos afetos.
-● Fácil de aprender, difícil de dominar; os inimigos são cruéis e numerosos, os perigos podem esmagar facilmente o teu corpo frágil e os rostos amigáveis são raros.
-● Melhora as armas, aprende novas habilidades, descobre equipamentos e atravessa um mundo sombrio e detalhado onde abundam encruzilhadas e segredos.
-● Banda sonora evocativa criada por Disasterpeace.
-● Todo o conteúdo do jogo original + mais armas, inimigos e áreas da Special Edition.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/67/af/a9/67afa932-c25b-e884-8ce0-fc74216f8bbc/mzl.nssbthpv.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a2/2e/63/a22e635e-fae3-654e-3214-fd0eb0c33a79/mzl.luapjnsr.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2b/19/75/2b197527-5eef-d851-6f15-dae891b6395a/mzl.soodvuaa.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c5/54/8a/c5548a11-1582-8cba-d95f-e3f6ac13ceb4/mzl.itocpooo.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7d/64/8d/7d648df4-78a8-7ea2-276d-a9a5db463311/mzl.ludopnse.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/72/b8/7b72b83d-2d74-4bcb-1887-c16fd1d34efa/mzl.grmuvmxy.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d8/71/4e/d8714e45-519d-a4c4-836a-2dba340d8502/mzl.wdldyqzp.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ea/1f/79/ea1f79a3-d534-a5e3-fdaa-7b39d6e84ec4/mzl.qnbdoidf.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/90/ed/37/90ed374b-5382-da7b-60aa-4a231506aed6/mzl.pgzcelxc.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c9/e5/2e/c9e52ee5-2acc-46d2-4cd4-1f7775b75ef2/mzl.gwvlcngl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/d2/07/a9d207ca-8da7-7173-eeb8-15c8d06b378d/mzl.xpnuimtp.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/fb/20/f9/fb20f935-b633-2308-bf10-042f5c5a1fa8/mzl.xmjgxyth.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Titan Quest HD]]></title>
-        <id>Titan Quest HD-pt-1762412068141</id>
-        <link href="https://apps.apple.com/pt/app/titan-quest-hd/id1424977227?uo=4"/>
-        <updated>2025-11-06T06:54:28.141Z</updated>
-        <summary type="html"><![CDATA[Price: 9,99 € → 2,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/titan-quest-hd/id1424977227?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bb/78/71/bb787134-f846-22e1-5112-f3df38453b1d/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>9,99 €</span> → <b>
-  <strong>2,99 €</strong>
-</b><span>[2,99 € ~ 9,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>2,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Immortal Throne DLC：<b>4,99 €</b>
-  </li><li>
-    Ragnarök DLC：<b>4,99 €</b>
-  </li><li>
-    Atlantis DLC：<b>4,99 €</b>
-  </li><li>
-    Eternal Embers DLC：<b>4,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Um dos melhores jogos de corta e massacra (hack-and-slash) agora no seu celular!
-
-Originalmente lançado para PC em 2006, Titan Quest é um RPG de ação em um cenário mitológico. Os Titãs escaparam da prisão e estão determinados em destruir a Terra. Os Deuses não conseguem impedi-los e será necessário um herói para liderar essa luta épica. A vitória ou a derrota determinarão o destino da humanidade e dos olimpianos.
-
-Você é esse herói! Crie o seu personagem, explore civilizações antigas como Grécia, Egito, Babilônia e China, e lute contra hordas de criaturas lendárias! Domine as artes de arco e flecha, esgrima ou magia e melhore seu personagem para destravar poderes incríveis! Descubra itens especiais para ajudá-lo a completar a sua missão: espadas lendárias, raios devastadores, arcos encantados e muito mais!
-
-Especialmente adaptado para dispositivos móveis, esta versão oferece novos recursos:
-● Jogue sem anúncios!
-● Uma nova interface sensível ao toque
-● Jogabilidade sensível ao toque completamente redesenhada
-● Gráficos de alta qualidade
-● Um mundo enorme e disponível para explorar
-● Ciclo dia/noite completo
-● 80 criaturas mitológicas diferentes: Minotauros, Ciclopes, Górgonas e muito mais
-● 1200+ itens para descobrir
-● 30 classes de personagem diferentes
-● 150 habilidades de personagem diferentes 
-● Hora da diversão colossal com mais de 60 horas 
-● Modos de dificuldade escalável: as armas e os inimigos correspondem ao seu nível de habilidade 
-● Dezenas de conquistas desbloqueáveis para descobrir 
-● Sem anúncios, sem microtransações.
-
-Misturando mitologia antiga com ação ininterrúpta, o Titan Quest é um clássico jogo de corta e massacra que oferece um ritmo rápido e intenso. Supere os desafios emocionantes e derrote os maiores inimigos de todos os tempos que estão tentando invadir o mundo dos dispositivos móveis!
-
-DLCs disponíveis como compra in-app: 
-● IMMORTAL THRONE - No DLC do Trono Imortal, você encontrará os maiores vilões da mitologia grega, enfrentará os ataques de Cerberus e se arriscará nas margens do Rio Styx. Você deve interpretar as profecias do vidente cego Tirésias, lutar ao lado de Agamenon e do Aquiles, além de usar os ardis de Odisseu para conquistar esta nova aventura sombria.
-● RAGNARÖK - Nas terras desconhecidas do norte da Europa no Ragnarök DLC, você enfrentará os reinos dos celtas, dos homens do norte e dos deuses Asgardianos!
-● ATLANTIS - Conheça um explorador no DLC de Atlantis e embarque em busca deste reino mítico. A chave está supostamente escondida no diário de Hércules. Dizem que o diário está localizado na cidade fenícia de Gadir. Comece uma jornada pelo Mediterrâneo Ocidental, incluindo a Arena do Tártaro para batalhas épicas!
-● ETERNAL EMBERS - Invocado pelo lendário Imperador Yao, o Herói é chamado de volta ao Leste para lidar com uma ameaça demoníaca que está devastando a terra depois que o Telkine foi morto.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/d9/5e/f1d95ebb-333d-0ff4-3112-1e113b6017a5/mzl.rnyfbyrp.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/74/a6/2074a63d-7714-1c33-95fd-998b04d45dab/mzl.agegclar.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4f/7e/ac/4f7eac29-7ca3-fcde-a982-558f33d56d21/mzl.vokuwjuo.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/1d/92/c11d92bc-5dcc-5a6f-92de-50f97b5f2c5a/mzl.ujlndnwl.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/0d/fc/27/0dfc278a-d27c-e7c6-aa97-ae12e7644ccb/mzl.lhorwkvn.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/28/65/31/286531da-5baf-b6e6-a159-c70c57acbb64/mzl.obylfppi.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/d4/fa/24d4fa94-1e5c-6e28-3f14-683ed5c3ab2a/mzl.wckhzjer.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c0/2d/20/c02d20ae-ae10-149a-b1df-34ca9c49edb8/mzl.fdwidzue.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/b8/47/1eb847ea-7b92-4d45-8c13-a852743376a5/mzl.itdmfljy.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d5/6a/13/d56a13f0-ea18-9c82-4527-937badd4b580/mzl.jguxmxgf.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dungeon and Puzzles]]></title>
-        <id>Dungeon and Puzzles-pt-1762412068141</id>
-        <link href="https://apps.apple.com/pt/app/dungeon-and-puzzles/id1571643809?uo=4"/>
-        <updated>2025-11-06T06:54:28.141Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/dungeon-and-puzzles/id1571643809?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/37/2b/c4/372bc437-cdcc-4d28-769c-734bca372000/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 2,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  --
-
-Awards:
-● 2021 BitSummit THE 8th BIT: Official Selection
-● Busan Indie Connect 2020: Excellence in Casual
-● Bahamut 2020 ACG Creation Contest: Bronze Award
-
-About:
-Dungeon and Puzzles is a game that challenges players' 2D spatial perception and logical thinking. A player can use a sword to attack monsters, or a bow and an arrow to destroy enemies from afar. Pushing the obstacles back with a shield and pulling the monsters with a pair of special gloves.
-
-There are 150 handcrafted rooms in the dungeon. Players will have to get a better understanding of the game to solve the puzzles and clear the rooms.
-
-To beat the puzzles with fewer moves, achieving advanced goals, players will have to try different tactics and move combinations to find an optimized solution for the room. Sometimes a player would need to put the old solution aside and take on a new perspective towards the problem, reexamine and rethink before making a move.
-
-Features:
-● Dungeon + Puzzle + Sokoban
-● 150 handcrafted rooms
-● Fantasy themed pixel art
-● Non-linear dungeon map
-
---
-
-● Follow us on Twitter
-https://twitter.com/nekolyst
-● Like us on Facebook
-https://www.facebook.com/Nekolyst
-● Join our Discord server
-https://discord.gg/A7Sss9d
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/02/6d/d5/026dd54f-abf7-48cb-520e-417d64d63a88/04911ad3-24f7-46d5-ac3a-b4e38727268a_1242x2208_1_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6e/56/82/6e5682ec-2bbe-1721-caec-b23ac3f4c404/7847e700-798d-47ce-b0f7-a262a755b2be_1242x2208_2_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ad/12/05/ad1205ca-b39a-d4c3-e85d-6096fb7fd50b/5e45831a-c939-4c29-90e3-f718dfd7220d_1242x2208_3_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/99/6a/c3/996ac323-d20f-2a6c-fdad-919472764244/77593e1e-e47c-45d5-9b53-763eff5812f0_1242x2208_4_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7b/da/5f/7bda5fe6-f7dc-077a-4b88-531ac9f9a8e8/91acdf2b-debb-4a6e-947c-9c87eae9115e_1242x2208_5_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c7/40/b0/c740b0b9-49c2-b3b2-c4e4-9183180f0061/818eab0d-d5cc-4e34-930d-6d6ff907da00_1242x2208_6_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c6/60/e8/c660e863-31ef-e435-2b8e-e262673674ff/de857503-d609-47b6-8c7d-4d3d2cfef187_1242x2208_7_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/97/f8/a697f82e-4f2a-c0ce-80a3-867edea2191e/07f6be1d-795c-45be-a410-fa5a8d52ee24_1242x2208_8_english.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5f/4d/f3/5f4df3ad-fc93-140d-d77a-636f3dcaef04/14a1128d-3faa-4608-a63b-f1a31ef275a7_2048x2732_1_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/48/07/58/480758e8-5a32-7349-6888-cb18a763f8db/439e12d3-eabe-41b3-943d-7e42a95b0e87_2048x2732_2_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6e/16/fc/6e16fc66-177e-2e07-08c7-70b19bc8de79/b57046a7-3dfc-461e-99fc-1dde7b7f970b_2048x2732_3_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/01/55/fa/0155fa0d-975f-bcc0-6d6e-e2abd1ab104d/04812bd2-6fea-4dcc-88a3-86ff1fb22ff9_2048x2732_4_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/38/57/86/38578659-3367-dc10-3037-3934a40e6e31/aa2a7d9d-e4da-4535-9bd9-d6e519fa449c_2048x2732_5_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6a/7a/c3/6a7ac32d-5550-9b44-9164-8e9ab10417c9/661c41f0-0ef2-4e36-a00e-bdd892a896c5_2048x2732_6_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/57/d6/6e/57d66ee5-50f4-84e7-d301-09d902c9d0b1/cada7688-4f66-49f3-931c-48f2290814fb_2048x2732_7_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a8/7f/34/a87f34a1-a916-8d2c-be1f-9ed52851ccf4/5168a4ac-d607-48b0-b1de-fface7dcd250_2048x2732_8_english.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neighbours back From Hell]]></title>
-        <id>Neighbours back From Hell-pt-1762412068141</id>
-        <link href="https://apps.apple.com/pt/app/neighbours-back-from-hell/id1537362903?uo=4"/>
-        <updated>2025-11-06T06:54:28.141Z</updated>
-        <summary type="html"><![CDATA[Price: 4,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/neighbours-back-from-hell/id1537362903?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/f8/b4/49f8b4a2-da47-117c-d795-2a3f1dd0845f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>4,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 4,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>
-  """Você sabia que “Schadenfreude” é uma palavra alemã para definir o conceito de encontrar alegria no infortúnio de outra pessoa? É também a ideia principal do jogo Vizinhos do Inferno. Um programa de TV baseado em pegadinhas cada vez mais ultrajantes contra seu vizinho mal-humorado. Tudo para manter o público entretido e o número de visualizações alto. Ser mau é algo bom nessa extravagância de palhaçada inspirada na TV do início dos anos 2000! 
-
-Como o Woody, o protagonista vingativo do Vizinhos do Inferno, você vai fazer pegadinhas através das temporadas 1 e 2 do fictício, mas apropriadamente chamado programa de TV. Faça travessuras do apartamento do seu vizinho desagradável até a China, Índia e México, onde você garantirá que as férias dele sejam um inferno. Já que você está dedicado em fazer isso, por que limitar suas travessuras em um vizinho, quando você pode envolver a mãe dele e outros viajantes? Não importa o que você deseja fazer, sua confiável equipe de filmagem estará lá, pronta para toda a ação. Você pode deixar sua criatividade fluir livremente e ver o vizinho se enfurecer em desespero. Apenas tome cuidado para não ser pego por ele ou seus companheiros. Se isso acontecer, eles vão gritar com você e seu programa de TV será tirado do ar. Por outro lado, se você tiver um bom desempenho, criando mais desordem e caos na vida do vizinho, as avaliações irão aumentar e você poderá ganhar prêmios de prestígio. ""
-
-O Vizinhos do Inferno 1 e 2 remasterizado em um pacote: 28 episódios ambientados na casa do vizinho, em um cruzeiro e em vários locais de férias ao redor do mundo
-
-- Todos os gráficos recém-renderizados em Full HD
-- Para uma experiência mais suave, as taxas de quadros de todas as animações foram dobradas
-- Use a discrição, habilidade e estilo para realizar uma emboscada perfeita
-- Interface e controles fáceis de usar
-- Excelentes gráficos em estilo de desenho animado
-- Trilha sonora de uma grande banda 
-- Suporte total ao controlador
-- Compatível com Game Center!
-
-© HandyGames
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1f/a7/62/1fa76201-79e0-19f4-04b0-b852cf4e9c54/59da0ec8-ca20-482b-99a6-a8f7dfe7ca72_NBFH_Screenshot_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9d/c9/e6/9dc9e69d-1b8a-3da6-36c6-cd20a12dfda2/b10e155d-91ff-4d23-8444-169e51969c8d_NBFH_Screenshot_05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/80/30/9b/80309bd4-c2b0-b39f-bb55-9ce15f173aea/83a7cb51-f523-46e8-b102-8874b608734b_NBFH_Screenshot_06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d9/e5/d1/d9e5d11f-0a80-c871-d4f5-3fc1ee82d622/cc0363e1-7f5a-4d47-9244-aa6cd9fc4f25_NBFH_Screenshot_07.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f0/a9/20/f0a92075-ebf0-b2de-42f5-ebaa9b989157/bd504dcd-8cc5-42cf-96d3-83058b0a1dee_NBFH_Screenshot_08.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e5/2c/7f/e52c7f95-ca5c-65ec-c990-ffc4a77eb991/7fbb3155-96ba-4810-aa0c-3589d7115554_NBFH_Screenshot_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/22/c1/83/22c18301-6763-ac7d-37e5-aa22dcb150a7/98a470ed-08b8-402e-bc55-7b9917c3b052_NBFH_Screenshot_02.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1e/2a/5f/1e2a5fd0-e04c-cc00-945d-5bfc0d7c681f/018bef36-816a-47b7-abf7-b7e2d321165c_NBFH_Screenshop_01.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/b5/fb/4eb5fb18-ee4e-362f-5f56-3ff8b19a3638/eff769f8-2a6b-420f-8f57-2621b322beaa_NBFH_Screenshop_02.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/fb/31/d9/fb31d93a-81b6-faff-d86c-61b48ba236c7/25015943-cc07-43b8-adf4-ad9b817f5d9e_NBFH_Screenshop_03.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e5/2a/86/e52a8646-2ef7-47e3-8352-6127be539411/6d638e11-c6e5-414a-b42e-55743cc39824_NBFH_Screenshop_04.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/20/ce/4c/20ce4c0c-2465-5275-7ffc-d90dafc59385/64ca17ad-e78f-49be-9660-3ae4e4c93ce4_NBFH_Screenshop_05.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/15/05/5e/15055e2c-d367-767a-732d-98ec5bb8c103/ca99bbb6-78fc-4656-b09b-7d573d29a3de_NBFH_Screenshop_06.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/77/68/24/7768244d-ba5a-d276-3b94-915b9906e978/98648054-0b3d-4e9f-b0ab-7007c731d540_NBFH_Screenshop_07.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/3a/4e/db/3a4edbd6-024d-08fe-12ab-28caab6cd7f0/528e1cb8-822f-4b86-82ea-ed60bda551b5_NBFH_Screenshop_08.PNG/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Aces of the Luftwaffe Squadron]]></title>
-        <id>Aces of the Luftwaffe Squadron-pt-1762412068141</id>
-        <link href="https://apps.apple.com/pt/app/aces-of-the-luftwaffe-squadron/id1481181827?uo=4"/>
-        <updated>2025-11-06T06:54:28.141Z</updated>
-        <summary type="html"><![CDATA[Price: 7,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/aces-of-the-luftwaffe-squadron/id1481181827?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/05/3c/e6053ce0-d84e-719a-88c4-e7c6c45e9296/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>7,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 7,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h2>Application Description</h2><p>
-  O esquadrão chegou ao teu dispositivo móvel! Evita uma tempestade de balas e enfrenta temíveis máquinas de guerra aéreas! Lidera o teu esquadrão até à vitória em duas campanhas diferentes, repletas de reviravoltas na história e combates  com chefes lendários!
-
-ASES DA LUFTWAFFE - ESQUADRÃO é um jogo de tiros de rolagem vertical repleto de ação com uma narrativa fascinante e totalmente falada. Desvia-te de balas, recolhe power-ups massivos e usa sabiamente habilidades especiais para derrotares os teus inimigos. Duas campanhas com 50 níveis no total, ataques de vários inimigos mortais e muitas lutas épicas contra chefes. Estás preparado para a tarefa?
-
-Quando a Europa parecia estar livre, um comando secreto alemão chamado Os Ases da Luftwaffe teve a oportunidade de se vingar e invadir os EUA! É teu dever restaurar a paz e a liberdade a bordo de asas mortais de aço em batalhas aéreas bombásticas! No entanto, qualquer história tem dois lados. Enquanto os Ases da Luftwaffe começam o seu ataque aos Estados Unidos, tu és encarregado de liderar um esquadrão de pilotos alemães de elite numa missão secreta. Entra numa aventura aérea épica de intrigas e rasteiras com uma base secreta no Triângulo das Bermudas. Escolhe o teu lado, decide o teu papel e descola!
-
-- Jogo de tiros com efeitos especiais explosivos
-- Asas NPC heroicos que seguirão as tuas ordens
-- Árvores de habilidades com perícias individuais para cada asa
-- Sistema de conquistas desafiante
-- Enredo cativante com personagens que falam
-- 50 níveis e missões emocionantes
-- 12 espetaculares lutas contra chefes
-- Banda orquestral sonora épica, semelhante a um filme
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/98/9e/85989eb9-4ae5-42a7-de8f-3f9709c70a9f/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/ca/ef/7bcaefd9-545d-f926-1c4a-7db534dc9402/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/c6/43/4cc643d3-a6e5-3a47-a08c-c3525bb7b67a/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c5/92/05/c59205fe-2d8f-0168-8fce-79b4bf0a99aa/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/9a/c5/54/9ac55420-a717-fc5c-65f9-57b1b61d0ccb/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b6/91/14/b691145a-2e1d-b6ed-d608-1cb9a0ee4446/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e0/bb/7a/e0bb7abc-d362-bce4-b3b7-3de05e95f28d/pr_source.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/6b/34/d66b34fd-b868-b0a3-6292-83aaa5c9b53a/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7b/7f/36/7b7f3617-78d1-6edf-755a-cec6f0efb50b/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d3/c0/44/d3c044b8-3c92-ed70-a7f5-94408f142dd1/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3f/28/94/3f28947b-5285-1f54-fc5a-7e3711e4fc05/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/09/91/36/09913618-397c-946a-4f08-322e898be4b1/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7f/06/d2/7f06d2b7-e33e-80c5-0cd5-2ac62fbe2e56/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/82/07/93/82079374-176d-cb83-fc78-f30b5740601d/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1942 Pacific Front Premium]]></title>
-        <id>1942 Pacific Front Premium-pt-1762412068141</id>
-        <link href="https://apps.apple.com/pt/app/1942-pacific-front-premium/id994157520?uo=4"/>
-        <updated>2025-11-06T06:54:28.141Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/1942-pacific-front-premium/id994157520?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6d/8c/ca/6d8ccaba-1029-ce3f-798d-cd92c3c6cf9f/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 2,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    700.000 ouro：<b>99,99 €</b>
-  </li><li>
-    60,000 Gold：<b>9,99 €</b>
-  </li><li>
-    325.000 ouro：<b>49,99 €</b>
-  </li><li>
-    25.000 ouro：<b>3,99 €</b>
-  </li><li>
-    125.000 ouro：<b>19,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Vivencie as batalhas da Segunda Guerra Mundial neste novo jogo de guerra!
-
-A batalha continua após o "1941 Frozen Front" - e desta vez, tudo gira em torno de batalhas navais! Entre para a Marinha e lute para vencer a maior batalha da sua vida! Conquiste o campo de batalha e envie seus soldados para a linha de frente. O melhor do combate militar! Escolha as melhores táticas e utilize seu esquadrão para derrotar o inimigo! Lidere o exército dos EUA em sua campanha ou comande as forças japonesas em sua missão! Elimine as alianças inimigas com infantaria, artilharia, tanques, aviões de combate, fragatas e submarinos, e ganhe suas patentes por ser um comandante habilidoso no FRONT DO PACÍFICO!
-
-*** DESCRIÇÃO DA MISSÃO ***
-
-BATALHE com armas poderosas como torpedos e bombas!
-ELIMINE posições inimigas com tanques e infantaria!
-BOMBARDEIE quartéis generais inimigos com poderosos bombardeiros!
-SURPREENDA o inimigo com ataques de seus submarinos
-POSICIONE sua artilharia em terrenos acidentados!
-LIBERE praias, lagos e estreitos!
-PREPARE EMBOSCADAS para o inimigo!
-ABASTEÇA seu exército com suprimentos e munição!
-DEFENDA seus porta-aviões e suas fragatas!
-
-Recursos:
-- Jogue sem anúncios!
-- Jogo de ação e estratégia em rodadas, no ambiente da 2ª Guerra Mundial
-- Campanhas eletrizantes e missões desafiadoras
-- Unidades históricas dos EUA e do Japão
-- Infantaria, artilharia, tanques, caças, fragatas e submarinos nas duas alianças
-- Reparos, camuflagem e fortificação de unidades durante as batalhas
-- Batalhas multiplayer hot-hand
-- Mapa hexagonal para proporcionar a melhor perspectiva possível
-- Gráficos detalhados e efeitos sonoros super realistas
-
-Obrigado por jogar o "1942 Pacific Front"!
-
-
-© www.handy-games.com GmbH
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/e6/d7/e5/e6d7e595-e24e-b322-705b-028b166932ed/mzl.sxlozjgp.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/dc/bb/e7/dcbbe70c-e6a5-3840-de59-ef2a3c091956/mzl.zynapvlc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f8/a1/8f/f8a18f79-e4f0-c81f-fc39-d05acbf4ca32/mzl.ershnlxb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/30/26/19/3026196a-b5d7-ff9e-580a-f6a5c2803de0/mzl.svugzuuw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/27/61/e2/2761e264-3375-a30a-cada-d0427845983d/mzl.uwpvjqil.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/51/55/23/515523a2-220c-5cd9-0e9a-aed8d60aaf89/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/9b/79/36/9b793629-dfde-0cec-d1c7-d4275b096dde/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/bd/a9/cd/bda9cdbc-6f34-3a87-5940-d9640afdffc9/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/89/57/ee/8957ee17-c946-f2e3-1949-84f34e666cde/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/94/d2/31/94d23135-867e-5366-878e-2a55822b617a/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Streets of Rage 4]]></title>
-        <id>Streets of Rage 4-pt-1762412068141</id>
-        <link href="https://apps.apple.com/pt/app/streets-of-rage-4/id1601446687?uo=4"/>
-        <updated>2025-11-06T06:54:28.141Z</updated>
-        <summary type="html"><![CDATA[Price: 8,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/streets-of-rage-4/id1601446687?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/5c/a9/bf5ca90e-bd64-1888-ed1c-5d0d70230d7a/AppIcons-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>8,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 8,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    DLC Mr. X Nightmare：<b>2,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Abra caminho no soco pelas ruas de Streets of Rage mais uma vez!
-
-Streets of Rage 4 traz o legado do jogo neste beat'em rretrô, com gráficos inspirados em quadrinhos desenhados à mão e mecânica atualizada.
-
-Streets of Rage volta para uma sequência 25 anos após o último episódio: um novo sindicato do crime parece ter assumido o controle das ruas e corrompido a polícia. Tudo que você tem disponível para lutar contra eles são seus amigos... e seus punhos! Streets of Rage 4 foi aclamado pela crítica e ganhou vários prêmios inclusive foi indicado como Melhor Jogo de Ação no Game Awards 2020.
-
-CARACTERÍSTICAS
-- Redescubra a franquia do clássico Beat em up - Streets of Rage - com mecânicas de luta atualizadas
-- Emocione-se com uma direção artística inspirada em quadrinhos retrô desenhada à mão pelo estúdio por trás de Wonder Boy: The Dragon's Trap, trazendo animações prazerosas e efeitos vívidos
-- Desbloqueie até 5 novos personagens emblemáticos jogáveis e lute em 12 fases diferentes para trazer de volta a ordem às ruas
-- Desafie-se em diferentes modos: História, Treinamento, Arcade...
-- Ouça uma nova trilha sonora Eletro com músicos internacionais, como Olivier Derivière e lenda Yuzo Koshiro
-- Cultue o retrô com até 13 personagens alternativos, níveis secretos, ou escolha a trilha SoR1&2 e ative os gráficos Pixel Retrô!
-
-* NOVA GRANDE ACTUALIZAÇÃO GRATUITA*
-
-- Nova cooperativa move-se
-- +300 melhorias no jogo
-- Novo modo de sobrevivência personalizado para o DLC (Mr. X Nightmare)
-- Novos destroíveis para ajudar a manter o contador combinado
-
--ATUALIZAÇÃO MULTIJOGADOR-
-
- - Jogue on-line com um amigo e, juntos, acabem com o plano maligno dos gêmeos Y!
- - Teste sua força: mergulhe no modo de batalha e lute com amigos em suas fases preferidas
-
--DLC Mr. X Nightmare-
-A luta continua em Wood Oak City.
-Após os eventos de Streets of Rage 4, nossos heróis foram se preparar para futuras ameaças. Axel, Blaze e seus companheiros começarão um treinamento muito especial com a ajuda do Dr. Zan, que construiu um programa de IA a partir dos restos do cérebro do Mister X que simula todo tipo de perigo que podem enfrentar.
-Com este DLC, prepare-se para:
-• 3 personagens jogáveis novos
-• Um novo modo de sobrevivência com desafios semanais
-• Personalização de personagens: construa o próprio estilo de luta com novos movimentos
-• Novas armas e inimigos! modo multijogador não estará disponível no lançamento, mas virá em uma atualização gratuita após o lançamento. modo multijogador não estará disponível no lançamento, mas virá em uma atualização gratuita após o lançamento.
-
-CUIDADOSAMENTE REPROJETADO PARA CELULAR
-- Interface renovada
-- Conquistas do Game Center
-- iCloud: Compartilhe o progresso entre dispositivos iOS
-- Compatível com controles MFi
-- Sem microtransações!
-
-Estale os dedos e prepare-se para Streets of Rage 4 de onde estiver!
-
-Se você encontrar um problema, entre em contato conosco em support@playdigious.mail.helpshift.com com o máximo de informações possíveis sobre o assunto, ou consulte nossas FAQs em https://playdigious.helpshift.com/hc/en/6-streets-of-rage-4/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/7e/20/c2/7e20c240-487a-aae6-6dfd-c0cbfa938efd/9a75269f-6cc1-4c3a-8079-6b7a43d0cfd9_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/70/60/5b/70605b3d-bf32-7aab-91d9-0576b8cab611/e57856ae-a169-45aa-b050-3f8ab055f189_2208x1242bb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/1a/d9/54/1ad95464-21b6-354c-0b4b-ff695e3b422f/ede496fe-6fb2-40fe-8c36-7b040f19b4a5_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/ee/2a/48/ee2a483d-fd84-eaa5-f7da-968fac07dc6d/167a5f61-5247-42b9-9061-5237a40517ec_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/1f/d2/3d1fd28d-dc4b-ea56-aba9-9b2ae372ad5d/72a67f8c-277b-4d4c-9b02-f529849f9245_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0d/b0/21/0db02103-40cc-46e6-9f7b-8bc85f116edc/5cf8d2a6-790f-4687-a865-41948c8324a2_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c6/8f/38/c68f389c-c5ee-1fc5-025f-c90206f6887e/0ac572d5-ab2e-4ebf-af28-c2e0508c4dc3_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/c1/57/c9/c157c986-118d-e5ff-333f-d139e8b41c10/23bb9101-e852-4293-bdab-13b25f977f7b_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/db/85/21/db852180-6905-e6dc-e3dd-f0fd29b7e0c0/f788f5da-5859-4b21-a4bb-ecebbdd049bc_SOR4_dlc_2208x1242_po.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/d9/40/8d/d9408de1-9172-0409-180b-fbb445e37caa/9346d017-213a-4776-be47-487892bf8408_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3d/cf/fe/3dcffe06-5764-f12e-bd86-72fff69993de/835c8702-583a-4772-b49d-641db96fbd74_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/36/b9/18/36b918d0-2905-5f33-ed17-07845cfbfddb/25e4316f-41e7-4684-99a5-b46ae61b1313_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a6/84/9d/a6849da4-7820-795a-305d-dacd30cac9ec/e49cbca8-7551-4b14-994a-e5042145d1e3_floyd.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e7/7a/e8/e77ae897-3f87-2f47-a6b9-5c5524ea5752/08b62d63-3c0c-4422-a9f9-6c1805cd162b_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/52/b9/1b/52b91b14-9ed2-b4e0-e1e9-818fd1ea0fc4/5fb19837-6f7c-40b5-b68c-08bc735e2003_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/78/66/c4786666-8c81-74fe-15fe-d1dc904dff02/26cd5e14-dcf0-498d-8461-752e52ddb43f_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1d/0c/06/1d0c06e2-81d6-ed3e-8f62-e297f5435547/757c2399-2008-44c6-a86e-d6c305fdda2e_7.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/4f/bf/9e/4fbf9ef1-edda-0831-068f-4073ad2ba0ad/83ebeddd-f5de-47e2-b497-10dbbe948e06_SOR4_dlc_2732x2048_po.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moncage]]></title>
-        <id>Moncage-pt-1762412068141</id>
-        <link href="https://apps.apple.com/pt/app/moncage/id1587860402?uo=4"/>
-        <updated>2025-11-06T06:54:28.141Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 3,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/moncage/id1587860402?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/65/cf/fa/65cffac5-14b6-4325-ac86-0ffae1d5d97d/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>3,99 €</strong>
-</b><span>[3,99 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>3,99 €</b>
-</p><h2>Application Description</h2><p>
-  Moncage is a stunning vignette puzzle adventure developed by Optillusion. 
-
-The game takes place inside a mysterious cube, with each side of the cube housing a unique world: be it an old factory, a light tower, an amusement park, or a church, etc. At first sight, they may seem random and unrelated, but upon closer look, you will become mesmerized by the subtle and intricate ways of how these worlds connect…  
-
-【Solve Puzzles with Mind-Boggling Optical Illusions】
-Use your imagination and spare no brain cells to find the connection and pinpoint every possible interaction between different sides of the cube, then watch as the magic unfold in front of you.
-
-【Collect All Photos to Unveil the Story】
-Behind the puzzles, there lies a story with a surprising twist for the player to uncover. Collect the photos from obscure corners and angles to reveal the underlying story, one photo at a time.
-
-【Get Unstuck with Thoughtful Hints】
-There is a multitude of guidance systems to help prevent players from getting stuck. Focus can be activated to highlight the key items to the solution, while hint texts are available to provide further clarity. And, if all else fails, video walkthroughs can be unlocked as the ultimate safety plan. 
-
-【Prove Your Puzzle-Solving Skills with Medals】
-There are a total of 15 achievements in the game, each corresponding with a Medal that has been crafted with a uniquely stunning design. A complete collection of the 15 Medals could be the perfect evidence to attest to your master puzzle-solving skills~
-
-【Connect with us:】
-Twitter: @MoncageTheGame
-Email: moncagethegame@gmail.com
-Discord: https://discord.com/invite/TEVX2uPEsj
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/8f/00/478f00a1-7332-ba75-21b1-3c081f4503fc/fa6897cd-a09b-4fba-a3ff-d359e72b9947_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/2e/3b/c22e3be6-f329-b853-de90-6d794cc8d8fb/0e8711a2-31a8-45b6-9227-5f23c1577ea8_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ec/10/fc/ec10fc65-eff9-7070-27de-b5658ae93378/4e5fb9d8-6af3-4e87-9ac3-ffb1ce90ec20_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/71/bc/b7/71bcb7de-c500-4d18-c637-4d491d68f6b3/a14b691f-79fb-4224-aec2-23e9b1899151_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4a/91/72/4a91724f-94a5-e2cc-9f6f-cd82d3154c87/7df8e377-a60d-4e9c-8355-8b8429f808a6_005_Uff08_U82f1_U8bed.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/06/d2/94/06d294d5-25cc-cc59-f85c-85d1767e4a39/87a917b5-4577-4d20-a7e4-ec258fb20466_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/50/5e/09/505e09bf-77d5-9268-e59a-bda690219ab2/f6ca7631-36c3-437e-a402-4dc75108a62e_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5c/64/5f/5c645f91-05ec-d2a6-1de5-41eeaa16cea1/06d7ad36-3345-4060-ade4-62c223a44cd3_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/ca/76/f9ca76f9-f262-88e3-6a13-3c31ad2e020f/88f57d71-3063-41de-bbc1-482f20da6288_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/eb/32/48/eb324882-2bfb-7b11-0e97-34017f46fcf4/43020ad7-bbaf-4ce3-ab85-22f6e346b894_005_Uff08_U82f1_U6587.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
