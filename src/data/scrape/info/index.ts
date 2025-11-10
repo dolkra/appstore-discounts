@@ -7,18 +7,9 @@ export default async function (
   regions: Region[],
 ) {
   const hour = dayjs().tz(regionTimezoneMap.cn).hour()
-  let limitCount = 10
+  const limitCounts = [2, 3, 4, 5, 6, 7, 8, 9]
+  const limitCount = limitCounts[Math.floor(Math.random() * limitCounts.length)]
   let scrapeType: InAppPurchasesScrapeType = 'fetch'
-
-  if (hour >= 4 && hour < 6) {
-    limitCount = 4
-  } else if (hour >= 6 && hour < 8) {
-    limitCount = 6
-  } else if (hour >= 8 && hour < 10) {
-    limitCount = 8
-  } else if (hour >= 12 && hour < 14) {
-    limitCount = 12
-  }
 
   if (hour % 4 === 0) {
     scrapeType = 'playwright'
