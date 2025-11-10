@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-11-09T15:21:06.219Z</updated>
+    <updated>2025-11-10T05:55:52.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-09T15:21:06.219Z</updated>
+        <updated>2025-11-10T05:55:52.743Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 09 Nov 2025 15:21:06 GMT</id>
+        <id>rankingusMon, 10 Nov 2025 05:55:52 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-09T15:21:06.219Z</updated>
+        <updated>2025-11-10T05:55:52.744Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1515</b>
+        <b>1517</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1314</b>
+        <b>1316</b>
       </td>
       <td>
         <b>68</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1395</b>
+        <b>1397</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1219</b>
+        <b>1221</b>
       </td>
       <td>
         <b>55</b>
@@ -472,6 +472,23 @@ feedId:157008699750812672+userId:73658201673997312
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6480501528">Cat Todo：AI & Tasks & Reminder</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>22</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6451009326">LMP - Music Hub</a>
       </td>
       <td>
         <ul>
@@ -992,6 +1009,52 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LMP - Music Hub]]></title>
+        <id>LMP - Music Hub-us-1762749227343</id>
+        <link href="https://apps.apple.com/us/app/lmp-music-hub/id6451009326?uo=4"/>
+        <updated>2025-11-10T04:33:47.343Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/lmp-music-hub/id6451009326?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b2/02/29/b20229a8-bb44-191c-9b1e-1c31c866e8c7/icon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h2>Application Description</h2><p>
+  Play local music or stream from a file/media server with LMP. 
+
+Apple TV version included, with support for Emby, Navidrome, Plex, and Jellyfin.
+
+▣ Import via iTunes or folder and play local tracks
+
+LMP was designed from scratch with offline music in mind. You can store music on your device in two forms: iTunes music or audio file. The first would require syncing with iTunes on Windows or Finder on Mac. To import as audio files, simply transfer them to the LMP Music folder on your device via any means. If you choose the latter, you will be able to enjoy additional features, such as editing of metadata via the LMP browser assistant.
+
+▣ Connect to a cloud server and stream music from the server
+
+If you have insufficient storage on your device, you can also store your tracks on a server and stream from the server. File servers using SMB and WebDAV are supported. However, we recommend hosting a media server instead, via Plex, Emby, Navidrome or Subsonic due to faster import speeds. All tracks come together seamlessly, no matter how they are imported, providing a unified experience. You can enable the option in the settings to hide repeated tracks across servers.
+
+▣ Manage playlists with ease
+
+LMP has its own playlist system that allows you to not only add tracks from all sources, but also artists. All tracks belonging to the artist would automatically be added to the playlist everytime you open the app or rescan, even newly added ones. With flexible artist splitting, you will be able to ensure that tracks get allocated to the right artist.
+
+When the AI playlist is enabled, LMP will also be able to generate a playlist for you based on your listening preferences. Usage data is only recorded if this feature is enabled, and all data recorded for this is stored locally, so you do not have to worry about data privacy.
+
+▣ Supports CarPlay & Siri
+
+With support for CarPlay, you can start playing a playlist or control what's playing from your car's CarPlay console. Alternatively, you can also tell Siri to start playing a track or all tracks belonging to a particular artist, or use it to control the playback state of the current track.
+
+▣ Support LRC lyrics
+
+LMP supports both embedded lyrics and .lrc files. Use the LRC or Enhanced LRC format, and the app will be able to autoscroll lyrics as the music plays. If you do not have time to add your own lyrics, you can specify the lyrics API to use, and the app will attempt to fetch lyrics of any track that is playing.
+
+▣ Browser Assistant
+
+Manage local files on the app using the LMP browser assistant, which you can open on your computer's browser. Import new files or move/delete existing files using the Folders tool, edit music metadata using the Metadata tool or even manage your playlists using the playlists tool.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/4e/b1/024eb1ae-1e63-70fb-cc2d-72da117c0a43/2ffddeb0-d4b4-4c4b-88dc-6d8d8851ff53_Main.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/87/1c/03871ccd-b7bd-0a94-50c2-dd897e2accba/0f92d25c-d4fa-43a7-9640-59f7f6db5868_Imports.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/95/bc/e395bc9a-c2e3-af50-4375-84c432d31bbc/13413303-72c4-4e69-94a8-c2b5d3561462_CarPlay.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/16/e8/e416e8f6-a951-3f97-a3f7-1bf3825afefa/fdb232fa-cae9-41c4-a467-013780ec8d18_Lyrics.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/33/07/d4/3307d43f-e8f5-e5bb-9269-a15aa25eb1b6/55646a04-6d00-4605-8278-3e19070dd6e9_Playlist.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/39/c7/06/39c70661-0d1c-6747-0f12-2751b75742e7/dd7287cb-47ff-4199-a52c-9863d97a0d15_Artist_Split.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ac/5b/0a/ac5b0a1b-f2b7-0246-69b2-c30cec30e27a/b110a9b3-bd15-4e67-bde8-c9a5eb78feee_LMP_Assistant.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/32/1e/46321e29-cc0c-7940-0f70-b0efb1ffca02/f88f631a-854e-492e-b491-21c48821a075_Chinese_Optimization.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/11/a9/3511a987-6364-97b4-c4ef-10042896ebcb/4188a5f8-8d24-4da6-8463-73ad24056345_Widgets.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/94/24/429424ae-53ca-f269-14b1-158597f888b8/188118bc-684c-4a5a-8040-4f0dc7e82c8d_Main.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/26/9d/15/269d15f5-8f2f-f145-741c-608300dc17b6/04427514-1754-4c8e-9e77-8a040fcb48c6_Imports.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/54/0f/c9/540fc94d-1046-9a88-b6a3-47f16ba78fd1/4f3508e0-1404-4050-9471-a16ff0ac4229_Lyrics.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/19/23/21/192321b0-fcd2-94fa-419d-e319614087b3/d52b5533-e545-4d6b-9d07-53da6d7238eb_Playlists.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/98/f6/8a98f6af-bf78-43f3-49ed-c3f88d47150f/d6b49f22-102e-40b1-8f48-b03b3738fe57_Assistant.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Stay for Safari]]></title>
         <id>Stay for Safari-us-1762698035015</id>
         <link href="https://apps.apple.com/us/app/stay-for-safari/id1591620171?uo=4"/>
@@ -1143,58 +1206,5 @@ If you see any issues or have good suggestions, please send them to help@buffstu
 
 ■ We need your support to make better story games, adventure games, visual novel games. Please recommend this storytelling game to your family and friends. It will be of great help to us.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/57/9b/b8/579bb8b6-31a4-7528-f312-f0d1f3311514/mzl.rbhxmlmm.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/85/41/a2/8541a2f7-8cd7-cbaa-71c3-93a57b824f50/mzl.ttocwfwj.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5a/b7/fa/5ab7fa4d-a5ec-24cc-7d18-191003a686c0/mzl.scifoduc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8d/33/ce/8d33cec1-13bd-07ca-1f63-46c466c7dbb6/mzl.rxotthrq.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/98/ab/5498ab21-c6c2-d3b3-3111-6100e2ae969f/mzl.ahjzigqj.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a6/80/aa/a680aa44-16bf-88b5-04d7-9dc42f39e797/mzl.mvtxkxgn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0f/d2/3c/0fd23c12-f6ed-b070-5172-dfe6b7125528/mzl.pzvddnfl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/06/49/d60649f1-57b6-7c46-21b5-ca01de26ea92/mzl.fbaavrug.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1a/02/12/1a02123c-d51c-5c54-6cd2-a8bdfef7271f/mzl.denuxsgw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2a/ab/2e/2aab2e48-6cc0-6f23-ce33-399d1ee73d73/mzl.oaxqyqcz.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyper Light Drifter]]></title>
-        <id>Hyper Light Drifter-us-1762460942623</id>
-        <link href="https://apps.apple.com/us/app/hyper-light-drifter/id1453875289?uo=4"/>
-        <updated>2025-11-06T20:29:02.623Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $2.49]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/hyper-light-drifter/id1453875289?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/c3/37/e1/c337e14f-ffda-948e-cd37-c97548f34a23/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$2.49</strong>
-</b><span>[$2.49 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.49</b>
-</p><h2>Application Description</h2><p>
-  Finally, Heart Machine's award winning slash-'em-up arrives to iOS in the most polished and refined version yet, the Special Edition.
-
-
-► Winner of the Audience Award and Excellence in Visual Art awards of the prestigious Independent Games Festival.
-
-► 14 + nominations among the Best Visual Design, Best Audio and Best original Game categories.
-
-► 9/10 Destructoid - A hallmark of excellence. There may be flaws, but they are negligible and won't cause massive damage.
-
-► 9.5/10 Game Informer - The combination of soundtrack, art, and combat creates a rabbit hole worth your full exploration.
-
-► Eurogamer Recommended - Heart Machine's slash-'em-up is punishing and precise - and incredibly beautiful.
-
-► 9/10 GameSpot - It is more than simply pretty; Hyper Light Drifter uses its visuals to both guide and relax you. The grandest vistas calm your pulse between difficult, breathless combat sequences.
-
-► 8.5 Polygon - Hyper Light Drifter deftly mixes contemplative moments with breakneck action.
-
-► 5 Stars Darkstation - The top-down action-RPG Hyper Light Drifter is an amazing game: gorgeous, a fascinating world to explore, tight controls, beautiful music, and the faith in the player for you to figure things out on your own.
-
-
-Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Drifters of this world are the collectors of forgotten knowledge, lost technologies and broken histories. Our Drifter is haunted by an insatiable illness, traveling further into the lands of Buried Time, hoping to discover a way to quiet the vicious disease.
-
-Hyper Light Drifter is an action adventure RPG in the vein of the best 16-bit classics, with modernized mechanics and designs on a much grander scale. Explore a beautiful, vast and ruined world riddled with dangers and lost technologies.
-
-
-Features:
-
-● 120 fps gameplay on iPad Pro / 60 fps on iPhone and iPad.
-● Compatible with MFi controllers.
-● Game Center achievements.
-● Haptic Vibration.
-● From each character to subtle background elements, everything is lovingly hand-animated.
-● Easy to pick up, difficult to master; enemies are vicious and numerous, hazards will easily crush your frail body, and friendly faces remain rare.
-● Upgrade weapons, learn new skills, discover equipment and traverse a dark, detailed world with branching paths and secrets abound.
-● Evocative soundtrack composed by Disasterpeace.
-● All the content from the original game + more weapons, enemies and areas from the Special edition.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/58/3e/f5/583ef58f-8544-9680-b20c-4f2fdb18e5a2/mzl.cfgqcerh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d6/b2/61/d6b261eb-3d6a-36b0-fa79-acf90aeed9c9/mzl.rsgnzmch.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b2/70/82/b27082ae-7cc2-997e-35f3-65643b69ed1c/mzl.bqtguzii.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ec/75/e9/ec75e971-26fb-0526-df07-bc299e38a51d/mzl.kqwenuyh.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7e/d7/e6/7ed7e66b-d60b-fa0a-e3b5-9b17e5709326/mzl.gztzijkd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/1b/5a/3b1b5ab7-dba4-da30-2a6a-ed1af9cfac53/mzl.rhoeuvwr.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/7b/73/c07b73e1-64a4-b713-15ba-9061a906f543/mzl.yracjgvz.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/29/02/0e29025f-f5d8-88b5-f6f9-2c08bcd040e6/mzl.lubgomty.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/82/76/9f/82769ff7-02c0-4da0-c5a8-d449b109959e/mzl.hwgoqbkb.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b5/fb/0c/b5fb0c8d-40f2-8553-0fcf-8af2cd11eb88/mzl.hthxenuq.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/04/1f/0a/041f0a99-3b9a-5d1a-b2fb-33c2c377ed13/mzl.minsmeic.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/30/fc/4c/30fc4c25-bf7b-39a6-4b6d-78af998f9612/mzl.ahxlplhd.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

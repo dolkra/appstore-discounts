@@ -1,5 +1,41 @@
 [
   {
+    "timestamp": 1762749227343,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 1450064785,
+          "trackName": "山林日誌",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [],
+      "tw": [],
+      "us": [
+        {
+          "trackId": 1581640677,
+          "trackName": "Football Referee Simulator",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "1h22m12.688s",
+    "regionAppCount": {
+      "cn": 726,
+      "hk": 1310,
+      "mo": 1305,
+      "tw": 1315,
+      "us": 1303,
+      "tr": 1295,
+      "pt": 1252
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1762740396714,
     "regionAppInfo": {
       "cn": [
