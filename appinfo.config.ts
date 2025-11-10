@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 364876095,
+    name: {
+      mo: 'Jump Desktop (RDP, VNC, Fluid)',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1450106361,
     name: {
       mo: 'Tripiday - 最佳旅行規劃App',

@@ -6351,6 +6351,27 @@
       ]
     ]
   },
+  "364876095": {
+    "name": "Jump Desktop (RDP, VNC, Fluid)",
+    "maxPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "minPriceInfo": {
+      "price": 98,
+      "formattedPrice": "¥98.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762763768805,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "365729342": {
     "name": "RacquetTune - String Tension",
     "maxPriceInfo": {
@@ -104640,6 +104661,25 @@
     "history": [
       [
         {
+          "timestamp": 1762763768805,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "DLC：姐妹连": "¥2.00",
+            "DLC：英雄对决": "¥8.00",
+            "DLC：怪物联盟": "¥12.00",
+            "DLC：龙之神庙": "¥9.00",
+            "DLC：贪婪洞窟": "¥6.00",
+            "DLC：外星入侵": "¥8.00",
+            "DLC：异界": "¥8.00",
+            "DLC：邪恶之心": "¥12.00",
+            "DLC：孤山世界": "¥12.00",
+            "奇境森林": "¥15.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762489772170,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -122244,6 +122284,14 @@
       "formattedPrice": "¥12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762763768805,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762480822421,

@@ -1860,6 +1860,27 @@
       ]
     ]
   },
+  "364876095": {
+    "name": "Jump Desktop (RDP, VNC, Fluid)",
+    "maxPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "17,99 €"
+    },
+    "minPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "17,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1762763768805,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "365729342": {
     "name": "RacquetTune - String Tension",
     "maxPriceInfo": {
@@ -36060,6 +36081,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1762763768805,
+          "inAppPurchases": {
+            "Diamonds": "99,00 €"
+          }
+        },
         {
           "timestamp": 1762740396714,
           "price": 0,
