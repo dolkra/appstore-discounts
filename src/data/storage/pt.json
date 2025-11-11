@@ -25564,9 +25564,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "MenubarX Pro": "7,99 €"
+      "MenubarX Pro": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762865679762,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "MenubarX Pro": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
