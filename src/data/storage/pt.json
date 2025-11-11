@@ -26212,9 +26212,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Lifetime": "5,99 €"
+      "Lifetime": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762857007160,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

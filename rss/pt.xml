@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2025-11-10T17:40:08.965Z</updated>
+    <updated>2025-11-11T11:36:10.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-10T17:40:08.965Z</updated>
+        <updated>2025-11-11T11:36:10.316Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptMon, 10 Nov 2025 17:40:08 GMT</id>
+        <id>rankingptTue, 11 Nov 2025 11:36:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-10T17:40:08.965Z</updated>
+        <updated>2025-11-11T11:36:10.316Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1518</b>
+        <b>1521</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1317</b>
+        <b>1320</b>
       </td>
       <td>
         <b>68</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1254</b>
+        <b>1255</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1110</b>
+        <b>1111</b>
       </td>
       <td>
         <b></b>
@@ -357,14 +357,20 @@ feedId:206907475259680768+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1601446687">Streets of Rage 4</a>
+        <a href="https://apps.apple.com/pt/app/id1591620171">Stay for Safari</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -374,7 +380,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1659903900">Super Mega Lucky Box</a>
+        <a href="https://apps.apple.com/pt/app/id1601446687">Streets of Rage 4</a>
       </td>
       <td>
         <ul>
@@ -391,7 +397,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6478639011">Subnautica</a>
+        <a href="https://apps.apple.com/pt/app/id1659903900">Super Mega Lucky Box</a>
       </td>
       <td>
         <ul>
@@ -408,7 +414,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6702013134">Cat Flow - Tempo de estudo</a>
+        <a href="https://apps.apple.com/pt/app/id6478639011">Subnautica</a>
       </td>
       <td>
         <ul>
@@ -423,6 +429,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>19</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6702013134">Cat Flow - Tempo de estudo</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6451009326">LMP - Music Hub</a>
@@ -448,6 +471,50 @@ feedId:206907475259680768+userId:73658201673997312
   </thead>
   <tbody></tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay for Safari]]></title>
+        <id>Stay for Safari-pt-1762857007160</id>
+        <link href="https://apps.apple.com/pt/app/stay-for-safari/id1591620171?uo=4"/>
+        <updated>2025-11-11T10:30:07.160Z</updated>
+        <summary type="html"><![CDATA[Lifetime: 5,99 € → 2,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/stay-for-safari/id1591620171?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/06/8e/dd/068edd6e-df5a-ab36-4fef-e7735e4637a6/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Lifetime：</strong><span>5,99 €</span> → <b>
+  <strong>2,99 €</strong>
+</b><span>[2,99 € ~ 5,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Lifetime：<b>2,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  # The choice of one million Safari browser users, the next-generation browser extension platform. 
+
+Stay is a Safari browser extension that enhances browsing experience and interactivity to a great extent. With Stay, users can greatly improve their Safari browsing experience and make it more enjoyable.
+
+Stay supports all Apple platforms and offers a one-time payment that covers iPhone, iPad, and Mac devices.
+
+With Stay installed, what new features can you expect in your Safari browser?
+- Userscripts: Install or write your own userscripts to enable automatic page turning, immersive translation, anti-redirect, and aggregated search functions.
+- Ad blocking: Support for Adguard, uBlock Origin, AdBlock Plus, and other filtering rules based on the EasyList specification, making your browsing experience safer and cleaner.
+
+By purchasing Stay Pro, you can enjoy the following additional benefits:
+- Synchronization of script content and settings across all platforms.
+- Add custom ad filtering rules and tag ads on pages.
+- Dark mode for web pages.
+
+Privacy policy: https://www.privacypolicyonline.com/live.php?token=ZPXT0Jfv2diYUfbf5ciLDV9oYRgJ6Evc
+Terms of service: https://fastclip.app/policy/terms-stay.htm
+
+Visit our open-source version address at https://github.com/shenruisi/Stay.
+For any questions, please follow our official Twitter @stayfork to provide feedback.
+Join our Telegram group at t.me/fastclipchat.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/fb/50/ebfb5049-4029-f3a2-51ac-83f9a995fd29/a565e7ac-03ee-446f-88c6-abbfeb8a1c67_stay-2.5.8-en1-5.5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/80/6d/ef806d0d-e546-d7bd-8255-fb0235cb1072/3d2a5f83-b39f-4668-a998-b6f61f873f62_5.5-en-t2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/34/81/2f348189-69ad-92d1-56c3-4a31be0683c4/dc3e7ddc-c47d-469b-a4f9-928dc04ad537_sceenshot-en-5.5-t3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/68/9f/3c689f8c-62f7-2b9a-9886-85491db95b40/b23ccce3-2cfc-4df2-a936-9cc3bf4996f8_sceenshot-en-5.5-t5.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Heads Up!]]></title>
@@ -605,68 +672,5 @@ DDay, simply marked down the day Celebrate each in full color.
   Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
 And there are reminders that you can never forget.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7Days : Backer]]></title>
-        <id>7Days : Backer-pt-1762566856839</id>
-        <link href="https://apps.apple.com/pt/app/7days-backer/id1411823462?uo=4"/>
-        <updated>2025-11-08T01:54:16.839Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 0,49 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/7days-backer/id1411823462?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/2e/82/1a/2e821a91-10d1-1d67-4aec-90a6537abe31/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>0,49 €</strong>
-</b><span>[0,49 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,49 €</b>
-</p><h2>Application Description</h2><p>
-  Vocês já está cansado das mesas velhas histórias? Você está interessado em jogos narrativos, romances gráficos, jogos baseados em chat e jogos indie, mas você está cansado da mesma coisa? Se sim, você deveria checar '7Days', um jogo de mistério com romance gráfico e baseado em decisões. 
-
-'7Days' é um jogo narrativo de mistério com romance gráfico. É um jogo narrativo único baseado em decisões onde o usuário pode criar suas histórias baseadas na escolha que ele fizer.
-
-Nós fornecemos a melhor experiência de um jogo narrativo com um enredo de mistério em estilo bate papo, projetado para dispositivos móveis. É um jogo altamente recomendado para você.
-
-■ Jogo explicado
-Toda escolha muda a sua história.
-Cada pequena escolha irá mudar seu relacionamento com seus companheiros,
-e altera seu destino e de seus companheiros nos momentos críticos.
-
-Você pode ser o vilão ou um companheiro de confiança.
-Tudo depende de suas escolhas.
-
-■ Resumo
-Existem espíritos que foram colocados ao testa para ressurreição no mundo da morte.
-O mensageiro da morte os atribuiu com a tarefa de se atacarem ou trabalharem juntos. Seu personagem, Kirell, deve completar tambés as tarefas baseadas em escolhas que lhe foram atribuídas.
-Mas suas tarefas necessitam que outros morram...
-
-Você só tem 7 dias
-O que você irá escolher?
-
-Experimente está história que provoca a imaginação agora mesmo.
-
-■ Características do jogo
-- Estilo quadrinho com gráficos incríveis
-- Enredo único que alterna entre a vida e a morte
-- O enredo muda de acordo com suas escolhas
-- Várias conquistas e desafios ocultos
-- Episódios e finais diferentes baseados na história
-- Aventura de texto com uma sensação misteriosa
-- Enredo excitante
-
-■ Recomendado para aqueles que:
-- Estão interessados em conteúdo/texto interativo como romances gráficos, jogos narrativos, jogos de bate papo e jogos sociais
-- São apaixonados por jogos indie como 'Undertale'
-- Estão procurando por uma jogo narrativo com elementos de mistério e/ou terror
-- Estão procurando por O jogo e estão cansados dos jogos narrativos de sempre
-- Estão interessados em diferentes tipos de jogos de aventura
-Nós também recomendamos 'Underworld Office: Ghost Game', outro de nossos grandes jogos.
-
-■ Nós garantimos a diversão. Baixe e experimente agora
-
-Se você encontrar algum problema ou tem alguma sugestão, por favor, envie para nós em help@buffstudio.com. Nós trabalhamos duro para fazer os melhores jogos de aventura, narrativos, indie, restauradores e romances gráficos.
-
-■ Nós precisamos da sua ajuda para fazer jogos narrativos melhores. Por favor, recomende este jogo narrativo para sua família e amigos. Será de grande ajuda para nós.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8b/a0/91/8ba09128-3721-b683-98fd-fd548d7f1aca/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0c/f6/56/0cf656d8-5cd9-e829-8ca0-847869a7e1cc/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e3/70/9b/e3709b6d-1aae-f2ad-b6b5-b98956ee3982/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/93/84/5c/93845c65-c139-3ec7-82c6-0478a9935451/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c9/6e/c8/c96ec8df-a58e-cde4-43e8-ad38c49c4885/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/95/2b/a2/952ba24c-f950-d16c-5af1-d692fa38e821/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/00/56/2f/00562f75-1a29-734d-19e8-41cdaecdc248/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/80/55/6f/80556fd0-7590-d5c0-02a0-8750f50b4b23/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/24/02/11/24021144-a6bc-722d-3960-c9181a82a816/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ca/7a/97/ca7a97cc-2204-2819-c230-fe1c320ec41e/pr_source.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
