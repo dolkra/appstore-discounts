@@ -72,6 +72,20 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 1447768809,
+    name: {
+      mo: 'Marvis Pro',
+    },
+    addType: 'auto',
+  },
+  {
+    id: 1556984702,
+    name: {
+      mo: 'EasyVirtualChoir',
+    },
+    addType: 'auto',
+  },
+  {
     id: 6443540386,
     name: {
       mo: '菲林观片器',
