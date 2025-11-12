@@ -42,8 +42,8 @@
          * 你将获得类似的一个链接地址：https://apps.apple.com/us/app/pages/id409201541?mt=12&l=en-US
          * 它的规则是：协议://apps.apple.com/国家或地区的编码/app/应用的名称/id应用的ID?x1=x1&x2=x2
          * 例如从这个 https://apps.apple.com/us/app/pages/id409201541?mt=12&l=en-US 链接获取到的 `ID` 就是 `409201541` 
-   2. 修改 `appinfo.config.ts` 
-      1. 补充 `latestAppConfig` 变量声明
+   2. 修改 `apps.json` 
+      1. 在 `appConfig` 的顶部补充新数组元素
 * 最后将你的提交合并到本项目的 `main` 分支
 
 

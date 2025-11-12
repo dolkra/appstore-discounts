@@ -42,8 +42,8 @@ A basic understanding of  `TypeScript`  is required. Here are the general steps.
          * You will get a similar link address: https://apps.apple.com/us/app/pages/id409201541?mt=12&l=en-US
          * Its rules are: Protocol://apps.apple.com/Country or Region's Code/app/App Name/idApp ID?x1=x1&x2=x2
          * For example, the  `ID`  obtained from this  https://apps.apple.com/us/app/pages/id409201541?mt=12&l=en-US  link is  `409201541` 
-   2. Modify  `appinfo.config.ts` 
-      1. Add  `latestAppConfig`  Variable Declaration
+   2. Modify  `apps.json` 
+      1. Append new array elements at the top of  `appConfig` 
 * Finally, pull request your commit to the  `main`  branch of this project
 
 
