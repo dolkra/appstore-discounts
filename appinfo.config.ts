@@ -72,6 +72,13 @@ export const regionTimezoneMap: Record<Region, string> = {
  */
 export const latestAppConfig: AppConfig[] = [
   {
+    id: 6742887304,
+    name: {
+      cn: '剧能说-听音频练习地道英语口语英语听力',
+    },
+    addType: 'auto',
+  },
+  {
     id: 1447768809,
     name: {
       mo: 'Marvis Pro',
