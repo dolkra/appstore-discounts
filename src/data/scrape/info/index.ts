@@ -7,7 +7,7 @@ export default async function (
   regions: Region[],
 ) {
   const hour = dayjs().tz(regionTimezoneMap.cn).hour()
-  const limitCounts = [2, 3, 4, 5, 6, 7, 8, 9]
+  const limitCounts = [2, 3, 4, 5, 6]
   const limitCount = limitCounts[Math.floor(Math.random() * limitCounts.length)]
   let scrapeType: InAppPurchasesScrapeType = 'fetch'
 
