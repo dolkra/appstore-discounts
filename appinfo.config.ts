@@ -141,6 +141,7 @@ export const latestAppConfig: AppConfig[] = [
       tw: '石器經典版-情懷服',
     },
     addType: 'auto',
+    allowNotification: false,
   },
   {
     id: 6749849358,
