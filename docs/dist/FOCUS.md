@@ -16,7 +16,7 @@ So far, we've covered `7` `Countries or Regions` and  `1523` `Apps` <br />Push n
 |1517|1450106361|Automatic|Tripiday - Travel Planner App|Tripiday - 最佳旅行規劃App|Tripiday - 最佳旅行規劃App|Tripiday - 最佳旅行規劃App|Tripiday - Travel Planner App|Tripiday - Travel Planner App|Tripiday - Travel Planner App|
 |1516|6733247534|Automatic|❌|生命數字命理|生命數字命理|生命數字命理|生命数字|生命数字|生命数字|
 |1515|1551779746|Automatic|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|
-|1514|6753062308|Automatic|❌|石器經典版-情懷服|石器經典版-情懷服|石器經典版-情懷服|Frenzy Match! Dino Showdown|Frenzy Match! Dino Showdown|石器經典版-情懷服|
+|1514| ~~6753062308~~ |Automatic| ~~❌~~ | ~~石器經典版-情懷服~~ | ~~石器經典版-情懷服~~ | ~~石器經典版-情懷服~~ | ~~Frenzy Match! Dino Showdown~~ | ~~Frenzy Match! Dino Showdown~~ | ~~石器經典版-情懷服~~ |
 |1513|6749849358|Automatic|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|
 |1512|482540781|Automatic|RallyTracks|RallyTracks|RallyTracks|RallyTracks|RallyTracks|RallyTracks|RallyTracks|
 |1511|6747325233|Automatic|❌|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|

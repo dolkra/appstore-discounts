@@ -16,7 +16,7 @@
 |1517|1450106361|自动|Tripiday - Travel Planner App|Tripiday - 最佳旅行規劃App|Tripiday - 最佳旅行規劃App|Tripiday - 最佳旅行規劃App|Tripiday - Travel Planner App|Tripiday - Travel Planner App|Tripiday - Travel Planner App|
 |1516|6733247534|自动|❌|生命數字命理|生命數字命理|生命數字命理|生命数字|生命数字|生命数字|
 |1515|1551779746|自动|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|打字練習簿 Premium|
-|1514|6753062308|自动|❌|石器經典版-情懷服|石器經典版-情懷服|石器經典版-情懷服|Frenzy Match! Dino Showdown|Frenzy Match! Dino Showdown|石器經典版-情懷服|
+|1514| ~~6753062308~~ |自动| ~~❌~~ | ~~石器經典版-情懷服~~ | ~~石器經典版-情懷服~~ | ~~石器經典版-情懷服~~ | ~~Frenzy Match! Dino Showdown~~ | ~~Frenzy Match! Dino Showdown~~ | ~~石器經典版-情懷服~~ |
 |1513|6749849358|自动|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|摩斯密码工具|
 |1512|482540781|自动|RallyTracks|RallyTracks|RallyTracks|RallyTracks|RallyTracks|RallyTracks|RallyTracks|
 |1511|6747325233|自动|❌|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|完蛋！我被美女包围了！2|
