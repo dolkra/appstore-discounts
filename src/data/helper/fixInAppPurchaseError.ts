@@ -1,7 +1,8 @@
 import { isEmpty, isEqual, omit } from 'lodash'
 import chalk from 'chalk'
 import { getStorageAppInfo, setStorageAppInfo } from '../storage'
-import { regions, appConfig } from 'appinfo.config'
+import { regions } from 'appinfo.config'
+import { appConfig } from 'apps.json'
 
 function fixInAppPurchaseError() {
   const regionStorageAppInfo = getStorageAppInfo(regions)

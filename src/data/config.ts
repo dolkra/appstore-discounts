@@ -1,31 +1,25 @@
 import { resolve } from 'node:path'
-import { readFileSync, writeFileSync } from 'node:fs'
+import { writeFileSync } from 'node:fs'
 import { isEmpty } from 'lodash'
 import { start, end } from './timer'
-import { appConfig as oldAppConfig } from '../../appinfo.config'
+import { $schema, appConfig as oldAppConfig } from 'apps.json'
 
 const contentEncoding = 'utf-8'
-const filepath = resolve(__dirname, '../../appinfo.config.ts')
-const matchStr = 'latestAppConfig: AppConfig[] = ['
-
-function getInsertContent(appConfig: AppConfig[]) {
-  const str = JSON.stringify(appConfig, null, 2).slice(1, -2)
-  return `${str},`
-}
+const filepath = resolve(__dirname, '../../apps.json')
 
 function updateImpl(appConfig: AppConfig[]) {
-  const content = readFileSync(filepath, { encoding: contentEncoding })
-  const markIndex = content.lastIndexOf(matchStr)
-  if (markIndex === -1) {
-    console.error('No opening bracket found in appinfo.config.ts')
-    return
-  }
-
-  const realIndex = markIndex + matchStr.length
-  const preContent = content.slice(0, realIndex)
-  const suffixContent = content.slice(realIndex)
-  const newContent = preContent + getInsertContent(appConfig) + suffixContent
-  writeFileSync(filepath, newContent, { encoding: contentEncoding })
+  writeFileSync(
+    filepath,
+    JSON.stringify(
+      {
+        $schema,
+        appConfig,
+      },
+      null,
+      2,
+    ),
+    { encoding: contentEncoding },
+  )
 }
 
 export default function updateAppInfoConfig(
@@ -71,11 +65,11 @@ export default function updateAppInfoConfig(
     [],
   )
 
-  updateImpl(appConfig)
+  const newAppConfig = [...appConfig, ...oldAppConfig]
+
+  updateImpl(newAppConfig)
 
   end('updateAppInfoConfig')
 
-  return [...appConfig, ...oldAppConfig]
+  return newAppConfig
 }
-
-// updateAppInfoConfig()

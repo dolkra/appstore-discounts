@@ -1,5 +1,6 @@
 import { isEmpty, isEqual } from 'lodash'
-import { regions, appConfig } from 'appinfo.config'
+import { regions } from 'appinfo.config'
+import { appConfig } from 'apps.json'
 import { getStorageAppInfo, setStorageAppInfo } from '../storage'
 import { updateRangePriceInfo } from '../calculate'
 

@@ -108,8 +108,8 @@ export default function AppList(props) {
                 ['O', ...getCodeOrId('id')],
               ],
               [
-                t('修改{0}', ' `appinfo.config.ts` '),
-                ['O', t('补充{0}变量声明', ' `latestAppConfig` ')],
+                t('修改{0}', ' `apps.json` '),
+                ['O', t('在{0}的顶部补充新数组元素', ' `appConfig` ')],
               ],
             ],
           ],

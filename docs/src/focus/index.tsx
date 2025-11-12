@@ -6,7 +6,8 @@ import React, {
   StrikeThrough,
   render,
 } from 'jsx-to-md'
-import { getRegionNameMap, regions, appConfig } from 'appinfo.config'
+import { getRegionNameMap, regions } from 'appinfo.config'
+import { appConfig } from 'apps.json'
 import { getCountryOrRegionText, getAppText, getAppStoreText } from '../utils'
 import { getStorageAppInfo } from '@/data/storage'
 import initI18n from '../i18n'
