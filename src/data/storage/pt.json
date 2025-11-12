@@ -11429,8 +11429,8 @@
   "983143183": {
     "name": "Neo Monsters",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "Gratuito",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "13 Gems": "8,99 €",
       "1 Gem": "0,99 €",
       "6 Gems": "3,99 €",
@@ -11453,6 +11453,22 @@
       "119 Gems": "69,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762912910112,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "13 Gems": "8,99 €",
+            "1 Gem": "0,99 €",
+            "6 Gems": "3,99 €",
+            "48 Gems": "29,99 €",
+            "28 Gems": "17,99 €",
+            "74 Gems": "49,99 €",
+            "150 Gems": "89,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762081744067,
@@ -19223,6 +19239,14 @@
     "history": [
       [
         {
+          "timestamp": 1762912910112,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1762412068141,
           "price": 8.99,
           "formattedPrice": "8,99 €",
@@ -19313,16 +19337,31 @@
       "Hirelings & Landmarks": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
-      "The Riverfolk Expansion": "9,99 €",
-      "Root: The Underworld Expansion": "9,99 €",
-      "The Clockwork Expansion": "6,99 €",
-      "Exiles & Partisans & Vagabonds": "8,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "The Riverfolk Expansion": "7,99 €",
+      "Root: The Underworld Expansion": "7,99 €",
+      "The Clockwork Expansion": "3,99 €",
+      "Exiles & Partisans & Vagabonds": "6,99 €",
       "Root: The Marauder Expansion": "9,99 €",
       "Hirelings & Landmarks": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762912910112,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "7,99 €",
+            "Root: The Underworld Expansion": "7,99 €",
+            "The Clockwork Expansion": "3,99 €",
+            "Exiles & Partisans & Vagabonds": "6,99 €",
+            "Root: The Marauder Expansion": "9,99 €",
+            "Hirelings & Landmarks": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -25637,12 +25676,23 @@
       "Dune: Imperium - Immortality": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 11.99,
-      "formattedPrice": "11,99 €",
-      "Dune: Imperium - Rise of Ix": "9,99 €",
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
+      "Dune: Imperium - Rise of Ix": "8,99 €",
       "Dune: Imperium - Immortality": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762912910112,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "8,99 €",
+            "Dune: Imperium - Immortality": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -32888,6 +32938,14 @@
     "history": [
       [
         {
+          "timestamp": 1762912910112,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1762740396714,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -33286,10 +33344,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762912910112,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -36580,6 +36646,16 @@
       "Diamonds": "99,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762912910112,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Diamonds": "99,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762850069789,
