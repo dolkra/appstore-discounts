@@ -5668,6 +5668,25 @@
     "history": [
       [
         {
+          "timestamp": 1762921885477,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "SLS 2018: World Championship": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762779345580,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -15749,7 +15768,17 @@
       "Gem Pack": "9,99 €",
       "US$99.9 Chips": "99,99 €",
       "US$29.99 Chips": "34,99 €",
-      "US$49.9 Chips": "59,99 €"
+      "US$49.9 Chips": "59,99 €",
+      "$10,000 chips": "0,99 €",
+      "$33,000 chips": "2,99 €",
+      "$120,000 chips": "9,99 €",
+      "$250,000 chips": "22,99 €",
+      "$650,000 chips": "59,99 €",
+      "$1,500,000 chips": "99,99 €",
+      "$1,000,000 chips": "0,99 €",
+      "$5,000,000 chips": "2,99 €",
+      "$50,000,000 chips": "9,99 €",
+      "$200,000,000 chips": "22,99 €"
     },
     "minPriceInfo": {
       "price": 14.99,
@@ -15759,9 +15788,38 @@
       "Gem Pack": "9,99 €",
       "US$99.9 Chips": "99,99 €",
       "US$29.99 Chips": "34,99 €",
-      "US$49.9 Chips": "59,99 €"
+      "US$49.9 Chips": "59,99 €",
+      "$10,000 chips": "0,99 €",
+      "$33,000 chips": "2,99 €",
+      "$120,000 chips": "9,99 €",
+      "$250,000 chips": "22,99 €",
+      "$650,000 chips": "59,99 €",
+      "$1,500,000 chips": "99,99 €",
+      "$1,000,000 chips": "0,99 €",
+      "$5,000,000 chips": "2,99 €",
+      "$50,000,000 chips": "9,99 €",
+      "$200,000,000 chips": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762921885477,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {
+            "$10,000 chips": "0,99 €",
+            "$33,000 chips": "2,99 €",
+            "$120,000 chips": "9,99 €",
+            "$250,000 chips": "22,99 €",
+            "$650,000 chips": "59,99 €",
+            "$1,500,000 chips": "99,99 €",
+            "$1,000,000 chips": "0,99 €",
+            "$5,000,000 chips": "2,99 €",
+            "$50,000,000 chips": "9,99 €",
+            "$200,000,000 chips": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -19878,11 +19936,21 @@
       "不玩手机永久会员": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "不玩手机永久会员": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762921885477,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "不玩手机永久会员": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
