@@ -4323,6 +4323,25 @@
     "history": [
       [
         {
+          "timestamp": 1762999431044,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "USD 24.99",
+            "forScore Pro 30-Day Pass": "USD 2.99",
+            "Haydn: String Quartets": "USD 1.99",
+            "Christmas Carol Collection": "USD 1.99",
+            "Bach: Cello Suites": "USD 1.99",
+            "Vivaldi: The Four Seasons": "USD 1.99",
+            "Mozart: Twelve Duets": "USD 1.99",
+            "The Mutopia Piano Collection": "USD 4.99",
+            "forScore Pro": "USD 14.99",
+            "Voluntary Upgrade": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762497487151,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
@@ -19786,6 +19805,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1762999431044,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Necroa病毒擴展包": "USD 1.99",
+            "解鎖全部基因": "USD 7.99",
+            "瘟疫配套": "USD 10.99",
+            "Neurax蠕蟲擴展包": "USD 1.99",
+            "解開作弊模式": "USD 9.99",
+            "解鎖七個基礎病原體": "USD 2.99",
+            "猿猴流感擴充包": "USD 1.99",
+            "場景包": "USD 2.99",
+            "紅魔瘟疫擴展包": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1762986304674,
           "price": 0.99,
@@ -110538,7 +110573,7 @@
     ]
   },
   "6749840287": {
-    "name": "Conduit: OpenWebUI Client",
+    "name": "Conduit",
     "maxPriceInfo": {
       "price": 3.99,
       "formattedPrice": "USD 3.99"

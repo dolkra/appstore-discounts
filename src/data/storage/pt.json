@@ -1006,6 +1006,25 @@
     "history": [
       [
         {
+          "timestamp": 1762999431044,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "All-In Module Access": "9,99 €",
+            "SPL Pro Module": "8,99 €",
+            "Polarity Test Module": "3,99 €",
+            "SoundScope VR": "29,99 €",
+            "SPL Graph Module": "9,99 €",
+            "Speaker Distortion": "6,99 €",
+            "ETC Module": "6,99 €",
+            "VU Meter": "2,99 €",
+            "SPL Traffic Light": "9,99 €",
+            "IR Module": "59,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762433668862,
           "price": 22.99,
           "formattedPrice": "22,99 €",
@@ -4048,6 +4067,25 @@
     "history": [
       [
         {
+          "timestamp": 1762999431044,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762986304674,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -5886,8 +5924,8 @@
       "Pacote de Prestígio ótimo": "24,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "Pacote de Prestígio pequeno": "1,99 €",
       "Pacote de Prestígio médio": "9,99 €",
       "Aceleração Ilimitada!": "3,99 €",
@@ -5896,6 +5934,21 @@
       "Pacote de Prestígio ótimo": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Aceleração Ilimitada!": "3,99 €",
+            "Pacote de Prestígio pequeno": "1,99 €",
+            "Pacote de Prestígio médio": "9,99 €",
+            "O dobro de XP, sem limites!": "3,99 €",
+            "Pacote final Prestige": "44,99 €",
+            "Pacote de Prestígio ótimo": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -7445,10 +7498,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -11925,8 +11986,8 @@
       "50 GEMAS": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "1400 GEMAS": "89,99 €",
       "650 GEMAS": "49,99 €",
       "250 GEMAS": "17,99 €",
@@ -11934,6 +11995,20 @@
       "50 GEMAS": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "1400 GEMAS": "89,99 €",
+            "650 GEMAS": "49,99 €",
+            "250 GEMAS": "17,99 €",
+            "120 GEMAS": "8,99 €",
+            "50 GEMAS": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -11983,8 +12058,8 @@
       "125.000 ouro": "19,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "60,000 Gold": "9,99 €",
       "25.000 ouro": "5,99 €",
       "700.000 ouro": "99,99 €",
@@ -11992,6 +12067,20 @@
       "125.000 ouro": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "60,000 Gold": "9,99 €",
+            "25.000 ouro": "5,99 €",
+            "700.000 ouro": "99,99 €",
+            "325.000 ouro": "49,99 €",
+            "125.000 ouro": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -20510,6 +20599,14 @@
     "history": [
       [
         {
+          "timestamp": 1762999431044,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1762460942623,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -26435,6 +26532,14 @@
     "history": [
       [
         {
+          "timestamp": 1762999431044,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1762606078559,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -26468,6 +26573,14 @@
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762412068141,
@@ -26673,8 +26786,8 @@
       "American All-Stars Car Pack": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
       "Content Bundle 1": "9,99 €",
       "Getaway Car Pack": "2,99 €",
       "Modified Monsters Car Pack": "2,99 €",
@@ -26688,6 +26801,25 @@
       "American All-Stars Car Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Content Bundle 2": "8,99 €",
+            "Content Bundle 1": "9,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €",
+            "Racing Heroes Car Pack": "2,99 €",
+            "Steel & Wheels Pack": "1,99 €",
+            "Reckless Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "Off-Road Car Pack": "2,99 €",
+            "Goofy Roofs Pack": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762525535425,
@@ -26856,7 +26988,7 @@
       "Monthly Membership": "0,99 €",
       "年度会员": "3,99 €",
       "月度会员": "0,99 €",
-      "Lifetime Membership": "8,99 €"
+      "Lifetime Membership": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -26871,6 +27003,23 @@
       "Lifetime Membership": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Quarterly Membership": "2,99 €",
+            "Lifetime - Education": "9,99 €",
+            "年度会员升级终身会员": "9,99 €",
+            "Yearly Membership": "3,99 €",
+            "Monthly Membership": "0,99 €",
+            "年度会员": "3,99 €",
+            "月度会员": "0,99 €",
+            "Lifetime Membership": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -33573,13 +33722,25 @@
     "name": "Halls of Torment: Premium",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "formattedPrice": "5,99 €",
+      "Supporter Pack": "0,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Supporter Pack": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1762999431044,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Supporter Pack": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762912910112,
