@@ -11,6 +11,7 @@ import pushTelegramNotification from './telegram'
 import pushDingTalkNotification from './dingtalk'
 import updateAppInfoConfig from './config'
 import updateLog from './log'
+import disableApps from './disableApps'
 
 async function controller() {
   start('controller')
@@ -50,7 +51,7 @@ async function controller() {
 
   setStorageAppInfo(regions, regionStorageAppInfo)
 
-  updateFeeds({
+  const { regionMonthlyDiscountStats } = updateFeeds({
     timestamp,
     regionDiscountInfo,
     appConfig,
@@ -60,6 +61,12 @@ async function controller() {
   await pushTelegramNotification(regionDiscountInfo)
 
   await pushDingTalkNotification(regionDiscountInfo)
+
+  disableApps({
+    appConfig,
+    includeAppIds: appIds,
+    regionMonthlyDiscountStats,
+  })
 
   end('controller')
 

@@ -28,4 +28,8 @@ export default function updateFeeds(props: {
   })
 
   end('updateFeeds')
+
+  return {
+    regionMonthlyDiscountStats,
+  }
 }

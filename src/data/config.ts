@@ -7,7 +7,7 @@ import { $schema, appConfig as oldAppConfig } from 'apps.json'
 const contentEncoding = 'utf-8'
 const filepath = resolve(__dirname, '../../apps.json')
 
-function updateImpl(appConfig: AppConfig[]) {
+export function updateImpl(appConfig: AppConfig[]) {
   writeFileSync(
     filepath,
     JSON.stringify(
