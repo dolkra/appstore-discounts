@@ -39,6 +39,7 @@ Become the trusted savings assistant for  `App Store`  users, helping more peopl
    * Telegram
    * DingTalk
 * Automatically update tracking apps based on paid app rankings
+* Automatically disable push notifications for tracking apps based on discount frequency
 * Open source for free, welcome to contribute
 
 
@@ -73,8 +74,9 @@ This project automatically executes the following process based on  `GitHub Acti
 7. Update  `RSS`  files
 8. Push notification to  `Telegram` 
 9. Push notification to  `DingTalk` 
-10. Update  `README.md`  and related documents
-11. Submit  `Git`  update
+10. Mark the apps that need to disable push notifications
+11. Update  `README.md`  and related documents
+12. Submit  `Git`  update
 
 Subscribers will receive a push if there is a discount
 # Related Documents
