@@ -10363,8 +10363,8 @@
       "Unlock Time-lapse - Limited": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "Pro Bundle - Limited Discount": "3,99 €",
       "Slow Shutter": "3,99 €",
       "Time-lapse": "3,99 €",
@@ -10373,6 +10373,21 @@
       "Unlock Time-lapse - Limited": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763159133494,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pro Bundle - Limited Discount": "3,99 €",
+            "Pro Bundle": "5,99 €",
+            "Slow Shutter": "3,99 €",
+            "Time-lapse": "3,99 €",
+            "Unlock Slow Shutter - Limited": "2,99 €",
+            "Unlock Time-lapse - Limited": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -15124,10 +15139,18 @@
       "formattedPrice": "29,99 €"
     },
     "minPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "29,99 €"
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763159133494,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
