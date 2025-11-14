@@ -33378,7 +33378,7 @@
       "连续包年 SVIP": "¥90.00",
       "50次加量包": "¥8.00",
       "500次加量包": "¥68.00",
-      "SVIP特惠 (买一年送半年)": "¥88.00",
+      "SVIP特惠 (买一年送半年)": "¥79.00",
       "SVIP特惠 (买两年送一年)": "¥168.00",
       "元旦特惠 1 年 SVIP 联合礼包 1": "¥88.00",
       "元旦特惠 1 年 SVIP 联合礼包 2": "¥88.00",
@@ -33389,6 +33389,25 @@
       "连续包季 SVIP": "¥26.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763124830350,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "连续包月 SVIP": "¥9.00",
+            "SVIP 连续包月": "¥9.00",
+            "年度 SVIP": "¥90.00",
+            "SVIP 连续包年": "¥90.00",
+            "SVIP特惠 (买一年送半年)": "¥79.00",
+            "雨季特惠 100 天 SVIP": "¥19.90",
+            "SVIP特惠 (买两年送一年)": "¥168.00",
+            "季度SVIP": "¥18.80",
+            "连续包年 SVIP": "¥90.00",
+            "1年SVIP": "¥88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762878822406,
@@ -82905,10 +82924,18 @@
       "formattedPrice": "¥58.00"
     },
     "minPriceInfo": {
-      "price": 58,
-      "formattedPrice": "¥58.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763124830350,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747774936582,
@@ -84057,10 +84084,18 @@
       "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763124830350,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747774936582,
@@ -87687,10 +87722,18 @@
       "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
-      "price": 38,
-      "formattedPrice": "¥38.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763124830350,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747774936582,
@@ -128968,6 +129011,48 @@
           "timestamp": 1763072743115,
           "price": 3,
           "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748837351": {
+    "name": "Moment Pro Camera II",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763124830350,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752701677": {
+    "name": "3Dcalc+",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "¥8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763124830350,
+          "price": 8,
+          "formattedPrice": "¥8.00",
           "inAppPurchases": {}
         }
       ]
