@@ -13157,7 +13157,9 @@
       "545 Days SVIP": "14,99 €",
       "3-Year SVIP": "29,99 €",
       "100 Days SVIP": "2,99 €",
-      "Quarterly SVIP": "2,99 €"
+      "Quarterly SVIP": "2,99 €",
+      "910 Days SVIP": "22,99 €",
+      "458 Days SVIP": "9,99 €"
     },
     "minPriceInfo": {
       "price": 17.99,
@@ -13169,10 +13171,26 @@
       "545 Days SVIP": "9,99 €",
       "3-Year SVIP": "29,99 €",
       "100 Days SVIP": "2,99 €",
-      "Quarterly SVIP": "2,99 €"
+      "Quarterly SVIP": "2,99 €",
+      "910 Days SVIP": "22,99 €",
+      "458 Days SVIP": "9,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1763138033698,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "14,99 €",
+            "910 Days SVIP": "22,99 €",
+            "458 Days SVIP": "9,99 €",
+            "SVIP auto-renew quarterly": "3,99 €",
+            "90 Days SVIP": "2,99 €",
+            "Annual Special SVIP": "14,99 €",
+            "545 Days SVIP": "9,99 €"
+          }
+        },
         {
           "timestamp": 1763116153130,
           "price": 17.99,
@@ -27103,6 +27121,16 @@
       "Lifetime": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763138033698,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762857007160,
