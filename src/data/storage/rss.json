@@ -17038,11 +17038,16 @@
           "range": "[Free ~ $3.99]"
         }
       ]
-    },
+    }
+  ],
+  "tr": [
     {
       "isGameCenterEnabled": true,
       "features": [
         "gameCenter"
+      ],
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -17164,122 +17169,69 @@
         "iPhone17-iPhone17",
         "iPhoneAir-iPhoneAir"
       ],
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence"
-      ],
       "kind": "software",
+      "screenshotUrls": [],
       "ipadScreenshotUrls": [],
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/78/8e/b0/788eb0fc-afa8-245b-799b-a195718790a4/5a6affe9-dc30-420d-a725-ad6aa8e9001b_screenshots_2208x12420001.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/79/98/cd/7998cd5a-99b1-b03b-4c9d-42f9c371611c/10e242a9-64da-43ec-a049-230d6672b48f_screenshots_2208x12420002.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/87/32/a0873242-dd94-fe5d-70f4-ccc55b6d4d54/c1460a05-6fe6-422b-a563-4e245dd8af37_screenshots_2208x12420003.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9a/ba/96/9aba96b9-f838-936d-0524-c1f932ea79b3/7c12dd14-89b7-41c3-968b-33b7225a8730_screenshots_2208x12420004.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/a3/e1/00/a3e1007a-194c-5dc2-1c97-3c2991b1ab9c/436d4067-8ab6-4f41-9103-69ee4cd85a91_screenshots_2208x12420005.png/406x228bb.png"
-      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/ironhide-s-a/id558612918?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/b9/fa/11b9fa0b-8113-e40b-331f-9b5a85e84afc/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/100x100bb.jpg",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "artistId": 558612918,
-      "artistName": "Ironhide S.A.",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/fc/b9/1cfcb979-b73f-9d85-8cb0-e260ff5bfa5a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/tr/developer/fatih-beceren/id1419516270?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/fc/b9/1cfcb979-b73f-9d85-8cb0-e260ff5bfa5a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1c/fc/b9/1cfcb979-b73f-9d85-8cb0-e260ff5bfa5a/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "userRatingCountForCurrentVersion": 3328,
+      "artistId": 1419516270,
+      "artistName": "Fatih Beceren",
       "genres": [
         "Games",
-        "Entertainment",
-        "Strategy",
-        "Action"
+        "Adventure",
+        "Role-Playing"
       ],
-      "price": 1.99,
-      "releaseDate": "2013-06-06T07:00:00Z",
-      "genreIds": [
-        "6014",
-        "6016",
-        "7017",
-        "7001"
-      ],
-      "trackId": 598581396,
-      "trackName": "Kingdom Rush Frontiers TD",
-      "sellerName": "Ironhide S.A.",
-      "bundleId": "com.ironhidegames.frontiers",
-      "currentVersionReleaseDate": "2025-10-15T17:49:48Z",
+      "price": 19.9,
+      "bundleId": "com.fatih.depremistanbul",
+      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Games",
       "primaryGenreId": 6014,
-      "releaseNotes": "Small bug fixes and improvements.",
-      "version": "6.4.16",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "Kingdom Rush Frontiers is a whole new level of the furiously fast, enchantingly charming gameplay that made kingdom Rush an award-winning Tower Defense hit.\nDefend exotic lands from dragons, man-eating plants, and ghastly denizens of the underworld -all with flashy towers, levels, heroes, and more goodies to help you crush your enemies to a pulp.\n\nBUILD MIGHTY TOWERS!\n\n\n• OVER 18 TOWER ABILITIES! Unleash Death Riders, pestilence clouds, or assassins that steal and kill your enemies!\n\n• 8 SPECIALIZED TOWER UPGRADES! Slice, sizzle, and stomp your foes with Crossbow Forts, Mighty Templars, Necromancers, and even Earthquake Machines - hey, we told you we were shaking things up.\n\n• UPGRADE SYSTEM allows you to min/max your towers towards your preferred strategy.\n\n• Fortify the frontier in exotic news lands - hold the line in deserts, jungles, and even the underworld!\n\nTRAIN LEGENDARY HEROES\n\n\n• 16 LEGENDARY HEROES. Choose among mighty champions and train their abilities! Each has unique specialties that fit different play styles and strategies!\n\n• Special units and features on every stage! Watch out for the Black Dragon!\n\nDEFEAT THEM ALL\n\n\n• OVER 40 ENEMIES with unique abilities! Stay on your toes as you fight through desert sandworms, tribal shamans, nomad tribes, and underground terrors. Action like you have never seen before!\n\n• MERCILESS BOSS FIGHTS! Hey, we told you to get those upgrades...\n\nMORE MIND-BOGGLING CONTENT\n\n\n• Hours of army with OVER 80 ACHIEVEMENTS! what can you expect from Ironhide Games, the creators of Kingdom rush? You will be hooked for hours searching for Easter eggs and achievements!\n\n• IN-GAME ENCYCLOPEDIA! learn all about your enemies and you will be able to plan the best strategy to defeat them. Study up!\n\n• CLASSIC, IRON, AND HEROIC GAME MODES to challenge your tactical skills!\n\n• 3 DIFFICULTY MODES! Are you up for a real challenge? Go with Hard mode!\n\n• PLAY IT OFFLINE! No internet? No problem! You will be able to jump into real action even offline!\n\n-----------------------------------------------------\n\nPRAISE FOR KINGDOM RUSH: IGN Editor's Choice, Slide To Play Must Have, 148 Apps Editor's Choice, Jay is Games Game of the Year, Pocket Gamer Gold Award, Touch Arcade 4.5/5\n\nTerms and Conditions:\nhttps://www.ironhidegames.com/TermsOfService\n\nPrivacy Policy:\nhttps://www.ironhidegames.com/PrivacyPolicy\n\nVideo creators, podcast creators, and streamers:\nWe would love to see your content on Youtube and Twitch! We support and promote channel creators so, if you want us to showcase your videos or want to know more about our games, feel free to write to us to contact@ironhidegames.com",
-      "sellerUrl": "http://www.ironhidegames.com",
-      "languageCodesISO2A": [
-        "EN",
-        "FR",
-        "DE",
-        "JA",
-        "KO",
-        "PT",
-        "RU",
-        "ZH",
-        "ES",
-        "ZH"
+      "sellerName": "Fatih Beceren",
+      "genreIds": [
+        "6014",
+        "7002",
+        "7014"
       ],
-      "fileSizeBytes": "189222912",
-      "formattedPrice": "$1.99",
-      "userRatingCountForCurrentVersion": 15656,
-      "trackContentRating": "9+",
-      "averageUserRatingForCurrentVersion": 4.87123,
-      "minimumOsVersion": "11.0",
-      "averageUserRating": 4.87123,
-      "trackCensoredName": "Kingdom Rush Frontiers TD",
-      "trackViewUrl": "https://apps.apple.com/us/app/kingdom-rush-frontiers-td/id598581396?uo=4",
-      "contentAdvisoryRating": "9+",
-      "userRatingCount": 15656,
-      "inAppPurchases": {
-        "Saitam": "$2.99",
-        "Bonehart": "$4.99",
-        "Captain Blackthorne": "$0.99",
-        "Sha'tra": "$0.99",
-        "Nivus": "$0.99",
-        "Grawl": "$0.99",
-        "Kahz": "$2.99",
-        "Karkinos": "$0.99",
-        "Big Hero Pack 2": "$14.99"
-      },
+      "trackId": 6505058041,
+      "trackName": "Quakeline",
+      "currentVersionReleaseDate": "2025-08-11T01:48:12Z",
+      "releaseNotes": "*Bug fixes",
+      "version": "2.2",
+      "wrapperType": "software",
+      "currency": "TRY",
+      "description": "After a devastating earthquake strikes Istanbul, can you find the woman you love?\n\nIn a fully hand-drawn Istanbul, embark on a journey that tests your instincts and hopes. After the earthquake, you must cross the city — from Bakırköy to Üsküdar — to find the woman you love.\n\nExplore a hand-drawn, post-quake Istanbul — from shattered historic neighborhoods to the edge of the Bosphorus. Every corner hides new stories and challenges. In the heart of chaos, survival is not enough. You must do it without losing your honor.\n\nOn your journey to save your girlfriend, you’ll face not only physical obstacles but also emotional and psychological trials. The people you meet among the ruins—and their stories—will push you to make difficult moral choices.\n\nTo move forward, you’ll need to solve puzzles, crack safe codes, pick locks, explore devastated locations, and manage your energy wisely.\n\nQuakeline is more than just a game; it is a project that aims to raise awareness about the possible impact of a real earthquake in Istanbul. Through its fictional yet grounded narrative, the game invites players to reflect on survival, resilience, and the human spirit.\n\nWitness the struggle to survive—and the power of hope.\nIn this unforgettable journey, you’ll not only navigate through debris but also discover the deepest and purest parts of what it means to be human.",
+      "averageUserRatingForCurrentVersion": 4.69951,
+      "sellerUrl": "https://www.hermesgame.com/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "211486720",
+      "formattedPrice": "₺19,90",
+      "trackContentRating": "17+",
+      "minimumOsVersion": "16.6",
+      "trackCensoredName": "Quakeline",
+      "trackViewUrl": "https://apps.apple.com/tr/app/quakeline/id6505058041?uo=4",
+      "contentAdvisoryRating": "17+",
+      "averageUserRating": 4.69951,
+      "releaseDate": "2025-04-14T07:00:00Z",
+      "userRatingCount": 3328,
+      "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1762886188326,
+      "timestamp": 1763145389820,
       "discounts": [
         {
-          "type": "inAppPurchase",
-          "name": "Bonehart",
-          "from": "$6.99",
-          "to": "$4.99",
-          "range": "[$4.99 ~ $6.99]"
-        },
-        {
-          "type": "inAppPurchase",
-          "name": "Sha'tra",
-          "from": "$2.99",
-          "to": "$0.99",
-          "range": "[$0.99 ~ $2.99]"
-        },
-        {
-          "type": "inAppPurchase",
-          "name": "Grawl",
-          "from": "$2.99",
-          "to": "$0.99",
-          "range": "[$0.99 ~ $2.99]"
-        },
-        {
-          "type": "inAppPurchase",
-          "name": "Kahz",
-          "from": "$4.99",
-          "to": "$2.99",
-          "range": "[$2.99 ~ $4.99]"
+          "type": "price",
+          "name": "Price",
+          "from": "₺29,99",
+          "to": "₺19,90",
+          "range": "[₺9,99 ~ ₺79,99]"
         }
       ]
-    }
-  ],
-  "tr": [
+    },
     {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/59/97/0d/59970de9-6f71-0fae-aec3-3143b8e85ec3/c1a6e358-1466-421c-b886-b259be7ff4b5_TC_iphone_8_1.png/392x696bb.png",
