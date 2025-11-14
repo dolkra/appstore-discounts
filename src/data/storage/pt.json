@@ -13166,12 +13166,28 @@
       "SVIP auto-renew quarterly": "3,99 €",
       "90 Days SVIP": "2,99 €",
       "Annual Special SVIP": "14,99 €",
-      "545 Days SVIP": "14,99 €",
+      "545 Days SVIP": "9,99 €",
       "3-Year SVIP": "29,99 €",
       "100 Days SVIP": "2,99 €",
       "Quarterly SVIP": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763116153130,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "14,99 €",
+            "SVIP auto-renew quarterly": "3,99 €",
+            "90 Days SVIP": "2,99 €",
+            "Annual Special SVIP": "14,99 €",
+            "545 Days SVIP": "9,99 €",
+            "3-Year SVIP": "29,99 €",
+            "100 Days SVIP": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762013593960,
@@ -23991,10 +24007,18 @@
       "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763116153130,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -24370,10 +24394,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763116153130,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -25721,10 +25753,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763116153130,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -37182,7 +37222,8 @@
       "Weapon Upgrade Ticket x3 (C)": "6,99 €",
       "Weapon Upgrade Ticket x1 (F)": "2,99 €",
       "Weapon Upgrade Ticket x1 (E)": "2,99 €",
-      "Weapon Upgrade Ticket x1 (C)": "2,99 €"
+      "Weapon Upgrade Ticket x1 (C)": "2,99 €",
+      "Amuleto:\"Munição para Pistola\"": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -37199,9 +37240,29 @@
       "Weapon Upgrade Ticket x3 (C)": "5,29 €",
       "Weapon Upgrade Ticket x1 (F)": "2,99 €",
       "Weapon Upgrade Ticket x1 (E)": "2,99 €",
-      "Weapon Upgrade Ticket x1 (C)": "2,99 €"
+      "Weapon Upgrade Ticket x1 (C)": "2,99 €",
+      "Amuleto:\"Munição para Pistola\"": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763116153130,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Amuleto:\"Munição para Pistola\"": "0,99 €",
+            "Caminhos Distintos": "9,99 €",
+            "Maleta: \"Ouro\"": "0,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (B)": "2,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (D)": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762433668862,
