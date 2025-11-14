@@ -6048,6 +6048,27 @@
       ]
     ]
   },
+  "555347055": {
+    "name": "Wise Pilgrim Camino Primitivo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "555612465": {
     "name": "CWMoney經典版-理財筆記、發票掃描、雲端備份、存錢記帳",
     "maxPriceInfo": {
@@ -10420,10 +10441,18 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -14387,6 +14416,25 @@
     "history": [
       [
         {
+          "timestamp": 1763085738023,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "Liberar Excelência": "5,99 €",
+            "10 Pontos de Conhecimento": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762433668862,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -15209,6 +15257,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761865879459,
@@ -16223,10 +16279,18 @@
       "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761865879459,
@@ -17105,6 +17169,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761865879459,
@@ -18816,6 +18888,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761865879459,
@@ -20679,6 +20759,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761865879459,
@@ -25983,8 +26071,8 @@
   "1573482724": {
     "name": "Coffee Inc 2",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
       "Expansão de Imóveis": "1,99 €",
       "Expansão de Empreendimentos": "1,99 €",
       "Expansão Esportiva": "1,99 €",
@@ -26003,6 +26091,21 @@
       "Jato Privado": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Expansão de Imóveis": "1,99 €",
+            "Expansão de Empreendimentos": "1,99 €",
+            "Expansão Esportiva": "1,99 €",
+            "Interior Personalizado": "0,99 €",
+            "Expansão de Leilões": "1,99 €",
+            "Jato Privado": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -28145,6 +28248,14 @@
     "history": [
       [
         {
+          "timestamp": 1763085738023,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1761865879459,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -29115,10 +29226,18 @@
       "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -30144,6 +30263,18 @@
     "history": [
       [
         {
+          "timestamp": 1763085738023,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "1,99 €",
+            "DLC - The Ember Saga": "1,99 €",
+            "DLC - The Tournament": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761865879459,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -31013,10 +31144,18 @@
       "formattedPrice": "4,59 €"
     },
     "minPriceInfo": {
-      "price": 4.59,
-      "formattedPrice": "4,59 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -33440,6 +33579,25 @@
       "Toby": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763085738023,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Yearly": "12,99 €",
+            "Monthly": "1,99 €",
+            "Moonnight": "1,99 €",
+            "Sky": "1,99 €",
+            "Forest": "1,99 €",
+            "Loki": "0,99 €",
+            "Coco": "0,99 €",
+            "Lucky": "0,99 €",
+            "Simba": "0,99 €",
+            "Toby": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762480822421,
