@@ -4330,7 +4330,8 @@
       "Chapter T": "5,99 €",
       "Chapter R": "5,99 €",
       "Chapter 0": "5,99 €",
-      "Chapter 10": "5,99 €"
+      "Chapter 10": "5,99 €",
+      "Chapter 9": "5,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -4344,9 +4345,29 @@
       "Chapter T": "5,99 €",
       "Chapter R": "5,99 €",
       "Chapter 0": "5,99 €",
-      "Chapter 10": "5,99 €"
+      "Chapter 10": "5,99 €",
+      "Chapter 9": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763231584252,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter N": "3,99 €",
+            "Chapter D": "5,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter 10": "5,99 €",
+            "Chapter 9": "5,99 €",
+            "Chapter S": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -5240,6 +5261,23 @@
     "history": [
       [
         {
+          "timestamp": 1763231584252,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote pragas": "14,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €",
+            "Desbloquear Trapaças": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1763224119055,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -5734,6 +5772,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1763231584252,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Sandbox Unlock All Parts": "8,99 €",
+            "Sandbox Unlock Standard Parts": "8,99 €",
+            "Mission 16 Gold": "1,99 €",
+            "Nooleus X Parts Pack": "3,99 €",
+            "Transponder Module": "0,99 €",
+            "Mission 12 Skip": "0,99 €",
+            "Mission Free Unlock-All": "5,99 €",
+            "1000 Quick Launches": "3,99 €",
+            "Mission 15 Gold": "1,99 €",
+            "Mission 15 Skip": "0,99 €"
+          }
+        },
         {
           "timestamp": 1763224119055,
           "price": 1.99,
@@ -10633,6 +10688,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1763231584252,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Unlock all stages": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €"
+          }
+        },
         {
           "timestamp": 1763224119055,
           "price": 0.99,
@@ -23531,6 +23603,27 @@
             "Unlimited Access - Yearly": "4,49 €",
             "Unlimited Access": "1,49 €"
           }
+        }
+      ]
+    ]
+  },
+  "1508051949": {
+    "name": "What Remains of Edith Finch",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763231584252,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
