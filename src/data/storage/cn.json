@@ -27740,6 +27740,14 @@
     "history": [
       [
         {
+          "timestamp": 1763310557783,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1763051577831,
           "price": 0,
           "formattedPrice": "免费",
@@ -75892,6 +75900,14 @@
     "history": [
       [
         {
+          "timestamp": 1763310557783,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1756998730429,
           "price": 148,
           "formattedPrice": "¥148.00",
@@ -79719,10 +79735,18 @@
       "formattedPrice": "¥88.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "¥88.00"
+      "price": 68,
+      "formattedPrice": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763310557783,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -85263,6 +85287,14 @@
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763310557783,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1760710340966,
@@ -99308,6 +99340,17 @@
       "Hello World!": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763310557783,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760941181671,
@@ -129607,7 +129650,7 @@
     "maxPriceInfo": {
       "price": 1,
       "formattedPrice": "¥1.00",
-      "永久会员": "¥0.00",
+      "永久会员": "¥98.00",
       "月会员": "¥38.00"
     },
     "minPriceInfo": {
@@ -129617,6 +129660,17 @@
       "月会员": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763310557783,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "永久会员": "¥98.00",
+            "月会员": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762936538154,
@@ -129738,14 +129792,22 @@
   "6754613166": {
     "name": "Trackless Links Pro",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 38,
+      "formattedPrice": "¥38.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763310557783,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763297306895,

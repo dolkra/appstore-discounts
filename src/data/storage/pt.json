@@ -9500,6 +9500,23 @@
     "history": [
       [
         {
+          "timestamp": 1763310557783,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "$5 Crédito": "5,99 €",
+            "1 Mo.texto Canadá": "2,99 €",
+            "$10 Crédito": "9,99 €",
+            "1 Mo. texto globais": "3,99 €",
+            "6 Mo.texto Canadá": "9,99 €",
+            "12 Mo.texto globais": "29,99 €",
+            "12 Mo.texto Canadá": "19,99 €",
+            "1 Mo.Fongo Plus": "9,99 €",
+            "3 Mo.texto Canadá": "5,99 €",
+            "3 Mo.texto globais": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1763302911037,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -25205,6 +25222,31 @@
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1546106967": {
+    "name": "Sokoban (Boxman) Classic",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Sokoban Level Solution": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Sokoban Level Solution": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763310557783,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Sokoban Level Solution": "0,99 €"
+          }
         }
       ]
     ]

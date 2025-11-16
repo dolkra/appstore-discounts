@@ -169,7 +169,7 @@
 |1378|1234266367|自动|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|
 |1377|1504024081|自动|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|
 |1376|1581546143|自动|蓬莱镇|蓬莱镇|蓬莱镇|蓬莱镇|The Immortal Mayor|The Immortal Mayor|蓬莱镇|
-|1375|1546106967|自动|❌|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|❌|
+|1375|1546106967|自动|❌|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|
 |1374|1475239344|自动|❌|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|Forgotten Hill Disillusion|
 |1373|574423763|自动|雅调-最专业十二平均律调音器，吉他、尤克里里、小提琴校音器|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|Elegantune Pro Chromatic Tuner|Elegantune Pro Chromatic Tuner|Elegantune Pro Chromatic Tuner|
 |1372|1566827448|自动|❌|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|
