@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1536` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1537` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1537|6754613166|自动|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|
 |1536|1324815218|自动|❌|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|
 |1535|1434690170|自动|❌|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|
 |1534|892279069|自动|Star Walk 2 Pro: 观星软件和星空地图|Star Walk 2 Pro: 觀星軟件和星空地圖|Star Walk 2 Pro: 觀星軟件和星空地圖|Star Walk 2 Pro: 觀星軟件和星空地圖|Star Walk 2 Pro: Sky Map Live|Star Walk 2 Pro:  Sky Map Live|Star Walk 2 Pro: Céu Estrelado|
@@ -189,7 +190,7 @@
 |1357|6749298780|自动|❌|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|Lucky Hunter: Auto Battler|
 |1356|1292787392|自动|❌|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|Papa's Hot Doggeria To Go!|
 |1355|1530986797|自动|❌|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|Ultimate Tiger Simulator 2|
-|1354|509969070|自动|❌|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|
+|1354|509969070|自动|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|人教版初中7~9年级文言文翻译|背诵|练习大全|
 |1353|1474422612|自动|TimeLine - Travel back in time|TimeLine - Travel back in time|TimeLine - Travel back in time|TimeLine - Travel back in time|TimeLine - Travel back in time|TimeLine - Travel back in time|TimeLine - Travel back in time|
 |1352|6751258224|自动|❌|古诗学习助手|古诗学习助手|古诗学习助手|古诗学习助手|❌|❌|
 |1351|530090434|自动|❌|7 Wonders|7 Wonders|7 Wonders|7 Wonders|7 Wonders|7 Wonders|
