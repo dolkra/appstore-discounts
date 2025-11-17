@@ -111,7 +111,7 @@
 |1437|1532666619|自动|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|Clear Spaces|
 |1436|6742179746|自动|❌|帕拉貝倫：傳奇圍城|帕拉貝倫：傳奇圍城|帕拉貝倫：傳奇圍城|Parabellum: Siege of Legends|Parabellum: Siege of Legends|Parabellum: Cerco às Lendas|
 |1435|944118456|自动|Exif Viewer by Fluntro|Exif Viewer by Fluntro|Exif Viewer by Fluntro|Exif Viewer by Fluntro|EXIF Viewer by Fluntro|EXIF Viewer by Fluntro|EXIF Viewer by Fluntro|
-|1434|1499001662|自动|❌|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Hunt Pocket Monster|EvoCreo 2: Jogo de Monstro RPG|
+|1434|1499001662|自动|❌|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer Game|EvoCreo2: Monster Trainer RPG|EvoCreo2 Catch & Tame Monsters|EvoCreo 2: Jogo de Monstro RPG|
 |1433|6753102795|自动|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|Zero One Progrise|
 |1432|372731237|自动|Fusion Calculator|Fusion Calculator|Fusion Calculator|Fusion Calculator|FusionCalc Pro | Memo & Calc|FusionCalc Pro | Memo & Calc|Fusion Calculator|
 |1431|1563156209|自动|❌|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|Legend of Mana|
