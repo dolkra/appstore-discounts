@@ -18272,10 +18272,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763411374128,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -29780,6 +29788,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1763411374128,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote Ultimate": "17,99 €",
+            "Pacote da 1ª Temporada": "9,99 €",
+            "Além dos Bunkers": "7,99 €",
+            "Abrigos Secretos": "7,99 €",
+            "Guia de Sobrevivência": "2,99 €",
+            "Pacote Ultimate (desconto)": "5,99 €",
+            "SOMBRAS DO PASSADO": "7,99 €",
+            "Pacote 1ª Temporada (desconto)": "7,99 €",
+            "Pacote 1ª Temporada (completo)": "22,99 €"
+          }
+        },
         {
           "timestamp": 1763404612311,
           "price": 0.99,
