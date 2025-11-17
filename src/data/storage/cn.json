@@ -85539,10 +85539,18 @@
       "formattedPrice": "¥19.80"
     },
     "minPriceInfo": {
-      "price": 19.8,
-      "formattedPrice": "¥19.80"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763384113946,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1754867534430,
