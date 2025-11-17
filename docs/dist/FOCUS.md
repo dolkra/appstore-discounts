@@ -239,7 +239,7 @@ So far, we've covered `7` `Countries or Regions` and  `1538` `Apps` <br />Push n
 |1309|1612050352|Automatic|TLHelper|TLHelper|TLHelper|TLHelper|TLHelper|TLHelper|TLHelper|
 |1308|976920216|Automatic|Skelly - Art Model|Skelly - Art Model|Skelly - Art Model|Skelly - Art Model|Skelly - Art Model|Skelly - Art Model|Skelly - Art Model|
 |1307|982102012|Automatic|三姑六婆 Pro - 親戚稱呼計算機|三姑六婆 Pro - 親戚稱呼計算機|三姑六婆 Pro - 親戚稱呼計算機|三姑六婆 Pro - 親戚稱呼計算機|三姑六婆 Pro - 親戚稱呼計算機|三姑六婆 Pro - 親戚稱呼計算機|三姑六婆 Pro - 親戚稱呼計算機|
-|1306|6747814605|Automatic|❌|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|
+|1306|6747814605|Automatic|❌|這位子形不形？|這位子形不形？|這位子形不形？|Is This Seat Taken?|Is This Seat Taken?|Is This Seat Taken?|
 |1305|793232740|Automatic|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|Cadrage Director's Viewfinder|
 |1304|1269225754|Automatic|❌|Gorogoa|Gorogoa|Gorogoa|Gorogoa|Gorogoa|Gorogoa|
 |1303| ~~6745578435~~ |Automatic| ~~正版传奇-鸡哥爆款表情包之战,多开打金高爆超变至尊极品传世界~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
@@ -770,7 +770,7 @@ So far, we've covered `7` `Countries or Regions` and  `1538` `Apps` <br />Push n
 |778|1448798374|Automatic|❌|CAR++|CAR++|CAR++|CAR++|CAR++|❌|
 |777|1450908177|Automatic|❌|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|
 |776|1509817154|Automatic|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|
-|775|1513814705|Automatic|计算器键盘 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|❌|
+|775|1513814705|Automatic|计算器键盘 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|Calculator Keyboard - Faster|
 |774|1543183092|Automatic|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|
 |773|6744311159|Automatic|魔王终局|❌|❌|❌|❌|❌|❌|
 |772|6740014272|Automatic|水果合成 - 手表游戏|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|
