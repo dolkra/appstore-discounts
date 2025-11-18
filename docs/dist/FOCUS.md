@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1540` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1541` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1541|6753206911|Automatic|❌|石器新世紀:寵物起源|石器新世紀:寵物起源|石器新世紀:寵物起源|❌|❌|❌|
 |1540|1509161616|Automatic|风帆纪元|風帆紀元|風帆紀元|風帆紀元|❌|❌|❌|
 |1539|1632982179|Automatic|❌|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|
 |1538|779157948|Automatic|❌|Threes!|Threes!|Threes!|Threes!|Threes!|Threes!|
@@ -736,7 +737,7 @@ So far, we've covered `7` `Countries or Regions` and  `1540` `Apps` <br />Push n
 |814|6474207287|Automatic|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|Automatic|J23 - 发布日期和补货|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Datas de Lançamento|
 |812|1108935309|Automatic|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
-|811|1410053842|Automatic|小渔排班 - 倒班工作者的专属日历|小漁輪班|小漁輪班|小漁輪班|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|❌|
+|811|1410053842|Automatic|小渔排班 - 倒班工作者的专属日历|小漁輪班|小漁輪班|小漁輪班|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|
 |810|1519508653|Automatic|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|Automatic|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|Automatic|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|

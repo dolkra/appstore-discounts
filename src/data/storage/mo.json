@@ -51552,14 +51552,22 @@
   "1137257203": {
     "name": "Namaz Vakti Pro (Reklamsız)",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763491120102,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762313071665,
@@ -116739,6 +116747,27 @@
           "timestamp": 1763297306895,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753206911": {
+    "name": "石器新世紀:寵物起源",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "USD 0.29"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763491120102,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
           "inAppPurchases": {}
         }
       ]

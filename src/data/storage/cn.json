@@ -45893,14 +45893,22 @@
   "1137257203": {
     "name": "Namaz Vakti Pro (Reklamsız)",
     "maxPriceInfo": {
-      "price": 28,
-      "formattedPrice": "¥28.00"
+      "price": 48,
+      "formattedPrice": "¥48.00"
     },
     "minPriceInfo": {
       "price": 22,
       "formattedPrice": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763491120102,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762313071665,
