@@ -12472,6 +12472,20 @@
     "history": [
       [
         {
+          "timestamp": 1763517683797,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "700.000 ouro": "99,99 €",
+            "60,000 Gold": "9,99 €",
+            "325.000 ouro": "49,99 €",
+            "25.000 ouro": "3,99 €",
+            "125.000 ouro": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762412068141,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -15518,14 +15532,22 @@
   "1137257203": {
     "name": "Namaz Vakti Pro (Reklamsız)",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763517683797,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762313071665,
@@ -20151,6 +20173,19 @@
     "history": [
       [
         {
+          "timestamp": 1763517683797,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "4,99 €",
+            "Ragnarök DLC": "4,99 €",
+            "Atlantis DLC": "4,99 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762412068141,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -20534,6 +20569,21 @@
       "Hirelings & Landmarks": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763517683797,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "9,99 €",
+            "Root: The Underworld Expansion": "9,99 €",
+            "The Clockwork Expansion": "6,99 €",
+            "Exiles & Partisans & Vagabonds": "8,99 €",
+            "Root: The Marauder Expansion": "9,99 €",
+            "Hirelings & Landmarks": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762912910112,
@@ -23196,6 +23246,14 @@
     "history": [
       [
         {
+          "timestamp": 1763517683797,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1762412068141,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -25331,6 +25389,14 @@
     "history": [
       [
         {
+          "timestamp": 1763517683797,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1762412068141,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -25406,10 +25472,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763517683797,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -27271,6 +27345,17 @@
       "Dune: Imperium - Immortality": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763517683797,
+          "price": 11.99,
+          "formattedPrice": "11,99 €",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "9,99 €",
+            "Dune: Imperium - Immortality": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762912910112,
@@ -35200,6 +35285,16 @@
     "history": [
       [
         {
+          "timestamp": 1763517683797,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Supporter Pack": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762999431044,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -36879,6 +36974,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763517683797,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763483795436,
@@ -38888,6 +38991,27 @@
           "timestamp": 1763297306895,
           "price": 8.99,
           "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755290585": {
+    "name": "Raiders Map",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763517683797,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
