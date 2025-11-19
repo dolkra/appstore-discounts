@@ -8527,8 +8527,8 @@
   "430388524": {
     "name": "Do! Spring Mint - To Do List",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99",
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
       "Tip": "USD 0.99"
     },
     "minPriceInfo": {
@@ -8537,6 +8537,14 @@
       "Tip": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763526717905,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763085738023,
@@ -106465,6 +106473,12 @@
     "history": [
       [
         {
+          "timestamp": 1763526717905,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1763483795436,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -116759,11 +116773,17 @@
       "formattedPrice": "USD 0.29"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
       [
+        {
+          "timestamp": 1763526717905,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1763491120102,
           "price": 0.29,

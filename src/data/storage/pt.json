@@ -3222,8 +3222,8 @@
   "430388524": {
     "name": "Do! Spring Mint - To Do List",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
       "Tip": "0,99 €"
     },
     "minPriceInfo": {
@@ -3232,6 +3232,16 @@
       "Tip": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763526717905,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Tip": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
