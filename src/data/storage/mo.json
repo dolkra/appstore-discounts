@@ -116785,14 +116785,22 @@
   "6754613166": {
     "name": "Trackless Links Pro",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763577514762,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763310557783,
