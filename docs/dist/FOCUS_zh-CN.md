@@ -188,9 +188,9 @@
 |1366|1561658854|自动|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|❌|
 |1365|1350599517|自动|FoodyLife: The Food Diary App|吃貨人生 飲食紀錄App|吃貨人生 飲食紀錄App|吃貨人生 飲食紀錄App|FoodyLife : The Food Diary App|FoodyLife: The Food Diary App|FoodyLife: The Food Diary App|
 |1364|1331393380|自动|❌|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|
-|1363|6749132733|自动|❌|❌|❌|女王的遊戲：盛世天下|❌|❌|❌|
+|1363|6749132733|自动|❌|❌|❌|女王的遊戲：盛世天下 媚娘篇|❌|❌|❌|
 |1362|6743148949|自动|盛世天下：女王的游戏|❌|❌|❌|❌|❌|❌|
-|1361|6741892043|自动|❌|Road to Empress - 盛世天下|Road to Empress - 盛世天下|❌|Road to Empress I|Road to Empress I|Road to Empress I|
+|1361|6741892043|自动|❌|Road to Empress - 盛世天下 媚娘篇|Road to Empress - 盛世天下 媚娘篇|❌|Road to Empress I|Road to Empress I|Road to Empress I|
 |1360|6740349855|自动|❌|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|
 |1359|6743611124|自动|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|
 |1358|1458687087|自动|❌|我的孩子: 生命之泉|我的孩子: 生命之泉|我的孩子: 生命之泉|❌|❌|❌|
