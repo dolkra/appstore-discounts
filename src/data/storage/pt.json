@@ -6560,6 +6560,22 @@
     "history": [
       [
         {
+          "timestamp": 1763627778858,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Torre Liberar Todas as Melhorias": "0,99 €",
+            "Bundle O' Monkey Money": "3,49 €",
+            "Monte de Dinheiro": "5,99 €",
+            "Monte de Fichas": "5,99 €",
+            "Dinheiro de Macaco": "0,99 €",
+            "Passe de Nível": "0,99 €",
+            "Cofre de Fichas": "9,99 €",
+            "Modo Dinheiro Dobrado": "9,99 €",
+            "Cofre de Dinheiro": "22,99 €"
+          }
+        },
+        {
           "timestamp": 1763620681853,
           "price": 3.49,
           "formattedPrice": "3,49 €",
@@ -7042,10 +7058,18 @@
       "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763627778858,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -16310,6 +16334,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1763627778858,
+          "price": 7.79,
+          "formattedPrice": "7,79 €",
+          "inAppPurchases": {
+            "Pacote de DLC": "0,00 €",
+            "Texturas em alta definição": "0,00 €",
+            "Edição Preta": "0,00 €",
+            "Estradas e Pistas": "0,00 €",
+            "Estilo Coupé": "0,00 €",
+            "Melhores Britânicos": "0,00 €",
+            "Lendas do Turismo": "0,00 €",
+            "Pacote de Arrancada": "0,00 €"
+          }
+        },
         {
           "timestamp": 1763620681853,
           "price": 7.79,
@@ -39272,6 +39311,27 @@
         },
         {
           "timestamp": 1763517683797,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754461039": {
+    "name": "Mihon Manga",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763627778858,
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}
