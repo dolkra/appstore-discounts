@@ -680,11 +680,21 @@
       "ZRTP For Outgoing Calls": "29,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "ZRTP For Outgoing Calls": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763603989435,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -2084,11 +2094,21 @@
       "ZRTP For Outgoing Calls": "29,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "ZRTP For Outgoing Calls": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763603989435,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "ZRTP For Outgoing Calls": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -25581,6 +25601,14 @@
     "history": [
       [
         {
+          "timestamp": 1763603989435,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1763517683797,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -27147,6 +27175,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763603989435,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762653910679,
@@ -31903,7 +31939,7 @@
     ]
   },
   "6741892043": {
-    "name": "Road to Empress",
+    "name": "Road to Empress I",
     "maxPriceInfo": {
       "price": 0.9,
       "formattedPrice": "0,90 €",
