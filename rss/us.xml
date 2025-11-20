@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-11-19T09:56:22.651Z</updated>
+    <updated>2025-11-20T05:37:08.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-19T09:56:22.651Z</updated>
+        <updated>2025-11-20T05:37:08.366Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusWed, 19 Nov 2025 09:56:22 GMT</id>
+        <id>rankingusThu, 20 Nov 2025 05:37:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-19T09:56:22.651Z</updated>
+        <updated>2025-11-20T05:37:08.366Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -95,6 +95,23 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
       </td>
       <td>
@@ -115,27 +132,10 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id424591347">FINAL FANTASY III (3D REMAKE)</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id479431697">CHRONO TRIGGER (Upgrade Ver.)</a>
+        <a href="https://apps.apple.com/us/app/id314192799">Acrobits Softphone</a>
       </td>
       <td>
         <ul>
@@ -152,7 +152,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
+        <a href="https://apps.apple.com/us/app/id378503081">Groundwire: VoIP SIP Softphone</a>
       </td>
       <td>
         <ul>
@@ -167,6 +167,57 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id424591347">FINAL FANTASY III (3D REMAKE)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id479431697">CHRONO TRIGGER (Upgrade Ver.)</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id598581396">Kingdom Rush Frontiers TD</a>
@@ -195,7 +246,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id623592465">Heads Up!</a>
@@ -212,7 +263,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id646256209">Photo Eraser for iPhone</a>
@@ -229,7 +280,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id911201894">DRAGON QUEST</a>
@@ -246,7 +297,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id911205290">DRAGON QUEST II</a>
@@ -263,7 +314,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id911208088">DRAGON QUEST III</a>
@@ -280,7 +331,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id927098908">Pro Camera by Moment</a>
@@ -297,7 +348,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -314,7 +365,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id933113994">DRAGON QUEST V</a>
@@ -331,7 +382,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id964708975">古诗文网-唐诗宋词古文典籍</a>
@@ -348,7 +399,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -371,7 +422,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id994157520">1942 Pacific Front Premium</a>
@@ -388,7 +439,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -405,7 +456,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1001096601">1941 Frozen Front Premium</a>
@@ -422,7 +473,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1021566244">FINAL FANTASY VII</a>
@@ -439,7 +490,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1041260001">FINAL FANTASY Ⅸ</a>
@@ -456,7 +507,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1093131935">Incredibox</a>
@@ -473,7 +524,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1141282192">Advanced Comprehension Therapy</a>
@@ -490,7 +541,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
@@ -507,7 +558,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1264608487">Driving Zone: Germany Pro</a>
@@ -536,7 +587,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1303222868">Paprika Recipe Manager 3</a>
@@ -553,7 +604,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1326740784">FINAL FANTASY VIII Remastered</a>
@@ -570,7 +621,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1411823462">7Days : Backer</a>
@@ -587,7 +638,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1424977227">Titan Quest HD</a>
@@ -604,7 +655,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1438243180">Dark Reader for Safari</a>
@@ -621,7 +672,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -650,7 +701,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -667,7 +718,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453875289">Hyper Light Drifter</a>
@@ -684,7 +735,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1473749002">Vergi Akademisi Pro</a>
@@ -701,7 +752,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -718,7 +769,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512838461">DayCircle - Day counter</a>
@@ -735,7 +786,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1516531425">JSPS APP</a>
@@ -752,7 +803,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1524418421">SessionBand Jazz Fusion</a>
@@ -769,7 +820,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1534488108">SessionBand Jazz 4</a>
@@ -786,7 +837,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537362903">Neighbours back From Hell</a>
@@ -803,7 +854,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
@@ -820,7 +871,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1547424687">我爱截图 - 微商营销做图工具</a>
@@ -837,7 +888,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1552176109">Trials of Mana</a>
@@ -854,7 +905,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
@@ -871,7 +922,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1563156209">Legend of Mana</a>
@@ -888,24 +939,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>46</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575414319">Dune: Imperium</a>
@@ -928,7 +962,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575588022">MenubarX - Floating Browser</a>
@@ -951,7 +985,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -968,7 +1002,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -985,7 +1019,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587860402">Moncage</a>
@@ -1002,7 +1036,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1591620171">Stay for Safari</a>
@@ -1025,7 +1059,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592505377">Wreckfest</a>
@@ -1042,7 +1076,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592854410">Island Story: 100 Days</a>
@@ -1059,7 +1093,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1601194499">DRAGON QUEST BUILDERS</a>
@@ -1076,7 +1110,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1601446687">Streets of Rage 4</a>
@@ -1093,7 +1127,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1639509098">Pasha Planet: Reborn</a>
@@ -1110,7 +1144,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1659903900">Super Mega Lucky Box</a>
@@ -1127,7 +1161,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6502455111">Lara Croft: Guardian of Light</a>
@@ -1150,7 +1184,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6702013134">Cat Flow - Kitty Focus Timer</a>
@@ -1167,7 +1201,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6480501528">Cat Todo：AI & Tasks & Reminder</a>
@@ -1184,7 +1218,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451009326">LMP - Music Hub</a>
@@ -1201,7 +1235,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6504841512">Halls of Torment: Premium</a>
@@ -1218,7 +1252,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6470196512">Oaken</a>
@@ -1235,7 +1269,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738923299">Spin Hero</a>
@@ -1252,7 +1286,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743115658">TABS Pocket Edition</a>
@@ -1269,7 +1303,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444824570">ClashX - 服务监控面板</a>
@@ -1286,7 +1320,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6747814605">Is This Seat Taken?</a>
@@ -1303,7 +1337,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444109272">Kübaj - Hacim Hesaplama</a>
@@ -1320,7 +1354,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -1347,7 +1381,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449183990">DQM: The Dark Prince</a>
@@ -1364,7 +1398,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444435974">VARIOUS DAYLIFE Mobile</a>
@@ -1381,7 +1415,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6473097811">Doodle Baseball Game</a>
@@ -1398,7 +1432,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6746649752">MagicKit Pro: AI Smart Toolbox</a>
@@ -1415,7 +1449,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6755290585">Raiders Map</a>
@@ -1946,6 +1980,140 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dungeon and Puzzles]]></title>
+        <id>Dungeon and Puzzles-us-1763613020299</id>
+        <link href="https://apps.apple.com/us/app/dungeon-and-puzzles/id1571643809?uo=4"/>
+        <updated>2025-11-20T04:30:20.299Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/dungeon-and-puzzles/id1571643809?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/37/2b/c4/372bc437-cdcc-4d28-769c-734bca372000/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h2>Application Description</h2><p>
+  --
+
+Awards:
+● 2021 BitSummit THE 8th BIT: Official Selection
+● Busan Indie Connect 2020: Excellence in Casual
+● Bahamut 2020 ACG Creation Contest: Bronze Award
+
+About:
+Dungeon and Puzzles is a game that challenges players' 2D spatial perception and logical thinking. A player can use a sword to attack monsters, or a bow and an arrow to destroy enemies from afar. Pushing the obstacles back with a shield and pulling the monsters with a pair of special gloves.
+
+There are 150 handcrafted rooms in the dungeon. Players will have to get a better understanding of the game to solve the puzzles and clear the rooms.
+
+To beat the puzzles with fewer moves, achieving advanced goals, players will have to try different tactics and move combinations to find an optimized solution for the room. Sometimes a player would need to put the old solution aside and take on a new perspective towards the problem, reexamine and rethink before making a move.
+
+Features:
+● Dungeon + Puzzle + Sokoban
+● 150 handcrafted rooms
+● Fantasy themed pixel art
+● Non-linear dungeon map
+
+--
+
+● Follow us on Twitter
+https://twitter.com/nekolyst
+● Like us on Facebook
+https://www.facebook.com/Nekolyst
+● Join our Discord server
+https://discord.gg/A7Sss9d
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/02/6d/d5/026dd54f-abf7-48cb-520e-417d64d63a88/04911ad3-24f7-46d5-ac3a-b4e38727268a_1242x2208_1_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6e/56/82/6e5682ec-2bbe-1721-caec-b23ac3f4c404/7847e700-798d-47ce-b0f7-a262a755b2be_1242x2208_2_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/ad/12/05/ad1205ca-b39a-d4c3-e85d-6096fb7fd50b/5e45831a-c939-4c29-90e3-f718dfd7220d_1242x2208_3_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/99/6a/c3/996ac323-d20f-2a6c-fdad-919472764244/77593e1e-e47c-45d5-9b53-763eff5812f0_1242x2208_4_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/7b/da/5f/7bda5fe6-f7dc-077a-4b88-531ac9f9a8e8/91acdf2b-debb-4a6e-947c-9c87eae9115e_1242x2208_5_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c7/40/b0/c740b0b9-49c2-b3b2-c4e4-9183180f0061/818eab0d-d5cc-4e34-930d-6d6ff907da00_1242x2208_6_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c6/60/e8/c660e863-31ef-e435-2b8e-e262673674ff/de857503-d609-47b6-8c7d-4d3d2cfef187_1242x2208_7_english.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a6/97/f8/a697f82e-4f2a-c0ce-80a3-867edea2191e/07f6be1d-795c-45be-a410-fa5a8d52ee24_1242x2208_8_english.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5f/4d/f3/5f4df3ad-fc93-140d-d77a-636f3dcaef04/14a1128d-3faa-4608-a63b-f1a31ef275a7_2048x2732_1_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/48/07/58/480758e8-5a32-7349-6888-cb18a763f8db/439e12d3-eabe-41b3-943d-7e42a95b0e87_2048x2732_2_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6e/16/fc/6e16fc66-177e-2e07-08c7-70b19bc8de79/b57046a7-3dfc-461e-99fc-1dde7b7f970b_2048x2732_3_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/01/55/fa/0155fa0d-975f-bcc0-6d6e-e2abd1ab104d/04812bd2-6fea-4dcc-88a3-86ff1fb22ff9_2048x2732_4_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/38/57/86/38578659-3367-dc10-3037-3934a40e6e31/aa2a7d9d-e4da-4535-9bd9-d6e519fa449c_2048x2732_5_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/6a/7a/c3/6a7ac32d-5550-9b44-9164-8e9ab10417c9/661c41f0-0ef2-4e36-a00e-bdd892a896c5_2048x2732_6_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/57/d6/6e/57d66ee5-50f4-84e7-d301-09d902c9d0b1/cada7688-4f66-49f3-931c-48f2290814fb_2048x2732_7_english.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a8/7f/34/a87f34a1-a916-8d2c-be1f-9ed52851ccf4/5168a4ac-d607-48b0-b1de-fface7dcd250_2048x2732_8_english.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Groundwire: VoIP SIP Softphone]]></title>
+        <id>Groundwire: VoIP SIP Softphone-us-1763613020299</id>
+        <link href="https://apps.apple.com/us/app/groundwire-voip-sip-softphone/id378503081?uo=4"/>
+        <updated>2025-11-20T04:30:20.299Z</updated>
+        <summary type="html"><![CDATA[Price: $9.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/groundwire-voip-sip-softphone/id378503081?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/f5/38/40f538d9-cfa9-69b2-3914-a8d4e2c28e71/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$9.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $9.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$4.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    ZRTP For Outgoing Calls：<b>$24.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Acrobits Groundwire: Elevate Your Communication
+
+Acrobits, a leader in UCaaS and communication solutions for over 20 years, proudly introduces the Acrobits Groundwire softphone. This top-tier SIP softphone client offers unmatched voice and video call clarity. A softphone designed for both personal and professional use, it seamlessly integrates quality communication with an intuitive interface.
+
+IMPORTANT, PLEASE READ
+
+Groundwire is a SIP Client, not a VoIP service. You must have service with a VoIP provider or PBX that supports use on a standard SIP client to use it.
+
+Choosing the Best Softphone App
+
+Experience robust communication with a leading SIP softphone application. Preconfigured for major VoIP providers, this softphone app guarantees high-quality, secure, and intuitive calling. Perfect for maintaining connections with friends, family, and colleagues, maximizing all aspects of your VoIP experience.
+
+Key Features of the SIP Softphone
+- Exceptional Audio Quality: Enjoy crystal clear audio with support for multiple formats including Opus and G.729.
+- HD Video Calls: Conduct up to 720p HD video calls, supported by H.264 and VP8.
+- Robust Security: Our SIP softphone app ensures private conversations with military-grade encryption.
+- Battery Efficiency: Thanks to our efficient push notifications, you can stay connected with minimal battery drain.
+- Seamless Call Transition: Our VoIP dialer smoothly switches between WiFi and data plans during calls.
+- Softphone Customization: Tailor your SIP settings, UI, and ringtones.
+- 5G and Multi-Device Support: Ready for the future, compatible with most mobile operating systems.
+
+Other features included on this robust app include: instant messaging, attended and unattended transfers, group calls, voicemail, and extensive customization for each SIP account. 
+
+More Than Just a VoIP Softphone Dialer
+
+Groundwire softphone offers more than the standard VoIP dialer experience. It’s a comprehensive tool for crystal clear Wi-Fi calling, equipped with robust business VoIP dialer features. It offers a secure and reliable softphone choice with no hidden fees and a one-time cost. Leverage SIP technology for improved call quality. Make this softphone your first choice for dependable, and easy SIP communication.
+
+Download a feature-rich and modern SIP softphone now and be part of a community enjoying the best in voice and SIP calling. Transform your daily communication with our exceptional VoIP softphone app.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/4b/03/e54b03e4-5959-109a-ac6a-4ef725af5c2d/51f3e128-9161-4fdb-a16f-ec43dd7c5382_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_01_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/6b/a3/f56ba336-eab3-53ec-e1f1-c1c43ca1acfe/55089678-61ec-4d38-a9a7-e3d88f402342_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_02_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/fb/df/b0fbdf68-4213-bb14-5d89-b35221ed13ea/e830a11c-db8e-44be-aaef-86fe5a246f7f_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_03_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/96/dc/c696dcf1-e9ae-27b3-b797-7a026110f868/4629f1db-2fdb-4e7c-9c6d-f2579fc25bdd_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_04_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/20/8d/8a208dce-83ec-1cfb-a966-50cb2eaffb3d/0a7d67f0-cf26-4ab7-86b3-df9742b1e563_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_05_041024.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acrobits Softphone]]></title>
+        <id>Acrobits Softphone-us-1763613020299</id>
+        <link href="https://apps.apple.com/us/app/acrobits-softphone/id314192799?uo=4"/>
+        <updated>2025-11-20T04:30:20.299Z</updated>
+        <summary type="html"><![CDATA[Price: $6.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/acrobits-softphone/id314192799?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c3/23/ce/c323ce76-504a-77b4-cd84-3886798e63ad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$6.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$3.99 ~ $6.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$3.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    ZRTP For Outgoing Calls：<b>$24.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Make voice and video calls, send messages, and stay connected with Acrobits Softphone App — a powerful and feature-rich SIP softphone designed for all your calling needs.
+
+IMPORTANT, PLEASE READ
+
+Acrobits Softphone is a SIP Client, not a VoIP service. To use it, you need an account with a VoIP provider or PBX that supports standard SIP clients. 
+
+Note: this app does not support call transfer or conference calling.
+
+Take your VoIP calling experience to the next level with Acrobits Softphone with out-of-the-box support for many of the most popular providers and Bluetooth devices on the market.
+
+Acrobits Softphone brings all the popular features you expect from a SIP app, including support for 5G, voice and video calling, push notifications, call handover between WiFi and data, multi-device compatibility, lifetime access to support and updates, and more.
+
+Experience crystal clear calling with support for popular audio standards, including Opus, G.722, G.729, G.711, iLBC, and GSM. Need to make video calls? Acrobits Softphone supports up to 720p HD and supports both H.265 and VP8.
+
+You can even create your own look and feel. Acrobits Softphone is fully customizable, allowing you to configure your own SIP call settings, UI, ringtones, and more.
+
+Acrobits Softphone makes it easy for you to communicate with friends and family on any device. This SIP calling app is compatible with virtually all iPhones and iPads.
+
+Don’t worry about hidden fees. You can try Acrobits Softphone today for a one-time fee that comes with lifetime support and updates.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/e3/1d/63e31df7-e898-7f23-5e75-8b57a5bb1fac/dcf1fce6-ba30-4e0c-b48e-3912762c3813_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_01_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/c0/e6/b5c0e603-62a3-1e66-4a70-d53e83c3362d/9e2313e5-f746-4189-bf7e-809487502b00_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_02_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/32/77/bf327785-34b9-390a-333d-b13030117365/ae6c3acd-470f-401f-a534-b3aeb06dd285_3.5.5.acrobits-softphone.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/bb/5d/91bb5dae-6993-42dd-1af6-dd06e7cbad05/f82bb947-e3b3-4cc5-bcdd-e61b99518be7_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_04_041024.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f1/b5/6a/f1b56abf-e09e-4c84-2772-0286868cd836/7a2c9208-e8ee-4947-85e6-061802322d75_2245522_AppStoreScreenshots_U0026FeaturedImage2_ACROBITS5.5_05_041024.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Raiders Map]]></title>
@@ -2989,305 +3157,5 @@ iOS11.0 and above.
 [Supported Devices]
 iPhone 5S/iPod touch (6th Generation)/iPad (5th Generation) and above.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f1/53/6a/f1536aa8-5e79-7d2e-4961-af78b0f5b5b5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6a/01/f4/6a01f4fc-ed78-fbe2-c7f9-869e5b647297/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/1f/9f/e6/1f9fe693-f0a8-4fd2-242e-9f353aca235d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6f/25/5e/6f255e0f-bcdb-fecb-1199-1d169123f3d3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/64/2e/30/642e3097-9a89-e5e0-8d93-0bb5fcb0eb88/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/88/ef/1d/88ef1d46-f7e6-4a9b-bb47-e8d2ea780a3e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/3a/e4/f73ae46e-ed5d-2884-634c-ea973850d745/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/01/b7/ab/01b7ab23-5df6-5cba-1b7c-1f1751de0df1/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/45/67/e645670d-089c-8986-1f25-b9529aa7b2a4/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b3/dc/51/b3dc5168-bf30-e975-9591-3e1f6c2f8195/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a4/56/ac/a456acb7-dcf3-dca4-bdc5-1e1d0dcba189/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/56/73/be/5673be70-38ac-af97-d934-003444a30337/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/df/03/8e/df038e93-8bb5-14d4-002d-6d784c95cd46/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/eb/b1/52/ebb15292-006c-ff2f-06bb-8cba23634099/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This Seat Taken?]]></title>
-        <id>Is This Seat Taken?-us-1763353978087</id>
-        <link href="https://apps.apple.com/us/app/is-this-seat-taken/id6747814605?uo=4"/>
-        <updated>2025-11-17T04:32:58.087Z</updated>
-        <summary type="html"><![CDATA[Price: $9.99 → $7.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/is-this-seat-taken/id6747814605?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8d/ee/fd/8deefda2-99e5-8a46-29fc-caf6cc1828ff/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$9.99</span> → <b>
-  <strong>$7.99</strong>
-</b><span>[$7.99 ~ $9.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$7.99</b>
-</p><h2>Application Description</h2><p>
-  Window seat or aisle? Booth or table? Lone wolf or life of the party? In Is This Seat Taken?, your mission is to organize groups of people according to their preferences. It’s a cozy, no-pressure logic puzzle game where you’re in charge of who sits where.
-
-Whether it’s the cinema, a crowded bus, a wedding reception, or a cramped taxi cab, every setting introduces new characters with specific tastes. A party guest with a sensitive nose won’t be happy sitting next to a stranger who’s wearing too much cologne. A sleepy passenger won’t be happy trying to nap on the bus next to someone listening to loud music. It’s all about reading the room to find the perfect placement!
-
-Nat is an aspiring actor whose world gets turned upside down when they see a shape just like them on the big screen. This discovery sends Nat on a global journey to meet their hero and figure out how to fit in. Experience Nat's heartfelt story as you travel from city to city, each with its own levels, characters, and charm.
-
-- Play seating matchmaker to please picky characters.
-- Discover each character’s unique traits—relatable, outlandish, and everything in between.
-- Piece together satisfying puzzles with no timers or leaderboards.
-- Unlock fun new scenarios as you progress—from bus rides to banquets!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vergi Akademisi Pro]]></title>
-        <id>Vergi Akademisi Pro-us-1763353978087</id>
-        <link href="https://apps.apple.com/us/app/vergi-akademisi-pro/id1473749002?uo=4"/>
-        <updated>2025-11-17T04:32:58.087Z</updated>
-        <summary type="html"><![CDATA[Price: $19.99 → $14.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/vergi-akademisi-pro/id1473749002?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/15/cf/d215cf63-8277-9dae-c480-a00b3cd0e8c5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$19.99</span> → <b>
-  <strong>$14.99</strong>
-</b><span>[$12.99 ~ $19.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$14.99</b>
-</p><h2>Application Description</h2><p>
-  Hazine ve Maliye Bakanlığı Kurum Sınavları Hazırlık
-Gelir İdaresi Başkanlığı Kurum Sınavları Hazırlık;
-Cebinizdeki tek güncel kaynak.(İnternetsiz Çalışır)
-**Ücretlendirme uygulamanın tamamı içindir.Her kanuna vs ayrı ücret alınmamaktadır.Abonelik veya güncelleme ücreti alınmamaktadır.
-
-Vergi Akademisi ile tüm vergi mevzuatı ve gider kanunları soruları artık Cebinizde.
-
--Her zaman Güncel
--Özgün ve çözümlü sorular
--Güncellenmiş Çıkmış sorular
--Sınırsız Deneme Sınavları
-Şu an mevcut toplam 6000 soru.
-Sorulara ait konular:
-1-Vergi Usul Kanunu
-2-Gelir Vergisi Kanunu
-3-Kurumlar Vergisi Kanunu
-4-Katma Değer Vergisi Kanunun
-5-Özel Tüketim Vergisi Vergisi Kanunu
-6-Muhasebe
-7-6183 sayılı AATUHK
-8-Vergi Daireleri İşlem Yönergesi- yeni
-9-Veraset ve İntikal Vergisi Kanunu
-10-Motorlu Taşıtlar Vergisi Kanunu
-11-Özel İletişim Vergisi Kanunu
-12-Veraset ve İntikal Vergisi Kanunu
-13-Damga Vergisi Kanunu
-14-Harcırah Kanunu
-15-657 sayılı Devlet Memurları Kanunu
-16-5018 sayılı Kamu Mali ve Kontrol Kanunu
-17-Sayıştay Kanunu
-18-4734 sayılı Kamu İhale Kanunu
-19-4735 sayılı Kamu İhale Sözleşmeleri Kanunu
-20-Dilekçe Hakkının Kullanılması Hakkındaki Kanun
-21-Mali Tatil İhdas Edilmesi Hakkındaki Kanun
-22-Bilgi Edinme Kanunu
-23-Hazine ve Maliye Bak.Kararnamesi
-24-Vergi Daireleri Kuruluş ve Görev Yönetmeliği
-25-Gider Vergileri Kanunu
-
-Güncellenmiş çıkmış sorular
-
-Kurum içi Gelir Uzmanlığı Sınavı-Tüm Yıllar
-Grup Müdürlüğü Sınavı
-Vergi Dairesi Müdürlüğü Sınavı-Tüm Yıllar-2025 dahil
-Vergi Dairesi Müdür Yardımcılığı Sınavı-Tüm Yıllar-2025 dahil
-Gelir Uzmanlığı Sınavı
-Gelir Uzmanlığı Yeterlik Sınavı-2006-2008-2013-2014-2016-2018-2019-2020-2021-2022-2023-2024 dahil
-
-Uzman ekip tarafından hazırlanmış sorular her zaman günceldir.İnternete bağlıyken güncelle butonu ile soruları ve içeriği herzaman güncelleyebilirsiniz.
-
-
-Mail:destek@vergiakademisi.org
-Web: www.vergiakademisi.org
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kübaj - Hacim Hesaplama]]></title>
-        <id>Kübaj - Hacim Hesaplama-us-1763353978087</id>
-        <link href="https://apps.apple.com/us/app/k%C3%BCbaj-hacim-hesaplama/id6444109272?uo=4"/>
-        <updated>2025-11-17T04:32:58.087Z</updated>
-        <summary type="html"><![CDATA[Price: $5.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/k%C3%BCbaj-hacim-hesaplama/id6444109272?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/5a/96/155a96f8-fac0-116d-09da-46e16e7e60ee/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$5.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$2.99 ~ $5.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$4.99</b>
-</p><h2>Application Description</h2><p>Kübaj, Hacim hesapla</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/13/b6/9d13b604-e7bb-472c-9672-0ecfdccd82a0/3c483478-4746-4093-9bd1-203cd4803564_Hotpot_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c2/66/72/c2667297-6265-0d81-4c02-6054928e3699/333dcdbc-233e-478a-95b6-8839d2372f18_Hotpot_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/9c/8d/f69c8d8a-7d3d-f893-01c9-5fd0adf678ac/01ec8edd-4d7f-4698-b6b5-70c443c2b5cd_Hotpot_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/8e/6c/9b8e6c36-525c-d6ff-78c4-151cf37551da/d3db213f-ae9d-480a-b3e2-ebf26d3b6ea1_Hotpot_3.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Incredibox]]></title>
-        <id>Incredibox-us-1763353978087</id>
-        <link href="https://apps.apple.com/us/app/incredibox/id1093131935?uo=4"/>
-        <updated>2025-11-17T04:32:58.087Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/incredibox/id1093131935?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/60/f0/07/60f007a6-ae34-99ba-71ec-6639e0175ad0/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  Incredibox lets you create your own music with the help of a merry crew of beatboxers. Choose your musical style to start laying down, recording and sharing your mix. Get your groove on with hip-hop beats, electro waves, pop voices, jazzy swing, Brazilian rhythms and much more. As well, discover a selection of mods created by the community. Plenty to keep you mixing for hours, with no ads or microtransactions.
-
-Part game, part tool, Incredibox is above all an audio and visual experience that has quickly become a hit with people of all ages. The right mix of music, graphics, animation and interactivity makes Incredibox ideal for everyone. And because it makes learning fun and entertaining, Incredibox is now being used by schools all over the world.
-
-How to play? Easy! Drag and drop icons onto the avatars to make them sing and start to compose your own music. Find the right sound combos to unlock animated choruses that will enhance your tune.
-
-Once your composition sounds great, just save it and share it to get as many votes as possible. If you get enough votes, you may go down in Incredibox history by joining the Top 50 chart! Ready to show your stuff?
-
-You can also download your mix as an MP3 from the app and listen to it over and over again!
-
-Too lazy to create your own mix? No problem, just let the automatic mode play for you!
-
-Pump it up and chill ;)
-
-****************
-Incredibox, the brainchild of Lyon, France-based studio So Far So Good, was created in 2009. Starting out as a webpage, it was then released as a mobile and tablet app and became an instant hit. It has won several awards and appeared in various international media, including: BBC, Adobe, FWA, Gizmodo, Slate, Konbini, Softonic, Kotaku, Cosmopolitan, PocketGamer, AppAdvice, AppSpy, Vice, Ultralinx and many others. The online demo has attracted more than 100 million visitors since its creation.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/41/df/0c/41df0c96-e531-0de8-dabe-bb6603efe015/2eecefff-33f5-41d2-b76f-09c8a8872b53_01-home.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/24/c0/cd/24c0cd5b-3c33-c701-8f1e-6b9e86426e67/b248c6bd-0d65-4314-9998-7eff8702f15d_02-scene.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c8/ee/64/c8ee64a8-daa7-13a8-643d-0ef74174e42e/e221dfab-1fe2-4468-8598-d50a4587f9b9_03-bonus.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/67/15/b6/6715b604-744d-46d9-0860-7409faf2b270/513f8558-e38c-44d9-ac64-9989a4ffeffa_04-switch.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/4e/c7/f7/4ec7f70b-d4dc-f72b-d90d-5fc0bb1fbfeb/b14fbc65-5052-4223-b0ce-31cc31e1a2d3_05-top50.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/22/a9/7b22a959-2038-8304-fee8-6529b70d715e/3bbb87a1-bfb5-499e-a1bd-5d6d1237c5fb_06-scene-v8.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/22/6d/b1/226db136-7d11-2cae-663b-eb7eb41bbce2/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/14/9d/f9/149df9c4-b63a-7e27-2651-67ab5eb9af4a/mzl.ugyfwaph.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6b/46/31/6b463147-88b6-ecff-d8b7-88fc0975136c/mzl.afufjgeb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2a/e0/11/2ae011ce-dcc9-d75f-60b7-e99a7278e0d2/mzl.lxsghrze.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3e/af/15/3eaf1583-5a97-0d83-c9fe-722234b5e304/f1584b5b-20a5-4a41-af22-ef98e3d9ce32_01-home.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/d6/fa/75d6fa09-86b4-9561-2174-04cd8dacc4a2/362a962e-0cec-4fec-9e43-94d6ee9596d2_02-scene.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/47/a0/59/47a059dc-e61f-45fd-93fd-c01dc06fb692/1d3f17ca-37ca-4ba6-9467-c3e82d3b3883_03-bonus.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/e9/7c/19e97c0b-709f-94a7-f968-1602b64734ea/4745ef05-8109-4fef-b73e-073fdc316e7e_04-switch.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f8/90/1d/f8901d8b-a2fd-dc60-baa6-fbd54484b525/bc01b52a-5493-46f6-8038-1c96270de26d_05-top50.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/46/4e/7e/464e7e1b-2ec9-8f3a-d730-55991921b9f0/78cf91aa-8574-4b32-aaee-de9e5e547c07_02-scene.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/b7/ed/80b7edb9-17f4-e1d1-06b1-404c110c31cd/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/5e/d7/5f/5ed75f0c-5d4f-6ab9-d7a6-4f8106f46714/mzl.ewmjnbdx.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a2/8a/b6/a28ab6dc-68f6-8e9c-d598-f14055830c52/mzl.tkhqycbj.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b2/76/51/b27651e1-241f-0ef3-796d-672e49700e31/mzl.nqlbviyy.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JSPS APP]]></title>
-        <id>JSPS APP-us-1763353978087</id>
-        <link href="https://apps.apple.com/us/app/jsps-app/id1516531425?uo=4"/>
-        <updated>2025-11-17T04:32:58.087Z</updated>
-        <summary type="html"><![CDATA[Price: $12.99 → $9.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/jsps-app/id1516531425?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0c/e0/72/0ce072f9-29e1-22c7-fba4-76e9ee07dbf7/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$12.99</span> → <b>
-  <strong>$9.99</strong>
-</b><span>[$9.99 ~ $12.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$9.99</b>
-</p><h2>Application Description</h2><p>
-  JANDARMA VE SAHİL GÜVENLİK PERSONEL SINAVI JSPS PRO
-
-ŞİMDİ KAZANMA ZAMANI!!!
-
-JSPS PRO, Jandarma ve Sahil Güvenlik personelinin astsubaylığa geçiş, ihtisas ve misyon koruma sınavlarına hazırlanması amacıyla geliştirilmiş, kapsamlı bir eğitim ve bilgi platformudur.
-Ayrıca, görevdeki personelin jandarma mevzuat konularına her an erişebilmesini sağlayarak mesleki gelişime katkı sunar.
-
-UYGULAMA ÖZELLİKLERİ
-
-*Güncel Kanun ve Yönetmelikler
-Uygulama içerisinde yer alan tüm mevzuat sürekli güncellenmektedir. Her konudan binlerce soru bulunmakta olup, soru sayıları düzenli olarak artırılmaktadır.
-
-* Özet Anlatımlar
-Zamanın Yoksa dert etme özetler ile hazırlanmaya başla.
-
-*Video Dersler
-JSPS sınavına yönelik uzman eğitmenler tarafından hazırlanmış video derslere erişim imkânı sunulmaktadır.
-
-*Sesli Anlatım Özelliği
-Konuları dilediğiniz yerde dinleyerek zamanınızı verimli kullanabilir ve öğrenme sürecinizi hızlandırabilirsiniz.
-
-*Bilgi Kartları
-JSPS için Pratik Yapın, Konu tekrarlarını kolaylaştıran, öğrenmeyi kalıcı hale getiren bilgi kartları yer almaktadır.
-
-*Gerçek Sınav Formatında Denemeler
-Uygulamada sınav formatına uygun 100 soruluk denemeler bulunmaktadır. Bu denemeler sınava hazırlıkta önemli bir avantaj sağlar.
-
-*Sınav Takvimi ve Bildirimler
-Sınav tarihleri, yapılması gereken işlemler ve güncel duyurular anlık bildirimlerle kullanıcıya iletilir.
-
-*Yapay Zekâ Asistanı
-Sınav konularıyla ilgili merak ettiğiniz soruları yöneltebileceğiniz yapay zekâ asistanı sınav emriyle aktif hale gelir ve sınırlı süreyle kullanılabilir.
-
-*Favorilerim, Yapılacaklar, Haberler ve Bilgilendirme Alanları
-Uygulama içerisinde kişisel çalışma planı oluşturabilir, ilerlemenizi takip edebilir ve güncel gelişmelerden haberdar olabilirsiniz.
-
-JANDARMA VE SAHİL GÜVENLİK MESLEK BİLGİSİ MODÜLÜ
-
-Bu modül, görev sırasında ihtiyaç duyulan tüm bilgilere tek platform üzerinden ulaşma imkânı sağlar.
-
-* Asayiş olaylarında anlık bilgi edinme
-* Savunma, cezalar ve idari işlemler hakkında bilgi
-* Güncel kanun ve yönetmeliklere erişim
-* İdari para cezaları hakkında bilgi
-* 30’dan fazla tahkikat dosyası (örnek: kasten öldürme, mala zarar verme vb.)
-* Adli ve idari tahkikat hazırlama rehberi
-* Tutanak hazırlama örnekleri
-* Suç tasnifleri hakkında bilgi (kişilere karşı suçlar, mala karşı suçlar vb.)
-* Trafik idari para cezaları hakkında detaylı bilgi
-* Silah bilgisi ve kullanma yetkileri
-* Kolluk etik ilkeleri
-* Dilekçe ve üst yazı örnekleri
-
-Bu özellikler sayesinde personel, görev sırasında ihtiyaç duyduğu bilgilere kolayca ulaşabilir.
-
-NEDEN JSPS PRO?
-
-* Kitap taşıma zorunluluğunu ortadan kaldırır.
-* Güncel kanun ve yönetmeliklere ücretsiz erişim sağlar.
-* Tüm kuvvet personelinin kullanabileceği en kapsamlı mobil uygulamadır.
-* Kullanıcı geri bildirimlerine göre düzenli olarak güncellenir.
-
-UYGULAMANIN KAPSADIĞI SINAVLAR
-
-* Sözleşmeli Subaylıktan Muvazzaf Subaylığa Geçiş Sınavı
-* Sözleşmeli Astsubaylıktan Muvazzaf Astsubaylığa Geçiş Sınavı
-* Jandarma İhtisas Branş Sınavı
-* Jandarma Misyon Koruma Sınavı
-* Uzman Jandarmalıktan Astsubaylığa Geçiş Sınavı
-* Uzman Erbaşlıktan Astsubaylığa Geçiş Sınavı
-* Muvazzaf Subay ve Astsubay Sınavları
-* Sözleşmeli Subay ve Astsubay Sınavları
-
-JSPS PRO – ÖĞRENMENİN KALICILIĞINI ARTIRIN
-
-Tüm bilgiler, mevzuatlar, sorular ve örnek dosyalar tek bir uygulamada toplanmıştır.
-JSPS PRO ile sınavlara hazırlanmak artık çok daha kolay, sistematik ve etkili.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[召喚騎士團]]></title>
-        <id>召喚騎士團-us-1763353978087</id>
-        <link href="https://apps.apple.com/us/app/%E5%8F%AC%E5%96%9A%E9%A8%8E%E5%A3%AB%E5%9C%98/id6471947612?uo=4"/>
-        <updated>2025-11-17T04:32:58.087Z</updated>
-        <summary type="html"><![CDATA[故事模式+自由模式合集: $8.99 → $4.49<br/>劇情模式: $4.99 → $2.49<br/>自由模式: $4.99 → $2.49]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E5%8F%AC%E5%96%9A%E9%A8%8E%E5%A3%AB%E5%9C%98/id6471947612?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/89/32/9989329f-ff9b-d80d-203f-6068171335bf/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>故事模式+自由模式合集：</strong><span>$8.99</span> → <b>
-  <strong>$4.49</strong>
-</b><span>[$4.49 ~ $8.99]</span>
-  </li><li>
-    <strong>劇情模式：</strong><span>$4.99</span> → <b>
-  <strong>$2.49</strong>
-</b><span>[$2.49 ~ $4.99]</span>
-  </li><li>
-    <strong>自由模式：</strong><span>$4.99</span> → <b>
-  <strong>$2.49</strong>
-</b><span>[$2.49 ~ $4.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    故事模式+自由模式合集：<b>$4.49</b>
-  </li><li>
-    劇情模式：<b>$2.49</b>
-  </li><li>
-    自由模式：<b>$2.49</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  【Game Introduction】
-'Call of Knights' is an RPG card pixel-style game developed by Olive Panda Studio. It is divided into two parts: 'Song of the Knight' and 'Shining Stars,' each offering unique gameplay and content. The game adopts paid download, in-app purchase to unlock model to access all gameplay content.
-
-【In-App Purchases Unlock】
-Full Content Unlock: $8.99 USD
-Story Mode of Song of the Knight: $4.99 USD
-Free Mode of Shining Stars: $4.99 USD
-Both modes support experiencing before paying for unlocking. 'Song of the Knight' can be experienced for free until the end of the second chapter, and 'Shining Stars' offers free gameplay for one year. 
-Note: The amounts will be converted based on the local exchange rate.
-
-'Song of the Knight':
-The story is adapted from the Nobel Prize-winning author Henrik Hien's 'The Knights of the Cross.' The main gameplay involves RPG role-playing with cards, incorporating a partner skill combo system during card battles. Different cards played release exclusive skills, constructing various playstyles. Players will also meet and recruit numerous companions, embarking on an epic journey.
-
-'Shining Stars':
-The game is set in a magical continent called Antana, featuring six countries with diverse customs. Players take on the role of a small lord in one of the kingdoms. As the demonic realm is about to invade the continent, players must travel far and wide to find companions for their knightly order, establish their own knightly order, embark on adventures, strengthen their abilities, and defend the human frontlines.
-
-【Device Support】
-· iOS 10.0 and above
-· Operating memory of 3GB and above
-· iPhone 7 and above
-· iPad Air 3 and above
-
-【Contact Us】
-If you need assistance during the game or encounter issues, feel free to contact us via email.
-Official Email: knight@longyougame.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/26/2d/f5262da6-41f6-7bc9-dac5-d0fe8927f902/14ccc6a9-ec79-4c52-b7e8-e04a6d586069_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/a9/43/6ca943dd-d298-6faf-faaa-8022f0c23c5e/cf67dc32-c9f7-47be-a5b8-3026962ee8ae_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5f/2d/70/5f2d70f0-566c-078c-83c1-1f2fbe4291c1/8523841c-54ad-44d9-87b7-bf3ea99dc712_4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/97/2c/6a/972c6a0f-c0b2-ea7b-1bd7-c76aae866a88/e73c0e5e-9742-4b45-a737-e37d1068515d_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c5/99/24/c59924d5-74df-e723-2cfa-2c1d36e9ca34/7a58468a-93f1-4a7c-a73e-9e292d197020_3.png/406x228bb.png" />]]></content>
     </entry>
 </feed>
