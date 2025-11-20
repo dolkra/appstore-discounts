@@ -7192,7 +7192,8 @@
       "Pedreira": "0,99 €",
       "Karkinos": "0,99 €",
       "Grande pacote de heróis 2": "17,99 €",
-      "Kutsao": "2,99 €"
+      "Kutsao": "2,99 €",
+      "Pacote de heróis 1": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -7213,9 +7214,29 @@
       "Pedreira": "0,99 €",
       "Karkinos": "0,99 €",
       "Grande pacote de heróis 2": "17,99 €",
-      "Kutsao": "2,99 €"
+      "Kutsao": "2,99 €",
+      "Pacote de heróis 1": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763663885427,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Pacote de heróis 1": "1,99 €",
+            "Bravosso": "7,99 €",
+            "Mordecinzas": "7,99 €",
+            "Baú de gemas": "9,99 €",
+            "Dante": "5,99 €",
+            "Bolsa de gemas": "5,99 €",
+            "Nivus": "0,99 €",
+            "Sha'tra": "2,99 €",
+            "Kahz": "5,99 €",
+            "Kutsao": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763008306094,
@@ -25942,6 +25963,27 @@
           "timestamp": 1761797674362,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1547796908": {
+    "name": "席绢言情-冰淇淋文学言情小说阅读器",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763663885427,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
