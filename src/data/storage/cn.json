@@ -130754,8 +130754,8 @@
   "6755290585": {
     "name": "Raiders Map",
     "maxPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00"
+      "price": 22,
+      "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -130763,6 +130763,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1763643254692,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1763634548461,
           "price": 15,
@@ -130802,6 +130808,27 @@
           "timestamp": 1763627778858,
           "price": 15,
           "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6743547737": {
+    "name": "PowNap",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763643254692,
+          "price": 22,
+          "formattedPrice": "¥22.00",
           "inAppPurchases": {}
         }
       ]
