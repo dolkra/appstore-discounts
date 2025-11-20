@@ -25180,10 +25180,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 3.49,
+      "formattedPrice": "USD 3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763634548461,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761649845250,
@@ -42975,10 +42983,18 @@
       "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 3.49,
+      "formattedPrice": "USD 3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763634548461,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761649845250,
@@ -116879,14 +116895,22 @@
   "6755290585": {
     "name": "Raiders Map",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763634548461,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763548184544,
