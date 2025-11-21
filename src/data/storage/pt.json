@@ -3740,6 +3740,23 @@
     "history": [
       [
         {
+          "timestamp": 1763707189982,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "PowerLevel_5up": "3,99 €",
+            "AllLevel_5up": "9,99 €",
+            "PowerLevel_1Up": "0,99 €",
+            "ContactLevel_5up": "3,99 €",
+            "Called Shot 50": "9,99 €",
+            "Called Shot 4": "0,99 €",
+            "GOLD BAT": "17,99 €",
+            "AllLevel_1up": "2,99 €",
+            "EyeLevel_5up": "3,99 €",
+            "EyeLevel_1up": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1763699465118,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -16847,6 +16864,27 @@
       ]
     ]
   },
+  "1205330054": {
+    "name": "Truques matemáticos (100+) PRO",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1763707189982,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1205486761": {
     "name": "Beholder",
     "maxPriceInfo": {
@@ -24012,10 +24050,18 @@
       "formattedPrice": "0,29 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763707189982,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -38914,6 +38960,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1763707189982,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Caminhos Distintos": "9,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Amuleto:\"Munição para Pistola\"": "0,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Maleta: \"Ouro\"": "0,99 €",
+            "Weapon Upgrade Ticket x1 (B)": "2,99 €",
+            "Weapon Upgrade Ticket x3 (D)": "6,99 €"
+          }
+        },
         {
           "timestamp": 1763699465118,
           "price": 0,
