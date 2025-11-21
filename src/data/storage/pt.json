@@ -3112,6 +3112,23 @@
     "history": [
       [
         {
+          "timestamp": 1763742909378,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Predictive Report - Full": "3,99 €",
+            "Birth Chart Report - Full": "3,99 €",
+            "Gold Monthly": "8,99 €",
+            "Birthday Report": "3,99 €",
+            "Relationship Report": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "Child Report - Full": "3,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Predictive Report - Untimed": "2,99 €",
+            "Gold Level Free Trial": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1763729604756,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -17704,6 +17721,23 @@
     "history": [
       [
         {
+          "timestamp": 1763742909378,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Hammerhold Campaign!": "8,99 €",
+            "Hero Beresad": "7,99 €",
+            "Barrel of gems": "9,99 €",
+            "Mega Tower Bundle": "17,99 €",
+            "Handful of gems": "2,99 €",
+            "Tower Blazing Gem": "5,99 €",
+            "Pirate Kings Campaign!": "8,99 €",
+            "Pouch of gems": "5,99 €",
+            "Mega Heroe Bundle": "19,99 €",
+            "Tower Deep Devil's Reef": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1763735158536,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -19872,7 +19906,8 @@
       "Path Font Pack": "0,00 €",
       "Wisdom Font Pack": "0,00 €",
       "Just Font Pack": "0,00 €",
-      "Future Font Pack": "0,00 €"
+      "Future Font Pack": "0,00 €",
+      "Perfect Poster Pack": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -19886,9 +19921,29 @@
       "Path Font Pack": "0,00 €",
       "Wisdom Font Pack": "0,00 €",
       "Just Font Pack": "0,00 €",
-      "Future Font Pack": "0,00 €"
+      "Future Font Pack": "0,00 €",
+      "Perfect Poster Pack": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763742909378,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pic Say Poster Pack": "0,99 €",
+            "Insta Poster Pack": "0,99 €",
+            "Always Font Pack": "0,00 €",
+            "Unique Font Pack": "0,99 €",
+            "Reason Font Pack": "0,00 €",
+            "Path Font Pack": "0,00 €",
+            "Wisdom Font Pack": "0,00 €",
+            "Just Font Pack": "0,00 €",
+            "Future Font Pack": "0,00 €",
+            "Perfect Poster Pack": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -23225,7 +23280,8 @@
       "Victorian London Theme": "4,99 €",
       "Atlantis Obsidian Token Bundle": "9,99 €",
       "The Posiden Token": "2,99 €",
-      "The Werewolf": "2,99 €"
+      "The Werewolf": "2,99 €",
+      "Mega Bundle": "19,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -23261,10 +23317,28 @@
       "Victorian London Theme": "4,99 €",
       "Atlantis Obsidian Token Bundle": "9,99 €",
       "The Posiden Token": "2,99 €",
-      "The Werewolf": "2,99 €"
+      "The Werewolf": "2,99 €",
+      "Mega Bundle": "19,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1763742909378,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Atlantis Obsidian Token Bundle": "9,99 €",
+            "Mega Bundle": "19,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Werewolf": "2,99 €",
+            "Euro Trip": "2,99 €",
+            "New York 2121 Board": "5,99 €",
+            "The Dragon": "2,99 €",
+            "The Posiden Token": "2,99 €",
+            "Golden Dice": "4,99 €"
+          }
+        },
         {
           "timestamp": 1763699465118,
           "price": 4.99,
@@ -38190,6 +38264,23 @@
     "history": [
       [
         {
+          "timestamp": 1763742909378,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "Case IH Speed-Tiller": "1,19 €"
+          }
+        },
+        {
           "timestamp": 1763735158536,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -39838,13 +39929,31 @@
     "name": "Raiders Map",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Raider Mk. 3": "17,99 €",
+      "Raider Mk. 2": "12,99 €",
+      "Raider Mk. 1": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Raider Mk. 3": "17,99 €",
+      "Raider Mk. 2": "12,99 €",
+      "Raider Mk. 1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763742909378,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 3": "17,99 €",
+            "Raider Mk. 2": "12,99 €",
+            "Raider Mk. 1": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763634548461,
