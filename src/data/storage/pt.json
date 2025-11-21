@@ -39579,10 +39579,18 @@
       "formattedPrice": "22,99 €"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763720887673,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763577514762,
