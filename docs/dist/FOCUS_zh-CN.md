@@ -1031,7 +1031,7 @@
 |530|469343554|自动|❌|洛克人X|洛克人X|洛克人X|❌|❌|❌|
 |529|479516143|自动|❌|Minecraft|Minecraft|Minecraft|Minecraft: Dream it, Build it!|Minecraft: Dream it, Build it!|Minecraft|
 |528|479662730|自动|❌|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto 3|Grand Theft Auto III|
-|527|482303584|自动|❌|❌|❌|❌|PDG PROmote 2025+|PDG PROmote 2025+|❌|
+|527|482303584|自动|❌|❌|❌|❌|PDG PROmote 2026+|PDG PROmote 2026+|❌|
 |526|485246824|自动|❌|Cytus|Cytus|Cytus|Cytus|Cytus|Cytus|
 |525|491231653|自动|❌|大富翁 4 Fun|大富翁 4 Fun|大富翁 4 Fun|大富翁 4 Fun|大富翁 4 Fun|大富翁 4 Fun|
 |524|497716362|自动|TonalEnergy 调音器—节拍器|TonalEnergy 調音器—節拍器|TonalEnergy 調音器—節拍器|TonalEnergy 調音器—節拍器|TonalEnergy Tuner & Metronome|TonalEnergy Tuner & Metronome|TonalEnergy Afinador+Metrônomo|
