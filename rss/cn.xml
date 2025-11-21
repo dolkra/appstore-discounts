@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-11-21T17:43:22.169Z</updated>
+    <updated>2025-11-21T19:40:03.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-21T17:43:22.170Z</updated>
+        <updated>2025-11-21T19:40:03.553Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 21 Nov 2025 17:43:22 GMT</id>
+        <id>rankingcnFri, 21 Nov 2025 19:40:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-21T17:43:22.171Z</updated>
+        <updated>2025-11-21T19:40:03.553Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -122,6 +122,29 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id6755290585">Raiders Map</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>3</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>Raider Mk. 3</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id6633427774">为了吾王-多人联机策略跑团</a>
       </td>
       <td>
@@ -136,7 +159,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -153,7 +176,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
@@ -186,23 +209,6 @@ feedId:157007849019630592+userId:73658201673997312
                 <i>DLC：邪恶之心</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6755290585">Raiders Map</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>2</b>
-          </li><li>
-            <span>价格</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -944,6 +950,23 @@ feedId:157007849019630592+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>47</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6503932402">超声智学</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -1352,6 +1375,86 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Raiders Map]]></title>
+        <id>Raiders Map-cn-1763750043902</id>
+        <link href="https://apps.apple.com/cn/app/raiders-map/id6755290585?uo=4"/>
+        <updated>2025-11-21T18:34:03.902Z</updated>
+        <summary type="html"><![CDATA[Raider Mk. 3: ¥98.00 → ¥88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/raiders-map/id6755290585?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f0/d6/2bf0d62a-c75b-0e71-6ad7-107f4e1c4759/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>Raider Mk. 3：</strong><span>¥98.00</span> → <b>
+  <strong>¥88.00</strong>
+</b><span>[¥88.00 ~ ¥98.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Raider Mk. 3：<b>¥88.00</b>
+  </li><li>
+    Raider Mk. 2：<b>¥88.00</b>
+  </li><li>
+    Raider Mk. 1：<b>¥8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Arc drop list, guides and quest-line guides.
+
+NOT affiliated with Embark. Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.
+
+
+Not affiliated with embark. Raiders Map is independently owned and managed. 
+
+apple standard EULhttp://www.apple.com/legal/itunes/appstore/dev/stdeulaA
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[超声智学]]></title>
+        <id>超声智学-cn-1763750043902</id>
+        <link href="https://apps.apple.com/cn/app/%E8%B6%85%E5%A3%B0%E6%99%BA%E5%AD%A6/id6503932402?uo=4"/>
+        <updated>2025-11-21T18:34:03.902Z</updated>
+        <summary type="html"><![CDATA[价格: ¥78.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E8%B6%85%E5%A3%B0%E6%99%BA%E5%AD%A6/id6503932402?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/6e/ca/e36eca15-5540-f6d4-6b72-b59475be3d7e/AppIcon-0-0-1x_U007emarketing-0-6-85-220.jpeg/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥78.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥78.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    连续包年会员：<b>¥98.00</b>
+  </li><li>
+    连续包季会员：<b>¥48.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  超声技术在现代临床医学中扮演着越来越重要的角色。它不仅被广泛应用于肌骨领域，还扩展到了运动医学、急诊医学和康复医学等多个领域。超声技术以其便携性和先进的数字成像技术，使得临床医生能够快速、准确地进行疾病评估和诊断。特别是在急诊情况下，超声技术能够提供实时的影像支持，帮助医生迅速做出诊断和治疗决策。
+    此外，随着人工智能和5G技术的发展，超声技术在远程医疗中的应用也日益增多，使得偏远地区的患者也能享受到高质量的医疗服务。超声技术的进步，不仅提高了诊断的精准性，也为医疗资源的均衡分配和优化提供了强有力的支持。
+超声智学APP：超声领域的智慧之光
+超声智学APP是一款专为超声医学领域精心打造的专业应用，它以五个精心设计的模块，为医疗专业人士提供全面的超声检查指导和深度参考。以下是各模块的详细介绍：
+1.肌骨超声模块：
+涵盖肩部、肘部、手腕、臀部、膝盖、脚踝、腹部、盆底、腰椎、颈椎等关键部位的物理治疗超声波程序。
+提供详尽的应用参考指南，助力用户精准掌握超声操作的精髓。
+2.腹部超声模块：
+专注于肝脏、肾脏、脾脏、胆囊和胰腺等腹部器官的超声检查。
+提供应用特定的参考指南，确保检查的精确性和专业性。
+3.区域麻醉模块：
+覆盖颈部、上肢、腹部、下肢、血管通路等区域麻醉超声程序。
+提供应用特定的参考指南，为医疗人员提供精准的区域麻醉指导。
+4.妇科超声模块：
+专注于女性骨盆、子宫和卵巢的妇科超声应用。
+提供应用特定的参考指南，帮助医生进行专业的妇科超声检查。
+5.重症监护超声：
+专用于腹腔积液、心包积液和胸腔积液等紧急和重症监护超声检查。
+提供应用特定的参考指南，为紧急情况下的超声检查提供专业指导。
+每个模块均配备高清实拍操作图、2D手绘剖面图和超声影像图，确保用户能够清晰直观地掌握解剖结构。
+针对标切图清晰的标记解剖结构，并可以点击对应序号展示结构信息。超声图与2D手绘剖面图的精准对应，以及解剖结构序号和名称的标注，使得学习和规范化工作流程变得更加高效和直观。
+超声智学APP不仅是医疗专业人员学习和实践超声技术的理想工具，更是超声领域的智慧之光，照亮每一次精确诊断的旅程。
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Raiders Map]]></title>

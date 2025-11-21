@@ -76616,6 +76616,22 @@
     "history": [
       [
         {
+          "timestamp": 1763750043902,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "每日英语听力VIP订阅": "¥88.00",
+            "《每日外刊》订阅": "¥63.00",
+            "长期VIP权限": "¥298.00",
+            "一年VIP权限": "¥128.00",
+            "《小王子》": "¥40.00",
+            "《了不起的盖茨比》": "¥40.00",
+            "推倒一切，重学英语": "¥98.00",
+            "60天打造流利口语": "¥98.00",
+            "《英语四级真题精品课》": "¥60.00"
+          }
+        },
+        {
           "timestamp": 1763742909378,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -125023,13 +125039,28 @@
     "name": "超声智学",
     "maxPriceInfo": {
       "price": 78,
-      "formattedPrice": "¥78.00"
+      "formattedPrice": "¥78.00",
+      "连续包年会员": "¥98.00",
+      "连续包季会员": "¥48.00"
     },
     "minPriceInfo": {
-      "price": 78,
-      "formattedPrice": "¥78.00"
+      "price": 0,
+      "formattedPrice": "免费",
+      "连续包年会员": "¥98.00",
+      "连续包季会员": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763750043902,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "连续包年会员": "¥98.00",
+            "连续包季会员": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1746799336853,
@@ -131349,12 +131380,22 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
-      "Raider Mk. 3": "¥98.00",
+      "Raider Mk. 3": "¥88.00",
       "Raider Mk. 2": "¥88.00",
       "Raider Mk. 1": "¥8.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1763750043902,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Raider Mk. 3": "¥88.00",
+            "Raider Mk. 2": "¥88.00",
+            "Raider Mk. 1": "¥8.00"
+          }
+        },
         {
           "timestamp": 1763742909378,
           "price": 0,

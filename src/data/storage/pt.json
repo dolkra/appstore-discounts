@@ -19927,6 +19927,23 @@
     "history": [
       [
         {
+          "timestamp": 1763750043902,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "5,99 €",
+            "Pic Say Poster Pack": "0,99 €",
+            "Insta Poster Pack": "0,99 €",
+            "Always Font Pack": "0,00 €",
+            "Unique Font Pack": "0,99 €",
+            "Reason Font Pack": "0,00 €",
+            "Path Font Pack": "0,00 €",
+            "Wisdom Font Pack": "0,00 €",
+            "Just Font Pack": "0,00 €",
+            "Future Font Pack": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1763742909378,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -24744,10 +24761,22 @@
       "price": 0.29,
       "formattedPrice": "0,29 €",
       "+100 boosters ECO-Initiative!": "1,00 €",
-      "+2026 boosters ECO-Initiative!": "5,99 €",
-      "+444! Triple-Four Booster Pack": "2,99 €"
+      "+2026 boosters ECO-Initiative!": "4,99 €",
+      "+444! Triple-Four Booster Pack": "2,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763750043902,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "1,00 €",
+            "+2026 boosters ECO-Initiative!": "4,99 €",
+            "+444! Triple-Four Booster Pack": "2,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -39930,7 +39959,7 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €",
-      "Raider Mk. 3": "17,99 €",
+      "Raider Mk. 3": "22,99 €",
       "Raider Mk. 2": "12,99 €",
       "Raider Mk. 1": "0,99 €"
     },
@@ -39943,6 +39972,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1763750043902,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 3": "22,99 €",
+            "Raider Mk. 2": "12,99 €",
+            "Raider Mk. 1": "0,99 €"
+          }
+        },
         {
           "timestamp": 1763742909378,
           "price": 0,
