@@ -17,7 +17,7 @@ So far, we've covered `7` `Countries or Regions` and  `1551` `Apps` <br />Push n
 |1544|1500126852|Automatic|Chord|Chord|Chord|Chord|Chord|Chord|Chord|
 |1543|6755290585|Automatic|Raiders Map|Raiders Map|Raiders Map|Raiders Map|Raiders Map|Raiders Map|Raiders Map|
 |1542|6751309563|Automatic|火山的女儿：再度重逢|❌|❌|❌|❌|❌|❌|
-|1541|6753206911|Automatic|❌|石器新世紀:寵物起源|石器新世紀:寵物起源|石器新世紀:寵物起源|❌|❌|❌|
+|1541| ~~6753206911~~ |Automatic| ~~❌~~ | ~~石器新世紀:寵物起源~~ | ~~石器新世紀:寵物起源~~ | ~~石器新世紀:寵物起源~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1540|1509161616|Automatic|风帆纪元|風帆紀元|風帆紀元|風帆紀元|❌|❌|❌|
 |1539|1632982179|Automatic|❌|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|
 |1538|779157948|Automatic|❌|Threes!|Threes!|Threes!|Threes!|Threes!|Threes!|

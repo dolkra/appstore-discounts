@@ -17,7 +17,7 @@
 |1544|1500126852|自动|Chord|Chord|Chord|Chord|Chord|Chord|Chord|
 |1543|6755290585|自动|Raiders Map|Raiders Map|Raiders Map|Raiders Map|Raiders Map|Raiders Map|Raiders Map|
 |1542|6751309563|自动|火山的女儿：再度重逢|❌|❌|❌|❌|❌|❌|
-|1541|6753206911|自动|❌|石器新世紀:寵物起源|石器新世紀:寵物起源|石器新世紀:寵物起源|❌|❌|❌|
+|1541| ~~6753206911~~ |自动| ~~❌~~ | ~~石器新世紀:寵物起源~~ | ~~石器新世紀:寵物起源~~ | ~~石器新世紀:寵物起源~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1540|1509161616|自动|风帆纪元|風帆紀元|風帆紀元|風帆紀元|❌|❌|❌|
 |1539|1632982179|自动|❌|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|
 |1538|779157948|自动|❌|Threes!|Threes!|Threes!|Threes!|Threes!|Threes!|
