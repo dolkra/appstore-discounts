@@ -1924,6 +1924,23 @@
     "history": [
       [
         {
+          "timestamp": 1763893541139,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1763886726098,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -11904,6 +11921,14 @@
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763893541139,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762153992882,
