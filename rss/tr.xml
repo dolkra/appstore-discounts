@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2025-11-24T14:04:21.238Z</updated>
+    <updated>2025-11-24T17:50:53.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-24T14:04:21.239Z</updated>
+        <updated>2025-11-24T17:50:53.854Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 24 Nov 2025 14:04:21 GMT</id>
+        <id>rankingtrMon, 24 Nov 2025 17:50:53 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-24T14:04:21.239Z</updated>
+        <updated>2025-11-24T17:50:53.854Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -60,7 +60,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1354</b>
       </td>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1252</b>
       </td>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
     </tr>
   </tbody>
@@ -153,7 +153,9 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id598581396">Kingdom Rush Frontiers TD</a>
+        <del>
+          <a href="https://apps.apple.com/tr/app/id598581396">Kingdom Rush Frontiers TD</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -1806,6 +1808,23 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>95</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6447090616">Whisper Notes - Speech To Text</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2217,7 +2236,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/tr/app/id598581396">Kingdom Rush Frontiers TD</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2226,7 +2245,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/tr/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2235,7 +2254,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/tr/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2244,7 +2263,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/tr/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2253,7 +2272,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/tr/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2262,7 +2281,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1453318714">Vostok — Story Maker</a>
+        <a href="https://apps.apple.com/tr/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2271,7 +2290,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/tr/app/id1453318714">Vostok — Story Maker</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2280,7 +2299,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/tr/app/id818394449">Timeline - World history</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2289,7 +2308,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id488674899">RAIN RADAR ° live weather maps</a>
+        <a href="https://apps.apple.com/tr/app/id1485101937">Juice Watch</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2298,7 +2317,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/tr/app/id488674899">RAIN RADAR ° live weather maps</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2307,7 +2326,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>55</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id373454750">随手记Pro–记账财务管理软件</a>
+        <a href="https://apps.apple.com/tr/app/id1361473095">MuseDash</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2316,7 +2335,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>56</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id866450515">Forest: Focus for Productivity</a>
+        <a href="https://apps.apple.com/tr/app/id373454750">随手记Pro–记账财务管理软件</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2325,7 +2344,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>57</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id388624839">CamScanner + | PDF Scanner</a>
+        <a href="https://apps.apple.com/tr/app/id866450515">Forest: Focus for Productivity</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2334,12 +2353,91 @@ feedId:157008924688563200+userId:73658201673997312
         <b>58</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id388624839">CamScanner + | PDF Scanner</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>59</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id1659622164">VidHub -Video Library & Player</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whisper Notes - Speech To Text]]></title>
+        <id>Whisper Notes - Speech To Text-tr-1764001852689</id>
+        <link href="https://apps.apple.com/tr/app/whisper-notes-speech-to-text/id6447090616?uo=4"/>
+        <updated>2025-11-24T16:30:52.689Z</updated>
+        <summary type="html"><![CDATA[Price: ₺249,99 → ₺149,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/whisper-notes-speech-to-text/id6447090616?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/3f/23/223f23e8-b805-2092-1217-0a906073b9af/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺249,99</span> → <b>
+  <strong>₺149,99</strong>
+</b><span>[Free ~ ₺249,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺149,99</b>
+</p><h2>Application Description</h2><p>
+  Whisper Notes - Offline Speech to Text
+
+Record voice or import audio/video files, get accurate transcripts—100% offline, on-device.
+No recording limits, no subscriptions, no cloud uploads. Just $4.99, once.
+
+■ Core Features
+- 100% offline transcription—your audio never leaves your device
+- Record voice memos, meetings, lectures—unlimited length
+- Import audio/video files (MP3, M4A, WAV, MP4, MOV)—transcribe offline
+- Extract subtitles from videos in your Camera Roll—no upload needed
+- 100+ languages supported, auto-detected
+- Export with timestamps (SRT, VTT, TXT)
+- Batch process multiple files
+
+■ Privacy & Speed
+Your recordings stay on your iPhone/Mac, always. No internet needed, no cloud uploads, ever.
+
+Transcription speed: On iPhone 15, 5 minutes of audio takes about 1 minute. Older devices are slower but work fine.
+
+■ Pricing
+$4.99 one-time. Most similar apps charge $100+/year in subscriptions.
+No recurring fees, no in-app purchases, no ads. Pay once, use forever.
+Not satisfied? Tap Settings → Request Refund.
+
+■ Common Questions
+
+Does it work completely offline?
+Yes. Your audio never leaves your device. Works on flights, in remote areas, anywhere.
+
+Is there a recording time limit?
+No limit. Record for hours if you want. Longer recordings just take more time to transcribe on your device.
+
+Does it support real-time transcription while recording?
+Not during recording, but yes during transcription—after you finish recording, you'll see the transcript appear in real-time as it's being generated.
+
+Where is my data stored?
+Only on your device. We have zero access. Note: If you delete the app, your recordings are deleted too (because we don't keep secret backups). Please export important files regularly.
+
+Why no AI summaries?
+Privacy. We never upload your recordings to any AI service. Want summaries? Copy the transcript and use your preferred AI tool. We don't lock your data into a proprietary AI system.
+
+Why does transcription stop when I switch apps?
+iOS limits background GPU usage for third-party apps. Just return to the app and tap "Re-transcribe"—it will restart.
+
+Can I import existing audio/video files?
+Yes. Import MP3, M4A, WAV, MP4, MOV files and transcribe them offline. Great for extracting subtitles from videos without uploading to cloud services.
+
+What languages are supported?
+100+ languages including: English, Deutsch, Español, Русский, 한국어, Français, 日本語, Português, Türkçe, Polski, Català, Nederlands, Arabic, Svenska, Italiano, Bahasa Indonesia, Hindi, Suomi, Tiếng Việt, Hebrew, Українська, Greek, Bahasa Melayu, Čeština, Română, Dansk, Magyar, Tamil, Norsk, Thai, Urdu, Hrvatski, Bulgarian, Lietuvių, Latina, Māori, Malayalam, Cymraeg, Slovenčina, Telugu, Persian, Latviešu, Bengali, Српски, Azərbaycan, Slovenščina, Kannada, Eesti, Macedonian, Brezhoneg, Euskara, Íslenska, Armenian, Nepali, Mongolian, Bosanski, Kazakh, Shqip, Kiswahili, Galego, Marathi, Punjabi, Sinhala, Khmer, chiShona, Yorùbá, Soomaali, Afrikaans, Occitan, Georgian, Belarusian, Tajik, Sindhi, Gujarati, Amharic, Yiddish, Lao, Uzbek, Føroyskt, Kreyòl Ayisyen, Pashto, Turkmen, Nynorsk, Malti, Sanskrit, Luxembourgish, Myanmar, Tibetan, Tagalog, Malagasy, Assamese, Tatar, Hawaiian, Lingala, Hausa, Bashkir, Javanese, Sundanese, 简体中文, 繁體中文
+
+■ Contact
+Questions? Email support@whispernotes.app
+Learn more: whispernotes.app
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Things 3]]></title>
@@ -3335,39 +3433,6 @@ More advanced hacking methods will be unlocked later!
 </p><h3>In-App Purchases</h3><ul>
   <li>
     Raider Mk. 3：<b>₺699,99</b>
-  </li><li>
-    Raider Mk. 2：<b>₺599,99</b>
-  </li><li>
-    Raider Mk. 1：<b>₺49,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Arc drop list, guides and quest-line guides.
-
-NOT affiliated with Embark. Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.
-
-
-Not affiliated with embark. Raiders Map is independently owned and managed. 
-
-apple standard EULhttp://www.apple.com/legal/itunes/appstore/dev/stdeulaA
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raiders Map]]></title>
-        <id>Raiders Map-tr-1763742909378</id>
-        <link href="https://apps.apple.com/tr/app/raiders-map/id6755290585?uo=4"/>
-        <updated>2025-11-21T16:35:09.378Z</updated>
-        <summary type="html"><![CDATA[Price: ₺149,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/raiders-map/id6755290585?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f0/d6/2bf0d62a-c75b-0e71-6ad7-107f4e1c4759/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺149,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺149,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Raider Mk. 3：<b>₺799,99</b>
   </li><li>
     Raider Mk. 2：<b>₺599,99</b>
   </li><li>

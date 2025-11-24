@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2025-11-24T14:04:21.250Z</updated>
+    <updated>2025-11-24T17:50:53.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-24T14:04:21.250Z</updated>
+        <updated>2025-11-24T17:50:53.865Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptMon, 24 Nov 2025 14:04:21 GMT</id>
+        <id>rankingptMon, 24 Nov 2025 17:50:53 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-24T14:04:21.250Z</updated>
+        <updated>2025-11-24T17:50:53.865Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -60,7 +60,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1354</b>
       </td>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1145</b>
       </td>
       <td>
-        <b>1</b>
+        <b>2</b>
       </td>
     </tr>
   </tbody>
@@ -120,7 +120,9 @@ feedId:206907475259680768+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id598581396">Kingdom Rush Frontiers TD</a>
+        <del>
+          <a href="https://apps.apple.com/pt/app/id598581396">Kingdom Rush Frontiers TD</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -1781,6 +1783,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>94</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6447090616">Whisper Notes - Voz para Texto</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -1800,8 +1819,87 @@ feedId:206907475259680768+userId:73658201673997312
       </td>
       <td>Automatically Added</td>
     </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id598581396">Kingdom Rush Frontiers TD</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whisper Notes - Voz para Texto]]></title>
+        <id>Whisper Notes - Voz para Texto-pt-1764001852689</id>
+        <link href="https://apps.apple.com/pt/app/whisper-notes-voz-para-texto/id6447090616?uo=4"/>
+        <updated>2025-11-24T16:30:52.689Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 2,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/whisper-notes-voz-para-texto/id6447090616?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/3f/23/223f23e8-b805-2092-1217-0a906073b9af/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>2,99 €</strong>
+</b><span>[2,99 € ~ 5,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>2,99 €</b>
+</p><h2>Application Description</h2><p>
+  Whisper Notes - Transcrição Offline
+
+Grave voz ou importe ficheiros áudio/vídeo para obter transcrições precisas—100% offline, no seu dispositivo.
+Sem limites de gravação, sem subscrições, sem carregamentos na nuvem. Apenas $4.99, uma vez.
+
+■ Funcionalidades principais
+- Transcrição 100% offline—o seu áudio nunca sai do seu dispositivo
+- Grave notas de voz, reuniões, palestras—duração ilimitada
+- Importe ficheiros áudio/vídeo (MP3, M4A, WAV, MP4, MOV)—transcreva offline
+- Extraia legendas de vídeos da sua Biblioteca—sem necessidade de carregar
+- Mais de 100 idiomas suportados, deteção automática
+- Exporte com marcações de tempo (SRT, VTT, TXT)
+- Processe múltiplos ficheiros em lote
+
+■ Privacidade e velocidade
+As suas gravações ficam no seu iPhone/Mac, sempre. Sem necessidade de internet, sem carregamentos na nuvem, nunca.
+
+Velocidade de transcrição: No iPhone 15, 5 minutos de áudio demoram cerca de 1 minuto. Dispositivos mais antigos são mais lentos, mas funcionam bem.
+
+■ Preço
+$4.99 pagamento único. Aplicações similares cobram mais de $100/ano em subscrições.
+Sem taxas recorrentes, sem compras na aplicação, sem anúncios. Pague uma vez, use para sempre.
+Não está satisfeito? Toque em Definições → Solicitar reembolso.
+
+■ Perguntas frequentes
+
+Funciona completamente offline?
+Sim. O seu áudio nunca sai do seu dispositivo. Funciona em aviões, áreas remotas, em qualquer lugar.
+
+Há limite de tempo para gravações?
+Sem limite. Grave durante horas se quiser. Gravações mais longas apenas demoram mais tempo a transcrever no seu dispositivo.
+
+Suporta transcrição em tempo real durante a gravação?
+Não durante a gravação, mas sim durante a transcrição—depois de terminar de gravar, verá a transcrição aparecer em tempo real conforme é gerada.
+
+Onde os meus dados são armazenados?
+Apenas no seu dispositivo. Não temos acesso. Nota: Se eliminar a aplicação, as suas gravações também são eliminadas (porque não guardamos cópias de segurança secretas). Exporte ficheiros importantes regularmente.
+
+Porquê sem resumos de IA?
+Privacidade. Nunca carregamos as suas gravações para nenhum serviço de IA. Quer resumos? Copie a transcrição e use a sua ferramenta de IA preferida. Não prendemos os seus dados num sistema de IA proprietário.
+
+Porque é que a transcrição para quando mudo de aplicação?
+O iOS limita o uso de GPU em segundo plano para aplicações de terceiros. Simplesmente volte à aplicação e toque em "Retranscrever"—ela reiniciará.
+
+Posso importar ficheiros áudio/vídeo existentes?
+Sim. Importe ficheiros MP3, M4A, WAV, MP4, MOV e transcreva-os offline. Ótimo para extrair legendas de vídeos sem carregar para serviços na nuvem.
+
+Que idiomas são suportados?
+Mais de 100 idiomas incluindo: English, Deutsch, Español, Русский, 한국어, Français, 日本語, Português, Türkçe, Polski, Català, Nederlands, Arabic, Svenska, Italiano, Bahasa Indonesia, Hindi, Suomi, Tiếng Việt, Hebrew, Українська, Greek, Bahasa Melayu, Čeština, Română, Dansk, Magyar, Tamil, Norsk, Thai, Urdu, Hrvatski, Bulgarian, Lietuvių, Latina, Māori, Malayalam, Cymraeg, Slovenčina, Telugu, Persian, Latviešu, Bengali, Српски, Azərbaycan, Slovenščina, Kannada, Eesti, Macedonian, Brezhoneg, Euskara, Íslenska, Armenian, Nepali, Mongolian, Bosanski, Kazakh, Shqip, Kiswahili, Galego, Marathi, Punjabi, Sinhala, Khmer, chiShona, Yorùbá, Soomaali, Afrikaans, Occitan, Georgian, Belarusian, Tajik, Sindhi, Gujarati, Amharic, Yiddish, Lao, Uzbek, Føroyskt, Kreyòl Ayisyen, Pashto, Turkmen, Nynorsk, Malti, Sanskrit, Luxembourgish, Myanmar, Tibetan, Tagalog, Malagasy, Assamese, Tatar, Hawaiian, Lingala, Hausa, Bashkir, Javanese, Sundanese, 简体中文, 繁體中文
+
+■ Contacto
+Questões? Envie um email para support@whispernotes.app
+Saiba mais: whispernotes.app
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Things 3]]></title>
@@ -2873,38 +2971,5 @@ As informações do jogo são baseadas em dados abertos, na Lista Vermelha da IU
 Temos grandes planos para futuras atualizações!
 Compartilhe suas ideias e feedback nos comentários — junto com o GameFirst, faremos o jogo ainda melhor!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/25/60/a02560c5-457f-d862-8a33-719098d4dcff/f6e4bb89-66e8-4b66-aeda-35d2d6f8d41f_STE_Screen_6_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/f8/d8/29f8d892-e3d3-1af1-e6b6-a3a0539c5f36/d71bff43-8772-4d5b-96d1-39c90b4973d4_STE_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/34/23/ae342359-85a9-3c5d-c222-9ac038e2d4a2/7dea692d-cefe-4f01-90bd-cfbe603b76b3_STE_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/2b/41/422b41e1-9c01-6f35-e16a-0570ae2e54c2/ca558f6a-0d6b-4ca7-9cf3-ac57af914631_STE_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/db/b9/9b/dbb99b88-3f0b-2925-7f4b-231cc6c5f680/2bdb0f1e-4806-4e1c-b34a-78b7642e5117_STE_6.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/78/8c/19788c89-9873-45c3-7476-53f5db11b9ff/f4d4cfa5-cd50-4f0a-946a-24f0ca8c3398_STE_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/26/3a/02/263a0290-7bf0-fbf0-f735-75cdcba444bc/c22fc137-4db7-4c82-97d3-e3720464bd8c_STE_1.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/95/b8/9095b859-d904-e0c3-cd9f-ac0200d87c35/daf1a717-930a-4691-8e9e-632bf9d41004_STE_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/95/4f/3e/954f3e94-cb66-a2bd-6ac9-2cc495ed376f/71d53df6-9f84-44ea-ba0e-d51f52b37614_STE_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6b/65/5f/6b655f51-c90a-28bd-870f-f4f47ad561ed/c8d24bc2-ed48-4ff7-af1f-5eac2143b969_STE_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f1/1f/64/f11f6456-0e76-326a-1554-1319b9d59de2/fa6afe16-481d-457e-a10d-d0938cd75bbb_STE_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/88/ae/e188ae79-41d2-113c-fb4e-3ecd7314cb69/03c17d9e-5b2f-4f34-b931-299121514392_STE_5.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/62/42/f862426a-a388-8f4e-c64d-3ae36c735ae1/a1d722f6-22c8-4961-a1bd-29917fdfb568_STE_6.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/0f/26/470f2607-84e5-0624-63a0-e2826c833438/f02a6ac3-3d8c-4341-a334-ed7c24d5d970_STE_Screen_6_2732x2048.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raiders Map]]></title>
-        <id>Raiders Map-pt-1763742909378</id>
-        <link href="https://apps.apple.com/pt/app/raiders-map/id6755290585?uo=4"/>
-        <updated>2025-11-21T16:35:09.378Z</updated>
-        <summary type="html"><![CDATA[Price: 2,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/raiders-map/id6755290585?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f0/d6/2bf0d62a-c75b-0e71-6ad7-107f4e1c4759/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>2,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 2,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Raider Mk. 3：<b>17,99 €</b>
-  </li><li>
-    Raider Mk. 2：<b>12,99 €</b>
-  </li><li>
-    Raider Mk. 1：<b>0,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Arc drop list, guides and quest-line guides.
-
-NOT affiliated with Embark. Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.
-
-
-Not affiliated with embark. Raiders Map is independently owned and managed. 
-
-apple standard EULhttp://www.apple.com/legal/itunes/appstore/dev/stdeulaA
-</p>]]></content>
     </entry>
 </feed>

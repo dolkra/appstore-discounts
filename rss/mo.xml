@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2025-11-24T11:39:27.490Z</updated>
+    <updated>2025-11-24T17:50:53.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-24T11:39:27.490Z</updated>
+        <updated>2025-11-24T17:50:53.815Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoMon, 24 Nov 2025 11:39:27 GMT</id>
+        <id>rankingmoMon, 24 Nov 2025 17:50:53 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-24T11:39:27.490Z</updated>
+        <updated>2025-11-24T17:50:53.815Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -60,7 +60,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>1354</b>
       </td>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>1261</b>
       </td>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
     </tr>
   </tbody>
@@ -305,7 +305,9 @@ feedId:157008389768002560+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id598581396">Kingdom Rush Frontiers 塔防生存戰爭</a>
+        <del>
+          <a href="https://apps.apple.com/mo/app/id598581396">Kingdom Rush Frontiers 塔防生存戰爭</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -1710,6 +1712,40 @@ feedId:157008389768002560+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>93</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id6738282698">RCS - Real Combat Simulator</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>94</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id6447090616">Whisper Notes - 離線AI語音輸入轉錄文字辨識</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2121,7 +2157,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/mo/app/id598581396">Kingdom Rush Frontiers 塔防生存戰爭</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2130,7 +2166,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/mo/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2139,7 +2175,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/mo/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2148,7 +2184,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://apps.apple.com/mo/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2157,7 +2193,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id456637671">安全監控照片+視頻Pro</a>
+        <a href="https://apps.apple.com/mo/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2166,7 +2202,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1453318714">Vostok — 创建美丽快拍页面</a>
+        <a href="https://apps.apple.com/mo/app/id456637671">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2175,7 +2211,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/mo/app/id1453318714">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2184,7 +2220,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/mo/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2193,7 +2229,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id488674899">雨雷達 ° -實時天氣圖</a>
+        <a href="https://apps.apple.com/mo/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2202,7 +2238,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/mo/app/id488674899">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2211,7 +2247,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>55</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
+        <a href="https://apps.apple.com/mo/app/id1361473095">MuseDash</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2220,7 +2256,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>56</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
+        <a href="https://apps.apple.com/mo/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2229,7 +2265,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>57</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id388624839">CamScanner+</a>
+        <a href="https://apps.apple.com/mo/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -2238,12 +2274,151 @@ feedId:157008389768002560+userId:73658201673997312
         <b>58</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/mo/app/id388624839">CamScanner+</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>59</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/mo/app/id1659622164">VidHub -Video Library & Player</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RCS - Real Combat Simulator]]></title>
+        <id>RCS - Real Combat Simulator-mo-1764001852689</id>
+        <link href="https://apps.apple.com/mo/app/rcs-real-combat-simulator/id6738282698?uo=4"/>
+        <updated>2025-11-24T16:30:52.689Z</updated>
+        <summary type="html"><![CDATA[价格: USD 0.99 → 免費]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/rcs-real-combat-simulator/id6738282698?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/39/63/6e396346-aff9-5700-4828-44d2818a138c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 0.99</span> → <b>
+  <strong>免費</strong>
+</b><span>[免費 ~ USD 0.99]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h2>应用描述</h2><p>
+  《RCS:真实战斗模拟器》——制霸苍穹！
+移动平台上的极致军事空战体验
+
+驾驭最先进的军事飞行模拟器：执掌传奇战机、参与史诗空战、精通对空对地作战，证明你的王牌飞行员实力。
+
+全球战场，尽情驰骋！
+
+-精通起降与完整作战任务
+-驾驶配备真实航电系统与精密座舱的尖端战机
+-畅享全球数千座机场与军事基地
+-通过互动教程磨练战斗技能
+
+拟真战斗机阵容：
+体验忠实复刻的各式战机，感受动态驾驶舱、真实的飞行物理和全功能武器系统。
+-A-10C雷电II：重装甲近空支援之王，搭载GAU-8复仇者机炮与精确打击系统。
+-F/A-18 超級大黃蜂：全能型舰载战斗机，配备先进航电与多样化武器系统，完美胜任空战与精确打击双重任务。
+-M-346FA大师：现代化敏捷战斗教练机，装备数字显示屏与先进传感器。
+-F-16C战隼：标志性的全能战斗机，以速度、机动性与全能性著称。配备先进雷达、线传控制以及海量空对空与空对地精确制导武器。
+更多战机即将加入！
+
+沉浸式战斗功能：
+-全球作战区域，真实气象与昼夜更替
+-先进的空地目标雷达与瞄准系统
+-完整的导弹、炸弹、机炮与反制设备
+-高机动性能与根据卫星数据制作的地形
+
+任务编辑与多人模式：
+-创建你的专属任务，自由设定目标、天气和敌方AI强度
+-建立私人房间，设计独特战役，在实时多人模式中与战友并肩作战
+-自由选择战场：从全球真实地点和军事基地中选择你的作战区域
+-分享你的杰作，使用强大的回放工具重温每一个高光时刻
+
+定制你的体验：
+-使用真实的涂装与迷彩打造专属战机
+-运用专业摄像系统捕捉震撼空战画面
+-在RCS社区分享你的精彩战斗集锦
+
+完整模拟与多人功能需要稳定的网络连接。部分高级功能可能需要订阅解锁。
+
+立即下载这款终极军事飞行模拟器！驾驶现代战机，投身激烈空战，在《RCS: 真实战斗模拟器》中征服长空！
+
+使用条款： https://www.rortos.com/terms-of-use/
+技术支持：rcs@rortos.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/f2/57/6af257f2-63a0-e3c9-da91-1ea15ad0f6a3/01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/e7/91/f2e791ed-50f2-6907-28e9-58b2ef06b644/06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/bb/34/a5bb34ee-5f1b-3618-6e5d-2c146a66134b/03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/ba/f4/63baf4fe-6067-9847-3400-b642e7d0fad7/04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/9d/c6/b99dc62f-23e2-852d-316a-3614e1a2f638/05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/70/db/4270db55-b812-7b1c-2739-e219952b16f4/02.png/406x228bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whisper Notes - 離線AI語音輸入轉錄文字辨識]]></title>
+        <id>Whisper Notes - 離線AI語音輸入轉錄文字辨識-mo-1764001852689</id>
+        <link href="https://apps.apple.com/mo/app/whisper-notes-%E9%9B%A2%E7%B7%9Aai%E8%AA%9E%E9%9F%B3%E8%BC%B8%E5%85%A5%E8%BD%89%E9%8C%84%E6%96%87%E5%AD%97%E8%BE%A8%E8%AD%98/id6447090616?uo=4"/>
+        <updated>2025-11-24T16:30:52.689Z</updated>
+        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/whisper-notes-%E9%9B%A2%E7%B7%9Aai%E8%AA%9E%E9%9F%B3%E8%BC%B8%E5%85%A5%E8%BD%89%E9%8C%84%E6%96%87%E5%AD%97%E8%BE%A8%E8%AD%98/id6447090616?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/22/3f/23/223f23e8-b805-2092-1217-0a906073b9af/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>USD 4.99</span> → <b>
+  <strong>USD 2.99</strong>
+</b><span>[免費 ~ USD 4.99]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>USD 2.99</b>
+</p><h2>应用描述</h2><p>
+  Whisper Notes - 離線語音轉文字
+
+錄製語音或匯入音訊/影片檔案，取得精確的轉錄結果—100%離線，裝置本地處理。
+無錄製時長限制，無訂閱，無雲端上傳。僅需$4.99，一次性付費。
+
+■ 核心功能
+- 100%離線轉錄—您的音訊永遠不會離開裝置
+- 錄製語音備忘錄、會議、講座—無時長限制
+- 匯入音訊/影片檔案（MP3、M4A、WAV、MP4、MOV）—離線轉錄
+- 從相簿影片中擷取字幕—無需上傳
+- 支援100多種語言，自動偵測
+- 含時間戳記匯出（SRT、VTT、TXT）
+- 批次處理多個檔案
+
+■ 隱私與速度
+您的錄音始終儲存在iPhone/Mac上。無需網路，永不上傳雲端。
+
+轉錄速度：在iPhone 15上，5分鐘音訊大約需要1分鐘處理。較舊裝置較慢但運作正常。
+
+■ 價格
+$4.99一次性付費。同類應用程式每年訂閱費超過$100。
+無重複收費，無App內購買，無廣告。一次購買，終身使用。
+不滿意？點擊設定→申請退款。
+
+■ 常見問題
+
+完全離線運作嗎？
+是的。您的音訊永遠不會離開裝置。在飛機上、偏遠地區，任何地方都能使用。
+
+錄音有時長限制嗎？
+沒有限制。您可以錄製數小時。較長的錄音只是需要更多時間在裝置上轉錄。
+
+支援錄音時即時轉錄嗎？
+錄音時不支援，但轉錄時支援即時顯示—錄音結束後，您會看到轉錄文字即時生成。
+
+資料儲存在哪裡？
+僅在您的裝置上。我們無法存取。注意：如果刪除App，您的錄音也會被刪除（因為我們不保留秘密備份）。請定期匯出重要檔案。
+
+為什麼沒有AI摘要功能？
+為了保護隱私。我們永遠不會將您的錄音上傳到任何AI服務。需要摘要？複製轉錄文字，使用您喜歡的AI工具。我們不會將您的資料鎖定在專有AI系統中。
+
+為什麼切換App時轉錄會停止？
+iOS限制第三方App的背景GPU使用。返回App並點擊「重新轉錄」即可重新開始。
+
+可以匯入現有的音訊/影片檔案嗎？
+可以。匯入MP3、M4A、WAV、MP4、MOV檔案並離線轉錄。非常適合在不上傳雲端的情況下從影片中擷取字幕。
+
+支援哪些語言？
+支援100多種語言，包括：English, Deutsch, Español, Русский, 한국어, Français, 日本語, Português, Türkçe, Polski, Català, Nederlands, Arabic, Svenska, Italiano, Bahasa Indonesia, Hindi, Suomi, Tiếng Việt, Hebrew, Українська, Greek, Bahasa Melayu, Čeština, Română, Dansk, Magyar, Tamil, Norsk, Thai, Urdu, Hrvatski, Bulgarian, Lietuvių, Latina, Māori, Malayalam, Cymraeg, Slovenčina, Telugu, Persian, Latviešu, Bengali, Српски, Azərbaycan, Slovenščina, Kannada, Eesti, Macedonian, Brezhoneg, Euskara, Íslenska, Armenian, Nepali, Mongolian, Bosanski, Kazakh, Shqip, Kiswahili, Galego, Marathi, Punjabi, Sinhala, Khmer, chiShona, Yorùbá, Soomaali, Afrikaans, Occitan, Georgian, Belarusian, Tajik, Sindhi, Gujarati, Amharic, Yiddish, Lao, Uzbek, Føroyskt, Kreyòl Ayisyen, Pashto, Turkmen, Nynorsk, Malti, Sanskrit, Luxembourgish, Myanmar, Tibetan, Tagalog, Malagasy, Assamese, Tatar, Hawaiian, Lingala, Hausa, Bashkir, Javanese, Sundanese, 简体中文, 繁體中文
+
+■ 聯絡方式
+有問題？傳送電子郵件至 support@whispernotes.app
+了解更多：whispernotes.app
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BimmerLink for BMW and MINI]]></title>
@@ -2978,160 +3153,6 @@ Tetris 和 Dr. Mario 的混搭遊戲。移動下落的方塊來連接 4 個或�
 每个模块均配备高清实拍操作图、2D手绘剖面图和超声影像图，确保用户能够清晰直观地掌握解剖结构。
 针对标切图清晰的标记解剖结构，并可以点击对应序号展示结构信息。超声图与2D手绘剖面图的精准对应，以及解剖结构序号和名称的标注，使得学习和规范化工作流程变得更加高效和直观。
 超声智学APP不仅是医疗专业人员学习和实践超声技术的理想工具，更是超声领域的智慧之光，照亮每一次精确诊断的旅程。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raiders Map]]></title>
-        <id>Raiders Map-mo-1763742909378</id>
-        <link href="https://apps.apple.com/mo/app/raiders-map/id6755290585?uo=4"/>
-        <updated>2025-11-21T16:35:09.378Z</updated>
-        <summary type="html"><![CDATA[价格: USD 2.99 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/raiders-map/id6755290585?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/f0/d6/2bf0d62a-c75b-0e71-6ad7-107f4e1c4759/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 2.99</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ USD 2.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Arc drop list, guides and quest-line guides.
-
-NOT affiliated with Embark. Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.
-
-
-Not affiliated with embark. Raiders Map is independently owned and managed. 
-
-apple standard EULhttp://www.apple.com/legal/itunes/appstore/dev/stdeulaA
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[無處遁形：全網公敵]]></title>
-        <id>無處遁形：全網公敵-mo-1763742909378</id>
-        <link href="https://apps.apple.com/mo/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4"/>
-        <updated>2025-11-21T16:35:09.378Z</updated>
-        <summary type="html"><![CDATA[价格: USD 4.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E7%84%A1%E8%99%95%E9%81%81%E5%BD%A2-%E5%85%A8%E7%B6%B2%E5%85%AC%E6%95%B5/id1644917705?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/76/96/74/769674e2-cb26-207b-0543-4fed45593717/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 4.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 2.99 ~ USD 4.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h2>应用描述</h2><p>
-  《無處遁形：全網公敵》是Steam平臺廣受好評的劇情向駭客解密遊戲《全網公敵》手遊版本。玩家通過網絡蒐索和社工手段獲取目標人物資訊，其隱藏最深的秘密都無處遁形。遊戲中的每個故事看似各自獨立，但隨著劇情的發展卻是草蛇灰線，伏脈千里。當所有事件串聯起來，竟隱藏著驚天的秘密……
-
-希望玩家在遊玩的同時，對網絡本身也能產生反思，學會保護好個人隱私。
-
-【遊戲內容】
-◆第一章：程式師之死
-某公司CEO跳樓自殺，自稱被毒妻勒索千萬； 而妻子卻在社交網絡上發佈被家暴的照片。 謠言滿天，誰在說謊？
-◆第二章：看不見的眼睛
-女大學生的不雅視頻在網絡瘋傳，這一刻，她已然社會性死亡。 到底誰才是始作俑者？ 女性的安全又該由誰去保護？
-◆第三章：消失的證據
-品學兼優的學生會長忽然失踪。 霸淩事件使案情越發撲朔迷離。 誰是兇手，誰是受害者？
-◆第四章：羞辱的代價
-天降巨瓜，女歌星再次被爆黑料！ 恐嚇信、炒作、前女團成員自殺事件……網絡再掀輿論狂歡！
-◆第五章：永生代碼
-當社會陷入癲狂，你是否也願意加入永生代碼，獲得真正的愛與永生？
-◆DLC：甜蜜之家
-一個看似甜蜜而美滿的家庭背後，每個人都有各自的秘密，隱藏在背後的真相到底是什麼？！
-◆DLC：HelloWorld
-一場離奇的車禍，讓泰坦公司的高級研究員Lucrezia Borgia博士當場死亡，同行的Benjamin Engle死裡逃生，但他卻沒有意識到自己即將捲入一場巨大的陰謀之中……
-
-【遊戲特點】
-◆代入感强：在虛構的世界裏，玩家扮演一名駭客，接受一家公司委託，完成一個個不同的社工事件，體驗真實的駭客操作。
-◆玩法多樣：遊戲內有多個系統，除了社工系統，還會有推理、追跡、解謎，破壞侵入等系統需要玩家們去一一攻破。
-◆劇情複雜：遊戲中你將面臨大量的選擇和謎題，而不同的選擇可能將導致不同的結局。
-◆人物眾多：登場人物眾多，每個人物都有自己的性格特點，而他們背後都有著不為人知的故事，需要作為駭客的你去一一發現事件的真相。
-◆全程配音：遊戲中所有出現的角色都有真人配音，讓整個遊戲的體驗和代入感更加强烈。
-◆原創音樂：多首原創主題曲以及各種音樂音效，搭配精彩劇情，享受震撼體驗。
-
-【覈心功能】
-◆網絡蒐索：玩家通過瀏覽器搜索功能收集目標對象的基礎資訊。
-◆資料庫：利用已知資訊輸入到資料庫中，通過篩選後或許目標對象的其他資訊。
-◆破解：通過獲得的目標人物資訊來生成密碼，用於登入各平臺的帳戶（包括郵箱、社交平臺、聊天軟體等）。
-◆偽裝：獲取目標對象的需求、社交圈等，根據資訊選擇偽裝，通過和目標對象接觸獲取更多資訊。
-◆聊天溝通：添加目標對象為好友後，進行聊天溝通獲取資訊。
-◆圖片分析：從圖片中獲取有價值的資訊內容及相關線索。
-當然，後期還會解鎖更多的高階社工方法！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/43/b8/dd/43b8ddcd-4ab2-43fe-480a-5d1524256f60/99009b54-dda7-4115-8345-b92a4da1bea5_2208.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/8d/61/a3/8d61a307-7352-b0f6-26e2-28a74547d0cc/9dbdf1b1-dce6-45a9-bd2c-445ae85fdc21_QQ20220928-1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/b0/89/84/b0898459-7fed-a793-c9b4-61dc5f3e2d58/82688c16-2383-47a7-9451-0ee8e7b24bb6_QQ20220928-25.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/83/d2/16/83d2166c-4276-8af2-eb19-9aee12480d78/7ac0e37a-5d69-444f-9cdb-f0c58510c720_QQ20220928-14.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/d0/63/8f/d0638f9d-abbc-6f11-ffb0-a8a03d0c2505/adf9b016-725f-4168-b3c7-819145fe4f75_QQ20220928-24.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/de/15/fe/de15feda-6c08-d817-8d2a-5f56a518c9c8/461783b7-ff95-48ea-be82-1c5dd15973c1_QQ20220928-15.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/20/36/10/2036101c-7b0b-e9ef-b1e6-5fa743f3d1e6/7b4e9ee7-b4af-45d4-89f5-c58a7fba0ba5_QQ20220928-19.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/43/bc/4d/43bc4dc7-3d3b-6472-7f84-8da22793c72f/88b2a278-30ea-429d-8b5c-2f894b5ea0fe_QQ20220928-17.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f4/25/f3/f425f389-d566-b8ea-8ea0-d76e4e0a60ae/e816b1f6-9955-45c3-bfbd-2b462e82a19b_QQ20220928-9.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e2/43/b3/e243b343-2a21-5ee8-9dda-235ad1eb369f/55edaf96-ef07-4732-87fa-c42a2f3362af_QQ20220928-16.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ec/1d/0e/ec1d0ec9-67cb-518c-dd72-3ca0aa41a7ee/b3c98720-b9a0-4078-8b88-034054b24965_2732.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a3/09/fa/a309fad8-d31f-36b1-3943-f4c0b478fb97/bb92bbcf-1c9e-4fcc-bfd7-5dbf4eec86e6_21.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c5/07/c3/c507c3aa-1d3b-0e50-90a7-fe0ec84178d0/7237da17-1bb3-47b8-bb96-9428c7ad4b3c_19.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3a/a9/a5/3aa9a52d-9f70-5de7-372e-d630ffd199b8/5b9c9e9a-58b3-40f4-84f3-180c6b18b0c6_9.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a4/4a/5b/a44a5be3-0b49-be94-1715-4ef12bf7fc3f/81e913bf-96aa-457e-870d-2b9968fa0e0f_f1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/4b/6b/5a/4b6b5a78-6672-b766-0356-c65d1100d177/1a9bcd6b-1459-4746-8daa-7ddc42d15d3e_17.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fd/50/d4/fd50d412-fe7b-c540-f84a-d88f8fdb90cc/b9c6279a-6184-42b8-b879-b1f6ab43cf89_18.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/f7/b2/29/f7b22993-0d76-d06a-a25d-fa7ae0887baa/7fecc4b4-3c9f-43ce-a22b-bfc6da6d9d06_20.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ca/16/e7/ca16e719-5eae-7ba4-ee96-2e8d738fb2b8/c3be5896-f75c-4555-8297-762a278d7663_10.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0b/f2/32/0bf232fd-3f49-e560-df8c-052c14c53897/0e2115a2-55e7-4ac0-922f-cdb3ebee47ab_11.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trackless Links Pro]]></title>
-        <id>Trackless Links Pro-mo-1763729604756</id>
-        <link href="https://apps.apple.com/mo/app/trackless-links-pro/id6754613166?uo=4"/>
-        <updated>2025-11-21T12:53:24.756Z</updated>
-        <summary type="html"><![CDATA[价格: USD 19.99 → USD 2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/trackless-links-pro/id6754613166?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/51/6f/be516f44-5df0-7531-5373-22c3e26ccb56/AppIconPro-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>USD 19.99</span> → <b>
-  <strong>USD 2.99</strong>
-</b><span>[USD 0.99 ~ USD 19.99]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>USD 2.99</b>
-</p><h2>应用描述</h2><p>
-  Take back control of your browsing experience. Trackless Links Pro is the universal Safari extension for iPhone, iPad, and Mac that removes tracking parameters, enables custom redirects, and gives you control over website behaviors.
-
-UNIVERSAL PURCHASE - ONE APP, ALL YOUR DEVICES
-Buy once and enjoy Trackless Links Pro on iPhone, iPad, and Mac. Your settings sync seamlessly via iCloud - start on your Mac and continue on your iPhone or iPad without missing a beat.
-
-WHAT IT DOES
-• Removes tracking parameters (utm_*, fbclid, gclid, etc.) before they follow you around
-• Custom redirects (e.g. reddit → old.reddit) with plain text or regex patterns
-• Share Sheet integration - open links from any app to clean or archive them
-• Quick access to archived web pages via Wayback Machine and other services
-• Optional tweaks: stop autoplay, restore text selection, prevent exit popups, and more
-
-WHY IT'S USEFUL
-Cleaner links are easier to share. Redirects save time. Archive access finds cached versions of changed pages. Everything runs locally - no accounts, no data collection, no external services.
-
-TRACKING BLOCKER
-Removes common tracking parameters on the fly. Nothing leaves your devices.
-
-URL REDIRECTS
-Create and reorder custom rules. Includes 20+ predefined redirects focusing on privacy and alternative frontends (Reddit, Twitter/X, YouTube, Medium, and more). Disable or enable individually. Regex supported.
-
-SEARCH ARCHIVE
-One-tap access to cached web page snapshots via Wayback Machine. Access from the extension popup on any device.
-
-iCLOUD SYNC
-Keep settings synchronized across all devices. Filters, redirects, tweaks, and statistics sync automatically. Set it up once - your preferences follow you everywhere.
-
-BROWSER TWEAKS
-Selective opt-in controls: copy/select unlock, autoplay block, playback speed lock, PiP enable, URL clean-on-copy, redirector bypass, cookie banner suppression (experimental), dark mode, zoom limit removal, animation reduction, and more. Configure once, works everywhere.
-
-KEY FEATURES
-• Universal Purchase - one price for iPhone, iPad, and Mac
-• Complete privacy - everything runs on your devices (zero data collection)
-• Native apps for iOS, iPadOS, and macOS with full feature parity
-• Seamless iCloud sync keeps everything synchronized automatically
-• Share from anywhere - open links from Reddit, X, and other apps
-• Fully customizable with personal filter and redirect rules
-• Advanced pattern matching with regex support for power users
-• Lightning-fast execution that loads before pages finish rendering
-• Ultra-lightweight with no battery drain or background activity
-• Works offline - no internet connection required
-
-DESIGN PRINCIPLES
-Plain language. User control. No dark patterns. Opt-in for anything that might change page behavior. One purchase, all platforms.
-
-IMPORTANT NOTES
-Tweaks may not work on all websites due to varying designs and security policies. All tweaks can be disabled if they cause issues. Cookie banner management is experimental.
-
-SUPPORT & FEEDBACK
-Bug reports and feature requests: https://github.com/aloth/trackless-links/issues
-
-PRIVACY
-No tracking, analytics, remote calls, or data retention. Everything runs on-device.
-
-EULA
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-
-READY FOR CLEANER BROWSING EVERYWHERE?
-Download Trackless Links Pro - fast, private, and on your terms.
 </p>]]></content>
     </entry>
 </feed>
