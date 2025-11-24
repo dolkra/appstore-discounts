@@ -33918,11 +33918,21 @@
       "CarPlay Add-On": "¥68.00"
     },
     "minPriceInfo": {
-      "price": 298,
-      "formattedPrice": "¥298.00",
-      "CarPlay Add-On": "¥68.00"
+      "price": 198,
+      "formattedPrice": "¥198.00",
+      "CarPlay Add-On": "¥58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763980251258,
+          "price": 198,
+          "formattedPrice": "¥198.00",
+          "inAppPurchases": {
+            "CarPlay Add-On": "¥58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760941181671,

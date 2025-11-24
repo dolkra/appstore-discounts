@@ -14164,11 +14164,21 @@
       "CarPlay Add-On": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "39,99 €",
-      "CarPlay Add-On": "9,99 €"
+      "price": 29.99,
+      "formattedPrice": "29,99 €",
+      "CarPlay Add-On": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1763980251258,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "CarPlay Add-On": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
