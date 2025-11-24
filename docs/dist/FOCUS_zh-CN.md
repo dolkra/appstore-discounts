@@ -1203,7 +1203,7 @@
 |362| ~~1484622401~~ |自动| ~~❌~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc. God Simulator~~ | ~~Religion inc. God Simulator~~ | ~~❌~~ |
 |361|1485875855|自动|❌|❌|❌|❌|❌|Başkanlar|❌|
 |360|1491530147|自动|❌|❌|❌|Slay the Spire|Slay the Spire|Slay the Spire|Slay the Spire|
-|359|1497120981|自动|LUCH: Photo Effects & Filters|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH: Photo Effects & Filters|LUCH: Photo Effects & Glitch|LUCH: Photo Effects & Filters|
+|359|1497120981|自动|LUCH: Photo Effects & Filters|LUCH — Retro Photo Filters|LUCH — Retro Photo Filters|LUCH — Retro Photo Filters|LUCH: Photo Effects & Filters|LUCH: Glitch Effect, Y2K, VHS|LUCH: Photo Effects & Filters|
 |358|1499849161|自动|❌|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|
 |357|1500098830|自动|❌|視頻大師 Pro|視頻大師 Pro|視頻大師 Pro|❌|Video Master Pro|Video Master Pro|
 |356|1503486239|自动|❌|大富翁10|大富翁10|大富翁10|Richman10|Richman10|大富翁10|

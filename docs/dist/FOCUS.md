@@ -1203,7 +1203,7 @@ So far, we've covered `7` `Countries or Regions` and  `1555` `Apps` <br />Push n
 |362| ~~1484622401~~ |Automatic| ~~❌~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc.上帝模擬器~~ | ~~Religion inc. God Simulator~~ | ~~Religion inc. God Simulator~~ | ~~❌~~ |
 |361|1485875855|Automatic|❌|❌|❌|❌|❌|Başkanlar|❌|
 |360|1491530147|Automatic|❌|❌|❌|Slay the Spire|Slay the Spire|Slay the Spire|Slay the Spire|
-|359|1497120981|Automatic|LUCH: Photo Effects & Filters|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH — Filters & Bokeh Effect|LUCH: Photo Effects & Filters|LUCH: Photo Effects & Glitch|LUCH: Photo Effects & Filters|
+|359|1497120981|Automatic|LUCH: Photo Effects & Filters|LUCH — Retro Photo Filters|LUCH — Retro Photo Filters|LUCH — Retro Photo Filters|LUCH: Photo Effects & Filters|LUCH: Glitch Effect, Y2K, VHS|LUCH: Photo Effects & Filters|
 |358|1499849161|Automatic|❌|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|Ultimate Custom Night|
 |357|1500098830|Automatic|❌|視頻大師 Pro|視頻大師 Pro|視頻大師 Pro|❌|Video Master Pro|Video Master Pro|
 |356|1503486239|Automatic|❌|大富翁10|大富翁10|大富翁10|Richman10|Richman10|大富翁10|
