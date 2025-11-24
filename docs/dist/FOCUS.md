@@ -1423,7 +1423,7 @@ So far, we've covered `7` `Countries or Regions` and  `1555` `Apps` <br />Push n
 |142|1380582804|Manual|手机帝国|手機帝國|手機帝國|手機帝國|Mobile Empire|Mobile Empire|手机帝国|
 |141|6466390901|Manual|旋转音律 Rotaeno|❌|❌|❌|❌|❌|❌|
 |140|1596406400|Manual|黄鸭证件照-最美求职考试证照制作神器|黄鸭证件照-最美求职考试证照制作神器|黄鸭证件照-最美求职考试证照制作神器|黄鸭证件照-最美求职考试证照制作神器|黄鸭证件照-最美求职考试证照制作神器|黄鸭证件照-最美求职考试证照制作神器|黄鸭证件照-最美求职考试证照制作神器|
-|139|598581396|Manual|Kingdom Rush Frontiers 塔防史诗冒险|Kingdom Rush Frontiers 塔防生存戰爭|Kingdom Rush Frontiers 塔防生存戰爭|Kingdom Rush Frontiers 塔防生存戰爭|Kingdom Rush Frontiers TD|Kingdom Rush Frontiers TD|Kingdom Rush Frontiers TD|
+|139| ~~598581396~~ |Manual| ~~Kingdom Rush Frontiers 塔防史诗冒险~~ | ~~Kingdom Rush Frontiers 塔防生存戰爭~~ | ~~Kingdom Rush Frontiers 塔防生存戰爭~~ | ~~Kingdom Rush Frontiers 塔防生存戰爭~~ | ~~Kingdom Rush Frontiers TD~~ | ~~Kingdom Rush Frontiers TD~~ | ~~Kingdom Rush Frontiers TD~~ |
 |138|1157863540|Manual|泰拉瑞亚|❌|❌|❌|❌|❌|❌|
 |137|1630541373|Manual|隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|
 |136|1512838461|Manual|DayCircle - 倒数|DayCircle - 倒數|DayCircle - 倒數|DayCircle - 倒數|DayCircle - Day counter|DayCircle - Day counter|DayCircle - Day counter|
