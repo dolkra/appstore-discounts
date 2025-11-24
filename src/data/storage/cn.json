@@ -116388,6 +116388,12 @@
     "history": [
       [
         {
+          "timestamp": 1764009546086,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1764001852689,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -132618,16 +132624,31 @@
       "formattedPrice": "¥22.00",
       "Raider Mk. 3": "¥98.00",
       "Raider Mk. 2": "¥88.00",
-      "Raider Mk. 1": "¥8.00"
+      "Raider Mk. 1": "¥8.00",
+      "Raider Weekly": "¥15.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免费",
       "Raider Mk. 3": "¥68.00",
       "Raider Mk. 2": "¥58.00",
-      "Raider Mk. 1": "¥8.00"
+      "Raider Mk. 1": "¥8.00",
+      "Raider Weekly": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764009546086,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Raider Weekly": "¥15.00",
+            "Raider Mk. 3": "¥68.00",
+            "Raider Mk. 2": "¥58.00",
+            "Raider Mk. 1": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763864504733,
