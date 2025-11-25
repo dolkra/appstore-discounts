@@ -3478,6 +3478,23 @@
     "history": [
       [
         {
+          "timestamp": 1764102625154,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "Drumaxx": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Brazil Bass": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1764095974561,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -6230,6 +6247,23 @@
     "history": [
       [
         {
+          "timestamp": 1764102625154,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Sandbox Unlock All Parts": "8,99 €",
+            "Sandbox Unlock Standard Parts": "8,99 €",
+            "Mission 16 Gold": "1,99 €",
+            "Nooleus X Parts Pack": "3,99 €",
+            "Transponder Module": "0,99 €",
+            "Mission 12 Skip": "0,99 €",
+            "Mission Free Unlock-All": "5,99 €",
+            "1000 Quick Launches": "3,99 €",
+            "Mission 15 Gold": "1,99 €",
+            "Mission 15 Skip": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1764095974561,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -6495,6 +6529,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1764102625154,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Inbound": "0,99 €"
+          }
+        },
         {
           "timestamp": 1764095974561,
           "price": 1.99,
@@ -19257,6 +19308,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1764102625154,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "CAPSO": "9,99 €",
+            "9 Characters": "39,99 €",
+            "Aroma": "9,99 €",
+            "ConneR": "9,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "9,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "9,99 €"
+          }
+        },
         {
           "timestamp": 1764095974561,
           "price": 1.99,
@@ -39388,14 +39456,22 @@
   "6449003064": {
     "name": "Goblin Tools",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764102625154,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -39545,6 +39621,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1764102625154,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Krone BiG M 450": "2,49 €",
+            "JCB 541-70 AGRI PRO": "2,49 €"
+          }
+        },
         {
           "timestamp": 1764095974561,
           "price": 7.99,
@@ -41543,6 +41636,27 @@
             "Hunter's Pack": "1,99 €",
             "Steyr Arms Pack": "2,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6670599313": {
+    "name": "聖塔神記 トリニティトリガー",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764102625154,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
