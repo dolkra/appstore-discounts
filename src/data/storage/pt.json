@@ -16160,6 +16160,25 @@
     "history": [
       [
         {
+          "timestamp": 1764036188469,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €",
+            "Get tips about the diamond pyramid": "0,99 €",
+            "Purchase game": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1764023135825,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -32922,13 +32941,25 @@
       "RCS Pro (6 meses)": "34,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "RCS Pro (1 mês)": "6,99 €",
       "RCS Pro (1 ano)": "44,99 €",
       "RCS Pro (6 meses)": "34,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764036188469,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "RCS Pro (1 mês)": "6,99 €",
+            "RCS Pro (1 ano)": "44,99 €",
+            "RCS Pro (6 meses)": "34,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -39487,12 +39518,23 @@
       "Monthly Weather Subscription": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "12,99 €",
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
       "Yearly Weather Subscription": "5,99 €",
       "Monthly Weather Subscription": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764036188469,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Yearly Weather Subscription": "5,99 €",
+            "Monthly Weather Subscription": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

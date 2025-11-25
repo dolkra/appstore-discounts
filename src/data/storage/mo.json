@@ -103152,12 +103152,20 @@
       "Yearly Weather Subscription": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 11.99,
-      "formattedPrice": "USD 11.99",
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
       "Monthly Weather Subscription": "USD 0.99",
       "Yearly Weather Subscription": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764036188469,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763072743115,
