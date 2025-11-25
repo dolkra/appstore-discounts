@@ -8000,6 +8000,23 @@
     "history": [
       [
         {
+          "timestamp": 1764059795706,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mix It Up": "0,00 €",
+            "The Ellen Show": "0,00 €",
+            "Happy Holidays": "1,99 €",
+            "Just For Kids": "0,00 €",
+            "Ellen Premiere Week in NYC": "1,99 €",
+            "Build Your Own Deck": "2,99 €",
+            "Good News!": "2,99 €",
+            "Ocean Vacation": "0,00 €",
+            "Wish You Were Here": "1,99 €",
+            "Express Yourself": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1764052847796,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -17869,6 +17886,58 @@
       ]
     ]
   },
+  "1223392043": {
+    "name": "Shiny Ski Resort",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Childhood Memories": "0,99 €",
+      "Santa Costume": "0,99 €",
+      "Meat Bun Outfit": "0,99 €",
+      "Penguin Suit": "0,99 €",
+      "Bearington Outfit": "0,99 €",
+      "Dancing Sally Prin": "1,99 €",
+      "Dancing Wairobot": "1,99 €",
+      "Dancing Kairobot": "1,99 €",
+      "Kairobot Statues 2": "1,99 €",
+      "Kairobot Statue Set": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Childhood Memories": "0,99 €",
+      "Santa Costume": "0,99 €",
+      "Meat Bun Outfit": "0,99 €",
+      "Penguin Suit": "0,99 €",
+      "Bearington Outfit": "0,99 €",
+      "Dancing Sally Prin": "1,99 €",
+      "Dancing Wairobot": "1,99 €",
+      "Dancing Kairobot": "1,99 €",
+      "Kairobot Statues 2": "1,99 €",
+      "Kairobot Statue Set": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764059795706,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Childhood Memories": "0,99 €",
+            "Santa Costume": "0,99 €",
+            "Meat Bun Outfit": "0,99 €",
+            "Penguin Suit": "0,99 €",
+            "Bearington Outfit": "0,99 €",
+            "Dancing Sally Prin": "1,99 €",
+            "Dancing Wairobot": "1,99 €",
+            "Dancing Kairobot": "1,99 €",
+            "Kairobot Statues 2": "1,99 €",
+            "Kairobot Statue Set": "1,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1225810316": {
     "name": "博雅音频",
     "maxPriceInfo": {
@@ -19036,6 +19105,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1764059795706,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "CAPSO": "9,99 €",
+            "9 Characters": "39,99 €",
+            "Aroma": "9,99 €",
+            "ConneR": "9,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "9,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "9,99 €"
+          }
+        },
         {
           "timestamp": 1764052847796,
           "price": 1.99,
@@ -24772,8 +24858,8 @@
       "Little Tip": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 79.99,
-      "formattedPrice": "79,99 €",
+      "price": 64.99,
+      "formattedPrice": "64,99 €",
       "Annual Tip": "20,49 €",
       "Monthly Tip": "2,99 €",
       "Huge Tip": "229,99 €",
@@ -24783,6 +24869,22 @@
       "Little Tip": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764059795706,
+          "price": 64.99,
+          "formattedPrice": "64,99 €",
+          "inAppPurchases": {
+            "Annual Tip": "20,49 €",
+            "Monthly Tip": "2,99 €",
+            "Huge Tip": "229,99 €",
+            "Large Tip": "99,99 €",
+            "Medium Tip": "22,99 €",
+            "Small Tip": "9,99 €",
+            "Little Tip": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763950185259,
@@ -41176,6 +41278,27 @@
           "timestamp": 1764052847796,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744430250": {
+    "name": "Python 學習計劃",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764059795706,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]
