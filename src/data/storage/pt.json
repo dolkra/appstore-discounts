@@ -20498,10 +20498,18 @@
       "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764075360556,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -39340,7 +39348,8 @@
       "Vervaet Hydro Trike 5x5": "1,99 €",
       "Case IH Austoft 8800 Multi-Row": "1,99 €",
       "Kotte PQ 32000": "1,19 €",
-      "Claas Xerion 5000": "2,49 €"
+      "Claas Xerion 5000": "2,49 €",
+      "JCB 541-70 AGRI PRO": "2,49 €"
     },
     "minPriceInfo": {
       "price": 7.99,
@@ -39362,9 +39371,29 @@
       "Vervaet Hydro Trike 5x5": "1,99 €",
       "Case IH Austoft 8800 Multi-Row": "1,99 €",
       "Kotte PQ 32000": "1,19 €",
-      "Claas Xerion 5000": "2,49 €"
+      "Claas Xerion 5000": "2,49 €",
+      "JCB 541-70 AGRI PRO": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764075360556,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Krone BiG M 450": "2,49 €",
+            "JCB 541-70 AGRI PRO": "2,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763959121437,
