@@ -116139,13 +116139,21 @@
       "Pro(月度会员)": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Pro(终身免费)": "USD 0.00",
       "Pro(年度会员)": "USD 0.99",
       "Pro(月度会员)": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764161842911,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763085738023,
@@ -117365,6 +117373,14 @@
     "history": [
       [
         {
+          "timestamp": 1764161842911,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1763729604756,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -117705,6 +117721,27 @@
           "timestamp": 1764139222516,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749560544": {
+    "name": "魔王城物語",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764161842911,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
         }
       ]
