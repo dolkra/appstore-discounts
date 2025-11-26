@@ -33781,18 +33781,30 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Pro(终身免费)": "0,00 €",
+      "Pro(终身免费)": "0,99 €",
       "Pro(年度会员)": "0,99 €",
       "Pro(月度会员)": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Pro(终身免费)": "0,00 €",
       "Pro(年度会员)": "0,99 €",
       "Pro(月度会员)": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764153043984,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro(年度会员)": "0,99 €",
+            "Pro(月度会员)": "0,99 €",
+            "Pro(终身免费)": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762412068141,
@@ -41580,10 +41592,18 @@
       "formattedPrice": "22,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764153043984,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763720887673,
