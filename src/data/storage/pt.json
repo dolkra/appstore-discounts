@@ -2058,10 +2058,18 @@
       "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
-      "price": 17.99,
-      "formattedPrice": "17,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764167326995,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762763768805,
@@ -25693,6 +25701,49 @@
       ]
     ]
   },
+  "1497473331": {
+    "name": "iSTB",
+    "maxPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "17,99 €",
+      "Top Donor": "9,99 €",
+      "Gold Patron": "5,99 €",
+      "Silver Booster": "2,99 €",
+      "Supporter": "0,99 €",
+      "Binge Pack": "5,99 €",
+      "Regular Pack": "1,99 €",
+      "Starter Pack": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 17.99,
+      "formattedPrice": "17,99 €",
+      "Top Donor": "9,99 €",
+      "Gold Patron": "5,99 €",
+      "Silver Booster": "2,99 €",
+      "Supporter": "0,99 €",
+      "Binge Pack": "5,99 €",
+      "Regular Pack": "1,99 €",
+      "Starter Pack": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764167326995,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Top Donor": "9,99 €",
+            "Gold Patron": "5,99 €",
+            "Silver Booster": "2,99 €",
+            "Supporter": "0,99 €",
+            "Binge Pack": "5,99 €",
+            "Regular Pack": "1,99 €",
+            "Starter Pack": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1497887150": {
     "name": "Door Kickers: Action Squad",
     "maxPriceInfo": {
@@ -41954,6 +42005,27 @@
           "timestamp": 1764161842911,
           "price": 7.99,
           "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6499431452": {
+    "name": "Blasphemous",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764167326995,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]

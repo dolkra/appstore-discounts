@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1564` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1566` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1566|1497473331|Automatic|iSTB|iSTB|iSTB|iSTB|iSTB|iSTB|iSTB|
+|1565|6499431452|Automatic|❌|Blasphemous|Blasphemous|Blasphemous|Blasphemous|Blasphemous|Blasphemous|
 |1564|6749560544|Automatic|❌|魔王城物語|魔王城物語|魔王城物語|Demon Castle Story|Demon Castle Story|Demon Castle Story|
 |1563|483247714|Automatic|蒙哥英语原版阅读器 (Meerkat Reader)|蒙哥英语原版阅读器 (Meerkat Reader)|蒙哥英语原版阅读器 (Meerkat Reader)|蒙哥英语原版阅读器 (Meerkat Reader)|蒙哥英文原著閱讀器 Meerkat Reader|蒙哥英文原著閱讀器 Meerkat Reader|蒙哥英语原版阅读器 (Meerkat Reader)|
 |1562|6746705608|Automatic|AutoSnore: 鼾声记录器|AutoSnore: 鼾聲記錄工具|AutoSnore: 鼾聲記錄工具|AutoSnore: 鼾聲記錄工具|AutoSnore: Snoring Recorder|AutoSnore: Snoring Recorder|AutoSnore: Gravador de ronco|
