@@ -37,7 +37,7 @@
 |1540|1509161616|自动|风帆纪元|風帆紀元|風帆紀元|風帆紀元|❌|❌|❌|
 |1539|1632982179|自动|❌|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|Baldur's Gate - Dark Alliance|
 |1538|779157948|自动|❌|Threes!|Threes!|Threes!|Threes!|Threes!|Threes!|
-|1537|6754613166|自动|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|Trackless Links Pro|
+|1537| ~~6754613166~~ |自动| ~~Trackless Links Pro~~ | ~~Trackless Links Pro~~ | ~~Trackless Links Pro~~ | ~~Trackless Links Pro~~ | ~~Trackless Links Pro~~ | ~~Trackless Links Pro~~ | ~~Trackless Links Pro~~ |
 |1536|1324815218|自动|❌|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|Roll for the Galaxy|
 |1535|1434690170|自动|❌|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|Power Grid Boardgame|
 |1534|892279069|自动|Star Walk 2 Pro: 观星软件和星空地图|Star Walk 2 Pro: 觀星軟件和星空地圖|Star Walk 2 Pro: 觀星軟件和星空地圖|Star Walk 2 Pro: 觀星軟件和星空地圖|Star Walk 2 Pro: Sky Map Live|Star Walk 2 Pro:  Sky Map Live|Star Walk 2 Pro: Céu Estrelado|

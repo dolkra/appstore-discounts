@@ -117572,11 +117572,17 @@
       "formattedPrice": "USD 19.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
       [
+        {
+          "timestamp": 1764275202568,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1764268573016,
           "price": 19.99,
