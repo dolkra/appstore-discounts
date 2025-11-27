@@ -28809,6 +28809,25 @@
     "history": [
       [
         {
+          "timestamp": 1764248164418,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "¥0.00",
+            "ThemeA0B1C0": "¥0.00",
+            "ThemeA1B0C0": "¥0.00",
+            "ThemeA0B1C1": "¥0.00",
+            "ThemeA1B0C1": "¥0.00",
+            "ThemeA1B1C0": "¥0.00",
+            "ThemeA2B0C0": "¥0.00",
+            "主题大礼包": "¥25.00",
+            "ThemeA2B0C1": "¥25.00",
+            "ThemeA2B1C0": "¥25.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762698035015,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -108928,6 +108947,25 @@
     "history": [
       [
         {
+          "timestamp": 1764248164418,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {
+            "奇境森林": "¥13.00",
+            "热门内容DLC": "¥20.00",
+            "新世界启程礼": "¥68.00",
+            "DLC：异界": "¥6.00",
+            "DLC：外星入侵": "¥6.00",
+            "DLC：邪恶之心": "¥9.00",
+            "DLC：孤山世界": "¥9.00",
+            "DLC：贪婪洞窟": "¥4.00",
+            "DLC：怪物联盟": "¥9.00",
+            "DLC：姐妹连": "¥2.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1763950185259,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -133808,10 +133846,18 @@
       "formattedPrice": "¥148.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "¥8.00"
+      "price": 6,
+      "formattedPrice": "¥6.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764248164418,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764161842911,
