@@ -29862,10 +29862,18 @@
       "formattedPrice": "¥22.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 8,
+      "formattedPrice": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764295229069,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1759940107332,

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-11-27T19:48:08.479Z</updated>
+    <updated>2025-11-28T03:07:07.610Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-27T19:48:08.480Z</updated>
+        <updated>2025-11-28T03:07:07.610Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 27 Nov 2025 19:48:08 GMT</id>
+        <id>rankingusFri, 28 Nov 2025 03:07:07 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-27T19:48:08.480Z</updated>
+        <updated>2025-11-28T03:07:07.610Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -60,7 +60,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1366</b>
       </td>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1267</b>
       </td>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
     </tr>
   </tbody>
@@ -205,7 +205,9 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6754613166">Trackless Links Pro</a>
+        <del>
+          <a href="https://apps.apple.com/us/app/id6754613166">Trackless Links Pro</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -638,7 +640,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id953426154">Be Focused Pro - Focus Timer</a>
+        <a href="https://apps.apple.com/us/app/id944118456">EXIF Viewer by Fluntro</a>
       </td>
       <td>
         <ul>
@@ -655,7 +657,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id964708975">古诗文网-唐诗宋词古文典籍</a>
+        <a href="https://apps.apple.com/us/app/id953426154">Be Focused Pro - Focus Timer</a>
       </td>
       <td>
         <ul>
@@ -670,6 +672,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>32</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id964708975">古诗文网-唐诗宋词古文典籍</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -692,7 +711,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id994157520">1942 Pacific Front Premium</a>
@@ -709,7 +728,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -726,7 +745,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1001096601">1941 Frozen Front Premium</a>
@@ -743,7 +762,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1021566244">FINAL FANTASY VII</a>
@@ -760,7 +779,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1033342465">Just Press Record</a>
@@ -777,7 +796,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1041260001">FINAL FANTASY Ⅸ</a>
@@ -794,7 +813,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1062022008">LumaFusion</a>
@@ -811,7 +830,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1065360416">BimmerLink for BMW and MINI</a>
@@ -834,7 +853,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1065599938">HARVEST MOON: Seeds Of Memories</a>
@@ -851,7 +870,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1093131935">Incredibox</a>
@@ -868,7 +887,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1141282192">Advanced Comprehension Therapy</a>
@@ -885,7 +904,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1230231705">The Witness</a>
@@ -902,7 +921,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1250601531">RAW Power</a>
@@ -919,7 +938,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1261834568">Shadow Fight 2 Special Edition</a>
@@ -942,7 +961,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1264608487">Driving Zone: Germany Pro</a>
@@ -971,7 +990,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1287138671">Thumper: Pocket Edition</a>
@@ -988,7 +1007,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1303222868">Paprika Recipe Manager 3</a>
@@ -1005,7 +1024,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1326740784">FINAL FANTASY VIII Remastered</a>
@@ -1022,7 +1041,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1369179088">Grimvalor</a>
@@ -1039,7 +1058,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1373057849">ThreeKingdoms The Last Warlord</a>
@@ -1068,7 +1087,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1411823462">7Days : Backer</a>
@@ -1085,7 +1104,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1424977227">Titan Quest HD</a>
@@ -1102,7 +1121,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1434690170">Power Grid Boardgame</a>
@@ -1119,7 +1138,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1435461053">This Is the Police</a>
@@ -1136,7 +1155,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -1165,7 +1184,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -1182,7 +1201,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1473749002">Vergi Akademisi Pro</a>
@@ -1199,7 +1218,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481181827">Aces of the Luftwaffe Squadron</a>
@@ -1216,7 +1235,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481853033">Strongbox Pro</a>
@@ -1233,7 +1252,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1492041417">FINAL FANTASY IV</a>
@@ -1250,7 +1269,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1492041539">FINAL FANTASY VI</a>
@@ -1267,7 +1286,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1492041611">FINAL FANTASY V</a>
@@ -1284,7 +1303,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -1301,7 +1320,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1504760106">Eco inc. Save the Earth</a>
@@ -1326,7 +1345,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512838461">DayCircle - Day counter</a>
@@ -1343,7 +1362,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1516531425">JSPS APP</a>
@@ -1360,7 +1379,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1519386476">MiniGames Watch Games 24-in-1</a>
@@ -1377,7 +1396,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1524418421">SessionBand Jazz Fusion</a>
@@ -1394,7 +1413,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1534488108">SessionBand Jazz 4</a>
@@ -1411,7 +1430,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537362903">Neighbours back From Hell</a>
@@ -1428,7 +1447,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538124245">where I put it</a>
@@ -1445,7 +1464,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1547424687">我爱截图 - 微商营销做图工具</a>
@@ -1462,7 +1481,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1552176109">Trials of Mana</a>
@@ -1479,7 +1498,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
@@ -1496,7 +1515,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1563156209">Legend of Mana</a>
@@ -1513,7 +1532,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575414319">Dune: Imperium</a>
@@ -1536,7 +1555,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575588022">MenubarX - Floating Browser</a>
@@ -1559,7 +1578,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1577762239">Invading Horde - TD</a>
@@ -1576,7 +1595,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -1593,7 +1612,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -1610,7 +1629,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587860402">Moncage</a>
@@ -1627,7 +1646,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1591620171">Stay for Safari</a>
@@ -1650,7 +1669,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592505377">Wreckfest</a>
@@ -1667,7 +1686,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592854410">Island Story: 100 Days</a>
@@ -1684,7 +1703,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1601194499">DRAGON QUEST BUILDERS</a>
@@ -1701,7 +1720,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
+        <b>89</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1601446687">Streets of Rage 4</a>
@@ -1718,7 +1737,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
+        <b>90</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1644917705">Cyber Manhunt</a>
@@ -1735,7 +1754,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>90</b>
+        <b>91</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1672085276">Aiko</a>
@@ -1752,7 +1771,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>91</b>
+        <b>92</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6502455111">Lara Croft: Guardian of Light</a>
@@ -1775,7 +1794,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>92</b>
+        <b>93</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6702013134">Cat Flow - Kitty Focus Timer</a>
@@ -1792,7 +1811,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>93</b>
+        <b>94</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6480501528">Cat Todo：AI & Tasks & Reminder</a>
@@ -1809,7 +1828,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>94</b>
+        <b>95</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6451009326">LMP - Music Hub</a>
@@ -1826,7 +1845,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>95</b>
+        <b>96</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6504841512">Halls of Torment: Premium</a>
@@ -1843,7 +1862,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6470196512">Oaken</a>
@@ -1860,7 +1879,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>97</b>
+        <b>98</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738923299">Spin Hero</a>
@@ -1877,7 +1896,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6743115658">TABS Pocket Edition</a>
@@ -1894,7 +1913,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>99</b>
+        <b>100</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444824570">ClashX - 服务监控面板</a>
@@ -1911,7 +1930,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>100</b>
+        <b>101</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6747814605">Is This Seat Taken?</a>
@@ -1928,7 +1947,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>101</b>
+        <b>102</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444109272">Kübaj - Hacim Hesaplama</a>
@@ -1945,7 +1964,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>102</b>
+        <b>103</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -1972,7 +1991,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>103</b>
+        <b>104</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449183990">DQM: The Dark Prince</a>
@@ -1989,7 +2008,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>104</b>
+        <b>105</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6444435974">VARIOUS DAYLIFE Mobile</a>
@@ -2006,7 +2025,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>105</b>
+        <b>106</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6473097811">Doodle Baseball Game</a>
@@ -2023,7 +2042,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>106</b>
+        <b>107</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6746649752">MagicKit Pro: AI Smart Toolbox</a>
@@ -2040,7 +2059,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>107</b>
+        <b>108</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6746746394">Mayor Card: City Management</a>
@@ -2057,7 +2076,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>108</b>
+        <b>109</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740814979">Follow the meaning</a>
@@ -2074,7 +2093,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>109</b>
+        <b>110</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6478843819">Home, Planet & Hunters</a>
@@ -2101,7 +2120,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>110</b>
+        <b>111</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6499198824">ScanGo - PDF Document Scanner</a>
@@ -2118,7 +2137,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>111</b>
+        <b>112</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447090616">Whisper Notes - Speech To Text</a>
@@ -2135,7 +2154,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>112</b>
+        <b>113</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6499559693">iStat Menus 7</a>
@@ -2152,7 +2171,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>113</b>
+        <b>114</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6738282698">RCS - Real Combat Simulator</a>
@@ -2169,7 +2188,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>114</b>
+        <b>115</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349855">Backyard Football '99</a>
@@ -2186,7 +2205,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>115</b>
+        <b>116</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349587">Backyard Baseball '01</a>
@@ -2203,7 +2222,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>116</b>
+        <b>117</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6740349666">Backyard Baseball '97</a>
@@ -2220,7 +2239,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>117</b>
+        <b>118</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6749698268">乾坤易趣</a>
@@ -2237,10 +2256,27 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>118</b>
+        <b>119</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6503088710">World of Goo 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>120</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
       </td>
       <td>
         <ul>
@@ -2267,7 +2303,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6753062308">Frenzy Match! Dino Showdown</a>
+        <a href="https://apps.apple.com/us/app/id6754613166">Trackless Links Pro</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2276,7 +2312,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6754234559">Husha - Echoheart Chat</a>
+        <a href="https://apps.apple.com/us/app/id6753062308">Frenzy Match! Dino Showdown</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2285,7 +2321,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6749845582">NPD知识普及</a>
+        <a href="https://apps.apple.com/us/app/id6754234559">Husha - Echoheart Chat</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2294,7 +2330,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6748376912">Dragon Hunt: Tribe Within</a>
+        <a href="https://apps.apple.com/us/app/id6749845582">NPD知识普及</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2303,7 +2339,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6747758553">Grand Agent: It Call</a>
+        <a href="https://apps.apple.com/us/app/id6748376912">Dragon Hunt: Tribe Within</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2312,7 +2348,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6746355331">Stop&Get Away From Me! Defense</a>
+        <a href="https://apps.apple.com/us/app/id6747758553">Grand Agent: It Call</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2321,7 +2357,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6746683191">CASE No: 1937</a>
+        <a href="https://apps.apple.com/us/app/id6746355331">Stop&Get Away From Me! Defense</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2330,7 +2366,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
+        <a href="https://apps.apple.com/us/app/id6746683191">CASE No: 1937</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2339,7 +2375,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6479684285">Never Night</a>
+        <a href="https://apps.apple.com/us/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2348,7 +2384,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id567533074">Sonic Jump™</a>
+        <a href="https://apps.apple.com/us/app/id6479684285">Never Night</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2357,7 +2393,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id319295332">TuneIn Radio: Music & Sports</a>
+        <a href="https://apps.apple.com/us/app/id567533074">Sonic Jump™</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2366,7 +2402,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id519561306">ATracker PRO Time Tracker</a>
+        <a href="https://apps.apple.com/us/app/id319295332">TuneIn Radio: Music & Sports</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2375,7 +2411,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
+        <a href="https://apps.apple.com/us/app/id519561306">ATracker PRO Time Tracker</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2384,7 +2420,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
+        <a href="https://apps.apple.com/us/app/id6449251957">Motorsport Manager 4</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2393,7 +2429,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
+        <a href="https://apps.apple.com/us/app/id1056920931">Iron Marines: RTS offline game</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2402,7 +2438,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6466976437">OOTP Baseball 26 Go!</a>
+        <a href="https://apps.apple.com/us/app/id1567658979">SkySafari 7 Pro</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2411,7 +2447,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
+        <a href="https://apps.apple.com/us/app/id6466976437">OOTP Baseball 26 Go!</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2420,7 +2456,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
+        <a href="https://apps.apple.com/us/app/id1038014543">Day R Premium: last world war</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2429,7 +2465,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id904737816">Kingdom Rush Origins TD</a>
+        <a href="https://apps.apple.com/us/app/id6446178861">PlayNav - No ads in videos!</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2438,7 +2474,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id352247139">Calorie Counter PRO MyNetDiary</a>
+        <a href="https://apps.apple.com/us/app/id904737816">Kingdom Rush Origins TD</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2447,7 +2483,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id403684733">Badoo Premium</a>
+        <a href="https://apps.apple.com/us/app/id352247139">Calorie Counter PRO MyNetDiary</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2456,7 +2492,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id406541444">8mm Vintage Camera</a>
+        <a href="https://apps.apple.com/us/app/id403684733">Badoo Premium</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2465,7 +2501,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/us/app/id406541444">8mm Vintage Camera</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2474,7 +2510,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id904278510">Hitman Sniper</a>
+        <a href="https://apps.apple.com/us/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2483,7 +2519,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
+        <a href="https://apps.apple.com/us/app/id904278510">Hitman Sniper</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2492,7 +2528,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id918609651">Money Pro: Personal Finance AR</a>
+        <a href="https://apps.apple.com/us/app/id916976066">Phraseboard Keyboard</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2501,7 +2537,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1028950091">The Greedy Cave</a>
+        <a href="https://apps.apple.com/us/app/id918609651">Money Pro: Personal Finance AR</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2510,7 +2546,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/us/app/id1028950091">The Greedy Cave</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2519,7 +2555,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1436429074">FILCA - Vintage Film Camera</a>
+        <a href="https://apps.apple.com/us/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2528,7 +2564,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1439187947">Rebel Inc.</a>
+        <a href="https://apps.apple.com/us/app/id1436429074">FILCA - Vintage Film Camera</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2537,7 +2573,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
+        <a href="https://apps.apple.com/us/app/id1439187947">Rebel Inc.</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2546,7 +2582,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/us/app/id1439881811">RadarOmega</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2555,7 +2591,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1484622401">Religion inc. God Simulator</a>
+        <a href="https://apps.apple.com/us/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2564,7 +2600,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/us/app/id1484622401">Religion inc. God Simulator</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2573,7 +2609,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/us/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2582,7 +2618,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
+        <a href="https://apps.apple.com/us/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2591,16 +2627,16 @@ feedId:157008699750812672+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1198176727">Controller for HomeKit</a>
+        <a href="https://apps.apple.com/us/app/id6740471827">Classic Maze Game for Watch</a>
       </td>
-      <td>Artificially Added</td>
+      <td>Automatically Added</td>
     </tr>
     <tr>
       <td>
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1055511498">Day One</a>
+        <a href="https://apps.apple.com/us/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2609,7 +2645,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
+        <a href="https://apps.apple.com/us/app/id1055511498">Day One</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2618,7 +2654,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1473785373">MoneyTrack: Expense & Budget</a>
+        <a href="https://apps.apple.com/us/app/id1444383602">Goodnotes 6: AI Notes & Docs</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2627,7 +2663,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
+        <a href="https://apps.apple.com/us/app/id1473785373">MoneyTrack: Expense & Budget</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2636,7 +2672,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
+        <a href="https://apps.apple.com/us/app/id1610668825">FyTube - YouTube Without Ads</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2645,7 +2681,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id598581396">Kingdom Rush Frontiers TD</a>
+        <a href="https://apps.apple.com/us/app/id533055404">Night Stars</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2654,7 +2690,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/us/app/id598581396">Kingdom Rush Frontiers TD</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2663,7 +2699,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/us/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2672,7 +2708,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
+        <a href="https://apps.apple.com/us/app/id505904421">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2681,7 +2717,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
+        <a href="https://apps.apple.com/us/app/id1527841661">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2690,7 +2726,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
+        <a href="https://apps.apple.com/us/app/id431033044">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2699,7 +2735,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
+        <a href="https://apps.apple.com/us/app/id456637671">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2708,7 +2744,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
+        <a href="https://apps.apple.com/us/app/id1453318714">Vostok — Story Maker</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2717,7 +2753,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/us/app/id818394449">Timeline - World history</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2726,7 +2762,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id488674899">RAIN RADAR °- sky weather NOAA</a>
+        <a href="https://apps.apple.com/us/app/id1485101937">Juice Watch</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2735,7 +2771,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/us/app/id488674899">RAIN RADAR °- sky weather NOAA</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2744,7 +2780,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id373454750">随手记Pro</a>
+        <a href="https://apps.apple.com/us/app/id1361473095">MuseDash</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2753,7 +2789,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>55</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id866450515">Forest: Focus for Productivity</a>
+        <a href="https://apps.apple.com/us/app/id373454750">随手记Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2762,7 +2798,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>56</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id388624839">CamScanner + | OCR Scanner</a>
+        <a href="https://apps.apple.com/us/app/id866450515">Forest: Focus for Productivity</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -2771,12 +2807,160 @@ feedId:157008699750812672+userId:73658201673997312
         <b>57</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id388624839">CamScanner + | OCR Scanner</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>58</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1659622164">VidHub -Video Library & Player</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXIF Viewer by Fluntro]]></title>
+        <id>EXIF Viewer by Fluntro-us-1764295229069</id>
+        <link href="https://apps.apple.com/us/app/exif-viewer-by-fluntro/id944118456?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/exif-viewer-by-fluntro/id944118456?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/76/b2/4a76b20d-8797-06e8-2886-870723512881/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h2>Application Description</h2><p>
+  Featured by Apple on the US and Canada App Store. Enjoy a one-time purchase with lifetime access—no subscription required.
+EXIF Viewer by Fluntro is the ultimate tool for professional photographers and iPhone enthusiasts to view, manage, and edit EXIF metadata. With a sleek design and seamless functionality, this app offers a harmonious experience across all your iOS devices (iPhone, iPad, iPod Touch).
+
+Key Features:
+• Remove EXIF Metadata and Geotagging: Safeguard your privacy by effortlessly deleting EXIF data, including GPS location.
+• View Detailed EXIF Data: Easily access essential metadata such as ISO, Shutter Speed, Focal Length, Camera Model, Lens Model, Timestamp and more from any photo on your device, iCloud, or Photo Stream.
+• Zoom in on Large Photos: Enjoy high-resolution images (up to 80 MB) with crystal clarity.
+• Customize Your EXIF Tags: Personalize your viewing experience by reordering EXIF tags, hiding unwanted tags, and selecting your preferred date format.
+• Quick Navigation: Smoothly swipe left or right to navigate between photos in the EXIF detail screen.
+• Map View: Visualize your photos on a map with detailed EXIF information accessible by tapping on each photo.
+• Bulk Edit EXIF Data: Efficiently modify EXIF metadata for multiple photos, including date and location changes.
+• Share Photos with or without EXIF: Seamlessly share photos via email, AirDrop, or other methods, with or without EXIF metadata.
+• Copy EXIF Data: Copy and share metadata across apps with ease.
+• Retain EXIF Metadata: Photos sent via Mail, AirDrop, or SD Card readers retain EXIF metadata, unlike most messaging and social networking apps.
+
+Additional Features:
+• 3D Touch Support: Quickly access actions like Favorites, Albums, or All Photos on supported iPhones.
+• Optimized for All iOS Devices: Compatible with iPad Pro, iPhone SE, iPhone 8, and newer models in both landscape and portrait modes.
+• Multiple Viewing Options: Choose from EXIF Cards List View, Grid View, or Map View to suit your preference.
+• Photos Extension: Access EXIF data directly within the native Photos app or third-party apps by selecting the photo and tapping the Share button to choose the EXIF Viewer extension.
+• iMessage App Support: Effortlessly view and share EXIF data in your messages.
+
+Editing and Removing EXIF Metadata:
+• Bulk Edit EXIF Data: Select multiple photos, tap “Edit EXIF,” and update metadata such as date and location.
+• Remove EXIF Metadata:
+    1.    Overwrite the original photo to eliminate EXIF metadata.
+    2.    Create a duplicate photo without EXIF data, with an option to delete the original photo.
+
+FAQ
+What is EXIF Metadata?
+EXIF stands for EXchangeable Image File Format. When you take pictures with your digital camera or phone, a considerable amount of EXIF data is recorded and stored within each image. This data includes information about your camera settings (ISO, focal length, image size, shutter speed, camera model, lens model, GPS), date, time, location, and more. Viewing EXIF metadata tags is crucial for both beginners and professional photographers to understand and review the camera settings or software used to create and edit a photo.
+
+Why Choose EXIF Viewer by Fluntro?
+• No In-App Purchases: Enjoy all current and future features with the initial purchase—no hidden costs.
+• Designed for Professional Photographers: Gain deep insights into your photography work and protect your privacy by removing sensitive metadata.
+• Privacy First: Your photos are securely stored locally on your phone and never uploaded to our servers. Learn more in our Privacy Policy.
+
+User Reviews:
+If you’re satisfied with the app, please consider leaving a 5-star review. Your feedback helps us improve and ensures the best experience for all users.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/7d/b9/bd7db999-2ad9-aec8-7a24-929fe60deaea/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/d7/b2/a1d7b24c-5e17-8481-f2f8-70614680d993/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/7a/b2/b47ab288-f9e9-4b59-b6db-5e2152754589/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/12/e0/b9/12e0b90c-c230-3447-0149-8df94f4402f3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/f0/f1/a3f0f1f1-050a-65bf-9318-b02f8646fa06/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d3/7e/75/d37e75d2-c889-6cc3-0ab1-ed565962dc55/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/e6/40/5ee64095-bb0b-5fae-cc6f-656ba4702ece/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fd/dd/ce/fdddce1a-fa1a-9821-598f-822cf8201841/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/2e/fe/e12efece-d342-25de-fe55-1dce7c7dfb72/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b9/0f/27/b90f2780-dccf-8be3-4495-6a7cd6f9ed10/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/47/e4/c047e4ac-160a-a202-da78-7f14216218be/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/10/e8/e510e81c-3259-8d96-ee76-bc05edb5e722/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/f6/5f/aff65f7c-cbf7-fe98-3cb2-31a59aec2490/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/88/81/4c/88814c1d-b1a5-17d8-94c3-88da690b1dca/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ed/ad/17/edad1793-2b1d-1227-d380-f080e076efda/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/95/b2/de/95b2dedb-a60e-b3cc-23ba-319194c9bfe1/pr_source.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NARUTO: Ultimate Ninja STORM]]></title>
+        <id>NARUTO: Ultimate Ninja STORM-us-1764295229069</id>
+        <link href="https://apps.apple.com/us/app/naruto-ultimate-ninja-storm/id6479512734?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: $12.99 → $5.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/naruto-ultimate-ninja-storm/id6479512734?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/9d/41/e79d41c0-13e6-b135-052d-d0a8d83e1881/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$12.99</span> → <b>
+  <strong>$5.99</strong>
+</b><span>[$5.99 ~ $12.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$5.99</b>
+</p><h2>Application Description</h2><p>
+  [Warning] Please Read Before Purchasing
+No refunds (including exchanges for other products, services, etc.) are available after purchase, regardless of the reason.
+Please ensure that your device is compatible via the app's Contact page (link below).
+https://bnfaq.channel.or.jp/title/3152
+
+You are purchasing a license for digital goods. For full terms and conditions, please see the License Agreement below.
+
+[Game Summary]
+A Naruto game full of 3D competitive action!
+NARUTO: Ultimate Ninja STORM finally makes its way to smartphones!
+Experience the stories and battles of Naruto's childhood through beautiful graphics!
+
+Game Content
+Ultimate Mission Mode
+Relive the stories and famous battles from Naruto's childhood! You can freely move around the Hidden Leaf Village and take on missions and mini games!
+
+Free Battle Mode
+In Free Battle Mode, you can choose from 25 unique characters from Naruto's childhood and 10 support characters to enjoy a variety of powerful ninjutsu actions and battles! 
+
+Changes for the App
+Easily activate ninjutsu, ultimate jutsu, and other actions with a tap! Even those playing the series for the first time can confidently enjoy the game!
+Plus, the following additional features and improvements have made the game easier to play:
+- New auto-save feature
+- New control mode selection for battle (casual/manual)
+- New battle assist feature (casual only)
+- Improved controls for battle and free movement
+- New retry feature for missions
+- Improved mini-game UI
+- Improved tutorial
+
+Play Notes
+- This game contains violent content.
+- Please pay attention to how long you play and avoid excessive gameplay.
+- 本遊戲部份內容涉及暴力情節
+- 請注意遊戲時間,避免沉迷
+
+[Number of Players]
+This is a single-player game only.
+
+[Storage]
+To download this app, you will need at least 3.5 GB of free space.
+When downloading, please ensure you have a strong internet connection and/or Wi-Fi environment.
+*Depending on your device, you may need more than the suggested storage amount.
+ 
+[Online]
+- There is no online battle mode.
+- Aside from the initial game download, you can play offline.
+- An internet connection is required to back up and transfer game data.
+
+Bandai Namco Entertainment Inc. Website:
+https://bandainamcoent.co.jp/english/
+
+By downloading or installing this app, you agree to the Bandai Namco Entertainment Terms of Service.
+
+Terms of Service:
+https://legal.bandainamcoent.co.jp/terms/
+Privacy Policy:
+https://legal.bandainamcoent.co.jp/privacy/
+
+This application is distributed under the official rights from the license holder.
+
+©2002 MASASHI KISHIMOTO
+©Bandai Namco Entertainment Inc.
+
+Powered by "CRIWARE".
+CRIWARE is a trademark of CRI Middleware Co., Ltd.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ee/a2/dceea2c4-415d-e2d8-cf51-d6429248bb17/01-01-4_2208_U00d71242_EN20250321-1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/c2/19/30c219a7-f57c-f239-3ec5-79fd1af05c8c/02-01-4_2208_U00d71242_EN20250321-2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/94/24/10942475-f93d-c3e6-c00f-6a302ea183e2/d2433a98-9692-4d52-a023-c6c3305d587d_03-6_2208_U00d71242_EN.png/406x228bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trackless Links Pro]]></title>
@@ -4127,77 +4311,5 @@ Download now the ultimate military flight simulator! Fly modern fighter jets, jo
 TERMS OF USE: https://www.rortos.com/terms-of-use/
 Support: rcs@rortos.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/f2/57/6af257f2-63a0-e3c9-da91-1ea15ad0f6a3/01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/e7/91/f2e791ed-50f2-6907-28e9-58b2ef06b644/06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/bb/34/a5bb34ee-5f1b-3618-6e5d-2c146a66134b/03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/ba/f4/63baf4fe-6067-9847-3400-b642e7d0fad7/04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/9d/c6/b99dc62f-23e2-852d-316a-3614e1a2f638/05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/70/db/4270db55-b812-7b1c-2739-e219952b16f4/02.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iStat Menus 7]]></title>
-        <id>iStat Menus 7-us-1764036188469</id>
-        <link href="https://apps.apple.com/us/app/istat-menus-7/id6499559693?mt=12&amp;uo=4"/>
-        <updated>2025-11-25T02:03:08.469Z</updated>
-        <summary type="html"><![CDATA[Price: $11.99 → $5.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/istat-menus-7/id6499559693?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/eb/3d/36eb3d02-7d70-6a95-a496-624fc6abcbd7/AppIconLiquid-0-0-85-220-0-0-6-0-2x-P3.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>$11.99</span> → <b>
-  <strong>$5.99</strong>
-</b><span>[$5.99 ~ $11.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$5.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Yearly Weather Subscription：<b>$4.99</b>
-  </li><li>
-    Monthly Weather Subscription：<b>$0.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  The ultimate system monitor, seamlessly integrated into your menubar.
-
-iStat Menus covers a huge range of stats, including CPU, GPU, memory, network usage, disk usage, time, battery, weather and more. iStat Menus 7 is a full reboot, sporting an all-new design with hundreds of big and small improvements. iStat Menus is unmatched in efficiency, and is the most CPU-friendly system monitoring app.
-
-• CPU and GPU •
-
-Highly detailed CPU info, with current usage for individual cores, history graphs, load averages, uptime, CPU frequency, and a list of the apps using the most CPU. Efficiency and performance cores can be styled differently. Plus, GPU processor, memory, temperature, and frequency on supported Macs.
-
-• Weather • Requires a paid weather subscription •
-
-Quickly glance at current conditions in your menu bar, or dive into an incredibly detailed hourly forecast and weekly weather overview, covering low and high temperature, wind speed and direction, chance of rain, humidity, dew point, UV index, pressure, visibility and more.
-
-• Memory •
-
-Extensive memory stats covering usage, history, memory pressure, compressed memory, swap, and a list of the apps using the most memory.
-
-• Rules •
-
-iStat Menus can notify you of an incredibly wide range of events, based on CPU, GPU, memory, disks, network, sensors, battery, power and weather. This lets you be notified when your public IP has changed, if your internet connection is down, if CPU usage is above 60% for more than 10 seconds, if disk space is low, or a near-infinite range of other options.
-
-• Disk usage and activity •
-
-See used space, free space, and disk activity in your menu bar. S.M.A.R.T. status monitoring, per app disk usage, and more detail for all your disks is only a click away.
-
-• Network •
-
-Keep on top of what’s being sent and received for all network connections with history graphs, current bandwidth usage, and a bandwidth breakdown for the top apps, as well as detailed connection info, bandwidth graphs, public and private IP addresses, and an internet connectivity indicator.
-
-• Battery and power •
-
-Detailed info on your battery’s current state and a highly configurable menu item that can change if you’re draining, charging, or completely charged. Plus, battery levels for Bluetooth devices.
-
-• Sensors •
-
-A realtime listing of the sensors in your Mac, including temperatures, hard drive temperatures (where supported), fans, CPU frequency, GPU frequency (where supported), voltages, current and power. Fan speeds can be controlled, and even switched or gradually ramped based on temperatures and battery state.
-
-• Date and time •
-
-Highly customisable menu bar clocks, a calendar with upcoming events, and world clocks with detailed sun and moon info. Each world clock can have a custom name, to make it easier to see the time for coworkers or family members.
-
-• Combined •
-
-Combined mode combines multiple iStat Menus items into a single menu bar item. You can choose what’s shown in the menu bar and what’s shown in the menu, allowing you to save space in the menu bar while still having access to all the information. It’s super handy on laptops.
-
-Privacy policy:
-https://bjango.com/privacy/
-
-Terms of use:
-https://bjango.com/help/istatmenus7/licenseagreement/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/98/b4/ae98b4e4-01b7-0b4b-03bd-3fe361913e42/1c4bce32-03e3-4718-96fc-d5858f7544e9_app-store-image-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/04/8b/ba048b5b-d01e-76a9-5265-da75d5e51526/953e4499-f593-4bed-b317-2ed6d0826c93_app-store-image-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/81/75/bc8175e1-d2ea-79ed-3901-cf47cae1e227/36e66a44-6cf5-492e-ae14-6d25a388ca68_app-store-image-4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/cb/f4/fecbf4c9-1d36-d667-a848-bc8033012138/10f0342c-3201-482a-add1-b3903405b6ec_app-store-image-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/f8/89/7ff88942-cbc8-94c7-f221-eecd74369150/026588c5-dee9-4edf-8c77-87d49e67f190_app-store-image-5.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

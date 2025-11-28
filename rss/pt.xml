@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2025-11-27T19:48:08.509Z</updated>
+    <updated>2025-11-28T03:07:07.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-27T19:48:08.509Z</updated>
+        <updated>2025-11-28T03:07:07.637Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptThu, 27 Nov 2025 19:48:08 GMT</id>
+        <id>rankingptFri, 28 Nov 2025 03:07:07 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-27T19:48:08.510Z</updated>
+        <updated>2025-11-28T03:07:07.637Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -60,7 +60,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1366</b>
       </td>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1156</b>
       </td>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
     </tr>
   </tbody>
@@ -120,7 +120,9 @@ feedId:206907475259680768+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6754613166">Trackless Links Pro</a>
+        <del>
+          <a href="https://apps.apple.com/pt/app/id6754613166">Trackless Links Pro</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -477,7 +479,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id623592465">Heads Up!</a>
+        <a href="https://apps.apple.com/pt/app/id596026805">PhotoPills</a>
       </td>
       <td>
         <ul>
@@ -494,7 +496,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id646256209">Photo Eraser for iPhone</a>
+        <a href="https://apps.apple.com/pt/app/id623592465">Heads Up!</a>
       </td>
       <td>
         <ul>
@@ -511,7 +513,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id904280696">Things 3</a>
+        <a href="https://apps.apple.com/pt/app/id646256209">Photo Eraser for iPhone</a>
       </td>
       <td>
         <ul>
@@ -528,7 +530,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id911201894">DRAGON QUEST</a>
+        <a href="https://apps.apple.com/pt/app/id904280696">Things 3</a>
       </td>
       <td>
         <ul>
@@ -545,7 +547,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id911205290">DRAGON QUEST II</a>
+        <a href="https://apps.apple.com/pt/app/id911201894">DRAGON QUEST</a>
       </td>
       <td>
         <ul>
@@ -562,7 +564,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id911208088">DRAGON QUEST III</a>
+        <a href="https://apps.apple.com/pt/app/id911205290">DRAGON QUEST II</a>
       </td>
       <td>
         <ul>
@@ -579,7 +581,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id927098908">Pro Camera by Moment</a>
+        <a href="https://apps.apple.com/pt/app/id911208088">DRAGON QUEST III</a>
       </td>
       <td>
         <ul>
@@ -596,7 +598,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/pt/app/id927098908">Pro Camera by Moment</a>
       </td>
       <td>
         <ul>
@@ -613,7 +615,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id933113994">DRAGON QUEST V</a>
+        <a href="https://apps.apple.com/pt/app/id931188326">DayCost Pro - Personal Finance</a>
       </td>
       <td>
         <ul>
@@ -630,7 +632,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id953426154">Be Focused Pro – Timer Foco</a>
+        <a href="https://apps.apple.com/pt/app/id933113994">DRAGON QUEST V</a>
       </td>
       <td>
         <ul>
@@ -647,7 +649,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id964708975">古诗文网-唐诗宋词古文典籍</a>
+        <a href="https://apps.apple.com/pt/app/id944118456">EXIF Viewer by Fluntro</a>
       </td>
       <td>
         <ul>
@@ -664,7 +666,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id994157520">1942 Pacific Front Premium</a>
+        <a href="https://apps.apple.com/pt/app/id953426154">Be Focused Pro – Timer Foco</a>
       </td>
       <td>
         <ul>
@@ -681,7 +683,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id998834675">Clouds & Sheep 2 Premium</a>
+        <a href="https://apps.apple.com/pt/app/id964708975">古诗文网-唐诗宋词古文典籍</a>
       </td>
       <td>
         <ul>
@@ -698,7 +700,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1001096601">1941 Frozen Front Premium</a>
+        <a href="https://apps.apple.com/pt/app/id994157520">1942 Pacific Front Premium</a>
       </td>
       <td>
         <ul>
@@ -715,7 +717,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1021566244">FINAL FANTASY VII</a>
+        <a href="https://apps.apple.com/pt/app/id998834675">Clouds & Sheep 2 Premium</a>
       </td>
       <td>
         <ul>
@@ -732,7 +734,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1033342465">Just Press Record</a>
+        <a href="https://apps.apple.com/pt/app/id1001096601">1941 Frozen Front Premium</a>
       </td>
       <td>
         <ul>
@@ -749,7 +751,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1041260001">FINAL FANTASY Ⅸ</a>
+        <a href="https://apps.apple.com/pt/app/id1021566244">FINAL FANTASY VII</a>
       </td>
       <td>
         <ul>
@@ -766,7 +768,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1062022008">LumaFusion</a>
+        <a href="https://apps.apple.com/pt/app/id1033342465">Just Press Record</a>
       </td>
       <td>
         <ul>
@@ -781,6 +783,40 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>39</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1041260001">FINAL FANTASY Ⅸ</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>40</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1062022008">LumaFusion</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1065360416">BimmerLink for BMW and MINI</a>
@@ -803,7 +839,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1065599938">HARVEST MOON: Seeds Of Memories</a>
@@ -820,7 +856,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1067198688">彩云天气Pro</a>
@@ -843,7 +879,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1093131935">Incredibox</a>
@@ -860,7 +896,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1141282192">Advanced Comprehension Therapy</a>
@@ -877,7 +913,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1230231705">The Witness</a>
@@ -894,7 +930,32 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>47</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1248033433">Kingdom Rush Vengeance TD</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Hero Beresad</i>：<b>1</b>
+              </li><li>
+                <i>Tower Blazing Gem</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1250601531">RAW Power</a>
@@ -911,7 +972,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1264608487">Driving Zone: Germany Pro</a>
@@ -942,7 +1003,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1287138671">Thumper: Pocket Edition</a>
@@ -959,7 +1020,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1303222868">Gestor de Receitas Paprika 3</a>
@@ -976,7 +1037,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1326740784">FINAL FANTASY VIII Remastered</a>
@@ -993,7 +1054,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1369179088">Grimvalor</a>
@@ -1010,7 +1071,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1373057849">ThreeKingdoms The Last Warlord</a>
@@ -1039,7 +1100,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1411823462">7Days : Backer</a>
@@ -1056,7 +1117,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1424977227">Titan Quest HD</a>
@@ -1073,7 +1134,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1434690170">Power Grid Boardgame</a>
@@ -1090,7 +1151,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1435461053">This is the Police</a>
@@ -1107,7 +1168,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1439262206">Root Board Game</a>
@@ -1136,7 +1197,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -1153,61 +1214,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1473749002">Vergi Akademisi Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>59</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1481181827">Aces of the Luftwaffe Squadron</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>60</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1492041417">FINAL FANTASY IV</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>61</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1492041539">FINAL FANTASY VI</a>
+        <a href="https://apps.apple.com/pt/app/id1466120520">iVerify Basic</a>
       </td>
       <td>
         <ul>
@@ -1224,7 +1234,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>62</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1492041611">FINAL FANTASY V</a>
+        <a href="https://apps.apple.com/pt/app/id1473749002">Vergi Akademisi Pro</a>
       </td>
       <td>
         <ul>
@@ -1241,7 +1251,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>63</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1497120981">LUCH: Photo Effects & Filters</a>
+        <a href="https://apps.apple.com/pt/app/id1481181827">Aces of the Luftwaffe Squadron</a>
       </td>
       <td>
         <ul>
@@ -1256,6 +1266,74 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>64</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1492041417">FINAL FANTASY IV</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>65</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1492041539">FINAL FANTASY VI</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>66</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1492041611">FINAL FANTASY V</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>67</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1497120981">LUCH: Photo Effects & Filters</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1504760106">Eco Inc. Salve o Planeta</a>
@@ -1280,7 +1358,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1512838461">DayCircle - Day counter</a>
@@ -1297,7 +1375,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1516531425">JSPS APP</a>
@@ -1314,7 +1392,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1519386476">MiniGames - Arcade de Jogos</a>
@@ -1331,7 +1409,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1524418421">SessionBand Jazz Fusion</a>
@@ -1348,7 +1426,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1534488108">SessionBand Jazz 4</a>
@@ -1365,78 +1443,10 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1537362903">Neighbours back From Hell</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>71</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1538124245">where I put it</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>72</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1547424687">我爱截图 - 微商营销做图工具</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>73</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id1552176109">Trials of Mana</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>74</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
+        <a href="https://apps.apple.com/pt/app/id1537057699">Solo - Fretboard Visualization</a>
       </td>
       <td>
         <ul>
@@ -1453,7 +1463,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>75</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1563156209">Legend of Mana</a>
+        <a href="https://apps.apple.com/pt/app/id1537362903">Neighbours back From Hell</a>
       </td>
       <td>
         <ul>
@@ -1468,6 +1478,91 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>76</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1538124245">where I put it</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>77</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1547424687">我爱截图 - 微商营销做图工具</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>78</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1552176109">Trials of Mana</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>79</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>80</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1563156209">Legend of Mana</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>81</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1575414319">Dune: Imperium</a>
@@ -1490,7 +1585,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1575588022">MenubarX - Floating Browser</a>
@@ -1513,7 +1608,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1577762239">Invading Horde - TD</a>
@@ -1530,7 +1625,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1587301632">All In One Memo</a>
@@ -1547,7 +1642,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1587860402">Moncage</a>
@@ -1564,7 +1659,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1591620171">Stay for Safari</a>
@@ -1587,7 +1682,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1592505377">Wreckfest</a>
@@ -1604,7 +1699,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1601194499">DRAGON QUEST BUILDERS</a>
@@ -1621,7 +1716,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>89</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1601446687">Streets of Rage 4</a>
@@ -1638,7 +1733,32 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>90</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1612952507">AeroPads - Pads & Soundscapes</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Orbit Pack</i>：<b>1</b>
+              </li><li>
+                <i>Rocket Science Pack</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>91</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1631859420">After Inc.</a>
@@ -1661,7 +1781,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>92</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1644917705">Cyber Manhunt</a>
@@ -1678,7 +1798,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>93</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1672085276">Aiko</a>
@@ -1695,7 +1815,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
+        <b>94</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6478639011">Subnautica</a>
@@ -1712,7 +1832,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
+        <b>95</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6702013134">Cat Flow - Tempo de estudo</a>
@@ -1729,7 +1849,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>90</b>
+        <b>96</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6451009326">LMP - Music Hub</a>
@@ -1746,7 +1866,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>91</b>
+        <b>97</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6504841512">Halls of Torment: Premium</a>
@@ -1763,7 +1883,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>92</b>
+        <b>98</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6470196512">Oaken</a>
@@ -1780,7 +1900,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>93</b>
+        <b>99</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6738923299">Spin Hero</a>
@@ -1797,7 +1917,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>94</b>
+        <b>100</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6743115658">TABS Pocket Edition</a>
@@ -1814,7 +1934,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>95</b>
+        <b>101</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6444824570">ClashX - 服务监控面板</a>
@@ -1831,7 +1951,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>96</b>
+        <b>102</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6747814605">Is This Seat Taken?</a>
@@ -1848,7 +1968,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>97</b>
+        <b>103</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6444109272">Kübaj - Hacim Hesaplama</a>
@@ -1865,7 +1985,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>98</b>
+        <b>104</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6471947612">召喚騎士團</a>
@@ -1892,7 +2012,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>99</b>
+        <b>105</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6449183990">DQM: The Dark Prince</a>
@@ -1909,7 +2029,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>100</b>
+        <b>106</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6444435974">VARIOUS DAYLIFE Mobile</a>
@@ -1926,7 +2046,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>101</b>
+        <b>107</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6473097811">Doodle Baseball Game</a>
@@ -1943,7 +2063,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>102</b>
+        <b>108</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6746649752">MagicKit Pro: AI Smart Toolbox</a>
@@ -1960,7 +2080,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>103</b>
+        <b>109</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6746746394">Mayor Card: City Management</a>
@@ -1977,7 +2097,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>104</b>
+        <b>110</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740814979">Follow the meaning</a>
@@ -1994,7 +2114,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>105</b>
+        <b>111</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6499198824">ScanGo - PDF Document Scanner</a>
@@ -2011,7 +2131,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>106</b>
+        <b>112</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6447090616">Whisper Notes - Voz para Texto</a>
@@ -2028,7 +2148,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>107</b>
+        <b>113</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6738282698">RCS - Real Combat Simulator</a>
@@ -2045,7 +2165,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>108</b>
+        <b>114</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6499559693">iStat Menus 7</a>
@@ -2062,7 +2182,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>109</b>
+        <b>115</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740349855">Backyard Football '99</a>
@@ -2079,7 +2199,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>110</b>
+        <b>116</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740349587">Backyard Baseball '01</a>
@@ -2096,7 +2216,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>111</b>
+        <b>117</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740349666">Backyard Baseball '97</a>
@@ -2113,7 +2233,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>112</b>
+        <b>118</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6749698268">小易决策-选择困难小救星</a>
@@ -2130,10 +2250,27 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>113</b>
+        <b>119</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6503088710">World of Goo 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>120</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6479512734">NARUTO: Ultimate Ninja STORM</a>
       </td>
       <td>
         <ul>
@@ -2160,7 +2297,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6753062308">石器經典版-情懷服</a>
+        <a href="https://apps.apple.com/pt/app/id6754613166">Trackless Links Pro</a>
       </td>
       <td>Automatically Added</td>
     </tr>
@@ -2169,12 +2306,470 @@ feedId:206907475259680768+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/pt/app/id6753062308">石器經典版-情懷服</a>
+      </td>
+      <td>Automatically Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/pt/app/id598581396">Kingdom Rush Frontiers TD</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EXIF Viewer by Fluntro]]></title>
+        <id>EXIF Viewer by Fluntro-pt-1764295229069</id>
+        <link href="https://apps.apple.com/pt/app/exif-viewer-by-fluntro/id944118456?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: 2,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/exif-viewer-by-fluntro/id944118456?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/76/b2/4a76b20d-8797-06e8-2886-870723512881/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>2,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 2,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h2>Application Description</h2><p>
+  Destacado pela Apple na App Store dos EUA e do Canadá. Aproveite uma compra única com acesso vitalício — sem necessidade de assinatura.
+EXIF Viewer by Fluntro é a ferramenta definitiva para fotógrafos profissionais e entusiastas do iPhone visualizarem, gerenciarem e editarem metadados EXIF. Com um design elegante e funcionalidade fluida, este aplicativo oferece uma experiência harmoniosa em todos os seus dispositivos iOS (iPhone, iPad, iPod Touch).
+
+Principais Funcionalidades:
+• Remover Metadados EXIF e Geotags: Proteja sua privacidade ao excluir dados EXIF, incluindo localização GPS.
+• Visualizar Dados EXIF Detalhados: Acesse facilmente metadados essenciais como ISO, Velocidade do Obturador, Distância Focal, Modelo da Câmera, Modelo da Lente, Data e Hora, Abertura, e muito mais de qualquer foto em seu dispositivo, iCloud ou Foto Stream.
+• Ampliar Fotos Grandes: Aproveite imagens em alta resolução (até 80 MB) com clareza cristalina.
+• Personalizar suas Tags EXIF: Personalize sua visualização ao reordenar as tags EXIF, ocultar tags indesejadas e escolher seu formato de data preferido.
+• Navegação Rápida: Deslize suavemente para a esquerda ou direita para navegar entre fotos na tela de detalhes EXIF.
+• Visualização de Mapa: Visualize suas fotos em um mapa com informações EXIF detalhadas acessíveis ao tocar em cada foto.
+• Edição em Massa de Dados EXIF: Modifique os metadados EXIF de várias fotos de forma eficiente, incluindo alterações de data e localização.
+• Compartilhar Fotos com ou sem EXIF: Compartilhe fotos via e-mail, AirDrop ou outros métodos, com ou sem os metadados EXIF.
+• Copiar Dados EXIF: Copie e compartilhe metadados facilmente entre apps.
+• Manter Metadados EXIF: Fotos enviadas via Mail, AirDrop ou leitores de cartão SD mantêm os metadados EXIF, diferente de muitos aplicativos de mensagens e redes sociais.
+
+Funcionalidades Adicionais:
+• Otimizado para Todos os Dispositivos iOS: Compatível com iPad Pro, iPhone SE, iPhone 8 e modelos mais recentes em modo paisagem e retrato.
+• Várias Opções de Visualização: Escolha entre o modo Lista de Cartões EXIF, Modo Grade ou Modo Mapa, conforme sua preferência.
+• Extensão de Fotos: Acesse dados EXIF diretamente no aplicativo Fotos nativo ou em aplicativos de terceiros ao selecionar a foto e tocar no botão Compartilhar para escolher a extensão EXIF Viewer.
+• Suporte para App iMessage: Visualize e compartilhe dados EXIF facilmente nas suas mensagens.
+
+Edição e Remoção de Metadados EXIF:
+• Edição em Massa de Dados EXIF: Selecione várias fotos, toque em “Editar EXIF” e atualize metadados como data e localização.
+• Remover Metadados EXIF:
+    1.Sobrescreva a foto original para remover os metadados EXIF.
+    2.Crie uma foto duplicada sem os dados EXIF, com a opção de excluir a foto original.
+
+Perguntas Frequentes
+O que são Metadados EXIF?
+EXIF significa Formato de Arquivo de Imagem Intercambiável (Exchangeable Image File Format). Quando você tira fotos com sua câmera digital ou telefone, uma grande quantidade de dados EXIF é gravada e armazenada em cada imagem. Esses dados incluem informações sobre as configurações da câmera (ISO, abertura, distância focal, tamanho da imagem, velocidade do obturador, modelo da câmera, modelo da lente, GPS), data, hora, localização e muito mais. Ver as tags de metadados EXIF é essencial para fotógrafos iniciantes e profissionais entenderem e revisarem as configurações da câmera ou o software usado para criar e editar uma foto.
+
+Por que escolher o EXIF Viewer by Fluntro?
+• Sem Compras no Aplicativo: Aproveite todas as funcionalidades atuais e futuras com a compra inicial — sem custos ocultos.
+• Projetado para Fotógrafos Profissionais: Obtenha insights profundos sobre seu trabalho fotográfico e proteja sua privacidade ao remover metadados sensíveis.
+• Privacidade em Primeiro Lugar: Suas fotos são armazenadas localmente no seu telefone de forma segura e nunca são enviadas para nossos servidores. Saiba mais na nossa Política de Privacidade.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/bd/7d/b9/bd7db999-2ad9-aec8-7a24-929fe60deaea/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a1/d7/b2/a1d7b24c-5e17-8481-f2f8-70614680d993/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b4/7a/b2/b47ab288-f9e9-4b59-b6db-5e2152754589/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/12/e0/b9/12e0b90c-c230-3447-0149-8df94f4402f3/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/a3/f0/f1/a3f0f1f1-050a-65bf-9318-b02f8646fa06/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/d3/7e/75/d37e75d2-c889-6cc3-0ab1-ed565962dc55/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/5e/e6/40/5ee64095-bb0b-5fae-cc6f-656ba4702ece/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fd/dd/ce/fdddce1a-fa1a-9821-598f-822cf8201841/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/2e/fe/e12efece-d342-25de-fe55-1dce7c7dfb72/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b9/0f/27/b90f2780-dccf-8be3-4495-6a7cd6f9ed10/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/47/e4/c047e4ac-160a-a202-da78-7f14216218be/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/10/e8/e510e81c-3259-8d96-ee76-bc05edb5e722/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/f6/5f/aff65f7c-cbf7-fe98-3cb2-31a59aec2490/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/88/81/4c/88814c1d-b1a5-17d8-94c3-88da690b1dca/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ed/ad/17/edad1793-2b1d-1227-d380-f080e076efda/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/95/b2/de/95b2dedb-a60e-b3cc-23ba-319194c9bfe1/pr_source.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solo - Fretboard Visualization]]></title>
+        <id>Solo - Fretboard Visualization-pt-1764295229069</id>
+        <link href="https://apps.apple.com/pt/app/solo-fretboard-visualization/id1537057699?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: 17,99 € → 9,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/solo-fretboard-visualization/id1537057699?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/2d/d0/962dd0ce-c810-67a8-3f46-188a0111c8a5/AppIcon-1-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>17,99 €</span> → <b>
+  <strong>9,99 €</strong>
+</b><span>[9,99 € ~ 17,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>9,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Custom Chord Progressions：<b>6,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Solo is the ultimate practice App for mastering fretboard visualization, designed by world renowned guitarists Tom Quayle and David Beebee.
+
+Four powerful fretboard trainers allow you to work intuitively on each aspect of the visualization process; learning note names, memorising interval shapes, outlining chord changes, and practicing scales.
+
+Solo asks you to find intervallic functions against one root note, chord symbol or scale at a time, listens to the notes you play, and doesn’t move on until you’ve correctly found each note by its intervallic function in the specified order.
+
+Practice with Solo and finally learn your note names, master interval shapes, confidently play through chord changes and break out of scale boxes with intervallic functions. Start transforming your playing and confidence on the fretboard today!
+
+
+NOTE TRAINER
+The Note Trainer is perfect for beginner and intermediate players getting to grips with note names on the neck - the foundation of solid fretboard knowledge. 
+
+‣ Solo shows you random root notes to find and listens, waiting for you to get it correct.
+‣ Slide on the interactive fretboards for helpful diagrams and to study alternative options. Choose from 6 string guitar (standard and 4ths tuning), 7 string guitar, 4 string bass & 5 string bass.
+‣ Optional practice suggestions offer challenging ways to limit and test yourself.
+‣ Duration based workouts allow you to craft the perfect practice session.
+
+
+INTERVAL TRAINER
+The Interval Trainer will help players at all levels work on interval shapes with intervallic functions - the key to unlocking true freedom on the fretboard.
+
+‣ Choose any combination of intervallic functions to practice.
+‣ Create custom interval groups or choose the intervals for ANY chord type or scale.
+‣ The Interval Trainer will randomise your chosen intervals and ask you to find them against either a fixed or random root note.
+‣ Slide on the interactive fretboards for helpful diagrams, showing you where all of the interval shapes are across the neck, and to study alternative options. Choose from 6 string guitar (standard and 4ths tuning), 7 string guitar, 4 string bass & 5 string bass.
+‣ Duration based workouts allow you to craft the perfect practice session.
+
+
+CHANGES TRAINER
+In the Changes Trainer you find intervallic functions, using single notes to outline different chord types or sets of chord changes, a key skill for learning to improvise through chord changes.  
+
+‣ Practice outlining intervallic functions through over 100 common chord progressions and single chord exercises.
+‣ 50 intervallic function levels. Go from simple chord tones to complex melodic structures and scales. 
+‣ Solo intelligently maps out the correct intervals over each chord and listens for you to play each intervallic function in the specified order.
+‣ Powerful workout options provide almost limitless ways to challenge yourself.
+‣ Transpose the key of any progression or exercise. 
+‣ Choose to randomly transpose the progression (or single chord exercise) each time it repeats.
+‣ Work on voice leading chord tones through single note lines.
+
+
+SCALE TRAINER
+The Scale Trainer contains a vast array of scales and powerful workout options, allowing you to finally break out of the box and develop a much deeper understanding of how scales are constructed on the fretboard.
+
+‣ Practice finding scales on the fretboard using intervallic functions. 
+‣ Over 50+ Scales and modes.
+‣ Powerful workout options provide almost limitless ways to challenge yourself.
+‣ Melodic sequence options let you focus on starting from any chord tone within the scale.
+‣ Duration based workouts allow you to craft the perfect practice session.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2a/a7/1b/2aa71b08-e616-9dc9-3f20-ef73698e8005/d6930f5f-6c5c-4f63-8bd5-14eac487c55d_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/36/b5/73/36b5731b-c429-50df-5231-412d345c84c0/294c2b20-bbfa-4b41-bf31-5ba073a2ab4a_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/39/61/28/3961282c-7045-97c5-7cad-f4cdc6177b97/062ff626-4ce7-4b04-812b-e7d2e0bf96d6_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e1/9c/53/e19c5370-f90e-0274-dbdc-d8a257fc6b4f/b602502e-9f37-4190-a8ae-f50d3c3d51a6_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ee/47/35/ee4735a9-a6f5-e3d4-b6c2-f95d09bf4ce9/17b36cf6-c987-447f-a2b5-22cbb413065b_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/20/bc/ff20bcea-1190-b4db-19a9-df1708331d75/849d1359-2381-41b1-8bc3-8126315bd2fd_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1d/b0/fe/1db0fef7-96f0-457a-6aa1-0c565a75c8de/d7718f7e-ff1f-4355-b32c-71a590bedc7c_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5d/9b/12/5d9b128c-ae52-2667-b53d-78c0e2b9fcfa/c75e8fc6-c3be-48bc-b875-e868e13ff136_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a5/50/bc/a550bc69-626c-b8f4-6c14-ee40305eac82/77db713a-bb44-4677-80c8-be077e4b6544_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fd/e6/6b/fde66b41-41c4-deee-35a3-750beb99368d/0d7a45f6-275e-4b95-8591-df2f0aa9746d_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a2/9e/32/a29e32c1-29bd-2b33-22b6-f0703a33b787/c063fe4c-efb7-4102-abd7-3be8c4cbd76a_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/30/9e/63/309e63a9-de8c-837e-a4d8-26970d1d5ef8/1b371c64-45e4-43f8-9342-903e3a7b74c8_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/db/9a/6e/db9a6ef2-9f5f-e3c6-8b0c-d5e315b736f4/a89427ce-fc77-40ef-bce8-9f125c77a535_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/02/d4/c9/02d4c9f0-1bfe-247b-6d2c-e8e952160635/6d49f57d-c54f-4b5e-9e0c-40c568c2381a_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/55/97/75/5597752d-a73a-7d1b-aa02-0c0442dd73b6/bda027e1-e3a5-4625-8af7-61c256302f82_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f4/26/25/f42625c7-01a6-13f0-32c8-c08690844b6c/2eda46a9-5af4-4e53-9ed8-91d084a000ec_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/c0/13/ffc0135d-fbed-45ca-0b19-119e19da6ab7/52656b2b-24ec-4977-9dfd-27433312c701_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c4/6c/0d/c46c0d10-1938-1295-9967-e170dd23520b/260ce903-8824-4733-86f2-e7dd89b8fb0f_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/32/a9/9b/32a99b9e-6035-1ced-2ab0-4f6a6c801195/f0a37110-7957-436a-9831-31c133d3204a_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c9/c6/ab/c9c6ab21-61ab-b23e-2e85-dcdfd56af2ad/789a699e-0d6f-41c9-9f86-9421b09a8029_10.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PhotoPills]]></title>
+        <id>PhotoPills-pt-1764295229069</id>
+        <link href="https://apps.apple.com/pt/app/photopills/id596026805?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: 12,99 € → 6,49 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/photopills/id596026805?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/44/9d/2c/449d2c2a-9cfe-3aad-6ddb-01e5604367e3/Photopills-liquid-glass-logo-0-1x_U007epad-0-1-0-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>12,99 €</span> → <b>
+  <strong>6,49 €</strong>
+</b><span>[6,49 € ~ 12,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>6,49 €</b>
+</p><h2>Application Description</h2><p>
+  Não importa o tipo de fotografia que você ama: Paisagens, Via Láctea, Lua, Nascer e Pôr do Sol, Arquitetura, Rastro de Estrelas, Drone, Chuvas de Meteoros, Eclipse solar, Eclipse Lunar, Time Lapse, Casamento, Retrato ou viagem …
+
+Você está prestes a descobrir como planejar as suas ideias de fotografias… assim você vai tirar fotos realmente legendárias cada vez que pegar a câmera!
+
+Porque estar no lugar certo na hora certa para capturar a foto que você deseja é impagável.
+
+* Tudo em um só aplicativo (+400,000 downloads)
+PhotoPills é o seu aplicativo de fotografia para tudo. PhotoPills é o seu:
+- Aplicativo para planejamento, para o nascer e pôr do Sol, para a hora dourada, para a hora azul, Via Láctea, Lua, chuva de meteoros, eclipse lunar e solar, rastro de estrelas, profundidade de campo, filtro ND , longa exposição, campo de visão, timelapse…
+- Localizador de sol, Lua e Via Láctea
+- Ralidade aumentada: sol, Lua, Via Láctea, rastro de estrelas, estrela polar, profundidade de campo, campo de visão.
+** NOTA: a Realidade Aumentada usa a bússola do seu dispositivo. Alguns dispositivos podem não ter uma bússola.
+- Gerenciador de planos.
+- Ferramenta para explorar locais.
+- E muito mais!
+
+* Aprovado por mestres de fotografia
+“PhotoPills é uma ferramenta inestimável que uso sempre que planejo uma foto.” - Mark Gee, fotógrafo de astronomia do ano
+“Uma ferramenta que todo fotógrafo deve ter.” - Kevin Raber, Luminous-landscape.com.
+""Vale a pena! Uma ferramenta dessas garante que sejamos capazes de planejar fotos incríveis“. - José B. Ruiz, Fotógrafo de vida selvagem do ano.
+
+* Como funciona
+Você já andou por um lugar e pensou: """"Que pena que a Lua não esteja EXATAMENTE ali … eu teria tirado uma ótima foto!""""? E o Sol? E a Via Láctea? Bem, agora você pode deixar sua imaginação voar e calcular quando esse momento mágico acontece:
+- IMAGINE a Via Láctea arqueando-se sobre uma paisagem incrível, uma Lua cheia gigante aparecendo por trás de uma colina próxima ou um pôr do sol entre duas pedras em uma praia mágica… Dê asas a sua imaginação!
+- PLANEJE calculando facilmente a data e hora exatas da cena que você imaginou. Trabalhe com mais inteligência, não mais tempo!
+- FOTOGRAFE enquanto vivencia e captura momentos únicos.
+
+* Inspire-se e ganhe destaque
+PhotoPills é uma comunidade extremamente ativa. Todos os dias, apresentamos em nosso Instagram e nas fotos do PhotoPills o que os PhotoPillers IMAGINAM, PLANEJAM e FOTOGRAFAM para que você possa se inspirar. Sempre que você capturar uma foto bacana, envie-a para o PhotoPills Awards - e seja premiado!
+
+* Nunca perca uma cena única
+Crie uma lista de tarefas planejadas, adicione alertas ao seu calendário e chegue ao local a tempo.
+
+* Faça certo
+Ajuste o enquadramento para obter a melhor composição antes de fotografar. Use Realidade Aumentada para ver se o Sol, a Lua e / ou a Via Láctea estarão na posição desejada ao pressionar o obturador.
+
+* Explore, descubra lugares incríveis e crie seu próprio banco de dados de locais
+Se você se deparar com um local que gostaria de lembrar, salve-o como um ponto de interesse.
+
+* Tenha informações diárias em apenas um toque com os Widgets
+Use os Widgets para obter rapidamente todos os principais eventos do sol, da Lua e da Via Láctea para sua localização e data atuais, além de seus próximos planos fotográficos.
+
+* Melhore sua fotografia
+Nosso objetivo não é apenas ajudá-lo a planejar suas fotos, mas também ajudá-lo a corrigi-las. Sempre que precisar de ajuda, consulte nossos artigos e vídeos de instruções ou envie-nos um e-mail!
+
+""Esta é a sua última chance. Depois disso, não há como voltar atrás. Você toma a pílula azul - a história termina, você acorda na sua cama e acredita no que quiser acreditar. Você toma PhotoPills - fica no País das Maravilhas e nós mostramos a profundidade da toca do coelho. Lembre-se: tudo o que oferecemos são fotos legendárias e arrepios na pele, nada mais. ""
+
+Junte-se a nós… Vai ser DIVERTIDO!
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ec/c0/f2/ecc0f2ef-4489-637d-c5bb-296c5c755937/5e84f55a-d53c-4a7b-9987-0a70d6e99478_iPhone_01.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d4/17/d8/d417d8fa-228d-0f6f-cb63-9ef3aeab0960/37e9599b-53bf-4b80-a2f1-2b0fd6420866_iPhone_02.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d9/c9/a9/d9c9a9b4-5b29-8a80-ffcc-98d9e6365315/cb64da0c-20e8-4d40-bf27-f298ac3f56e3_iPhone_03.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/7d/b1/b0/7db1b0cb-be05-6de1-5bab-2b6dc3dc78d9/4618f203-7ec0-4529-bac6-127d529e1ca4_iPhone_04.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/07/d4/52/07d45255-04e6-2231-f27c-38125218b9b8/b702cb82-d55e-44ca-871c-a3062427e50c_iPhone_06.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d2/ef/14/d2ef14bb-5a38-8802-bac7-21ee4fb5aa1b/22213ecd-6eee-4448-83db-a5741ec188e5_iPad_Pro_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ad/7d/20/ad7d2056-bf3c-cd63-9728-e483f7f09001/d968afcc-f309-45e9-bdef-e186fdd17907_iPad_Pro_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/3c/57/39/3c5739cd-563d-3319-d1d2-acaaa5cb88b4/46b9226c-9074-44ae-b25e-c1bff468a642_iPad_Pro_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/5b/bd/60/5bbd60b7-8f2c-5aa5-1f84-a182ea29c60f/b88259c6-eea8-4e68-81fc-98a90b4b5ff5_iPad_Pro_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/17/f4/e1/17f4e1a0-071b-d899-9039-337f2de0b8c1/0432f735-13e2-44ac-94f5-33574e7be5fa_iPad_Pro_06.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iVerify Basic]]></title>
+        <id>iVerify Basic-pt-1764295229069</id>
+        <link href="https://apps.apple.com/pt/app/iverify-basic/id1466120520?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/iverify-basic/id1466120520?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/84/31/e5/8431e571-7687-a898-182a-854e6eccf9b5/IvyRelease-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>0,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 0,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h2>Application Description</h2><p>iVerify Basic is your gateway to enhanced device security and threat awareness, offering a glimpse into the powerful capabilities of our enterprise-grade solution, iVerify EDR. Designed for individuals who prioritize their digital security, iVerify Basic empowers users to take proactive measures to safeguard their devices against a myriad of threats. Users can scan their devices with a tap to detect vulnerabilities and stay proactive against threats.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ed/64/27/ed64274b-f156-6a33-bc81-4dfcc3896e1b/b38288c3-7674-42c0-847d-6e92e648df75_Frame_2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/75/c1/0375c1dc-8a07-3ffa-62a6-aaa3e6012af4/38827258-01d6-436f-8e56-34124ba121d0_Frame_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ca/fc/72/cafc727f-6671-ac55-92cf-8525eed6c67c/66bc5c74-71ac-4d7c-9ee1-bc867a55acf4_Frame_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/65/e0/b065e0a6-8627-ab45-9129-af315105e463/9eee2585-4313-450d-bade-8c2ec05fbebc_Frame_17.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bd/92/2c/bd922c69-f3ae-2c56-057b-64bd6d527760/cd30f599-e9fb-4aab-b600-d8a297aca777_Frame_14.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/f6/81/12f681b3-0003-b456-fa1d-9606d2a5f890/15fead36-b8d4-4943-b363-d425334e1eb8_Frame_13.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/e1/e2/90e1e248-6cf2-1143-01c0-73abb3cbc1c9/49c621ac-987e-4d3f-8c77-604627532b04_Frame_9.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/a3/54/37a35462-9989-9afd-6f65-1314c981a185/6cc59cfc-62c1-4bd9-9165-74b9a75e2039_Frame_16.jpg/576x768bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NARUTO: Ultimate Ninja STORM]]></title>
+        <id>NARUTO: Ultimate Ninja STORM-pt-1764295229069</id>
+        <link href="https://apps.apple.com/pt/app/naruto-ultimate-ninja-storm/id6479512734?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: 15,99 € → 6,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/naruto-ultimate-ninja-storm/id6479512734?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/9d/41/e79d41c0-13e6-b135-052d-d0a8d83e1881/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>15,99 €</span> → <b>
+  <strong>6,99 €</strong>
+</b><span>[6,99 € ~ 15,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>6,99 €</b>
+</p><h2>Application Description</h2><p>
+  [Warning] Please Read Before Purchasing
+No refunds (including exchanges for other products, services, etc.) are available after purchase, regardless of the reason.
+Please ensure that your device is compatible via the app's Contact page (link below).
+https://bnfaq.channel.or.jp/title/3152
+
+You are purchasing a license for digital goods. For full terms and conditions, please see the License Agreement below.
+
+[Game Summary]
+A Naruto game full of 3D competitive action!
+NARUTO: Ultimate Ninja STORM finally makes its way to smartphones!
+Experience the stories and battles of Naruto's childhood through beautiful graphics!
+
+Game Content
+Ultimate Mission Mode
+Relive the stories and famous battles from Naruto's childhood! You can freely move around the Hidden Leaf Village and take on missions and mini games!
+
+Free Battle Mode
+In Free Battle Mode, you can choose from 25 unique characters from Naruto's childhood and 10 support characters to enjoy a variety of powerful ninjutsu actions and battles! 
+
+Changes for the App
+Easily activate ninjutsu, ultimate jutsu, and other actions with a tap! Even those playing the series for the first time can confidently enjoy the game!
+Plus, the following additional features and improvements have made the game easier to play:
+- New auto-save feature
+- New control mode selection for battle (casual/manual)
+- New battle assist feature (casual only)
+- Improved controls for battle and free movement
+- New retry feature for missions
+- Improved mini-game UI
+- Improved tutorial
+
+Play Notes
+- This game contains violent content.
+- Please pay attention to how long you play and avoid excessive gameplay.
+- 本遊戲部份內容涉及暴力情節
+- 請注意遊戲時間,避免沉迷
+
+[Number of Players]
+This is a single-player game only.
+
+[Storage]
+To download this app, you will need at least 3.5 GB of free space.
+When downloading, please ensure you have a strong internet connection and/or Wi-Fi environment.
+*Depending on your device, you may need more than the suggested storage amount.
+ 
+[Online]
+- There is no online battle mode.
+- Aside from the initial game download, you can play offline.
+- An internet connection is required to back up and transfer game data.
+
+Bandai Namco Entertainment Inc. Website:
+https://bandainamcoent.co.jp/english/
+
+By downloading or installing this app, you agree to the Bandai Namco Entertainment Terms of Service.
+
+Terms of Service:
+https://legal.bandainamcoent.co.jp/terms/
+Privacy Policy:
+https://legal.bandainamcoent.co.jp/privacy/
+
+This application is distributed under the official rights from the license holder.
+
+©2002 MASASHI KISHIMOTO
+©Bandai Namco Entertainment Inc.
+
+Powered by "CRIWARE".
+CRIWARE is a trademark of CRI Middleware Co., Ltd.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dc/ee/a2/dceea2c4-415d-e2d8-cf51-d6429248bb17/01-01-4_2208_U00d71242_EN20250321-1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/30/c2/19/30c219a7-f57c-f239-3ec5-79fd1af05c8c/02-01-4_2208_U00d71242_EN20250321-2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/94/24/10942475-f93d-c3e6-c00f-6a302ea183e2/d2433a98-9692-4d52-a023-c6c3305d587d_03-6_2208_U00d71242_EN.png/406x228bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kingdom Rush Vengeance TD]]></title>
+        <id>Kingdom Rush Vengeance TD-pt-1764295229069</id>
+        <link href="https://apps.apple.com/pt/app/kingdom-rush-vengeance-td/id1248033433?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 2,99 €<br/>Hero Beresad: 7,99 € → 5,99 €<br/>Tower Blazing Gem: 5,99 € → 2,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/kingdom-rush-vengeance-td/id1248033433?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/bd/90/89bd90ae-08a4-3d50-b3bb-bea0a55a95c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>2,99 €</strong>
+</b><span>[2,99 € ~ 5,99 €]</span>）
+</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Hero Beresad：</strong><span>7,99 €</span> → <b>
+  <strong>5,99 €</strong>
+</b><span>[5,99 € ~ 7,99 €]</span>
+  </li><li>
+    <strong>Tower Blazing Gem：</strong><span>5,99 €</span> → <b>
+  <strong>2,99 €</strong>
+</b><span>[2,99 € ~ 5,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>2,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Hammerhold Campaign!：<b>8,99 €</b>
+  </li><li>
+    Hero Beresad：<b>5,99 €</b>
+  </li><li>
+    Pirate Kings Campaign!：<b>8,99 €</b>
+  </li><li>
+    Barrel of gems：<b>9,99 €</b>
+  </li><li>
+    Mega Tower Bundle：<b>17,99 €</b>
+  </li><li>
+    Handful of gems：<b>2,99 €</b>
+  </li><li>
+    Tower Blazing Gem：<b>2,99 €</b>
+  </li><li>
+    Pouch of gems：<b>5,99 €</b>
+  </li><li>
+    Mega Heroe Bundle：<b>19,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Prepare-se para entrar em ação e mostrar ao Reino quem é o verdadeiro chefe no melhor jogo de defesa de torres!
+
+Enfrente impérios de poderosos inimigos. Ataque os chefes supremos, desbloqueando e mudando para novas torres. Treine heróis lendários e conquiste usando sua estratégia neste incrível jogo tower defense.
+
+O Kingdom Rush Vengeance lhe dará horas e horas de partidas do melhor jogo de defesa de torres disponível! E o melhor, jogos sem net, jogue mesmo sem internet!
+
+Heróis, seu Exército, Inimigos e lendárias tower defense lutas de chefe!
+- 17 Poderosos HERÓIS que acatam as suas ordens sem hesitar
+- Evolua seus heróis e melhore suas habilidades
+- 10+ PEÇAS E ARTEFATOS para aquela ação extra na batalha na defesa de torres.
+- NOVOS PODERES E ARMADURAS para vencer seus inimigos, estilo defesa de torres!
+- 30 UPGRADES para treinar seu exército da sua maneira.
+- 60+ INIMIGOS MORTAIS que colocarão à prova toda a sua inteligência e habilidades estratégicas
+- CORRA PARA SALVAR O REINO ao combater 6 poderosos chefes nas batalhas contra chefe mais lendárias!
+
+Seleção Épica de Torres e Upgrades
+- 22 NOVAS TORRES para defender seu reino
+- HABILIDADES ÚNICAS E PODERES ESPECIAIS para cada torre
+- Escolha seu arsenal de torres e execute sua estratégia. 
+
+Crie combinações devastadoras de torres, habilidades e poderes especiais para deter seus inimigos!
+
+Jogo de Defesa de Torres Quase Sem Fim
+
+- 42 ETAPAS DE DESAFIO que testarão suas habilidades
+- 9 REINOS DIFERENTES para conquistar e explorar no estilo tower defense
+- 60+ CONQUISTAS, segredos escondidos e coisas divertidas para você brincar e descobrir enquanto explora o reino!
+- DESAFIOS HERÓICOS E DE FERRO em todas as fases
+- CASUAL, NORMAL, VETERANO OU IMPOSSÍVEL dificuldade para todos os níveis
+- Convocar ondas inimigas mais rapidamente para ganhar ouro extra
+
+Jogos Sem Net Incríveis de Defesa de Torre
+
+Sem Wi-Fi em sua Dark Tower?
+
+- JOGOS SEM NET - jogue offline, quando não tiver wifi
+- JOGO OFFLINE - acesse mesmo sem conexão à internet
+- Você pode escolher jogar o Kingdom Rush Vengeance como seu jogo Tower Defence offline. 
+
+--------------------------------------------------
+
+Confira aqui as últimas notícias do Lorde Vez'nan:
+https://www.kingdomrushvengeance.com/
+
+Termos e Condições:
+https://www.ironhidegames.com/TermsOfService
+
+Política de Privacidade:
+https://www.ironhidegames.com/PrivacyPolicy
+
+Criadores de vídeo, criadores de podcast e streamers:
+Adoraríamos ver seu conteúdo no Youtube e no Twitch! Nós apoiamos e promovemos os criadores de canais, portanto, se você quiser que mostremos seus vídeos ou quiser saber mais sobre nossos jogos, sinta-se à vontade para entrar em contato, é só enviar um email para contact@ironhidegames.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/6d/ed/b66ded49-511f-59df-9826-19a40ee27778/c0cb8a47-ced1-41d0-8527-9ed12fbd8da0_KRV_Pirate-screenshots_iPhone-5.5_POR-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/3f/6c/8b3f6c4a-8c6d-0a4b-0ee2-07702fba46a2/2745bd3d-0983-4554-9a8a-0916a3caf04e_KRV_screenshots_iPhone-5.5_POR-0001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3f/a6/ea/3fa6eabb-746c-ab1e-887b-2e5b7459fc92/dc14b362-730c-4481-aa02-0677eca2615a_KRV_screenshots_iPhone-5.5_POR-0002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/21/8f/c2/218fc231-4ba2-e62b-c3fe-23c22dbdc808/c7d6f66f-2061-49b6-835d-2ccdaf437f7f_KRV_screenshots_iPhone-5.5_POR-0003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/5a/25/715a25d0-965e-656a-5257-377c679cf0a7/e184c77e-baf0-4c1d-8f33-e8fe31780c26_KRV_screenshots_iPhone-5.5_POR-0004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/af/e6/70/afe67086-8ccf-8702-79d5-9d5a6dcdf538/6a52b028-525f-4408-babd-ae58b7544c8b_KRV_screenshots_iPhone-5.5_POR-0005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/2e/2f/f72e2fc7-ed61-6ca0-b751-aefc5f6e071e/b7c31994-471d-452c-861e-ddeafc0c5115_krv_dinos_2208x1242_ux.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/a5/d1/8ba5d1c0-3a25-2454-079c-1ed5065ce48f/eb593977-d04f-412a-932d-6a62de7f222c_KRV_Pirates-screenshots_4_3_new_POR-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/0b/24/c20b240a-96e5-a77f-3f7c-5ad7aa210773/f930774e-5608-4e74-bcff-c31a6b77b10d_KRV_screenshots_4_3_new_POR-0001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/8a/d1/fa8ad1fe-5fb7-03dc-bd1b-363b66aa44f0/55f88263-29d8-416c-a9b9-a294dd66eece_KRV_screenshots_4_3_new_POR-0003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/41/8b/c6418b69-36ef-5a9d-09f7-cd71276d2275/101c56a8-90a7-4b94-a641-7d79aeb237c6_KRV_screenshots_4_3_new_POR-0004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/51/0c/72510c5c-4077-4854-0d8a-5f8905c8b8ef/993d5dd3-bd09-45d8-857a-b5cdf25cf08c_KRV_screenshots_4_3_new_POR-0005.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/01/d0/9001d0f2-78d5-07ab-7104-f53ec0942e22/780b781a-5587-45a4-a9bd-09a0f40a736e_krv_dinos_2732x2048_ux.jpg/552x414bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AeroPads - Pads & Soundscapes]]></title>
+        <id>AeroPads - Pads &amp; Soundscapes-pt-1764295229069</id>
+        <link href="https://apps.apple.com/pt/app/aeropads-pads-soundscapes/id1612952507?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[Price: 7,99 € → 0,99 €<br/>Orbit Pack: 5,99 € → 0,99 €<br/>Rocket Science Pack: 5,99 € → 0,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/aeropads-pads-soundscapes/id1612952507?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/91/90/12/9190121a-64bb-ca27-286e-22e8b0f948d8/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>7,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 7,99 €]</span>）
+</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Orbit Pack：</strong><span>5,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 5,99 €]</span>
+  </li><li>
+    <strong>Rocket Science Pack：</strong><span>5,99 €</span> → <b>
+  <strong>0,99 €</strong>
+</b><span>[0,99 € ~ 5,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>0,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Orbit Pack：<b>0,99 €</b>
+  </li><li>
+    Rocket Science Pack：<b>0,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Have you ever struggled to find confidence on stage or inspiration in the studio? AeroPads cues immersive pads and soundscapes that inspire and equip you to perform and write your best.
+
+ENHANCE YOUR SOUND. ENGAGE YOUR AUDIENCE.
+Every musician has experienced an empty mix or an awkward transition. When using AeroPads, you instantly add more dimension and character to your sound. With a more immersive mix and the ability to perform smooth and seamless transitions, you will feel more confident while your audience will be more engaged.
+
+FOR EVERY MUSICIAN.
+Pads and soundscapes are a versatile accompaniment to nearly any style of music. Whether you are a soloist or full band, AeroPads will take your sound to the next level. Rock bands, worship teams, wedding singers, producers, songwriters, and instrumentalists are just a few of the many types of musicians that have loved using AeroPads.
+
+DESIGNED FOR THE STAGE. INSPIRED BY SPACE.
+AeroPads features creative and immersive soundscapes paired with a beautiful and intuitive interface, all inspired by the pinnacle of exploration and inspiration: outer space.
+
+CREATIVITY THAT SPARKS CREATIVITY.
+AeroPads aren't your typical pads. Most pads out there are really boring or insanely obnoxious. However, AeroPads features thoughtfully crafted soundscapes that are meticulously fine-tuned with the perfect amount of harmonic and textural movement. Simply put, AeroPads won't step on the toes of your arrangement or get on the nerves of your sound guy (like most other pads out there).
+
+
+Highlighted Features:
+- A beautiful space-inspired interface with a simple and intuitive design.
+- Live View: Every key and three of your favorite patches are instantly accessible (best suited for experimentation, free-flowing sets, and songwriting).
+- Setlist View: Plan and build a detailed setlist (best suited for structured sets and seamless transitions).
+- The iconic Atmosphere Soundpack which includes five unique patches named after and inspired by the layers of Earth's atmosphere. 
+- Three patches can be added to Live View to be made instantly accessible, so there's no need to dig through menus to just to change a patch when performing live.
+- Additional patches and Soundpacks available for purchase.
+- Key-specific pads in multiple tonalities: major, minor, and neutral.
+- Concert pitch adjustment.
+
+
+How to Use:
+01. Cue a pad that matches the key of your musical arrangement.
+02. Play overtop of the accompanying pads and soundcapes.
+03. Enjoy the boost of audience engagement, musician confidence, and creative inspiration.
+
+Pads and soundscapes are intended as a subtle accompaniment to musical arrangements/performances. They are designed to be cued according to the key of the arrangement. Once cued, you'll hear a droning pad centered around the root note with additional harmonic textures within the selected key. The only time a pad's key should change within a song is in the instance of a key change. For best results, mix AeroPads appropriately within the overall mix. When mixed too loud, AeroPads may compete with melodies and the arrangement. When mixed too quietly, AeroPads may be less effective. When mixed appropriately, they will sound awesome.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/5c/14/535c1429-4375-85d7-5de1-939a7f9aa551/58d19abd-380f-4c60-baad-aa33af36c344_A.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/99/3f/ae993f6e-5515-b959-2134-5cde56b8e4c4/d96015a2-a249-42f2-9bd3-113804eb338d_B.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fb/60/70/fb6070d2-4605-40e8-1a66-1d10f636cbc9/5afd5fd8-62b2-44ff-9eb7-d36bbd0bb307_C.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a6/23/da/a623da00-e3c9-6e31-12c1-185827128032/d5d52cc2-d4da-4d45-983b-8cbeff664f65_D.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/be/e4/67bee4e8-553b-d741-a86c-505899f4c149/dceedd5b-b92d-46bf-b344-e15ae64331b5_E.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7a/40/b8/7a40b87e-da43-b5f3-c5d9-66e5fc39f1ac/4072a7df-6bca-4e84-bbde-7f8733d60ab1_F.png/392x696bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trackless Links Pro]]></title>
@@ -3477,145 +4072,5 @@ Isso significa que o Strongbox é gratuito com um conjunto básico de funcionali
 • A Política de Privacidade pode ser encontrada aqui: https://strongboxsafe.com/privacy-policy
 • Os Termos de Uso podem ser encontrados aqui: https://strongboxsafe.com/terms
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ec/ca/f8ecca32-07b9-15ea-6a35-a745e99bef1e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/e6/dd/19e6dd17-479d-6981-d740-522a79e88a3c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/cd/a7/2acda7ad-bc99-54ff-4ec6-d4f12ebf7a0e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a6/4f/30a64fe0-6b47-4396-058c-c3d52b7b55c7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/67/69/146769c9-dabd-78e7-91df-a43c45d7c7b6/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/bd/50/34bd50d0-2c63-fdcd-b856-eaece15d0b2d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/38/a8/c838a847-3746-10f6-dd00-13cd425d33c4/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/f7/01/09f70119-7573-1b63-6070-e0e6298e6128/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/0a/68/3e0a68d7-1a92-ad22-538c-a692f1092872/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/39/da/9739dabf-537d-3bba-191b-a397448ec5fd/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d9/82/87d9829c-4591-2d9e-d69f-7d3151f2cfa6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/49/1f/1f491fda-b90e-ec50-2dd8-4fb22b162d0b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/45/57/7a455764-dbac-ea49-7d97-fd319dd4d7bd/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/c2/ba/46c2badd-4c4e-2ab3-e173-b3f2f9e2129a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ed/8c/33ed8c12-0717-ffd1-99bd-01de5a0e3d09/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/de/93/0fde933a-3be0-5b57-7837-88ec49efb8a1/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/3e/17/4d3e1757-e40b-e022-912d-6c31368b4582/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/24/6a/bd246a3f-3247-5638-fd24-e21ecfd64991/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/55/ce/4e55ce06-b524-5579-98b5-0bcd73345c5c/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RCS - Real Combat Simulator]]></title>
-        <id>RCS - Real Combat Simulator-pt-1764036188469</id>
-        <link href="https://apps.apple.com/pt/app/rcs-real-combat-simulator/id6738282698?uo=4"/>
-        <updated>2025-11-25T02:03:08.469Z</updated>
-        <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/rcs-real-combat-simulator/id6738282698?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/39/63/6e396346-aff9-5700-4828-44d2818a138c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>0,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 0,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    RCS Pro (1 mês)：<b>6,99 €</b>
-  </li><li>
-    RCS Pro (1 ano)：<b>44,99 €</b>
-  </li><li>
-    RCS Pro (6 meses)：<b>34,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  RCS: Real Combat Simulator – Domine os Céus!
-A Experiência de Combate Aéreo Militar Definitiva para Celular
-
-Assuma o controle no simulador de voo militar mais avançado: pilote caças lendários, participe de combates aéreos épicos, domine o combate ar-ar e ar-terra e prove sua habilidade como piloto de combate de elite.
-
-Voe e Lute em Qualquer Lugar do Mundo!!
-
-- Domine decolagens, pousos e missões de combate completas
-- Pilote jatos de última geração com aviônicos realistas e cabines detalhadas
-- Acesse milhares de aeroportos e bases aéreas militares do mundo todo
-- Treine com tutoriais interativos e aprimore suas habilidades de combate
-
-Caças Realistas:
-Voe com aeronaves fielmente recriadas com cabines dinâmicas, física de voo autêntica e sistemas de armas completos
-- A-10C Thunderbolt II – A potência blindada de apoio aéreo aproximado, com o canhão GAU-8 Avenger e capacidade de ataque de precisão.
-- F/A-18 Super Hornet – Um jato multifuncional versátil para porta-aviões com aviônicos avançados e amplo armamento, perfeito para combates aéreos e ataques de precisão.
-- M-346FA Master – Um caça-treinador moderno e ágil, equipado com telas digitais e sensores avançados.
-- F-16C Fighting Falcon – Emblemático caça multifuncional, valorizado por sua velocidade, agilidade e versatilidade. Equipado com radar avançado, controles de voo por sinais elétricos e uma gama de armas de precisão ar-ar e ar-terra.
-Mais aeronaves em breve!
-
-Recursos de Combate Imersivos:
-- Zonas de batalha globais com clima e efeitos de hora do dia reais
-- Radar avançado e sistemas de mira para ameaças aéreas e terrestres
-- Arsenal completo de mísseis, bombas, canhões e contramedidas
-- Manobras de alta velocidade e terreno baseado em satélite
-
-Editor de Missão e Multijogador:
-- Crie missões personalizadas: marque objetivos, controle o clima e defina a IA inimiga
-- Construa suas próprias salas, crie cenários e voe em missões em conjunto no modo multijogador em tempo real
-- Escolha seu Campo de Batalha: selecione entre locais realistas do mundo e bases aéreas militares
-- Compartilhe suas criações e reviva suas melhores batalhas com ferramentas avançadas de replay
-
-Personalize sua experiência:
-- Personalize seu jato com pinturas e padrões de camuflagem autênticos
-- Capture combates aéreos cinematográficos com câmeras avançadas no jogo
-- Compartilhe seus destaques de combate com a comunidade RCS
-
-Conexão com a internet é necessária para a simulação completa e os recursos multijogador. Alguns recursos podem exigir uma assinatura.
-
-Baixe agora o simulador de voo militar definitivo! Pilote caças modernos, participe de intensas missões de combate aéreo e domine os céus no RCS: Real Combat Simulator.
-
-TERMOS DE USO: https://www.rortos.com/terms-of-use/
-Suporte: rcs@rortos.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/f2/57/6af257f2-63a0-e3c9-da91-1ea15ad0f6a3/01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f2/e7/91/f2e791ed-50f2-6907-28e9-58b2ef06b644/06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/bb/34/a5bb34ee-5f1b-3618-6e5d-2c146a66134b/03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/ba/f4/63baf4fe-6067-9847-3400-b642e7d0fad7/04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b9/9d/c6/b99dc62f-23e2-852d-316a-3614e1a2f638/05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/70/db/4270db55-b812-7b1c-2739-e219952b16f4/02.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iStat Menus 7]]></title>
-        <id>iStat Menus 7-pt-1764036188469</id>
-        <link href="https://apps.apple.com/pt/app/istat-menus-7/id6499559693?mt=12&amp;uo=4"/>
-        <updated>2025-11-25T02:03:08.469Z</updated>
-        <summary type="html"><![CDATA[Price: 12,99 € → 6,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/istat-menus-7/id6499559693?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/eb/3d/36eb3d02-7d70-6a95-a496-624fc6abcbd7/AppIconLiquid-0-0-85-220-0-0-6-0-2x-P3.png/60x60bb.png" />
-</a><h2>
-  Discount Information（Price：<span>12,99 €</span> → <b>
-  <strong>6,99 €</strong>
-</b><span>[6,99 € ~ 12,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>6,99 €</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    Yearly Weather Subscription：<b>5,99 €</b>
-  </li><li>
-    Monthly Weather Subscription：<b>0,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  The ultimate system monitor, seamlessly integrated into your menubar.
-
-iStat Menus covers a huge range of stats, including CPU, GPU, memory, network usage, disk usage, time, battery, weather and more. iStat Menus 7 is a full reboot, sporting an all-new design with hundreds of big and small improvements. iStat Menus is unmatched in efficiency, and is the most CPU-friendly system monitoring app.
-
-• CPU and GPU •
-
-Highly detailed CPU info, with current usage for individual cores, history graphs, load averages, uptime, CPU frequency, and a list of the apps using the most CPU. Efficiency and performance cores can be styled differently. Plus, GPU processor, memory, temperature, and frequency on supported Macs.
-
-• Weather • Requires a paid weather subscription •
-
-Quickly glance at current conditions in your menu bar, or dive into an incredibly detailed hourly forecast and weekly weather overview, covering low and high temperature, wind speed and direction, chance of rain, humidity, dew point, UV index, pressure, visibility and more.
-
-• Memory •
-
-Extensive memory stats covering usage, history, memory pressure, compressed memory, swap, and a list of the apps using the most memory.
-
-• Rules •
-
-iStat Menus can notify you of an incredibly wide range of events, based on CPU, GPU, memory, disks, network, sensors, battery, power and weather. This lets you be notified when your public IP has changed, if your internet connection is down, if CPU usage is above 60% for more than 10 seconds, if disk space is low, or a near-infinite range of other options.
-
-• Disk usage and activity •
-
-See used space, free space, and disk activity in your menu bar. S.M.A.R.T. status monitoring, per app disk usage, and more detail for all your disks is only a click away.
-
-• Network •
-
-Keep on top of what’s being sent and received for all network connections with history graphs, current bandwidth usage, and a bandwidth breakdown for the top apps, as well as detailed connection info, bandwidth graphs, public and private IP addresses, and an internet connectivity indicator.
-
-• Battery and power •
-
-Detailed info on your battery’s current state and a highly configurable menu item that can change if you’re draining, charging, or completely charged. Plus, battery levels for Bluetooth devices.
-
-• Sensors •
-
-A realtime listing of the sensors in your Mac, including temperatures, hard drive temperatures (where supported), fans, CPU frequency, GPU frequency (where supported), voltages, current and power. Fan speeds can be controlled, and even switched or gradually ramped based on temperatures and battery state.
-
-• Date and time •
-
-Highly customisable menu bar clocks, a calendar with upcoming events, and world clocks with detailed sun and moon info. Each world clock can have a custom name, to make it easier to see the time for coworkers or family members.
-
-• Combined •
-
-Combined mode combines multiple iStat Menus items into a single menu bar item. You can choose what’s shown in the menu bar and what’s shown in the menu, allowing you to save space in the menu bar while still having access to all the information. It’s super handy on laptops.
-
-Privacy policy:
-https://bjango.com/privacy/
-
-Terms of use:
-https://bjango.com/help/istatmenus7/licenseagreement/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/98/b4/ae98b4e4-01b7-0b4b-03bd-3fe361913e42/1c4bce32-03e3-4718-96fc-d5858f7544e9_app-store-image-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/04/8b/ba048b5b-d01e-76a9-5265-da75d5e51526/953e4499-f593-4bed-b317-2ed6d0826c93_app-store-image-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/81/75/bc8175e1-d2ea-79ed-3901-cf47cae1e227/36e66a44-6cf5-492e-ae14-6d25a388ca68_app-store-image-4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/cb/f4/fecbf4c9-1d36-d667-a848-bc8033012138/10f0342c-3201-482a-add1-b3903405b6ec_app-store-image-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/f8/89/7ff88942-cbc8-94c7-f221-eecd74369150/026588c5-dee9-4edf-8c77-87d49e67f190_app-store-image-5.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>

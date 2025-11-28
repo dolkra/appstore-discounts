@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-11-27T21:35:25.675Z</updated>
+    <updated>2025-11-28T03:07:07.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-27T21:35:25.677Z</updated>
+        <updated>2025-11-28T03:07:07.543Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 27 Nov 2025 21:35:25 GMT</id>
+        <id>rankingcnFri, 28 Nov 2025 03:07:07 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-11-27T21:35:25.677Z</updated>
+        <updated>2025-11-28T03:07:07.544Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -60,7 +60,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1366</b>
       </td>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>684</b>
       </td>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
     </tr>
   </tbody>
@@ -149,7 +149,9 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6754613166">Trackless Links Pro</a>
+        <del>
+          <a href="https://apps.apple.com/cn/app/id6754613166">Trackless Links Pro</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -434,7 +436,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id953426154">Be Focused Pro - Focus Timer</a>
+        <a href="https://apps.apple.com/cn/app/id944118456">Exif Viewer by Fluntro</a>
       </td>
       <td>
         <ul>
@@ -451,7 +453,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id964708975">古诗文网-唐诗宋词古文典籍</a>
+        <a href="https://apps.apple.com/cn/app/id953426154">Be Focused Pro - Focus Timer</a>
       </td>
       <td>
         <ul>
@@ -466,6 +468,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>20</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id964708975">古诗文网-唐诗宋词古文典籍</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -488,7 +507,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1033342465">Just Press Record</a>
@@ -505,7 +524,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1062022008">LumaFusion</a>
@@ -522,7 +541,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1065360416">BimmerLink for BMW and MINI</a>
@@ -545,7 +564,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1067198688">彩云天气Pro</a>
@@ -568,7 +587,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1141282192">Advanced Comprehension Therapy</a>
@@ -585,7 +604,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1250601531">RAW Power</a>
@@ -602,7 +621,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1303222868">Paprika食谱管理3</a>
@@ -619,7 +638,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1344655035">蜡烛人</a>
@@ -642,7 +661,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -665,7 +684,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1449020025">不玩手机-自律习惯养成记</a>
@@ -682,7 +701,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
@@ -699,7 +718,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1473749002">Vergi Akademisi Pro</a>
@@ -716,7 +735,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1497120981">LUCH: Photo Effects & Filters</a>
@@ -733,7 +752,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1512838461">DayCircle - 倒数</a>
@@ -750,7 +769,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1516531425">JSPS APP</a>
@@ -767,7 +786,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1524418421">SessionBand Jazz Fusion</a>
@@ -784,7 +803,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1534488108">SessionBand Jazz 4</a>
@@ -801,7 +820,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1537057699">Solo - Fretboard Visualization</a>
@@ -818,7 +837,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1538124245">哪里哪里</a>
@@ -835,7 +854,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1547418803">Incredibox - 好玩的音乐盒</a>
@@ -852,7 +871,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1547424687">我爱截图 - 微商营销做图工具</a>
@@ -869,7 +888,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1557637265">家园、异星与猎人</a>
@@ -896,7 +915,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1561849298">SessionBand Soul Jazz Funk 3</a>
@@ -913,7 +932,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1564383045">算法导论.助手</a>
@@ -930,7 +949,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1575588022">MenubarX - 强大的菜单栏浏览器</a>
@@ -953,7 +972,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1584313012">笼中窥梦</a>
@@ -970,7 +989,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
@@ -987,7 +1006,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1591620171">Stay for Safari - 浏览器伴侣</a>
@@ -1010,7 +1029,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -1035,7 +1054,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1626320298">极速变色龙</a>
@@ -1052,7 +1071,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
@@ -1069,7 +1088,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1665759338">坐在罐子里的人</a>
@@ -1086,7 +1105,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6449930220">Wafari  手表浏览器</a>
@@ -1103,7 +1122,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6702013134">FOCUS - 猫猫专注计时器和学习番茄钟</a>
@@ -1120,7 +1139,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6480501528">TODO：猫咪待办事项 & 提醒事项 & 备忘录</a>
@@ -1137,7 +1156,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742221550">魔卡棋旅</a>
@@ -1154,7 +1173,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446607609">佛系传奇:君王天下</a>
@@ -1171,7 +1190,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -1188,7 +1207,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6746649752">MagicKit Pro：AI智能工具箱</a>
@@ -1205,7 +1224,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6740115177">破门而入：行动小队</a>
@@ -1222,7 +1241,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6503932402">超声智学</a>
@@ -1239,7 +1258,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -1264,7 +1283,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6499198824">蜂软扫描 - 全能扫描仪</a>
@@ -1281,7 +1300,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6447090616">Whisper Notes - 离线AI语音识别转录成文字</a>
@@ -1298,7 +1317,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6499559693">iStat Menus 7</a>
@@ -1315,7 +1334,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749698268">小易决策-选择困难小救星</a>
@@ -1345,7 +1364,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6749845582">NPD知识普及</a>
+        <a href="https://apps.apple.com/cn/app/id6754613166">Trackless Links Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1354,7 +1373,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6745578435">正版传奇-鸡哥爆款表情包之战,多开打金高爆超变至尊极品传世界</a>
+        <a href="https://apps.apple.com/cn/app/id6749845582">NPD知识普及</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1363,7 +1382,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1133083101">实时天气Pro -国家天气预报&空气质量</a>
+        <a href="https://apps.apple.com/cn/app/id6745578435">正版传奇-鸡哥爆款表情包之战,多开打金高爆超变至尊极品传世界</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1372,7 +1391,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id319295332">TuneIn Radio Pro</a>
+        <a href="https://apps.apple.com/cn/app/id1133083101">实时天气Pro -国家天气预报&空气质量</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1381,7 +1400,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id519561306">ATracker PRO - 每日时间管理</a>
+        <a href="https://apps.apple.com/cn/app/id319295332">TuneIn Radio Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1390,7 +1409,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
+        <a href="https://apps.apple.com/cn/app/id519561306">ATracker PRO - 每日时间管理</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1399,7 +1418,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
+        <a href="https://apps.apple.com/cn/app/id1567658979">SkySafari 7 Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1408,7 +1427,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
+        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1417,7 +1436,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id403684733">Badoo高级版</a>
+        <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1426,7 +1445,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id406541444">8毫米相机</a>
+        <a href="https://apps.apple.com/cn/app/id403684733">Badoo高级版</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1435,7 +1454,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/cn/app/id406541444">8毫米相机</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1444,7 +1463,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id916976066">短语键盘</a>
+        <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1453,7 +1472,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id918609651">Money Pro: Personal Finance AR</a>
+        <a href="https://apps.apple.com/cn/app/id916976066">短语键盘</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1462,7 +1481,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
+        <a href="https://apps.apple.com/cn/app/id918609651">Money Pro: Personal Finance AR</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1471,7 +1490,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1095903651">【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1480,7 +1499,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1217732174">TA - 一对一聊天，遇见对的人</a>
+        <a href="https://apps.apple.com/cn/app/id1095903651">【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1489,7 +1508,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
+        <a href="https://apps.apple.com/cn/app/id1217732174">TA - 一对一聊天，遇见对的人</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1498,7 +1517,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1439881811">RadarOmega</a>
+        <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1507,7 +1526,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1551263854">打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业</a>
+        <a href="https://apps.apple.com/cn/app/id1439881811">RadarOmega</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1516,7 +1535,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1576329230">传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说</a>
+        <a href="https://apps.apple.com/cn/app/id1551263854">打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1525,7 +1544,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
+        <a href="https://apps.apple.com/cn/app/id1576329230">传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1534,7 +1553,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
+        <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1543,7 +1562,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
+        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1552,7 +1571,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
+        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1561,16 +1580,16 @@ feedId:157007849019630592+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
+        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
+        <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1579,7 +1598,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1444383602">Goodnotes 6：笔记，PDF，AI</a>
+        <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1588,7 +1607,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1473785373">钱迹记账-无广告自动记账软件 & 预算 & 资产管理</a>
+        <a href="https://apps.apple.com/cn/app/id1444383602">Goodnotes 6：笔记，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1597,7 +1616,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
+        <a href="https://apps.apple.com/cn/app/id1473785373">钱迹记账-无广告自动记账软件 & 预算 & 资产管理</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1606,7 +1625,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1615,7 +1634,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id598581396">Kingdom Rush Frontiers 塔防史诗冒险</a>
+        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1624,7 +1643,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
+        <a href="https://apps.apple.com/cn/app/id598581396">Kingdom Rush Frontiers 塔防史诗冒险</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1633,7 +1652,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1642,7 +1661,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1651,7 +1670,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
+        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1660,7 +1679,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
+        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1669,7 +1688,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
+        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1678,7 +1697,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1687,7 +1706,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1696,7 +1715,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
+        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1705,7 +1724,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
+        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1714,7 +1733,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
+        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1723,7 +1742,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
+        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1732,7 +1751,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
+        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1741,12 +1760,78 @@ feedId:157007849019630592+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>46</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1659622164">VidHub - 高清影片视频播放器，快速播放云盘网盘</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Exif Viewer by Fluntro]]></title>
+        <id>Exif Viewer by Fluntro-cn-1764295229069</id>
+        <link href="https://apps.apple.com/cn/app/exif-viewer-by-fluntro/id944118456?uo=4"/>
+        <updated>2025-11-28T02:00:29.069Z</updated>
+        <summary type="html"><![CDATA[价格: ¥22.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/exif-viewer-by-fluntro/id944118456?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/76/b2/4a76b20d-8797-06e8-2886-870723512881/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥22.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥22.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥8.00</b>
+</p><h2>应用描述</h2><p>
+  由Apple推荐在美国和加拿大的App Store上。享受一次性购买，终身访问—无需订阅。
+Fluntro的EXIF Viewer是专业摄影师和iPhone爱好者查看、管理和编辑EXIF元数据的终极工具。凭借简洁的设计和流畅的功能，此应用程序在所有iOS设备（iPhone、iPad、iPod Touch）上提供和谐的体验。
+
+主要功能：
+• 删除EXIF元数据和地理标签：通过轻松删除EXIF数据（包括GPS位置），保护您的隐私。
+• 查看详细的EXIF数据：轻松访问重要的元数据，如ISO、快门速度、焦距、相机型号、镜头型号、时间戳、光圈等，适用于您设备中的任何照片、iCloud或Photo Stream。
+• 放大大照片：享受高达80 MB的高清晰度图像。
+• 自定义您的EXIF标签：通过重新排列EXIF标签、隐藏不需要的标签以及选择您的首选日期格式来个性化您的查看体验。
+• 快速导航：在EXIF详细信息屏幕上，轻松向左或向右滑动即可在照片之间切换。
+• 地图视图：通过点击每张照片，查看带有详细EXIF信息的照片在地图上的位置。
+• 批量编辑EXIF数据：高效地为多张照片修改EXIF元数据，包括日期和位置的更改。
+• 有或没有EXIF数据分享照片：通过电子邮件、AirDrop或其他方式轻松分享照片，无论是否带有EXIF元数据。
+• 复制EXIF数据：轻松复制和分享元数据至不同应用程序。
+• 保留EXIF元数据：通过邮件、AirDrop或SD卡读取器发送的照片将保留EXIF元数据，不像大多数消息和社交网络应用程序。
+
+其他功能：
+• 支持3D Touch：在支持的iPhone上快速访问收藏夹、相册或所有照片等操作。
+• 针对所有iOS设备进行了优化：兼容iPad Pro、iPhone SE、iPhone 8及更新机型，并支持横向和纵向模式。
+• 多种查看选项：根据您的偏好，选择EXIF卡片列表视图、网格视图或地图视图。
+• 照片扩展：在原生照片应用或第三方应用中，选择照片并点击分享按钮，即可直接访问EXIF数据。
+• 支持iMessage应用：轻松查看和分享EXIF数据到您的消息中。
+
+编辑和删除EXIF元数据：
+• 批量编辑EXIF数据：选择多张照片，点击“编辑EXIF”，并更新元数据，如日期和位置。
+• 删除EXIF元数据：
+
+    1.覆盖原始照片以删除EXIF元数据。
+    2.创建不带EXIF数据的副本照片，并可选择删除原始照片。
+
+常见问题解答
+什么是EXIF元数据？
+EXIF是可交换图像文件格式的缩写。当您使用数码相机或手机拍摄照片时，会有大量的EXIF数据被记录并存储在每张图片中。这些数据包括相机设置的信息（ISO、光圈、焦距、图像尺寸、快门速度、相机型号、镜头型号、GPS）、日期、时间、位置等。查看EXIF元数据标签对于初学者和专业摄影师都至关重要，能帮助他们了解并回顾创建和编辑照片时使用的相机设置或软件。
+
+为什么选择Fluntro的EXIF Viewer？
+• 无应用内购买：仅需一次性购买，即可享受当前和未来的所有功能—无隐藏费用。
+• 为专业摄影师设计：深入了解您的摄影作品，通过删除敏感元数据保护您的隐私。
+• 隐私优先：您的照片安全地存储在手机上，永远不会上传到我们的服务器。详情请查看我们的隐私政策。
+
+用户评价：
+如果您对该应用感到满意，请考虑留下五星好评。您的反馈帮助我们改进并确保为所有用户提供最佳体验。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/43/17/54/4317549b-a099-bc68-1c29-317798c0c8d0/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/c2/89/f3c28921-ee3f-b39d-6d6d-947fecbce36c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ef/b2/99/efb29964-28be-5f6e-c393-aae57d0d70f9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4f/1e/b7/4f1eb7a6-5cf3-44d6-e5b0-36fff867f877/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/cc/3e/ee/cc3eee57-0109-9c36-9784-61986184e72f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ae/2e/71/ae2e7151-926e-c857-0631-7d12cf08c059/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/35/19/5a/35195a38-9929-f84b-921c-048582cf7faf/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/45/89/d3/4589d3ae-8ceb-7b96-4e3e-8adac8ea9421/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c2/ca/34/c2ca34ec-f7ea-a035-a855-3b4ca13b4230/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2a/e3/72/2ae37295-78dd-c1ab-71b7-c453524a59a8/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/42/c8/92/42c89277-e551-1c1d-8950-c90dd5e58033/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/16/f6/5216f69a-5b33-10d1-a52b-4f283774d74e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/20/dc/ae/20dcae3a-0b74-bbff-38b1-8cb635492f8a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/ab/b5/a7/abb5a77d-a26c-3cac-0989-edfc34712f60/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/35/df/d135dfad-bc4d-a22a-cabd-d6900663c9ee/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fe/74/64/fe7464a6-8ce1-bf4b-21fe-dc6b4da037e3/pr_source.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trackless Links Pro]]></title>
@@ -2557,77 +2642,5 @@ RAW Power 也可从 Mac App Store 获得，提供照片应用扩展和独立应�
 
 Gentlemen Coders 由 Apple 前任高级工程总监成立。如需更多信息，请访问 www.gentlemencoders.com。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/74/81/b5/7481b509-f4c2-ebf3-6b3b-080499ed1bcc/bea14d38-8d1e-4346-a013-511a4e94351b_1-Organize.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/37/db/56/37db5628-039c-377e-5272-331167608672/f2a8c52f-3ab9-449f-af65-ee1610a3ae6c_2-Files.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5a/0b/d1/5a0bd17d-4efc-c3fc-0e55-67e95df25481/472a5f8f-5abd-47da-ae5e-a0e456cc8f1b_3-Edit.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ff/d9/f6/ffd9f62c-bd5d-05cc-ff00-c92ae14fbc2f/081c390f-31be-45e9-b4c8-da98653dd70e_4-Filtering.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/03/d4/91/03d49189-2dd9-91f1-be7f-8bbc7f60d3fe/39b0428d-6313-4a03-b120-9b1c64e079d7_5-Roundtripping.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/6e/dc/e7/6edce778-792d-a78a-18d8-df25aa854ec9/ceaf150a-06e1-4754-9910-689c7609849c_6-AWB.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/cd/ef/67/cdef674d-f301-50b5-67b3-35cf287203ef/514c532e-f04b-487c-a0d7-1913edb50899_7-Batch.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c6/22/a2/c622a2c2-b9da-cfc9-0fae-0bffebc40134/d99e329f-7f51-4c61-8c50-a97312609d0d_8-Presets.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/47/cc/92/47cc9272-afe9-7284-4b13-e19838bc2a32/872f577d-74da-4411-9c79-6033ae4f689d_9-Depth.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/77/00/c4/7700c4ba-e310-30cf-5d69-2a96a639ccc3/74e99866-ec31-4f3d-be87-e651ea4d11f1_1-Organize.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/f9/e9/56/f9e95606-be58-32bd-0a95-a4aa297246e1/2658bbab-8053-48e7-ac6a-af48626d875a_2-Files.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/17/c5/e2/17c5e235-1fb6-b579-3b16-523b87ef5327/332e785d-b48e-4bb0-8013-e6f358394adc_3-Edit.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/21/bf/01/21bf01f3-51b7-d501-4fb1-73e79862c9c0/8d79eb9a-f76e-4d1e-8d64-cd12567c1ae4_4-Rating.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/b1/f7/74/b1f7749d-bc24-7fff-7ed1-3824c21581b2/7011dce2-1713-4c70-8756-f8e86fbd9b83_5-Roundtripping.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/f3/34/7c/f3347cab-f53a-36bc-a114-384b8a2e37ac/305caafb-ba33-49bb-9f30-82c4b3112b7f_6-AWB.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/9f/f0/c1/9ff0c162-79e3-798d-1193-ee30c5674044/e9d8602a-04a1-4e8a-bc58-012ec0fa1df0_7-Batch.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/1e/ee/78/1eee7822-0dfa-79c2-f5c1-5026ace01047/6fe5aa65-61ae-4359-be9b-7a5522c688a6_8-Presets.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/08/43/cc/0843cca0-0ddf-9031-8d75-4ce1ec081612/5342a875-01db-4e7b-b1cd-21d3dd07b9b0_9-Info.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/c4/fd/d4/c4fdd4bf-e719-adda-308d-514ccd132935/8f017309-67be-4d0c-a0e9-d6c79d3e8be3_10-Depth.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iStat Menus 7]]></title>
-        <id>iStat Menus 7-cn-1764036188469</id>
-        <link href="https://apps.apple.com/cn/app/istat-menus-7/id6499559693?mt=12&amp;uo=4"/>
-        <updated>2025-11-25T02:03:08.469Z</updated>
-        <summary type="html"><![CDATA[价格: ¥88.00 → ¥38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/istat-menus-7/id6499559693?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/eb/3d/36eb3d02-7d70-6a95-a496-624fc6abcbd7/AppIconLiquid-0-0-85-220-0-0-6-0-2x-P3.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>¥88.00</span> → <b>
-  <strong>¥38.00</strong>
-</b><span>[¥38.00 ~ ¥88.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥38.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Yearly Weather Subscription：<b>¥38.00</b>
-  </li><li>
-    Monthly Weather Subscription：<b>¥8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  The ultimate system monitor, seamlessly integrated into your menubar.
-
-iStat Menus covers a huge range of stats, including CPU, GPU, memory, network usage, disk usage, time, battery, weather and more. iStat Menus 7 is a full reboot, sporting an all-new design with hundreds of big and small improvements. iStat Menus is unmatched in efficiency, and is the most CPU-friendly system monitoring app.
-
-• CPU and GPU •
-
-Highly detailed CPU info, with current usage for individual cores, history graphs, load averages, uptime, CPU frequency, and a list of the apps using the most CPU. Efficiency and performance cores can be styled differently. Plus, GPU processor, memory, temperature, and frequency on supported Macs.
-
-• Weather • Requires a paid weather subscription •
-
-Quickly glance at current conditions in your menu bar, or dive into an incredibly detailed hourly forecast and weekly weather overview, covering low and high temperature, wind speed and direction, chance of rain, humidity, dew point, UV index, pressure, visibility and more.
-
-• Memory •
-
-Extensive memory stats covering usage, history, memory pressure, compressed memory, swap, and a list of the apps using the most memory.
-
-• Rules •
-
-iStat Menus can notify you of an incredibly wide range of events, based on CPU, GPU, memory, disks, network, sensors, battery, power and weather. This lets you be notified when your public IP has changed, if your internet connection is down, if CPU usage is above 60% for more than 10 seconds, if disk space is low, or a near-infinite range of other options.
-
-• Disk usage and activity •
-
-See used space, free space, and disk activity in your menu bar. S.M.A.R.T. status monitoring, per app disk usage, and more detail for all your disks is only a click away.
-
-• Network •
-
-Keep on top of what’s being sent and received for all network connections with history graphs, current bandwidth usage, and a bandwidth breakdown for the top apps, as well as detailed connection info, bandwidth graphs, public and private IP addresses, and an internet connectivity indicator.
-
-• Battery and power •
-
-Detailed info on your battery’s current state and a highly configurable menu item that can change if you’re draining, charging, or completely charged. Plus, battery levels for Bluetooth devices.
-
-• Sensors •
-
-A realtime listing of the sensors in your Mac, including temperatures, hard drive temperatures (where supported), fans, CPU frequency, GPU frequency (where supported), voltages, current and power. Fan speeds can be controlled, and even switched or gradually ramped based on temperatures and battery state.
-
-• Date and time •
-
-Highly customisable menu bar clocks, a calendar with upcoming events, and world clocks with detailed sun and moon info. Each world clock can have a custom name, to make it easier to see the time for coworkers or family members.
-
-• Combined •
-
-Combined mode combines multiple iStat Menus items into a single menu bar item. You can choose what’s shown in the menu bar and what’s shown in the menu, allowing you to save space in the menu bar while still having access to all the information. It’s super handy on laptops.
-
-Privacy policy:
-https://bjango.com/privacy/
-
-Terms of use:
-https://bjango.com/help/istatmenus7/licenseagreement/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ae/98/b4/ae98b4e4-01b7-0b4b-03bd-3fe361913e42/1c4bce32-03e3-4718-96fc-d5858f7544e9_app-store-image-1.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/04/8b/ba048b5b-d01e-76a9-5265-da75d5e51526/953e4499-f593-4bed-b317-2ed6d0826c93_app-store-image-2.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bc/81/75/bc8175e1-d2ea-79ed-3901-cf47cae1e227/36e66a44-6cf5-492e-ae14-6d25a388ca68_app-store-image-4.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fe/cb/f4/fecbf4c9-1d36-d667-a848-bc8033012138/10f0342c-3201-482a-add1-b3903405b6ec_app-store-image-3.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/f8/89/7ff88942-cbc8-94c7-f221-eecd74369150/026588c5-dee9-4edf-8c77-87d49e67f190_app-store-image-5.png/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
