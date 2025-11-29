@@ -8472,6 +8472,23 @@
     "history": [
       [
         {
+          "timestamp": 1764426218022,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mix It Up": "0,00 €",
+            "The Ellen Show": "0,00 €",
+            "Happy Holidays": "1,99 €",
+            "Just For Kids": "0,00 €",
+            "Ellen Premiere Week in NYC": "1,99 €",
+            "Build Your Own Deck": "2,99 €",
+            "Good News!": "2,99 €",
+            "Ocean Vacation": "0,00 €",
+            "Wish You Were Here": "1,99 €",
+            "Express Yourself": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1764420659459,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -24990,10 +25007,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764426218022,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -31596,6 +31621,25 @@
       "Opposing Fronts - Russian": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764426218022,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "Spanish Audio": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "Russian Audio": "0,00 €",
+            "Opposing Fronts - Russian": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763800312129,
