@@ -2741,16 +2741,53 @@
       "price": 9.99,
       "formattedPrice": "9,99 €",
       "Pacote Premium": "149,99 €",
-      "Pacote Padrão": "24,99 €"
+      "Pacote Padrão": "24,99 €",
+      "15M chips": "22,99 €",
+      "5M chips": "9,99 €",
+      "50M chips": "59,99 €",
+      "150M chips": "99,99 €",
+      "1M chips": "2,99 €",
+      "Caixa-forte de fichas": "99,99 €",
+      "Grande pilha de fichas": "9,99 €",
+      "Caixa de fichas": "22,99 €",
+      "100k chips": "0,99 €",
+      "Grande monte de fichas": "2,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €",
       "Pacote Premium": "149,99 €",
-      "Pacote Padrão": "24,99 €"
+      "Pacote Padrão": "24,99 €",
+      "15M chips": "22,99 €",
+      "5M chips": "9,99 €",
+      "50M chips": "59,99 €",
+      "150M chips": "99,99 €",
+      "1M chips": "2,99 €",
+      "Caixa-forte de fichas": "99,99 €",
+      "Grande pilha de fichas": "9,99 €",
+      "Caixa de fichas": "22,99 €",
+      "100k chips": "0,99 €",
+      "Grande monte de fichas": "2,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1764433856253,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "15M chips": "22,99 €",
+            "5M chips": "9,99 €",
+            "50M chips": "59,99 €",
+            "150M chips": "99,99 €",
+            "1M chips": "2,99 €",
+            "Caixa-forte de fichas": "99,99 €",
+            "Grande pilha de fichas": "9,99 €",
+            "Caixa de fichas": "22,99 €",
+            "100k chips": "0,99 €",
+            "Grande monte de fichas": "2,99 €"
+          }
+        },
         {
           "timestamp": 1764420659459,
           "price": 9.99,
@@ -31623,6 +31660,23 @@
     "history": [
       [
         {
+          "timestamp": 1764433856253,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1764426218022,
           "price": 14.49,
           "formattedPrice": "14,49 €",
@@ -40716,7 +40770,8 @@
       "Kotte PQ 32000": "1,19 €",
       "Claas Xerion 5000": "2,49 €",
       "JCB 541-70 AGRI PRO": "2,49 €",
-      "Farmet Fantom 1250 Pro": "1,19 €"
+      "Farmet Fantom 1250 Pro": "1,19 €",
+      "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "minPriceInfo": {
       "price": 7.99,
@@ -40740,10 +40795,28 @@
       "Kotte PQ 32000": "1,19 €",
       "Claas Xerion 5000": "2,49 €",
       "JCB 541-70 AGRI PRO": "2,49 €",
-      "Farmet Fantom 1250 Pro": "1,19 €"
+      "Farmet Fantom 1250 Pro": "1,19 €",
+      "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1764433856253,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Mack Trucks Black Anthem 6x4": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Versatile 4WD 620": "2,49 €"
+          }
+        },
         {
           "timestamp": 1764412011508,
           "price": 7.99,
