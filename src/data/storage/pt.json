@@ -12520,6 +12520,14 @@
     "history": [
       [
         {
+          "timestamp": 1764469234125,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764295229069,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -23970,6 +23978,14 @@
     "history": [
       [
         {
+          "timestamp": 1764469234125,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1763690445517,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -33918,6 +33934,14 @@
     "history": [
       [
         {
+          "timestamp": 1764469234125,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764208839027,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -40801,6 +40825,25 @@
     "history": [
       [
         {
+          "timestamp": 1764469234125,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Case IH Speed-Tiller": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Mack Trucks Black Anthem 6x4": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "John Deere 8R 410": "2,49 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1764433856253,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -42842,14 +42885,22 @@
   "6748850927": {
     "name": "PowerNFC",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764469234125,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764052847796,
