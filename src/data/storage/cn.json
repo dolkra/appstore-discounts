@@ -6980,6 +6980,27 @@
       ]
     ]
   },
+  "368169363": {
+    "name": "Tempo Advance - Metronome",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764614589849,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "372731237": {
     "name": "Fusion Calculator",
     "maxPriceInfo": {
@@ -135426,7 +135447,7 @@
       "formattedPrice": "¥22.00",
       "Raider Mk. 3": "¥98.00",
       "Raider Mk. 2": "¥88.00",
-      "Raider Mk. 1": "¥8.00",
+      "Raider Mk. 1": "¥38.00",
       "Raider Weekly": "¥15.00"
     },
     "minPriceInfo": {
@@ -135438,6 +135459,19 @@
       "Raider Weekly": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764614589849,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Raider Mk. 1": "¥38.00",
+            "Raider Mk. 2": "¥58.00",
+            "Raider Mk. 3": "¥68.00",
+            "Raider Weekly": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764009546086,

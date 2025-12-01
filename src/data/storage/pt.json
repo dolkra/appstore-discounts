@@ -2264,6 +2264,27 @@
       ]
     ]
   },
+  "368169363": {
+    "name": "Tempo Advance - Metrônomo",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764614589849,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "372731237": {
     "name": "Fusion Calculator",
     "maxPriceInfo": {
@@ -32794,6 +32815,15 @@
     "history": [
       [
         {
+          "timestamp": 1764614589849,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Orbit Pack": "0,99 €",
+            "Rocket Science Pack": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1764556138236,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -34794,6 +34824,27 @@
           "timestamp": 1761797674362,
           "price": 25,
           "formattedPrice": "25,00 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1672882866": {
+    "name": "METAL SLUG 2 ACA NEOGEO",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764614589849,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -43258,7 +43309,7 @@
       "formattedPrice": "2,99 €",
       "Raider Mk. 3": "22,99 €",
       "Raider Mk. 2": "12,99 €",
-      "Raider Mk. 1": "0,99 €",
+      "Raider Mk. 1": "5,99 €",
       "Raider Weekly": "1,99 €"
     },
     "minPriceInfo": {
@@ -43270,6 +43321,19 @@
       "Raider Weekly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764614589849,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 1": "5,99 €",
+            "Raider Mk. 2": "9,99 €",
+            "Raider Mk. 3": "9,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764001852689,
