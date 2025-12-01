@@ -26351,8 +26351,8 @@
   "1481853033": {
     "name": "Strongbox Pro",
     "maxPriceInfo": {
-      "price": 89.99,
-      "formattedPrice": "89,99 €",
+      "price": 149.99,
+      "formattedPrice": "149,99 €",
       "Annual Tip": "20,49 €",
       "Monthly Tip": "2,99 €",
       "Huge Tip": "229,99 €",
@@ -26373,6 +26373,22 @@
       "Little Tip": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764607063577,
+          "price": 149.99,
+          "formattedPrice": "149,99 €",
+          "inAppPurchases": {
+            "Annual Tip": "20,49 €",
+            "Monthly Tip": "2,99 €",
+            "Huge Tip": "229,99 €",
+            "Large Tip": "99,99 €",
+            "Medium Tip": "22,99 €",
+            "Small Tip": "9,99 €",
+            "Little Tip": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764059795706,
