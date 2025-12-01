@@ -87775,10 +87775,18 @@
       "formattedPrice": "USD 0.39"
     },
     "minPriceInfo": {
-      "price": 0.39,
-      "formattedPrice": "USD 0.39"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764578380709,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745568184983,
@@ -100953,11 +100961,17 @@
       "formattedPrice": "USD 22.00"
     },
     "minPriceInfo": {
-      "price": 17.49,
-      "formattedPrice": "USD 17.49"
+      "price": 17,
+      "formattedPrice": "USD 17.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1764578380709,
+          "price": 17,
+          "formattedPrice": "USD 17.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1764520263711,
           "price": 22,

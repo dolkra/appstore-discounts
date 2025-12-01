@@ -25362,7 +25362,7 @@
       "formattedPrice": "4,99 €",
       "Explorer Pack": "11,99 €",
       "The Complete Collection": "39,99 €",
-      "Speed Die": "7,99 €",
+      "Speed Die": "14,99 €",
       "New York 2121 Board": "5,99 €",
       "Welcome Offer": "19,99 €",
       "New York 2121": "7,99 €",
@@ -25436,6 +25436,25 @@
       "Snowdrop Valley Board": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764578380709,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Speed Die": "14,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "5,99 €",
+            "Golden Dice": "4,99 €",
+            "Snowdrop Valley Board": "5,99 €",
+            "New York 2121": "7,99 €",
+            "Euro Trip": "2,99 €",
+            "Theme Collection": "19,99 €",
+            "Promotion": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764484709991,
@@ -34688,11 +34707,17 @@
       "formattedPrice": "25,00 €"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "19,99 €"
+      "price": 19,
+      "formattedPrice": "19,00 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1764578380709,
+          "price": 19,
+          "formattedPrice": "19,00 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1764556138236,
           "price": 25,
