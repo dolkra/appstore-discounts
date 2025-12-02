@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-12-01T21:37:19.843Z</updated>
+    <updated>2025-12-02T06:03:57.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-01T21:37:19.845Z</updated>
+        <updated>2025-12-02T06:03:57.147Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 01 Dec 2025 21:37:19 GMT</id>
+        <id>rankingusTue, 02 Dec 2025 06:03:57 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-01T21:37:19.845Z</updated>
+        <updated>2025-12-02T06:03:57.147Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1576</b>
+        <b>1577</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1375</b>
+        <b>1376</b>
       </td>
       <td>
         <b>72</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1452</b>
+        <b>1453</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1276</b>
+        <b>1277</b>
       </td>
       <td>
         <b>58</b>
@@ -95,14 +95,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id364876095">Jump Desktop (RDP, VNC, Fluid)</a>
+        <a href="https://apps.apple.com/us/app/id325307477">AudioTools, dB, Sound & Audio</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>SPL Graph Module</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -112,7 +118,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1160943124">Speech to Text : Voice to Text</a>
+        <a href="https://apps.apple.com/us/app/id364876095">Jump Desktop (RDP, VNC, Fluid)</a>
       </td>
       <td>
         <ul>
@@ -129,7 +135,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1461652639">iSocketTool</a>
+        <a href="https://apps.apple.com/us/app/id1160943124">Speech to Text : Voice to Text</a>
       </td>
       <td>
         <ul>
@@ -146,7 +152,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1560779038">伤寒论条阅</a>
+        <a href="https://apps.apple.com/us/app/id1461652639">iSocketTool</a>
       </td>
       <td>
         <ul>
@@ -163,7 +169,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
+        <a href="https://apps.apple.com/us/app/id1560779038">伤寒论条阅</a>
       </td>
       <td>
         <ul>
@@ -178,6 +184,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -202,7 +225,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1672085276">Aiko</a>
@@ -753,6 +776,138 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[AudioTools, dB, Sound & Audio]]></title>
+        <id>AudioTools, dB, Sound &amp; Audio-us-1764650198088</id>
+        <link href="https://apps.apple.com/us/app/audiotools-db-sound-audio/id325307477?uo=4"/>
+        <updated>2025-12-02T04:36:38.088Z</updated>
+        <summary type="html"><![CDATA[SPL Graph Module: $12.99 → $9.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/audiotools-db-sound-audio/id325307477?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/cc/55/0dcc55ce-13d1-1254-15a9-99a294f5f17d/AudioTools_Icons-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>SPL Graph Module：</strong><span>$12.99</span> → <b>
+  <strong>$9.99</strong>
+</b><span>[$9.99 ~ $12.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$19.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    SPL Pro Module：<b>$7.99</b>
+  </li><li>
+    SoundScope VR：<b>$24.99</b>
+  </li><li>
+    SPL Graph Module：<b>$9.99</b>
+  </li><li>
+    Polarity Test Module：<b>$3.99</b>
+  </li><li>
+    ETC Module：<b>$5.99</b>
+  </li><li>
+    SPL Traffic Light：<b>$9.99</b>
+  </li><li>
+    VU Meter：<b>$2.99</b>
+  </li><li>
+    Speaker Distortion：<b>$5.99</b>
+  </li><li>
+    All-In Module Access：<b>$9.99</b>
+  </li><li>
+    IR Module：<b>$49.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  AudioTools from Studio Six Digital is a suite of professional-grade audio and acoustic analysis apps. Included in the price of this app is a great collection of professional tools -- SPL, RTA, FFT, Speaker Polarity Test, Generator, Audio Scope, CLF Viewer, and Recorder, and the framework to add more powerful modules as you need them.
+
+Customize AudioTools for your needs by buying any of the additional optional modules, like Smaart Tools I, SPL Graph, or Impulse Response, at any time right from your iOS device.
+
+We test every iOS device and calibrate the microphone level and frequency response for the best results. We have the ability to turn off the Apple low frequency filters, and on many devices we can measure up to 120 dB SPL.
+
+Add iTestMic, iPrecisionMic, or iAudioInterface2 for a complete professional audio and acoustic test and measurement platform.
+
+Actual reviews:
+
+“...AudioTools is a “how did I ever live without it” app”.
+
+“I think this application is the best I EVER purchased.”
+
+“I have used many thousands of dollars of complicated test equipment that doesn’t measure up to this app suite.”
+
+***** Included in the app price *****
+
+* SPL Meter
+A faithful reproduction of a classic analog SPL meter. Includes A and C weighting, and Fast and Slow ANSI decay modes. All filters meet or exceed ANSI type 1.
+
+* RTA
+A 1/3 and octave band Real Time Analyzer. Includes touch-GUI range control, a cursor, max/min bars, and noise curve overlays. 
+
+* FFT
+Detailed acoustic analysis, up to 32876 points. View full detail or smooth to 1/24, 1/6, 1/3 or octave. Includes cursor, scalable graphics, and peak tracking.
+
+* Polarity
+Speaker polarity checker. Route the test signal to a speaker, and read the polarity of the speaker on the screen.
+
+* CLF Viewer
+Show loudspeaker data, including plots for impedance, axial response, sensitivity, polar response, and 6dB coverage, and a 3D color balloon plot. 
+
+* Delay Finder
+Measures the time it takes for a pulse to return from a speaker. 
+
+* Generator
+Generates sine waves, square waves, white and pink noise.
+
+* Line Level Tests
+A line level measurement function and frequency counter.
+
+* Audio Scope
+A dual-channel audio oscilloscope that includes auto-triggering, variable gain and sweep rate, and storage of scope images.
+
+* Recorder
+A mono/stereo audio recorder with WAV and compressed formats and 8k-48k sample rate. Transfer files via WIFI.
+
+* File transfer of results via wifi to PC / Mac.
+
+* Audio Calculators
+
+***** Optional modules available for purchase from within AudioTools *****
+
+* SoundScope VR - FFT-based audio analyzer with VR.
+The powerful acoustical analysis module. Includes RTA graphs to 1/48th octave and Spectrograph, and can display VR.
+
+* Transfer Function -- Requires 2-channel interface. 
+Two-channel FFT-based measurement. Allows you to analyze sound system performance with music or pink noise as the signal source.
+
+* ETC
+Energy Time Curve. Plot decay of an impulse over time, and compute RT60 time. Internal or External trigger.
+
+* Impulse Response
+Record and analyze an impulse or sine sweep, compute octave and 1/3 octave ETC, T30, C50, C80, CT, Definition.
+
+* LARSA
+Fast and accurate sine-sweep measurement of loudspeakers and rooms.
+
+* SPL Pro
+Digital SPL meter with ANSI Slow, Fast, Peak, and Impulse mode, along with LEQ. Includes A and C weighting, and all 10 octave band filters.
+
+* SPL Graph
+Plot second-by-second SPL level for up to 24 hours, and optionally record the audio. Also, add the optional Octave Band Logging upgrade to elevate this tool to rival any professional logging SPL Meter.
+
+* SPL Traffic Light
+Monitor live sound levels SPL and Leq and see status in a simple green-yellow-red display.
+
+* STIPA Speech Intelligibility
+Meets the current NFPA code standards for testing evac systems and schools.
+
+* Speaker Distortion
+Measure THD+n of any driver.
+
+* THD+n (requires iAudioInterface)
+
+* Impedance Meter and Plot (requires iAudioInterface)
+
+* Phase Meter
+
+* Amplitude Sweep
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/ac/b2/a9acb248-4373-c498-0cff-f9ddfcfdf56b/mzl.ubxhkmvf.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1d/cc/b8/1dccb849-db31-a343-9829-390b6edde2b4/mzl.ocsyxbyz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/99/f6/1f99f69f-5159-090f-9c0a-386c32d42dc0/mzl.ticetwyt.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/09/c4/5109c477-9199-780f-bcf7-52a56661d999/mzl.clrrujkj.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/bb/20/6dbb20b2-6a94-fd2a-08c6-5e2a7ca9a784/mzl.iocnhqah.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/d2/44/82d24435-ec7d-5939-e057-fbbe8bb8e3e4/mzl.roedrhfh.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/8b/a8/2d8ba8a2-8740-5e4d-6878-ab90ed6bbdd6/mzl.zrjlrfkl.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f6/52/63/f6526357-adb0-4bfc-e1a5-a3aaf2e669c3/mzl.alxsfjsu.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/08/39/9e/08399e7a-d470-d926-967e-173c8eec6b3d/mzl.hkmpegaf.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[AeroPads - Pads & Soundscapes]]></title>
         <id>AeroPads - Pads &amp; Soundscapes-us-1764620865140</id>
         <link href="https://apps.apple.com/us/app/aeropads-pads-soundscapes/id1612952507?uo=4"/>
@@ -1203,35 +1358,5 @@ voiceovermakerz@gmail.com
 10. 超詳細的單詞翻譯引擎
 11. 支持繁體中文和簡體中文
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/e9/6e/e1e96e1a-c1f2-49d9-5d79-f62cb7e11ea9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/cf/29/9f/cf299f14-a2d0-12bb-2119-5c464e6474b1/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/11/a2/c0/11a2c03c-3607-7717-3dd9-c1814e9d59b2/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/7a/1b/c5/7a1bc595-0358-152f-0077-4f86c4d52577/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/de/b1/aedeb16d-c0f0-265e-be44-b416cbbd4d93/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f9/09/d8/f909d8f1-055f-98ed-ed20-fe02be407639/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d9/df/81/d9df8193-a187-4489-39c6-d7c5e904f4b8/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/3e/c8/2d3ec8a0-cb2e-4f88-b24d-848a2caf058f/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/54/2e/21/542e2108-507f-b0d7-01ec-7bafecb584d0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d6/9b/1f/d69b1fb2-d5af-5aea-f0c8-59d41059fa2f/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/9d/4c/c49d4cff-9873-dac6-3dd6-cd9d04f178d7/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/a3/76/8ea3767e-da40-c1ad-05ae-f248f3eee83e/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Last Game]]></title>
-        <id>The Last Game-us-1764390665505</id>
-        <link href="https://apps.apple.com/us/app/the-last-game/id6466296603?uo=4"/>
-        <updated>2025-11-29T04:31:05.505Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/the-last-game/id6466296603?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/83/74/dd837401-5625-89a1-261a-6e97adf9e77f/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $3.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h2>Application Description</h2><p>
-  Traverse the dungeon in this awesome action / bullet-hell roguelite where every choice could make or break your run. Stack over 130 different items and create powerful synergies to become truly overpowered with 13 unique characters!
-
-BALANCE RISK & REWARD
-Balance risk and reward as your make your choices! Push your luck to grow your build, but don't overestimate your abilities, or your run could end on the spot. Navigate the dungeon wisely and reap the rewards to optimize your build to crush the dungeon with 13 unique characters!
-
-BECOME OVERPOWERED
-Over 130 unique items can be mixed and matched to create a devastating build, laying waste to every enemy in sight! Be careful not to hurt yourself with an item that doesn't fit, and experiment with synergies to become an overpowered behemoth!
-
-FIND SECRETS
-Uncover the secrets of the dungeon on your quest to slay the Villain to unlock hidden paths, uncover new items, and grow your band of adventurers! And for those who crave a challenge, the greatest rewards are locked behind the greatest trials!
-
-PLAY WITH FRIENDS
-Play solo or with others in local co-op, with up to 4 people! Combine character abilities to improve your odds, or do a mild amount of trolling, the choice is yours! Please note that extra controllers are required to play with others.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/3b/ca/ba3bcace-81b0-2a13-0141-80205587bf58/e1e110da-3633-487a-b1df-51016e22552d_iphone55_screen1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/a3/a0/37a3a0be-4ddd-4747-d7ce-94186eafcc58/4bb0d605-c3d0-43f1-ab38-8ac646714e8d_iphone55_screen2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/ad/39aead27-2de5-dbd2-4bb1-0e58ba696cfd/7ce9436e-a34b-4180-b2df-c54b5b1dd67e_iphone55_screen3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/41/0a/03410a81-48fd-acf1-0513-05704f089e94/aae86430-8c6b-4829-a61a-6c06735cff85_iphone55_screen4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/25/d6/ae25d640-25fc-c938-bb19-c01901892ec6/b22fc099-ca21-4cd2-b7b2-0b0e8cb8fb11_ipad_screen1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/28/2a/d9282a6d-2907-25fe-251e-688b906090bc/fa659acd-6af4-4fb5-981c-b0ef8d9f1c40_ipad_screen2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/97/24/9e97240b-cb0f-f1b2-8875-c1a24879df17/8ae8684e-ea8f-4fc0-befe-17b58c34ef2e_ipad_screen3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/cb/fe/1dcbfecb-ffee-e378-2595-fa3b6334dc72/21af871b-3b61-409c-8594-6e40ba97e73d_ipad_screen4.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
