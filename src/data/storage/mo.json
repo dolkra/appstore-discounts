@@ -38811,6 +38811,14 @@
     "history": [
       [
         {
+          "timestamp": 1764680313779,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1763893541139,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -87963,14 +87971,22 @@
   "1560779038": {
     "name": "伤寒论条阅",
     "maxPriceInfo": {
-      "price": 0.39,
-      "formattedPrice": "USD 0.39"
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764680313779,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764578380709,
