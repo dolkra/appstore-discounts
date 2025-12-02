@@ -2889,6 +2889,17 @@
     "history": [
       [
         {
+          "timestamp": 1764700930803,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Pacote Premium": "149,99 €",
+            "Pacote Padrão": "24,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1764433856253,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -11099,6 +11110,25 @@
     "history": [
       [
         {
+          "timestamp": 1764700930803,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "12 Mo.Fongo Ultimate": "99,99 €",
+            "3 Mo.Fongo Ultimate": "34,99 €",
+            "6 Mo.Fongo Ultimate": "59,99 €",
+            "1 Mo.Fongo Ultimate": "14,99 €",
+            "12 Mo.Remover anúncios": "19,99 €",
+            "6 Mo.Remover anúncios": "9,99 €",
+            "3 Mo.Remover anúncios": "5,99 €",
+            "1 Mo.Remover anúncios": "2,99 €",
+            "12 Mo.Fongo Plus": "99,99 €",
+            "12 Mo.texto globais": "29,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1763936691177,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -16763,7 +16793,9 @@
       "圣诞派对": "17,99 €",
       "黄金通行证": "17,99 €",
       "劳动勋章": "17,99 €",
-      "劳动十次": "3,99 €"
+      "劳动十次": "3,99 €",
+      "火鸡宴会": "17,99 €",
+      "提升十级": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -16777,9 +16809,30 @@
       "圣诞派对": "17,99 €",
       "黄金通行证": "17,99 €",
       "劳动勋章": "17,99 €",
-      "劳动十次": "3,99 €"
+      "劳动十次": "3,99 €",
+      "火鸡宴会": "17,99 €",
+      "提升十级": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764700930803,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "火鸡宴会": "17,99 €",
+            "提升十级": "3,99 €",
+            "宝石通行证": "17,99 €",
+            "休假证明": "17,99 €",
+            "小憩十次": "3,99 €",
+            "新春灯笼": "17,99 €",
+            "购买十次": "3,99 €",
+            "狂欢十次": "3,99 €",
+            "圣诞派对": "17,99 €",
+            "黄金通行证": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -20174,7 +20227,11 @@
       "SF2SEPack4": "3,99 €",
       "SF2SEPack3": "2,99 €",
       "SF2SEPack2": "1,99 €",
-      "Pile of Coins": "0,99 €"
+      "Pile of Coins": "0,99 €",
+      "SF2SEPack10": "9,99 €",
+      "SF2SEPack6": "7,99 €",
+      "SF2SEPack50": "59,99 €",
+      "SF2SEPack20": "22,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -20190,9 +20247,32 @@
       "SF2SEPack4": "3,99 €",
       "SF2SEPack3": "2,99 €",
       "SF2SEPack2": "1,99 €",
-      "Pile of Coins": "0,99 €"
+      "Pile of Coins": "0,99 €",
+      "SF2SEPack10": "9,99 €",
+      "SF2SEPack6": "7,99 €",
+      "SF2SEPack50": "59,99 €",
+      "SF2SEPack20": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764700930803,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pilha de Gemas": "2,99 €",
+            "Bolsa de Moedas": "5,99 €",
+            "Baú de Gemas": "9,99 €",
+            "Pilha de Moedas": "0,99 €",
+            "Bolsa de Gemas": "22,99 €",
+            "Bau de Moedas": "22,99 €",
+            "SF2SEPack10": "9,99 €",
+            "SF2SEPack6": "7,99 €",
+            "SF2SEPack50": "59,99 €",
+            "SF2SEPack20": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764361717117,
@@ -21565,6 +21645,25 @@
       "Blend": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764700930803,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Rate": "0,00 €",
+            "Info": "0,00 €",
+            "Tuner": "0,00 €",
+            "Chromakey": "0,00 €",
+            "Unlock All": "8,99 €",
+            "Paint": "0,00 €",
+            "Erase": "0,99 €",
+            "Blend": "0,99 €",
+            "Distortion": "0,00 €",
+            "Magnifier": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762779345580,
@@ -32047,6 +32146,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1764700930803,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Content Bundle 1": "9,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €",
+            "Racing Heroes Car Pack": "2,99 €",
+            "Steel & Wheels Pack": "1,99 €",
+            "Content Bundle 2": "8,99 €",
+            "Reckless Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "Off-Road Car Pack": "2,99 €",
+            "Goofy Roofs Pack": "0,99 €"
+          }
+        },
         {
           "timestamp": 1764693496320,
           "price": 9.99,
