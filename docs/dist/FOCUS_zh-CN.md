@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1577` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1578` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1578|1189140204|自动|The Snail|The Snail|The Snail|The Snail|The Snail|The Snail|The Snail|
 |1577|6448928429|自动|❌|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|Tofas Serisi|
 |1576|368169363|自动|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metronome|Tempo Advance - Metrônomo|
 |1575|1672882866|自动|❌|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|
@@ -769,7 +770,7 @@
 |818|6444435974|自动|❌|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|
 |817|755018884|自动|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|❌|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|
 |816|1319618742|自动|❌|Getting Over It|Getting Over It|Getting Over It|Getting Over It|Getting Over It|Getting Over It|
-|815|1423115391|自动|Führerschein 2025 GOLD|Führerschein 2025 GOLD|Führerschein 2025 GOLD|Führerschein 2026 GOLD|Führerschein 2025 GOLD|Führerschein 2025 GOLD|Führerschein 2025 GOLD|
+|815|1423115391|自动|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2025 GOLD|Führerschein 2025 GOLD|Führerschein 2025 GOLD|
 |814|6474207287|自动|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|自动|J23 - 发布日期和补货|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Datas de Lançamento|
 |812|1108935309|自动|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
