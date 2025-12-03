@@ -25886,7 +25886,7 @@
       "Euro Trip": "3,99 €",
       "Promotion": "19,99 €",
       "Golden Flames Bundle": "9,99 €",
-      "The Dragon": "2,99 €",
+      "The Dragon": "3,49 €",
       "Paris, La Belle Epoque Board": "5,99 €",
       "New Premium+ Cthulhu Token": "9,99 €",
       "1935 Atlantic City": "7,99 €",
@@ -25952,6 +25952,25 @@
       "Snowdrop Valley Board": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764736516403,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Speed Die": "14,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Golden Dice": "4,99 €",
+            "Snowdrop Valley Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764693496320,
@@ -41621,6 +41640,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764736516403,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763517683797,
