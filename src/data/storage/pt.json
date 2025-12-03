@@ -2889,6 +2889,17 @@
     "history": [
       [
         {
+          "timestamp": 1764766742404,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Pacote Premium": "149,99 €",
+            "Pacote Padrão": "24,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1764707561903,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -5090,6 +5101,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1764766742404,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter D": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter S": "5,99 €",
+            "Chapter 7": "5,99 €",
+            "Chapter N": "3,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter 10": "5,99 €"
+          }
+        },
         {
           "timestamp": 1764757988478,
           "price": 1.99,
@@ -44603,6 +44631,27 @@
           "timestamp": 1764641127012,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746390893": {
+    "name": "Red Dead Redemption",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "39,99 €"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "39,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764766742404,
+          "price": 39.99,
+          "formattedPrice": "39,99 €",
           "inAppPurchases": {}
         }
       ]
