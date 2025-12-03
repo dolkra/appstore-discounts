@@ -29623,14 +29623,22 @@
   "1548185534": {
     "name": "Musical Maze",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764779879582,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -41716,11 +41724,17 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
       [
+        {
+          "timestamp": 1764779879582,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1764736516403,
           "price": 0.99,
