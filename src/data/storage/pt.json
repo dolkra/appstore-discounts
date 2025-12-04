@@ -18534,7 +18534,9 @@
       "Promover Pack 4": "9,99 €",
       "Promover Pack 3": "8,99 €",
       "Promover Pack 2": "5,99 €",
-      "Promover Pacote 1": "2,99 €"
+      "Promover Pacote 1": "2,99 €",
+      "Ranhura Mochila Dupla": "1,99 €",
+      "A Large Bag of Gems": "22,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -18548,9 +18550,30 @@
       "Promover Pack 4": "9,99 €",
       "Promover Pack 3": "8,99 €",
       "Promover Pack 2": "5,99 €",
-      "Promover Pacote 1": "2,99 €"
+      "Promover Pacote 1": "2,99 €",
+      "Ranhura Mochila Dupla": "1,99 €",
+      "A Large Bag of Gems": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764858549134,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Promoção Pack 5": "17,99 €",
+            "Promover Pack 4": "9,99 €",
+            "Promover Pack 3": "8,99 €",
+            "Promover Pack 2": "5,99 €",
+            "Promover Pacote 1": "2,99 €",
+            "Ranhura Mochila Dupla": "1,99 €",
+            "Genius Big Deal Pack": "1,99 €",
+            "Boxer Big Deal Pack": "1,99 €",
+            "Double Bonus": "1,99 €",
+            "A Large Bag of Gems": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -44785,6 +44808,27 @@
           "timestamp": 1764766742404,
           "price": 39.99,
           "formattedPrice": "39,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744361551": {
+    "name": "Total War™: NAPOLEON",
+    "maxPriceInfo": {
+      "price": 10.99,
+      "formattedPrice": "10,99 €"
+    },
+    "minPriceInfo": {
+      "price": 10.99,
+      "formattedPrice": "10,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1764858549134,
+          "price": 10.99,
+          "formattedPrice": "10,99 €",
           "inAppPurchases": {}
         }
       ]
