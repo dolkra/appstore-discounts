@@ -153,9 +153,9 @@
     "maxPriceInfo": {
       "price": 22.99,
       "formattedPrice": "22,99 €",
-      "Faixas de playback de Blues": "5,99 €",
-      "Estilos de salsa": "6,99 €",
-      "Faixas de playback brasileiras": "6,99 €"
+      "Faixas de playback de Blues": "7,99 €",
+      "Estilos de salsa": "7,99 €",
+      "Faixas de playback brasileiras": "7,99 €"
     },
     "minPriceInfo": {
       "price": 22.99,
@@ -165,6 +165,18 @@
       "Faixas de playback brasileiras": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1764887095251,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "Faixas de playback de Blues": "7,99 €",
+            "Estilos de salsa": "7,99 €",
+            "Faixas de playback brasileiras": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
