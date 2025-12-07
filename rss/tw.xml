@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-12-07T07:45:06.697Z</updated>
+    <updated>2025-12-07T14:07:06.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-07T07:45:06.697Z</updated>
+        <updated>2025-12-07T14:07:06.758Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwSun, 07 Dec 2025 07:45:06 GMT</id>
+        <id>rankingtwSun, 07 Dec 2025 14:07:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-07T07:45:06.697Z</updated>
+        <updated>2025-12-07T14:07:06.758Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -95,6 +95,29 @@ feedId:157008546980077568+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id397553707">德州撲克 - Pokerist Pro</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App內購買</span><ol>
+              <li>
+                <i>頂級組合包</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id1560779038">伤寒论条阅</a>
       </td>
       <td>
@@ -109,7 +132,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6473097811">Doodle Baseball Game</a>
@@ -126,7 +149,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id325307477">AudioTools, dB, Sound & Audio</a>
@@ -149,7 +172,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id364876095">Jump Desktop (RDP, VNC, Fluid)</a>
@@ -160,29 +183,6 @@ feedId:157008546980077568+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id397553707">德州撲克 - Pokerist Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App內購買</span><ol>
-              <li>
-                <i>頂級組合包</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1149,6 +1149,90 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[德州撲克 - Pokerist Pro]]></title>
+        <id>德州撲克 - Pokerist Pro-tw-1765111820850</id>
+        <link href="https://apps.apple.com/tw/app/%E5%BE%B7%E5%B7%9E%E6%92%B2%E5%85%8B-pokerist-pro/id397553707?uo=4"/>
+        <updated>2025-12-07T12:50:20.850Z</updated>
+        <summary type="html"><![CDATA[頂級組合包: $3,990.00 → $2,990.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%BE%B7%E5%B7%9E%E6%92%B2%E5%85%8B-pokerist-pro/id397553707?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/ee/51/7cee51e2-24fd-8866-0593-7e09bc0da2ca/AppIcon-com.iphonesoft3g.texaspoker100k-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
+  <li>
+    <strong>頂級組合包：</strong><span>$3,990.00</span> → <b>
+  <strong>$2,990.00</strong>
+</b><span>[$2,990.00 ~ $3,990.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>$320.00</b>
+</p><h3>App內購買</h3><ul>
+  <li>
+    一庫籌碼：<b>$2,990.00</b>
+  </li><li>
+    一盒籌碼：<b>$690.00</b>
+  </li><li>
+    150M chips：<b>$2,990.00</b>
+  </li><li>
+    一箱籌碼：<b>$1,490.00</b>
+  </li><li>
+    1M chips：<b>$90.00</b>
+  </li><li>
+    15M chips：<b>$690.00</b>
+  </li><li>
+    5M chips：<b>$320.00</b>
+  </li><li>
+    樂透彩券 (5/50B)：<b>$2,990.00</b>
+  </li><li>
+    500k chips：<b>$320.00</b>
+  </li><li>
+    頂級組合包：<b>$2,990.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  虛張聲勢地加大賭注，提高自己的技巧，獲得經驗、結交新朋友並成為最好的玩家！
+
+◆ 遊戲特色 ◆
+
+• 免費籌碼 - 每天返回遊戲可獲得免費籌碼。
+
+• BOOST POKER 錦標賽 - 在這場德州撲克錦標賽中，只要拉霸您就有機會贏得 150 億籌碼！在這場超刺激的遊戲中提升你的餘額吧！
+
+• 特殊模式 - 以各種多元方式遊玩的德州撲克，用鬼牌組出超級牌組、偷看對手的牌、只玩散牌、拿到口袋對子，還有更多變化方法！
+
+• 多桌錦標賽 (MTT) - 最受歡迎的離線錦標賽改為線上遊戲了！現在你可以與眾多名不虛傳的高手在多個牌桌較勁，一路過關斬將到決賽牌桌！
+
+• 錦標賽 – 參加每週 Sit'n'Go 錦標賽，贏得專屬獎杯或數百萬枚籌碼並稱霸排行榜！
+
+• 賭場遊戲 - 享受各種賭場遊戲。在單一應用程式遊玩 21 點、奧馬哈撲克、輪盤、百家樂、老虎機、電動撲克、花旗骰、Split Bet Poker 和 Set Poker！
+
+• VIP 等級 - 獲得豐富獎勵，以及享受最新遊戲內的獨家功能！
+
+• 保證不作弊 - 我們所有遊戲皆採用經過獨立專家認證的亂數生成器 (RNG)，帶給你最棒、最公平的德州撲克體驗。
+
+• 與其他玩家交談 - 您可利用我們簡單好用的遊戲內交談工具、即時通訊功能和動態表情圖案，在牌桌上獲得更多的樂趣。與其他德州撲克的對手或好友彼此交流玩的牌局或分享您的喜怒哀樂。
+
+• 介紹系統 - 邀請你的朋友一起遊玩，大家都能獲得獎勵！
+
+• 建立您的個人檔案 - 將您的成功與朋友分享。炫耀自己玩過多少遊戲、最佳勝利、等級、牌集收藏、成就、財產和獎杯！
+
+• 專屬頭像 - 在頭像編輯器中，建立獨一無二的外觀。
+
+• 任務 - 完成每日任務，即可免費獲得籌碼！
+
+• 輕鬆上手 - 你是德州撲克的新手，但一直想嘗試玩一下嗎？我們提供淺顯易懂的教學，幫助你開始遊戲的第一步。
+
+• 無需註冊 - 直接遊玩。使用來賓模式即可免費博弈，無需註冊。
+
+• 單一帳號 - 您可在各種裝置上遊玩德州撲克。請選擇最適合您的驗證方式，並立即免費遊玩德州撲克！
+
+請訂閱我們的社群媒體網頁，搶先得知我們的促銷方案和最新消息！
+Facebook： https://facebook.com/Pokerist
+Instagram: https://www.instagram.com/pokeristclub
+YouTube： https://www.youtube.com/user/KamaGamesChannel
+X： https://x.com/KamaCasino
+
+遊戲僅適合達到法定年齡的人士。 遊戲不提供贏取金錢或任何有價物的機會。 在此遊戲獲勝並不代表你會在真正的賭場遊戲獲勝。
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[照片橡皮擦 - 去除水印雜物多余人物]]></title>
