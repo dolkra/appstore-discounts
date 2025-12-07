@@ -46549,12 +46549,20 @@
       "移除廣告": "USD 0.00"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "金鉆VIP": "USD 0.99",
       "移除廣告": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765089396854,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763085738023,
