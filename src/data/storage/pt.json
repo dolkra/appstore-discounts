@@ -2949,7 +2949,8 @@
       "Grande pilha de fichas": "9,99 €",
       "Caixa de fichas": "22,99 €",
       "100k chips": "0,99 €",
-      "Grande monte de fichas": "2,99 €"
+      "Grande monte de fichas": "2,99 €",
+      "Bilhetes de sorteio (5/50B)": "99,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -2965,9 +2966,29 @@
       "Grande pilha de fichas": "9,99 €",
       "Caixa de fichas": "22,99 €",
       "100k chips": "0,99 €",
-      "Grande monte de fichas": "2,99 €"
+      "Grande monte de fichas": "2,99 €",
+      "Bilhetes de sorteio (5/50B)": "99,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765082192049,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "15M chips": "22,99 €",
+            "5M chips": "9,99 €",
+            "50M chips": "59,99 €",
+            "150M chips": "99,99 €",
+            "1M chips": "2,99 €",
+            "Bilhetes de sorteio (5/50B)": "99,99 €",
+            "Grande pilha de fichas": "9,99 €",
+            "Caixa de fichas": "22,99 €",
+            "100k chips": "0,99 €",
+            "Caixa-forte de fichas": "99,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764772145191,
@@ -16111,12 +16132,23 @@
       "Remove ads": "0,00 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Gold VIP": "0,99 €",
       "Remove ads": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765082192049,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Gold VIP": "0,99 €",
+            "Remove ads": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -17395,7 +17427,7 @@
       "She-Ra Sword Power Booster": "3,99 €",
       "She-Ra Prestige Pack": "14,99 €",
       "Frontier Legends": "14,99 €",
-      "Frontier Legends Sale": "7,99 €",
+      "Frontier Legends Sale": "6,99 €",
       "Impulso de Herói": "1,99 €",
       "Cofre de Dinheiro de Macaco": "23,99 €",
       "Montanha de Dinheiro de Macaco": "59,99 €",
@@ -17403,6 +17435,24 @@
       "Fast Track Pack": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765082192049,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Frontier Legends": "14,99 €",
+            "Frontier Legends Sale": "6,99 €",
+            "Havoc Staff Booster Sale": "1,99 €",
+            "Skeletor Obyn Prestige Pack": "7,99 €",
+            "Havoc Staff Booster": "3,99 €",
+            "Powers Pro Launch Pack": "9,99 €",
+            "Desperado Unlock Pack": "8,99 €",
+            "She-Ra Prestige Pack Sale": "7,99 €",
+            "She-Ra Sword Booster Sale": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764990979418,
@@ -20368,6 +20418,21 @@
     "history": [
       [
         {
+          "timestamp": 1765082192049,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Hammerhold Campaign!": "8,99 €",
+            "Pirate Kings Campaign!": "8,99 €",
+            "Tower Ignis Altar": "2,99 €",
+            "Hero Grosh": "5,99 €",
+            "Special Offer 27": "8,99 €",
+            "Special Offer 24": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765038740976,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -21360,6 +21425,25 @@
       "Phigros": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765082192049,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Phigros": "5,99 €",
+            "Rotaeno": "5,99 €",
+            "AD:HOUSE Selection": "5,99 €",
+            "Stream Palette Selection": "5,99 €",
+            "HARDCORE TANO*C VOL.II": "5,99 €",
+            "HARDCORE TANO*C": "5,99 €",
+            "Cosmic Radio 2024": "5,99 €",
+            "Miku Extend 2025": "5,99 €",
+            "Paradigm: Reboot pt. 2": "5,99 €",
+            "Paradigm: Reboot pt. 1": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764102625154,
@@ -43038,6 +43122,25 @@
       "Mack Trucks Black Anthem 6x4": "2,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765082192049,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "John Deere 8R 410": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Case IH Speed-Tiller": "1,19 €",
+            "Versatile 4WD 620": "2,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764909373524,
