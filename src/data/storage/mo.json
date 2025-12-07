@@ -116191,14 +116191,22 @@
   "6746699177": {
     "name": "Lysoniq",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765117433244,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761363024848,

@@ -37552,14 +37552,22 @@
   "6746699177": {
     "name": "Lysoniq",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765117433244,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
