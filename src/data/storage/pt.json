@@ -2950,7 +2950,8 @@
       "Caixa de fichas": "22,99 €",
       "100k chips": "0,99 €",
       "Grande monte de fichas": "2,99 €",
-      "Bilhetes de sorteio (5/50B)": "99,99 €"
+      "Bilhetes de sorteio (5/50B)": "99,99 €",
+      "Mala de fichas": "59,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -2967,9 +2968,29 @@
       "Caixa de fichas": "22,99 €",
       "100k chips": "0,99 €",
       "Grande monte de fichas": "2,99 €",
-      "Bilhetes de sorteio (5/50B)": "99,99 €"
+      "Bilhetes de sorteio (5/50B)": "99,99 €",
+      "Mala de fichas": "59,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765168718385,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "15M chips": "22,99 €",
+            "5M chips": "9,99 €",
+            "50M chips": "59,99 €",
+            "150M chips": "99,99 €",
+            "1M chips": "2,99 €",
+            "Grande pilha de fichas": "9,99 €",
+            "Caixa de fichas": "22,99 €",
+            "Bilhetes de sorteio (5/50B)": "99,99 €",
+            "Mala de fichas": "59,99 €",
+            "100k chips": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765082192049,
@@ -26756,7 +26777,7 @@
       "Promotion": "19,99 €",
       "Golden Flames Bundle": "9,99 €",
       "The Dragon": "3,49 €",
-      "Paris, La Belle Epoque Board": "5,99 €",
+      "Paris, La Belle Epoque Board": "6,99 €",
       "New Premium+ Cthulhu Token": "9,99 €",
       "1935 Atlantic City": "7,99 €",
       "Orient Express": "2,99 €",
@@ -26821,6 +26842,25 @@
       "Snowdrop Valley Board": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765168718385,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Promotion": "19,99 €",
+            "Golden Dice": "4,99 €",
+            "Snowdrop Valley Board": "6,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764736516403,
