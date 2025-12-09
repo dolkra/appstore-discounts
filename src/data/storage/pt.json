@@ -398,6 +398,27 @@
       ]
     ]
   },
+  "307025309": {
+    "name": "iWriteWords",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1765290637602,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "307132353": {
     "name": "Sally's Spa",
     "maxPriceInfo": {
@@ -26993,14 +27014,22 @@
   "1477854253": {
     "name": "大家的日本語 初級 第二版",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765290637602,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764426218022,
@@ -30148,8 +30177,8 @@
       "Clã do Esquilo": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "Clã do Dragão": "2,99 €",
       "Clã do Lince": "2,99 €",
       "Pacote de Escamas": "7,99 €",
@@ -30164,6 +30193,25 @@
       "Clã do Esquilo": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765290637602,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pacote de Escamas": "7,99 €",
+            "Clã do Dragão": "2,99 €",
+            "Clã do Lince": "2,99 €",
+            "Clã do Cavalo": "2,99 €",
+            "Clã da Águia": "2,99 €",
+            "Pacote de Peles": "7,99 €",
+            "Clã do Kraken": "2,99 €",
+            "Clã do Boi": "2,99 €",
+            "Clã da Cobra": "2,99 €",
+            "Clã do Rato": "2,95 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762446905790,
@@ -32068,14 +32116,14 @@
       "formattedPrice": "1,99 €",
       "Midnight Deck": "5,99 €",
       "Unlock Taboo Premium": "2,99 €",
-      "Mystery Mix Pack 1": "0,99 €",
+      "Mystery Mix Pack 1": "1,99 €",
       "Fun & Games Sports Mix Pack 1": "0,99 €",
-      "Celebrity Musicians Pack": "0,99 €",
-      "Wild World Adventure Pack": "0,99 €",
-      "Midnight Bedroom Pack": "1,99 €",
-      "Midnight Night Out Pack": "1,99 €",
+      "Celebrity Musicians Pack": "1,99 €",
+      "Wild World Adventure Pack": "1,99 €",
+      "Midnight Bedroom Pack": "2,99 €",
+      "Midnight Night Out Pack": "2,99 €",
       "Fun & Games Sports Mix 3 Pack": "0,99 €",
-      "Holiday Thanksgiving Pack": "0,99 €",
+      "Holiday Thanksgiving Pack": "1,99 €",
       "Holiday Christmas Pack 2": "0,99 €",
       "Generations Gen Z Pack": "0,99 €",
       "Holiday Hannukah Pack": "0,99 €",
@@ -32108,6 +32156,25 @@
       "Mystery Mix Pack 12": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765290637602,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Midnight Deck": "5,99 €",
+            "Unlock Taboo Premium": "2,99 €",
+            "Mystery Mix Pack 1": "1,99 €",
+            "Fun & Games Sports Mix Pack 1": "0,99 €",
+            "Celebrity Musicians Pack": "1,99 €",
+            "Wild World Adventure Pack": "1,99 €",
+            "Midnight Bedroom Pack": "2,99 €",
+            "Midnight Night Out Pack": "2,99 €",
+            "Fun & Games Sports Mix 3 Pack": "0,99 €",
+            "Holiday Thanksgiving Pack": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765232797340,

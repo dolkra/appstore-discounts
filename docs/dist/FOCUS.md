@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1587` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1588` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1588|307025309|Automatic|❌|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|
 |1587|378120971|Automatic|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|
 |1586|1116896197|Automatic|Rehearsal® Pro|Rehearsal® Pro|Rehearsal® Pro|Rehearsal® Pro|Rehearsal® Pro|Rehearsal® Pro|Rehearsal® Pro|
 |1585|1181029289|Automatic|翻页时钟专业版 - 全屏数字悬浮显示锁屏桌面灵动岛小组件|翻頁時鐘專業版 - 全屏數字懸浮顯示鎖屏桌面動態島小部件|翻頁時鐘專業版 - 全屏數字懸浮顯示鎖屏桌面動態島小部件|翻頁時鐘專業版 - 全屏數字懸浮顯示鎖屏桌面動態島小部件|Flip Clock Pro - time widgets|Flip Clock Pro - time widgets|Flip Clock Pro-Relógio Digital|
