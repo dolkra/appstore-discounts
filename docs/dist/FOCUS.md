@@ -228,7 +228,7 @@ So far, we've covered `7` `Countries or Regions` and  `1588` `Apps` <br />Push n
 |1370|1494197457|Automatic|白平衡AI - KEV|白平衡计AI - KEV|白平衡计AI - KEV|白平衡计AI - KEV|White Balance Meter AI - KEV|White Balance Meter AI - KEV|White Balance Meter AI - KEV|
 |1369|1511788295|Automatic|❌|Crying Suns|Crying Suns|Crying Suns|Crying Suns|Crying Suns|Crying Suns|
 |1368|1494621456|Automatic|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|
-|1367|1558052531|Automatic|风光摄影助手Pro:风光摄影计划好帮手|風光攝影助手Pro:風光攝影計劃好幫手|風光攝影助手Pro:風光攝影計劃好幫手|風光攝影助手Pro:風光攝影計劃好幫手|LP Helper Pro|LP Helper Pro|LP Helper Pro|
+|1367|1558052531|Automatic|风光摄影助手Pro:风光摄影计划好帮手|風光攝影助手Pro:風光攝影計劃好幫手|風光攝影助手Pro:風光攝影計劃好幫手|風光攝影助手Pro:風光攝影計劃好幫手|LandscapePhotographyHelper Pro|LandscapePhotographyHelper Pro|LandscapePhotographyHelper Pro|
 |1366|1561658854|Automatic|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|❌|
 |1365|1350599517|Automatic|FoodyLife: The Food Diary App|吃貨人生 飲食紀錄App|吃貨人生 飲食紀錄App|吃貨人生 飲食紀錄App|FoodyLife : The Food Diary App|FoodyLife: The Food Diary App|FoodyLife: The Food Diary App|
 |1364|1331393380|Automatic|❌|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|
