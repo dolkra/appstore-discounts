@@ -691,7 +691,7 @@ So far, we've covered `7` `Countries or Regions` and  `1587` `Apps` <br />Push n
 |906|1106831630|Automatic|❌|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|
 |905|1138248035|Automatic|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|
 |904|1373057849|Automatic|❌|三國志漢末霸業|三國志漢末霸業|三國志漢末霸業|ThreeKingdoms The Last Warlord|ThreeKingdoms The Last Warlord|ThreeKingdoms The Last Warlord|
-|903|1458977921|Automatic|照片保险箱Pro - 私密照片加密码相册管家|照片保險箱Pro - 密碼鎖加密隱藏隱私相片|照片保險箱Pro - 密碼鎖加密隱藏隱私相片|照片保險箱Pro - 密碼鎖加密隱藏隱私相片|Secret Vault - Hide Photos|SecretVault Pro - Lock Photos|SecretVault Pro - Lock Photos|
+|903|1458977921|Automatic|照片保险箱Pro - 私密照片加密码相册管家|照片保險箱Pro - 密碼鎖加密隱藏隱私相片|照片保險箱Pro - 密碼鎖加密隱藏隱私相片|照片保險箱Pro - 密碼鎖加密隱藏隱私相片|Secret Vault - Hide Photos|SecretVault Pro - Lock Photos|Secret Vault - Cofre de Fotos|
 |902|1509252675|Automatic|❌|Lapse: 遗落的未来|Lapse: 遗落的未来|Lapse: 遗落的未来|Lapse: A Forgotten Future|Lapse: A Forgotten Future|Lapse: A Forgotten Future|
 |901|1554691584|Automatic|Naturalisation en France|Naturalisation en France|Naturalisation en France|Naturalisation en France|Naturalisation en France|Naturalisation en France|Naturalisation en France|
 |900|1574339556|Automatic|❌|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|
