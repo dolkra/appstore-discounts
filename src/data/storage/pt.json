@@ -1345,11 +1345,21 @@
       "Pro Version": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Pro Version": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765305425372,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro Version": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -21343,6 +21353,24 @@
       "SF2SEPack20": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765305425372,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pilha de Gemas": "2,99 €",
+            "Baú de Gemas": "9,99 €",
+            "Bolsa de Moedas": "5,99 €",
+            "Pilha de Moedas": "0,99 €",
+            "Bolsa de Gemas": "22,99 €",
+            "Bau de Moedas": "22,99 €",
+            "SF2SEPack10": "9,99 €",
+            "SF2SEPack6": "7,99 €",
+            "SF2SEPack50": "59,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764700930803,
@@ -43100,6 +43128,24 @@
       "Tuxedo Theme": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765305425372,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "2025 Spring Forest Theme": "0,99 €",
+            "2025 Spring Lawn Theme": "1,99 €",
+            "2025 Spring Flower Theme": "0,99 €",
+            "Lawn Theme": "0,99 €",
+            "Toby": "0,99 €",
+            "Gizmo": "0,99 €",
+            "Lucky": "0,99 €",
+            "Loki": "0,99 €",
+            "Civet Theme": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765074055200,
