@@ -24594,6 +24594,14 @@
     "history": [
       [
         {
+          "timestamp": 1765332476998,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764208839027,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -26275,6 +26283,17 @@
       "Encourage us, Donate Coke": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765332476998,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Encourage  us, Buy me a coffee": "2,99 €",
+            "Encourage us, Donate Coke": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764556138236,
@@ -41261,7 +41280,8 @@
       "Boeing 737 MAX 9": "1,99 €",
       "Boeing 737-900": "1,99 €",
       "The Aircraft Bundle": "19,99 €",
-      "Boeing 747-400": "1,99 €"
+      "Boeing 747-400": "1,99 €",
+      "Global scenery - 3 months": "7,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -41284,9 +41304,29 @@
       "Boeing 737 MAX 9": "1,99 €",
       "Boeing 737-900": "1,99 €",
       "The Aircraft Bundle": "19,99 €",
-      "Boeing 747-400": "1,99 €"
+      "Boeing 747-400": "1,99 €",
+      "Global scenery - 3 months": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765332476998,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Global scenery - 3 months": "7,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "The Aircraft Bundle": "19,99 €",
+            "Boeing 737-800": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764650198088,
@@ -43164,6 +43204,24 @@
       "Tuxedo Theme": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765332476998,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "2025 Spring Forest Theme": "0,99 €",
+            "2025 Spring Lawn Theme": "1,99 €",
+            "2025 Spring Flower Theme": "0,99 €",
+            "Lawn Theme": "0,99 €",
+            "Toby": "0,99 €",
+            "Gizmo": "0,99 €",
+            "Lucky": "0,99 €",
+            "Loki": "0,99 €",
+            "Civet Theme": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765305425372,
