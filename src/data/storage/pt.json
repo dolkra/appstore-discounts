@@ -3063,6 +3063,25 @@
     "history": [
       [
         {
+          "timestamp": 1765405618016,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "15M chips": "22,99 €",
+            "5M chips": "9,99 €",
+            "50M chips": "59,99 €",
+            "Caixa-forte de fichas": "99,99 €",
+            "150M chips": "99,99 €",
+            "1M chips": "2,99 €",
+            "Bilhetes de sorteio (5/50B)": "99,99 €",
+            "Grande pilha de fichas": "9,99 €",
+            "Caixa de fichas": "22,99 €",
+            "100k chips": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765168718385,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -43424,7 +43443,8 @@
       "Lucky": "0,99 €",
       "Loki": "0,99 €",
       "Civet Theme": "0,99 €",
-      "Tuxedo Theme": "0,99 €"
+      "Tuxedo Theme": "0,99 €",
+      "Jingle": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -43438,10 +43458,28 @@
       "Lucky": "0,99 €",
       "Loki": "0,99 €",
       "Civet Theme": "0,99 €",
-      "Tuxedo Theme": "0,99 €"
+      "Tuxedo Theme": "0,99 €",
+      "Jingle": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1765405618016,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jingle": "1,99 €",
+            "2025 Spring Forest Theme": "0,99 €",
+            "2025 Spring Lawn Theme": "1,99 €",
+            "2025 Spring Flower Theme": "0,99 €",
+            "Lawn Theme": "0,99 €",
+            "Toby": "0,99 €",
+            "Gizmo": "0,99 €",
+            "Lucky": "0,99 €",
+            "Loki": "0,99 €",
+            "Civet Theme": "0,99 €"
+          }
+        },
         {
           "timestamp": 1765332476998,
           "price": 0,
