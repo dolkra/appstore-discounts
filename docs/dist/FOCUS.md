@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1592` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1593` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1593|375819093|Automatic|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|
 |1592|1320681231|Automatic|❌|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|
 |1591|1146395075|Automatic|❌|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|
 |1590|327742738|Automatic|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|❌|
