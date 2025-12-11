@@ -449,7 +449,7 @@
 |1153|6472669484|自动|Redirect|Redirect|Redirect|Redirect|Redirect|Redirect|Redirect|
 |1152|302679851|自动|童画|童畫|童畫|童畫|Kids Paint|Kids Paint|Kids Paint|
 |1151|1549544784|自动|❌|倉頡打字2|倉頡打字2|倉頡打字2|倉頡打字2|倉頡打字2|倉頡打字2|
-|1150|6449096759|自动|❌|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|❌|
+|1150|6449096759|自动|❌|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|
 |1149|1191690597|自动|宫神星|宮神星|宮神星|宮神星|宫神星|❌|❌|
 |1148|454679700|自动|❌|百貨公司物語|百貨公司物語|百貨公司物語|Mega Mall Story|Mega Mall Story|Mega Mall Story|
 |1147|1581549121|自动|❌|釀造物語 Hundred Days|釀造物語 Hundred Days|釀造物語 Hundred Days|Hundred Days|Hundred Days|Hundred Days|

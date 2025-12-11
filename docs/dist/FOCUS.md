@@ -449,7 +449,7 @@ So far, we've covered `7` `Countries or Regions` and  `1592` `Apps` <br />Push n
 |1153|6472669484|Automatic|Redirect|Redirect|Redirect|Redirect|Redirect|Redirect|Redirect|
 |1152|302679851|Automatic|童画|童畫|童畫|童畫|Kids Paint|Kids Paint|Kids Paint|
 |1151|1549544784|Automatic|❌|倉頡打字2|倉頡打字2|倉頡打字2|倉頡打字2|倉頡打字2|倉頡打字2|
-|1150|6449096759|Automatic|❌|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|❌|
+|1150|6449096759|Automatic|❌|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|Necro-Smith|
 |1149|1191690597|Automatic|宫神星|宮神星|宮神星|宮神星|宫神星|❌|❌|
 |1148|454679700|Automatic|❌|百貨公司物語|百貨公司物語|百貨公司物語|Mega Mall Story|Mega Mall Story|Mega Mall Story|
 |1147|1581549121|Automatic|❌|釀造物語 Hundred Days|釀造物語 Hundred Days|釀造物語 Hundred Days|Hundred Days|Hundred Days|Hundred Days|
