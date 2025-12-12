@@ -41871,6 +41871,23 @@
     "history": [
       [
         {
+          "timestamp": 1765528709776,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Global scenery - 3 months": "7,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "19,99 €",
+            "Boeing 747-400": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1765521748919,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -47265,6 +47282,27 @@
           "timestamp": 1765478422272,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752803014": {
+    "name": "Joguman Daily Calendar",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1765528709776,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
