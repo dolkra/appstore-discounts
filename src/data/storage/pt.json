@@ -7753,6 +7753,25 @@
     "history": [
       [
         {
+          "timestamp": 1765578414498,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "SLS Hangar": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1764693496320,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -41948,7 +41967,8 @@
       "Boeing 747-400": "1,99 €",
       "Global scenery - 3 months": "7,99 €",
       "Airbus A320neo": "3,99 €",
-      "Boeing 787-9": "3,99 €"
+      "Boeing 787-9": "3,99 €",
+      "CRJ900": "0,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -41974,10 +41994,28 @@
       "Boeing 747-400": "1,99 €",
       "Global scenery - 3 months": "7,99 €",
       "Airbus A320neo": "3,99 €",
-      "Boeing 787-9": "3,99 €"
+      "Boeing 787-9": "3,99 €",
+      "CRJ900": "0,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1765578414498,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 787-10": "1,99 €",
+            "CRJ900": "0,99 €",
+            "Global scenery - 3 months": "7,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "19,99 €"
+          }
+        },
         {
           "timestamp": 1765528709776,
           "price": 3.99,
@@ -47436,6 +47474,71 @@
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6477745183": {
+    "name": "Echo Ways",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €",
+      "Pack III": "1,99 €",
+      "Pack II": "0,99 €",
+      "Pack I": "0,49 €"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €",
+      "Pack III": "1,99 €",
+      "Pack II": "0,99 €",
+      "Pack I": "0,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1765578414498,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Pack III": "1,99 €",
+            "Pack II": "0,99 €",
+            "Pack I": "0,49 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6476663854": {
+    "name": "Solo Mini Golf",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €",
+      "Pack IV": "1,99 €",
+      "Pack II": "0,49 €",
+      "Pack III": "0,99 €",
+      "Pack I": "0,29 €"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €",
+      "Pack IV": "1,99 €",
+      "Pack II": "0,49 €",
+      "Pack III": "0,99 €",
+      "Pack I": "0,29 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1765578414498,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Pack IV": "1,99 €",
+            "Pack II": "0,49 €",
+            "Pack III": "0,99 €",
+            "Pack I": "0,29 €"
+          }
         }
       ]
     ]

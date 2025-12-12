@@ -606,7 +606,7 @@ So far, we've covered `7` `Countries or Regions` and  `1596` `Apps` <br />Push n
 |1000|601831815|Automatic|❌|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|Ridiculous Fishing - A Tale of Redemption|
 |999|1614795077|Automatic|❌|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|Otaku's Adventure|
 |998|6744998205|Automatic|赛博神医-猜病每日挑战小测验|猜病-一款有趣的扮演醫生的趣味小遊戲|猜病-一款有趣的扮演醫生的趣味小遊戲|猜病-一款有趣的扮演醫生的趣味小遊戲|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|赛博神医-猜病每日挑战小测验|
-|997|6477745183|Automatic|❌|Echo Ways|Echo Ways|Echo Ways|Echo Ways|Echo Ways|❌|
+|997|6477745183|Automatic|❌|Echo Ways|Echo Ways|Echo Ways|Echo Ways|Echo Ways|Echo Ways|
 |996|557168861|Automatic|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|香港法例 Legislation HK|
 |995|586604476|Automatic|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|易爻(實用)|
 |994|597758149|Automatic|❌|❌|❌|聽寫五十音專業版|Happy Learn Japanese Kana Pro|Happy Learn Japanese Kana Pro|聽寫五十音專業版|
@@ -1366,7 +1366,7 @@ So far, we've covered `7` `Countries or Regions` and  `1596` `Apps` <br />Push n
 |240|6443723657|Automatic|❌|filmhwa (필름화) - 화민 필터|filmhwa (필름화) - 화민 필터|filmhwa (필름화) - 화민 필터|filmhwa - @hwa.min's filter|filmhwa - @hwa.min's filter|filmhwa (필름화) - 화민 필터|
 |239|6743342476|Automatic|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|中药方剂速查 -【专业版】中医药查询宝典|
 |238|6742773178|Automatic|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|经络穴位养生 - 中医穴位自我按摩治愈|
-|237|6476663854|Automatic|❌|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|❌|
+|237|6476663854|Automatic|❌|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|Solo Mini Golf|
 |236|6670469064|Automatic|❌|8號出口|8號出口|8號出口|The Exit 8|The Exit 8|The Exit 8|
 |235|6447508479|Automatic|❌|暖雪|暖雪|❌|Warm Snow|Warm Snow|Warm Snow|
 |234|6470958985|Automatic|❌|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|
