@@ -67169,6 +67169,14 @@
     "history": [
       [
         {
+          "timestamp": 1765514320840,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765204215040,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -98949,6 +98957,14 @@
     "history": [
       [
         {
+          "timestamp": 1765514320840,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1763072743115,
           "price": 39.99,
           "formattedPrice": "USD 39.99",
@@ -114540,14 +114556,22 @@
   "6501973975": {
     "name": "休息日",
     "maxPriceInfo": {
-      "price": 2.49,
-      "formattedPrice": "USD 2.49"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 2.49,
       "formattedPrice": "USD 2.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765514320840,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1749543468857,
