@@ -435,7 +435,7 @@ So far, we've covered `7` `Countries or Regions` and  `1595` `Apps` <br />Push n
 |1170|504494723|Automatic|分数计算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|Fraction Calculator PRO #1|Fraction Calculator PRO #1|Calculadora Fraction Plus: PRO|
 |1169|852197796|Automatic|❌|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|
 |1168|1086452026|Automatic|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|
-|1167|1551273147|Automatic|Otter - 水獭的食谱日记|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|
+|1167|1551273147|Automatic|Otter - 饮食日记|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|Otter - Food & Meal Diary|
 |1166|1146269500|Automatic|英语日常用语-学习英语口语基本对话句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|English Phrase Book Learn|English Phrase Book Learn|Frases em Inglês|
 |1165|474177077|Automatic|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|Oh! Edo Towns|
 |1164| ~~6479684285~~ |Automatic| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~❌~~ |
@@ -1442,7 +1442,7 @@ So far, we've covered `7` `Countries or Regions` and  `1595` `Apps` <br />Push n
 |163|1493379610|Manual|时光进度 - 进度管理&待办计划|時光進度 - 待辦事項四象限規劃及進度管理|時光進度 - 待辦事項四象限規劃及進度管理|時光進度 - 待辦事項四象限規劃及進度管理|bProgress - Manage Daily Tasks|bProgress - Manage Daily Tasks|时光进度 - 进度管理&待办计划|
 |162|1255627901|Manual|方便面 - 朋友圈图文排版好帮手|泡麵｜經典原味|泡麵｜經典原味|泡麵｜經典原味|Instant Noodles: Original|Instant Noodles: Original|Instant Noodles: Original|
 |161|1449020025|Manual|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|
-|160|1576004936|Manual|化学 - 元素周期表 2025|化學 - 元素週期表 2025|化學 - 元素週期表 2025|化學 - 元素週期表 2025|Chemistry Periodic Table 2025|Chemistry Periodic Table 2025|Química Tabela Periódica 2025|
+|160|1576004936|Manual|化学 - 元素周期表 2026|化學 - 元素週期表 2026|化學 - 元素週期表 2026|化學 - 元素週期表 2026|Chemistry Periodic Table 2026|Chemistry Periodic Table 2026|Química Tabela Periódica 2026|
 |159|827740598|Manual|小牛计算器(高级版)|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|
 |158|355460798|Manual|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|
 |157|1595313870|Manual|瓦尔登 - 日程管理，待办计划，一个就够|瓦爾登 - 終極個人管理工具|瓦爾登 - 終極個人管理工具|瓦爾登 - 終極個人管理工具|Walden - Calendar/ToDo/Notes|Walden - Calendar/ToDo/Notes|Walden - Calendar/ToDo/Notes|

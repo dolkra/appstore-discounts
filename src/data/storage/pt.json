@@ -2173,6 +2173,25 @@
     "history": [
       [
         {
+          "timestamp": 1765505362397,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "The Mutopia Piano Collection": "5,99 €",
+            "Beethoven: The Mutopia Collection": "0,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765427992653,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -24294,14 +24313,27 @@
       "Retorno a Castlevania": "7,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 4.99,
+      "formattedPrice": "4,99 €",
       "Fatal Falls": "3,99 €",
       "The Bad Seed": "3,99 €",
       "DLC QUEEN AND THE SEA": "3,99 €",
       "Retorno a Castlevania": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765505362397,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "The Bad Seed": "3,99 €",
+            "Fatal Falls": "3,99 €",
+            "DLC QUEEN AND THE SEA": "3,99 €",
+            "Retorno a Castlevania": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1762313071665,
@@ -33331,7 +33363,7 @@
     ]
   },
   "1576004936": {
-    "name": "Química Tabela Periódica 2025",
+    "name": "Química Tabela Periódica 2026",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
@@ -43663,6 +43695,18 @@
       "故事模式+自由模式合集": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765505362397,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "劇情模式": "5,99 €",
+            "自由模式": "5,99 €",
+            "故事模式+自由模式合集": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
