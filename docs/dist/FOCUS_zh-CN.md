@@ -657,7 +657,7 @@
 |951|6508165149|自动|❌|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|
 |950|537280156|自动|❌|Raiden Legacy|Raiden Legacy|Raiden Legacy|Raiden Legacy|Raiden Legacy|Raiden Legacy|
 |949|635644097|自动|调音器 by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|
-|948|727544019|自动|❌|Street Kart #1 Go Kart Game|Street Kart #1 Go Kart Game|Street Kart #1 Go Kart Game|Street Kart #1 Go Kart Game|Street Kart #1 Esports Game|Street Kart #1 Go Kart Game|
+|948|727544019|自动|❌|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|
 |947|950812012|自动|❌|Alto's Adventure|Alto's Adventure|Alto's Adventure|Alto's Adventure|Alto's Adventure|Alto's Adventure|
 |946|1001096601|自动|❌|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|
 |945|1439889483|自动|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|

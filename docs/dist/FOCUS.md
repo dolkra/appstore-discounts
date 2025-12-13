@@ -657,7 +657,7 @@ So far, we've covered `7` `Countries or Regions` and  `1598` `Apps` <br />Push n
 |951|6508165149|Automatic|❌|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|Dungeon Clawler|
 |950|537280156|Automatic|❌|Raiden Legacy|Raiden Legacy|Raiden Legacy|Raiden Legacy|Raiden Legacy|Raiden Legacy|
 |949|635644097|Automatic|调音器 by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|Tuner by Piascore|
-|948|727544019|Automatic|❌|Street Kart #1 Go Kart Game|Street Kart #1 Go Kart Game|Street Kart #1 Go Kart Game|Street Kart #1 Go Kart Game|Street Kart #1 Esports Game|Street Kart #1 Go Kart Game|
+|948|727544019|Automatic|❌|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|SK26: Street Kart Racing Game|
 |947|950812012|Automatic|❌|Alto's Adventure|Alto's Adventure|Alto's Adventure|Alto's Adventure|Alto's Adventure|Alto's Adventure|
 |946|1001096601|Automatic|❌|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|1941 Frozen Front Premium|
 |945|1439889483|Automatic|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|
