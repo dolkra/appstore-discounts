@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1596` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1598` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1598|635717885|Automatic|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|
+|1597|6743339327|Automatic|全面战争模拟器 - DLC 外挂 道具 模组 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|TABS - Cheat DLC Mods Showcase|TABS - Mods Map Tips  Showcase|TABS - Cheat DLC Mods Showcase|
 |1596|6752803014|Automatic|乔古漫 日历|Joguman 日曆|Joguman 日曆|Joguman 日曆|Joguman Daily Calendar|Joguman Daily Calendar|Joguman Daily Calendar|
 |1595|6756117621|Automatic|Easy Find My Stuff|Easy Find My Stuff|Easy Find My Stuff|Easy Find My Stuff|Easy Find My Stuff|Easy Find My Stuff|Easy Find My Stuff|
 |1594|338971047|Automatic|BA金融计算器Pro|BA金融計算器Pro|BA金融計算器Pro|BA金融計算器Pro|BA Financial Calculator Pro|BA Financial Calculator Pro|BA Calculadora Financeira Pro|
