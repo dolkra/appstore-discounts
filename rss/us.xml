@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-12-12T05:48:08.823Z</updated>
+    <updated>2025-12-13T23:35:12.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-12T05:48:08.823Z</updated>
+        <updated>2025-12-13T23:35:12.616Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusFri, 12 Dec 2025 05:48:08 GMT</id>
+        <id>rankingusSat, 13 Dec 2025 23:35:12 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-12T05:48:08.823Z</updated>
+        <updated>2025-12-13T23:35:12.616Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1595</b>
+        <b>1598</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1394</b>
+        <b>1397</b>
       </td>
       <td>
         <b>72</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1471</b>
+        <b>1474</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1295</b>
+        <b>1298</b>
       </td>
       <td>
         <b>58</b>
@@ -277,14 +277,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id983143183">Neo Monsters</a>
+        <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>永久会员</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -294,7 +300,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1020541183">MovieSpirit - Movie Maker Pro</a>
+        <a href="https://apps.apple.com/us/app/id983143183">Neo Monsters</a>
       </td>
       <td>
         <ul>
@@ -311,7 +317,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1067575393">Image Eraser - Inpaint & heal</a>
+        <a href="https://apps.apple.com/us/app/id1020541183">MovieSpirit - Movie Maker Pro</a>
       </td>
       <td>
         <ul>
@@ -328,7 +334,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1160943124">Speech to Text : Voice to Text</a>
+        <a href="https://apps.apple.com/us/app/id1067575393">Image Eraser - Inpaint & heal</a>
       </td>
       <td>
         <ul>
@@ -345,7 +351,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1195035357">Dungeon Defense : The Gate</a>
+        <a href="https://apps.apple.com/us/app/id1160943124">Speech to Text : Voice to Text</a>
       </td>
       <td>
         <ul>
@@ -362,7 +368,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1239299402">Street Fighter IV CE</a>
+        <a href="https://apps.apple.com/us/app/id1195035357">Dungeon Defense : The Gate</a>
       </td>
       <td>
         <ul>
@@ -379,7 +385,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1250601531">RAW Power</a>
+        <a href="https://apps.apple.com/us/app/id1239299402">Street Fighter IV CE</a>
       </td>
       <td>
         <ul>
@@ -396,7 +402,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1389752090">Dead Cells</a>
+        <a href="https://apps.apple.com/us/app/id1250601531">RAW Power</a>
       </td>
       <td>
         <ul>
@@ -413,7 +419,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
+        <a href="https://apps.apple.com/us/app/id1389752090">Dead Cells</a>
       </td>
       <td>
         <ul>
@@ -430,7 +436,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1439886655">Cultist Simulator</a>
+        <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
         <ul>
@@ -447,7 +453,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1442035374">A Master of Go</a>
+        <a href="https://apps.apple.com/us/app/id1439886655">Cultist Simulator</a>
       </td>
       <td>
         <ul>
@@ -462,6 +468,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>22</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1442035374">A Master of Go</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1444636541">Photomator – Photo Editor</a>
@@ -484,7 +507,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453820315">This Is the Police 2</a>
@@ -501,7 +524,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1461652639">iSocketTool</a>
@@ -518,7 +541,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1481100296">BreatheIn: Calm Breathing</a>
@@ -535,7 +558,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1523633394">SpongeBob SquarePants</a>
@@ -552,7 +575,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1533979882">Northgard</a>
@@ -569,7 +592,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1538900393">Boxing Gym Story</a>
@@ -586,7 +609,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1561442623">Access Code Zero</a>
@@ -603,7 +626,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
@@ -620,7 +643,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1576004936">Chemistry Periodic Table 2026</a>
@@ -637,7 +660,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1580067723">Wall of insanity</a>
@@ -654,7 +677,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -671,7 +694,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -696,7 +719,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1614771445">Rotaeno</a>
@@ -713,7 +736,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1621065119">Ace Attorney Trilogy</a>
@@ -730,7 +753,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1623111026">Pocket Academy 3</a>
@@ -747,7 +770,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -774,7 +797,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642715290">Little Big Workshop</a>
@@ -791,7 +814,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -808,7 +831,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1672085276">Aiko</a>
@@ -825,7 +848,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6746649752">MagicKit Pro: AI Smart Toolbox</a>
@@ -842,7 +865,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6463115144">TV Studio Story</a>
@@ -859,7 +882,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6744608603">A Game About Digging A Hole™</a>
@@ -876,7 +899,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446021269">MEGA MAN X DiVE Offline</a>
@@ -893,7 +916,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -922,7 +945,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -1481,6 +1504,69 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
+        <id>生辰 — 桌面时间小组件-us-1765664722337</id>
+        <link href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
+        <updated>2025-12-13T22:25:22.337Z</updated>
+        <summary type="html"><![CDATA[永久会员: $14.99 → $12.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7b/02/1d/7b021dd2-0839-e158-f254-4cce3fa8c920/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>永久会员：</strong><span>$14.99</span> → <b>
+  <strong>$12.99</strong>
+</b><span>[$12.99 ~ $19.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    生辰-年度会员：<b>$12.99</b>
+  </li><li>
+    生辰年度会员：<b>$9.99</b>
+  </li><li>
+    永久会员：<b>$12.99</b>
+  </li><li>
+    月度会员：<b>$1.99</b>
+  </li><li>
+    生辰-季度会员：<b>$12.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  这是一款关于生、死、心愿与延续的App。
+
+小时候，我以为自己是不会老去的彼得·潘，却终究敌不过健康磨损，容颜老去。
+时针转动，生命流逝，但每一次心跳都可以更加有力。
+
+有时候，生命只是一连串的数字，多少年，多少月，多少小时，多少分钟。当你意识到这个时，往往陷入巨大的虚无感之中，惶恐不能自拔。
+而现在，这些数字可以成为你重塑生命的坐标，指引你走向更健康、更长久的未来。
+
+生辰 2.0 通过 AI 分析和科学判断，不仅预测生命的终点，更为你铺就延长生命的道路：
+
+- 探索你的生命时钟：了解当下的预期寿命，直面生命的有限与珍贵。
+- 发现延寿的可能：看见改变健康习惯能为你带来多少额外的生命时光。
+- 聚合健康数据：自动追踪睡眠、锻炼、压力（HRV）、经期、喝水等十余种健康数据
+
+美国诗人纳·斯待尔在87岁那年写道：
+"如果我能够从头活过，我会试着犯更多的错。
+我会放松一点，我会灵活一点。
+我会爬更多的山，游更多的河，看更多的日落。"
+
+因为了解生命的终点，才能更好地珍惜当下的每一刻。生辰2.0 探索健康的可能，让我们成为你健康旅程的长久伙伴。
+
+【生辰 App 会员服务说明】
+
+1.会员包含几种订购类型
+订阅周期：1个月、3个月、12个月
+2.首次订购后会通过iTunes账户直接支付；账户会在到期前24小时内扣费，扣费成功后自动顺延一个订阅周期
+3.本服务由您自主选择是否续订，如需取消，请在订阅到期24小时前，在 AppleID 设置中取消
+4.生辰App 会员协议
+生辰App 会员服务协议：https://post.jellow.club/whatslife-payment/
+5.生辰App 软件协议与隐私政策
+生辰 软件许可及服务协议：https://post.jellow.club/whatslife-agreement/
+生辰 隐私协议：https://post.jellow.club/whatslife-privacy/
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Card.Note - 多彩卡片笔记]]></title>
@@ -2271,283 +2357,5 @@ We're looking forward to any feedback and comments on MovieSpirit, and if you ha
 
 We are committed to your long-term satisfaction. Thanks!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/84/43/c6/8443c612-e66f-2cc4-5404-28496758665d/mzl.vouvntxp.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/a6/b9/81a6b968-db10-16b0-7122-fc4bf9a89139/mzl.irrolmav.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5e/8d/10/5e8d104d-5b8e-8725-b913-0fec3a00d852/mzl.mhpnjkrz.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/55/22/99/552299e2-cf56-fa58-c350-3896ade7ec99/mzl.tasdcgmo.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e5/55/80/e55580c3-ea91-dee0-2e79-6aacfa44eaa6/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/a0/dd/d1a0dd33-42a6-43d9-bd74-e4d1aaf3e727/mzl.gyaqzhtx.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/14/f8/b1/14f8b185-87f3-3d82-6b0c-e34173307848/mzl.zegpdavb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f2/8a/dd/f28addfb-74f5-1398-1267-8fb1cabff9e6/mzl.spbtrnit.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5f/3d/f1/5f3df1c1-daac-1cb8-f8c2-adf671519289/mzl.rkeuxqiq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/15/b1/b815b16e-b741-2fb6-68f7-7f1a61ac89b5/pr_source.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聖經(和合本)(繁體中英對照)]]></title>
-        <id>聖經(和合本)(繁體中英對照)-us-1765371556444</id>
-        <link href="https://apps.apple.com/us/app/%E8%81%96%E7%B6%93-%E5%92%8C%E5%90%88%E6%9C%AC-%E7%B9%81%E9%AB%94%E4%B8%AD%E8%8B%B1%E5%B0%8D%E7%85%A7/id327742738?uo=4"/>
-        <updated>2025-12-10T12:59:16.444Z</updated>
-        <summary type="html"><![CDATA[La Bible: $5.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%81%96%E7%B6%93-%E5%92%8C%E5%90%88%E6%9C%AC-%E7%B9%81%E9%AB%94%E4%B8%AD%E8%8B%B1%E5%B0%8D%E7%85%A7/id327742738?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/91/ea/fa/91eafa4a-4117-1587-7497-405e441d5ab3/mzl.mvttttye.jpg/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>La Bible：</strong><span>$5.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $5.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$4.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    La Biblia：<b>$1.99</b>
-  </li><li>
-    日本聖書：<b>$1.99</b>
-  </li><li>
-    La Bible：<b>$1.99</b>
-  </li><li>
-    聖經(粤语朗读)：<b>$5.99</b>
-  </li><li>
-    圣经(普通话朗读)：<b>$5.99</b>
-  </li><li>
-    圣经(简体文本)：<b>$1.99</b>
-  </li><li>
-    English Bible(audio)：<b>$5.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  聖經(和合本)(繁體中英對照)
-	Application contains traditional Chinese bible and English bible for reference reading.
-	可自由選擇中英對照, 繁體中文或英文聖經閱讀.
-
-
-請參考在PalReader 網站上的使用錄像來深入了解此應用程序.
-閱讀程序具有以下先進功能:
-
-專為iPhone 而做的存儲優化, 存儲相同的圖書比其它程序節省超過30%的空間.
-全屏幕閱讀支持. LoudReader 只在用戶需要時顯示控制對話框, 而其它iPhone 閱讀程序顯示控制始終佔用寶貴的屏幕.
-支持任意方向閱讀. 程序自動調整圖書顯示方式.
-使用HTML顯示圖書的多種字體與圖像, 優於其它程序的單一字體文本顯示方式.
-頁內捲動控制幫助讀者在長頁面內快速移動到任意位置.
-直觀調整字體大小,顏色以及背景.
-手指雙擊擊即可使用的章節選擇, 字體大小控制.
-歷史記憶功能幫助用戶快速到任意章節或前後章節
-準確回到上次閱讀位置(甚至包括上次卷滾條位置)
-
-操作簡介
-
-每一章為一長頁, 用手指拖動卷滾或輕擊頁面上部1/4或下部1/4進行向上或向下翻頁.
-雙擊頁面即可彈出控制面板. 閱讀器的操作由這一個彈出式控制面板控制, 簡單直觀方便易用.
-如希望快速在頁面內移動, 可用控制面板小滾輪選擇頁面位置百分比.
-輕擊綠色的箭頭控制章節導航的後退和前進.
-退出閱讀器時程序會自動記住最後的閱讀位置(甚至包括上次卷滾條位置), 下次進入閱讀器時程序直接打開到此處.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/6e/18/16/6e1816f2-f59b-cc7c-f8e0-91ec4c387cdf/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/26/33/cb/2633cbfa-8575-e82d-24db-7a6df4b4d719/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/e5/95/1de5955b-0a5a-abc7-ea25-83128cb228a1/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/0f/05/a2/0f05a290-c791-f7d5-ddf8-56037297a00a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/40/ea/17/40ea175b-47c7-452d-43e4-bf4afab9218c/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/a1/1c/6f/a11c6f51-007a-c9e4-acb3-cef1b64e621c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/23/b8/67/23b86758-b10b-4870-e101-54342394b4a9/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/12/88/91/128891c8-3b80-57a2-8a3a-cfb999c9a23c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/39/74/1d/39741d11-dee5-cce6-647d-ffba0ccd65e6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/30/d8/1d/30d81de6-9a13-3ef7-00af-cda5f67bbc2c/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Master of Go]]></title>
-        <id>A Master of Go-us-1765371556444</id>
-        <link href="https://apps.apple.com/us/app/a-master-of-go/id1442035374?uo=4"/>
-        <updated>2025-12-10T12:59:16.444Z</updated>
-        <summary type="html"><![CDATA[Price: $9.99 → $6.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/a-master-of-go/id1442035374?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/ce/d4/ebced41b-f739-afe4-7b9e-657d97a376bb/AppIcon-1x_U007emarketing-0-8-0-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$9.99</span> → <b>
-  <strong>$6.99</strong>
-</b><span>[$6.99 ~ $9.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$6.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    KataGo Engine：<b>$14.99</b>
-  </li><li>
-    200 coins：<b>$0.49</b>
-  </li><li>
-    KataGo Human Imitation：<b>$5.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  It is a Go AI featuring a neural network of that strong, open source AI. Leela Zero, ELF OpenGo, PhoenixGo, Minigo, SAI, and optionally KataGo!
-
-You can use it as a strong opponent, and as a good teacher at the time of study.
-
-With M2 processor of iPad Pro, the playouts are performed over 650 times per second with ELF OpenGo weight v1, and with A15 Bionic processor of iPad mini, over 200 times per second! Both exceed notebook computers and is comparable to desktop computers. With M2 processor of iPad Pro,  the playouts are performed over 250 times per second with KataGo b18c384nbt!
-Other famous weights are also included.
-
-For your information, the playout speed on the iPad Pro 9.7 inch model(A9X processor) will be about 10 times per second, and the one on the iPhone 6(A8 processor) will be about 1 time per second. I think that even so it is stronger than most amateurs, but I am sorry that patterns of misreading ladders will increase.
-Please be careful when considering purchasing.
-
-Enjoy it!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/03/f0/f803f0b4-382e-30df-ab0f-1d81acf536c7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/8f/a6/f08fa6fd-5e7d-892a-3123-cd861956b1ab/mzl.sgoskvrj.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d5/97/96/d59796b6-a619-2280-6283-e5e358947753/mzl.echnvdio.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/41/e8/64/41e864b6-c790-0aa4-4168-9b1ab3b88585/mzl.ilggzzkd.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/6a/81/396a811c-1a2b-af1f-eb62-76d32cc82a56/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/97/c5/29/97c52926-d474-b737-1724-c0c21d834bb0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/60/05/5c6005ee-4338-a65c-0d43-08884bb5920d/mzl.xujvzbql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/00/67/d5/0067d5c5-8042-d798-e725-14ce4c1791fc/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/12/c5/c8/12c5c846-058f-e3d0-5eb0-65dac8866b99/mzl.ljybedad.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/38/58/2e/38582e0a-1c00-b3e2-24aa-440c7f38933b/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BatteryFull + (Alarm)]]></title>
-        <id>BatteryFull + (Alarm)-us-1765312080684</id>
-        <link href="https://apps.apple.com/us/app/batteryfull-alarm/id325915322?uo=4"/>
-        <updated>2025-12-09T20:28:00.684Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/batteryfull-alarm/id325915322?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/e5/2b/8be52ba2-5c47-44c2-f99e-e269709f148d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Pro Version：<b>$0.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  *1st App with Charged Notification since 2009
-*120k users worldwide
-
-You no longer need to waste your time looking at your iPhone till your battery is charged, you will be alerted once your battery reaches your desired level. With the Apple Watch app, you can check your iPhone charging progress from your watch, making things even more convenient.
-
-In addition to the charged notifications, BatteryFull+ (alarm) now provides a history of your charging sessions. You can track how long it takes to charge your device, and see how much time you spend charging it. With this feature, you can optimize your charging habits and extend your device's battery life.
-
-How does it Work?
-
-For iPhone Users
-Simply plug in your device and turn on the app. Set the alarm by moving the alarm icon to your desired level, and activate it by clicking "Set Alarm." Keep the app open and your phone unlocked for the alarm to sound at the desired level. With the pro feature, you can also view your charging history and track your charging habits to optimize your device's battery life.
-
-For Apple Watch Users
-You can check the battery level of your iPhone anytime or you can check your iPhone charging progress from your watch using the Apple Watch app. Enable notifications on your Apple Watch and you will receive notification during charging.
-
-
-Achievements 
-Ranked in the top 100 free utilities in 43 countries and the top 100 paid utilities in 15 and 17 countries in November and December 2009
-
-
-What our customers said:
-
-"If you 'love' your iPhone, this app is a must-have." - Thai Tanic
-"Is highly recommended" - Fredericia iPhone Macho
-"Excellent" - Nabil Ahmed
-"Exactly what was missing!!!"
-
-Here are some reviews from sites:
-
-"Sitting around waiting for your battery to be fully charged is dumb! With BatteryFull+ (alarm), you'll still have to sit around, but at least you won't have to check it every 5 minutes... just wait for the app to tell you when your battery is fully charged." - iPhoneAppReviews
-
-"The application BatteryFull can help you save energy. The iPhone is fully charged within two hours, so there's no need to keep it on the charger the entire night." - iPhoneFreakz
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b0/5c/23/b05c23b8-e5b4-cec6-2b13-5f112386e978/465a9336-812f-4eac-8f5d-1c6c711cfb25_screenshot1.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b7/7b/0f/b77b0f40-9d58-3a9f-b14d-10a453de4f85/32c0d450-218f-4e59-973d-2613fe7a04d1_screenshot3.jpeg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/fb/90/92fb904f-478d-dc46-c485-6f390e95eb4c/8d1369c6-3289-4502-a136-b684a2c51b62_IMG_3404.JPG/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e8/83/6a/e8836a8f-e6b2-00a4-865a-4489bed7abb3/466ade47-252b-4d17-9828-c363397d43fa_screenshot2.jpeg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/7b/9d/847b9dd9-1b68-5ca1-6802-98e63cc9475c/5fd28792-c27a-45d3-abeb-3f9ef638e084_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-03-18_at_16.49.05.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Northgard]]></title>
-        <id>Northgard-us-1765298160562</id>
-        <link href="https://apps.apple.com/us/app/northgard/id1533979882?uo=4"/>
-        <updated>2025-12-09T16:36:00.562Z</updated>
-        <summary type="html"><![CDATA[Price: $7.99 → $4.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/northgard/id1533979882?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$7.99</span> → <b>
-  <strong>$4.99</strong>
-</b><span>[$4.99 ~ $7.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$4.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Scale Bundle：<b>$6.99</b>
-  </li><li>
-    Fur Bundle：<b>$6.99</b>
-  </li><li>
-    Clan of the Dragon：<b>$2.99</b>
-  </li><li>
-    Clan of the Lynx：<b>$2.99</b>
-  </li><li>
-    Clan of the snake：<b>$2.99</b>
-  </li><li>
-    Clan of the Kraken：<b>$2.99</b>
-  </li><li>
-    Clan of the Horse：<b>$2.99</b>
-  </li><li>
-    Winter Bundle：<b>$6.99</b>
-  </li><li>
-    Clan of the Squirrel：<b>$2.99</b>
-  </li><li>
-    Clan of the Eagle：<b>$2.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Northgard is a strategy game based on Norse mythology in which you control a Clan of Vikings fighting for the control of a mysterious newfound continent.
-
-After years of tireless explorations, brave Vikings have discovered a new land filled with mystery, danger and riches: NORTHGARD.
-
-The boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods.
-
-That is, if they can survive the dire Wolves and Undead Warriors roaming the land, befriend or defeat the giants, and survive the harshest winters ever witnessed in the North.
-
-FEATURES
-• Build your settlement on the newly discovered continent of Northgard
-• Assign your vikings to various jobs (Farmer, Warrior, Sailor, Loremaster...)
-• Manage your resources carefully and survive harsh winters and vicious foes
-• Expand and discover new territory with unique strategic opportunities
-• Achieve different victory conditions (Conquest, Fame, Lore, Trading...)
-
-STORY MODE: RIG’S SAGA
-The Viking High King is murdered and his Regal Horn is stolen by a man named Hagen.
-This event kickstarts a saga that will take Rig, his son and heir accompanied by his right-hand man Brand through the new continent of Northgard.
-The continent where he will make new friends and foes and discover a much greater threat than Hagen, and the reasons behind his father’s assassination.
-
-MULTIPLAYER
-• Play with or against other Mobile players with up to 6 players
-• Includes Duel, Free for All and Teamplay modes
-
-CHOOSE YOUR CLAN
-In order to complete the 11 campaign chapters, the player will have to master the specificities of the 6 first clans and tame the unforgiving wilderness of Northgard.
-
-More clans are joining the fight for Northgard!
-• Clan of the Snake: Act from the shadows and take the lead with cunning guerilla tactics
-• Clan of the Dragon: Embrace the old ways and please the gods with sacrifices
-• Clan of the Kraken: Harness the bounty of the sea and unleash its brutal might
-You can unlock the clans of the Snake, Dragon and Kraken separately by buying the DLCs, or together with the Scale Bundle.
-
-• Clan of the Horse: Devote yourself to the art of blacksmithing and craft powerful Relics
-• Clan of the Ox: Equip ancestral equipment and prove the might of your forefathers
-• Clan of the Lynx: Adopt Nature’s way and lure mythical preys into ambushes
-You can unlock the Clans of the Horse, Ox and Lynx separately by buying the DLCs, or together with the Fur Bundle.
-
-• Clan of the Squirrel: Gather ingredients to prepare special recipes and survive the harsh winters
-• Clan of the Rat: Embrace the way of the Shamans and work for the clan
-• Clan of the Eagle: Occupy a large territory, venture outside and gather resources
-Unlock the clans of the Squirrel, Rat and Eagle separately by buying the DLCs, or together with the Winter Bundle.
-
-
-Carefully redesigned for mobile
-• Revamped interface
-• Game Center achievements
-• iCloud - Share your progress between iOS devices
-
-If you experience any issue with Northgard, please contact our customer support at support@playdigious.mail.helpshift.com and give us as much as possible information on your problem.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/60/ef/c460efd8-ce2b-75e0-6f70-e76168de0169/263191c3-3f92-433a-a456-f1ee68f20f54_NG_SN_9DLC_EN_2208x1242px.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/75/2a/3b752ad2-2877-a4b7-68c2-0ce4154ce43b/2bb44e29-bf57-4bd1-8443-fbe6c2296a02_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/ed/1b/03ed1bdb-6531-3eeb-bf94-f4eecbf18db3/5fbbda2a-4dda-4d52-a029-e40f2d08aca5_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/bb/41/07bb4116-adcf-d2a9-3b07-f4c35120ba41/ab759f98-e5f1-4fdb-a5d0-13dad5ca06ed_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/5f/ce/a75fce8c-cae2-540c-7a7c-c74223a5ee07/9bfd13d7-b45d-4749-9f6d-f65d0e6b7731_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/6f/e8/246fe8e5-3136-6a40-0359-85f3eb26b360/cfc0c4f2-8313-4750-90a2-82eb5bab33cc_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/f3/f3/6cf3f3e9-894c-cb54-64f1-2e8edfd62524/f9ea42eb-03f5-4727-b210-4b4c5ee949fa_6_U00285.5_U0029.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/86/1e/db861e48-c43d-62d9-0ccb-4bd2840d3a6e/92810517-a191-4010-a496-51cd095a3c5c_7.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/f2/a1/4af2a1e6-f33f-32c2-f29b-9eb48cc17f3e/bf60db00-e303-452e-874e-af90d49746e0_8.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/48/dc/a6/48dca63c-79b4-ff0a-3eac-379cca763290/e7968081-9c38-4344-adb2-6e5d527333e5_NG_SN_9DLC_EN_2732x2048px.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/97/81/b8978180-f05e-49c2-d3ca-d9c7705222d7/ef4f6a6f-8875-45f3-82f3-2e4eb4bb8f76_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/3b/0f/d63b0f1f-3cd0-7fa9-13cf-1ca3cce6bb9c/34574b48-ac60-42de-a9c7-fbc7b3fdeffd_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/7a/0c/387a0cda-7dd8-607f-8619-af1aba54790a/e7075d6a-7711-4d17-ac76-5faa841fac2b_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/ec/09/e2ec096d-1630-cd2c-64b9-5b02d18ea438/9846d9ef-5d57-453a-85c7-b17618147abf_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/62/6b/ae626b30-0990-2d08-33f8-180db4568767/4af64a95-6a04-4c82-b5ba-641bd0babf77_7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/43/c2/fb43c2e7-a7b3-df3d-5f64-862d4810cb3d/1aaf0286-806b-4c6b-ad7c-8bee203550da_8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/0c/17/610c1749-6c98-1535-caee-1c740c4e90d3/e80fd7d7-90f6-4690-8503-01403b32c93d_9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/cd/a4/eacda4f3-9aba-8942-7790-bccdc3d339b8/4ac8b13b-0254-4cc8-a7ce-d31984aecc97_10.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/72/7d/1e727d4a-a637-3948-8e46-f715718c3125/250cc8d6-f21a-414f-add8-e0b934db1ece_11.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BreatheIn: Calm Breathing]]></title>
-        <id>BreatheIn: Calm Breathing-us-1765269523512</id>
-        <link href="https://apps.apple.com/us/app/breathein-calm-breathing/id1481100296?uo=4"/>
-        <updated>2025-12-09T08:38:43.512Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → $0.49]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/breathein-calm-breathing/id1481100296?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/17/46/fa174617-2bb7-620c-12e2-044b8aa082d0/AppIcon-0-0-1x_U007epad-0-85-220-0.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>$0.49</strong>
-</b><span>[Free ~ $1.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.49</b>
-</p><h2>Application Description</h2><p>
-  Feeling overwhelmed by the chaos of life? Find your peace and vitality with BreatheIn, the app that helps you unlock the power of mindful breathing.
-
-Rediscover Calm and Energy
-
-Deep, mindful breathing is the key to a calm mind and a vibrant body. With BreatheIn, immerse yourself in guided exercises that harmonize your body and mind, leading to true balance and renewal.
-
-Expertly Curated Practices
-
-We've handpicked and tested each exercise to ensure you get the best. Start your journey toward a healthier, more fulfilled life today!
-
-Seamless Apple Health Integration
-
-Track your progress effortlessly—BreatheIn automatically syncs with Apple Health, making it easy to monitor your wellness journey.
-
-Explore a Range of Techniques
-
-- Square Breathing (4-4-4-4): Regain control and calm your mind.
-- Relax Breathing (4-7-8): Beat anxiety and fall asleep faster.
-- Bee Breathing: Soothe your mind with this relaxing technique.
-- Coherent Breathing: Improve your well-being through HRV enhancement.
-- Transform Your Life, One Breath at a Time
-
-Conquer stress, boost your resilience, and rediscover balance with every breath. Download BreatheIn now and take the first step toward a more vibrant, peaceful you!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/c3/01/22c30108-74a7-8d0e-4c47-9575180917f6/49c2a0f2-4368-431d-93e6-e5e7b7920078_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.18.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/6c/f0/276cf030-d97a-2bd6-3eb8-afda930b7973/58b54ad9-5470-4977-a6ab-dd6cfce8c87b_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.15.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/02/f3/cb/02f3cbf7-6748-8e26-4c36-791525411b0f/4000a986-5670-4d10-8fe0-410a86c0c568_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.13.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/24/4c/29244c11-c770-4285-3170-4b68845575a7/e020205e-e234-4d64-8020-04c53a71bcb2_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.10.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e4/7e/f8/e47ef829-d42c-8980-8a97-a0cea1a5c4b3/237762f3-3dd5-42af-af62-ed187e9b8cee_Simulator_Screen_Shot_-_iPhone_8_Plus_-_2021-09-29_at_14.34.07.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
