@@ -1555,7 +1555,7 @@
 |53|1631331207|手动|❌|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|
 |52|1598130789|手动|❌|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|
 |51|1085114709|手动|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|
-|50|6450262949|手动|Longshot - 截图 & OCR文字识别|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Captura de tela OCR|
+|50|6450262949|手动|Longshot - 截图 & OCR文字识别|Longshot－截圖與 OCR 文字辨識|Longshot－截圖與 OCR 文字辨識|Longshot－截圖與 OCR 文字辨識|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Captura de tela OCR|
 |49|6451498949|手动|❌|Stray|Stray|Stray|Stray|Stray|Stray|
 |48|1630403500|手动|APTV|APTV|APTV|APTV|APTV|APTV|APTV|
 |47|1552536109|手动|PasteNow - 剪贴板工具|PasteNow - 剪貼簿工具|PasteNow - 剪貼簿工具|PasteNow - 剪貼簿工具|PasteNow - Instant Clipboard|PasteNow - Instant Clipboard|PasteNow - Instant Clipboard|
