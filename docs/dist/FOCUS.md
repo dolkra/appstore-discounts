@@ -1555,7 +1555,7 @@ So far, we've covered `7` `Countries or Regions` and  `1598` `Apps` <br />Push n
 |53|1631331207|Manual|❌|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|Hitman: Blood Money — Reprisal|
 |52|1598130789|Manual|❌|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|Company of Heroes Collection|
 |51|1085114709|Manual|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|Parallels Desktop|
-|50|6450262949|Manual|Longshot - 截图 & OCR文字识别|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|
+|50|6450262949|Manual|Longshot - 截图 & OCR文字识别|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Screenshot & OCR|Longshot - Captura de tela OCR|
 |49|6451498949|Manual|❌|Stray|Stray|Stray|Stray|Stray|Stray|
 |48|1630403500|Manual|APTV|APTV|APTV|APTV|APTV|APTV|APTV|
 |47|1552536109|Manual|PasteNow - 剪贴板工具|PasteNow - 剪貼簿工具|PasteNow - 剪貼簿工具|PasteNow - 剪貼簿工具|PasteNow - Instant Clipboard|PasteNow - Instant Clipboard|PasteNow - Instant Clipboard|
