@@ -47837,8 +47837,8 @@
   "6476663854": {
     "name": "Solo Mini Golf",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 0.49,
+      "formattedPrice": "0,49 €",
       "Pack IV": "1,99 €",
       "Pack II": "0,49 €",
       "Pack III": "0,99 €",
@@ -47853,6 +47853,19 @@
       "Pack I": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765729912538,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "Pack IV": "1,99 €",
+            "Pack II": "0,49 €",
+            "Pack III": "0,99 €",
+            "Pack I": "0,29 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765578414498,

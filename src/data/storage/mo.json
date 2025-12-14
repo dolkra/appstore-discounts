@@ -70232,10 +70232,18 @@
       "formattedPrice": "USD 44.99"
     },
     "minPriceInfo": {
-      "price": 44.99,
-      "formattedPrice": "USD 44.99"
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765729912538,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
@@ -89561,6 +89569,14 @@
     "history": [
       [
         {
+          "timestamp": 1765729912538,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765384562735,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -100791,6 +100807,14 @@
       "Hello World!": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765729912538,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763742909378,
