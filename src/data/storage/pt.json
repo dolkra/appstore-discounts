@@ -7863,6 +7863,25 @@
     "history": [
       [
         {
+          "timestamp": 1765687237381,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "Skatepark: Inbound": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765621619570,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -42215,7 +42234,8 @@
       "Global scenery - 3 months": "7,99 €",
       "Airbus A320neo": "3,99 €",
       "Boeing 787-9": "3,99 €",
-      "CRJ900": "0,99 €"
+      "CRJ900": "0,99 €",
+      "EC135": "0,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -42242,9 +42262,29 @@
       "Global scenery - 3 months": "7,99 €",
       "Airbus A320neo": "3,99 €",
       "Boeing 787-9": "3,99 €",
-      "CRJ900": "0,99 €"
+      "CRJ900": "0,99 €",
+      "EC135": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765687237381,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A320neo": "3,99 €",
+            "EC135": "0,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Boeing 787-10": "1,99 €",
+            "CRJ900": "0,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Global scenery - 3 months": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765600356999,
