@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1598` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1599` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1599|6739762570|Automatic|生物原型2|❌|❌|❌|❌|❌|❌|
 |1598|635717885|Automatic|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|
 |1597|6743339327|Automatic|全面战争模拟器 - DLC 外挂 道具 模组 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|TABS - Cheat DLC Mods Showcase|TABS - Mods Map Tips  Showcase|TABS - Cheat DLC Mods Showcase|
 |1596|6752803014|Automatic|乔古漫 日历|Joguman 日曆|Joguman 日曆|Joguman 日曆|Joguman Daily Calendar|Joguman Daily Calendar|Joguman Daily Calendar|
@@ -620,7 +621,7 @@ So far, we've covered `7` `Countries or Regions` and  `1598` `Apps` <br />Push n
 |988|6742526717|Automatic|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|
 |987|6478398981|Automatic|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
 |986|528181527|Automatic|行车记录仪 「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Driving Recorder|TripREC Driving Recorder|gravador de condução「TripREC」|
-|985|545625741|Automatic|❌|數學之王：完整版|數學之王：完整版|數學之王：完整版|King of Math: Full Game|King of Maths: Full Game|Rei da Matemática: Completo|
+|985|545625741|Automatic|❌|數學之王：完整版|數學之王：完整版|數學之王：完整版|King of Math: Full Game|King of Maths: School Ed|Rei da Matemática: Escolar|
 |984|592398757|Automatic|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|
 |983|669835030|Automatic|WinZip完整版: 压缩/解压|WinZip完整版|WinZip完整版|WinZip完整版|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|
 |982|672649451|Automatic|Panecal Plus 科学计算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|

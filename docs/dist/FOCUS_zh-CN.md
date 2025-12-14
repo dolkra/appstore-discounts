@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1598` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1599` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1599|6739762570|自动|生物原型2|❌|❌|❌|❌|❌|❌|
 |1598|635717885|自动|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|
 |1597|6743339327|自动|全面战争模拟器 - DLC 外挂 道具 模组 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|TABS - Cheat DLC Mods Showcase|TABS - Mods Map Tips  Showcase|TABS - Cheat DLC Mods Showcase|
 |1596|6752803014|自动|乔古漫 日历|Joguman 日曆|Joguman 日曆|Joguman 日曆|Joguman Daily Calendar|Joguman Daily Calendar|Joguman Daily Calendar|
@@ -620,7 +621,7 @@
 |988|6742526717|自动|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|
 |987|6478398981|自动|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
 |986|528181527|自动|行车记录仪 「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Driving Recorder|TripREC Driving Recorder|gravador de condução「TripREC」|
-|985|545625741|自动|❌|數學之王：完整版|數學之王：完整版|數學之王：完整版|King of Math: Full Game|King of Maths: Full Game|Rei da Matemática: Completo|
+|985|545625741|自动|❌|數學之王：完整版|數學之王：完整版|數學之王：完整版|King of Math: Full Game|King of Maths: School Ed|Rei da Matemática: Escolar|
 |984|592398757|自动|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|
 |983|669835030|自动|WinZip完整版: 压缩/解压|WinZip完整版|WinZip完整版|WinZip完整版|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|
 |982|672649451|自动|Panecal Plus 科学计算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|
