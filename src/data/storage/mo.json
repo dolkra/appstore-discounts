@@ -41033,6 +41033,25 @@
     "history": [
       [
         {
+          "timestamp": 1765910485546,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "问财专业版连续包月": "USD 24.99",
+            "问财进阶版连续包月": "USD 9.99",
+            "598花币": "USD 89.99",
+            "299花币": "USD 39.99",
+            "早盘选股宝连续包月": "USD 39.99",
+            "机构探测器连续包月": "USD 17.49",
+            "金牛情报连续包月": "USD 10.99",
+            "分时顶底连续包季": "USD 18.99",
+            "波段雷达连续包季": "USD 41.99",
+            "主力密码连续包月": "USD 17.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -59895,7 +59914,7 @@
       "Hero Tank": "USD 5.99",
       "Hero Eiskalt": "USD 5.99",
       "Tower Deep Devil's Reef": "USD 2.99",
-      "Pirate Kings Campaign!": "USD 7.99",
+      "Pirate Kings Campaign!": "USD 9.99",
       "Tower Ignis Altar": "USD 2.99",
       "Hero Grosh": "USD 4.99",
       "Special Offer 27": "USD 7.99",
@@ -59932,6 +59951,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1765910485546,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Mega Tower Bundle": "USD 15.99",
+            "Mega Heroe Bundle": "USD 17.99",
+            "Hero Beresad": "USD 6.99",
+            "Hammerhold Campaign!": "USD 7.99",
+            "Tower Grim Cemetery": "USD 2.99",
+            "Tower Blazing Gem": "USD 4.99",
+            "Hero Tank": "USD 5.99",
+            "Hero Mortemis": "USD 2.99",
+            "Hero Eiskalt": "USD 5.99",
+            "Pirate Kings Campaign!": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1765903130627,
           "price": 4.99,
@@ -65843,6 +65879,25 @@
     "history": [
       [
         {
+          "timestamp": 1765910485546,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Rate": "USD 0.00",
+            "Info": "USD 0.00",
+            "Tuner": "USD 0.00",
+            "Chromakey": "USD 0.00",
+            "Unlock All": "USD 7.99",
+            "Paint": "USD 0.00",
+            "Erase": "USD 0.99",
+            "Blend": "USD 0.99",
+            "Distortion": "USD 0.00",
+            "Magnifier": "USD 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -66736,13 +66791,25 @@
     "name": "NotePad++ - Pro",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "Notepad Pro+ Advanced Tools": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "Notepad Pro+ Advanced Tools": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765910485546,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Notepad Pro+ Advanced Tools": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -83977,15 +84044,35 @@
       "price": 6.99,
       "formattedPrice": "USD 6.99",
       "Norse Lands": "USD 2.99",
-      "Call of Olympus": "USD 3.99"
+      "Call of Olympus": "USD 3.99",
+      "Archon's Royal Wardrobe": "USD 2.99",
+      "Regent's Royal Wardrobe": "USD 2.99",
+      "Decennial Royal Wardrobe": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99",
       "Norse Lands": "USD 1.99",
-      "Call of Olympus": "USD 2.99"
+      "Call of Olympus": "USD 2.99",
+      "Archon's Royal Wardrobe": "USD 2.99",
+      "Regent's Royal Wardrobe": "USD 2.99",
+      "Decennial Royal Wardrobe": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1765910485546,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Norse Lands": "USD 2.99",
+            "Call of Olympus": "USD 3.99",
+            "Archon's Royal Wardrobe": "USD 2.99",
+            "Regent's Royal Wardrobe": "USD 2.99",
+            "Decennial Royal Wardrobe": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -90240,6 +90327,37 @@
           "formattedPrice": "USD 14.99",
           "inAppPurchases": {
             "Custom Chord Progressions": "USD 5.99"
+          }
+        }
+      ]
+    ]
+  },
+  "1537060891": {
+    "name": "Titan Quest: Legendary Edition",
+    "maxPriceInfo": {
+      "price": 15.99,
+      "formattedPrice": "USD 15.99",
+      "Atlantis for free download": "USD 0.00",
+      "Ragnarök for free download": "USD 0.00",
+      "Eternal Embers DLC": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 15.99,
+      "formattedPrice": "USD 15.99",
+      "Atlantis for free download": "USD 0.00",
+      "Ragnarök for free download": "USD 0.00",
+      "Eternal Embers DLC": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1765910485546,
+          "price": 15.99,
+          "formattedPrice": "USD 15.99",
+          "inAppPurchases": {
+            "Atlantis for free download": "USD 0.00",
+            "Ragnarök for free download": "USD 0.00",
+            "Eternal Embers DLC": "USD 3.99"
           }
         }
       ]
