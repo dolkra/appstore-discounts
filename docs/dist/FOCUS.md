@@ -231,7 +231,7 @@ So far, we've covered `7` `Countries or Regions` and  `1602` `Apps` <br />Push n
 |1381|1075462280|Automatic|我的极光预报专业版|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|
 |1380|1170448156|Automatic|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|
 |1379|6673892874|Automatic|❌|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|
-|1378|1234266367|Automatic|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|
+|1378|1234266367|Automatic|鼓调音器 - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|
 |1377|1504024081|Automatic|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|
 |1376|1581546143|Automatic|蓬莱镇|蓬莱镇|蓬莱镇|蓬莱镇|The Immortal Mayor|The Immortal Mayor|蓬莱镇|
 |1375|1546106967|Automatic|❌|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|

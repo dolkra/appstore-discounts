@@ -231,7 +231,7 @@
 |1381|1075462280|自动|我的极光预报专业版|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|
 |1380|1170448156|自动|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|
 |1379|6673892874|自动|❌|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|
-|1378|1234266367|自动|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|
+|1378|1234266367|自动|鼓调音器 - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|
 |1377|1504024081|自动|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|
 |1376|1581546143|自动|蓬莱镇|蓬莱镇|蓬莱镇|蓬莱镇|The Immortal Mayor|The Immortal Mayor|蓬莱镇|
 |1375|1546106967|自动|❌|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|
