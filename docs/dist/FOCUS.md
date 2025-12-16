@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1602` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1603` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1603|6472627887|Automatic|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|
 |1602|722262021|Automatic|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|
 |1601|6756011370|Automatic|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|
 |1600|390109164|Automatic|❌|電子詩歌|電子詩歌|電子詩歌|電子詩歌|電子詩歌|❌|
