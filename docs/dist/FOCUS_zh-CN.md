@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1606` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1607` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1607|1073923311|自动|地藏占察轮|地藏占察輪|地藏占察輪|地藏占察輪|Divination|Divination|Divination|
 |1606|536158103|自动|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|
 |1605|6742644783|自动|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|
 |1604|1537060891|自动|❌|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|
@@ -998,7 +999,7 @@
 |618|683353582|自动|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|
 |617|777310222|自动|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|
 |616|887877435|自动|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 Lens Toolkit|f8 Lens Toolkit|f8 Lens Toolkit|
-|615|908905093|自动|Lumy - 太阳追踪器与黄金时刻|Lumy|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|
+|615|908905093|自动|Lumy - 太阳追踪器 户外摄影 日出日落黄金时段|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|
 |614|961339405|自动|❌|監獄人生 RPG|監獄人生 RPG|監獄人生 RPG|Prison Life RPG|Prison Life RPG|❌|
 |613|994157520|自动|❌|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|
 |612|1048509287|自动|❌|龍紀冒險棋|龍紀冒險棋|龍紀冒險棋|龙纪冒险棋|龙纪冒险棋|龙纪冒险棋|

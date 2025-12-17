@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1606` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1607` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1607|1073923311|Automatic|地藏占察轮|地藏占察輪|地藏占察輪|地藏占察輪|Divination|Divination|Divination|
 |1606|536158103|Automatic|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|
 |1605|6742644783|Automatic|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|
 |1604|1537060891|Automatic|❌|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|
@@ -998,7 +999,7 @@ So far, we've covered `7` `Countries or Regions` and  `1606` `Apps` <br />Push n
 |618|683353582|Automatic|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|
 |617|777310222|Automatic|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|
 |616|887877435|Automatic|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 Lens Toolkit|f8 Lens Toolkit|f8 Lens Toolkit|
-|615|908905093|Automatic|Lumy - 太阳追踪器与黄金时刻|Lumy|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|
+|615|908905093|Automatic|Lumy - 太阳追踪器 户外摄影 日出日落黄金时段|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|
 |614|961339405|Automatic|❌|監獄人生 RPG|監獄人生 RPG|監獄人生 RPG|Prison Life RPG|Prison Life RPG|❌|
 |613|994157520|Automatic|❌|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|
 |612|1048509287|Automatic|❌|龍紀冒險棋|龍紀冒險棋|龍紀冒險棋|龙纪冒险棋|龙纪冒险棋|龙纪冒险棋|

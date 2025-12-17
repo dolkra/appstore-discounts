@@ -3208,6 +3208,17 @@
     "history": [
       [
         {
+          "timestamp": 1766003568388,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Pacote Premium": "149,99 €",
+            "Pacote Padrão": "24,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765657708840,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -17243,6 +17254,27 @@
       ]
     ]
   },
+  "1073923311": {
+    "name": "Divination",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766003568388,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1075462280": {
     "name": "My Aurora Forecast Pro",
     "maxPriceInfo": {
@@ -22238,7 +22270,9 @@
       "SF2SEPack05": "0,49 €",
       "SF2SEPack11": "11,99 €",
       "SF2SEPack13": "14,99 €",
-      "SF2SEPack12": "12,99 €"
+      "SF2SEPack12": "12,99 €",
+      "SF2SEPack25": "29,99 €",
+      "SF2SEPack30": "34,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -22264,9 +22298,30 @@
       "SF2SEPack05": "0,49 €",
       "SF2SEPack11": "11,99 €",
       "SF2SEPack13": "14,99 €",
-      "SF2SEPack12": "12,99 €"
+      "SF2SEPack12": "12,99 €",
+      "SF2SEPack25": "29,99 €",
+      "SF2SEPack30": "34,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766003568388,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pilha de Gemas": "2,99 €",
+            "Baú de Gemas": "9,99 €",
+            "Pilha de Moedas": "0,99 €",
+            "Bolsa de Moedas": "5,99 €",
+            "Bolsa de Gemas": "22,99 €",
+            "Bau de Moedas": "22,99 €",
+            "SF2SEPack25": "29,99 €",
+            "SF2SEPack21": "22,99 €",
+            "SF2SEPack18": "19,99 €",
+            "SF2SEPack30": "34,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765860022996,
