@@ -998,7 +998,7 @@
 |618|683353582|自动|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|
 |617|777310222|自动|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|
 |616|887877435|自动|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 Lens Toolkit|f8 Lens Toolkit|f8 Lens Toolkit|
-|615|908905093|自动|Lumy - 太阳追踪器与黄金时刻|Lumy|Lumy|Lumy|Lumy|Lumy|Lumy|
+|615|908905093|自动|Lumy - 太阳追踪器与黄金时刻|Lumy|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|
 |614|961339405|自动|❌|監獄人生 RPG|監獄人生 RPG|監獄人生 RPG|Prison Life RPG|Prison Life RPG|❌|
 |613|994157520|自动|❌|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|
 |612|1048509287|自动|❌|龍紀冒險棋|龍紀冒險棋|龍紀冒險棋|龙纪冒险棋|龙纪冒险棋|龙纪冒险棋|

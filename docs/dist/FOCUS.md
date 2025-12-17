@@ -998,7 +998,7 @@ So far, we've covered `7` `Countries or Regions` and  `1606` `Apps` <br />Push n
 |618|683353582|Automatic|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|Hong Kong Taxi Cards|
 |617|777310222|Automatic|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|GoodReader PDF Editor & Viewer|
 |616|887877435|Automatic|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 镜头大师|f8 Lens Toolkit|f8 Lens Toolkit|f8 Lens Toolkit|
-|615|908905093|Automatic|Lumy - 太阳追踪器与黄金时刻|Lumy|Lumy|Lumy|Lumy|Lumy|Lumy|
+|615|908905093|Automatic|Lumy - 太阳追踪器与黄金时刻|Lumy|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|Lumy - Sun Tracker for Outdoor|
 |614|961339405|Automatic|❌|監獄人生 RPG|監獄人生 RPG|監獄人生 RPG|Prison Life RPG|Prison Life RPG|❌|
 |613|994157520|Automatic|❌|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|1942 Pacific Front Premium|
 |612|1048509287|Automatic|❌|龍紀冒險棋|龍紀冒險棋|龍紀冒險棋|龙纪冒险棋|龙纪冒险棋|龙纪冒险棋|
