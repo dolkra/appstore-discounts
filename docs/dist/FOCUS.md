@@ -1290,7 +1290,7 @@ So far, we've covered `7` `Countries or Regions` and  `1610` `Apps` <br />Push n
 |330|1556671822|Automatic|合成大西瓜 for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|
 |329|1559869450|Automatic|❌|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|❌|❌|❌|
 |328|1562560561|Automatic|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|❌|
-|327|1563932741|Automatic|❌|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|
+|327|1563932741|Automatic|❌|Taboo|Taboo|Taboo|Taboo|Taboo|Taboo|
 |326|1569963107|Automatic|❌|❌|❌|❌|❌|Aylık Distopya|❌|
 |325| ~~1576329230~~ |Automatic| ~~传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |324|1576763082|Automatic|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|

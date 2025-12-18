@@ -1290,7 +1290,7 @@
 |330|1556671822|自动|合成大西瓜 for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|Merge Watermelon for watch|
 |329|1559869450|自动|❌|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|新槍彈辯駁V3 大家的自相殘殺新學期 Anniversary|❌|❌|❌|
 |328|1562560561|自动|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|Tevekkülvakti Pro|❌|
-|327|1563932741|自动|❌|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|Taboo - Official Party Game|
+|327|1563932741|自动|❌|Taboo|Taboo|Taboo|Taboo|Taboo|Taboo|
 |326|1569963107|自动|❌|❌|❌|❌|❌|Aylık Distopya|❌|
 |325| ~~1576329230~~ |自动| ~~传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |324|1576763082|自动|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|女帝的日常|
