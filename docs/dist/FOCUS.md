@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1608` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1610` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1610|1524208994|Automatic|证件秘盒 - 为身份证的隐私安全保驾护航|证件秘盒 - 为身份证的隐私安全保驾护航|证件秘盒 - 为身份证的隐私安全保驾护航|证件秘盒 - 为身份证的隐私安全保驾护航|证件秘盒 - 为身份证的隐私安全保驾护航|证件秘盒 - 为身份证的隐私安全保驾护航|证件秘盒 - 为身份证的隐私安全保驾护航|
+|1609|6472636728|Automatic|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|
 |1608|6754894237|Automatic|❌|CloverPit|CloverPit|CloverPit|CloverPit|CloverPit|CloverPit|
 |1607|1073923311|Automatic|地藏占察轮|地藏占察輪|地藏占察輪|地藏占察輪|Divination|Divination|Divination|
 |1606|536158103|Automatic|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|
@@ -648,7 +650,7 @@ So far, we've covered `7` `Countries or Regions` and  `1608` `Apps` <br />Push n
 |970|6479295005|Automatic|❌|住宅夢物語 DX|住宅夢物語 DX|住宅夢物語 DX|Dream House Days DX|Dream House Days DX|Dream House Days DX|
 |969|6744569015|Automatic|❌|❌|❌|❌|Neon Labyrinth|❌|❌|
 |968|6502905107|Automatic|❌|AListServer|AListServer|AListServer|AListServer|AListServer|❌|
-|967|400259071|Automatic|❌|降雨警報器 Pro|降雨警報器 Pro|降雨警報器 Pro|Rain Alarm Pro Weather Radar|❌|❌|
+|967|400259071|Automatic|❌|降雨警報器 Pro|降雨警報器 Pro|降雨警報器 Pro|Rain Alarm Pro Weather Radar|❌|Rain Alarm Pro Weather Radar|
 |966|1139986977|Automatic|❌|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|
 |965|1197552569|Automatic|❌|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|
 |964|1313164055|Automatic|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|EE35 Film Camera|
