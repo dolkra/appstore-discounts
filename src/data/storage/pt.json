@@ -40382,12 +40382,25 @@
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Büyük Altın Sandığı": "1,99 €",
+      "Büyük Altın Sandığı": "0,99 €",
       "Orta Altın Sandığı": "0,99 €",
-      "Mega Altın Hazinesi": "5,99 €",
+      "Mega Altın Hazinesi": "3,99 €",
       "Küçük Altın Çantası": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766040150772,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Büyük Altın Sandığı": "0,99 €",
+            "Orta Altın Sandığı": "0,99 €",
+            "Mega Altın Hazinesi": "3,99 €",
+            "Küçük Altın Çantası": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
