@@ -126996,12 +126996,20 @@
       "Diamonds": "USD 5.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "Diamonds": "USD 5.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1766119153762,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1766110130860,
           "price": 0.29,
