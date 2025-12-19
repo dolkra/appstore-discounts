@@ -39132,13 +39132,25 @@
     "name": "简记快捷记账-自动记账&AI记账",
     "maxPriceInfo": {
       "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "formattedPrice": "3,99 €",
+      "终身会员": "22,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "formattedPrice": "3,99 €",
+      "终身会员": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766176242554,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "终身会员": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
