@@ -125258,6 +125258,16 @@
     "history": [
       [
         {
+          "timestamp": 1766133491066,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "年订阅": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -127002,6 +127012,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766133491066,
+          "inAppPurchases": {
+            "Diamonds": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1766119153762,
           "price": 0,
