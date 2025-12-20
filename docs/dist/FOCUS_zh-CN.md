@@ -232,7 +232,7 @@
 |1391|6474672665|自动|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|自动|MyScoreTracker – 计分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – Score Counter|MyScoreTracker – Score Counter|MyScoreTracker – Marcador|
 |1389|513370441|自动|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|
-|1388|6752503669|自动|Solar Arc: Sunrise & Sunset|Solar Arc: Sunrise & Sunset|Solar Arc: Sunrise & Sunset|Solar Arc: Sunrise & Sunset|Solar Arc: Sunrise & Sunset|Solar Arc: Sunrise & Sunset|Solar Arc: Sunrise & Sunset|
+|1388|6752503669|自动|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|
 |1387|1148617550|自动|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|自动|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
 |1385|1484024784|自动|❌|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
