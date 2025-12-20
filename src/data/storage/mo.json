@@ -14525,7 +14525,9 @@
       "Marketplace Pass Trial": "USD 3.99",
       "The Incredibles": "USD 7.99",
       "Marketplace Pass w/trial": "USD 3.99",
-      "Minecraft Store Item 1": "USD 0.99"
+      "Minecraft Store Item 1": "USD 0.99",
+      "Furniture Starter Pack": "USD 9.99",
+      "Structures Starter Pack": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -14552,9 +14554,30 @@
       "Marketplace Pass Trial": "USD 3.99",
       "The Incredibles": "USD 7.99",
       "Marketplace Pass w/trial": "USD 3.99",
-      "Minecraft Store Item 1": "USD 0.99"
+      "Minecraft Store Item 1": "USD 0.99",
+      "Furniture Starter Pack": "USD 9.99",
+      "Structures Starter Pack": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766205157730,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Furniture Starter Pack": "USD 9.99",
+            "Structures Starter Pack": "USD 5.99",
+            "Scary Pack": "USD 9.99",
+            "Weapon Pack": "USD 5.99",
+            "Minecraft Pets Pack": "USD 9.99",
+            "Minecraft Morph Pack": "USD 5.99",
+            "Marketplace Pass Full": "USD 3.99",
+            "Marketplace Pass Trial": "USD 3.99",
+            "The Incredibles": "USD 7.99",
+            "Marketplace Pass w/trial": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -39033,6 +39056,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766205157730,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Unlock all stages": "USD 0.99",
+            "Goat": "USD 0.99",
+            "Atom": "USD 0.99",
+            "Free Checkpoints": "USD 0.99",
+            "Joshua": "USD 0.99",
+            "Large Coin Pack": "USD 2.99",
+            "Medium Coin Pack": "USD 1.99",
+            "Small Coin Pack": "USD 0.99",
+            "Pig": "USD 0.99",
+            "Dog": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1766196170575,
           "price": 0.99,
@@ -124648,14 +124688,22 @@
   "6752503669": {
     "name": "Solar Arc: Sunrise & Sunset",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766205157730,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1758921012660,
