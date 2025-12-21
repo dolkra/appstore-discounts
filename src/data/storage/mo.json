@@ -71618,7 +71618,7 @@
     ]
   },
   "1422480068": {
-    "name": "Notes Writer Pro 2025",
+    "name": "Notes Writer Pro 2026",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99",
@@ -101250,13 +101250,25 @@
     "name": "Dirt Trackin 3",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "formattedPrice": "USD 5.99",
+      "WRS Skin Pack 1": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "formattedPrice": "USD 5.99",
+      "WRS Skin Pack 1": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766283702458,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "WRS Skin Pack 1": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1747342931454,
@@ -127290,6 +127302,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766283702458,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1766248309918,
           "price": 0.29,
