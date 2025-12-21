@@ -21128,6 +21128,27 @@
       ]
     ]
   },
+  "1201152224": {
+    "name": "8-Bit Farm",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766306046778,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1201642309": {
     "name": "INSIDE da Playdead",
     "maxPriceInfo": {
@@ -34163,7 +34184,8 @@
       "Mystery Mix Pack 13": "0,99 €",
       "Mystery Mix Pack 12": "0,99 €",
       "Word Bonanza Bundle": "19,99 €",
-      "Midnight Bundle": "9,99 €"
+      "Midnight Bundle": "9,99 €",
+      "Celebrity Bundle": "6,49 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -34187,9 +34209,29 @@
       "Mystery Mix Pack 13": "0,99 €",
       "Mystery Mix Pack 12": "0,99 €",
       "Word Bonanza Bundle": "19,99 €",
-      "Midnight Bundle": "9,99 €"
+      "Midnight Bundle": "9,99 €",
+      "Celebrity Bundle": "6,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766306046778,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Midnight Deck": "9,99 €",
+            "Unlock Taboo Premium": "2,99 €",
+            "Mystery Mix Pack 1": "1,99 €",
+            "Fun & Games Sports Mix Pack 1": "1,99 €",
+            "Celebrity Musicians Pack": "1,99 €",
+            "Wild World Adventure Pack": "1,99 €",
+            "Midnight Bedroom Pack": "2,99 €",
+            "Word Bonanza Bundle": "19,99 €",
+            "Midnight Bundle": "9,99 €",
+            "Celebrity Bundle": "6,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765418983364,

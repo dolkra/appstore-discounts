@@ -58745,6 +58745,27 @@
       ]
     ]
   },
+  "1201152224": {
+    "name": "像素牧場物語",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766306046778,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1201642309": {
     "name": "Playdead's INSIDE",
     "maxPriceInfo": {
@@ -117231,6 +117252,23 @@
     "history": [
       [
         {
+          "timestamp": 1766306046778,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 3.99",
+            "The Aircraft Bundle": "USD 19.99",
+            "Global scenery - 12 months": "USD 12.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Global scenery - 3 months": "USD 6.99",
+            "Airbus A380": "USD 1.99",
+            "Airbus A321": "USD 1.99",
+            "Concorde": "USD 1.99",
+            "Boeing 787-10": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1766299170901,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -127325,6 +127363,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766306046778,
+          "inAppPurchases": {
+            "Diamonds": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1766283702458,
           "price": 0,
