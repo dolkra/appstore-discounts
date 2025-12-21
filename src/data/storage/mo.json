@@ -117195,7 +117195,9 @@
       "Boeing 777-300ER": "USD 1.99",
       "Junkers Ju 52": "USD 0.99",
       "Boeing 737-800": "USD 2.99",
-      "Me 262": "USD 1.99"
+      "Me 262": "USD 1.99",
+      "Boeing 787-9": "USD 3.99",
+      "Airbus A320neo": "USD 3.99"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -117222,9 +117224,30 @@
       "Boeing 777-300ER": "USD 1.99",
       "Junkers Ju 52": "USD 0.99",
       "Boeing 737-800": "USD 2.99",
-      "Me 262": "USD 1.99"
+      "Me 262": "USD 1.99",
+      "Boeing 787-9": "USD 3.99",
+      "Airbus A320neo": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766299170901,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Boeing 787-9": "USD 3.99",
+            "Airbus A320neo": "USD 3.99",
+            "Me 262": "USD 1.99",
+            "Boeing 737-800": "USD 2.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99",
+            "ASK 21": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
