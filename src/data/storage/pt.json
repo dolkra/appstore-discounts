@@ -33802,6 +33802,25 @@
     "history": [
       [
         {
+          "timestamp": 1766435443969,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Synthesis Support Pack": "4,99 €",
+            "Infernal Invasions": "6,99 €",
+            "Vaul of the Void Promo Pack": "0,00 €",
+            "Eclypse Supporter Pack": "4,99 €",
+            "Dawncaster Origins Bundle": "5,99 €",
+            "Dawncaster Mega Bundle": "14,99 €",
+            "Siege of Shadows": "5,99 €",
+            "Catalyst Support Pack": "5,99 €",
+            "Masks of Misery": "5,99 €",
+            "Infinitum Support Banner": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761923486398,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -50187,6 +50206,27 @@
           "timestamp": 1766413714560,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756542102": {
+    "name": "Onyx Magic",
+    "maxPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "59,99 €"
+    },
+    "minPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "59,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766435443969,
+          "price": 59.99,
+          "formattedPrice": "59,99 €",
           "inAppPurchases": {}
         }
       ]
