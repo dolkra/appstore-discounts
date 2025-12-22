@@ -613,7 +613,7 @@
 |1012|1387331406|自动|Flamelet|Flamelet|Flamelet|Flamelet|Flamelet|Flamelet|Flamelet|
 |1011|1139588979|自动|位置伪装器 - 模拟地图当前位置,模拟GPS坐标|位置偽裝器 - 模擬地圖目前位置,模擬GPS坐標|位置偽裝器 - 模擬地圖目前位置,模擬GPS坐標|位置偽裝器 - 模擬地圖目前位置,模擬GPS坐標|LocFaker - Change Current Location on the Map|LocFaker - Change Current Location on the Map|❌|
 |1010|316491616|自动|❌|TowerMadness|TowerMadness|TowerMadness|TowerMadness|TowerMadness|TowerMadness|
-|1009|332636983|自动|哭翻译者|Cry Translator|Cry Translator|Cry Translator|Cry Translator|Cry Translator|Cry Translator|
+|1009|332636983|自动|Cry Translator|Cry Translator|Cry Translator|Cry Translator|Cry Translator|Cry Translator|Cry Translator|
 |1008|1419928720|自动|❌|起點小說（專業版）|起點小說（專業版）|❌|❌|❌|❌|
 |1007|892542000|自动|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|Board Game Stats|
 |1006|728401013|自动|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|NoteWorks for iPhone|
