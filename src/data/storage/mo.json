@@ -127924,8 +127924,8 @@
   "6756542102": {
     "name": "Onyx Magic",
     "maxPriceInfo": {
-      "price": 54.99,
-      "formattedPrice": "USD 54.99"
+      "price": 59.99,
+      "formattedPrice": "USD 59.99"
     },
     "minPriceInfo": {
       "price": 54.99,
@@ -127933,6 +127933,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766455802614,
+          "price": 59.99,
+          "formattedPrice": "USD 59.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1766435443969,
           "price": 54.99,
