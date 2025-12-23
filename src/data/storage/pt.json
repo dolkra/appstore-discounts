@@ -24251,6 +24251,27 @@
       ]
     ]
   },
+  "1309035984": {
+    "name": "Passpartout: Starving Artist",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766494711580,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1309638846": {
     "name": "Vintage Camera - Goodak",
     "maxPriceInfo": {
@@ -28749,14 +28770,22 @@
   "1474422612": {
     "name": "TimeLine - Travel back in time",
     "maxPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "39,99 €"
+      "price": 49.99,
+      "formattedPrice": "49,99 €"
     },
     "minPriceInfo": {
       "price": 39.99,
       "formattedPrice": "39,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766494711580,
+          "price": 49.99,
+          "formattedPrice": "49,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
