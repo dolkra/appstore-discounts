@@ -11528,14 +11528,22 @@
   "722262021": {
     "name": "Wallax - Wallpaper Editor",
     "maxPriceInfo": {
-      "price": 1,
-      "formattedPrice": "1,00 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766507793000,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765874384139,
