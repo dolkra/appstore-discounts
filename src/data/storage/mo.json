@@ -5078,6 +5078,42 @@
     "history": [
       [
         {
+          "timestamp": 1766586412798,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "forScore Pro": "USD 14.99",
+            "Brahms: The Mutopia Collection": "USD 0.00",
+            "Liszt: The Mutopia Collection": "USD 0.00",
+            "Tchaikovsky: The Mutopia Collection": "USD 0.00",
+            "Satie: The Mutopia Collection": "USD 0.00",
+            "Schumann: The Mutopia Collection": "USD 0.00",
+            "Haydn: The Mutopia Collection": "USD 0.00",
+            "Burgmüller: The Mutopia Collection": "USD 0.00",
+            "Sousa: The Mutopia Collection": "USD 0.00",
+            "Schubert: The Mutopia Collection": "USD 0.99"
+          }
+        },
+        {
+          "timestamp": 1766580981452,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "USD 24.99",
+            "forScore Pro 30-Day Pass": "USD 2.99",
+            "Haydn: String Quartets": "USD 1.99",
+            "Christmas Carol Collection": "USD 1.99",
+            "Bach: Cello Suites": "USD 1.99",
+            "Vivaldi: The Four Seasons": "USD 1.99",
+            "Mozart: Twelve Duets": "USD 1.99",
+            "The Mutopia Piano Collection": "USD 4.99",
+            "forScore Pro": "USD 14.99",
+            "Voluntary Upgrade": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1766378817173,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
@@ -24948,6 +24984,22 @@
       "中聲望包": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {
+            "無限的快進 !": "USD 3.99",
+            "小型聲望包": "USD 1.99",
+            "無限的雙倍 XP 值！": "USD 3.99",
+            "很棒的聲望包": "USD 21.99",
+            "瘋狂的尊貴套餐": "USD 79.99",
+            "終極尊貴包": "USD 39.99",
+            "中聲望包": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -45052,6 +45104,20 @@
     "history": [
       [
         {
+          "timestamp": 1766594054600,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {
+            "1400 顆寶石": "USD 79.99",
+            "650 顆寶石": "USD 40.99",
+            "250 顆寶石": "USD 15.99",
+            "120 顆寶石": "USD 7.99",
+            "50 顆寶石": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 2.49,
           "formattedPrice": "USD 2.49",
@@ -45298,6 +45364,20 @@
       "25,000資金": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {
+            "700,000資金": "USD 89.99",
+            "325,000資金": "USD 45.99",
+            "125,000資金": "USD 18.99",
+            "60,000資金": "USD 9.99",
+            "25,000資金": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -48303,13 +48383,28 @@
       "price": 19.99,
       "formattedPrice": "USD 19.99",
       "創作者通行證每月": "USD 9.99",
-      "FCPXML Export": "USD 19.99",
-      "Multicam Studio": "USD 19.99",
-      "速度斜坡和關鍵幀": "USD 19.99",
+      "FCPXML Export": "USD 13.99",
+      "Multicam Studio": "USD 13.99",
+      "速度斜坡和關鍵幀": "USD 13.99",
       "每年創作者通行證": "USD 69.99",
-      "CoreMelt PaintX Plug-In": "USD 19.99"
+      "CoreMelt PaintX Plug-In": "USD 13.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "創作者通行證每月": "USD 9.99",
+            "FCPXML Export": "USD 13.99",
+            "速度斜坡和關鍵幀": "USD 13.99",
+            "Multicam Studio": "USD 13.99",
+            "每年創作者通行證": "USD 69.99",
+            "CoreMelt PaintX Plug-In": "USD 13.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -56521,6 +56616,27 @@
       ]
     ]
   },
+  "1162537630": {
+    "name": "天使帝國四 (單機戰棋)",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766580981452,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1163105252": {
     "name": "FRAMED 2 - 致命框架 2",
     "maxPriceInfo": {
@@ -62481,6 +62597,44 @@
       "SF2SEPack14": "USD 13.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "寶石箱": "USD 9.99",
+            "SF2SEPack25": "USD 24.99",
+            "SF2SEPack21": "USD 20.99",
+            "SF2SEPack18": "USD 17.99",
+            "SF2SEPack30": "USD 29.99",
+            "SF2SEPack13": "USD 12.99",
+            "SF2SEPack12": "USD 11.99",
+            "SF2SEPack14": "USD 13.99",
+            "SF2SEPack05": "USD 0.49",
+            "SF2SEPack11": "USD 10.99"
+          }
+        }
+      ],
+      [
+        {
+          "timestamp": 1766586412798,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "SF2SEPack25": "USD 24.99",
+            "SF2SEPack21": "USD 20.99",
+            "SF2SEPack18": "USD 17.99",
+            "SF2SEPack30": "USD 29.99",
+            "SF2SEPack13": "USD 12.99",
+            "SF2SEPack12": "USD 11.99",
+            "SF2SEPack14": "USD 13.99",
+            "SF2SEPack05": "USD 0.49",
+            "SF2SEPack11": "USD 10.99",
+            "SF2SEPack15": "USD 14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766003568388,
@@ -74116,10 +74270,25 @@
       "Root: The Underworld Expansion": "USD 6.99",
       "Exiles & Partisans & Vagabonds": "USD 5.99",
       "The Clockwork Expansion": "USD 3.99",
-      "Root: The Marauder Expansion": "USD 9.99",
+      "Root: The Marauder Expansion": "USD 8.99",
       "Hirelings & Landmarks": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "The Riverfolk Expansion": "USD 6.99",
+            "Root: The Underworld Expansion": "USD 6.99",
+            "Exiles & Partisans & Vagabonds": "USD 5.99",
+            "The Clockwork Expansion": "USD 3.99",
+            "Root: The Marauder Expansion": "USD 8.99",
+            "Hirelings & Landmarks": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -92176,6 +92345,14 @@
     "history": [
       [
         {
+          "timestamp": 1766594054600,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1760623969544,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -93882,6 +94059,17 @@
     "history": [
       [
         {
+          "timestamp": 1766594054600,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Rallycross Circuits": "USD 2.99",
+            "內容包1": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -95348,6 +95536,14 @@
     "history": [
       [
         {
+          "timestamp": 1766594054600,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765729912538,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -95975,6 +96171,17 @@
       "Dune: Imperium - Rise of Ix": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Dune: Imperium - Immortality": "USD 9.99",
+            "Dune: Imperium - Rise of Ix": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -98525,8 +98732,8 @@
       "Retro Rammers Car Pack": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 1.39,
-      "formattedPrice": "USD 1.39",
+      "price": 0.9,
+      "formattedPrice": "USD 0.90",
       "Content Bundle 1": "USD 9.99",
       "Content Bundle 2": "USD 7.99",
       "Reckless Car Pack": "USD 2.99",
@@ -98543,6 +98750,25 @@
       "Retro Rammers Car Pack": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {
+            "Content Bundle 1": "USD 9.99",
+            "Content Bundle 2": "USD 7.99",
+            "Reckless Car Pack": "USD 2.99",
+            "Off-Road Car Pack": "USD 2.99",
+            "Racing Heroes Car Pack": "USD 2.99",
+            "Steel & Wheels Pack": "USD 1.99",
+            "Goofy Roofs Pack": "USD 0.99",
+            "Getaway Car Pack": "USD 2.99",
+            "American All-Stars Car Pack": "USD 2.99",
+            "Rusty Rats Car Pack": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -122637,10 +122863,18 @@
       "formattedPrice": "USD 10.99"
     },
     "minPriceInfo": {
-      "price": 10.99,
-      "formattedPrice": "USD 10.99"
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1750417857625,
@@ -124441,6 +124675,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766594054600,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764261181362,
