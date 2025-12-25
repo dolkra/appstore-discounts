@@ -5545,6 +5545,14 @@
     "history": [
       [
         {
+          "timestamp": 1766651826034,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764664716757,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -13616,13 +13624,25 @@
       "A Little Light (Small Tip)": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "4,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "All the Light (Huge Tip)": "9,99 €",
       "More Light (Medium Tip)": "3,99 €",
       "A Little Light (Small Tip)": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766651826034,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "All the Light (Huge Tip)": "9,99 €",
+            "More Light (Medium Tip)": "3,99 €",
+            "A Little Light (Small Tip)": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766053895124,
@@ -14568,6 +14588,14 @@
       "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766651826034,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764664716757,
@@ -33840,6 +33868,14 @@
     "history": [
       [
         {
+          "timestamp": 1766651826034,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764664716757,
           "price": 22.99,
           "formattedPrice": "22,99 €",
@@ -34734,6 +34770,14 @@
       "formattedPrice": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766651826034,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764664716757,
@@ -42420,6 +42464,14 @@
     "history": [
       [
         {
+          "timestamp": 1766651826034,
+          "price": 24.99,
+          "formattedPrice": "24,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764664716757,
           "price": 34.99,
           "formattedPrice": "34,99 €",
@@ -43865,6 +43917,14 @@
       "formattedPrice": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766651826034,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764664716757,
@@ -47621,6 +47681,23 @@
     "history": [
       [
         {
+          "timestamp": 1766651826034,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "JD 9000 Series + 390 Plus": "1,99 €",
+            "Vervaet Hydro Trike 5x5": "1,99 €",
+            "Kubota RTV-XG850 SIDEKICK": "1,99 €",
+            "Case IH Austoft 8800 Multi-Row": "1,99 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Kotte PQ 32000": "1,19 €",
+            "KINZE 3665 Blue Drive": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "Claas Xerion 5000": "2,49 €"
+          }
+        },
+        {
           "timestamp": 1766637736535,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -50864,6 +50941,31 @@
           "price": 59.99,
           "formattedPrice": "59,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6504601501": {
+    "name": "Bounty Of One: Premium",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Pânico nas Minas": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Pânico nas Minas": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766651826034,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Pânico nas Minas": "0,99 €"
+          }
         }
       ]
     ]
