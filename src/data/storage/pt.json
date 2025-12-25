@@ -18795,14 +18795,22 @@
   "1111420122": {
     "name": "Hear My Baby Fetal Monitor",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766658617562,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -47681,6 +47689,23 @@
     "history": [
       [
         {
+          "timestamp": 1766658617562,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €",
+            "Amazone CITAN 15001-C": "1,19 €",
+            "ClaasLexion8900+ConvioFlex1380": "3,49 €",
+            "John Deere 8R 410": "2,49 €",
+            "Krone BiG Pack 1290 HDP VC": "1,19 €",
+            "Versatile 4WD 620": "2,49 €",
+            "Case IH Speed-Tiller": "1,19 €",
+            "Farmet Fantom 1250 Pro": "1,19 €"
+          }
+        },
+        {
           "timestamp": 1766651826034,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -49277,7 +49302,8 @@
       "Weapon Upgrade Ticket x1 (F)": "2,99 €",
       "Weapon Upgrade Ticket x1 (E)": "2,99 €",
       "Weapon Upgrade Ticket x1 (C)": "2,99 €",
-      "Amuleto:\"Munição para Pistola\"": "0,99 €"
+      "Amuleto:\"Munição para Pistola\"": "0,99 €",
+      "Amuleto: \"Erva Verde\"": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -49295,9 +49321,29 @@
       "Weapon Upgrade Ticket x1 (F)": "2,99 €",
       "Weapon Upgrade Ticket x1 (E)": "2,99 €",
       "Weapon Upgrade Ticket x1 (C)": "2,99 €",
-      "Amuleto:\"Munição para Pistola\"": "0,99 €"
+      "Amuleto:\"Munição para Pistola\"": "0,99 €",
+      "Amuleto: \"Erva Verde\"": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766658617562,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "15,99 €",
+            "Amuleto: \"Erva Verde\"": "0,99 €",
+            "Caminhos Distintos": "9,99 €",
+            "Maleta: \"Ouro\"": "0,99 €",
+            "Amuleto:\"Munição para Pistola\"": "0,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Pacote de DLC Extra": "14,99 €",
+            "Weapon Upgrade Ticket x1 (B)": "2,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "7,49 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765514320840,
