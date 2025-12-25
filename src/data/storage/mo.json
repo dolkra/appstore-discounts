@@ -114641,9 +114641,19 @@
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99",
-      "勇者鬥惡龍X　沉睡的勇者與引導的盟友　OFFLINE": "USD 9.99"
+      "勇者鬥惡龍X　沉睡的勇者與引導的盟友　OFFLINE": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766644961360,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "勇者鬥惡龍X　沉睡的勇者與引導的盟友　OFFLINE": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
