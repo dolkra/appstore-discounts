@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1625` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1626` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1626|967043604|Automatic|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|
 |1625|6504601501|Automatic|❌|賞金倖存者|賞金倖存者|賞金倖存者|Bounty Of One: Premium|Bounty Of One: Premium|Bounty Of One: Premium|
 |1624|1587497077|Automatic|❌|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|
 |1623|1162537630|Automatic|❌|天使帝國四 (單機戰棋)|天使帝國四 (單機戰棋)|天使帝國四 (單機戰棋)|Empire of Angels IV|Empire of Angels IV|Empire of Angels IV|
@@ -105,7 +106,7 @@ So far, we've covered `7` `Countries or Regions` and  `1625` `Apps` <br />Push n
 |1530|6752701677|Automatic|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|
 |1529|555347055|Automatic|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|
 |1528|1226489119|Automatic|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|
-|1527|6754073002|Automatic|点墨·字体转换器|點墨·字體轉換器|點墨·字體轉換器|點墨·字體轉換器|DotInk|DotInk|点墨·字体转换器|
+|1527|6754073002|Automatic|点墨·阅读器助手|點墨·墨水屏助手|點墨·墨水屏助手|點墨·墨水屏助手|DotInk: EInk Assistant|DotInk: EInk Assistant|点墨·阅读器助手|
 |1526|6740006494|Automatic|净资产 - 资产跟踪与财务分析工具|净资产 - 资产跟踪与财务分析工具|净资产 - 资产跟踪与财务分析工具|净资产 - 资产跟踪与财务分析工具|Net Worth Tracker - Asset&Debt|Net Worth Tracker - Asset&Debt|净资产 - 资产跟踪与财务分析工具|
 |1525|6746152489|Automatic|西行乱斗|西行乱斗|西行乱斗|西行乱斗|西行乱斗|西行乱斗|西行乱斗|
 |1524|6742887304|Automatic|剧能说-听音频练习地道英语口语英语听力|剧能说-听音频练习地道英语口语英语听力|剧能说-听音频练习地道英语口语英语听力|剧能说-听音频练习地道英语口语英语听力|剧能说-老友记&口语&学英语口语英语听力入门|剧能说-老友记&口语&学英语口语英语听力入门|剧能说-听音频练习地道英语口语英语听力|
@@ -244,7 +245,7 @@ So far, we've covered `7` `Countries or Regions` and  `1625` `Apps` <br />Push n
 |1391|6474672665|Automatic|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|Automatic|MyScoreTracker – 计分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – Score Counter|MyScoreTracker – Score Counter|MyScoreTracker – Marcador|
 |1389|513370441|Automatic|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|
-|1388|6752503669|Automatic|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|Solar Arc: Light widget|
+|1388|6752503669|Automatic|Solar Arc: Sun and Moon Widget|Solar Arc: Sun and Moon Widget|Solar Arc: Sun and Moon Widget|Solar Arc: Sun and Moon Widget|Solar Arc: Sun and Moon Widget|Solar Arc: Sun and Moon Widget|Solar Arc: Sun and Moon Widget|
 |1387|1148617550|Automatic|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|Automatic|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
 |1385|1484024784|Automatic|❌|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
