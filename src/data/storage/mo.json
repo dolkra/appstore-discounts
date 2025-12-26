@@ -5887,6 +5887,14 @@
     "history": [
       [
         {
+          "timestamp": 1766753763792,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764607063577,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -20649,6 +20657,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766753763792,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "USD 2.99",
+            "RC Transformer": "USD 2.99",
+            "Race Car": "USD 2.99",
+            "Lego Car": "USD 2.99",
+            "XB-70 Valkirie": "USD 2.99",
+            "BVM King Cat": "USD 2.99",
+            "B17 Flying Fortress": "USD 2.99",
+            "A6M Zero": "USD 2.99",
+            "P-47 Thunderbolt": "USD 2.99",
+            "Curtiss P-40 Warhawk": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1766714945594,
           "price": 2.99,
@@ -51436,9 +51461,28 @@
       "助飞战令-初级精英战令": "USD 3.99",
       "助飞战令-6000积分": "USD 4.99",
       "助飞战令-15000积分": "USD 9.99",
-      "助飞战令-高级精英战令": "USD 9.99"
+      "助飞战令-高级精英战令": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1766753763792,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "助飞战令-3000积分": "USD 0.99",
+            "助飞战令-初级精英战令": "USD 3.99",
+            "助飞战令-6000积分": "USD 4.99",
+            "助飞战令-15000积分": "USD 9.99",
+            "助飞战令-高级精英战令": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -85777,6 +85821,27 @@
           "timestamp": 1746457348888,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1479933497": {
+    "name": "Disgaea 1 Complete",
+    "maxPriceInfo": {
+      "price": 32.99,
+      "formattedPrice": "USD 32.99"
+    },
+    "minPriceInfo": {
+      "price": 32.99,
+      "formattedPrice": "USD 32.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766753763792,
+          "price": 32.99,
+          "formattedPrice": "USD 32.99",
           "inAppPurchases": {}
         }
       ]

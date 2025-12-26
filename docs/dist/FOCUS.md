@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1626` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1627` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1627|1479933497|Automatic|❌|Disgaea 1 Complete|Disgaea 1 Complete|Disgaea 1 Complete|Disgaea 1 Complete|Disgaea 1 Complete|Disgaea 1 Complete|
 |1626|967043604|Automatic|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|SonoSequencr|
 |1625|6504601501|Automatic|❌|賞金倖存者|賞金倖存者|賞金倖存者|Bounty Of One: Premium|Bounty Of One: Premium|Bounty Of One: Premium|
 |1624|1587497077|Automatic|❌|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|

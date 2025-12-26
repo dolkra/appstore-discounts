@@ -2531,6 +2531,14 @@
     "history": [
       [
         {
+          "timestamp": 1766753763792,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1764641127012,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -30674,6 +30682,27 @@
           "timestamp": 1761797674362,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1479933497": {
+    "name": "Disgaea 1 Complete",
+    "maxPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "39,99 €"
+    },
+    "minPriceInfo": {
+      "price": 39.99,
+      "formattedPrice": "39,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766753763792,
+          "price": 39.99,
+          "formattedPrice": "39,99 €",
           "inAppPurchases": {}
         }
       ]
