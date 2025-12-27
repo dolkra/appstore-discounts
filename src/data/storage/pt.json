@@ -3328,6 +3328,23 @@
     "history": [
       [
         {
+          "timestamp": 1766845506998,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "15M chips": "22,99 €",
+            "5M chips": "9,99 €",
+            "50M chips": "59,99 €",
+            "150M chips": "99,99 €",
+            "1M chips": "2,99 €",
+            "Grande pilha de fichas": "9,99 €",
+            "Caixa de fichas": "22,99 €",
+            "100k chips": "0,99 €",
+            "Caixa-forte de fichas": "99,99 €",
+            "Grande monte de fichas": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1766840013092,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -4518,6 +4535,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766845506998,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "Drumaxx": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Brazil Bass": "1,99 €"
+          }
+        },
         {
           "timestamp": 1766840013092,
           "price": 17.99,
@@ -51726,6 +51760,31 @@
           "price": 9.99,
           "formattedPrice": "9,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752598693": {
+    "name": "Wood Screw Pin Jam Puzzle",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "VIP version": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "VIP version": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766845506998,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "VIP version": "3,99 €"
+          }
         }
       ]
     ]
