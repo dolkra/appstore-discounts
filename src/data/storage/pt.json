@@ -51774,10 +51774,18 @@
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €",
-      "VIP version": "3,99 €"
+      "VIP version": "2,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1766853168620,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "VIP version": "2,99 €"
+          }
+        },
         {
           "timestamp": 1766845506998,
           "price": 2.99,
