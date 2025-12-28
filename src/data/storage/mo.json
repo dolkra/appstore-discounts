@@ -99594,6 +99594,25 @@
     "history": [
       [
         {
+          "timestamp": 1766926457296,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {
+            "Content Bundle 2": "USD 7.99",
+            "Reckless Car Pack": "USD 2.99",
+            "Off-Road Car Pack": "USD 2.99",
+            "Racing Heroes Car Pack": "USD 2.99",
+            "Steel & Wheels Pack": "USD 1.99",
+            "Goofy Roofs Pack": "USD 0.99",
+            "Getaway Car Pack": "USD 2.99",
+            "American All-Stars Car Pack": "USD 2.99",
+            "Rusty Rats Car Pack": "USD 2.99",
+            "Modified Monsters Car Pack": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1766594054600,
           "price": 0.9,
           "formattedPrice": "USD 0.90",
@@ -129636,6 +129655,27 @@
           "inAppPurchases": {
             "VIP version": "USD 3.99"
           }
+        }
+      ]
+    ]
+  },
+  "6523690380": {
+    "name": "Dealer's Life Legend",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766926457296,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
         }
       ]
     ]
