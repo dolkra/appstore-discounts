@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1632` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1634` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1634|1517281887|Automatic|❌|Baba Is You|Baba Is You|Baba Is You|Baba Is You|Baba Is You|Baba Is You|
+|1633|6448352407|Automatic|❌|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|
 |1632|6523690380|Automatic|❌|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|
 |1631|6752598693|Automatic|❌|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|
 |1630|1672164496|Automatic|❌|Roundguard|Roundguard|Roundguard|Roundguard|Roundguard|Roundguard|
@@ -1102,7 +1104,7 @@ So far, we've covered `7` `Countries or Regions` and  `1632` `Apps` <br />Push n
 |540|408854559|Automatic|❌|溫泉物語|溫泉物語|溫泉物語|Hot Springs Story|Hot Springs Story|Hot Springs Story|
 |539|417817520|Automatic|❌|Tiny Wings|Tiny Wings|Tiny Wings|Tiny Wings|Tiny Wings|Tiny Wings|
 |538|424403441|Automatic|瑕疵清除器 (Pimple Eraser)|Pimple Eraser|Pimple Eraser|Pimple Eraser|Pimple Eraser|Pimple Eraser|❌|
-|537|430163724|Automatic|智能风水罗盘-专业版|智能風水羅庚-專業版|智能風水羅庚-專業版|智能風水羅庚-專業版|智能风水罗盘-专业版|智能风水罗盘-专业版|❌|
+|537|430163724|Automatic|智能风水罗盘-专业版|智能風水羅庚-專業版|智能風水羅庚-專業版|智能風水羅庚-專業版|智能风水罗盘-专业版|智能风水罗盘-专业版|智能风水罗盘-专业版|
 |536|432850619|Automatic|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|FL Studio Mobile|
 |535|433596395|Automatic|❌|ZOOKEEPER DX|ZOOKEEPER DX|ZOOKEEPER DX|ZOOKEEPER DX|ZOOKEEPER DX|ZOOKEEPER DX|
 |534|449735650|Automatic|❌|鱷魚小頑皮愛洗澡|鱷魚小頑皮愛洗澡|鱷魚小頑皮愛洗澡|Where's My Water?|Where's My Water?|Where's My Water?|

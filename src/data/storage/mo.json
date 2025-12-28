@@ -89765,6 +89765,27 @@
       ]
     ]
   },
+  "1517281887": {
+    "name": "Baba Is You",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766931982733,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1517410833": {
     "name": "Startup Panic",
     "maxPriceInfo": {
@@ -99593,6 +99614,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1766931982733,
+          "price": 0.9,
+          "formattedPrice": "USD 0.90",
+          "inAppPurchases": {
+            "Content Bundle 1": "USD 9.99",
+            "Content Bundle 2": "USD 7.99",
+            "Reckless Car Pack": "USD 2.99",
+            "Off-Road Car Pack": "USD 2.99",
+            "Racing Heroes Car Pack": "USD 2.99",
+            "Steel & Wheels Pack": "USD 1.99",
+            "Goofy Roofs Pack": "USD 0.99",
+            "Getaway Car Pack": "USD 2.99",
+            "American All-Stars Car Pack": "USD 2.99",
+            "Rusty Rats Car Pack": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1766926457296,
           "price": 0.9,
@@ -129675,6 +129713,27 @@
           "timestamp": 1766926457296,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6448352407": {
+    "name": "Unboxing the Cryptic Killer",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1766931982733,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
