@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-12-28T09:46:13.717Z</updated>
+    <updated>2025-12-28T23:37:08.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-28T09:46:13.718Z</updated>
+        <updated>2025-12-28T23:37:08.930Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkSun, 28 Dec 2025 09:46:13 GMT</id>
+        <id>rankinghkSun, 28 Dec 2025 23:37:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-28T09:46:13.719Z</updated>
+        <updated>2025-12-28T23:37:08.930Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,16 +51,16 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1631</b>
+        <b>1634</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1430</b>
+        <b>1433</b>
       </td>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>1523</b>
+        <b>1526</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>1344</b>
+        <b>1347</b>
       </td>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
     </tr>
   </tbody>
@@ -2635,6 +2635,23 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>144</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/hk/app/id6504453094">Black Border 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -2659,7 +2676,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6753206911">石器新世紀:寵物起源</a>
+        <a href="https://apps.apple.com/hk/app/id397553707">德州撲克 - Pokerist Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2668,7 +2685,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6754613166">Trackless Links Pro</a>
+        <a href="https://apps.apple.com/hk/app/id6753206911">石器新世紀:寵物起源</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2677,7 +2694,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6753062308">石器經典版-情懷服</a>
+        <a href="https://apps.apple.com/hk/app/id6754613166">Trackless Links Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2686,7 +2703,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6752563564">石器懷舊服 - 1:1移植版</a>
+        <a href="https://apps.apple.com/hk/app/id6753062308">石器經典版-情懷服</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2695,7 +2712,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6749845582">NPD知识普及</a>
+        <a href="https://apps.apple.com/hk/app/id6752563564">石器懷舊服 - 1:1移植版</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2704,7 +2721,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6749620111">石器手機版Go！自由抓捕,寵物養成遊戲</a>
+        <a href="https://apps.apple.com/hk/app/id6749845582">NPD知识普及</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2713,7 +2730,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6745578435">暗黑联盟之暴打传说</a>
+        <a href="https://apps.apple.com/hk/app/id6749620111">石器手機版Go！自由抓捕,寵物養成遊戲</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2722,7 +2739,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6749533872">石器狩獵勇士:原始人部落之戰</a>
+        <a href="https://apps.apple.com/hk/app/id6745578435">暗黑联盟之暴打传说</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2731,7 +2748,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6748949090">石器抓寵版：重返原始部落</a>
+        <a href="https://apps.apple.com/hk/app/id6749533872">石器狩獵勇士:原始人部落之戰</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2740,7 +2757,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6748376912">石器大陸之獵龍時代</a>
+        <a href="https://apps.apple.com/hk/app/id6748949090">石器抓寵版：重返原始部落</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2749,7 +2766,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1133083101">國家天氣Pro-15日即時天氣預報&空氣品質</a>
+        <a href="https://apps.apple.com/hk/app/id6748376912">石器大陸之獵龍時代</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2758,7 +2775,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6747758553">Grand Agent: It Call</a>
+        <a href="https://apps.apple.com/hk/app/id1133083101">國家天氣Pro-15日即時天氣預報&空氣品質</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2767,7 +2784,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6746355331">Stop&Get Away From Me! Defense</a>
+        <a href="https://apps.apple.com/hk/app/id6747758553">Grand Agent: It Call</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2776,7 +2793,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6746683191">VAKA No: 1937</a>
+        <a href="https://apps.apple.com/hk/app/id6746355331">Stop&Get Away From Me! Defense</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2785,7 +2802,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
+        <a href="https://apps.apple.com/hk/app/id6746683191">VAKA No: 1937</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2794,7 +2811,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6479684285">Never Night</a>
+        <a href="https://apps.apple.com/hk/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2803,7 +2820,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id567533074">Sonic Jump™</a>
+        <a href="https://apps.apple.com/hk/app/id6479684285">Never Night</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2812,7 +2829,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id319295332">TuneIn Radio: Music & Sports</a>
+        <a href="https://apps.apple.com/hk/app/id567533074">Sonic Jump™</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2821,7 +2838,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id519561306">ATracker PRO - 每日時間管理</a>
+        <a href="https://apps.apple.com/hk/app/id319295332">TuneIn Radio: Music & Sports</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2830,7 +2847,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6449251957">Motorsport Manager 4</a>
+        <a href="https://apps.apple.com/hk/app/id519561306">ATracker PRO - 每日時間管理</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2839,7 +2856,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1056920931">Iron Marines</a>
+        <a href="https://apps.apple.com/hk/app/id6449251957">Motorsport Manager 4</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2848,7 +2865,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1567658979">SkySafari 7 Pro</a>
+        <a href="https://apps.apple.com/hk/app/id1056920931">Iron Marines</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2857,7 +2874,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6466976437">OOTP Baseball 26 Go!</a>
+        <a href="https://apps.apple.com/hk/app/id1567658979">SkySafari 7 Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2866,7 +2883,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1038014543">Day R Premium: last world war</a>
+        <a href="https://apps.apple.com/hk/app/id6466976437">OOTP Baseball 26 Go!</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2875,7 +2892,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
+        <a href="https://apps.apple.com/hk/app/id1038014543">Day R Premium: last world war</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2884,7 +2901,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
+        <a href="https://apps.apple.com/hk/app/id1238247658">Cluedo: Classic Edition</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2893,7 +2910,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id904737816">王國保衛戰：起源 Kingdom Rush Origins</a>
+        <a href="https://apps.apple.com/hk/app/id6446178861">PlayNav - 影片內無廣告！</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2902,7 +2919,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id352247139">Calorie Counter PRO MyNetDiary</a>
+        <a href="https://apps.apple.com/hk/app/id904737816">王國保衛戰：起源 Kingdom Rush Origins</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2911,7 +2928,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
+        <a href="https://apps.apple.com/hk/app/id352247139">Calorie Counter PRO MyNetDiary</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2920,7 +2937,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id406541444">8mm Vintage Camera</a>
+        <a href="https://apps.apple.com/hk/app/id403684733">Badoo進階版</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2929,7 +2946,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/hk/app/id406541444">8mm Vintage Camera</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2938,7 +2955,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
+        <a href="https://apps.apple.com/hk/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2947,7 +2964,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id916976066">短語鍵盤</a>
+        <a href="https://apps.apple.com/hk/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2956,7 +2973,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id918609651">Money Pro: 個人財務</a>
+        <a href="https://apps.apple.com/hk/app/id916976066">短語鍵盤</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2965,7 +2982,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1028950091">貪婪洞窟：猿神降临</a>
+        <a href="https://apps.apple.com/hk/app/id918609651">Money Pro: 個人財務</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2974,7 +2991,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/hk/app/id1028950091">貪婪洞窟：猿神降临</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2983,7 +3000,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1436429074">FILCA - SLR Film Camera</a>
+        <a href="https://apps.apple.com/hk/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -2992,7 +3009,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1439187947">Rebel Inc. (反叛公司)</a>
+        <a href="https://apps.apple.com/hk/app/id1436429074">FILCA - SLR Film Camera</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -3001,7 +3018,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1439881811">RadarOmega</a>
+        <a href="https://apps.apple.com/hk/app/id1439187947">Rebel Inc. (反叛公司)</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -3010,7 +3027,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/hk/app/id1439881811">RadarOmega</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -3019,7 +3036,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1484622401">Religion inc.上帝模擬器</a>
+        <a href="https://apps.apple.com/hk/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -3028,7 +3045,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/hk/app/id1484622401">Religion inc.上帝模擬器</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -3037,7 +3054,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/hk/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -3046,7 +3063,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id6740471827">手錶經典迷宮遊戲</a>
+        <a href="https://apps.apple.com/hk/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -3055,16 +3072,16 @@ feedId:157008141708743680+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1198176727">Controller for HomeKit</a>
+        <a href="https://apps.apple.com/hk/app/id6740471827">手錶經典迷宮遊戲</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1055511498">Day One Journal</a>
+        <a href="https://apps.apple.com/hk/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3073,7 +3090,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
+        <a href="https://apps.apple.com/hk/app/id1055511498">Day One Journal</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3082,7 +3099,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1473785373">錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算</a>
+        <a href="https://apps.apple.com/hk/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3091,7 +3108,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
+        <a href="https://apps.apple.com/hk/app/id1473785373">錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3100,7 +3117,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/hk/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3109,7 +3126,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id598581396">Kingdom Rush Frontiers 塔防生存戰爭</a>
+        <a href="https://apps.apple.com/hk/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3118,7 +3135,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/hk/app/id598581396">Kingdom Rush Frontiers 塔防生存戰爭</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3127,7 +3144,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/hk/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3136,7 +3153,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>55</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/hk/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3145,7 +3162,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>56</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://apps.apple.com/hk/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3154,7 +3171,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>57</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id456637671">安全監控照片+視頻Pro</a>
+        <a href="https://apps.apple.com/hk/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3163,7 +3180,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>58</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1453318714">Vostok — 创建美丽快拍页面</a>
+        <a href="https://apps.apple.com/hk/app/id456637671">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3172,7 +3189,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>59</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/hk/app/id1453318714">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3181,7 +3198,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>60</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/hk/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3190,7 +3207,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>61</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id488674899">雨雷達 ° -實時天氣圖</a>
+        <a href="https://apps.apple.com/hk/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3199,7 +3216,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>62</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/hk/app/id488674899">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3208,7 +3225,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>63</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
+        <a href="https://apps.apple.com/hk/app/id1361473095">MuseDash</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3217,7 +3234,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>64</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
+        <a href="https://apps.apple.com/hk/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3226,7 +3243,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>65</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/hk/app/id388624839">CamScanner+</a>
+        <a href="https://apps.apple.com/hk/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -3235,12 +3252,69 @@ feedId:157008141708743680+userId:73658201673997312
         <b>66</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/hk/app/id388624839">CamScanner+</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>67</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/hk/app/id1659622164">VidHub -Video Library & Player</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Border 2]]></title>
+        <id>Black Border 2-hk-1766960806843</id>
+        <link href="https://apps.apple.com/hk/app/black-border-2/id6504453094?uo=4"/>
+        <updated>2025-12-28T22:26:46.843Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 12.00 → HK$ 2.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/black-border-2/id6504453094?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/aa/0f/4aaa0ffb-f555-e79c-9687-64b1811b6a0d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 12.00</span> → <b>
+  <strong>HK$ 2.00</strong>
+</b><span>[HK$ 2.00 ~ HK$ 12.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 2.00</b>
+</p><h2>应用描述</h2><p>
+  Inspect papers, prevent smuggling—keep the border safe or profit from corruption.
+
+Ready to become a Border Police Officer? Step into the world of Black Border 2: Border Patrol Simulator and experience the intense pressure of national security. As a Customs Officer, your duty is to protect the nation from illegal smuggling. Inspect passports, scrutinize documents, and use advanced tools to make life-or-death decisions in this gripping police simulator game.
+
+Take on the duty of a Border Patrol Agent and protect your nation's borders. Your role is crucial:
+
+Document Inspection: Meticulously check passports, permits, and papers to approve or reject entrants.
+
+Advanced Tools: Utilize X-ray scanners to reveal hidden items and weigh stations to check vehicle legitimacy.
+
+Canine Unit: Deploy your loyal service dog to sniff out concealed contraband and uncover secrets.
+
+Strategic Decisions: Every choice you make impacts the safety of your country.
+
+NEW FEATURES in Black Border 2:
+
+Document Inspection: Meticulously check passports and permits to approve or reject entrants as a customs officer.
+
+Endless Mode: Test your border patrol skills in a nonstop, challenging experience.
+
+Bus Arrivals: Manage large buses and check every passenger's documents carefully.
+
+Advanced Scanning: Utilize new X-ray scanners to reveal hidden items and contraband.
+
+Weigh Stations: Ensure vehicle weights match their records, a key part of your police duty.
+
+Canine Unit: Your faithful service dog is now a crucial partner in finding hidden contraband.
+
+Each day as a border inspector brings new challenges that will push your customs police skills to the limit. Are you ready to face the pressure and become a true hero of national security?
+
+Download Black Border 2 today and get ready to defend the nation!
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/65/70/a265708b-3467-dcbd-1bde-ce88f9cf8f71/8a11fa2e-2c5d-4ffd-9dd2-e198d069c565_bribe.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a5/f7/58/a5f758fe-3619-f8e6-9b5c-dec351437413/557e5cf9-c9d3-4c98-af27-90da82315f0b_all_docs.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/19/fb/4719fb02-706e-0a53-d642-593b7328d6fb/4ebd63a4-0b06-413b-b995-893907286632_trucks_queue.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7e/87/0e/7e870ec6-712a-61a0-a877-0836a1ba9d1c/af16d2ec-2462-40d3-b147-31b5e88457e1_tower.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6e/5c/5e/6e5c5e5f-dccd-4214-c0c2-5aea4885ba83/692e61a2-9f46-478b-8a0a-ed17d03a467c_X-RAY-ios1.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/36/39/54/36395401-69fc-4968-81ea-c82c216d78bc/a1915147-3b3f-410f-9569-25a5dd7bbaee_bribe.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/79/6f/90796f9a-d425-cabd-fa86-492f7caefc27/b378a307-9729-4867-8695-1c9d3806c641_all_docs.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/15/eb/1915eb9e-cdac-cd52-a266-dc2786c43bc2/c8df3a54-794d-4776-a0c9-38526d39e347_trucks_queue.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/cb/ea/bbcbea0e-47c3-3f75-aeb6-f9bd45304c10/8f99f15a-c380-4b2d-9c5e-0d2169051445_tower.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f0/25/77/f02577c8-6634-519c-00ba-549642335c66/54d76749-0d97-42d0-a806-7281aa6691fd_X-RAY-ios1.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[聖經(和合本)(繁體中英對照)]]></title>
@@ -3711,228 +3785,5 @@ VNC features:
     限時解鎖合集 - 惑星：<b>HK$ 4.00</b>
   </li>
 </ul><h2>应用描述</h2><p>這是一個專為動漫愛好者精心設計的高畫質背景壁紙應用程序。我們提供多種精美的原創動漫背景，讓您的手機無時無刻都充滿二次元感覺。探索各種風格的限定壁紙，輕鬆免費下載以便隨時使用。立即下載我們的應用，展開您的動漫之旅吧！</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[貓娘樂園 Love Project Vol.1]]></title>
-        <id>貓娘樂園 Love Project Vol.1-hk-1766680454883</id>
-        <link href="https://apps.apple.com/hk/app/%E8%B2%93%E5%A8%98%E6%A8%82%E5%9C%92-love-project-vol-1/id6742139144?uo=4"/>
-        <updated>2025-12-25T16:34:14.883Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 38.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E8%B2%93%E5%A8%98%E6%A8%82%E5%9C%92-love-project-vol-1/id6742139144?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/59/53/9e/59539eea-5f3b-e740-9b62-81b89ccd4220/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 58.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 58.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 38.00</b>
-</p><h2>应用描述</h2><p>
-  在全世界热销超过650万套的超人气恋爱冒险游戏《猫娘乐园》即将重制在手机平台登场！
-不仅画面表现更精致，还有全新声优阵容录制的语音，并追加全新剧情内容——这款大幅升级的重制版将献给全世界的主人们！
-
-※本作品收录日文、英文、繁体中文、简体中文
-※与家用主机版《猫娘乐园Vol.1 ～La Soleil 开店了！～》相同，均收录本篇通关后的特典《猫娘乐园Vol.0》。
-
-□故事
-水无月嘉祥离开了老家——一间历史悠久的老字号日式点心店，
-并以西式糕点师的身份开了自己的蛋糕店，名为『La Soleil』。
-
-然而，从老家寄来的行李中，竟然混进了两只在老家饲养的人型猫娘——巧克力和香草。
-打算送猫娘回去的嘉祥经不住她们的苦苦哀求，
-最终决定带着两只猫娘开始『La Soleil』的经营。
-
-为了最喜欢的主人，两只猫娘历经挫折仍然努力不懈。
-温暖人心的猫娘喜剧，现在就此开店！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[迷你空管：高級版]]></title>
-        <id>迷你空管：高級版-hk-1766680454883</id>
-        <link href="https://apps.apple.com/hk/app/%E8%BF%B7%E4%BD%A0%E7%A9%BA%E7%AE%A1-%E9%AB%98%E7%B4%9A%E7%89%88/id6478572512?uo=4"/>
-        <updated>2025-12-25T16:34:14.883Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 32.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E8%BF%B7%E4%BD%A0%E7%A9%BA%E7%AE%A1-%E9%AB%98%E7%B4%9A%E7%89%88/id6478572512?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/50/63/b9506352-6aff-cbfa-ecee-2f287abe4c28/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 32.00</strong>
-</b><span>[HK$ 32.00 ~ HK$ 38.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 32.00</b>
-</p><h2>应用描述</h2><p>
-  《迷你空管》是一款極簡風的實時航空管理遊戲。你將扮演一名忙碌的空中交通管制員，引導飛機起降，指揮它們飛往目的地，最重要的是，避免相撞事故！倫敦、東京、上海、華盛頓……在世界各地的機場展現你高超的指揮技巧！巧用獨特的跑道配置和各色道具，在日益密集的航班前盡可能久地管理空域。
-
-【遊戲特色】
-極簡風的遊戲界面
-實時控制航班起降
-全球真實機場地圖
-經典歷史事件重現
-突發事件應急處理
-
-【完整內容】
-來自全球各國的15個經典機場
-超過10種機場升級和歷史事件
-
-【聯繫我們】
-YouTube：https://www.youtube.com/@IndieGamePublisherErabit
-Discord：https://discord.com/invite/hupT49uQQF
-Email：support@erabitstudios.com
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[王國保衛戰：復仇]]></title>
-        <id>王國保衛戰：復仇-hk-1766680454883</id>
-        <link href="https://apps.apple.com/hk/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E5%BE%A9%E4%BB%87/id1248033433?uo=4"/>
-        <updated>2025-12-25T16:34:14.883Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 22.00<br/>Hero Beresad: HK$ 58.00 → HK$ 38.00<br/>Tower Blazing Gem: HK$ 38.00 → HK$ 22.00<br/>Tower Deep Devil's Reef: HK$ 22.00 → HK$ 8.00<br/>Hero Eiskalt: HK$ 48.00 → HK$ 32.00<br/>Tower Grim Cemetery: HK$ 22.00 → HK$ 8.00<br/>Tower Shaolin Temple: HK$ 22.00 → HK$ 8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E7%8E%8B%E5%9C%8B%E4%BF%9D%E8%A1%9B%E6%88%B0-%E5%BE%A9%E4%BB%87/id1248033433?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/bd/90/89bd90ae-08a4-3d50-b3bb-bea0a55a95c7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 38.00</span> → <b>
-  <strong>HK$ 22.00</strong>
-</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>）
-</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>Hero Beresad：</strong><span>HK$ 58.00</span> → <b>
-  <strong>HK$ 38.00</strong>
-</b><span>[HK$ 38.00 ~ HK$ 58.00]</span>
-  </li><li>
-    <strong>Tower Blazing Gem：</strong><span>HK$ 38.00</span> → <b>
-  <strong>HK$ 22.00</strong>
-</b><span>[HK$ 22.00 ~ HK$ 38.00]</span>
-  </li><li>
-    <strong>Tower Deep Devil's Reef：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>
-  </li><li>
-    <strong>Hero Eiskalt：</strong><span>HK$ 48.00</span> → <b>
-  <strong>HK$ 32.00</strong>
-</b><span>[HK$ 32.00 ~ HK$ 48.00]</span>
-  </li><li>
-    <strong>Tower Grim Cemetery：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>
-  </li><li>
-    <strong>Tower Shaolin Temple：</strong><span>HK$ 22.00</span> → <b>
-  <strong>HK$ 8.00</strong>
-</b><span>[HK$ 8.00 ~ HK$ 22.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 22.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    Mega Tower Bundle：<b>HK$ 128.00</b>
-  </li><li>
-    Mega Heroe Bundle：<b>HK$ 148.00</b>
-  </li><li>
-    Hero Beresad：<b>HK$ 38.00</b>
-  </li><li>
-    Hammerhold Campaign!：<b>HK$ 58.00</b>
-  </li><li>
-    Pirate Kings Campaign!：<b>HK$ 88.00</b>
-  </li><li>
-    Tower Blazing Gem：<b>HK$ 22.00</b>
-  </li><li>
-    Tower Deep Devil's Reef：<b>HK$ 8.00</b>
-  </li><li>
-    Hero Eiskalt：<b>HK$ 32.00</b>
-  </li><li>
-    Tower Grim Cemetery：<b>HK$ 8.00</b>
-  </li><li>
-    Tower Shaolin Temple：<b>HK$ 8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  威猛全能的巫師威之難回來了！開啟一趟史詩之旅，召集他的軍隊，完成他的陰謀計劃…木哈哈哈。讓整個王國知道誰才是真正的頭目！奮力向前，征服新的領地，還有那些不錯的舊領地。在這款幽默史詩的經典塔防遊戲中，直面強大敵人的帝國，對抗超威的頭目！
-遊戲特色
-
-- 22種具有特殊技能與力量的新防禦塔。
-- 選擇防禦塔武器，組合成超強破壞力的裝備，阻止敵人進攻！
-- 三個大陸上的42個挑戰關卡，已準備好等你來！
-- 17個強大的英雄，毫不猶豫聽候你的調遣。
-- 超過60種死敵來測驗你的智慧與戰術技巧。
-- 在最傳奇的頭目戰鬥中，打敗17位威武的魔王，包圍你的王國！
-- 新的能力與援軍，助你殲滅敵人。
-- 10多種小物件與法器，在戰鬥中提供額外優勢。
-- 30種升級可訓練軍隊到最佳狀態。
-- 60多種成就，隱藏的秘密和其他好玩的東東等你來發現！
-- 你的黑塔里沒有WiFi？不用擔心，可以離線玩哦！
-
-這裡有魔王威之難最新訊息：
-https://www.kingdomrushvengeance.com/
-
-條款及條件：
-https://www.ironhidegames.com/TermsOfService
-
-隱私權政策：
-https://www.ironhidegames.com/PrivacyPolicy
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f7/64/1f/f7641f72-6383-d73d-88c8-126ca9765559/53dc0032-f3e9-49e8-9858-5dfdea77d469_KRV_Pirate-screenshots_iPhone-5.5_Traditional-chinese-0000.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c8/8c/84c88cef-6821-cb2b-93e5-191f010515d2/35b9e093-1c02-4b41-8558-e173fcb95f01_KRV_screenshots_iPhone-5.5_Traditional-chinese-0001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/6c/d5/386cd54f-362f-3d0d-47f3-8fe52e80af18/8cb1695b-5ba5-43ab-9dc8-b1dcc5b6c686_KRV_screenshots_iPhone-5.5_Traditional-chinese-0002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/08/64/8f086427-e802-adbc-4251-7bad2ad530d2/5611dbc3-afd7-45ee-a609-16a551801b52_KRV_screenshots_iPhone-5.5_Traditional-chinese-0003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/36/83/f53683ff-554a-7ead-7e16-2f917c7c82c8/0c389835-dca0-492f-8cee-1013d9571393_KRV_screenshots_iPhone-5.5_Traditional-chinese-0004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6b/f0/f2/6bf0f2ed-0f12-d818-411e-e178053674d1/bd2d2468-dd27-4173-88f5-cfd1ffb1dda5_KRV_screenshots_iPhone-5.5_Traditional-chinese-0005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b3/43/64/b34364ca-a4f1-859a-5d41-27e1b2e7d813/26212700-22aa-4463-8c48-bdfe6df05b15_krv_dinos_2208x1242_ux.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/15/f3/3d/15f33d41-fe6f-07f8-10cb-56889fab9800/f56e789d-fdfc-4c09-b017-2c7a1aee26fd_KRV_Pirates-screenshots_4_3_new_Traditional-chinese-0000.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/a5/ac/b6a5ac31-2c27-baa0-60d6-752ae79de29f/55dfc2ea-af9c-48e4-b3e7-2926a83632be_KRV_screenshots_4_3_new_Traditional-chinese-0001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/c9/12/4cc91224-2dc9-0a40-b17a-f5131e7d9fe1/a2324f99-3998-43e5-85f9-cee12ee4ce11_KRV_screenshots_4_3_new_Traditional-chinese-0002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/37/11/003711dc-dba3-a604-03eb-4d5dd1dfc434/e655ed76-6f95-409e-9d4d-ff532e051016_KRV_screenshots_4_3_new_Traditional-chinese-0003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/7e/29/6a7e29c4-53bb-7ce4-f8bd-e636e679d7bc/9f93a3dd-dd56-4af1-86de-3bf22533b396_KRV_screenshots_4_3_new_Traditional-chinese-0004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e6/28/14/e628140f-b2ab-b2a1-59ff-46e93c599559/587f3b47-c3e2-42c7-b02f-690508f09bc4_KRV_screenshots_4_3_new_Traditional-chinese-0005.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/ef/6a/d1ef6ab4-0fec-65b2-b1d7-e6bb7e7a4bec/79f2010f-8c49-4315-bfda-92760fe336ac_krv_dinos_2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lumy - Sun Tracker for Outdoor]]></title>
-        <id>Lumy - Sun Tracker for Outdoor-hk-1766658617562</id>
-        <link href="https://apps.apple.com/hk/app/lumy-sun-tracker-for-outdoor/id908905093?uo=4"/>
-        <updated>2025-12-25T10:30:17.562Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 57.00 → HK$ 39.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/lumy-sun-tracker-for-outdoor/id908905093?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/1d/ba/4f1dba14-7d1b-8f65-8e7a-8240cef4ff72/lumy_v1-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 57.00</span> → <b>
-  <strong>HK$ 39.00</strong>
-</b><span>[HK$ 29.00 ~ HK$ 58.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 39.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    All the Light (Huge Tip)：<b>HK$ 88.00</b>
-  </li><li>
-    More Light (Medium Tip)：<b>HK$ 32.00</b>
-  </li><li>
-    A Little Light (Small Tip)：<b>HK$ 8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Lumy is a modern sun tracker + outdoor activities planner.
-
-- Perfect lighting for photos or videos? Done.
-- Sunrise hike or sunset walk? Easy.
-- Outdoor yoga or sunlight breaks? Covered.
-
-Whether you’re chasing golden hour*, planning your daily dose of Vitamin D, or tracking moon phases for stargazing, Lumy helps you make the most of natural light.
-
-Now redesigned from the ground up - Lumy feels more personal, purposeful, and in sync with how we live. Inspired by sunlight filtering through a window, every view carries a subtle visual echo of light seeping through a pane of glass. 
-
-Introducing Modes: Switch between profiles like Daily, Photography, or Meditation to shape Lumy around your routine. See only what matters to you.
-
-Lumy also supports iOS’s State of Mind feature, offering sunlight suggestions based on your mood entries in the Health app - a gentle nudge to step out and connect with nature.
-
-And with weather forecasts for the next seven days, you can plan with confidence. Lumy calculates all sun and moon data entirely on-device. No tracking. No server calls. Only the weather needs internet.
-
-Lumy works seamlessly across iPhone, iPad, Apple Watch, Apple TV, and HomePod. One purchase, full family access.
-
-Features
-- Modes: Switch profiles based on your needs — from weekday planning to weekend golden hour.
-- Sun + Moon Tracking: Accurate data, solar compass, and future predictions.
-- Season Info: Both astronomical and meteorological seasons.
-- Remainders: Custom repeatable notifications.
-- Apple Watch: Complications, Double-tap, and Live Activities.
-- Widgets + Control Center: Quick access via Smart Stack and more.
-- Interaction Upgrades: Time travel slider, Quick Access Button, fluid animations.
-- Visual Feel: Simulated light, shimmering glows, and enhanced Classic visuals.
-- Accessibility: VoiceOver, Dynamic Type, Reduce Motion, and more.
-- Privacy First: Fully offline (except weather). Your data stays with you.
-- Localization: Available in Japanese, Chinese, French, and German.
-
-Lumy helps photographers, outdoor lovers, and wellness seekers stay in sync with the sun and moon.
-
-*What's Golden Hour?
-Golden Hour (or Magic Hour) is the short time after sunrise or before sunset when the light is soft, warm, and perfect for capturing stunning photos or videos.
-
-Sun Information Available:
-Sunrise, Sunset, First Light, Last Light, Golden Hour, Blue Hour, Astronomical Twilight, Nautical Twilight, Civil Twilight, Solar Noon, Solar Midnight.
-
-Moon Information Available:
-Moonrise, Moonset, Altitude, Azimuth, Transit, Transit Elevation, Weekly Moon Phase, Next Full Moon, New Moon, First Quarter, Last Quarter.
-
-Got feedback or suggestions? We’d love to hear from you! Reach out at hello@waplestuff.com.
-</p>]]></content>
     </entry>
 </feed>
