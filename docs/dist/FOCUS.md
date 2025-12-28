@@ -66,7 +66,7 @@ So far, we've covered `7` `Countries or Regions` and  `1631` `Apps` <br />Push n
 |1575|1672882866|Automatic|❌|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|METAL SLUG 2 ACA NEOGEO|
 |1574|6751400144|Automatic|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|天下游定位|
 |1573|1557502285|Automatic|❌|Rush Rally Origins|Rush Rally Origins|Rush Rally Origins|Rush Rally Origins|Rush Rally Origins|Rush Rally Origins|
-|1572|397553707|Automatic|❌|德州撲克 - Pokerist Pro|德州撲克 - Pokerist Pro|德州撲克 - Pokerist Pro|Texas Poker: Pokerist Pro|Texas Poker: Pokerist Pro|Texas Poker: Pokerist Pro|
+|1572| ~~397553707~~ |Automatic| ~~❌~~ | ~~德州撲克 - Pokerist Pro~~ | ~~德州撲克 - Pokerist Pro~~ | ~~德州撲克 - Pokerist Pro~~ | ~~Texas Poker: Pokerist Pro~~ | ~~Texas Poker: Pokerist Pro~~ | ~~Texas Poker: Pokerist Pro~~ |
 |1571|6755165826|Automatic|择吉(实用)|擇吉(實用)|擇吉(實用)|擇吉(實用)|擇吉(實用)|擇吉(實用)|擇吉(實用)|
 |1570|468368751|Automatic|LightSpectrum Pro|LightSpectrum Pro|LightSpectrum Pro|LightSpectrum Pro|LightSpectrum Pro|LightSpectrum Pro|LightSpectrum Pro|
 |1569|1224221339|Automatic|Biblia: Salmos con Audio|Biblia: Salmos con Audio|Biblia: Salmos con Audio|Biblia: Salmos con Audio|Biblia: Salmos con Audio|Biblia: Salmos con Audio|Biblia: Salmos con Audio|
