@@ -10,7 +10,7 @@ So far, we've covered `7` `Countries or Regions` and  `1634` `Apps` <br />Push n
 |1634|1517281887|Automatic|❌|Baba Is You|Baba Is You|Baba Is You|Baba Is You|Baba Is You|Baba Is You|
 |1633|6448352407|Automatic|❌|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|
 |1632|6523690380|Automatic|❌|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|
-|1631|6752598693|Automatic|❌|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|Wood Screw Pin Jam Puzzle|
+|1631|6752598693|Automatic|❌|Screw Pin Jam Puzzle: Wood|Screw Pin Jam Puzzle: Wood|Screw Pin Jam Puzzle: Wood|Screw Pin Jam Puzzle: Wood|Screw Pin Jam Puzzle: Wood|Screw Pin Jam Puzzle: Wood|
 |1630|1672164496|Automatic|❌|Roundguard|Roundguard|Roundguard|Roundguard|Roundguard|Roundguard|
 |1629|6477547036|Automatic|SmartConvert Live|SmartConvert Live|SmartConvert Live|SmartConvert Live|SmartConvert Live|SmartConvert Live|SmartConvert Live|
 |1628|1492631112|Automatic|❌|Game Creator 2D|Game Creator 2D|Game Creator 2D|Game Creator 2D|Game Creator 2D|Game Creator 2D|
