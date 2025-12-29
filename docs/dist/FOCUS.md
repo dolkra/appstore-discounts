@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1634` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1635` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1635|1073907652|Automatic|心电图仪|心電圖儀|心電圖儀|心電圖儀|Cardiograph|Cardiograph|Cardiógrafo|
 |1634|1517281887|Automatic|❌|Baba Is You|Baba Is You|Baba Is You|Baba Is You|Baba Is You|Baba Is You|
 |1633|6448352407|Automatic|❌|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|Unboxing the Cryptic Killer|
 |1632|6523690380|Automatic|❌|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|Dealer's Life Legend|
