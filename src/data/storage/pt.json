@@ -377,6 +377,27 @@
       ]
     ]
   },
+  "305608072": {
+    "name": "SPACE INVADERS",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767163393414,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "306938028": {
     "name": "Photo Sticker",
     "maxPriceInfo": {
@@ -35633,9 +35654,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Filebar Pro Lifetime": "9,99 €"
+      "Filebar Pro Lifetime": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767163393414,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "8,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

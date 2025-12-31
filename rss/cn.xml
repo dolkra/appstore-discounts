@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-12-31T06:00:09.506Z</updated>
+    <updated>2025-12-31T07:55:18.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-31T06:00:09.507Z</updated>
+        <updated>2025-12-31T07:55:18.125Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 31 Dec 2025 06:00:09 GMT</id>
+        <id>rankingcnWed, 31 Dec 2025 07:55:18 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-31T06:00:09.508Z</updated>
+        <updated>2025-12-31T07:55:18.125Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1636</b>
+        <b>1637</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1435</b>
+        <b>1436</b>
       </td>
       <td>
         <b>74</b>
@@ -739,14 +739,24 @@ feedId:157007849019630592+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1564383045">算法导论.助手</a>
+        <a href="https://apps.apple.com/cn/app/id1557637265">家园、异星与猎人</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>深度高级特训</i>：<b>1</b>
+              </li><li>
+                <i>月卡</i>：<b>1</b>
+              </li><li>
+                <i>高级特训</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -756,7 +766,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1576004936">化学 - 元素周期表 2026</a>
+        <a href="https://apps.apple.com/cn/app/id1564383045">算法导论.助手</a>
       </td>
       <td>
         <ul>
@@ -773,7 +783,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1584313012">笼中窥梦</a>
+        <a href="https://apps.apple.com/cn/app/id1576004936">化学 - 元素周期表 2026</a>
       </td>
       <td>
         <ul>
@@ -790,7 +800,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1614200925">部落与弯刀</a>
+        <a href="https://apps.apple.com/cn/app/id1584313012">笼中窥梦</a>
       </td>
       <td>
         <ul>
@@ -807,7 +817,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
+        <a href="https://apps.apple.com/cn/app/id1614200925">部落与弯刀</a>
       </td>
       <td>
         <ul>
@@ -824,7 +834,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6466390901">旋转音律 Rotaeno</a>
+        <a href="https://apps.apple.com/cn/app/id1644917705">无处遁形：全网公敌</a>
       </td>
       <td>
         <ul>
@@ -841,7 +851,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6746649752">MagicKit Pro：AI智能工具箱</a>
+        <a href="https://apps.apple.com/cn/app/id6466390901">旋转音律 Rotaeno</a>
       </td>
       <td>
         <ul>
@@ -858,7 +868,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6738767322">森丘露营地</a>
+        <a href="https://apps.apple.com/cn/app/id6746649752">MagicKit Pro：AI智能工具箱</a>
       </td>
       <td>
         <ul>
@@ -873,6 +883,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>45</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id6738767322">森丘露营地</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742887304">剧能说-听音频练习地道英语口语英语听力</a>
@@ -895,7 +922,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -912,7 +939,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6737795387">鬼谷八荒</a>
@@ -937,7 +964,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -954,7 +981,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6499512726">浮岛冒险</a>
@@ -971,7 +998,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446614518">画中世界</a>
@@ -988,7 +1015,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742311454">伏魔诀-阴阳秘术诡道修仙录</a>
@@ -1005,7 +1032,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444396120">挺进地牢</a>
@@ -1022,7 +1049,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -1039,7 +1066,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6738767315">便利店开业日记</a>
@@ -1056,7 +1083,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6499198824">蜂软扫描 - 全能扫描仪</a>
@@ -1073,7 +1100,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6752503669">Solar Arc: Sun and Moon Widget</a>
@@ -1090,7 +1117,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6478398981">直播 - IPTV Smart Pro</a>
@@ -1107,7 +1134,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742221550">魔卡棋旅</a>
@@ -1124,7 +1151,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6450877530">花园之间</a>
@@ -1141,7 +1168,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6744430250">Python 學習計劃</a>
@@ -1158,7 +1185,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
@@ -1187,7 +1214,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6748885060">Acgbg~动漫背景壁纸库</a>
@@ -1204,7 +1231,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742044212">简记快捷记账-AI记账&极简账本</a>
@@ -1221,7 +1248,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6755290585">Raiders Map</a>
@@ -1244,7 +1271,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6740115177">破门而入：行动小队</a>
@@ -1261,7 +1288,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6550914957">打造世界-经典沙盒建造</a>
@@ -1300,7 +1327,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749542417">迷雾北境</a>
@@ -1317,7 +1344,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6633427774">为了吾王-多人联机策略跑团</a>
@@ -1334,7 +1361,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -1775,6 +1802,85 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[家园、异星与猎人]]></title>
+        <id>家园、异星与猎人-cn-1767163393414</id>
+        <link href="https://apps.apple.com/cn/app/%E5%AE%B6%E5%9B%AD-%E5%BC%82%E6%98%9F%E4%B8%8E%E7%8C%8E%E4%BA%BA/id1557637265?uo=4"/>
+        <updated>2025-12-31T06:43:13.414Z</updated>
+        <summary type="html"><![CDATA[深度高级特训: ¥98.00 → ¥49.00<br/>月卡: ¥30.00 → ¥15.00<br/>高级特训: ¥68.00 → ¥34.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%AE%B6%E5%9B%AD-%E5%BC%82%E6%98%9F%E4%B8%8E%E7%8C%8E%E4%BA%BA/id1557637265?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/b9/19/beb91974-b16b-fbcd-bac1-40bff6897eb5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>深度高级特训：</strong><span>¥98.00</span> → <b>
+  <strong>¥49.00</strong>
+</b><span>[¥49.00 ~ ¥98.00]</span>
+  </li><li>
+    <strong>月卡：</strong><span>¥30.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥30.00]</span>
+  </li><li>
+    <strong>高级特训：</strong><span>¥68.00</span> → <b>
+  <strong>¥34.00</strong>
+</b><span>[¥34.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥1.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    战斗奖励双倍：<b>¥12.00</b>
+  </li><li>
+    60金砖：<b>¥6.00</b>
+  </li><li>
+    300金砖：<b>¥30.00</b>
+  </li><li>
+    120金砖：<b>¥12.00</b>
+  </li><li>
+    深度高级特训：<b>¥49.00</b>
+  </li><li>
+    月卡：<b>¥15.00</b>
+  </li><li>
+    680金砖：<b>¥68.00</b>
+  </li><li>
+    高级特训：<b>¥34.00</b>
+  </li><li>
+    980金砖：<b>¥98.00</b>
+  </li><li>
+    6480金砖：<b>¥648.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  == App Store 获得160个国家与地区推荐 ==
+== App Store 获得多次Game of the Day 推荐 ==
+
+----- 星环猎人招募启事 -----
+（备注：本条招募信息由黑珍珠团队诚意发出。）
+来自『星环』的勇士，『大灾变』后的星球需要你！
+
+招募要求：
+- 热爱我们共同的『家园』：即使它已经是一颗破碎的星球，它依然需要我们的守护。
+- 能够『即时战斗』：作战可不是过家家。猎人，要敏捷、精准、爽快！
+- 能接受『3人小队作战』：异星危险，需保持3人作战。当然，战术完全可以按照你的喜好进行。
+- 善于利用『丰富的元素系统』：是主攻火元素进行点燃，还是使用冰元素进行冻结，或者结合『火+冰』形成『水』来潮湿目标……取决于你！
+- 对『奇葩猎物』感到兴奋：毕竟，你会遇到各种奇形怪状的敌人——比如臭名昭著的狂徒、跑到地上飞的章鱼、跳着扭腰舞的沙虫。（当然，希望你不会遇到什么穴居兽、寄居巨蟹、传说中的“巨手”这种级别的玩意儿。）
+
+我们会为正式猎人提供：
+- 至少9名『精英猎人』备选：都是一群有故事的家伙，你会喜欢上他们的，伙计。
+- 猎人『成长支持』：猎人协会会提供各种成长的技术支持。不过你得想方设法去获得更好的装备，让队友们学习最适合他们的技能，由此来构建队伍的战斗搭配——不过要记得，优秀的猎人永不止一种套路！
+
+此外，如果你……
+- 热爱『复古像素风』就更好了：猎人的移动设备将会用最为质感的风格，为你呈现最佳的星球景观。
+
+放手去做你最擅长的事情吧！
+——加入我们，整个星球都将是你的猎场！
+
+------ 开发者的话 ------
+距离我们上一个游戏"Brutal Street 2"的发布已经过去了5年，
+『创作』不是一件容易的事，延续前作并再加以创新更是困难，
+『家园、异星与猎人』倾注了我们大量的心血，希望各位会喜欢。
+
+来自：黑珍珠游戏的12个小伙伴
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[迷雾北境]]></title>

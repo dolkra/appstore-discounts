@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2025-12-31T03:21:26.740Z</updated>
+    <updated>2025-12-31T07:55:18.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-31T03:21:26.740Z</updated>
+        <updated>2025-12-31T07:55:18.210Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptWed, 31 Dec 2025 03:21:26 GMT</id>
+        <id>rankingptWed, 31 Dec 2025 07:55:18 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2025-12-31T03:21:26.740Z</updated>
+        <updated>2025-12-31T07:55:18.210Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1636</b>
+        <b>1637</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1435</b>
+        <b>1436</b>
       </td>
       <td>
         <b>74</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1369</b>
+        <b>1370</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1225</b>
+        <b>1226</b>
       </td>
       <td>
         <b>4</b>
@@ -1591,14 +1591,20 @@ feedId:206907475259680768+userId:73658201673997312
         <b>85</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1561442623">Access Code Zero</a>
+        <a href="https://apps.apple.com/pt/app/id1558391784">Filebar</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Filebar Pro Lifetime</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -1608,7 +1614,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>86</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1563156209">Legend of Mana</a>
+        <a href="https://apps.apple.com/pt/app/id1561442623">Access Code Zero</a>
       </td>
       <td>
         <ul>
@@ -1625,7 +1631,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>87</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1573482724">Coffee Inc 2</a>
+        <a href="https://apps.apple.com/pt/app/id1563156209">Legend of Mana</a>
       </td>
       <td>
         <ul>
@@ -1640,6 +1646,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>88</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1573482724">Coffee Inc 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>89</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1575414319">Dune: Imperium</a>
@@ -1662,7 +1685,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
+        <b>90</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1576004936">Química Tabela Periódica 2026</a>
@@ -1679,7 +1702,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>90</b>
+        <b>91</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1587301632">All In One Memo</a>
@@ -1696,7 +1719,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>91</b>
+        <b>92</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1587860402">Moncage</a>
@@ -1713,7 +1736,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>92</b>
+        <b>93</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1592505377">Wreckfest</a>
@@ -1730,7 +1753,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>93</b>
+        <b>94</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1592854410">Island Story: 100 Days</a>
@@ -1747,7 +1770,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>94</b>
+        <b>95</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1600307023">Dealer's Life 2</a>
@@ -1764,7 +1787,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>95</b>
+        <b>96</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1606405358">Dealer's Life Pawn Shop</a>
@@ -1781,7 +1804,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1612952507">AeroPads - Pads & Soundscapes</a>
@@ -1806,7 +1829,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>97</b>
+        <b>98</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1614771445">Rotaeno</a>
@@ -1823,7 +1846,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1614795077">Otaku's Adventure</a>
@@ -1840,7 +1863,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>99</b>
+        <b>100</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1620883955">Little Nightmares</a>
@@ -1857,7 +1880,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>100</b>
+        <b>101</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1621065119">Ace Attorney Trilogy</a>
@@ -1874,7 +1897,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>101</b>
+        <b>102</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1623111026">Pocket Academy 3</a>
@@ -1891,7 +1914,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>102</b>
+        <b>103</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1640627334">Resident Evil Village for Mac</a>
@@ -1918,7 +1941,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>103</b>
+        <b>104</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1642601792">The Past Within</a>
@@ -1935,7 +1958,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>104</b>
+        <b>105</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1642715290">Little Big Workshop</a>
@@ -1952,7 +1975,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>105</b>
+        <b>106</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1642733080">DungeonSquad</a>
@@ -1969,7 +1992,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>106</b>
+        <b>107</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1644917705">Cyber Manhunt</a>
@@ -1986,7 +2009,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>107</b>
+        <b>108</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1665706687">Underground Blossom</a>
@@ -2003,7 +2026,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>108</b>
+        <b>109</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id1672085276">Aiko</a>
@@ -2020,7 +2043,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>109</b>
+        <b>110</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6746649752">MagicKit Pro: AI Smart Toolbox</a>
@@ -2037,7 +2060,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>110</b>
+        <b>111</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6463115144">TV Studio Story</a>
@@ -2054,7 +2077,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>111</b>
+        <b>112</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6744608603">A Game About Digging A Hole™</a>
@@ -2071,7 +2094,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>112</b>
+        <b>113</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6446021269">MEGA MAN X DiVE Offline</a>
@@ -2088,7 +2111,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>113</b>
+        <b>114</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6450980545">Resident Evil Village</a>
@@ -2117,7 +2140,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>114</b>
+        <b>115</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6462360082">Resident Evil 4</a>
@@ -2144,7 +2167,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>115</b>
+        <b>116</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6742887304">剧能说-听音频练习地道英语口语英语听力</a>
@@ -2167,7 +2190,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>116</b>
+        <b>117</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6748572801">Seoul Exorcist 1111: Roguelite</a>
@@ -2184,7 +2207,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>117</b>
+        <b>118</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740349855">Backyard Football '99</a>
@@ -2201,7 +2224,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>118</b>
+        <b>119</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6503088710">World of Goo 2</a>
@@ -2218,7 +2241,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>119</b>
+        <b>120</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6737987084">小猫补光灯Pro - 官方出品，氛围感色卡补光自拍开创者</a>
@@ -2235,7 +2258,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>120</b>
+        <b>121</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740349666">Backyard Baseball '97</a>
@@ -2252,7 +2275,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>121</b>
+        <b>122</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6449748961">DEATH STRANDING DIRECTOR'S CUT</a>
@@ -2269,7 +2292,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>122</b>
+        <b>123</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6748852099">Delil Zinciri</a>
@@ -2294,7 +2317,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>123</b>
+        <b>124</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740349587">Backyard Baseball '01</a>
@@ -2311,7 +2334,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>124</b>
+        <b>125</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6443875944">Sands of Salzaar</a>
@@ -2328,7 +2351,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>125</b>
+        <b>126</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6742472194">鬼谷八荒 Tale of Immortal</a>
@@ -2353,7 +2376,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>126</b>
+        <b>127</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6450724928">Luck be a Landlord</a>
@@ -2370,7 +2393,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>127</b>
+        <b>128</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740755738">Lost in Fantaland</a>
@@ -2387,7 +2410,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>128</b>
+        <b>129</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6752503669">Solar Arc: Sun and Moon Widget</a>
@@ -2404,7 +2427,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>129</b>
+        <b>130</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6740814979">Follow the meaning</a>
@@ -2421,7 +2444,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>130</b>
+        <b>131</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6499198824">ScanGo - PDF Document Scanner</a>
@@ -2438,7 +2461,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>131</b>
+        <b>132</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6478398981">IPTV Smart Pro - TV AO VIVO</a>
@@ -2455,7 +2478,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>132</b>
+        <b>133</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6747814605">Is This Seat Taken?</a>
@@ -2472,7 +2495,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>133</b>
+        <b>134</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6459581344">Art of Rally</a>
@@ -2489,7 +2512,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>134</b>
+        <b>135</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6504841512">Halls of Torment: Premium</a>
@@ -2506,7 +2529,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>135</b>
+        <b>136</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6471947612">召喚騎士團</a>
@@ -2533,7 +2556,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>136</b>
+        <b>137</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6744430250">Python 學習計劃</a>
@@ -2550,7 +2573,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>137</b>
+        <b>138</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6743115658">TABS Pocket Edition</a>
@@ -2567,7 +2590,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>138</b>
+        <b>139</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6746136017">Astrea: Six-Sided Oracles</a>
@@ -2584,7 +2607,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>139</b>
+        <b>140</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6449233549">Ark Nova</a>
@@ -2601,7 +2624,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>140</b>
+        <b>141</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6449183990">DQM: The Dark Prince</a>
@@ -2618,7 +2641,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>141</b>
+        <b>142</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6444435974">VARIOUS DAYLIFE Mobile</a>
@@ -2635,7 +2658,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>142</b>
+        <b>143</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6742139144">ネコぱら ラブプロジェクト Vol.1</a>
@@ -2652,7 +2675,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>143</b>
+        <b>144</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6478572512">Mini Airways:Premium</a>
@@ -2669,7 +2692,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>144</b>
+        <b>145</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6748885060">Acgbg~動漫背景壁紙庫</a>
@@ -2686,7 +2709,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>145</b>
+        <b>146</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6742044212">简记快捷记账-AI记账&极简账本</a>
@@ -2703,7 +2726,7 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>146</b>
+        <b>147</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6504453094">Black Border 2</a>
@@ -2766,6 +2789,62 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Filebar]]></title>
+        <id>Filebar-pt-1767163393414</id>
+        <link href="https://apps.apple.com/pt/app/filebar/id1558391784?uo=4"/>
+        <updated>2025-12-31T06:43:13.414Z</updated>
+        <summary type="html"><![CDATA[Filebar Pro Lifetime: 9,99 € → 8,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/filebar/id1558391784?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d0/4f/b8/d04fb8d9-c205-ec8b-51bb-d2dd7497b9bf/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Filebar Pro Lifetime：</strong><span>9,99 €</span> → <b>
+  <strong>8,99 €</strong>
+</b><span>[8,99 € ~ 9,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Filebar Pro Lifetime：<b>8,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  # Filebar
+
+Filebar 是一款现代化的多媒体播放器，提供视频播放器、音乐播放器、云端服务和文件管理的功能。
+
+## 主要功能
+
+
+### 视频播放器
+
+Filebar 提供了一个强大的视频播放器，你可以播放更多的视频格式，包括标准的MP4、M4V 和 MOV，还加上MKV、AVI、WMV、FLV、OMG、OGV、3GP、RMVB等。您可以浏览播放你的mac、pc、NAS、FTP上的视频，同时还支持播放媒体服务器 （如Emby、Jellyfin、Plex媒体服务器）上的视频，您也可以播放来自云端服务的视频。
+
+
+### 音乐播放器
+
+Filebar 提供了一个漂亮的本地音乐播放器用来播放本地和云端音乐，支持的音频格式有 MP3/M4A/FLAC。Filebar 支持加载同目录下的歌词文件，例如 歌曲名称.mp3、歌曲名称.lrc 的歌词文件会自动加载。
+
+
+### 云端服务
+
+云端服务是 Filebar 另一个核心功能，通过 Filebar 你可以方便管理云端服务，包括 创建文件夹/删除/播放/批量重命名/查看信息，支持百度网盘、阿里云盘、OneDrive、Dropbox、Google Drive 等常见网盘。同时也提供了远程协议的支持，支持的协议有 SMB、WebDAV、Synology、FTP、SFTP。
+
+
+### 文件管理
+
+同时 Filebar 还提供了一个文件管理器。您可以管理您的本地与远程文件：移动、删除、编辑、复制、上传、批量重命名等等；同时Filebar 还支持对于常见压缩文件的处理，如Zip、Rar、7z等压缩文件格式。
+
+
+## 客户支持
+
+如果您有任何建议或想法，欢迎联系我们。
+
+- 网站：https://fileball.app
+- 邮件：filebox.app@outlook.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3a/8e/5f/3a8e5fea-af92-9744-4c85-d51de3d285ae/aa706f32-6e02-4234-b7f2-848f176c7398_iPhone_8_Plus-CN-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bf/3b/cd/bf3bcd3a-64e0-6905-b7c6-73537d5a08bd/25fa5479-f1bc-4e57-9a25-8d3e08b9ab24_iPhone_8_Plus-CN-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/f3/ee/e7f3ee79-c692-1e74-1764-62654030d7ba/f7c4ec58-e4b1-4471-b0a0-b3554c798087_iPhone_8_Plus-CN-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/16/7e/8b/167e8b57-9484-2382-8a36-d34c72dc8df4/fea122b0-81bd-4964-9fa2-208ea4a17c9e_iPhone_8_Plus-CN-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/03/b1/4d/03b14d2d-cdc1-dfc9-24f0-5985b4524f90/d334e5b7-64ef-4721-a615-dda0f55f6dc8_iPhone_8_Plus-CN-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8b/1d/76/8b1d7651-2b7d-3554-3ee9-5b540c71d320/157eb784-7c33-418d-9959-40ebd86532b8_iPhone_8_Plus-CN-6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/9d/a7/bd9da78f-3b57-8068-bec2-fdc223843862/tns.epyhxcxe.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/98/30/589830c1-3c5b-7ab3-86f0-35ac5195582b/2ef22cfe-224f-47fe-8990-e8de8e24d785_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.17.26.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/30/88/2a30885c-298d-de80-f9d0-473efb7c601e/d83a205e-a272-4f39-963b-7528135be403_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.17.37.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/3e/dd/073eddbf-52bb-a0b0-6b72-ebbad45b577f/64aabad3-cec2-48a5-8c25-770c7ae2d411_Simulator_Screen_Shot_-_iPad_Pro__U002812.9-inch_U0029__U00285th_generation_U0029_-_2022-06-07_at_12.18.23.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dark Reader for Safari]]></title>
