@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1641` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1642` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1642|1452113719|Automatic|文明百科|文明百科|文明百科|文明百科|Civilopedia|Civilopedia|Civilopédia|
 |1641|390831503|Automatic|手机U盘 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|OrganiDoc|OrganiDoc|OrganiDoc|
 |1640|6749760745|Automatic|小花借款-分期借款小额贷款现金分期金融借款借钱平台|❌|❌|❌|❌|❌|❌|
 |1639|1604438442|Automatic|节奏 MIDI: 阅读有节奏的音符|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Ritmo MIDI: Leia notas|
