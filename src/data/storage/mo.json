@@ -51842,6 +51842,23 @@
     "history": [
       [
         {
+          "timestamp": 1767234515631,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月度礼包": "USD 3.99",
+            "6480根火柴": "USD 99.99",
+            "60根火柴": "USD 0.99",
+            "1元礼包": "USD 0.99",
+            "1680根火柴": "USD 24.99",
+            "助飞战令-3000积分": "USD 0.99",
+            "助飞战令-初级精英战令": "USD 3.99",
+            "助飞战令-6000积分": "USD 4.99",
+            "助飞战令-15000积分": "USD 9.99",
+            "助飞战令-高级精英战令": "USD 3.99"
+          }
+        },
+        {
           "timestamp": 1767220069505,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -55339,10 +55356,18 @@
       "formattedPrice": "USD 14.99"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99"
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767234515631,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
