@@ -7502,6 +7502,25 @@
     "history": [
       [
         {
+          "timestamp": 1767272224446,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Surto": "3,99 €",
+            "Procurement Director": "0,99 €",
+            "Disaster Manager": "0,99 €",
+            "Medical Coordinator": "0,99 €",
+            "Ethics Watchdog": "0,99 €",
+            "Chaos Engineer": "0,99 €",
+            "Economic Forecaster": "0,99 €",
+            "Situation Director": "0,99 €",
+            "Outreach Coordinator": "0,99 €",
+            "Fast Response EMTs": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765600356999,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -12133,6 +12152,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1767272224446,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Race Pass": "5,99 €",
+            "700 Aces": "9,99 €",
+            "300 Aces": "5,99 €",
+            "5000 Aces": "44,99 €",
+            "15000 Aces": "99,99 €",
+            "300 Aces Limited Time Offer": "0,99 €",
+            "700 Aces Limited Time Offer": "5,99 €",
+            "Racing Prodigy Kart TKM TR (T)": "6,99 €",
+            "Racing Prodigy Small Tyre Pack": "2,99 €",
+            "Racing Prodigy X30 La Conca L4": "17,99 €"
+          }
+        },
         {
           "timestamp": 1767263438027,
           "price": 5.99,
@@ -29885,13 +29921,25 @@
       "Lifetime Premium": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "300 Altitude Query Times": "3,99 €",
       "100 Altitude Query Times": "2,99 €",
       "Lifetime Premium": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767272224446,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "300 Altitude Query Times": "3,99 €",
+            "100 Altitude Query Times": "2,99 €",
+            "Lifetime Premium": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -53233,6 +53281,27 @@
           "timestamp": 1766931982733,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749824842": {
+    "name": "Parachute Backup Mobile",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767272224446,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]

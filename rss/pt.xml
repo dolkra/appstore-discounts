@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-01-01T11:40:23.427Z</updated>
+    <updated>2026-01-01T14:27:59.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-01T11:40:23.427Z</updated>
+        <updated>2026-01-01T14:27:59.574Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptThu, 01 Jan 2026 11:40:23 GMT</id>
+        <id>rankingptThu, 01 Jan 2026 14:27:59 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-01T11:40:23.428Z</updated>
+        <updated>2026-01-01T14:27:59.574Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1642</b>
+        <b>1643</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1441</b>
+        <b>1442</b>
       </td>
       <td>
         <b>74</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1373</b>
+        <b>1374</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1229</b>
+        <b>1230</b>
       </td>
       <td>
         <b>4</b>
@@ -95,7 +95,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1474716211">60 Seconds! Reatomized</a>
+        <a href="https://apps.apple.com/pt/app/id1464666446">MyTracks: GPS Recorder</a>
       </td>
       <td>
         <ul>
@@ -112,7 +112,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1537060891">Titan Quest: Legendary Edition</a>
+        <a href="https://apps.apple.com/pt/app/id1474716211">60 Seconds! Reatomized</a>
       </td>
       <td>
         <ul>
@@ -129,7 +129,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1555459868">Dawncaster: Deckbuilding RPG</a>
+        <a href="https://apps.apple.com/pt/app/id1537060891">Titan Quest: Legendary Edition</a>
       </td>
       <td>
         <ul>
@@ -146,7 +146,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id1668755109">Brotato:Premium</a>
+        <a href="https://apps.apple.com/pt/app/id1555459868">Dawncaster: Deckbuilding RPG</a>
       </td>
       <td>
         <ul>
@@ -161,6 +161,23 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>
         <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id1668755109">Brotato:Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/pt/app/id6476064417">Knight & Dragon III</a>
@@ -223,6 +240,45 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MyTracks: GPS Recorder]]></title>
+        <id>MyTracks: GPS Recorder-pt-1767272224446</id>
+        <link href="https://apps.apple.com/pt/app/mytracks-gps-recorder/id1464666446?uo=4"/>
+        <updated>2026-01-01T12:57:04.446Z</updated>
+        <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/mytracks-gps-recorder/id1464666446?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/ce/1b/dace1b69-03ac-f2d6-beb9-9185e28e6d05/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>0,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 0,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    300 Altitude Query Times：<b>3,99 €</b>
+  </li><li>
+    100 Altitude Query Times：<b>2,99 €</b>
+  </li><li>
+    Lifetime Premium：<b>9,99 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MyTracks is an app that helps you keep track of your location using GPS data. It's perfect for various activities like hiking, running, walking, biking, and more. This app uses advanced technology to provide precise measurements and calculations.
+
+Here's what you can do with MyTracks:
+- Track your route: Whether you're hiking, running, or cycling, MyTracks can record your path and show it on a map.
+- Save favorite locations: If there are specific places you want to remember, you can mark them as favorites in the app.
+- Import and export data: MyTracks allows you to import and export data in various formats such as CSV, GPX, KML, and KMZ.
+- Improve accuracy: You can take static GPS observations to get more accurate waypoints for your tracks.
+- Easy navigation: The app provides a waypoint guide on the compass, making it easy for you to navigate to specific locations.
+- Customizable waypoints: You can add waypoints manually or import them from your favorite locations. You can even add vectors with angle and distance.
+- Coordinate conversion: MyTracks allows you to convert between four different coordinate formats (Decimal, DMS, MGRS, UTM) at any time.
+- Additional features: The app displays glide ratio during recording, offers compass options in degrees or mils, supports MGRS Grid overlay on the map, and allows you to create routes to follow before starting your track.
+- Detailed records: You can view your tracks on a map and replay the route. The app provides detailed statistics about your track and displays the saved waypoints associated with each track. You can also change the color of your tracks for easier identification.
+
+Please note that using GPS continuously in the background can drain your device's battery quickly. If you have any feedback or questions, please feel free to contact us at miaozhi.ai@gmail.com
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Knight & Dragon III]]></title>
