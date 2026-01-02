@@ -20795,6 +20795,23 @@
     "history": [
       [
         {
+          "timestamp": 1767379120499,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €",
+            "Get tips about the diamond pyramid": "0,99 €",
+            "Purchase game": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1767371682519,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -45104,17 +45121,30 @@
       "formattedPrice": "Gratuito",
       "Dumb Phone Plus Monthly": "5,99 €",
       "Dumb Phone Plus Yearly": "34,99 €",
-      "Dumb Phone Plus Lifetime": "89,99 €"
+      "Dumb Phone Plus Lifetime": "89,99 €",
+      "Dumb Phone Plus Weekly": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
       "Dumb Phone Plus Monthly": "3,49 €",
       "Dumb Phone Plus Yearly": "8,29 €",
-      "Dumb Phone Plus Lifetime": "34,99 €"
+      "Dumb Phone Plus Lifetime": "34,99 €",
+      "Dumb Phone Plus Weekly": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1767379120499,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Dumb Phone Plus Monthly": "5,99 €",
+            "Dumb Phone Plus Weekly": "1,99 €",
+            "Dumb Phone Plus Yearly": "34,99 €",
+            "Dumb Phone Plus Lifetime": "89,99 €"
+          }
+        },
         {
           "timestamp": 1767320023055,
           "price": 0,

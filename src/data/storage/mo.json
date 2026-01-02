@@ -123940,16 +123940,31 @@
       "formattedPrice": "USD 7.99",
       "Dumb Phone Plus Yearly": "USD 29.99",
       "Dumb Phone Plus Lifetime": "USD 79.99",
-      "Dumb Phone Plus Monthly": "USD 4.99"
+      "Dumb Phone Plus Monthly": "USD 4.99",
+      "Dumb Phone Plus Weekly": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "Dumb Phone Plus Yearly": "USD 7.59",
       "Dumb Phone Plus Lifetime": "USD 29.99",
-      "Dumb Phone Plus Monthly": "USD 3.19"
+      "Dumb Phone Plus Monthly": "USD 3.19",
+      "Dumb Phone Plus Weekly": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767379120499,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "USD 1.99",
+            "Dumb Phone Plus Yearly": "USD 29.99",
+            "Dumb Phone Plus Lifetime": "USD 79.99",
+            "Dumb Phone Plus Monthly": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767285341831,
