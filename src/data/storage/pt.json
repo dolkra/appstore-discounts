@@ -46653,10 +46653,18 @@
       "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
-      "price": 17.99,
-      "formattedPrice": "17,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767364108321,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -53523,6 +53531,27 @@
           "timestamp": 1767343090680,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6445992619": {
+    "name": "SpongeBob - The Cosmic Shake",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767364108321,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]

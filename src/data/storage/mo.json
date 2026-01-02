@@ -47290,6 +47290,23 @@
     "history": [
       [
         {
+          "timestamp": 1767364108321,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "支線第一章": "USD 1.99",
+            "白金方案（每月續訂）": "USD 4.49",
+            "擴充章節 U": "USD 1.99",
+            "白金方案（每三個月續訂）": "USD 12.49",
+            "擴充章節D": "USD 1.99",
+            "擴充章節B": "USD 1.99",
+            "擴充章節C": "USD 1.99",
+            "支線第二章": "USD 1.99",
+            "擴充章節 J": "USD 1.99",
+            "擴充章節H": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1767358559896,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -80487,6 +80504,25 @@
       "超值好禮1_12": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767364108321,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "超值好禮2_128": "USD 19.99",
+            "超值好禮1_98": "USD 14.99",
+            "超值好禮1_128": "USD 19.99",
+            "超值好禮1_68": "USD 9.99",
+            "超值好禮2_98": "USD 14.99",
+            "超值好禮2_68": "USD 9.99",
+            "超值好禮2_30": "USD 4.99",
+            "超值好禮1_30": "USD 4.99",
+            "超值好禮2_12": "USD 1.99",
+            "超值好禮1_12": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -131088,6 +131124,27 @@
           "timestamp": 1767343090680,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6445992619": {
+    "name": "SpongeBob - The Cosmic Shake",
+    "maxPriceInfo": {
+      "price": 7.79,
+      "formattedPrice": "USD 7.79"
+    },
+    "minPriceInfo": {
+      "price": 7.79,
+      "formattedPrice": "USD 7.79"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767364108321,
+          "price": 7.79,
+          "formattedPrice": "USD 7.79",
           "inAppPurchases": {}
         }
       ]
