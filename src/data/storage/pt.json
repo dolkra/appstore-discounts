@@ -52471,14 +52471,22 @@
   "6752701677": {
     "name": "3Dcalc+",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767429298792,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763124830350,
@@ -53816,6 +53824,27 @@
             "PolarStation Crime SceneBundle": "4,99 €",
             "Whispering Pines Bundle": "4,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6740422479": {
+    "name": "ælbum",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767429298792,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

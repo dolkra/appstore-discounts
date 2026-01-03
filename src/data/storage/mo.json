@@ -3302,6 +3302,23 @@
     "history": [
       [
         {
+          "timestamp": 1767429298792,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "USD 0.99",
+            "Portland HipstaPak": "USD 0.99",
+            "Mission Hipstapak": "USD 0.99",
+            "Shibuya HipstaPak": "USD 0.99",
+            "Camden HipstaPak": "USD 0.99",
+            "Soho HipstaPak": "USD 0.99",
+            "Foodie SnapPak": "USD 0.99",
+            "Bondi HipstaPak": "USD 0.99",
+            "Multi-Exposure Kit": "USD 0.99",
+            "America HipstaPak": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1767422426281,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -129984,14 +130001,22 @@
   "6752701677": {
     "name": "3Dcalc+",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767429298792,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763124830350,
@@ -131329,6 +131354,27 @@
             "Noir Crime Scene Peacock": "USD 1.99",
             "Noir Crime Scene Location": "USD 4.99"
           }
+        }
+      ]
+    ]
+  },
+  "6740422479": {
+    "name": "ælbum",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767429298792,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
         }
       ]
     ]
