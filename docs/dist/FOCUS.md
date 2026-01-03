@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1647` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1648` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1648|6447306697|Automatic|❌|Cluedo|Cluedo|Cluedo|❌|Cluedo|Cluedo|
 |1647|1308097969|Automatic|我的记帐本 - MyAsset理财版 V2|我的記帳本 - MyAsset理財版 V2|我的記帳本 - MyAsset理財版 V2|我的記帳本 - MyAsset理財版 V2|Accounting Book - MyAsset V2|Accounting Book - MyAsset V2|Accounting Book - MyAsset V2|
 |1646|6749609393|Automatic|Computer Basics: PC Guide|電腦基礎知識：PC 指南|電腦基礎知識：PC 指南|電腦基礎知識：PC 指南|Computer Basics: PC Guide|Computer Basics: PC Guide|Básico de PC: Guia rápido|
 |1645|6445992619|Automatic|❌|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|
@@ -170,7 +171,7 @@ So far, we've covered `7` `Countries or Regions` and  `1647` `Apps` <br />Push n
 |1487|6744589266|Automatic|❌|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|
 |1486|6739813869|Automatic|❌|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike Game|❌|❌|
 |1485|390017969|Automatic|Due - 快速提醒、定时器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
-|1484|6742044212|Automatic|简记快捷记账-AI记账&极简账本|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|SnapKoin: Fast Expense Tracker|SnapKoin: Fast Expense Tracker|简记快捷记账 - AI自动记账|
+|1484|6742044212|Automatic|简记快捷记账 - AI自动记账|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|SnapKoin: Fast Expense Tracker|SnapKoin: Fast Expense Tracker|简记快捷记账 - AI自动记账|
 |1483|1637377410|Automatic|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|
 |1482|1449383466|Automatic|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|
 |1481|1517410833|Automatic|❌|Startup Panic|Startup Panic|Startup Panic|Startup Panic|Startup Panic|Startup Panic|

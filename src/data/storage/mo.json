@@ -3267,7 +3267,7 @@
       "Fitzroy HipstaPak": "USD 0.99",
       "Príncipe Real HipstaPak": "USD 1.99",
       "HipstaBoy SnapPak": "USD 1.99",
-      "Mers Sultan HipstaPak": "USD 0.99"
+      "Mers Sultan HipstaPak": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -3300,6 +3300,25 @@
       "Mers Sultan HipstaPak": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767422426281,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Mers Sultan HipstaPak": "USD 1.99",
+            "HipstaBoy SnapPak": "USD 1.99",
+            "Príncipe Real HipstaPak": "USD 1.99",
+            "Coyoacán HipstaPak": "USD 1.99",
+            "Ohara HipstaPak": "USD 1.99",
+            "RetroPak 2022": "USD 6.99",
+            "RetroPak 2023": "USD 9.99",
+            "RetroPak Twenty-One": "USD 4.99",
+            "Highland Park HipstaPak": "USD 0.99",
+            "Pilsen HipstaPak": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766521818594,
@@ -131258,6 +131277,58 @@
           "price": 2.99,
           "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6447306697": {
+    "name": "Cluedo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Suspects Bundle": "USD 29.99",
+      "Ultimate Edition": "USD 39.99",
+      "PolarStation Crime SceneBundle": "USD 4.99",
+      "Whispering Pines Bundle": "USD 4.99",
+      "Black Adder Resort Bundle": "USD 4.99",
+      "Epic Crime Collection content": "USD 19.99",
+      "Noir Character Pack": "USD 7.99",
+      "Noir Crime Scene Plum": "USD 1.99",
+      "Noir Crime Scene Peacock": "USD 1.99",
+      "Noir Crime Scene Location": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "Suspects Bundle": "USD 29.99",
+      "Ultimate Edition": "USD 39.99",
+      "PolarStation Crime SceneBundle": "USD 4.99",
+      "Whispering Pines Bundle": "USD 4.99",
+      "Black Adder Resort Bundle": "USD 4.99",
+      "Epic Crime Collection content": "USD 19.99",
+      "Noir Character Pack": "USD 7.99",
+      "Noir Crime Scene Plum": "USD 1.99",
+      "Noir Crime Scene Peacock": "USD 1.99",
+      "Noir Crime Scene Location": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767422426281,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Suspects Bundle": "USD 29.99",
+            "Ultimate Edition": "USD 39.99",
+            "PolarStation Crime SceneBundle": "USD 4.99",
+            "Whispering Pines Bundle": "USD 4.99",
+            "Black Adder Resort Bundle": "USD 4.99",
+            "Epic Crime Collection content": "USD 19.99",
+            "Noir Character Pack": "USD 7.99",
+            "Noir Crime Scene Plum": "USD 1.99",
+            "Noir Crime Scene Peacock": "USD 1.99",
+            "Noir Crime Scene Location": "USD 4.99"
+          }
         }
       ]
     ]
