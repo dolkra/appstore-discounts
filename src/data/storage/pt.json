@@ -4245,6 +4245,27 @@
       ]
     ]
   },
+  "430157565": {
+    "name": "智能風水羅庚(專業版)",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "19,99 €"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "19,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767515769307,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "430163724": {
     "name": "智能风水罗盘-专业版",
     "maxPriceInfo": {
@@ -42237,13 +42258,25 @@
     "name": "Urbexplore Portugal",
     "maxPriceInfo": {
       "price": 2,
-      "formattedPrice": "2,00 €"
+      "formattedPrice": "2,00 €",
+      "URBEXPLORE - Versão Premium": "5,00 €"
     },
     "minPriceInfo": {
       "price": 2,
-      "formattedPrice": "2,00 €"
+      "formattedPrice": "2,00 €",
+      "URBEXPLORE - Versão Premium": "5,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767515769307,
+          "price": 2,
+          "formattedPrice": "2,00 €",
+          "inAppPurchases": {
+            "URBEXPLORE - Versão Premium": "5,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
