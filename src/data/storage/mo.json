@@ -14341,8 +14341,8 @@
   "463295925": {
     "name": "Official DVSA Theory Test Kit",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
       "DVSA Driving essential skills": "USD 9.99"
     },
     "minPriceInfo": {
@@ -14351,6 +14351,16 @@
       "DVSA Driving essential skills": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767609236614,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "DVSA Driving essential skills": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,

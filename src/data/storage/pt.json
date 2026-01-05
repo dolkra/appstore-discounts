@@ -48806,7 +48806,11 @@
       "980 Ouro": "17,99 €",
       "6480 Ouro": "99,99 €",
       "1980 Ouro": "34,99 €",
-      "60 Ouro": "0,99 €"
+      "60 Ouro": "0,99 €",
+      "Cartão Mensal": "5,99 €",
+      "Treinamento Profissional": "17,99 €",
+      "680 Ouro": "9,99 €",
+      "Treinamento Especial": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -48820,9 +48824,32 @@
       "980 Ouro": "17,99 €",
       "6480 Ouro": "99,99 €",
       "1980 Ouro": "34,99 €",
-      "60 Ouro": "0,99 €"
+      "60 Ouro": "0,99 €",
+      "Cartão Mensal": "5,99 €",
+      "Treinamento Profissional": "17,99 €",
+      "680 Ouro": "9,99 €",
+      "Treinamento Especial": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767609236614,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Cartão Mensal": "5,99 €",
+            "Treinamento Profissional": "17,99 €",
+            "680 Ouro": "9,99 €",
+            "Treinamento Especial": "9,99 €",
+            "60 Ouro": "0,99 €",
+            "1980 Ouro": "34,99 €",
+            "6480 Ouro": "99,99 €",
+            "980 Ouro": "17,99 €",
+            "300 Ouro": "5,99 €",
+            "1280 Ouro": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
