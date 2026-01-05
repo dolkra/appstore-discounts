@@ -27064,6 +27064,27 @@
       ]
     ]
   },
+  "565847915": {
+    "name": "Ghost Detect Pro",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767645208155,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "567533074": {
     "name": "Sonic Jump™",
     "maxPriceInfo": {
@@ -110881,13 +110902,31 @@
     "name": "Minifigures Tracker",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "Big Tip": "USD 5.99",
+      "Small Tip": "USD 2.99",
+      "Mega Tip": "USD 9.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "Big Tip": "USD 5.99",
+      "Small Tip": "USD 2.99",
+      "Mega Tip": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767645208155,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Big Tip": "USD 5.99",
+            "Small Tip": "USD 2.99",
+            "Mega Tip": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750396427266,
