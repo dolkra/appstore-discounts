@@ -90208,7 +90208,8 @@
       "Small Pack": "USD 1.00",
       "+2026 boosters ECO-Initiative!": "USD 4.99",
       "+444! Triple-Four Booster Pack": "USD 2.29",
-      "+100 boosters ECO-Initiative!": "USD 1.00"
+      "+100 boosters ECO-Initiative!": "USD 1.00",
+      "Full scenarios": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -90218,9 +90219,23 @@
       "Small Pack": "USD 0.49",
       "+2026 boosters ECO-Initiative!": "USD 4.29",
       "+444! Triple-Four Booster Pack": "USD 2.00",
-      "+100 boosters ECO-Initiative!": "USD 1.00"
+      "+100 boosters ECO-Initiative!": "USD 1.00",
+      "Full scenarios": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767731523441,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Full scenarios": "USD 0.99",
+            "+2026 boosters ECO-Initiative!": "USD 4.29",
+            "+444! Triple-Four Booster Pack": "USD 2.00",
+            "+100 boosters ECO-Initiative!": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,

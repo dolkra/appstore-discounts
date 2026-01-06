@@ -33831,16 +33831,31 @@
       "formattedPrice": "0,29 €",
       "+100 boosters ECO-Initiative!": "1,00 €",
       "+2026 boosters ECO-Initiative!": "5,99 €",
-      "+444! Triple-Four Booster Pack": "2,99 €"
+      "+444! Triple-Four Booster Pack": "2,99 €",
+      "Full scenarios": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €",
       "+100 boosters ECO-Initiative!": "1,00 €",
       "+2026 boosters ECO-Initiative!": "4,99 €",
-      "+444! Triple-Four Booster Pack": "2,00 €"
+      "+444! Triple-Four Booster Pack": "2,00 €",
+      "Full scenarios": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767731523441,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "+100 boosters ECO-Initiative!": "1,00 €",
+            "+2026 boosters ECO-Initiative!": "4,99 €",
+            "Full scenarios": "0,99 €",
+            "+444! Triple-Four Booster Pack": "2,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763750043902,
