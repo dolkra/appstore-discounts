@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-01-05T17:55:21.148Z</updated>
+    <updated>2026-01-06T03:22:12.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-05T17:55:21.148Z</updated>
+        <updated>2026-01-06T03:22:12.195Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 05 Jan 2026 17:55:21 GMT</id>
+        <id>rankingtrTue, 06 Jan 2026 03:22:12 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-05T17:55:21.148Z</updated>
+        <updated>2026-01-06T03:22:12.195Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1653</b>
+        <b>1655</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1452</b>
+        <b>1454</b>
       </td>
       <td>
         <b>74</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1514</b>
+        <b>1516</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>1342</b>
+        <b>1344</b>
       </td>
       <td>
         <b>61</b>
@@ -93,6 +93,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1464666446">MyTracks: GPS Recorder</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6755290585">Raiders Map</a>
@@ -117,7 +134,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id898876435">Planit Pro: Photo Planner</a>
@@ -134,7 +151,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id946477821">Evoland</a>
@@ -151,27 +168,10 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1128464707">Death Road to Canada</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1464666446">MyTracks: GPS Recorder</a>
+        <a href="https://apps.apple.com/tr/app/id1128464707">Death Road to Canada</a>
       </td>
       <td>
         <ul>
@@ -922,6 +922,45 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[MyTracks: GPS Recorder]]></title>
+        <id>MyTracks: GPS Recorder-tr-1767665571899</id>
+        <link href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4"/>
+        <updated>2026-01-06T02:12:51.899Z</updated>
+        <summary type="html"><![CDATA[Price: ₺49,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/mytracks-gps-recorder/id1464666446?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/da/ce/1b/dace1b69-03ac-f2d6-beb9-9185e28e6d05/AppIcon-0-0-1x_U007emarketing-0-3-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺49,99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ ₺49,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    300 Altitude Query Times：<b>₺199,99</b>
+  </li><li>
+    100 Altitude Query Times：<b>₺149,99</b>
+  </li><li>
+    Lifetime Premium：<b>₺499,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  MyTracks is an app that helps you keep track of your location using GPS data. It's perfect for various activities like hiking, running, walking, biking, and more. This app uses advanced technology to provide precise measurements and calculations.
+
+Here's what you can do with MyTracks:
+- Track your route: Whether you're hiking, running, or cycling, MyTracks can record your path and show it on a map.
+- Save favorite locations: If there are specific places you want to remember, you can mark them as favorites in the app.
+- Import and export data: MyTracks allows you to import and export data in various formats such as CSV, GPX, KML, and KMZ.
+- Improve accuracy: You can take static GPS observations to get more accurate waypoints for your tracks.
+- Easy navigation: The app provides a waypoint guide on the compass, making it easy for you to navigate to specific locations.
+- Customizable waypoints: You can add waypoints manually or import them from your favorite locations. You can even add vectors with angle and distance.
+- Coordinate conversion: MyTracks allows you to convert between four different coordinate formats (Decimal, DMS, MGRS, UTM) at any time.
+- Additional features: The app displays glide ratio during recording, offers compass options in degrees or mils, supports MGRS Grid overlay on the map, and allows you to create routes to follow before starting your track.
+- Detailed records: You can view your tracks on a map and replay the route. The app provides detailed statistics about your track and displays the saved waypoints associated with each track. You can also change the color of your tracks for easier identification.
+
+Please note that using GPS continuously in the background can drain your device's battery quickly. If you have any feedback or questions, please feel free to contact us at miaozhi.ai@gmail.com
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Children of Morta]]></title>
         <id>Children of Morta-tr-1767630950722</id>
         <link href="https://apps.apple.com/tr/app/children-of-morta/id6474541983?uo=4"/>
@@ -1159,91 +1198,6 @@ Raiders Map is the best tool for easy access to everything, along with world cla
 Not affiliated with embark. Raiders Map is independently owned and managed. 
 
 apple standard EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MagicKit Pro: AI Smart Toolbox]]></title>
-        <id>MagicKit Pro: AI Smart Toolbox-tr-1767405974799</id>
-        <link href="https://apps.apple.com/tr/app/magickit-pro-ai-smart-toolbox/id6746649752?uo=4"/>
-        <updated>2026-01-03T02:06:14.799Z</updated>
-        <summary type="html"><![CDATA[Price: ₺199,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/magickit-pro-ai-smart-toolbox/id6746649752?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/37/6b/30376b7e-7c18-b93b-9941-7a31eca49145/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺199,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺199,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  MagicKit AI is a complete utility app designed to help you monitor your device, optimize performance, and access everyday tools from one convenient interface. Built specifically for iOS, MagicKit AI brings together essential features while maintaining your privacy and battery life.
-
-Device and System Tools
-• Battery Status: View current charge level and charging state
-• Storage Usage: Analyze available and used storage
-• Device Info: Check basic hardware and system details
-• Uptime Tracker: Monitor how long your device has been running
-• Battery Tips: Get practical advice to improve battery usage
-• Photo Cleaner: Detect and remove duplicate or similar photos to free up space
-• Contact Cleaner: Organize contacts by finding duplicates and incomplete entries
-• RAM Manager: Monitor memory usage and optimize performance
-• Device Benchmark: Test CPU, GPU, memory, and network performance
-
-Network Tools
-• Speed Test: Measure internet connection speed
-• Wi-Fi Info: See network name, IP address, and connection status
-• IP Lookup: Check geolocation of public IP addresses
-• Location Info: Track GPS location, speed, direction, and altitude
-
-Security & Privacy Tools
-• Password Generator: Create strong, secure passwords with customizable options
-• Passphrase Generator: Generate memorable and secure passphrases
-• UUID Generator: Create unique identifiers in various formats
-• Secure PIN Generator: Generate secure PIN codes with multiple options
-• Temporary Email: Create disposable email addresses for privacy protection
-
-Utility Tools
-• Unit Converter: Convert between different measurements
-• Currency & Crypto Converter: Get live exchange rates for fiat and cryptocurrencies
-• Date Time Calculator: Calculate differences between dates with business days support
-• Time Zone Converter: Convert time across various time zones with live updates and DST status
-• Countdown & Reminders: Create beautiful countdowns with customizable reminders and recurring events
-• Magic Counter: Track multiple counters with detailed statistics and streaks
-• QR Scanner: Scan QR codes instantly
-• Document & Card Scanner: Capture and save high-quality document scans with AI-powered text recognition
-• Compass and Level: Measure direction and level using device sensors
-• Orientation Lock: Lock screen orientation while using the app
-• Audio Meter: Measure surrounding sound levels using the microphone
-• Clipboard Manager: Access and manage copied text within the app session
-• Flashlight & Brightness: Turn on the device flashlight and adjust screen brightness
-• Note Taker: Create, organize, and manage notes with categories and iCloud backup
-• Universal Generator: Generate random data including text, numbers, dates, and more
-• Color Palettes Studio: Create, extract, and manage beautiful color palettes from images or manually using color pickers — perfect for designers and creatives
-
-Highlights
-• Clean and user-friendly interface with new wizard-based tools
-• Featured Tools section showcasing the most popular utilities
-• No ads or in-app purchases
-• Lightweight and battery-efficient
-• Compatible with all iOS devices
-• Frequent updates with new tools
-• Built with privacy and performance in mind
-• Dark/Light theme support with smooth animations
-
-Perfect for
-• Device monitoring and optimization
-• Everyday measurement and conversion tasks
-• Scanning documents and QR codes
-• Cleaning up photo storage and contacts
-• Creating and managing countdowns with reminders
-• Tracking habits and progress with multiple counters
-• Accessing quick tools like flashlight and brightness control
-• Performing simple network diagnostics
-• Generating secure passwords and managing privacy
-• Taking quick notes and organizing information
-• Designing and managing color palettes for creative projects
-
-Download MagicKit AI today and simplify your daily tasks with one smart, powerful toolkit.
 </p>]]></content>
     </entry>
 </feed>
