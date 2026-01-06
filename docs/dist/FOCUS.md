@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1655` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1656` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1656|6468917523|Automatic|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Calculadora Infusão IV|
 |1655|565847915|Automatic|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|
 |1654|807752194|Automatic|大提琴调音器专业版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|Cello Tuner Professional|Cello Tuner Professional|Afinador de Violoncelo Pro|
 |1653|1065311870|Automatic|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|
@@ -62,7 +63,7 @@ So far, we've covered `7` `Countries or Regions` and  `1655` `Apps` <br />Push n
 |1603|6472627887|Automatic|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|
 |1602|722262021|Automatic|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|Wallax - Wallpaper Editor|
 |1601|6756011370|Automatic|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|TL雙幣試算表|
-|1600|390109164|Automatic|❌|電子詩歌|電子詩歌|電子詩歌|電子詩歌|電子詩歌|❌|
+|1600|390109164|Automatic|❌|電子詩歌|電子詩歌|電子詩歌|電子詩歌|電子詩歌|電子詩歌|
 |1599|6739762570|Automatic|生物原型2|❌|❌|❌|❌|❌|❌|
 |1598|635717885|Automatic|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|YACReader - Comic Reader|
 |1597|6743339327|Automatic|全面战争模拟器 - DLC 外挂 道具 模组 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|全面戰爭模擬器 - DLC 外掛 地圖 更新 (TABS)|TABS - Cheat DLC Mods Showcase|TABS - Mods Map Tips  Showcase|TABS - Cheat DLC Mods Showcase|
