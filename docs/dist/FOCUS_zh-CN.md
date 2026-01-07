@@ -964,7 +964,7 @@
 |706|1668418644|自动|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|❌|
 |705|6477756843|自动|❌|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|
 |704|6698876690|自动|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|WristTube+ Player for YouTube|
-|703|6742457882|自动|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|Deco: Wallpaper Creator|
+|703|6742457882|自动|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|Deco – Lock Screen Wallpapers|
 |702|6471914901|自动|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|Lux: AdBlock + PiP for YouTube|
 |701|300132735|自动|专业万年历经典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|專業萬年曆經典版 - 十三行作品|
 |700|430234732|自动|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|Site Audit Pro|
