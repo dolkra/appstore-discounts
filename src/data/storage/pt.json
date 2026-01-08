@@ -14451,13 +14451,28 @@
     "name": "Fliqlo",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Plano anual": "9,99 €",
+      "Plano mensal": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Plano anual": "9,99 €",
+      "Plano mensal": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767911360936,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Plano anual": "9,99 €",
+            "Plano mensal": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -48379,6 +48394,25 @@
     "history": [
       [
         {
+          "timestamp": 1767911360936,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Global scenery - 12 months": "14,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A321": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "22,99 €",
+            "Boeing 747-400": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1767681967837,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -55608,6 +55642,27 @@
           "timestamp": 1767824910231,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6754641661": {
+    "name": "婚启",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767911360936,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
