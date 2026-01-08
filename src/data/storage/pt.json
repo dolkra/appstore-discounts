@@ -27479,6 +27479,23 @@
     "history": [
       [
         {
+          "timestamp": 1767904372352,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "5,99 €",
+            "Pic Say Poster Pack": "0,99 €",
+            "Insta Poster Pack": "0,99 €",
+            "Always Font Pack": "0,00 €",
+            "Unique Font Pack": "0,99 €",
+            "Reason Font Pack": "0,00 €",
+            "Path Font Pack": "0,00 €",
+            "Wisdom Font Pack": "0,00 €",
+            "Just Font Pack": "0,00 €",
+            "Future Font Pack": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1767897540932,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -31234,14 +31251,22 @@
   "1473749002": {
     "name": "Vergi Akademisi Pro",
     "maxPriceInfo": {
-      "price": 22.99,
-      "formattedPrice": "22,99 €"
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
     },
     "minPriceInfo": {
       "price": 17.99,
       "formattedPrice": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767904372352,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765276379534,
