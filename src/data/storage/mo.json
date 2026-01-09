@@ -90218,6 +90218,25 @@
     "history": [
       [
         {
+          "timestamp": 1767976661615,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Evoker Kit": "USD 0.99",
+            "Evoker Package": "USD 9.99",
+            "Hunter Package": "USD 9.99",
+            "Tamer Kit": "USD 0.99",
+            "Prime Gemma 10000": "USD 74.99",
+            "Prime Gemma 2500": "USD 19.99",
+            "Master Package": "USD 19.99",
+            "Prime Gemma 1200": "USD 9.99",
+            "Prime Gemma 5000": "USD 39.99",
+            "Prime Gemma 500": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1766766741056,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -90582,6 +90601,19 @@
       "Full scenarios": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767976661615,
+          "price": 0.69,
+          "formattedPrice": "USD 0.69",
+          "inAppPurchases": {
+            "Full scenarios": "USD 0.99",
+            "+2026 boosters ECO-Initiative!": "USD 4.29",
+            "+444! Triple-Four Booster Pack": "USD 2.00",
+            "+100 boosters ECO-Initiative!": "USD 1.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767731523441,
@@ -94462,8 +94494,8 @@
   "1537057699": {
     "name": "Solo - Fretboard Visualization",
     "maxPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "USD 14.99",
+      "price": 17.99,
+      "formattedPrice": "USD 17.99",
       "Custom Chord Progressions": "USD 5.99"
     },
     "minPriceInfo": {
@@ -94472,6 +94504,16 @@
       "Custom Chord Progressions": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767976661615,
+          "price": 17.99,
+          "formattedPrice": "USD 17.99",
+          "inAppPurchases": {
+            "Custom Chord Progressions": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -122779,6 +122821,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767976661615,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767790835339,
