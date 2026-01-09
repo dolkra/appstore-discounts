@@ -38119,13 +38119,28 @@
     "name": "Fliqlo",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "每年方案": "USD 9.99",
+      "每月方案": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "每年方案": "USD 9.99",
+      "每月方案": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767925176088,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "每年方案": "USD 9.99",
+            "每月方案": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -84180,6 +84195,18 @@
       "終身高級版": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767925176088,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "300次高精度海拔": "USD 3.99",
+            "100次高精度海拔查詢": "USD 2.99",
+            "終身高級版": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767630950722,
