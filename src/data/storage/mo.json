@@ -132804,14 +132804,33 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99",
-      "VIP version": "USD 3.99"
+      "VIP version": "USD 3.99",
+      "Coin Pack III": "USD 7.99",
+      "Coin Pack II": "USD 1.99",
+      "Coin Pack I": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "VIP version": "USD 2.99"
+      "VIP version": "USD 2.99",
+      "Coin Pack III": "USD 7.99",
+      "Coin Pack II": "USD 1.99",
+      "Coin Pack I": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767984113233,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Coin Pack III": "USD 7.99",
+            "Coin Pack II": "USD 1.99",
+            "Coin Pack I": "USD 0.99",
+            "VIP version": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766997640131,
@@ -133127,6 +133146,27 @@
       [
         {
           "timestamp": 1767911360936,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6745099872": {
+    "name": "Demumu",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767984113233,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}

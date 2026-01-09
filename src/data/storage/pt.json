@@ -55604,14 +55604,33 @@
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €",
-      "VIP version": "3,99 €"
+      "VIP version": "3,99 €",
+      "Coin Pack III": "8,99 €",
+      "Coin Pack II": "1,99 €",
+      "Coin Pack I": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "VIP version": "2,99 €"
+      "VIP version": "2,99 €",
+      "Coin Pack III": "8,99 €",
+      "Coin Pack II": "1,99 €",
+      "Coin Pack I": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1767984113233,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Coin Pack III": "8,99 €",
+            "Coin Pack II": "1,99 €",
+            "Coin Pack I": "0,99 €",
+            "VIP version": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766997640131,
@@ -55922,6 +55941,27 @@
       [
         {
           "timestamp": 1767911360936,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6745099872": {
+    "name": "Demumu",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1767984113233,
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
