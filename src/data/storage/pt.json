@@ -56011,8 +56011,8 @@
   "6756542102": {
     "name": "Onyx Magic",
     "maxPriceInfo": {
-      "price": 69.99,
-      "formattedPrice": "69,99 €",
+      "price": 79.99,
+      "formattedPrice": "79,99 €",
       "100 Onyx Credits": "29,99 €"
     },
     "minPriceInfo": {
@@ -56022,6 +56022,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1768149206519,
+          "price": 79.99,
+          "formattedPrice": "79,99 €",
+          "inAppPurchases": {
+            "100 Onyx Credits": "29,99 €"
+          }
+        },
         {
           "timestamp": 1768136120533,
           "price": 69.99,
