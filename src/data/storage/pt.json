@@ -18908,6 +18908,23 @@
     "history": [
       [
         {
+          "timestamp": 1768408810996,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Basic Plan - Monthly": "0,99 €",
+            "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+            "Expansion Ch. Z": "3,99 €",
+            "Challenge Pass \"Speedcore Overload\"": "2,99 €",
+            "Challenge Pass": "2,99 €",
+            "satella Selection Pass": "2,99 €",
+            "Lanota 9th Anniversary Pass": "3,99 €",
+            "ULTRA BONK Hour Challenge Pass": "2,99 €",
+            "Radiant Star Trail Pass": "3,99 €",
+            "KALPA Collaboration Pass": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1768401184413,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -25351,6 +25368,27 @@
           "timestamp": 1761797674362,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1250144822": {
+    "name": "玄空飛星羅經 - 專業風水羅盤",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "29,99 €"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "29,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1768408810996,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
           "inAppPurchases": {}
         }
       ]
