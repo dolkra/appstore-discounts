@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1670` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1672` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1672|1570440293|自动|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|Irusu VR Player - Movie Player|
+|1671|6757624445|自动|Device Lab|Device Lab|Device Lab|Device Lab|Device Lab|Device Lab|Device Lab|
 |1670|376374689|自动|❌|Doodle God™|Doodle God™|Doodle God™|Doodle God™|Doodle God™|Doodle God™|
 |1669|480941540|自动|❌|都市大亨物語|都市大亨物語|都市大亨物語|Venture Towns|Venture Towns|Venture Towns|
 |1668|441683476|自动|惠普尔记账 Pro - 3秒费用经理|惠普爾記賬 Pro - 3秒費用經理|惠普爾記賬 Pro - 3秒費用經理|惠普爾記賬 Pro - 3秒費用經理|Weple Money Pro|Weple Money Pro|Weple Money Pro|
@@ -402,7 +404,7 @@
 |1278|6503046688|自动|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|Official Car/Bike DTT-Ireland|
 |1277|1547424687|自动|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|我爱截图 - 微商营销做图工具|
 |1276|1140451547|自动|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|Shot Tracer|
-|1275|764925064|自动|Waterlogue|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|
+|1275|764925064|自动|Waterlogue: 照片变画作|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|Waterlogue: Photo to Painting|
 |1274|6743115658|自动|❌|TABS Pocket Edition|TABS Pocket Edition|TABS Pocket Edition|TABS Pocket Edition|TABS Pocket Edition|TABS Pocket Edition|
 |1273|6459581344|自动|❌|Art of Rally|Art of Rally|Art of Rally|Art of Rally|Art of Rally|Art of Rally|
 |1272|1415709055|自动|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|
@@ -654,7 +656,7 @@
 |1026|1114127463|自动|❌|王權 (Reigns)|王權 (Reigns)|王權 (Reigns)|Reigns|Reigns|Reigns|
 |1025|1636439801|自动|❌|軌道連結:Railbound|軌道連結:Railbound|軌道連結:Railbound|Railbound|Railbound|Railbound|
 |1024|1479808939|自动|❌|孙美琪|孙美琪|孙美琪|孙美琪|孙美琪|❌|
-|1023|6451376191|自动|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone: Minimal Launcher|Dumb Phone: Minimal Launcher|Dumb Phone|
+|1023|6451376191|自动|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone|Dumb Phone: Minimalist Widgets|Dumb Phone: Minimalist Widgets|Dumb Phone|
 |1022|6446912063|自动|❌|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|Disney Iwájú: Rising Chef|
 |1021|1611723264|自动|❌|人類跌落夢境|人類跌落夢境|人類跌落夢境|❌|❌|❌|
 |1020|409818349|自动|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|Real Piano™ Classic|
