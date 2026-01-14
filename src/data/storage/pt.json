@@ -5944,14 +5944,22 @@
   "459189186": {
     "name": "Machinarium",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768386851491,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767580158024,
@@ -13805,6 +13813,14 @@
       "Configurações": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768386851491,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767638538827,
@@ -49590,7 +49606,8 @@
       "EC135": "0,99 €",
       "Concorde": "1,99 €",
       "UH-60": "0,99 €",
-      "C90GTx": "0,99 €"
+      "C90GTx": "0,99 €",
+      "F/A-18": "1,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
@@ -49621,10 +49638,28 @@
       "EC135": "0,99 €",
       "Concorde": "1,99 €",
       "UH-60": "0,99 €",
-      "C90GTx": "0,99 €"
+      "C90GTx": "0,99 €",
+      "F/A-18": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1768386851491,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "F/A-18": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Global scenery - 12 months": "14,99 €",
+            "CRJ900": "0,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Airbus A350-1000": "3,99 €"
+          }
+        },
         {
           "timestamp": 1768366263667,
           "price": 3.99,
