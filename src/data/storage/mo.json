@@ -133316,10 +133316,19 @@
       "price": 3.99,
       "formattedPrice": "USD 3.99",
       "Hunter's Pack": "USD 1.39",
-      "Steyr Arms Pack": "USD 2.99"
+      "Steyr Arms Pack": "USD 2.49"
     },
     "history": [
       [
+        {
+          "timestamp": 1768487560269,
+          "price": 5.59,
+          "formattedPrice": "USD 5.59",
+          "inAppPurchases": {
+            "Hunter's Pack": "USD 1.39",
+            "Steyr Arms Pack": "USD 2.49"
+          }
+        },
         {
           "timestamp": 1768473210473,
           "price": 5.59,
