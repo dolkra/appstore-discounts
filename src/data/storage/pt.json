@@ -19741,6 +19741,23 @@
     "history": [
       [
         {
+          "timestamp": 1768502871901,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "910 Days SVIP": "22,99 €",
+            "458 Days SVIP": "9,99 €",
+            "SVIP auto-renew annually": "14,99 €",
+            "SVIP auto-renew quarterly": "3,99 €",
+            "90 Days SVIP": "2,99 €",
+            "Annual Special SVIP": "14,99 €",
+            "545 Days SVIP": "9,99 €",
+            "3-Year SVIP": "29,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1766687916996,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -27815,6 +27832,16 @@
     "history": [
       [
         {
+          "timestamp": 1768502871901,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Golf Tracer All Access": "5,99 €",
+            "Golf Tracer Premium - Yearly": "5,99 €",
+            "Golf Tracer Premium - Monthly": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1768495427944,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -32702,7 +32729,12 @@
       "New York 2121 Theme (with Dice)": "4,99 €",
       "Tokyo Theme (with Dice)": "4,99 €",
       "Atlantic City Theme (with Dice)": "4,99 €",
-      "Atlantis Theme Bundle": "4,99 €"
+      "Atlantis Theme Bundle": "4,99 €",
+      "London Victorian Dice": "4,99 €",
+      "London Victorian Bundle": "16,99 €",
+      "The Ultimate Edition": "44,99 €",
+      "Stormwing Premium Token": "9,99 €",
+      "Chocolate Dice": "4,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -32763,9 +32795,28 @@
       "New York 2121 Theme (with Dice)": "4,99 €",
       "Tokyo Theme (with Dice)": "4,99 €",
       "Atlantic City Theme (with Dice)": "4,99 €",
-      "Atlantis Theme Bundle": "4,99 €"
+      "Atlantis Theme Bundle": "4,99 €",
+      "London Victorian Dice": "4,99 €",
+      "London Victorian Bundle": "16,99 €",
+      "The Ultimate Edition": "44,99 €",
+      "Stormwing Premium Token": "9,99 €",
+      "Chocolate Dice": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768502871901,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "London Victorian Dice": "4,99 €",
+            "London Victorian Bundle": "16,99 €",
+            "The Ultimate Edition": "44,99 €",
+            "Stormwing Premium Token": "9,99 €",
+            "Chocolate Dice": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768366263667,
