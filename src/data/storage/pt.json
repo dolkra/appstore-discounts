@@ -4036,12 +4036,25 @@
     "minPriceInfo": {
       "price": 59.99,
       "formattedPrice": "59,99 €",
-      "Genius Scan Ultra": "44,99 €",
+      "Genius Scan Ultra": "5,99 €",
       "Ponta super grande": "9,99 €",
       "Doação generosa": "2,99 €",
       "Pequena doação": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768545900580,
+          "price": 59.99,
+          "formattedPrice": "59,99 €",
+          "inAppPurchases": {
+            "Genius Scan Ultra": "5,99 €",
+            "Ponta super grande": "9,99 €",
+            "Doação generosa": "2,99 €",
+            "Pequena doação": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767709826612,
@@ -6815,6 +6828,25 @@
     "history": [
       [
         {
+          "timestamp": 1768545900580,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter N": "3,99 €",
+            "Chapter D": "5,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter 10": "5,99 €",
+            "Chapter 9": "5,99 €",
+            "Chapter S": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1767120103914,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -8083,6 +8115,25 @@
       "Surto": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768545900580,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Surto": "3,99 €",
+            "Procurement Director": "0,99 €",
+            "Disaster Manager": "0,99 €",
+            "Medical Coordinator": "0,99 €",
+            "Ethics Watchdog": "0,99 €",
+            "Chaos Engineer": "0,99 €",
+            "Economic Forecaster": "0,99 €",
+            "Situation Director": "0,99 €",
+            "Outreach Coordinator": "0,99 €",
+            "Fast Response EMTs": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767285341831,
@@ -21343,6 +21394,25 @@
     "history": [
       [
         {
+          "timestamp": 1768545900580,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Liberar Excelência": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768452525480,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -32838,6 +32908,25 @@
     "history": [
       [
         {
+          "timestamp": 1768545900580,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Orient Express": "3,99 €",
+            "The Complete Collection": "39,99 €",
+            "Welcome Offer": "19,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768509265826,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -44331,10 +44420,18 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768545900580,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
