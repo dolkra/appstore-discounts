@@ -16370,6 +16370,27 @@
       ]
     ]
   },
+  "932687167": {
+    "name": "iSpreadsheet™",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1768615666187,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "932747118": {
     "name": "Shadowrocket",
     "maxPriceInfo": {
@@ -28338,6 +28359,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768615666187,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768357440903,
@@ -48795,14 +48824,22 @@
   "6478398981": {
     "name": "IPTV Smart Pro - TV AO VIVO",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768615666187,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767536728015,
@@ -48990,6 +49027,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768615666187,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764986355419,
@@ -50365,6 +50410,25 @@
       "F/A-18": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768615666187,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 12 months": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768452525480,
