@@ -119582,6 +119582,23 @@
     "history": [
       [
         {
+          "timestamp": 1768659950332,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "怪趣萬聖套裝": "USD 0.99",
+            "秘密教會": "USD 0.99",
+            "魔法使的小屋": "USD 0.49",
+            "星降之夜": "USD 0.99",
+            "不可思議的水之國": "USD 0.49",
+            "ネオンシティ": "USD 0.99",
+            "夏色クリームソーダ": "USD 0.49",
+            "オーロラプール": "USD 0.49",
+            "フルーツパーラー": "USD 0.49",
+            "2025春イースタースキン": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1768654449332,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -134955,6 +134972,27 @@
           "timestamp": 1768588954252,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747817415": {
+    "name": "CantoKeys",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1768659950332,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
