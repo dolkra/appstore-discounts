@@ -1602,6 +1602,27 @@
       ]
     ]
   },
+  "329937776": {
+    "name": "Tour Tempo",
+    "maxPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "29,99 €"
+    },
+    "minPriceInfo": {
+      "price": 29.99,
+      "formattedPrice": "29,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1768688804391,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "329981776": {
     "name": "Sudoku ′ No ads",
     "maxPriceInfo": {
@@ -31004,6 +31025,27 @@
       ]
     ]
   },
+  "1446399911": {
+    "name": "Tap Roulette - Random Picker",
+    "maxPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
+    },
+    "minPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1768688804391,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1447509164": {
     "name": "Freya • Surge Timer",
     "maxPriceInfo": {
@@ -33084,7 +33126,8 @@
       "London Victorian Bundle": "16,99 €",
       "The Ultimate Edition": "44,99 €",
       "Stormwing Premium Token": "9,99 €",
-      "Chocolate Dice": "4,99 €"
+      "Chocolate Dice": "4,99 €",
+      "Big Cities USA Explorer Pack": "2,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -33150,9 +33193,29 @@
       "London Victorian Bundle": "16,99 €",
       "The Ultimate Edition": "44,99 €",
       "Stormwing Premium Token": "9,99 €",
-      "Chocolate Dice": "4,99 €"
+      "Chocolate Dice": "4,99 €",
+      "Big Cities USA Explorer Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768688804391,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Welcome Offer": "19,99 €",
+            "Big Cities USA Explorer Pack": "2,99 €",
+            "The Complete Collection": "39,99 €",
+            "Orient Express": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768545900580,
