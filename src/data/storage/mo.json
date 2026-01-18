@@ -3402,6 +3402,25 @@
     "history": [
       [
         {
+          "timestamp": 1768725301023,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Mers Sultan HipstaPak": "USD 1.99",
+            "HipstaBoy SnapPak": "USD 1.99",
+            "Príncipe Real HipstaPak": "USD 1.99",
+            "Coyoacán HipstaPak": "USD 1.99",
+            "Ohara HipstaPak": "USD 1.99",
+            "RetroPak 2022": "USD 6.99",
+            "RetroPak 2023": "USD 9.99",
+            "RetroPak Twenty-One": "USD 4.99",
+            "Highland Park HipstaPak": "USD 0.99",
+            "Pilsen HipstaPak": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768336418478,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -22628,6 +22647,34 @@
       ]
     ]
   },
+  "515214562": {
+    "name": "Farm Frenzy 3 Madagascar",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Endless Mode": "USD 1.99",
+      "1000 Stars": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Endless Mode": "USD 1.99",
+      "1000 Stars": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1768725301023,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Endless Mode": "USD 1.99",
+            "1000 Stars": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "519411018": {
     "name": "iGuzheng - 愛古箏",
     "maxPriceInfo": {
@@ -37208,7 +37255,13 @@
       "3 Mo. Remove Ads": "USD 5.49",
       "1 Mo. Remove Ads": "USD 2.79",
       "12 Mo. Fongo Plus": "USD 84.99",
-      "12 Mo. Global Texting": "USD 27.99"
+      "12 Mo. Global Texting": "USD 27.99",
+      "$20 Credit": "USD 19.99",
+      "$5 Credit": "USD 5.49",
+      "$50 Credit": "USD 49.99",
+      "6 Mo. CAN Texting": "USD 9.99",
+      "3 Mo. Global Texting": "USD 8.49",
+      "6 Mo. Global Texting": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -37226,9 +37279,34 @@
       "3 Mo. Remove Ads": "USD 5.49",
       "1 Mo. Remove Ads": "USD 2.79",
       "12 Mo. Fongo Plus": "USD 84.99",
-      "12 Mo. Global Texting": "USD 27.99"
+      "12 Mo. Global Texting": "USD 27.99",
+      "$20 Credit": "USD 19.99",
+      "$5 Credit": "USD 5.49",
+      "$50 Credit": "USD 49.99",
+      "6 Mo. CAN Texting": "USD 9.99",
+      "3 Mo. Global Texting": "USD 8.49",
+      "6 Mo. Global Texting": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768725301023,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "$20 Credit": "USD 19.99",
+            "$5 Credit": "USD 5.49",
+            "$50 Credit": "USD 49.99",
+            "1 Mo. CAN Texting": "USD 2.79",
+            "3 Mo. CAN Texting": "USD 5.49",
+            "6 Mo. CAN Texting": "USD 9.99",
+            "1 Mo. Global Texting": "USD 3.99",
+            "3 Mo. Global Texting": "USD 8.49",
+            "6 Mo. Global Texting": "USD 14.99",
+            "1 Mo. Fongo Plus": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -53460,6 +53538,25 @@
       "战力跃升礼包": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1768725301023,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "助飞战令-3000积分": "USD 0.99",
+            "助飞战令-初级精英战令": "USD 3.99",
+            "助飞战令-6000积分": "USD 4.99",
+            "助飞战令-15000积分": "USD 9.99",
+            "助飞战令-高级精英战令": "USD 3.99",
+            "翅膀初绽礼包": "USD 0.99",
+            "翅膀焕新礼包": "USD 2.99",
+            "神器微光礼包": "USD 0.99",
+            "战力启航礼包": "USD 0.99",
+            "战力跃升礼包": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768314803979,
@@ -86844,6 +86941,31 @@
             "林小鹿经济学人精读": "USD 19.99",
             "精听党 | 英语六级真题精品课": "USD 7.99",
             "精听党 | 英语四级真题精品课": "USD 8.99"
+          }
+        }
+      ]
+    ]
+  },
+  "1465288147": {
+    "name": "ATOM RPG",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "ATOM RPG - Supporter Pack": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "USD 9.99",
+      "ATOM RPG - Supporter Pack": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1768725301023,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "ATOM RPG - Supporter Pack": "USD 2.99"
           }
         }
       ]
