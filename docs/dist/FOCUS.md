@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1686` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1687` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1687|6757831600|Automatic|Demumu - 死了么？还活着么？|死了么 - 還活着麼？Demumu|死了么 - 還活着麼？Demumu|死了么 - 還活着麼？Demumu|活着吗 - 死了么|活着吗 - 死了么|活着吗 - 死了么|
 |1686|515214562|Automatic|❌|Farm Frenzy 3 Madagascar|Farm Frenzy 3 Madagascar|Farm Frenzy 3 Madagascar|Farm Frenzy 3 Madagascar|Farm Frenzy 3 Madagascar|Farm Frenzy 3 Madagascar|
 |1685|1465288147|Automatic|❌|ATOM RPG|ATOM RPG|ATOM RPG|ATOM RPG|ATOM RPG|ATOM RPG|
 |1684|6754591842|Automatic|无径之林|❌|❌|❌|❌|❌|❌|
