@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-01-19T03:37:05.313Z</updated>
+    <updated>2026-01-19T17:53:06.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-19T03:37:05.315Z</updated>
+        <updated>2026-01-19T17:53:06.631Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrMon, 19 Jan 2026 03:37:05 GMT</id>
+        <id>rankingtrMon, 19 Jan 2026 17:53:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-19T03:37:05.315Z</updated>
+        <updated>2026-01-19T17:53:06.631Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1687</b>
+        <b>1689</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1486</b>
+        <b>1488</b>
       </td>
       <td>
         <b>75</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1546</b>
+        <b>1548</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>1374</b>
+        <b>1376</b>
       </td>
       <td>
         <b>61</b>
@@ -93,6 +93,31 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6755290585">Raiders Map</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Raider Mk. 3</i>：<b>3</b>
+              </li><li>
+                <i>Raider Mk. 1</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6497948575">Way of the Hunter Wild America</a>
@@ -117,7 +142,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id563718995">Bloons TD 5</a>
@@ -140,7 +165,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1373057849">ThreeKingdoms The Last Warlord</a>
@@ -169,7 +194,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1464666446">MyTracks: GPS Recorder</a>
@@ -186,7 +211,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1560779038">伤寒论条阅</a>
@@ -197,31 +222,6 @@ feedId:157008924688563200+userId:73658201673997312
             <span>Total Times</span>：<b>2</b>
           </li><li>
             <span>Price</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6755290585">Raiders Map</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Raider Mk. 3</i>：<b>2</b>
-              </li><li>
-                <i>Raider Mk. 1</i>：<b>2</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1663,6 +1663,54 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Raiders Map]]></title>
+        <id>Raiders Map-tr-1768840734255</id>
+        <link href="https://apps.apple.com/tr/app/raiders-map/id6755290585?uo=4"/>
+        <updated>2026-01-19T16:38:54.255Z</updated>
+        <summary type="html"><![CDATA[Raider Mk. 3: ₺1.499,99 → ₺499,99<br/>Raider Mk. 1: ₺249,99 → ₺49,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/raiders-map/id6755290585?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/e1/5b/2ae15b51-35fe-e27f-e402-dd2475765a97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Raider Mk. 3：</strong><span>₺1.499,99</span> → <b>
+  <strong>₺499,99</strong>
+</b><span>[₺499,99 ~ ₺1.499,99]</span>
+  </li><li>
+    <strong>Raider Mk. 1：</strong><span>₺249,99</span> → <b>
+  <strong>₺49,99</strong>
+</b><span>[₺49,99 ~ ₺249,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Raider Mk. 2：<b>₺499,99</b>
+  </li><li>
+    Raider Mk. 3：<b>₺499,99</b>
+  </li><li>
+    Raider Mk. 1：<b>₺49,99</b>
+  </li><li>
+    Raider Weekly：<b>₺99,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Enemy drop list, guides and quest-line guides.
+
+- Interactive Maps
+- Sort and Filter
+- Event Timers and Notifications
+- Guides for Quests
+
+Guides and Maps are partially available for free, but a Pro membership is required to access all content
+
+Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.
+
+
+Not affiliated with embark. Raiders Map is independently owned and managed. 
+
+apple standard EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Unboxing the Cryptic Killer]]></title>
         <id>Unboxing the Cryptic Killer-tr-1768789534543</id>
         <link href="https://apps.apple.com/tr/app/unboxing-the-cryptic-killer/id6448352407?uo=4"/>
@@ -1865,31 +1913,5 @@ Uncover the secrets of the dungeon on your quest to slay the Villain to unlock h
 PLAY WITH FRIENDS
 Play solo or with others in local co-op, with up to 4 people! Combine character abilities to improve your odds, or do a mild amount of trolling, the choice is yours! Please note that extra controllers are required to play with others.
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/3b/ca/ba3bcace-81b0-2a13-0141-80205587bf58/e1e110da-3633-487a-b1df-51016e22552d_iphone55_screen1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/37/a3/a0/37a3a0be-4ddd-4747-d7ce-94186eafcc58/4bb0d605-c3d0-43f1-ab38-8ac646714e8d_iphone55_screen2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/ae/ad/39aead27-2de5-dbd2-4bb1-0e58ba696cfd/7ce9436e-a34b-4180-b2df-c54b5b1dd67e_iphone55_screen3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/41/0a/03410a81-48fd-acf1-0513-05704f089e94/aae86430-8c6b-4829-a61a-6c06735cff85_iphone55_screen4.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/25/d6/ae25d640-25fc-c938-bb19-c01901892ec6/b22fc099-ca21-4cd2-b7b2-0b0e8cb8fb11_ipad_screen1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d9/28/2a/d9282a6d-2907-25fe-251e-688b906090bc/fa659acd-6af4-4fb5-981c-b0ef8d9f1c40_ipad_screen2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/97/24/9e97240b-cb0f-f1b2-8875-c1a24879df17/8ae8684e-ea8f-4fc0-befe-17b58c34ef2e_ipad_screen3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/cb/fe/1dcbfecb-ffee-e378-2595-fa3b6334dc72/21af871b-3b61-409c-8594-6e40ba97e73d_ipad_screen4.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Video Cacher]]></title>
-        <id>Video Cacher-tr-1768545900580</id>
-        <link href="https://apps.apple.com/tr/app/video-cacher/id1659258538?uo=4"/>
-        <updated>2026-01-16T06:45:00.580Z</updated>
-        <summary type="html"><![CDATA[Price: ₺149,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/video-cacher/id1659258538?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/25/0d/00/250d001f-2f31-e024-d96c-67ac05281d14/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺149,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺149,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h2>Application Description</h2><p>
-  Feature 1: Can be used to cache videos from most websites
-Feature 2: When the desktop mode is selected, you can open the computer version of the webpage
-Feature 3: Block unfriendly advertisements, such as malicious pop-up windows that affect the experience
-Feature 4: Mute the webpage, do not disturb listening to music while browsing the webpage video
-Feature 5: Dark Mode
-Feature 6: Cast screen to TV or Mac computer
-Feature 7: Copy the text in the video (requires iOS 16.2 or above)
-Feature 8: Mark the cached videos as favourites for easy viewing of good videos
-Feature 9: Screen always-on mode to prevent interruption of background caching
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/40/80/e2/4080e2ef-bd1a-a1e5-6aa0-30aa8a7c4b88/a0f8b0f8-b1fa-4c9a-8a0a-4ae4ccd7c462_5.5-en-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/03/19/85/03198536-4eb9-8d7d-60fd-7e5695df15fe/2ea72fbc-e771-4637-9dc3-4c3b8cebf121_5.5-en-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/4b/d5/76/4bd57676-d0ee-9fec-ddbd-37d53a9cc78b/cca0f3ad-66eb-4ee6-ae8e-8a04e24504d3_5.5-en-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/bc/0b/be/bc0bbe1f-e9ec-1370-8455-7913e537dfd4/8e4980a6-60f5-4a2f-a222-bb219ed271b6_5.5-en-4.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/9f/09/24/9f092423-2d14-08c5-d41d-82b49ff1ccd5/8cc2ae43-fe86-425e-a22e-f0c31fe2b649_12.9-2-en-1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/0d/d9/26/0dd92641-0f18-f958-345a-8f639aa4d96f/aa0784d0-2a5d-47b5-800c-e5dc02c6c318_12.9-2-en-2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/08/91/61/0891618b-e944-1a15-2168-4a16a259c2bd/599d392a-1ea9-4449-a95a-0ee71b0ee6d7_12.9-2-en-3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/72/1b/78/721b7851-9e0d-deea-65a7-0d0e84c0e48c/1eb84b78-109f-4b9c-8d75-8a031bd78daa_12.9-2-en-4.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
