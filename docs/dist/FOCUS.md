@@ -653,7 +653,7 @@ So far, we've covered `7` `Countries or Regions` and  `1689` `Apps` <br />Push n
 |1046|1083801827|Automatic|Note Rush: Music Reading Game|Note Rush: Music Reading Game|Note Rush: Music Reading Game|Note Rush: Music Reading Game|Note Rush: Music Reading Game|Note Rush: Music Reading Game|Note Rush: Music Reading Game|
 |1045|378272803|Automatic|DaF Wörterbuch Deutsch-Deutsch|DaF Wörterbuch Deutsch-Deutsch|DaF Wörterbuch Deutsch-Deutsch|DaF Wörterbuch Deutsch-Deutsch|German Learner's Dictionary|German Learner's Dictionary|DaF Wörterbuch Deutsch-Deutsch|
 |1044|6503088710|Automatic|❌|World of Goo 2|World of Goo 2|World of Goo 2|World of Goo 2|World of Goo 2|World of Goo 2|
-|1043|1659258538|Automatic|视频缓存器|Video Cacher|Video Cacher|Video Cacher|Video Cacher|Video Cacher|Video Cacher|
+|1043|1659258538|Automatic|视频缓存器|影片快取器|影片快取器|影片快取器|Video Cache|Video Cache|Cachê de Vídeos|
 |1042|983143183|Automatic|❌|夢幻怪獸|夢幻怪獸|夢幻怪獸|Neo Monsters|Neo Monsters|Neo Monsters|
 |1041|708196645|Automatic|❌|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|Oceanhorn ™|
 |1040|6503932402|Automatic|超声智学|超声智学|超声智学|超声智学|超声智学|超声智学|超声智学|

@@ -21824,7 +21824,8 @@
       "Conhecimento Liberado": "9,99 €",
       "Fast Track Pack": "9,99 €",
       "Dinheiro de Macaco Extra": "1,99 €",
-      "Pacote Insta de Macaco Nível 4": "7,99 €"
+      "Pacote Insta de Macaco Nível 4": "7,99 €",
+      "Mermonkey Unlock Pack": "8,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
@@ -21857,10 +21858,28 @@
       "Conhecimento Liberado": "9,99 €",
       "Fast Track Pack": "9,99 €",
       "Dinheiro de Macaco Extra": "1,99 €",
-      "Pacote Insta de Macaco Nível 4": "7,99 €"
+      "Pacote Insta de Macaco Nível 4": "7,99 €",
+      "Mermonkey Unlock Pack": "8,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1768927455727,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "10 Pontos de Conhecimento": "8,99 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Mermonkey Unlock Pack": "8,99 €"
+          }
+        },
         {
           "timestamp": 1768884741461,
           "price": 7.99,
@@ -45259,7 +45278,7 @@
     ]
   },
   "1659258538": {
-    "name": "Video Cacher",
+    "name": "Cachê de Vídeos",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
