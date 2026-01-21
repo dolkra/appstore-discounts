@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1689` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1692` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1692|784265988|Automatic|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|❌|
+|1691|6754450155|Automatic|❌|抓寵特攻隊:超1000種寵物喔！|抓寵特攻隊:超1000種寵物喔！|抓寵特攻隊:超1000種寵物喔！|Mega Pact: Let's Go!|Mega Pact: Let's Go!|Mega Pact: Let's Go!|
+|1690|6757986827|Automatic|Translate Gemma l Offline|Translate Gemma l Offline|Translate Gemma l Offline|Translate Gemma l Offline|TranslateGemma I Offline|TranslateGemma I Offline|TranslateGemma I Offline|
 |1689|987380224|Automatic|粉粉日记Pro-生活记录效率工具合集|粉粉日记Pro-生活记录效率工具合集|粉粉日记Pro-生活记录效率工具合集|粉粉日记Pro-生活记录效率工具合集|粉粉日记专业版 - 手帐·日历·记账|粉粉日记专业版 - 手帐·日历·记账|粉粉日记Pro-生活记录效率工具合集|
 |1688|960457446|Automatic|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|
 |1687|6757831600|Automatic|Demumu - 死了么？还活着么？|死了么 - 還活着麼？Demumu|死了么 - 還活着麼？Demumu|死了么 - 還活着麼？Demumu|活着吗 - 死了么|活着吗 - 死了么|活着吗 - 死了么|
@@ -31,7 +34,7 @@ So far, we've covered `7` `Countries or Regions` and  `1689` `Apps` <br />Push n
 |1668|441683476|Automatic|惠普尔记账 Pro - 3秒费用经理|惠普爾記賬 Pro - 3秒費用經理|惠普爾記賬 Pro - 3秒費用經理|惠普爾記賬 Pro - 3秒費用經理|Weple Money Pro|Weple Money Pro|Weple Money Pro|
 |1667|474121500|Automatic|❌|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian - Dream of Little Star -|planetarian - Dream of Little Star -|planetarian 〜ちいさなほしのゆめ〜|
 |1666|1528744354|Automatic|❌|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|
-|1665|6745099872|Automatic|死了么 - 官方正版|Demumu|Demumu|Demumu|Demumu|Demumu|Demumu|
+|1665|6745099872|Automatic|死了么 - 官方正版|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|
 |1664|6754641661|Automatic|婚启|婚启|婚启|婚启|婚启|婚启|婚启|
 |1663|1163338854|Automatic|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|Calories to kilojoules and kJ to Cal converter|Calories to kilojoules and kJ to Cal converter|Quilocalorias em quilojoules e kJ em kcal|
 |1662|6754453691|Automatic|❌|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|
