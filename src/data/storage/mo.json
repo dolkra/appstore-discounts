@@ -90262,6 +90262,22 @@
     "history": [
       [
         {
+          "timestamp": 1769015168148,
+          "price": 99.99,
+          "formattedPrice": "USD 99.99",
+          "inAppPurchases": {
+            "Annual Tip": "USD 19.99",
+            "Monthly Tip": "USD 2.99",
+            "Huge Tip": "USD 199.99",
+            "Large Tip": "USD 99.99",
+            "Medium Tip": "USD 19.99",
+            "Small Tip": "USD 9.99",
+            "Little Tip": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 124.99,
           "formattedPrice": "USD 124.99",
@@ -94540,6 +94556,14 @@
       "formattedPrice": "USD 0.90"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769015168148,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765903130627,
@@ -100464,6 +100488,14 @@
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769015168148,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768149206519,
@@ -135304,10 +135336,18 @@
       "formattedPrice": "USD 7.79"
     },
     "minPriceInfo": {
-      "price": 7.79,
-      "formattedPrice": "USD 7.79"
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769015168148,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767364108321,
@@ -135681,6 +135721,16 @@
       "Diamonds": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769015168148,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "Diamonds": "USD 49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768984863270,
