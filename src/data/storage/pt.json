@@ -24320,13 +24320,28 @@
     "name": "玄易八字-八字排盘算命国学软件",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "月卡会员": "5,99 €",
+      "年卡会员": "14,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "月卡会员": "5,99 €",
+      "年卡会员": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769048674389,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "月卡会员": "5,99 €",
+            "年卡会员": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -29540,10 +29555,26 @@
       "Alvorecer dos Heróis": "2,99 €",
       "DLC de recursos": "2,99 €",
       "Heróis montados": "2,99 €",
-      "Oath of Heaven": "3,99 €",
+      "Oath of Heaven": "2,99 €",
       "Oath of Heaven：Wei": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769048674389,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Kit de atualização artística": "1,99 €",
+            "Editor de tesouros": "0,99 €",
+            "Oath of Heaven：Wei": "1,99 €",
+            "Oath of Heaven": "2,99 €",
+            "Alvorecer dos Heróis": "2,99 €",
+            "DLC de recursos": "2,99 €",
+            "Heróis montados": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768466412364,
@@ -37239,6 +37270,14 @@
     "history": [
       [
         {
+          "timestamp": 1769048674389,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1765937100893,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -40668,6 +40707,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769048674389,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768184711260,
@@ -58953,10 +59000,18 @@
       "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769048674389,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767364108321,
