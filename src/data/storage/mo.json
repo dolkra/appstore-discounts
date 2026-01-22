@@ -60562,13 +60562,28 @@
     "name": "玄易八字",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "月卡會員": "USD 4.99",
+      "年卡會員": "USD 12.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "月卡會員": "USD 4.99",
+      "年卡會員": "USD 12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769057619837,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "月卡會員": "USD 4.99",
+            "年卡會員": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1751876344392,
