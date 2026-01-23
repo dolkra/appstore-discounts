@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-01-22T17:57:15.811Z</updated>
+    <updated>2026-01-23T03:31:14.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-22T17:57:15.814Z</updated>
+        <updated>2026-01-23T03:31:14.717Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 22 Jan 2026 17:57:15 GMT</id>
+        <id>rankingcnFri, 23 Jan 2026 03:31:14 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-22T17:57:15.815Z</updated>
+        <updated>2026-01-23T03:31:14.717Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -141,6 +141,29 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id401818935">Genius Scan Enterprise - PDF</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>Genius Scan Ultra</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
       </td>
       <td>
@@ -161,7 +184,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1464666446">我的足迹: GPS记录仪</a>
@@ -178,7 +201,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749045841">王国保卫战5</a>
@@ -195,7 +218,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6755779631">小花分期-借款小额贷款秒批宜享现金借钱好分期借款金融贷款软件</a>
@@ -206,29 +229,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>总次数</span>：<b>2</b>
           </li><li>
             <span>价格</span>：<b>2</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id401818935">Genius Scan Enterprise - PDF</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>Genius Scan Ultra</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1064,6 +1064,109 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Genius Scan Enterprise - PDF]]></title>
+        <id>Genius Scan Enterprise - PDF-cn-1769134851461</id>
+        <link href="https://apps.apple.com/cn/app/genius-scan-enterprise-pdf/id401818935?uo=4"/>
+        <updated>2026-01-23T02:20:51.461Z</updated>
+        <summary type="html"><![CDATA[Genius Scan Ultra: ¥298.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/genius-scan-enterprise-pdf/id401818935?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/aa/46/f0aa46cb-4999-b603-384b-6b52f94c4dd2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>Genius Scan Ultra：</strong><span>¥298.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥38.00 ~ ¥298.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥328.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Genius Scan Ultra：<b>¥38.00</b>
+  </li><li>
+    超大赞助：<b>¥68.00</b>
+  </li><li>
+    慷慨捐赠：<b>¥22.00</b>
+  </li><li>
+    小提示：<b>¥8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Genius Scan是一款可装入口袋的扫描仪。 可随时随地快速扫描文档，并能导出为JPEG或多页PDF文件。
+
+*** Apple App of the Week *** 2000多万用户 *** 1000多家小企业 ***
+
+将任何文档放在设备的相机前面：我们的扫描仪应用程序会自动识别背景纸张，裁剪纸张并清理结果。您可以获得清晰易读的扫描。批量扫描可让您在几秒钟内扫描数十页。强大的工具可帮助您组织、共享或归档文档。
+
+“这是一款绝对精彩的应用。” -  AppSafari.com
+
+“下一次出差时别忘了下载一个 Genius Scan，可以给自己和会计部门带来很大方便。” -  AppPicker.com
+
+==企业版== 
+
+ Genius Scan+ Premium Pack： 
+
+ - 开箱即用（无需升级）Genius Scan+ 的所有高级功能（用下方的 + 表示）。 
+
+管理配置： 
+
+ - 部署到由MDM工具管理的设备中
+ - 按用户预先配置部署应用程序设置（例如，设置默认电子邮件地址，WebDAV / FTP 凭据） 
+ - 控制用户可以将文档导出到哪些应用程序和服务
+ - 无广告
+
+==主要功能== 
+
+智能扫描： 
+
+ - 文件检测和背景移除
+ - 失真校正
+ - 阴影去除和缺陷清理
+ - 滤镜（黑白、白板、照片） 
+ - 批量扫描
+
+ PDF创建和编辑： 
+
+ - 文档合并和拆分
+ - 多页PDF创建
+ - 照片和PDF导入
+
+安全和隐私： 
+
+ - 设备上文档处理
+ + 面容_ID 
+ + PDF密码加密
+
+文件组织： 
+
+ - 文档标记
+ - 元数据和内容搜索
+ + 自定义命名方案（智能文档名称） 
+ + 使用Genius Cloud进行备份和多设备同步（单独订阅） 
+
+导出：
+
+ - 电子邮件
+ + Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV. 
+ + 任何与WebDAV兼容的服务，例如Citrix ShareFile、NextCloud、ownCloud、Synology、Yandex。 
+ + 自动后台自动导出
+
+OCR（文本识别）：
+
+ + 文字提取
+ + 创建可搜索的PDF
+ + 扫描名片和创建联系人
+
+==关于我们== 
+
+The Grizzly Labs在法国巴黎市中心开发了Genius Scan。我们制作能够帮助全世界数百万用户的应用程序并在质量和隐私方面保持最高标准，我们为此感到自豪。如果您有任何疑问，请通过@thegrizzlylabs联系我们。
+
+==定价和法律==
+
+您可以订阅Genius Cloud进行备份和同步。在这种情况下，Genius Scan的商店会显示每个订阅的持续时间和价格，并在购买时更新。订单确认后，将从iTunes帐户中收取付款。除非在当前期间结束前24小时内关闭自动续订，否则订阅会自动续订。管理订阅，禁用iTunes帐户设置中的自动续订。
+
+https://www.thegrizzlylabs.com/genius-scan/cloud/terms
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[王国保卫战5]]></title>
         <id>王国保卫战5-cn-1769100206247</id>
         <link href="https://apps.apple.com/cn/app/%E7%8E%8B%E5%9B%BD%E4%BF%9D%E5%8D%AB%E6%88%985/id6749045841?uo=4"/>
@@ -1420,53 +1523,5 @@ Note: All your data is stored locally on your device. We do not access, collect,
 
 Thank you for using this app. We’re committed to improving your experience with every update. Keep writing and stay organized!
 </p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/d3/f5/7dd3f5dd-227c-f769-ffe1-244ae48981d3/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/15/43/941543d6-83cd-0d08-c944-e5ae5f46b447/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a1/a5/de/a1a5defc-709b-93d5-c69b-2fb0f9885424/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/21/cd/4121cd89-d2ed-06b7-1c72-bcfff4d39a85/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/a5/bc/6fa5bc59-b5fa-ff58-fd70-4b28d68604bd/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/36/e6/ee/36e6ee73-c052-21f0-2fed-8885fe3ec7b1/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/40/93/6d/40936d93-8c30-f985-7a00-97a6cbadca8a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c2/72/cb/c272cb37-ec8c-32a4-f245-af2d409f9110/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/e0/a9/ffe0a957-f5f2-09c1-8290-4debd20e772a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bb/92/72/bb9272d7-ad2b-5f81-0c5c-42560e63f3c4/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raiders Map]]></title>
-        <id>Raiders Map-cn-1768848099676</id>
-        <link href="https://apps.apple.com/cn/app/raiders-map/id6755290585?uo=4"/>
-        <updated>2026-01-19T18:41:39.676Z</updated>
-        <summary type="html"><![CDATA[Raider Mk. 2: ¥128.00 → ¥58.00<br/>Raider Mk. 3: ¥198.00 → ¥68.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/raiders-map/id6755290585?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/e1/5b/2ae15b51-35fe-e27f-e402-dd2475765a97/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
-  <li>
-    <strong>Raider Mk. 2：</strong><span>¥128.00</span> → <b>
-  <strong>¥58.00</strong>
-</b><span>[¥58.00 ~ ¥128.00]</span>
-  </li><li>
-    <strong>Raider Mk. 3：</strong><span>¥198.00</span> → <b>
-  <strong>¥68.00</strong>
-</b><span>[¥68.00 ~ ¥198.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Raider Mk. 1：<b>¥38.00</b>
-  </li><li>
-    Raider Mk. 2：<b>¥58.00</b>
-  </li><li>
-    Raider Mk. 3：<b>¥68.00</b>
-  </li><li>
-    Raider Weekly：<b>¥15.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Enemy drop list, guides and quest-line guides.
-
-- Interactive Maps
-- Sort and Filter
-- Event Timers and Notifications
-- Guides for Quests
-
-Guides and Maps are partially available for free, but a Pro membership is required to access all content
-
-Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.
-
-
-Not affiliated with embark. Raiders Map is independently owned and managed. 
-
-apple standard EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p>]]></content>
     </entry>
 </feed>
