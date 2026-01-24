@@ -636,6 +636,25 @@
     "history": [
       [
         {
+          "timestamp": 1769264815108,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "World Sweetener Pack": "9,99 €",
+            "Steel Guitar Sweeteners": "17,99 €",
+            "Orchestral Sweeteners": "6,99 €",
+            "Misc Stringed Sweeteners": "3,99 €",
+            "Keyboard Sweeteners": "22,99 €",
+            "Harp Sweeteners": "6,99 €",
+            "Harmonica Sweeteners": "9,99 €",
+            "Guitar & Bass Sweeteners": "6,99 €",
+            "Buzz Feiten Pack": "6,99 €",
+            "Extended Frequency Modes": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1762979366080,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -31314,6 +31333,27 @@
             "30 Mini-Game Tickets": "1,99 €",
             "10 Mini-Game Tickets": "0,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1438531905": {
+    "name": "Oblique-Strategies",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769264815108,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
