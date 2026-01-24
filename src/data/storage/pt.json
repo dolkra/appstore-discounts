@@ -21218,6 +21218,14 @@
     "history": [
       [
         {
+          "timestamp": 1769220607307,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1766110130860,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -28024,6 +28032,24 @@
     "history": [
       [
         {
+          "timestamp": 1769220607307,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "3,49 €",
+            "Power Builder (yearly)": "27,99 €",
+            "Power Builder (weekly)": "0,99 €",
+            "The Ultimate Tip": "59,99 €",
+            "Super Mega Smashing Tip": "34,99 €",
+            "Super Smashing Tip": "19,99 €",
+            "Super Mega Tip": "9,99 €",
+            "Mega Tip": "6,99 €",
+            "Super Tip": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765571455488,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -33914,7 +33940,9 @@
       "Chocolate Dice": "4,99 €",
       "Big Cities USA Explorer Pack": "2,99 €",
       "New Year Diamond Bundle": "9,99 €",
-      "Atlantic City Dice": "4,99 €"
+      "Atlantic City Dice": "4,99 €",
+      "Flamehoof Premium Token": "9,99 €",
+      "Copper Dice": "4,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -33978,14 +34006,28 @@
       "Atlantis Theme Bundle": "4,99 €",
       "London Victorian Dice": "4,99 €",
       "London Victorian Bundle": "16,99 €",
-      "The Ultimate Edition": "44,99 €",
+      "The Ultimate Edition": "29,99 €",
       "Stormwing Premium Token": "9,99 €",
       "Chocolate Dice": "4,99 €",
       "Big Cities USA Explorer Pack": "2,99 €",
       "New Year Diamond Bundle": "9,99 €",
-      "Atlantic City Dice": "4,99 €"
+      "Atlantic City Dice": "4,99 €",
+      "Flamehoof Premium Token": "9,99 €",
+      "Copper Dice": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769220607307,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Flamehoof Premium Token": "9,99 €",
+            "Copper Dice": "4,99 €",
+            "The Ultimate Edition": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769143830057,
@@ -50270,6 +50312,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769220607307,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768615666187,
