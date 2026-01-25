@@ -43237,6 +43237,23 @@
     "history": [
       [
         {
+          "timestamp": 1769345825759,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Quarterly Membership": "2,99 €",
+            "Lifetime - Education": "9,99 €",
+            "年度会员升级终身会员": "9,99 €",
+            "Yearly Membership": "3,99 €",
+            "Monthly Membership": "0,99 €",
+            "年度会员": "3,99 €",
+            "月度会员": "0,99 €",
+            "Lifetime Membership": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768452525480,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -60345,6 +60362,27 @@
             "喵格测试24题版本": "0,99 €",
             "喵格测试12题版本": "0,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6743831121": {
+    "name": "图片分割器",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769345825759,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

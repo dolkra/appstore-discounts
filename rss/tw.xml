@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-01-25T03:47:19.480Z</updated>
+    <updated>2026-01-25T14:11:36.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-25T03:47:19.480Z</updated>
+        <updated>2026-01-25T14:11:36.434Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwSun, 25 Jan 2026 03:47:19 GMT</id>
+        <id>rankingtwSun, 25 Jan 2026 14:11:36 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-25T03:47:19.480Z</updated>
+        <updated>2026-01-25T14:11:36.434Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -51,16 +51,16 @@ feedId:157008546980077568+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1703</b>
+        <b>1705</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1502</b>
+        <b>1504</b>
       </td>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008546980077568+userId:73658201673997312
         <b>TW</b>
       </td>
       <td>
-        <b>1593</b>
+        <b>1595</b>
       </td>
       <td>
         <b>177</b>
       </td>
       <td>
-        <b>1416</b>
+        <b>1418</b>
       </td>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:157008546980077568+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6754450155">抓寵特攻隊:超1000種寵物喔！</a>
+        <del>
+          <a href="https://apps.apple.com/tw/app/id6754450155">抓寵特攻隊:超1000種寵物喔！</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -208,6 +210,29 @@ feedId:157008546980077568+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id1595313870">瓦爾登 - 終極個人管理工具</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App內購買</span><ol>
+              <li>
+                <i>Lifetime Membership</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id6497948575">Way of the Hunter Wild America</a>
       </td>
       <td>
@@ -228,7 +253,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id454679700">百貨公司物語</a>
@@ -245,7 +270,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id510249014">水準管 HD</a>
@@ -262,7 +287,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id675049147">SmallFish Chess for Stockfish</a>
@@ -279,7 +304,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id898876435">Planit巧攝專業版：风光攝影計劃神器</a>
@@ -296,7 +321,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -313,7 +338,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id946477821">Evoland</a>
@@ -330,7 +355,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id983143183">夢幻怪獸</a>
@@ -347,7 +372,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1065791514">開羅拉麵店</a>
@@ -364,7 +389,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1065802380">Stream Music Player</a>
@@ -381,7 +406,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1067575393">照片橡皮擦 - 去除水印雜物多余人物</a>
@@ -404,7 +429,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1093131935">Incredibox</a>
@@ -421,7 +446,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1128464707">Death Road to Canada</a>
@@ -438,7 +463,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1304822713">無盡坦克大戰 - 八位元單機王者 完美模擬穿越舊經典電視手遊</a>
@@ -455,7 +480,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1350599517">吃貨人生 飲食紀錄App</a>
@@ -472,7 +497,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1354857517">NotePad++ - Pro</a>
@@ -495,7 +520,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -512,7 +537,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1411823462">7Days : Backer</a>
@@ -529,7 +554,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1435461053">This Is the Police</a>
@@ -546,7 +571,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1481853033">Strongbox Pro</a>
@@ -563,7 +588,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1523633394">SpongeBob SquarePants</a>
@@ -580,7 +605,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1538124245">where I put it</a>
@@ -597,7 +622,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1539778232">Afterplace</a>
@@ -614,7 +639,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1543161449">冒險村物語2</a>
@@ -631,7 +656,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1551579024">創意漢堡物語</a>
@@ -648,7 +673,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1560779038">伤寒论条阅</a>
@@ -665,7 +690,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1580067723">Wall of insanity</a>
@@ -682,7 +707,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id1587301632">全能備忘錄</a>
@@ -693,29 +718,6 @@ feedId:157008546980077568+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>34</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tw/app/id1595313870">瓦爾登 - 終極個人管理工具</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App內購買</span><ol>
-              <li>
-                <i>Lifetime Membership</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1143,7 +1145,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6753064625">石器情懷服歸來M-1秒找回20年情懷</a>
+        <a href="https://apps.apple.com/tw/app/id6754450155">抓寵特攻隊:超1000種寵物喔！</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1152,7 +1154,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id397553707">德州撲克 - Pokerist Pro</a>
+        <a href="https://apps.apple.com/tw/app/id6753064625">石器情懷服歸來M-1秒找回20年情懷</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1161,7 +1163,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6753206911">石器新世紀:寵物起源</a>
+        <a href="https://apps.apple.com/tw/app/id397553707">德州撲克 - Pokerist Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1170,7 +1172,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6754613166">Trackless Links Pro</a>
+        <a href="https://apps.apple.com/tw/app/id6753206911">石器新世紀:寵物起源</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1179,7 +1181,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6753062308">石器經典版-情懷服</a>
+        <a href="https://apps.apple.com/tw/app/id6754613166">Trackless Links Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1188,7 +1190,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6752563564">石器懷舊服 - 1:1移植版</a>
+        <a href="https://apps.apple.com/tw/app/id6753062308">石器經典版-情懷服</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1197,7 +1199,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6749845582">NPD知识普及</a>
+        <a href="https://apps.apple.com/tw/app/id6752563564">石器懷舊服 - 1:1移植版</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1206,7 +1208,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6749620111">石器手機版Go！自由抓捕,寵物養成遊戲</a>
+        <a href="https://apps.apple.com/tw/app/id6749845582">NPD知识普及</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1215,7 +1217,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6745578435">暗黑联盟之暴打传说</a>
+        <a href="https://apps.apple.com/tw/app/id6749620111">石器手機版Go！自由抓捕,寵物養成遊戲</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1224,7 +1226,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6749533872">石器狩獵勇士:原始人部落之戰</a>
+        <a href="https://apps.apple.com/tw/app/id6745578435">暗黑联盟之暴打传说</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1233,7 +1235,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6748949090">石器抓寵版：重返原始部落</a>
+        <a href="https://apps.apple.com/tw/app/id6749533872">石器狩獵勇士:原始人部落之戰</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1242,7 +1244,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6748376912">石器大陸之獵龍時代</a>
+        <a href="https://apps.apple.com/tw/app/id6748949090">石器抓寵版：重返原始部落</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1251,7 +1253,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1133083101">國家天氣Pro-15日即時天氣預報&空氣品質</a>
+        <a href="https://apps.apple.com/tw/app/id6748376912">石器大陸之獵龍時代</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1260,7 +1262,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6747758553">Grand Agent: It Call</a>
+        <a href="https://apps.apple.com/tw/app/id1133083101">國家天氣Pro-15日即時天氣預報&空氣品質</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1269,7 +1271,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6746355331">Stop&Get Away From Me! Defense</a>
+        <a href="https://apps.apple.com/tw/app/id6747758553">Grand Agent: It Call</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1278,7 +1280,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6746683191">VAKA No: 1937</a>
+        <a href="https://apps.apple.com/tw/app/id6746355331">Stop&Get Away From Me! Defense</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1287,7 +1289,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
+        <a href="https://apps.apple.com/tw/app/id6746683191">VAKA No: 1937</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1296,7 +1298,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6479684285">Never Night</a>
+        <a href="https://apps.apple.com/tw/app/id6746633753">Yōkai Retreat SP Yin Yang-Sama</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1305,7 +1307,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id567533074">Sonic Jump™</a>
+        <a href="https://apps.apple.com/tw/app/id6479684285">Never Night</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1314,7 +1316,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id319295332">TuneIn Radio: Music & Sports</a>
+        <a href="https://apps.apple.com/tw/app/id567533074">Sonic Jump™</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1323,7 +1325,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id519561306">ATracker PRO - 每日時間管理</a>
+        <a href="https://apps.apple.com/tw/app/id319295332">TuneIn Radio: Music & Sports</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1332,7 +1334,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6449251957">Motorsport Manager 4</a>
+        <a href="https://apps.apple.com/tw/app/id519561306">ATracker PRO - 每日時間管理</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1341,7 +1343,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1056920931">Iron Marines</a>
+        <a href="https://apps.apple.com/tw/app/id6449251957">Motorsport Manager 4</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1350,7 +1352,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1567658979">SkySafari 7 Pro</a>
+        <a href="https://apps.apple.com/tw/app/id1056920931">Iron Marines</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1359,7 +1361,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6466976437">OOTP Baseball 26 Go!</a>
+        <a href="https://apps.apple.com/tw/app/id1567658979">SkySafari 7 Pro</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1368,7 +1370,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1038014543">Day R Premium: last world war</a>
+        <a href="https://apps.apple.com/tw/app/id6466976437">OOTP Baseball 26 Go!</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1377,7 +1379,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6446178861">PlayNav - 影片內無廣告！</a>
+        <a href="https://apps.apple.com/tw/app/id1038014543">Day R Premium: last world war</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1386,7 +1388,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id904737816">王國保衛戰：起源 Kingdom Rush Origins</a>
+        <a href="https://apps.apple.com/tw/app/id6446178861">PlayNav - 影片內無廣告！</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1395,7 +1397,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id352247139">Calorie Counter PRO MyNetDiary</a>
+        <a href="https://apps.apple.com/tw/app/id904737816">王國保衛戰：起源 Kingdom Rush Origins</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1404,7 +1406,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id403684733">Badoo進階版</a>
+        <a href="https://apps.apple.com/tw/app/id352247139">Calorie Counter PRO MyNetDiary</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1413,7 +1415,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id406541444">8mm Vintage Camera</a>
+        <a href="https://apps.apple.com/tw/app/id403684733">Badoo進階版</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1422,7 +1424,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/tw/app/id406541444">8mm Vintage Camera</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1431,7 +1433,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
+        <a href="https://apps.apple.com/tw/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1440,7 +1442,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id916976066">短語鍵盤</a>
+        <a href="https://apps.apple.com/tw/app/id904278510">刺客任務：狙擊 (Hitman Sniper)</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1449,7 +1451,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id918609651">Money Pro: 個人財務</a>
+        <a href="https://apps.apple.com/tw/app/id916976066">短語鍵盤</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1458,7 +1460,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1028950091">貪婪洞窟：猿神降临</a>
+        <a href="https://apps.apple.com/tw/app/id918609651">Money Pro: 個人財務</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1467,7 +1469,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/tw/app/id1028950091">貪婪洞窟：猿神降临</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1476,7 +1478,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1436429074">FILCA - SLR Film Camera</a>
+        <a href="https://apps.apple.com/tw/app/id1095903651">甜蛙-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1485,7 +1487,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1439187947">Rebel Inc. (反叛公司)</a>
+        <a href="https://apps.apple.com/tw/app/id1436429074">FILCA - SLR Film Camera</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1494,7 +1496,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1439881811">RadarOmega</a>
+        <a href="https://apps.apple.com/tw/app/id1439187947">Rebel Inc. (反叛公司)</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1503,7 +1505,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1444761746">RFS - Real Flight Simulator</a>
+        <a href="https://apps.apple.com/tw/app/id1439881811">RadarOmega</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1512,7 +1514,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1484622401">Religion inc.上帝模擬器</a>
+        <a href="https://apps.apple.com/tw/app/id1444761746">RFS - Real Flight Simulator</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1521,7 +1523,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1512751689">The Game of Life 2</a>
+        <a href="https://apps.apple.com/tw/app/id1484622401">Religion inc.上帝模擬器</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1530,7 +1532,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
+        <a href="https://apps.apple.com/tw/app/id1512751689">The Game of Life 2</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1539,7 +1541,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id6740471827">手錶經典迷宮遊戲</a>
+        <a href="https://apps.apple.com/tw/app/id1622869542">Kingdom Rush 5: Alliance TD</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -1548,16 +1550,16 @@ feedId:157008546980077568+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1198176727">Controller for HomeKit</a>
+        <a href="https://apps.apple.com/tw/app/id6740471827">手錶經典迷宮遊戲</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1055511498">Day One Journal</a>
+        <a href="https://apps.apple.com/tw/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1566,7 +1568,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>48</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
+        <a href="https://apps.apple.com/tw/app/id1055511498">Day One Journal</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1575,7 +1577,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>49</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1473785373">錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算</a>
+        <a href="https://apps.apple.com/tw/app/id1444383602">Goodnotes 6：筆記，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1584,7 +1586,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>50</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
+        <a href="https://apps.apple.com/tw/app/id1473785373">錢跡記帳: 無廣告超簡潔 & 資產管理 & 預算</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1593,7 +1595,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>51</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/tw/app/id1610668825">FyTube -沒有廣告的 YouTube</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1602,7 +1604,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>52</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id598581396">Kingdom Rush Frontiers 塔防生存戰爭</a>
+        <a href="https://apps.apple.com/tw/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1611,7 +1613,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>53</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id460661291">Safety Note+ Pro</a>
+        <a href="https://apps.apple.com/tw/app/id598581396">Kingdom Rush Frontiers 塔防生存戰爭</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1620,7 +1622,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>54</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/tw/app/id460661291">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1629,7 +1631,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>55</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/tw/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1638,7 +1640,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>56</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://apps.apple.com/tw/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1647,7 +1649,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>57</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id456637671">安全監控照片+視頻Pro</a>
+        <a href="https://apps.apple.com/tw/app/id431033044">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1656,7 +1658,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>58</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1453318714">Vostok — 创建美丽快拍页面</a>
+        <a href="https://apps.apple.com/tw/app/id456637671">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1665,7 +1667,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>59</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/tw/app/id1453318714">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1674,7 +1676,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>60</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/tw/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1683,7 +1685,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>61</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id488674899">雨雷達 ° -實時天氣圖</a>
+        <a href="https://apps.apple.com/tw/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1692,7 +1694,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>62</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id1361473095">MuseDash</a>
+        <a href="https://apps.apple.com/tw/app/id488674899">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1701,7 +1703,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>63</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
+        <a href="https://apps.apple.com/tw/app/id1361473095">MuseDash</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1710,7 +1712,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>64</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
+        <a href="https://apps.apple.com/tw/app/id373454750">隨手記Pro–個人家庭生意記帳</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1719,7 +1721,7 @@ feedId:157008546980077568+userId:73658201673997312
         <b>65</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tw/app/id388624839">CamScanner+</a>
+        <a href="https://apps.apple.com/tw/app/id866450515">Forest 專注森林 - 讀書專注番茄鐘</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1728,12 +1730,105 @@ feedId:157008546980077568+userId:73658201673997312
         <b>66</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id388624839">CamScanner+</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>67</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id1659622164">VidHub -Video Library & Player</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[瓦爾登 - 終極個人管理工具]]></title>
+        <id>瓦爾登 - 終極個人管理工具-tw-1769345825759</id>
+        <link href="https://apps.apple.com/tw/app/%E7%93%A6%E7%88%BE%E7%99%BB-%E7%B5%82%E6%A5%B5%E5%80%8B%E4%BA%BA%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id1595313870?uo=4"/>
+        <updated>2026-01-25T12:57:05.759Z</updated>
+        <summary type="html"><![CDATA[Lifetime Membership: $390.00 → $320.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E7%93%A6%E7%88%BE%E7%99%BB-%E7%B5%82%E6%A5%B5%E5%80%8B%E4%BA%BA%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/id1595313870?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/26/65/5e266507-c03a-2c8c-9229-1f038f975a15/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
+  <li>
+    <strong>Lifetime Membership：</strong><span>$390.00</span> → <b>
+  <strong>$320.00</strong>
+</b><span>[$290.00 ~ $390.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免費</b>
+</p><h3>App內購買</h3><ul>
+  <li>
+    Lifetime Membership：<b>$320.00</b>
+  </li><li>
+    Yearly Membership：<b>$120.00</b>
+  </li><li>
+    Quarterly Membership：<b>$90.00</b>
+  </li><li>
+    Lifetime - Education：<b>$320.00</b>
+  </li><li>
+    Monthly Membership：<b>$30.00</b>
+  </li><li>
+    年度会员升级终身会员：<b>$320.00</b>
+  </li><li>
+    年度会员：<b>$120.00</b>
+  </li><li>
+    月度会员：<b>$30.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  **App Store 編輯推薦**
+瓦爾登是一款專注於個人管理的應用程式，致力於幫助用戶更好地實現自我管理，平衡工作、學習與生活。
+
+功能介紹
+※ 待辦事項&日程管理
+- 支援檢查清單（Checklist）及清單模板
+- 支援重複計劃（每天、每週、每月），提前提醒，截止日期
+- 支援過期任務順延，支援收集箱（Inbox）功能
+- 支援四象限工作法則，獨創優先級評估系統，根據任務的輕重緩急合理安排日程
+- 支援日曆時間軸和列表兩種顯示模式
+
+※ 番茄鐘、正計時
+- 內置番茄鐘，並嚴格按照番茄工作法進行設計
+- 支援鎖屏實時活動、靈動島（僅 iOS 16.1+）
+- 支援設置每日番茄鐘目標、休息時間，並從待辦計劃中選取需要專注的待辦任務
+- 支援正計時功能，可統計專注任務所花時間
+
+※ 目標進度管理
+- 量化目標，支援目標分組和進度筆記功能，搭配簡潔美觀的進度條，清晰追踪你的目標進度。
+- 無論是學習進度、讀書進度、工作進度，都可以對其量化。
+- 支援趨勢圖，可以按天、週、月、季度、年查看
+
+※ 閃念筆記
+- 碎片化筆記、日記記錄、靈感記錄
+- 支援文本、圖片功能，融合自定義標籤，支援全文搜索標籤搜索
+- 支援筆記補錄功能
+
+※ 螢幕小組件
+目前支援今日任務、進度管理、閃念筆記小組件，並且支援設置背景
+
+※ 鎖屏小組件
+支援年進度、本週專注統計圖、待辦計劃、閃念筆記
+
+※ 統計中心（目前僅支援專注時間的統計）
+提供豐富的匯總數據、直觀的圖表，方便用戶回顧和查詢
+
+※ iCloud
+支援自動備份，跨設備數據同步
+
+※ 隱私保護
+支援 FaceID （指紋）解鎖應用
+
+※ 其他
+無廣告、無後台，免費用戶友好，數據完全存儲到本地和個人的 iCloud 帳戶，只有用戶本人才可訪問數據。
+-----------------
+訂閱說明
+確認訂閱後將向您的 App Store 帳戶收取費用，訂閱以年或月為計費周期。訂閱服務將會在當前周期結束時自動續訂並收取費用
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/56/29/eb562901-7979-3bdb-9fad-af53abfb5afd/342a4df3-5fa5-4209-aafa-4eadd14cad07_5.5-tc-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/06/4a/be/064abe94-9c71-1366-8f36-93716664ed3a/d6633597-5faa-4868-9996-cc557868f8a5_5.5-tc-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/e1/8b/a8e18bbe-3935-c719-720d-4be9b38aa891/22bbaa90-ccd0-41fe-a3aa-71f279668446_5.5-tc-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1c/6a/b5/1c6ab503-fc9b-f65f-bb18-394908b7395c/1f1a01bd-8368-498f-8278-b73bef300648_5.5-tc-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/7e/45/227e4516-4b52-f934-a921-811615049d01/aa93e0b9-4aa9-48ed-94e2-52e2453cff8d_5.5-tc-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/de/d2/4bded261-dfcd-833f-250b-77610ce67011/e5096f61-9440-4722-950a-10ca701b7080_5.5-tc-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/1b/02/e91b0272-e673-fe1c-22af-84fe107d3184/97defbba-ef1a-45a4-bdfd-118fbddfb112_5.5-tc-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/d1/b2/49d1b2a2-8a66-f0cd-7574-fd388dfa71b8/330a90e3-ed67-4d4a-a4e7-8c3cdf243f4f_5.5-tc-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/fb/5e/0ffb5e26-4eea-ef8e-3c84-3006bd041cf8/74703f95-0166-46e9-9ab2-eb70efe130f7_12.9-tc-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d4/3f/39/d43f399b-aa82-fabd-b163-ddc863654267/b4e6eb5a-f48a-48f8-a2a3-13734494fdbe_12.9-tc-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/b6/6c/89b66c3a-2948-f55d-0808-caa2b824070a/585d773b-e1d6-4170-a20c-82821b162766_12.9-tc-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/5c/56/cf5c5614-01cf-6b3f-e82e-79ee4d4e6d5d/43a219a7-c219-47eb-8c2d-feb4ab68942f_12.9-tc-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/5f/73/b95f7349-da40-b127-b998-da08beaf7a91/7c5dd3ea-8b3a-4a81-98ba-8971df39bb41_12.9-tc-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/1c/af/e71caf56-c568-b89d-3398-3e865207e200/cc5d13f7-e507-4004-ae38-d129680a9d31_12.9-tc-statistic.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[抓寵特攻隊:超1000種寵物喔！]]></title>
@@ -1957,45 +2052,5 @@ Incredibox，來自法國里昂，於 2009 年創立的 So Far So Good 工作室
 
 Level. URL scheme is "EWBubbleLevel://"
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/13/c3/7a/13c37a4e-517b-f191-b2ec-80c3e0a31598/mzl.rltbicsz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/17/dd/99/17dd9927-e6e4-b255-c946-f0346c7d2a1d/mzl.xuivbopz.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/ef/75/57ef75d3-0305-89f9-4b8f-4c2250a30368/mzl.oleqkngv.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e5/02/14/e50214c6-b531-221c-3a6d-02a80c7d64a5/mzl.rrvyeumo.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[抓寵特攻隊:超1000種寵物喔！]]></title>
-        <id>抓寵特攻隊:超1000種寵物喔！-tw-1769078209285</id>
-        <link href="https://apps.apple.com/tw/app/%E6%8A%93%E5%AF%B5%E7%89%B9%E6%94%BB%E9%9A%8A-%E8%B6%851000%E7%A8%AE%E5%AF%B5%E7%89%A9%E5%96%94/id6754450155?uo=4"/>
-        <updated>2026-01-22T10:36:49.285Z</updated>
-        <summary type="html"><![CDATA[Diamonds: $320.00 → $150.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E6%8A%93%E5%AF%B5%E7%89%B9%E6%94%BB%E9%9A%8A-%E8%B6%851000%E7%A8%AE%E5%AF%B5%E7%89%A9%E5%96%94/id6754450155?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/79/7c/bd/797cbdfa-f339-da9a-2f9f-1e48fe95dd16/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
-  <li>
-    <strong>Diamonds：</strong><span>$320.00</span> → <b>
-  <strong>$150.00</strong>
-</b><span>[$150.00 ~ $320.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b></b>
-</p><h3>App內購買</h3><ul>
-  <li>
-    Diamonds：<b>$150.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  遠古的尼斯大陸橫亙萬里，晨霧纏綿於蒼翠林海，陽光穿透層疊樹冠灑落斑斕光影；海岸邊浪濤叩擊礁岩，鹹濕海風捎來遠方島嶼的清冽氣息；深處洞窟幽邃無垠，岩壁古老刻痕封存未解的玄秘箴言；部落圖騰在風中輕曳，微光閃爍間似低述千百年流傳的史詩——這裡有溫馴生靈馳騁於碧草芳甸，有咆哮巨獸潛伏於幽谷深壑，更有形形色色的龍族盤踞險峻之地；加加村的嫋嫋炊煙、瑪麗娜斯的點點漁帆、卡魯它那的斑駁古橋，每一幕景致皆凝結青春足跡，每一寸疆土都埋藏未知的驚喜。你將肩負部族的期盼，踏過潮濕沼澤、攀越陡峭山巔、探入幽暗洞窟，在這段漫長征途裡重逢熟悉身影，締結刻骨羈絆，揭開大陸塵封的奧義，讓部族榮光隨步履延展至每個角落。
-
-【核心體驗】​
-
-· 輕鬆冒險：無需費神鑽研繁複規則，不必時刻凝視螢幕，以最自在節奏展開探索。即使短暫離去，歸來仍會收穫成長的驚喜，讓冒險自然融入日常，不擾生活瑣事，亦不錯失探尋之趣。
-
-· 龍與夥伴，羈絆共生：尼斯大陸是龍族與奇幻生靈的樂土，各式龍類遍布險地——或體魄雄渾、馴服後可作坐騎的巨龍，或身姿矯捷、善於攻伐的戰鬥龍裔，亦有蘊含元素之力、可賦予屬性加成的珍稀龍類，牠們潛藏於火山深腹、深海淵壑、雲端峭壁，靜候與有緣者締結契約。大陸上的奇幻生靈亦千姿百態，或靈動俏皮，或威猛剛烈，或溫厚可依，牠們或匿於林莽丘壑，或待宿命喚醒，或在旅途轉角與你不期而遇。
-
-寵物養成洋溢專屬心意與成就喜悅，自初遇懵懂相伴，至朝夕相處累積默契，你可藉由獨特培育法激發潛能，鑄就專屬特質與戰技風采——無論淬鍊攻勢銳度、鞏固守御韌性，或啟動輔助增益之能，每回培育皆見伙伴成長蛻變。並肩征戰時，彼此節奏漸趨合鳴，招式配合更臻流暢，終成縱橫四方的無雙拍檔，伴你歷遍每段璀璨旅程。
-
-· 多元體驗：這片大陸從不乏驚喜，探索未知疆域，感受自然壯麗與險峻；與強者並肩鏖戰，釋放蓄積的力量與熱情；與戰友協力共進，在配合間收穫情誼與榮耀。無論偏愛孤身探秘，或熱衷群聚歡暢，皆能在此尋得心之所向的樂趣，令每段冒險盈滿新意。
-
-· 誠意福利：自踏入大陸之刻，豐沛助力便全程隨行，無須刻意累積，即可輕易獲取成長所需。使你免於資源匱乏之擾，專注沉浸探索之悅，零門檻暢遊，無壓力邁進。
-
-· 家族同心：在這遼闊大陸，孤獨從非冒險常態。結交志合戰友，共築屬於你們的家園，在日常互動中溫暖彼此；並肩挑戰強敵，在風雨同舟中凝聚集力；分享探險收穫與心悟，讓每次聚首滿溢暖意，於羈絆間收穫深切歸屬。
-
-在這片滿溢奇觀與溫情的尼斯大陸，你將重拾冒險的純粹歡欣，與龍及夥伴攜手，於每次探索中譜寫獨屬於己的傳奇。
-</p>]]></content>
     </entry>
 </feed>

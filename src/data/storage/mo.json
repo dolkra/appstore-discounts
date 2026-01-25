@@ -105215,6 +105215,23 @@
     "history": [
       [
         {
+          "timestamp": 1769345825759,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Quarterly Membership": "USD 2.99",
+            "Lifetime - Education": "USD 9.99",
+            "年度会员升级终身会员": "USD 9.99",
+            "Yearly Membership": "USD 3.99",
+            "Monthly Membership": "USD 0.99",
+            "年度会员": "USD 3.99",
+            "月度会员": "USD 0.99",
+            "Lifetime Membership": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768452525480,
           "price": 0,
           "formattedPrice": "免費",
@@ -136569,6 +136586,27 @@
             "喵格测试24题版本": "USD 0.99",
             "喵格测试12题版本": "USD 0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6743831121": {
+    "name": "图片分割器",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769345825759,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
