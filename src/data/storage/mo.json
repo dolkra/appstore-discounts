@@ -1297,6 +1297,25 @@
     "history": [
       [
         {
+          "timestamp": 1769308312308,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Soccer coins": "USD 0.99",
+            "300,000 gold": "USD 2.99",
+            "100,000 gold": "USD 1.99",
+            "10,000 gold": "USD 0.99",
+            "100,000 coins": "USD 3.99",
+            "15000 eggs": "USD 2.99",
+            "5000 eggs": "USD 1.99",
+            "500 eggs": "USD 0.99",
+            "10000 candies": "USD 2.99",
+            "1000 candies": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768357440903,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -52762,6 +52781,27 @@
           "timestamp": 1745517753203,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1078875308": {
+    "name": "桌面月历 : Easy & Simple 月历",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769308312308,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]
@@ -135913,10 +135953,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.49,
+      "formattedPrice": "USD 1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769308312308,
+          "price": 1.49,
+          "formattedPrice": "USD 1.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767343090680,
@@ -136320,6 +136368,14 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1769308312308,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Diamonds": "USD 49.99"
+          }
+        },
         {
           "timestamp": 1769272410988,
           "price": 0.29,

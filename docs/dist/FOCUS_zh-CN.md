@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1702` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1703` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1703|1078875308|自动|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|桌面月历 : Easy & Simple 月历|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|Widget Calendar : Easy&Simple|
 |1702|1438531905|自动|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|Oblique-Strategies|
 |1701|1262381187|自动|yWriter: Novel Writing|yWriter: Novel Writing|yWriter: Novel Writing|yWriter: Novel Writing|yWriter: Novel Writing|yWriter: Novel Writing|yWriter: Novel Writing|
 |1700|1451969138|自动|化油器 Jetting Rotax Max EVO Kart|Jetting Rotax Max EVO Kart|Jetting Rotax Max EVO Kart|Jetting Rotax Max EVO Kart|Jetting Rotax Max EVO Kart|Jetting Rotax Max EVO Kart|Carburação Rotax Max EVO Kart|
@@ -18,7 +19,7 @@
 |1694|602158442|自动|Atlas Bourgogne|Atlas Bourgogne|Atlas Bourgogne|Atlas Bourgogne|Atlas Bourgogne|Atlas Bourgogne|Atlas Bourgogne|
 |1693|6633412890|自动|Tiny Terraces|Tiny Terraces|Tiny Terraces|Tiny Terraces|Tiny Terraces|Tiny Terraces|Tiny Terraces|
 |1692|784265988|自动|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|Multi Track Song Recorder Pro|❌|
-|1691|6754450155|自动|❌|抓寵特攻隊:超1000種寵物喔！|抓寵特攻隊:超1000種寵物喔！|抓寵特攻隊:超1000種寵物喔！|Mega Pact: Let's Go!|Mega Pact: Let's Go!|Mega Pact: Let's Go!|
+|1691| ~~6754450155~~ |自动| ~~❌~~ | ~~抓寵特攻隊:超1000種寵物喔！~~ | ~~抓寵特攻隊:超1000種寵物喔！~~ | ~~抓寵特攻隊:超1000種寵物喔！~~ | ~~Mega Pact: Let's Go!~~ | ~~Mega Pact: Let's Go!~~ | ~~Mega Pact: Let's Go!~~ |
 |1690|6757986827|自动|Translate Gemma l Offline|Translate Gemma l Offline|Translate Gemma l Offline|Translate Gemma l Offline|TranslateGemma I Offline|TranslateGemma I Offline|TranslateGemma I Offline|
 |1689|987380224|自动|粉粉日记Pro-生活记录效率工具合集|粉粉日记Pro-生活记录效率工具合集|粉粉日记Pro-生活记录效率工具合集|粉粉日记Pro-生活记录效率工具合集|粉粉日记专业版 - 手帐·日历·记账|粉粉日记专业版 - 手帐·日历·记账|粉粉日记Pro-生活记录效率工具合集|
 |1688|960457446|自动|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|Flush Toilet Finder Pro|

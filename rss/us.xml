@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-01-24T15:40:11.963Z</updated>
+    <updated>2026-01-25T03:47:19.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-24T15:40:11.963Z</updated>
+        <updated>2026-01-25T03:47:19.494Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 24 Jan 2026 15:40:11 GMT</id>
+        <id>rankingusSun, 25 Jan 2026 03:47:19 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-01-24T15:40:11.963Z</updated>
+        <updated>2026-01-25T03:47:19.494Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1702</b>
+        <b>1703</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1501</b>
+        <b>1502</b>
       </td>
       <td>
         <b>75</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1569</b>
+        <b>1570</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1393</b>
+        <b>1394</b>
       </td>
       <td>
         <b>59</b>
@@ -1295,6 +1295,23 @@ feedId:157008699750812672+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>68</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id6444348444">Security Camera - Home Monitor</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -1840,6 +1857,32 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Security Camera - Home Monitor]]></title>
+        <id>Security Camera - Home Monitor-us-1769308312308</id>
+        <link href="https://apps.apple.com/us/app/security-camera-home-monitor/id6444348444?uo=4"/>
+        <updated>2026-01-25T02:31:52.308Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $1.49]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/security-camera-home-monitor/id6444348444?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/aa/af/18/aaaf181b-9a87-f248-af86-d030e62e1650/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$1.49</strong>
+</b><span>[$1.49 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.49</b>
+</p><h2>Application Description</h2><p>
+  With the Security Camera app, you can monitor your home by watching a live video stream on any other device connected to the same Wi-Fi network, using only a web browser.
+
+* This is a unique approach that many users appreciated *
+
+** How it works: The app captures video, generates a live stream and runs an http web server. The app displays the web address or URL of the live stream page.
+The URL contains the IP address of the iPhone on which the app runs (the private IP inside your home network, can not be seen from Internet).
+
+All you need to do is just to open a web browser on your computer, another smartphone or tablet, navigate to the page and start watching.
+Internet connection is not required, only home Wi-Fi is used.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/05/7f/a3057f58-8eca-8e2b-449d-da17aeace6ce/iPhone_5.5_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/74/3e/4b743e46-1429-df36-5b5b-cab949c7669a/iPhone_5.5_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/e7/57/41e757e5-566d-ec91-f2b7-18ed8fd60e0a/iPhone_5.5_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/af/d0/92afd0f0-8494-a74b-de58-a3553d0baa02/iPhone_5.5_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/de/3d/74de3da4-555f-6edc-5eea-6eb5432b77ee/iPhone_5.5_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/84/58/528458de-eac4-e847-927f-049eed8a88a8/iPhone_5.5_6.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Specimen Zero - Horror]]></title>
         <id>Specimen Zero - Horror-us-1769264815108</id>
         <link href="https://apps.apple.com/us/app/specimen-zero-horror/id1574175808?uo=4"/>
@@ -2197,78 +2240,5 @@ Imprint: http://www.handy-games.com/contact/
 
 © www.handy-games.com GmbH
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/51/9c/a3/519ca35a-1278-db30-74cb-79a35eb3b9b7/bd6d4b79-894b-4801-b5ba-393b28039ca1_SPBFBB_Screenshot_2208x1242_UI_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/c9/17/5d/c9175d4f-79e1-c865-6820-50f506faf0ba/7336c0d9-dc73-4c86-8d84-7ad228142b48_SPBFBB_Screenshot_2208x1242_UI_02.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/20/69/77/206977dd-e37f-6cf8-b86c-18cfcbbc7add/f2760d49-96f3-42bf-9ade-42dc509fe145_SPBFBB_Screenshot_2208x1242_UI_03.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a0/31/00/a03100da-1169-f99c-f8d6-aba4b5a2a122/3249c8b8-e3f5-4e85-aa4c-f5a5d4759779_SPBFBB_Screenshot_2208x1242_UI_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/70/32/e5/7032e5dd-b8c7-6fae-f628-95ece4c5cf0f/3ebb6b76-9794-46f7-a44e-e8f8cf9dbf7f_SPBFBB_Screenshot_2208x1242_UI_05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/56/9e/b4/569eb4ce-6dee-6311-65f8-f13b28327077/829b2ec8-56b1-415d-9852-0e3cae1abc2f_SPBFBB_Screenshot_2208x1242_UI_06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/8c/ed/3a/8ced3af1-27a2-2729-2565-4ca54acddfa0/5d597715-2913-47d4-a82c-77c9a6fd19ab_SPBFBB_Screenshot_2208x1242_UI_07.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/07/15/11/071511e0-e854-0e1f-e191-e734cccb3d39/b1ce3dc5-ae30-4dd7-85d1-0f6af971a962_SPBFBB_Screenshot_UI_2732x2048_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5d/1b/be/5d1bbe8d-cc3d-2bf1-d4bb-ca6dc0ba0511/02f5c6ea-133b-49fe-a2e7-7679f8085221_SPBFBB_Screenshot_UI_2732x2048_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d8/3d/dd/d83ddd31-d475-d4b4-8387-de3f47da880a/a4fc9610-eef6-4ed4-bb03-f0fad39466ad_SPBFBB_Screenshot_UI_2732x2048_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/b8/7e/61b87e71-2b31-739b-e137-6ac9d137c549/909c7560-8b2d-4bb1-829a-e624f6f5b78d_SPBFBB_Screenshot_UI_2732x2048_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/aa/97/55/aa975587-a9fc-f65d-ee2a-e7cc8fe433c3/e4b70d14-893c-4dfd-b2cc-73d8da589ae1_SPBFBB_Screenshot_UI_2732x2048_05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/d2/a2/9d/d2a29dac-1f01-2822-7443-ddb5eb9ef87b/a6e29ce1-187a-4e8f-be6c-097c9aa1159c_SPBFBB_Screenshot_UI_2732x2048_06.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/e8/08/20/e8082016-1f86-79ff-db52-15ff39155713/9a8e19e2-a72c-417c-9e5c-8524cd881f4c_SPBFBB_Screenshot_UI_2732x2048_07.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Strongbox Pro]]></title>
-        <id>Strongbox Pro-us-1769015168148</id>
-        <link href="https://apps.apple.com/us/app/strongbox-pro/id1481853033?uo=4"/>
-        <updated>2026-01-21T17:06:08.148Z</updated>
-        <summary type="html"><![CDATA[Price: $124.99 → $99.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/strongbox-pro/id1481853033?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/f8/ec/e7f8ec33-7bb3-a3f2-1ebb-79328a686b2b/AppIcon-2024-Pro-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$124.99</span> → <b>
-  <strong>$99.99</strong>
-</b><span>[$74.99 ~ $124.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$99.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Little Tip：<b>$4.99</b>
-  </li><li>
-    Medium Tip：<b>$19.99</b>
-  </li><li>
-    Annual Tip：<b>$19.99</b>
-  </li><li>
-    Monthly Tip：<b>$2.99</b>
-  </li><li>
-    Small Tip：<b>$9.99</b>
-  </li><li>
-    Huge Tip：<b>$199.99</b>
-  </li><li>
-    Large Tip：<b>$99.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Strongbox Pro is available here for outright and upfront purchase instead of via an In-App Purchase upgrade. This version of Strongbox is identical to the much loved Strongbox application with all the Pro features and the same regular update schedule.
-
-Strongbox is an application for keeping all your passwords safely stored and protected by one master password. Supporting the open source Password Safe and KeePass formats. 
-
-*** Supports Family Sharing ***
-
-*** Features ***
-- Face ID/Touch ID Unlock for the ultimate in convenience, security and speed.
-
-- PIN Code Unlock with a Duress PIN option for those tricky situations.
-
-- Passkey support - The latest, most convenient and most secure authentication method (passkeys).
-
-- YubiKey protection - secure your databases with a hardware token.
-
-- Secure - protected by time tested military grade cryptography.
-
-- Private - Isolated In-App attachments viewer for your sensitive documents, photos & videos.
-
-- Audit your passwords - Automatically check your database for weak passwords including a 'Have I Been Pwned?' check.
-
-- Cloud Support, so you can access your cloud safes using iCloud, Dropbox, OneDrive, Google Drive, WebDAV or SFTP even when offline. Use the built in Files app for many other storage options or store them securely only on your local device. You choose your storage.
-
-- Search your entire set of passwords and secrets instantly and powerfully, with deep search. Autocomplete new entries, and auto generate secure passwords. 
-
-- Compatible - Import/Export by Files app, Email, CSV, iTunes File Sharing or use cloud storage.
-
-- Standards compliant - using the time tested Password Safe and KeePass formats so you can import any existing password safe you have.
-
-- Features galore 
-   - Incredibly configurable password generation including Diceware (XKCD) & regular passwords.
-   - Timed Auto Clear Clipboard.
-   - Entry History.
-   - KeePass Field References, Tags, Custom Icon & FavIcons (including automatic search & download).
-   - Two Factor Authentication codes (TOTP) - QR Code, Steam & Manual.
-
----------------------------------------------------------------------
-• Payment will be charged to iTunes Account at confirmation of purchase
-• Strongbox Privacy Policy may be found here: https://strongboxsafe.com/privacy-policy/
-• Strongbox Terms of Use may be found here: https://strongboxsafe.com/terms/
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f8/ec/ca/f8ecca32-07b9-15ea-6a35-a745e99bef1e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/19/e6/dd/19e6dd17-479d-6981-d740-522a79e88a3c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2a/cd/a7/2acda7ad-bc99-54ff-4ec6-d4f12ebf7a0e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/a6/4f/30a64fe0-6b47-4396-058c-c3d52b7b55c7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/67/69/146769c9-dabd-78e7-91df-a43c45d7c7b6/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/34/bd/50/34bd50d0-2c63-fdcd-b856-eaece15d0b2d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c8/38/a8/c838a847-3746-10f6-dd00-13cd425d33c4/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/f7/01/09f70119-7573-1b63-6070-e0e6298e6128/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3e/0a/68/3e0a68d7-1a92-ad22-538c-a692f1092872/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/97/39/da/9739dabf-537d-3bba-191b-a397448ec5fd/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/d9/82/87d9829c-4591-2d9e-d69f-7d3151f2cfa6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/1f/49/1f/1f491fda-b90e-ec50-2dd8-4fb22b162d0b/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7a/45/57/7a455764-dbac-ea49-7d97-fd319dd4d7bd/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/46/c2/ba/46c2badd-4c4e-2ab3-e173-b3f2f9e2129a/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/ed/8c/33ed8c12-0717-ffd1-99bd-01de5a0e3d09/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/de/93/0fde933a-3be0-5b57-7837-88ec49efb8a1/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4d/3e/17/4d3e1757-e40b-e022-912d-6c31368b4582/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/24/6a/bd246a3f-3247-5638-fd24-e21ecfd64991/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/55/ce/4e55ce06-b524-5579-98b5-0bcd73345c5c/pr_source.png/576x768bb.png" />]]></content>
     </entry>
 </feed>

@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1078875308,
+      "name": {
+        "mo": "桌面月历 : Easy & Simple 月历"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1438531905,
       "name": {
         "pt": "Oblique-Strategies"
@@ -84,7 +91,8 @@
         "hk": "抓寵特攻隊:超1000種寵物喔！",
         "tw": "抓寵特攻隊:超1000種寵物喔！"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 6757986827,
