@@ -1297,6 +1297,23 @@
     "history": [
       [
         {
+          "timestamp": 1769316953131,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "1000 coins": "USD 0.99",
+            "10,000 coins": "USD 1.99",
+            "100,000 coins": "USD 3.99",
+            "15000 eggs": "USD 2.99",
+            "10000 candies": "USD 2.99",
+            "1000 candies": "USD 0.99",
+            "30,000 coins": "USD 2.99",
+            "Soccer coins": "USD 0.99",
+            "300,000 gold": "USD 2.99",
+            "100,000 gold": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1769308312308,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -30237,6 +30254,27 @@
           "timestamp": 1752800719722,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "622398496": {
+    "name": "VBA Guide For Excel",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769316953131,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]
