@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1707` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1708` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1708|1667420124|自动|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|
 |1707|6757755170|自动|❌|Inkblade Idlers：水墨武俠|Inkblade Idlers：水墨武俠|Inkblade Idlers：水墨武俠|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|
 |1706|1098434617|自动|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|
 |1705|6743831121|自动|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|
@@ -1562,7 +1563,7 @@
 |155|1587301632|手动|全能记(录音,备忘,流水)|全能備忘錄|全能備忘錄|全能備忘錄|All In One Memo|All In One Memo|All In One Memo|
 |154|1464666446|手动|我的足迹: GPS记录仪|我的足跡: GPS記錄儀|我的足跡: GPS記錄儀|我的足跡: GPS記錄儀|MyTracks: GPS Recorder|MyTracks: GPS Recorder|MyTracks: GPS Recorder|
 |153|1665759338|手动|坐在罐子里的人|❌|❌|❌|❌|❌|❌|
-|152|953426154|手动|Be Focused Pro - Focus Timer|Be Focused Pro – 專工作學習番茄計時器|Be Focused Pro – 專工作學習番茄計時器|Be Focused Pro – 專工作學習番茄計時器|Be Focused Pro - Focus Timer|Be Focused Pro- Pomodoro Timer|Be Focused Pro – Timer Foco|
+|152|953426154|手动|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro - Focus Timer|Be Focused Pro- Pomodoro Timer|Be Focused Pro: Pomodoro Timer|
 |151|1238778050|手动|纪念碑谷2|❌|❌|❌|❌|❌|❌|
 |150|1020541183|手动|电影精灵 - 专业视频编辑和电影制作|電影精靈 - 專業視頻編輯和電影製作|電影精靈 - 專業視頻編輯和電影製作|電影精靈 - 專業視頻編輯和電影製作|MovieSpirit - Movie Maker Pro|MovieSpirit - Movie Maker Pro|❌|
 |149|576718804|手动|aTimeLogger - 时间记录工具|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger Time Tracker|aTimeLogger Time Tracker|aTimeLogger Time Tracker|

@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1707` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1708` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1708|1667420124|Automatic|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|
 |1707|6757755170|Automatic|❌|Inkblade Idlers：水墨武俠|Inkblade Idlers：水墨武俠|Inkblade Idlers：水墨武俠|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|Inkblade Idlers: Wuxia RPG|
 |1706|1098434617|Automatic|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|Morse Code Keys|
 |1705|6743831121|Automatic|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|图片分割器|
@@ -1562,7 +1563,7 @@ So far, we've covered `7` `Countries or Regions` and  `1707` `Apps` <br />Push n
 |155|1587301632|Manual|全能记(录音,备忘,流水)|全能備忘錄|全能備忘錄|全能備忘錄|All In One Memo|All In One Memo|All In One Memo|
 |154|1464666446|Manual|我的足迹: GPS记录仪|我的足跡: GPS記錄儀|我的足跡: GPS記錄儀|我的足跡: GPS記錄儀|MyTracks: GPS Recorder|MyTracks: GPS Recorder|MyTracks: GPS Recorder|
 |153|1665759338|Manual|坐在罐子里的人|❌|❌|❌|❌|❌|❌|
-|152|953426154|Manual|Be Focused Pro - Focus Timer|Be Focused Pro – 專工作學習番茄計時器|Be Focused Pro – 專工作學習番茄計時器|Be Focused Pro – 專工作學習番茄計時器|Be Focused Pro - Focus Timer|Be Focused Pro- Pomodoro Timer|Be Focused Pro – Timer Foco|
+|152|953426154|Manual|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro - Focus Timer|Be Focused Pro- Pomodoro Timer|Be Focused Pro: Pomodoro Timer|
 |151|1238778050|Manual|纪念碑谷2|❌|❌|❌|❌|❌|❌|
 |150|1020541183|Manual|电影精灵 - 专业视频编辑和电影制作|電影精靈 - 專業視頻編輯和電影製作|電影精靈 - 專業視頻編輯和電影製作|電影精靈 - 專業視頻編輯和電影製作|MovieSpirit - Movie Maker Pro|MovieSpirit - Movie Maker Pro|❌|
 |149|576718804|Manual|aTimeLogger - 时间记录工具|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger Time Tracker|aTimeLogger Time Tracker|aTimeLogger Time Tracker|
