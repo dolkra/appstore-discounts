@@ -53,7 +53,7 @@ So far, we've covered `7` `Countries or Regions` and  `1711` `Apps` <br />Push n
 |1668|441683476|Automatic|惠普尔记账 Pro - 3秒费用经理|惠普爾記賬 Pro - 3秒費用經理|惠普爾記賬 Pro - 3秒費用經理|惠普爾記賬 Pro - 3秒費用經理|Weple Money Pro|Weple Money Pro|Weple Money Pro|
 |1667|474121500|Automatic|❌|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian - Dream of Little Star -|planetarian - Dream of Little Star -|planetarian 〜ちいさなほしのゆめ〜|
 |1666|1528744354|Automatic|❌|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|
-|1665|6745099872|Automatic|死了么 - 官方正版|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|
+|1665|6745099872|Automatic|死了么 - 官方正版|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Are You Dead?｜Demumu|Demumu: Are You Dead?|
 |1664|6754641661|Automatic|婚启|婚启|婚启|婚启|婚启|婚启|婚启|
 |1663|1163338854|Automatic|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|Calories to kilojoules and kJ to Cal converter|Calories to kilojoules and kJ to Cal converter|Quilocalorias em quilojoules e kJ em kcal|
 |1662|6754453691|Automatic|❌|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|
