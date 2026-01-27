@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1710` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1711` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1711|6751800752|Automatic|❌|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|
 |1710|1450856766|Automatic|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|Jetting for TM KZ / ICC Kart|Jetting for TM KZ / ICC Kart|Carburação TM KZ / ICC Kart|
 |1709|1490100895|Automatic|❌|Happy Game :)|Happy Game :)|Happy Game :)|Happy Game :)|Happy Game :)|Happy Game :)|
 |1708|1667420124|Automatic|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|勃艮第的酒窝 Vins de Bourgogne|

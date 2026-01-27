@@ -8060,6 +8060,23 @@
     "history": [
       [
         {
+          "timestamp": 1769524692097,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "TRex 700 N": "2,99 €",
+            "F15 Eagle": "2,99 €",
+            "AH-64 Apache": "2,99 €",
+            "Hughes 500": "2,99 €",
+            "Bell 47": "2,99 €",
+            "Bell 222 Airwolf": "2,99 €",
+            "Boeing 747 Jumbo Jet": "2,99 €",
+            "RC Transformer": "2,99 €",
+            "Race Car": "2,99 €",
+            "Lego Car": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1769519187094,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -26206,14 +26223,22 @@
   "1234266367": {
     "name": "Drum Tuner - iDrumTune Pro",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769524692097,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -60838,6 +60863,27 @@
           "timestamp": 1769373119503,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6751800752": {
+    "name": "Dwarves: Glory, Death and Loot",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769524692097,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
