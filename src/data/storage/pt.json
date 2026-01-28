@@ -8621,6 +8621,25 @@
     "history": [
       [
         {
+          "timestamp": 1769611117347,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Surto": "3,99 €",
+            "Procurement Director": "0,99 €",
+            "Disaster Manager": "0,99 €",
+            "Medical Coordinator": "0,99 €",
+            "Ethics Watchdog": "0,99 €",
+            "Chaos Engineer": "0,99 €",
+            "Economic Forecaster": "0,99 €",
+            "Situation Director": "0,99 €",
+            "Outreach Coordinator": "0,99 €",
+            "Fast Response EMTs": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1769229611218,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -9442,6 +9461,25 @@
       "Mission 34 Gold": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769611117347,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mission 37 Gold": "2,99 €",
+            "Mission 36 Gold": "2,99 €",
+            "Mission 37 Demo": "0,99 €",
+            "Mission 36 Demo": "0,99 €",
+            "Mission 36 Skip": "1,99 €",
+            "Mission 35 Skip": "1,99 €",
+            "Mission 35 Gold": "2,99 €",
+            "Mission 35 Demo": "0,99 €",
+            "Mission 34 Skip": "1,99 €",
+            "Mission 34 Gold": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769510220420,
@@ -16587,7 +16625,7 @@
     ]
   },
   "924695435": {
-    "name": "Pixelmator",
+    "name": "Pixelmator Classic iOS",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
@@ -61044,6 +61082,27 @@
           "timestamp": 1769524692097,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756817606": {
+    "name": "Política do Futebol",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769611117347,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

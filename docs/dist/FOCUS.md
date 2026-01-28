@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1712` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1713` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1713|6756817606|Automatic|❌|Football Politics|Football Politics|Football Politics|Football Politics|Football Politics|Política do Futebol|
 |1712|367811588|Automatic|日脚萬年曆 - 十三行作品|日腳萬年曆 - 十三行作品|日腳萬年曆 - 十三行作品|日腳萬年曆 - 十三行作品|日腳萬年曆 - 十三行作品|日腳萬年曆 - 十三行作品|日腳萬年曆 - 十三行作品|
 |1711|6751800752|Automatic|❌|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|Dwarves: Glory, Death and Loot|
 |1710|1450856766|Automatic|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|化油器 Jetting for TM KZ ICC Kart|Jetting for TM KZ / ICC Kart|Jetting for TM KZ / ICC Kart|Carburação TM KZ / ICC Kart|
@@ -1246,7 +1247,7 @@ So far, we've covered `7` `Countries or Regions` and  `1712` `Apps` <br />Push n
 |476|912536422|Automatic|❌|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|Five Nights at Freddy's|
 |475| ~~916976066~~ |Automatic| ~~短语键盘~~ | ~~短語鍵盤~~ | ~~短語鍵盤~~ | ~~短語鍵盤~~ | ~~Phraseboard Keyboard~~ | ~~Phraseboard Keyboard~~ | ~~❌~~ |
 |474| ~~918609651~~ |Automatic| ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: 個人財務~~ | ~~Money Pro: Personal Finance AR~~ | ~~Money Pro: Personal Finance AR~~ | ~~❌~~ |
-|473|924695435|Automatic|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|Pixelmator|
+|473|924695435|Automatic|Pixelmator Classic iOS|Pixelmator Classic iOS|Pixelmator Classic iOS|Pixelmator Classic iOS|Pixelmator Classic iOS|Pixelmator Classic iOS|Pixelmator Classic iOS|
 |472|925494667|Automatic|❌|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|Papa's Pizzeria To Go!|
 |471|926015463|Automatic|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|Timestamp Photo and Video pro|
 |470|926076608|Automatic|秒速记账 1SecMoney|秒速記帳 1SecMoney|秒速記帳 1SecMoney|秒速記帳 1SecMoney|1SecMoney|1SecMoney|1SecMoney|

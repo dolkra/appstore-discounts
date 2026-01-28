@@ -41086,7 +41086,7 @@
     ]
   },
   "924695435": {
-    "name": "Pixelmator",
+    "name": "Pixelmator Classic iOS",
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99"
@@ -56817,6 +56817,24 @@
       "Frontier Legends Sale": "USD 6.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769611117347,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Frontier Legends": "USD 12.99",
+            "Frontier Legends Sale": "USD 6.49",
+            "Havoc Staff Booster Sale": "USD 1.99",
+            "Skeletor Obyn Prestige Pack": "USD 6.99",
+            "Havoc Staff Booster": "USD 3.99",
+            "Powers Pro Launch Pack": "USD 8.99",
+            "Desperado Unlock Pack": "USD 7.99",
+            "She-Ra Prestige Pack Sale": "USD 6.99",
+            "She-Ra Sword Booster Sale": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769021602746,
@@ -137102,6 +137120,27 @@
           "timestamp": 1769524692097,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756817606": {
+    "name": "Football Politics",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769611117347,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]
