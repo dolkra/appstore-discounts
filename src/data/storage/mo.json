@@ -18038,6 +18038,25 @@
     "history": [
       [
         {
+          "timestamp": 1769705591799,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter N": "USD 3.99",
+            "Chapter D": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter T": "USD 4.99",
+            "Chapter R": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter K": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 9": "USD 4.99",
+            "Chapter S": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1767709826612,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -60615,7 +60634,8 @@
       "促銷禮包5": "USD 14.99",
       "促銷禮包4": "USD 9.99",
       "促銷禮包1": "USD 2.99",
-      "一大袋鑽石": "USD 19.99"
+      "一大袋鑽石": "USD 19.99",
+      "一箱鑽石": "USD 49.99"
     },
     "minPriceInfo": {
       "price": 0.29,
@@ -60633,9 +60653,29 @@
       "促銷禮包5": "USD 14.99",
       "促銷禮包4": "USD 9.99",
       "促銷禮包1": "USD 2.99",
-      "一大袋鑽石": "USD 19.99"
+      "一大袋鑽石": "USD 19.99",
+      "一箱鑽石": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769705591799,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "100鑽石": "USD 0.99",
+            "一筆鑽石": "USD 4.99",
+            "一小袋鑽石": "USD 9.99",
+            "一箱鑽石": "USD 49.99",
+            "一大车钻石": "USD 99.99",
+            "一大袋鑽石": "USD 19.99",
+            "雙倍獎勵": "USD 1.99",
+            "1代套裝(3星)": "USD 1.99",
+            "僱傭超能少年": "USD 1.99",
+            "雙倍背包": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768416196848,
@@ -137287,13 +137327,28 @@
     "name": "Inkblade Idlers：水墨武俠",
     "maxPriceInfo": {
       "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "formattedPrice": "USD 3.99",
+      "1000 張兌換券": "USD 9.99",
+      "80 張兌換券": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "1000 張兌換券": "USD 9.99",
+      "80 張兌換券": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769705591799,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "1000 張兌換券": "USD 9.99",
+            "80 張兌換券": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769697915504,
