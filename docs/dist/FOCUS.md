@@ -1240,7 +1240,7 @@ So far, we've covered `7` `Countries or Regions` and  `1719` `Apps` <br />Push n
 |489|741990930|Automatic|❌|Walkout Song DJ|❌|❌|Walkout Song DJ|❌|❌|
 |488|763692274|Automatic|❌|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|
 |487|784373321|Automatic|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
-|486|807317212|Automatic|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|每日精选-天文地理人文照片之美&壁纸|
+|486|807317212|Automatic|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|每日精选-天文地理人文自然之美&摄影|
 |485|824305459|Automatic|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
 |484| ~~829581836~~ |Automatic| ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~❌~~ |
 |483|837860959|Automatic|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|Mini Metro|
