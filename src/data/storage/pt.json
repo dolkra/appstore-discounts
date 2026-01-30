@@ -15054,8 +15054,8 @@
   "807752194": {
     "name": "Afinador de Violoncelo Pro",
     "maxPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €",
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
       "Diapasão": "1,99 €",
       "Configurações": "1,99 €"
     },
@@ -15066,6 +15066,17 @@
       "Configurações": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769749948149,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Diapasão": "1,99 €",
+            "Configurações": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768395758271,
@@ -28961,6 +28972,27 @@
             "Super Mega Tip": "9,99 €",
             "Mega Tip": "6,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1293989443": {
+    "name": "Business S.W.O.T. Analysis",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769749948149,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -53046,6 +53078,25 @@
       "Robinson R-22": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769749948149,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 777F": "1,99 €",
+            "Global scenery - 12 months": "14,99 €",
+            "Robinson R-22": "0,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769639745265,
