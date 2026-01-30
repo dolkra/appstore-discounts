@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1719` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1720` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1720|6749563951|自动|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|
 |1719|1293989443|自动|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|
 |1718|6738571698|自动|心灵渡船-灵魂摆渡人正版移植手游|❌|❌|❌|❌|❌|❌|
 |1717|6752767536|自动|❌|❌|Sakura Navi - Forecast in 2026|❌|Sakura Navi - Forecast in 2026|Sakura Navi - Forecast in 2026|Sakura Navi - Forecast in 2026|
@@ -1240,7 +1241,7 @@
 |489|741990930|自动|❌|Walkout Song DJ|❌|❌|Walkout Song DJ|❌|❌|
 |488|763692274|自动|❌|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|
 |487|784373321|自动|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
-|486|807317212|自动|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|每日精选-天文地理人文自然之美&摄影|
+|486|807317212|自动|每日精选-天文地理人文自然之美&摄影|每日精選-天文地理人文自然之美&攝影|每日精選-天文地理人文自然之美&攝影|每日精選-天文地理人文自然之美&攝影|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|每日精选-天文地理人文自然之美&摄影|
 |485|824305459|自动|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
 |484| ~~829581836~~ |自动| ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~❌~~ |
 |483|837860959|自动|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|Mini Metro|

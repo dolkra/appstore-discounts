@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1719` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1720` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1720|6749563951|Automatic|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|
 |1719|1293989443|Automatic|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|Business S.W.O.T. Analysis|
 |1718|6738571698|Automatic|心灵渡船-灵魂摆渡人正版移植手游|❌|❌|❌|❌|❌|❌|
 |1717|6752767536|Automatic|❌|❌|Sakura Navi - Forecast in 2026|❌|Sakura Navi - Forecast in 2026|Sakura Navi - Forecast in 2026|Sakura Navi - Forecast in 2026|
@@ -1240,7 +1241,7 @@ So far, we've covered `7` `Countries or Regions` and  `1719` `Apps` <br />Push n
 |489|741990930|Automatic|❌|Walkout Song DJ|❌|❌|Walkout Song DJ|❌|❌|
 |488|763692274|Automatic|❌|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|Grand Theft Auto: San Andreas|
 |487|784373321|Automatic|❌|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|軒轅劍參外傳 天之痕|
-|486|807317212|Automatic|每日精选-天文地理人文照片之美&壁纸|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|每日精選-天文地理人文照片之美&桌布|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|每日精选-天文地理人文自然之美&摄影|
+|486|807317212|Automatic|每日精选-天文地理人文自然之美&摄影|每日精選-天文地理人文自然之美&攝影|每日精選-天文地理人文自然之美&攝影|每日精選-天文地理人文自然之美&攝影|Daily Dozen-Culture in Photos|Daily Dozen-Culture in Photos|每日精选-天文地理人文自然之美&摄影|
 |485|824305459|Automatic|❌|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|Papa's Freezeria To Go!|
 |484| ~~829581836~~ |Automatic| ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~Driving Theory Test 4 in 1 Kit~~ | ~~❌~~ |
 |483|837860959|Automatic|❌|迷你地鐵|迷你地鐵|迷你地鐵|Mini Metro|Mini Metro|Mini Metro|

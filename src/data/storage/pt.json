@@ -10133,6 +10133,25 @@
     "history": [
       [
         {
+          "timestamp": 1769799335923,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "0,99 €",
+            "SLS 2022: Jacksonville": "0,99 €",
+            "SLS 2021: World Championship": "0,99 €",
+            "SLS 2019: Sao Paulo": "0,99 €",
+            "SLS 2019: London": "0,99 €",
+            "Sandbox 1 Year": "26,99 €",
+            "Sandbox 3 Months": "10,99 €",
+            "Sandbox Monthly": "5,49 €",
+            "SLS 2018: World Championship": "0,99 €",
+            "Mountain of Bolts": "99,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1769726135647,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -18960,6 +18979,23 @@
     "history": [
       [
         {
+          "timestamp": 1769799335923,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "150 Gems": "89,99 €",
+            "74 Gems": "49,99 €",
+            "119 Gems": "69,99 €",
+            "48 Gems": "29,99 €",
+            "28 Gems": "17,99 €",
+            "13 Gems": "8,99 €",
+            "6 Gems": "3,99 €",
+            "1 Gem": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1769480796092,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -24611,7 +24647,10 @@
       "Map Subscription": "1,99 €",
       "Map Tracer Pro Annual Sub": "69,99 €",
       "Map Tracer Pro Half-Year Sub": "39,99 €",
-      "Map Tracer Pro Monthly Sub": "9,99 €"
+      "Map Tracer Pro Monthly Sub": "9,99 €",
+      "Map Tracer & Video Editor Monthly": "9,99 €",
+      "Map Tracer & Video Editor Annual": "69,99 €",
+      "Map Tracer & Video Editor Half-Year": "39,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
@@ -24619,9 +24658,25 @@
       "Map Subscription": "1,99 €",
       "Map Tracer Pro Annual Sub": "69,99 €",
       "Map Tracer Pro Half-Year Sub": "39,99 €",
-      "Map Tracer Pro Monthly Sub": "9,99 €"
+      "Map Tracer Pro Monthly Sub": "9,99 €",
+      "Map Tracer & Video Editor Monthly": "9,99 €",
+      "Map Tracer & Video Editor Annual": "69,99 €",
+      "Map Tracer & Video Editor Half-Year": "39,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769799335923,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Map Subscription": "1,99 €",
+            "Map Tracer & Video Editor Monthly": "9,99 €",
+            "Map Tracer & Video Editor Annual": "69,99 €",
+            "Map Tracer & Video Editor Half-Year": "39,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -61938,6 +61993,27 @@
           "timestamp": 1769676725016,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749563951": {
+    "name": "酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1769799335923,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
