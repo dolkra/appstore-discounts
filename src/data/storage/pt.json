@@ -10133,6 +10133,23 @@
     "history": [
       [
         {
+          "timestamp": 1769805543284,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "SLS 2018: World Championship": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1769799335923,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -18978,6 +18995,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1769805543284,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "13 Gems": "8,99 €",
+            "6 Gems": "3,99 €",
+            "1 Gem": "0,99 €",
+            "48 Gems": "29,99 €",
+            "28 Gems": "17,99 €",
+            "74 Gems": "49,99 €",
+            "150 Gems": "89,99 €"
+          }
+        },
         {
           "timestamp": 1769799335923,
           "price": 0.99,
@@ -45341,14 +45372,22 @@
   "1610305853": {
     "name": "SunOnTrack: Sun Path & Shadows",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769805543284,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
