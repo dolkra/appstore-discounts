@@ -29299,6 +29299,19 @@
     "history": [
       [
         {
+          "timestamp": 1769826908349,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "500 Tickets": "9,99 €",
+            "200 Tickets": "5,99 €",
+            "50 Tickets": "1,99 €",
+            "Golden Pass": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768098566885,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -30832,6 +30845,22 @@
       "Oath of Heaven：Wei": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769826908349,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {
+            "Kit de atualização artística": "3,99 €",
+            "Editor de tesouros": "0,99 €",
+            "Oath of Heaven：Wei": "1,99 €",
+            "Oath of Heaven": "3,99 €",
+            "Alvorecer dos Heróis": "3,99 €",
+            "DLC de recursos": "3,99 €",
+            "Heróis montados": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769048674389,
@@ -48827,14 +48856,22 @@
   "6752503669": {
     "name": "Solar Arc: Sun and Moon Widget",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769826908349,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768416196848,
