@@ -59963,14 +59963,22 @@
   "1141282192": {
     "name": "Advanced Comprehension Therapy",
     "maxPriceInfo": {
-      "price": 24.99,
-      "formattedPrice": "USD 24.99"
+      "price": 29.99,
+      "formattedPrice": "USD 29.99"
     },
     "minPriceInfo": {
       "price": 19.99,
       "formattedPrice": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1769978146853,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764779879582,
