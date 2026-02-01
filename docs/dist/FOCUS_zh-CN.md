@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1722` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1723` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1723|938409051|自动|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
 |1722|1445772666|自动|❌|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|
 |1721|6757699360|自动|❌|Border Checkpoint Officer|Border Checkpoint Officer|Border Checkpoint Officer|Border Checkpoint Officer|Border Checkpoint Officer|Border Checkpoint Officer|
 |1720|6749563951|自动|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|酒馆AI-一款专门为AI 角色扮演爱好者定制的学习工具|
@@ -202,7 +203,7 @@
 |1530|6752701677|自动|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|3Dcalc+|
 |1529|555347055|自动|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|Wise Pilgrim Camino Primitivo|
 |1528|1226489119|自动|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|老友记学英语-全十季英语阅读练习英语口语|
-|1527|6754073002|自动|点墨·阅读器助手|點墨·墨水屏助手|點墨·墨水屏助手|點墨·墨水屏助手|DotInk: EInk Assistant|DotInk: EInk Assistant|点墨·阅读器助手|
+|1527|6754073002|自动|点墨·阅读器助手|點墨·墨水屏助手|點墨·墨水屏助手|點墨·墨水屏助手|DotInk: EInk Assistant|DotInk: EInk Assistant|DotInk: EInk Assistant|
 |1526|6740006494|自动|净资产 - 资产跟踪与财务分析工具|净资产 - 资产跟踪与财务分析工具|净资产 - 资产跟踪与财务分析工具|净资产 - 资产跟踪与财务分析工具|Net Worth Tracker - Asset&Debt|Net Worth Tracker - Asset&Debt|净资产 - 资产跟踪与财务分析工具|
 |1525|6746152489|自动|西行乱斗|西行乱斗|西行乱斗|西行乱斗|西行乱斗|西行乱斗|西行乱斗|
 |1524|6742887304|自动|剧能说-听音频练习地道英语口语英语听力|剧能说-听音频练习地道英语口语英语听力|剧能说-听音频练习地道英语口语英语听力|剧能说-听音频练习地道英语口语英语听力|剧能说-老友记&口语&学英语口语英语听力入门|剧能说-老友记&口语&学英语口语英语听力入门|剧能说-听音频练习地道英语口语英语听力|
