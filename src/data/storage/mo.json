@@ -33591,6 +33591,14 @@
     "history": [
       [
         {
+          "timestamp": 1770043842951,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1769877494300,
           "price": 0,
           "formattedPrice": "免費",
@@ -97885,8 +97893,8 @@
       "Clan of the Dragon": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "Winter Bundle": "USD 6.99",
       "Clan of the Eagle": "USD 2.99",
       "Clan of the Rat": "USD 2.95",
@@ -97901,6 +97909,25 @@
       "Clan of the Dragon": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770043842951,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Winter Bundle": "USD 6.99",
+            "Clan of the Eagle": "USD 2.99",
+            "Clan of the Rat": "USD 2.95",
+            "Clan of the Squirrel": "USD 2.99",
+            "Fur Bundle": "USD 6.99",
+            "Scale Bundle": "USD 6.99",
+            "Clan of the Lynx": "USD 2.99",
+            "Clan of the Kraken": "USD 2.99",
+            "Clan of the Ox": "USD 2.99",
+            "Clan of the Horse": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766421315470,
@@ -116659,6 +116686,14 @@
     "history": [
       [
         {
+          "timestamp": 1770043842951,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1769626056418,
           "price": 2.19,
           "formattedPrice": "USD 2.19",
@@ -134500,7 +134535,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc: Sun and Moon Widget",
+    "name": "Solar Arc – Sun & Moon Tracker",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "USD 5.99"
