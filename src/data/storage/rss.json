@@ -8729,17 +8729,17 @@
           "range": "[$0.39 ~ $2.99]"
         }
       ]
-    },
+    }
+  ],
+  "tr": [
     {
-      "artistViewUrl": "https://apps.apple.com/us/developer/colby-maloy/id1438078477?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b8/30/01b830e0-cb1c-f725-3e88-ef85cd876f94/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b8/30/01b830e0-cb1c-f725-3e88-ef85cd876f94/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/tr/developer/playdigious/id1041387229?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": true,
       "features": [
+        "gameCenter",
         "iosUniversal"
-      ],
-      "advisories": [
-        "Infrequent/Mild Realistic Violence",
-        "Infrequent/Mild Mature/Suggestive Themes"
       ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
@@ -8865,86 +8865,110 @@
         "iPadPro13M5-iPadPro13M5",
         "iPadPro13M5Cellular-iPadPro13M5Cellular"
       ],
-      "isGameCenterEnabled": false,
+      "advisories": [
+        "Infrequent/Mild Cartoon or Fantasy Violence"
+      ],
       "kind": "software",
-      "ipadScreenshotUrls": [],
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/60/ef/c460efd8-ce2b-75e0-6f70-e76168de0169/263191c3-3f92-433a-a456-f1ee68f20f54_NG_SN_9DLC_EN_2208x1242px.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3b/75/2a/3b752ad2-2877-a4b7-68c2-0ce4154ce43b/2bb44e29-bf57-4bd1-8443-fbe6c2296a02_1.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/ed/1b/03ed1bdb-6531-3eeb-bf94-f4eecbf18db3/5fbbda2a-4dda-4d52-a029-e40f2d08aca5_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/07/bb/41/07bb4116-adcf-d2a9-3b07-f4c35120ba41/ab759f98-e5f1-4fdb-a5d0-13dad5ca06ed_3.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/5f/ce/a75fce8c-cae2-540c-7a7c-c74223a5ee07/9bfd13d7-b45d-4749-9f6d-f65d0e6b7731_4.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/24/6f/e8/246fe8e5-3136-6a40-0359-85f3eb26b360/cfc0c4f2-8313-4750-90a2-82eb5bab33cc_5.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6c/f3/f3/6cf3f3e9-894c-cb54-64f1-2e8edfd62524/f9ea42eb-03f5-4727-b210-4b4c5ee949fa_6_U00285.5_U0029.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/86/1e/db861e48-c43d-62d9-0ccb-4bd2840d3a6e/92810517-a191-4010-a496-51cd095a3c5c_7.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4a/f2/a1/4af2a1e6-f33f-32c2-f29b-9eb48cc17f3e/bf60db00-e303-452e-874e-af90d49746e0_8.jpg/406x228bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/48/dc/a6/48dca63c-79b4-ff0a-3eac-379cca763290/e7968081-9c38-4344-adb2-6e5d527333e5_NG_SN_9DLC_EN_2732x2048px.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b8/97/81/b8978180-f05e-49c2-d3ca-d9c7705222d7/ef4f6a6f-8875-45f3-82f3-2e4eb4bb8f76_1.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/d6/3b/0f/d63b0f1f-3cd0-7fa9-13cf-1ca3cce6bb9c/34574b48-ac60-42de-a9c7-fbc7b3fdeffd_2.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/7a/0c/387a0cda-7dd8-607f-8619-af1aba54790a/e7075d6a-7711-4d17-ac76-5faa841fac2b_4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e2/ec/09/e2ec096d-1630-cd2c-64b9-5b02d18ea438/9846d9ef-5d57-453a-85c7-b17618147abf_6.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ae/62/6b/ae626b30-0990-2d08-33f8-180db4568767/4af64a95-6a04-4c82-b5ba-641bd0babf77_7.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/fb/43/c2/fb43c2e7-a7b3-df3d-5f64-862d4810cb3d/1aaf0286-806b-4c6b-ad7c-8bee203550da_8.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/0c/17/610c1749-6c98-1535-caee-1c740c4e90d3/e80fd7d7-90f6-4690-8503-01403b32c93d_9.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ea/cd/a4/eacda4f3-9aba-8942-7790-bccdc3d339b8/4ac8b13b-0254-4cc8-a7ce-d31984aecc97_10.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/1e/72/7d/1e727d4a-a637-3948-8e46-f715718c3125/250cc8d6-f21a-414f-add8-e0b934db1ece_11.png/552x414bb.png"
+      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/01/b8/30/01b830e0-cb1c-f725-3e88-ef85cd876f94/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [],
-      "minimumOsVersion": "13.0",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "averageUserRating": 3.4977,
-      "trackCensoredName": "Raiders Map",
-      "trackViewUrl": "https://apps.apple.com/us/app/raiders-map/id6755290585?uo=4",
-      "contentAdvisoryRating": "12+",
-      "sellerName": "Colby Maloy",
-      "price": 0,
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "Northgard",
+      "trackViewUrl": "https://apps.apple.com/tr/app/northgard/id1533979882?uo=4",
+      "contentAdvisoryRating": "9+",
+      "averageUserRating": 4.60123,
+      "artistId": 1041387229,
+      "artistName": "Playdigious",
+      "bundleId": "com.playdigious.northgard",
+      "trackId": 1533979882,
+      "trackName": "Northgard",
       "genreIds": [
-        "6006",
-        "6002"
+        "6014",
+        "7017",
+        "7014"
       ],
-      "bundleId": "app.arcraidersmaps",
-      "primaryGenreName": "Reference",
-      "primaryGenreId": 6006,
-      "releaseNotes": "add trials",
+      "releaseDate": "2021-04-13T07:00:00Z",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "sellerName": "Playdigious",
       "isVppDeviceBasedLicensingEnabled": true,
-      "trackId": 6755290585,
-      "trackName": "Raiders Map",
-      "currentVersionReleaseDate": "2026-01-30T12:38:09Z",
-      "version": "1.10.8",
+      "currentVersionReleaseDate": "2024-06-17T11:55:50Z",
+      "releaseNotes": "Fix an issue with saves taking a lot of space",
+      "version": "2.2.4",
       "wrapperType": "software",
-      "currency": "USD",
-      "description": "All in one app for an Interactive Map, Loot locations, Material list and breakdown list, Enemy drop list, guides and quest-line guides.\n\n- Interactive Maps\n- Sort and Filter\n- Event Timers and Notifications\n- Guides for Quests\n\nGuides and Maps are partially available for free, but a Pro membership is required to access all content\n\nRaiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through discord.\n\n\nNot affiliated with embark. Raiders Map is independently owned and managed. \n\napple standard EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
-      "averageUserRatingForCurrentVersion": 3.4977,
-      "fileSizeBytes": "89819136",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 217,
-      "trackContentRating": "12+",
-      "sellerUrl": "https://arcraidersmap.app",
-      "genres": [
-        "Reference",
-        "Utilities"
+      "currency": "TRY",
+      "description": "Northgard is a strategy game based on Norse mythology in which you control a Clan of Vikings fighting for the control of a mysterious newfound continent.\n\nAfter years of tireless explorations, brave Vikings have discovered a new land filled with mystery, danger and riches: NORTHGARD.\n\nThe boldest Northmen have set sail to explore and conquer these new shores, bring fame to their Clan and write history through conquest, trading, or devotion to the Gods.\n\nThat is, if they can survive the dire Wolves and Undead Warriors roaming the land, befriend or defeat the giants, and survive the harshest winters ever witnessed in the North.\n\nFEATURES\n• Build your settlement on the newly discovered continent of Northgard\n• Assign your vikings to various jobs (Farmer, Warrior, Sailor, Loremaster...)\n• Manage your resources carefully and survive harsh winters and vicious foes\n• Expand and discover new territory with unique strategic opportunities\n• Achieve different victory conditions (Conquest, Fame, Lore, Trading...)\n\nSTORY MODE: RIG’S SAGA\nThe Viking High King is murdered and his Regal Horn is stolen by a man named Hagen.\nThis event kickstarts a saga that will take Rig, his son and heir accompanied by his right-hand man Brand through the new continent of Northgard.\nThe continent where he will make new friends and foes and discover a much greater threat than Hagen, and the reasons behind his father’s assassination.\n\nMULTIPLAYER\n• Play with or against other Mobile players with up to 6 players\n• Includes Duel, Free for All and Teamplay modes\n\nCHOOSE YOUR CLAN\nIn order to complete the 11 campaign chapters, the player will have to master the specificities of the 6 first clans and tame the unforgiving wilderness of Northgard.\n\nMore clans are joining the fight for Northgard!\n• Clan of the Snake: Act from the shadows and take the lead with cunning guerilla tactics\n• Clan of the Dragon: Embrace the old ways and please the gods with sacrifices\n• Clan of the Kraken: Harness the bounty of the sea and unleash its brutal might\nYou can unlock the clans of the Snake, Dragon and Kraken separately by buying the DLCs, or together with the Scale Bundle.\n\n• Clan of the Horse: Devote yourself to the art of blacksmithing and craft powerful Relics\n• Clan of the Ox: Equip ancestral equipment and prove the might of your forefathers\n• Clan of the Lynx: Adopt Nature’s way and lure mythical preys into ambushes\nYou can unlock the Clans of the Horse, Ox and Lynx separately by buying the DLCs, or together with the Fur Bundle.\n\n• Clan of the Squirrel: Gather ingredients to prepare special recipes and survive the harsh winters\n• Clan of the Rat: Embrace the way of the Shamans and work for the clan\n• Clan of the Eagle: Occupy a large territory, venture outside and gather resources\nUnlock the clans of the Squirrel, Rat and Eagle separately by buying the DLCs, or together with the Winter Bundle.\n\n\nCarefully redesigned for mobile\n• Revamped interface\n• Game Center achievements\n• iCloud - Share your progress between iOS devices\n\nIf you experience any issue with Northgard, please contact our customer support at support@playdigious.mail.helpshift.com and give us as much as possible information on your problem.",
+      "userRatingCountForCurrentVersion": 163,
+      "minimumOsVersion": "13.6",
+      "languageCodesISO2A": [
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "KO",
+        "PL",
+        "PT",
+        "RU",
+        "ES",
+        "TR"
       ],
-      "artistId": 1438078477,
-      "artistName": "Colby Maloy",
-      "releaseDate": "2025-11-15T08:00:00Z",
-      "userRatingCount": 217,
+      "fileSizeBytes": "935410688",
+      "formattedPrice": "₺149,99",
+      "trackContentRating": "9+",
+      "sellerUrl": "https://northgard.net/",
+      "averageUserRatingForCurrentVersion": 4.60123,
+      "genres": [
+        "Games",
+        "Strategy",
+        "Role-Playing"
+      ],
+      "price": 149.99,
+      "userRatingCount": 163,
       "inAppPurchases": {
-        "Raider Mk. 2": "$8.99",
-        "Raider Mk. 3": "$12.99",
-        "Raider Mk. 1": "$0.99",
-        "Raider Weekly": "$1.99"
+        "Clan of the Lynx": "₺149,99",
+        "Scale Bundle": "₺399,99",
+        "Clan of the Dragon": "₺149,99",
+        "Clan of the snake": "₺149,99",
+        "Fur Bundle": "₺399,99",
+        "Clan of the Horse": "₺149,99",
+        "Clan of the Ox": "₺149,99",
+        "Winter Bundle": "₺399,99",
+        "Clan of the Kraken": "₺149,99",
+        "Clan of the Eagle": "₺99,99"
       },
       "inAppPurchasesTimes": 1,
-      "timestamp": 1769805543284,
+      "timestamp": 1770086782694,
       "discounts": [
         {
-          "type": "inAppPurchase",
-          "name": "Raider Mk. 2",
-          "from": "$17.99",
-          "to": "$8.99",
-          "range": "[$8.99 ~ $17.99]"
-        },
-        {
-          "type": "inAppPurchase",
-          "name": "Raider Mk. 3",
-          "from": "$29.99",
-          "to": "$12.99",
-          "range": "[$12.99 ~ $29.99]"
-        },
-        {
-          "type": "inAppPurchase",
-          "name": "Raider Mk. 1",
-          "from": "$4.99",
-          "to": "$0.99",
-          "range": "[$0.99 ~ $4.99]"
+          "type": "price",
+          "name": "Price",
+          "from": "₺399,99",
+          "to": "₺149,99",
+          "range": "[₺149,99 ~ ₺399,99]"
         }
       ]
-    }
-  ],
-  "tr": [
+    },
     {
       "artistViewUrl": "https://apps.apple.com/tr/developer/moonscape-technologies-inc/id1808838099?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/a8/ae/72a8aea8-98df-076d-90f7-95d275fb2262/AppIcon-1x_U007epad-0-11-0-85-220-0.png/60x60bb.jpg",
@@ -10398,42 +10422,40 @@
           "range": "[₺49,99 ~ ₺499,99]"
         }
       ]
-    },
+    }
+  ],
+  "pt": [
     {
+      "isGameCenterEnabled": true,
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c4/db/72/c4db72ae-6966-3dea-6345-ebc631252eeb/c0eeb319-7ee6-4783-9165-c79de8b508dc_screenshot_2021_07_30_01_58_27FullHD.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/67/01/6d/67016dd5-3cfd-18b6-7ac7-a5da751bfe74/ecfede19-4b72-4112-9d83-2ad2318b031f_screenshot_2021_07_30_02_20_36FullHD.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/02/6d/0d026d86-277a-17a3-d423-659810be2a5b/5e69ff8c-5a9a-4df8-b9c1-9ee4845dbe09_screenshot_2021_08_02_01_21_14FullHD.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f7/1f/7e/f71f7e73-4005-c7f7-29fc-397e1d124e34/5c17abb4-1468-4eb4-bfb9-bfb63c8157a3_screenshot_2021_08_02_01_57_35FullHD.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/99/0b/09/990b09b5-dee2-a1e5-cb76-63f48caa0e34/391da31f-2564-4470-9e75-ce4cb5858488_screenshot_2021_08_02_02_04_44FullHD.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/04/18/06/04180699-34d8-08ae-339c-6e8b309ce534/09f8f0f7-87aa-47de-8da5-27ab16f72fe9_screenshot_2021_08_02_03_27_42FullHD.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/67/90/4e/67904e28-7359-e237-141c-6967590f42d6/502ced7d-ec6c-4621-8d6a-a8ec60acd029_screenshot_2021_08_02_11_18_56FullHD.png/406x228bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/41/46/48/414648ef-0bac-1055-9cf2-7dc7ed711430/98ececb8-8a8a-461c-9481-34766ec1dc05_screenshot_2021_08_02_11_29_51FullHD.png/406x228bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8f/c7/50/8fc750ef-7057-d585-49f2-2dd325bc5604/22728868-48bb-4bde-a912-d8226947d7ab_NG_SN_9DLC_PT_2208x1242px.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/87/a4/f0/87a4f0c7-b83a-ff61-3113-b22ef6ab9f30/f2d3ede2-5325-4fb7-8ae8-246a9e927a06_1.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/36/82/b6/3682b619-e446-5594-7c19-f554a449a6a3/6333ae79-1c1b-415f-8cd0-fa16db56af7b_5.5_-_2.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cb/25/32/cb2532bf-e60a-301b-a9c8-c44a96d3d5e5/5906fcd6-e7a5-4186-9a1c-554689326358_3.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/70/3c/98/703c9861-4315-5a64-498a-e675795c0d6e/02b3ec36-930e-4cc2-bad2-4c38878d3153_4.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/32/6a/b1326a61-adf5-6a20-e3ed-ac179bccbabf/4f8f6d3e-9c40-4151-8048-da4ed12d116c_5.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/eb/c6/53/ebc6535a-0f85-b8b6-8651-c2081880a955/d4f44daf-6cd3-4cdf-a32c-c0706b79c6c3_6_U00285.5_U0029.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/32/53/e5/3253e5a3-7125-781c-ea4d-3ccb21b38db9/bf290e97-eb0e-46f4-a15e-6fe83e7948ae_7.jpg/406x228bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/95/52/ed/9552ed3b-459d-404d-62ed-5f9843c9bb75/06f33411-687a-462a-b1ba-c66f617e120f_8.jpg/406x228bb.jpg"
       ],
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/94/81/2b/94812b39-1485-a7c3-ba54-e3288f7c560b/d870480f-17dc-4574-835c-ebc7357fb0a7_01.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/11/32/88/11328833-437b-28c7-922c-41cc64a3ad7b/224c3ae3-94c0-4414-89b7-5c2792a3f359_02.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a7/f7/a4/a7f7a4d9-6beb-84bc-c8e2-cb382d3ab639/b84dd720-ce42-482a-b207-45f0b7057f4b_03.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1b/b3/35/1bb33588-14f8-5756-5e48-fd917d09b4be/6d2e4143-66fa-4e88-a3e5-417e5cd167a4_04.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b5/f4/7d/b5f47db8-10f6-10f2-79f4-e47e8e7c4bb0/938bc130-2009-43ea-a616-f39a600906f7_05.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c6/a4/24/c6a4241b-e4af-df76-d450-346278ea7604/3e19b5f5-ce83-41c6-91f2-0ab81277d7a0_06.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7c/42/95/7c4295c0-1583-0636-1c03-cf7dc4cc34ae/0b5d4192-15bc-44a2-9cd7-1e44f7608845_07.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/49/2e/f8/492ef858-bd0e-3003-128d-c0b6cc34a676/7269390a-1257-4735-bd5b-b2feb6bf962a_08.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5e/b0/46/5eb04605-848c-6aec-0464-49bc4779ef71/01687f51-cbac-48bb-ad28-07e96809e8f0_09.png/552x414bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e1/ab/89/e1ab894c-df85-92ab-18c4-d0c90ff86bc3/9890583e-a2dc-4ce3-b9e2-fd78201429c8_10.png/552x414bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/75/6f/b5/756fb5c9-3c5b-2863-1324-e9853b713847/50827a20-8e08-4732-99b0-ba45c8744795_NG_SN_9DLC_PT_2732x2048px.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/33/37/12333702-f9b6-9da8-594b-bafd3d5b1497/216723e2-33cb-4b5b-b9be-b734d6c47056_1.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2b/24/ff/2b24ff94-f0e9-df95-546a-0ae125000705/60b1ba98-4411-4308-aff6-241266b3b384_2.jpg/552x414bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/82/36/7f/82367f62-c228-bbd1-3f30-dc2e058881ca/b44133df-a3f0-4241-9a45-2f1e819f4e42_4.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/25/3c/de/253cde64-64f7-460f-f0ef-c3669dbcfb0c/9fbc4cae-5f33-4775-8c9e-50c20c1f8c6e_6.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8d/d5/66/8dd56614-9478-fff4-8cb8-319c44ed2083/617995fd-1484-438c-8a9c-24f07d371704_7.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ac/d2/53/acd25348-7694-9196-3513-6b0b3ca28282/76f1009c-5a35-460f-b1ae-3fbbbabe201a_8.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/12/2d/77/122d77ea-0022-42cc-b0cc-9d745844e9f3/a2d930c6-bf4c-4ec7-8dd5-957c1fcb60cf_9.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/de/0e/40/de0e4012-0051-fb42-dc70-80a9d353be81/f9ed5b63-6830-48ca-8147-3289602136b8_10.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/77/a9/3577a967-7578-e0e9-a740-fb218db4dde5/4050aca5-d1e1-4701-beca-b754c2081ddf_11.png/552x414bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/19/70/ff197039-0e95-c3f5-b891-2528ca6b48b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/tr/developer/sergey-sukharev/id1179441296?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/19/70/ff197039-0e95-c3f5-b891-2528ca6b48b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/19/70/ff197039-0e95-c3f5-b891-2528ca6b48b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
-      "advisories": [
-        "Infrequent/Mild Cartoon or Fantasy Violence",
-        "Infrequent/Mild Horror/Fear Themes",
-        "Frequent/Intense Realistic Violence"
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "gameCenter",
+        "iosUniversal"
       ],
-      "kind": "software",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -10558,63 +10580,88 @@
         "iPadPro13M5-iPadPro13M5",
         "iPadPro13M5Cellular-iPadPro13M5Cellular"
       ],
-      "features": [
-        "iosUniversal"
+      "advisories": [
+        "Uso pouco frequente/moderado de violência fantástica ou em desenhos animados"
       ],
-      "minimumOsVersion": "12.0",
-      "averageUserRatingForCurrentVersion": 5,
+      "kind": "software",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/26/3b/fc263bdd-ddf7-3b55-62ba-8cb35fbbcf15/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/pt/developer/playdigious/id1041387229?uo=4",
+      "averageUserRatingForCurrentVersion": 4.48571,
       "languageCodesISO2A": [
-        "EN"
+        "EN",
+        "FR",
+        "DE",
+        "IT",
+        "KO",
+        "PL",
+        "PT",
+        "RU",
+        "ES",
+        "TR"
       ],
-      "fileSizeBytes": "1534291968",
-      "formattedPrice": "₺79,99",
-      "userRatingCountForCurrentVersion": 5,
-      "trackContentRating": "17+",
-      "averageUserRating": 5,
-      "trackCensoredName": "Wall of insanity",
-      "trackViewUrl": "https://apps.apple.com/tr/app/wall-of-insanity/id1580067723?uo=4",
-      "contentAdvisoryRating": "17+",
-      "price": 79.99,
+      "fileSizeBytes": "935410688",
+      "formattedPrice": "2,99 €",
+      "trackContentRating": "9+",
+      "userRatingCountForCurrentVersion": 35,
+      "sellerUrl": "https://northgard.net/",
+      "artistId": 1041387229,
+      "artistName": "Playdigious",
       "genres": [
-        "Games",
-        "Action"
+        "Jogos",
+        "Estratégia",
+        "RPG"
       ],
-      "bundleId": "com.VenomizedArt.WallOfInsanity",
-      "releaseNotes": "- Now you can turn on Firts Person Mode (eye icon near healthbar)\n- You can turn on classic camera settings as in game launch version (checkbox in the main menu)",
-      "trackId": 1580067723,
-      "trackName": "Wall of insanity",
-      "releaseDate": "2021-08-18T07:00:00Z",
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
+      "price": 2.99,
+      "trackId": 1533979882,
+      "trackName": "Northgard",
+      "bundleId": "com.playdigious.northgard",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "releaseDate": "2021-04-13T07:00:00Z",
+      "releaseNotes": "Fix an issue with saves taking a lot of space",
       "genreIds": [
         "6014",
-        "7001"
+        "7017",
+        "7014"
       ],
-      "sellerName": "Sergey Sukharev",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2021-10-19T10:21:51Z",
-      "version": "1.3",
+      "currentVersionReleaseDate": "2024-06-17T11:55:50Z",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "version": "2.2.4",
       "wrapperType": "software",
-      "currency": "TRY",
-      "description": "Wall of Insanity is a new project from the creators of the Slaughter game series.\nIt features a dark storyline, intense action, and a mystical journey into a dead, smoldering world.\nYou will face the unknown. A descent into a kingdom of anxiety and madness. The path through the abyss will be difficult, the trek extremely dangerous, and you will be left almost hopeless.\n\n\nStory:\n\nA police operation to detain a dangerous cult's sectarians leads to unexpectedly deadly consequences. That squad vanished under mysterious circumstances, and the Special Unit soldiers sent in to investigate their disappearance find just an empty, abandoned house. This is only where the story begins...\n\n\n\nKey Features:\n\n- Active battles with the use of firearms. Survival depends on caution, reaction speed, and weapon accuracy. Use elements of the environment itself to escape this horrific world.\n\n- A journey to another world where fear, sorrow, and madness rule. A diligently crafted, ominous environment, fraught with mystery and danger, lies ahead of you. How far will you dare to go?\n\n- A plethora of traps and enemies await around every corner. Investigate your surroundings carefully. Don't take unnecessary risks. Study your enemies. Carefully selected tactics will save your ammunition.  And your life.\n\n- Explore the world to replenish and expand your arsenal. Weapons and useful items will be needed.  Look for secrets, documents, and workarounds to prevail against all odds.\n\n- Wall of Insanity features simple controls, gamepad support, good optimization, and a wide graphics customization.",
-      "artistId": 1179441296,
-      "artistName": "Sergey Sukharev",
-      "userRatingCount": 5,
-      "inAppPurchases": {},
+      "currency": "EUR",
+      "description": "Northgard é um jogo de estratégia baseado na mitologia nórdica em que você controla um clã de vikings que lutam pelo controle de um misterioso continente recém-descoberto.\n\nApós anos de explorações incansáveis, os bravos vikings descobriram uma nova terra cheia de mistérios, perigos e riquezas: NORTHGARD.\n\nOs nórdicos mais ousados embarcaram para explorar e conquistar essas novas costas, trazer fama para seu clã e escrever a história por meio de conquistas, comércio ou devoção aos deuses.\n\nIsto é, se eles conseguirem sobreviver aos terríveis lobos e guerreiros mortos-vivos que vagam pela terra, fazer amizade ou derrotar os gigantes e sobreviver aos invernos mais rigorosos já testemunhados no norte.\n\nRECURSOS\n• Monte seu povoado no continente recém-descoberto de Northgard\n• Atribua vários empregos a seus vikings (fazendeiro, guerreiro, marinheiro, mestre historiador...)\n• Gerencie os recursos com cuidado e sobreviva a invernos rigorosos e inimigos cruéis\n• Expanda e descubra novos territórios com oportunidades estratégicas únicas\n• Alcance condições de vitória diferentes (conquista, fama, conhecimento, negociação...)\n\nMODO DE HISTÓRIA: SAGA DE RIG\nO Alto Rei Viking é assassinado e seu chifre real é roubado por um homem chamado Hagen.\nEste evento dá início a uma saga que levará Rig, seu filho e herdeiro, acompanhado pelo braço direito Brand através do novo continente de Northgard.\nO continente onde ele fará novos amigos e inimigos e descobrirá uma ameaça muito maior do que Hagen, além das razões por trás do assassinato do pai.\n\nMULTIJOGADOR\n• Jogue com ou contra outros jogadores em dispositivos móveis. Até 6 jogadores\n• Inclui os modos de duelo, por conta própria e em equipe\n\nESCOLHA O SEU CLÃ\nPara concluir os 11 capítulos da campanha, o jogador terá que dominar as especificidades dos 6 primeiros clãs e domar a selvagem e implacável Northgard.\n\nMais clãs estão se juntando à luta por Northgard!\n• Clã da Cobra: aja das sombras e assuma a liderança com táticas de guerrilha astutas\n• Clã do Dragão: abrace os velhos costumes e agrade aos deuses com sacrifícios\n• Clã do Kraken: aproveite a recompensa do mar e liberte seu poder brutal\nVocê pode desbloquear os clãs da Cobra, do Dragão e do Kraken separadamente comprando os DLCs ou juntos com o Pacote de Pele.\n\n• Clã do Cavalo: dedique-se à arte de ferreiro e crie relíquias poderosas\n• Clã do Boi: use equipamentos ancestrais e comprove o poder dos seus antepassados\n• Clã do Lince: adote o caminho da natureza e atraia presas míticas em emboscadas\nVocê pode desbloquear os clãs do Cavalo, do Boi e do Lince separadamente comprando os DLCs, ou juntos com o Pacote de Pelo.\n\n• Clã do Esquilo: junte ingredientes, prepare receitas especiais e sobreviva aos invernos rigorosos\n• Clã do Rato: abrace o caminho dos xamãs e trabalhe para o clã\n• Clã da Águia: ocupe um grande território, aventure-se por aí e junte recursos\nDesbloqueie os clãs do Esquilo, do Rato e da Águia separadamente comprando os DLCs, ou juntos com o Pacote de Inverno.\n\nReprojetado cuidadosamente para dispositivos móveis\n• Interface renovada\n• Conquistas do Game Center\n• iCloud - Compartilhe o progresso entre dispositivos iOS\n\nComo você honrará seu clã?\n\nSe você tiver qualquer problema com Northgard, entre em contato com nosso atendimento ao cliente em support@playdigious.mail.helpshift.com e forneça o máximo de informações possível sobre o problema.",
+      "minimumOsVersion": "13.6",
+      "trackCensoredName": "Northgard",
+      "trackViewUrl": "https://apps.apple.com/pt/app/northgard/id1533979882?uo=4",
+      "contentAdvisoryRating": "9+",
+      "averageUserRating": 4.48571,
+      "sellerName": "Playdigious",
+      "userRatingCount": 35,
+      "inAppPurchases": {
+        "Pacote de Escamas": "7,99 €",
+        "Clã do Dragão": "2,99 €",
+        "Clã do Lince": "2,99 €",
+        "Clã do Cavalo": "2,99 €",
+        "Clã da Águia": "2,99 €",
+        "Pacote de Peles": "7,99 €",
+        "Clã do Kraken": "2,99 €",
+        "Clã do Boi": "2,99 €",
+        "Clã do Rato": "2,95 €",
+        "Clã da Cobra": "2,99 €"
+      },
       "inAppPurchasesTimes": 1,
-      "timestamp": 1769826908349,
+      "timestamp": 1770086782694,
       "discounts": [
         {
           "type": "price",
           "name": "Price",
-          "from": "₺149,99",
-          "to": "₺79,99",
-          "range": "[₺19,99 ~ ₺149,99]"
+          "from": "8,99 €",
+          "to": "2,99 €",
+          "range": "[2,99 € ~ 8,99 €]"
         }
       ]
-    }
-  ],
-  "pt": [
+    },
     {
       "isGameCenterEnabled": false,
       "screenshotUrls": [
