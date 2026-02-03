@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1726` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1727` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1727|1599622583|Automatic|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|Automatic|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
 |1725|6451352949|Automatic|鱼影 - 手表体感钓鱼|魚影 - 手表體感釣魚|魚影 - 手表體感釣魚|魚影 - 手表體感釣魚|Fishow - Wrist Fishing Sim|Fishow - Wrist Fishing Sim|Fishow - Wrist Fishing Sim|
 |1724|1074661768|Automatic|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
