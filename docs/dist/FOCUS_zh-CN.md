@@ -536,7 +536,7 @@
 |1203|6478287619|自动|❌|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|
 |1202|1321340307|自动|❌|夏日水上樂園物語|夏日水上樂園物語|夏日水上樂園物語|Pool Slide Story|Pool Slide Story|Pool Slide Story|
 |1201|6443694525|自动|❌|修仙掌門人|修仙掌門人|修仙掌門人|修仙掌門人|修仙掌門人|修仙掌門人|
-|1200|1168579372|自动|玄易八字-八字排盘算命国学软件|玄易八字|玄易八字|玄易八字|玄易八字|玄易八字|玄易八字-八字排盘算命国学软件|
+|1200|1168579372|自动|玄易-专业天时子平八字排盘六爻占卜风水罗盘|玄易-專業天時子平八字排盤六爻占蔔風水羅盤|玄易-專業天時子平八字排盤六爻占蔔風水羅盤|玄易-專業天時子平八字排盤六爻占蔔風水羅盤|玄易-专业天时子平八字排盘六爻占卜风水罗盘|玄易-专业天时子平八字排盘六爻占卜风水罗盘|玄易-专业天时子平八字排盘六爻占卜风水罗盘|
 |1199|1368013995|自动|❌|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|
 |1198|1203896014|自动|❌|Freeways|Freeways|Freeways|Freeways|Freeways|Freeways|
 |1197|6448201153|自动|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|
