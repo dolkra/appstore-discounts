@@ -20981,7 +20981,8 @@
       "Main Story Ch. VIII": "9,99 €",
       "Glorious Chorus Challenge Pass": "2,99 €",
       "Expansion Ch. Z": "3,99 €",
-      "Challenge Pass \"Phantasm Feast\"": "2,99 €"
+      "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+      "Challenge Pass \"Retro Fantasia\"": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -20997,9 +20998,29 @@
       "Main Story Ch. VIII": "9,99 €",
       "Glorious Chorus Challenge Pass": "2,99 €",
       "Expansion Ch. Z": "1,99 €",
-      "Challenge Pass \"Phantasm Feast\"": "2,99 €"
+      "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+      "Challenge Pass \"Retro Fantasia\"": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770324117782,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Basic Plan - Monthly": "0,99 €",
+            "Challenge Pass \"Retro Fantasia\"": "2,99 €",
+            "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+            "Expansion Ch. Z": "3,99 €",
+            "Challenge Pass \"Speedcore Overload\"": "2,99 €",
+            "Challenge Pass": "2,99 €",
+            "satella Selection Pass": "2,99 €",
+            "Lanota 9th Anniversary Pass": "3,99 €",
+            "ULTRA BONK Hour Challenge Pass": "2,99 €",
+            "Radiant Star Trail Pass": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768408810996,
@@ -46938,8 +46959,8 @@
   "1612952507": {
     "name": "AeroPads - Pads & Soundscapes",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
+      "price": 8.99,
+      "formattedPrice": "8,99 €",
       "Orbit Pack": "5,99 €",
       "Rocket Science Pack": "5,99 €"
     },
@@ -46950,6 +46971,17 @@
       "Rocket Science Pack": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770324117782,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Orbit Pack": "5,99 €",
+            "Rocket Science Pack": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764641127012,
@@ -63287,7 +63319,8 @@
       "Noir Crime Scene Plum": "1,99 €",
       "Noir Crime Scene Peacock": "1,99 €",
       "Noir Crime Scene Location": "4,99 €",
-      "Legacy Suspect Pack": "14,99 €"
+      "Legacy Suspect Pack": "14,99 €",
+      "Welcome Offer": "19,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -63306,10 +63339,28 @@
       "Noir Crime Scene Plum": "1,99 €",
       "Noir Crime Scene Peacock": "1,99 €",
       "Noir Crime Scene Location": "4,99 €",
-      "Legacy Suspect Pack": "7,99 €"
+      "Legacy Suspect Pack": "7,99 €",
+      "Welcome Offer": "19,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1770324117782,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Cluedo 2 Epic Crime Collection": "34,99 €",
+            "2016 Edition Character Pack": "14,99 €",
+            "Black Adder Resort Bundle": "12,99 €",
+            "PolarStation CrimeScene Bundle": "12,99 €",
+            "BlackAdder Case File Revisited": "2,99 €",
+            "Welcome Offer": "19,99 €",
+            "Legacy Suspect Pack": "14,99 €",
+            "Suspects Bundle": "29,99 €",
+            "Ultimate Edition": "39,99 €",
+            "PolarStation Crime SceneBundle": "4,99 €"
+          }
+        },
         {
           "timestamp": 1770288703754,
           "price": 4.99,
