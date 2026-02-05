@@ -64077,16 +64077,26 @@
   "6455495086": {
     "name": "3D Pinball Space Cadet",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "Remove Ads": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Remove Ads": "2,99 €"
+      "Remove Ads": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770303146662,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Remove Ads": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770151664299,
