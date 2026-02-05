@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1732` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1734` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1734|972927324|Automatic|❌|SweetRing Pro|SweetRing Pro|SweetRing Pro|SweetRing Pro|❌|❌|
+|1733|1437282350|Automatic|Clear Fear|Clear Fear|Clear Fear|Clear Fear|Clear Fear|Clear Fear|Clear Fear|
 |1732|335454448|Automatic|❌|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|
 |1731|6744179489|Automatic|❌|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Soccer|Referee Simulator : Football|Referee Simulator : Football|
 |1730|6572290447|Automatic|❌|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|Backpack Battles|
@@ -924,7 +926,7 @@ So far, we've covered `7` `Countries or Regions` and  `1732` `Apps` <br />Push n
 |818|6444435974|Automatic|❌|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|VARIOUS DAYLIFE Mobile|
 |817|755018884|Automatic|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|❌|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|新概念英语专业版 - 英语美语全四册|
 |816|1319618742|Automatic|❌|Getting Over It|Getting Over It|Getting Over It|Getting Over It|Getting Over It|Getting Over It|
-|815|1423115391|Automatic|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2025 GOLD|Führerschein 2025 GOLD|Führerschein 2026 GOLD|
+|815|1423115391|Automatic|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|Führerschein 2026 GOLD|
 |814|6474207287|Automatic|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|Automatic|J23 - 发布日期和补货|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Datas de Lançamento|
 |812|1108935309|Automatic|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
