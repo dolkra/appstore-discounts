@@ -13793,6 +13793,14 @@
     "history": [
       [
         {
+          "timestamp": 1770345791146,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1766196170575,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -15946,7 +15954,10 @@
       "6 Mo.Remover anúncios": "9,99 €",
       "3 Mo.Remover anúncios": "5,99 €",
       "1 Mo.Remover anúncios": "2,99 €",
-      "12 Mo.Fongo Plus": "99,99 €"
+      "12 Mo.Fongo Plus": "99,99 €",
+      "$20 Crédito": "22,99 €",
+      "$50 Crédito": "59,99 €",
+      "6 Mo.texto globais": "17,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -15969,9 +15980,31 @@
       "6 Mo.Remover anúncios": "9,99 €",
       "3 Mo.Remover anúncios": "5,99 €",
       "1 Mo.Remover anúncios": "2,99 €",
-      "12 Mo.Fongo Plus": "99,99 €"
+      "12 Mo.Fongo Plus": "99,99 €",
+      "$20 Crédito": "22,99 €",
+      "$50 Crédito": "59,99 €",
+      "6 Mo.texto globais": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770345791146,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "$20 Crédito": "22,99 €",
+            "$5 Crédito": "5,99 €",
+            "$50 Crédito": "59,99 €",
+            "1 Mo.texto Canadá": "2,99 €",
+            "3 Mo.texto Canadá": "5,99 €",
+            "6 Mo.texto Canadá": "9,99 €",
+            "1 Mo. texto globais": "3,99 €",
+            "3 Mo.texto globais": "9,99 €",
+            "6 Mo.texto globais": "17,99 €",
+            "1 Mo.Fongo Plus": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766867382926,
@@ -27815,6 +27848,24 @@
       "Tower Grim Cemetery": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770345791146,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Hammerhold Campaign!": "8,99 €",
+            "Pirate Kings Campaign!": "9,99 €",
+            "Hero Beresad": "7,99 €",
+            "Barrel of gems": "9,99 €",
+            "Mega Tower Bundle": "17,99 €",
+            "Handful of gems": "2,99 €",
+            "Tower Blazing Gem": "5,99 €",
+            "Pouch of gems": "5,99 €",
+            "Mega Heroe Bundle": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769740812813,
@@ -45805,6 +45856,14 @@
     "history": [
       [
         {
+          "timestamp": 1770345791146,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767838343014,
           "price": 1.69,
           "formattedPrice": "1,69 €",
@@ -48658,6 +48717,25 @@
       "Smelting Pack": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770345791146,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Season Pass": "7,99 €",
+            "Nurse Pack": "5,99 €",
+            "Unlock Beholder": "2,99 €",
+            "Unlock Gumiho": "2,99 €",
+            "Season 3 Battle Pass": "1,99 €",
+            "Uniform Pack": "3,99 €",
+            "Unlock Baphomet": "2,99 €",
+            "Season 2 Battle Pass": "1,99 €",
+            "Monster Pack 2": "34,99 €",
+            "Info Pack": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768654449332,
