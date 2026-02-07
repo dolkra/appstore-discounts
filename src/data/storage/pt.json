@@ -23207,6 +23207,23 @@
     "history": [
       [
         {
+          "timestamp": 1770460521476,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "20,000 points": "0,99 €",
+            "63,000 points": "2,99 €",
+            "500,000 points": "9,99 €",
+            "176,000 points": "8,99 €",
+            "100,000 points": "2,99 €",
+            "25,000 points": "0,99 €",
+            "225,000 points": "9,99 €",
+            "345,000 points": "17,99 €",
+            "300,000 points": "8,99 €",
+            "7,000,000 points": "89,99 €"
+          }
+        },
+        {
           "timestamp": 1770453650630,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -36438,7 +36455,9 @@
       "New York Ultimate Theme Sale": "9,99 €",
       "Monstropolis Ultimate Theme Sale": "9,99 €",
       "Atlantis Ultimate Theme Sale": "9,99 €",
-      "Atlantic City Ultimate Theme Sale": "9,99 €"
+      "Atlantic City Ultimate Theme Sale": "9,99 €",
+      "Stormwing Token": "9,99 €",
+      "Cannon Token": "2,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -36521,10 +36540,29 @@
       "New York Ultimate Theme Sale": "9,99 €",
       "Monstropolis Ultimate Theme Sale": "9,99 €",
       "Atlantis Ultimate Theme Sale": "9,99 €",
-      "Atlantic City Ultimate Theme Sale": "9,99 €"
+      "Atlantic City Ultimate Theme Sale": "9,99 €",
+      "Stormwing Token": "9,99 €",
+      "Cannon Token": "2,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1770460521476,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Stormwing Token": "9,99 €",
+            "Cannon Token": "2,99 €",
+            "The Complete Collection": "39,99 €",
+            "Big Cities USA Explorer Pack": "2,99 €",
+            "Euro Trip": "3,99 €",
+            "Welcome Offer": "19,99 €",
+            "Atlantic City Dice": "4,99 €",
+            "Enchanted Forest Token Wizard": "2,99 €",
+            "New York 2121 Board": "6,99 €"
+          }
+        },
         {
           "timestamp": 1770453650630,
           "price": 4.99,
