@@ -409,7 +409,7 @@
 |1337|446760220|自动|❌|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|FINAL FANTASY TACTICS :WotL|
 |1336|1067575393|自动|照片橡皮擦 - 去除水印杂物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|照片橡皮擦 - 去除水印雜物多余人物|Image Eraser - Inpaint & heal|Image Eraser - Inpaint & heal|Image Eraser - Inpaint & heal|
 |1335|311768443|自动|❌|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|Monkey Flight|
-|1334|453126527|自动|德比抽识卡 - 乐谱抽识卡！|德比抽識卡 - 樂譜抽識卡！|德比抽識卡 - 樂譜抽識卡！|Flashnote Derby 識譜競速|Flashnote Derby|Flashnote Derby|Flashnote Derby|
+|1334|453126527|自动|Flashnote Derby 识谱竞速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby 識譜競速|Flashnote Derby|Flashnote Derby|Flashnote Derby|
 |1333|1236657805|自动|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|Cube CFOP|❌|
 |1332|657638474|自动|❌|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot|
 |1331|465810912|自动|计算器HD+专业版|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculadora HD+ PRO|
