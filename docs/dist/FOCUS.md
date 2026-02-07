@@ -1155,7 +1155,7 @@ So far, we've covered `7` `Countries or Regions` and  `1737` `Apps` <br />Push n
 |592|6480251529|Automatic|体育集换卡制作专业版|體育集換卡製作專業版|體育集換卡製作專業版|體育集換卡製作專業版|Ultimate Card Creator|Ultimate Card Creator|Criador de cartões esportivos|
 |591|6739179322|Automatic|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|WristShorts for YouTube|
 |590|6744837914|Automatic|块块爱消除-手表游戏经典快乐休闲益智|塊塊愛消除-手錶遊戲經典快樂休閒益智|塊塊愛消除-手錶遊戲經典快樂休閒益智|塊塊愛消除-手錶遊戲經典快樂休閒益智|Block Jam Blast For Watch|Block Jam Blast For Watch|Block Jam Blast For Watch|
-|589|6502623166|Automatic|❌|金武江湖|金武江湖|金武江湖|金武江湖|金武江湖|金武江湖|
+|589|6502623166|Automatic|❌|金武江湖|金武江湖|金武江湖|金武江湖|金武江湖|金武江湖 - 單機金庸群俠傳復刻|
 |588|6468033830|Automatic|❌|憶我: 一個性格測試遊戲|憶我: 一個性格測試遊戲|憶我: 一個性格測試遊戲|Refind Self|Refind Self|Refind Self|
 |587|6738138603|Automatic|❌|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|
 |586|6739185971|Automatic|❌|❌|❌|❌|Earnifi: Rent, Early Pay, Cash|❌|❌|
