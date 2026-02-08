@@ -36800,7 +36800,8 @@
       "Atlantis Ultimate Theme Sale": "9,99 €",
       "Atlantic City Ultimate Theme Sale": "9,99 €",
       "Stormwing Token": "9,99 €",
-      "Cannon Token": "2,99 €"
+      "Cannon Token": "2,99 €",
+      "VIP Offer": "19,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -36885,9 +36886,29 @@
       "Atlantis Ultimate Theme Sale": "9,99 €",
       "Atlantic City Ultimate Theme Sale": "9,99 €",
       "Stormwing Token": "9,99 €",
-      "Cannon Token": "2,99 €"
+      "Cannon Token": "2,99 €",
+      "VIP Offer": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770576536157,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Welcome Offer": "19,99 €",
+            "Stormwing Token": "9,99 €",
+            "VIP Offer": "19,99 €",
+            "The Complete Collection": "39,99 €",
+            "Cannon Token": "2,99 €",
+            "Big Cities USA Explorer Pack": "2,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Atlantic City Dice": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770460521476,
@@ -40514,7 +40535,7 @@
     ]
   },
   "1519386476": {
-    "name": "MiniGames - Arcade de Jogos",
+    "name": "MiniJogos para Watch",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
