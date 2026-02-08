@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-02-07T11:48:13.129Z</updated>
+    <updated>2026-02-08T08:14:09.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-07T11:48:13.129Z</updated>
+        <updated>2026-02-08T08:14:09.890Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSat, 07 Feb 2026 11:48:13 GMT</id>
+        <id>rankingusSun, 08 Feb 2026 08:14:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-07T11:48:13.129Z</updated>
+        <updated>2026-02-08T08:14:09.891Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1736</b>
+        <b>1738</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1535</b>
+        <b>1537</b>
       </td>
       <td>
         <b>76</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1600</b>
+        <b>1602</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1424</b>
+        <b>1426</b>
       </td>
       <td>
         <b>60</b>
@@ -112,14 +112,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
+        <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Pro Tier 2</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -129,7 +135,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id646256209">Photo Eraser for iPhone</a>
+        <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
       </td>
       <td>
         <ul>
@@ -146,7 +152,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/us/app/id646256209">Photo Eraser for iPhone</a>
       </td>
       <td>
         <ul>
@@ -161,6 +167,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>5</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -183,7 +206,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -200,7 +223,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1001096601">1941 Frozen Front Premium</a>
@@ -217,7 +240,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
@@ -234,7 +257,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1422480068">Notes Writer Pro 2026</a>
@@ -251,7 +274,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512838461">DayCircle - Day counter</a>
@@ -268,7 +291,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1533979882">Northgard</a>
@@ -285,7 +308,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537362903">Neighbours back From Hell</a>
@@ -302,7 +325,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1551273147">Otter - Food & Meal Diary</a>
@@ -319,7 +342,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1574175808">Specimen Zero - Horror</a>
@@ -336,7 +359,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592505377">Wreckfest</a>
@@ -353,7 +376,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592854410">Island Story: 100 Days</a>
@@ -370,7 +393,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -387,7 +410,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
@@ -404,7 +427,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6504453094">Black Border 2</a>
@@ -421,7 +444,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6745099872">Demumu: Are You Dead?</a>
@@ -438,7 +461,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6478639011">Subnautica</a>
@@ -455,7 +478,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6455495086">3D Pinball Space Cadet</a>
@@ -478,7 +501,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447508479">Warm Snow</a>
@@ -1053,6 +1076,94 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RadarScope]]></title>
+        <id>RadarScope-us-1770534054816</id>
+        <link href="https://apps.apple.com/us/app/radarscope/id288419283?uo=4"/>
+        <updated>2026-02-08T07:00:54.816Z</updated>
+        <summary type="html"><![CDATA[Pro Tier 2: $99.99 → $14.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/radarscope/id288419283?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/ed/17/fbed17a7-a5f9-d57b-44fa-ec67fde4b53c/App_Icon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Pro Tier 2：</strong><span>$99.99</span> → <b>
+  <strong>$14.99</strong>
+</b><span>[$14.99 ~ $99.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$9.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Pro Tier 2：<b>$14.99</b>
+  </li><li>
+    Pro Tier 1：<b>$9.99</b>
+  </li><li>
+    RadarScope Pro Subscription：<b>$9.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  RadarScope is an AMS-award-winning weather visualization tool that empowers meteorologists, public safety officials, storm spotters, and weather enthusiasts to view a full suite of single-site radar data and related severe weather products. Your initial purchase provides professional radar visualization in a fully native app, free from distracting and invasive practices, with optional subscription packages to add even more capabilities.
+
+Whether you’re scanning for a mesocyclone’s tell-tale hook echo, pinpointing the landfall of a hurricane’s eye wall, or identifying velocity couplet, hail spike, or debris ball signatures, RadarScope displays native radar data in its original radial format. You see what the radar sees almost as soon as the radar sees it, with automatic updates every two to ten minutes depending on the radar’s scanning strategy.
+
+Your initial app purchase includes the following:
+
+• Full suite of single-site radar products for the US, Canada, Guam, Denmark, Finland, and Germany
+• 6-frame radar loops
+• Two built-in providers for radar data
+• Tornado, thunderstorm, flash flood, marine, snow squall, extreme wind, tropical, and other warnings in the US
+• Selected severe weather warnings in Canada and Australia
+• NWS-generated storm tracks with hail, TVS, and mesocyclone attributes
+• Inspector and distance tools
+• Color palette options for radar data
+• AllisonHouse data plan integration
+• Spotter Network integration for storm and location reporting
+• mPING integration for submitting weather reports to NSSL
+• Bundled maps with political boundaries, water bodies, and major highways, optimized for low-bandwidth use
+• Support for widgets and complications
+• Universal app for Apple platforms, including Apple Watch and Apple TV
+• Family Sharing support
+
+RadarScope Pro Tier One is an optional annual subscription that adds more features for tracking severe weather:
+
+• 30-frame radar loops
+• Cloud-to-ground lightning strikes
+• Severe weather watches in the US and Canada
+• Special weather statements in the US and Canada
+• Mesoscale convective and precipitation discussions
+• SPC convective, tornado, hail, wind, and fire outlooks
+• WPC excessive rainfall outlooks in the US
+• Local storm reports in the US
+• Custom color palette support
+• Multi-pane display (2 on phones; 4 on larger devices)
+• Family Sharing support
+
+RadarScope Pro Tier Two is an optional annual or monthly subscription that transforms RadarScope into a more complete visualization tool for a larger suite of weather products, including:
+
+• Everything in Pro Tier One
+• 50-frame radar loops
+• A third provider for US radar data
+• NEXRAD Level II radar data for the US with a 30-year historical archive
+• Historical NEXRAD Level III, super-res, and non-US radar data with a 30-day archive
+• Historical NWS bulletins with a 19-year archive
+• GOES East and GOES West satellite products
+• NSSL’s Multi-Radar Multi-Sensor (MRMS) products
+• NCEP’s Real-Time Mesoscale Assimilation (RTMA) products
+• Surface observations
+• Atmospheric soundings in the US
+• Hail size, hail probability, and azimuthal shear contours with a 30-day archive
+• More detailed transportation and satellite imagery maps
+• Custom color palette support for GOES, MRMS, and RTMA
+• Server-sent events for radar and warning updates
+• Cross-platform subscription sharing on up to 5 devices
+• Family sharing support
+
+If you choose to buy a RadarScope Pro subscription, it will be charged to your App Store account. The subscription will be auto-renewed within 24 hours prior to the end of the current period at the same price you originally paid. Subscriptions may be managed and auto-renewal disabled via your App Store account settings after the purchase. Once purchased, the subscription cannot be canceled during the active subscription period.
+
+DTN is committed to safeguarding your privacy online. Our privacy policy is available for review at https://www.dtn.com/privacy-policy/
+
+Please visit our web site for more information.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/4a/fa/ab4afae8-b54c-2126-44b7-fc7e6f7b4117/612b49b8-dfe5-421a-a40c-558f50bde688_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5c/c7/ff/5cc7ffe5-125f-522b-0cd1-a9183efcc6d9/abc10a84-ca49-40e8-9eb7-727d8271c219_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/81/38/b1/8138b122-21d5-1d45-41fa-c489e644750a/310b46ff-11fc-44cb-8a38-e283b484af26_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b7/78/f5/b778f566-a6ca-edc4-9959-76480a354d39/c346c1a5-a2ec-441a-84bb-bd66f240580b_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c0/e3/84/c0e384c5-152e-f6f5-de12-8d7fbcb40196/88f8e77d-1290-4657-95de-791cac929e38_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/f5/41/a9f541aa-9770-959e-d878-b64bca761bcf/cd127d84-ea55-492a-b1c3-d6deaa848031_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3f/a0/89/3fa089e3-85cb-2fd1-7330-08f1cd91e45a/50ec7899-c74a-40d7-b93b-631412784af8_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/f1/9a/93f19a49-ff0c-d27a-f878-c035582c6763/cd366ced-2636-41de-9dcb-038226865e53_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/6e/b0/c56eb09b-3682-b3f9-9bf6-2273ff108379/c6810a57-5ed0-4ba0-988a-d4bb68a93466_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/09/bc/3909bc98-60c1-6427-fc9e-5e07ffaebe2f/48cd840b-4422-4dc4-9382-457919e6b0d3_10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/71/f0/f571f0b9-94e1-f76e-e54b-5f56839606bd/ecfe811e-d7e0-485a-b641-88bdf5499e14_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/88/64/8b886468-c3e8-6f4b-7ead-21a2f484d668/be671848-cd70-4872-b745-9e3ec7968809_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/b0/7c/7ab07c6c-e018-43bd-b7ac-fe06a6fc0d68/c1cb58aa-6989-43ef-9b8c-3b92113befa8_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ac/b8/f3/acb8f344-9f48-8a59-a580-b20deda4b223/18d4646f-71eb-4f5d-a863-30e1483e0a41_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/20/de/8520de87-7530-eb7e-ca0a-142a07a28853/a9bfa200-8b73-413e-bdf2-40045640fa0f_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0f/a1/46/0fa14649-3e81-a39f-584e-6e8afaf4e3fc/8f38906c-04e7-43cd-8d9e-879bdfa1cb31_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/24/cd/ea24cdaf-c5b6-989e-5410-ede496af2856/a4694527-0b84-4034-a551-f248f1418864_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/10/2c/e3102c6e-f089-30cc-d5aa-6b454874b2cb/a08bfcb1-0476-48d1-a104-7222ed4264f5_8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/81/be/cc/81becccf-6d3c-84fb-076a-a371d8060bab/68c5f44c-2db4-4dc7-a3a2-6eecfff704c9_9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/e9/bb/bbe9bbe4-6ec3-d984-5ff2-3b02ed6566d0/593d4c7e-f0f2-4dc3-8844-a6007964bf4e_10.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[生辰 — 桌面时间小组件]]></title>
         <id>生辰 — 桌面时间小组件-us-1770460521476</id>
         <link href="https://apps.apple.com/us/app/%E7%94%9F%E8%BE%B0-%E6%A1%8C%E9%9D%A2%E6%97%B6%E9%97%B4%E5%B0%8F%E7%BB%84%E4%BB%B6/id966489322?uo=4"/>
@@ -1544,257 +1655,5 @@ YouTube: https://www.youtube.com/@warmsnow6951
     Remove Ads：<b>$0.00</b>
   </li>
 </ul><h2>Application Description</h2><p>The table features the player as a member of a space fleet that completes missions to increase rank. Players can attain nine different ranks (listed from lowest to highest): Cadet, Ensign, Lieutenant, Captain, LT Commander, Commander, Commodore, Admiral, and Fleet Admiral. Players accept a mission by hitting "mission targets" which select which mission they will take, and by going up the "launch ramp". Each mission has a set number of things for players to do, such as hitting the "attack bumpers" (which are a set of four bumpers at the top of the table) eight times (this is the "target practice" mission). Some missions involve a number of steps which must be completed in sequence. Missions end either by being completed, or by being aborted due to running out of "fuel", as indicated by the lights in the passage that passes under the launch ramp. The "fuel" lights go out one by one at a time interval, and can be re-lit by having the ball go over them, or all at once by going up the launch ramp again. Upon completing a mission, some of the blue lights in a circle in the middle of the table turn on. When all of the lights in the blue circle turn on, the player's rank increases, and a light in the orange circle turns on.</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/a9/79/c4a97943-9d7f-e08b-a41d-fdcc19ca3f98/9253eec4-10a2-4b0d-b733-112971cf4ffd_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.33.54.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0b/9f/02/0b9f0248-8f67-a26e-5324-6690a5d5f0cc/c50d9c5b-a981-4259-b235-323033181724_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.10.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d4/cb/2a/d4cb2a62-858b-ce76-93be-8eb27c08de65/f99d0787-d433-44c4-8de5-2ac92f30e9d0_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.16.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/61/da/3c61dacd-f025-6b17-9535-3b029360a4b9/8c5fadd3-b10c-4985-a5b0-2e15d6a8dc96_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.19.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/65/21/f4/6521f4ee-f23b-5b73-ed07-f0a0a98e248d/1e68d75b-a9cb-4853-b81d-f8973957e4e3_Simulator_Screenshot_-_iphone_8_plus_-_2023-07-31_at_23.35.22.png/406x228bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1941 Frozen Front Premium]]></title>
-        <id>1941 Frozen Front Premium-us-1770268773657</id>
-        <link href="https://apps.apple.com/us/app/1941-frozen-front-premium/id1001096601?uo=4"/>
-        <updated>2026-02-05T05:19:33.657Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/1941-frozen-front-premium/id1001096601?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9d/ca/56/9dca56ae-8e1e-cd44-041f-587b8264b960/AppIcon-0-0-1x_U007emarketing-0-4-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    60,000 Gold：<b>$9.99</b>
-  </li><li>
-    25,000 Gold：<b>$4.99</b>
-  </li><li>
-    125,000 Gold：<b>$18.99</b>
-  </li><li>
-    700,000 Gold：<b>$89.99</b>
-  </li><li>
-    325,000 Gold：<b>$45.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Lead German forces on the rise towards the East or defend mother Russia on the Soviet side. Choose the right tactic of warfare and earn your stripes as an ingenious Commander at the FROZEN FRONT!
-
-Experience mind-blowing World War 2 battles in the brilliant new military STRATEGY-sim by HandyGames™!
-
-MISSION BRIEFING
-
-FIGHT through the bone-chilling cold of the 1941 Eastern Front!
-COMBAT enemy positions with tanks and infantry!
-SHOOT hostile headquarters with mighty bomber wings!
-EMPLACE your artillery in rough terrain!
-SUPPLY your army with goods and ammunition!
-DEFEND yourself against superior numbers of enemies!
-
-- PLAY WITHOUT ADS!
-- Turn-based strategy action in WW2
-- Thrilling campaigns and challenging missions
-- Hot-Hand multiplayer battles
-- Historical German and Soviet units
-- Repairs, camouflage and fortification of units during the battles
-- Infantry, artillery, tanks and warplanes for both fractions
-- Hex grid for the best overview possible
-- Detailed graphics and super-realistic sounds
-
-Thank you for playing 1941 Frozen Front!
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/30/4e/2b/304e2bb7-4bc9-f1f5-3cff-17d7a297bba9/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/23/85/182385c7-c19f-ebc0-f967-f20eb5a2083e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/37/8b/ab/378bab6c-b2cb-e657-f373-75ccc5b0b80c/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ff/ae/b4/ffaeb420-6765-c6fc-bd37-49b9ac140b2e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/d8/fa/4ed8fa3b-b903-6990-ed19-97404a0a4028/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6f/7f/a8/6f7fa823-fa33-d3ab-2371-5f09cd908399/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/c1/04/cac10493-0ffb-a4c4-12f2-06fa25dcdc6d/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/db/5b/96db5b93-b0f2-a131-4b56-4595096147cd/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/ac/16/23ac1606-e312-35d1-4420-246b1328488e/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/90/c2/0c90c21f-237d-e55f-bae0-2c82ec067df0/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neighbours back From Hell]]></title>
-        <id>Neighbours back From Hell-us-1770268773657</id>
-        <link href="https://apps.apple.com/us/app/neighbours-back-from-hell/id1537362903?uo=4"/>
-        <updated>2026-02-05T05:19:33.657Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/neighbours-back-from-hell/id1537362903?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/49/f8/b4/49f8b4a2-da47-117c-d795-2a3f1dd0845f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$0.99 ~ $4.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  "Did you know that “Schadenfreude” is a German word defined as the concept of finding joy in someone else’s misfortune? It is also the main idea on which Neighbours back From Hell is built. A whole TV show based on playing increasingly outrageous pranks on your grumpy neighbor to keep the audience entertained, and viewership numbers high. It’s good to be bad in this early 2000s trash TV-inspired slapstick extravaganza! 
-
-As Woody, the vengeful star protagonist of Neighbours back From Hell, you will prank your way through Seasons 1 and 2 of the fictitious, but aptly named TV show. Take the mischief from your nasty neighbor’s flat all the way to China, India, and Mexico where you will make sure his holiday is a living hell. While you’re at it, why limit targeting your antics at your neighbor, when you can involve his mother and fellow travelers? Whatever you decide to do, your trusty camera crew will be right there and keep a keen eye on all the action. You can let your crooked creativity flow freely and watch the neighbor rage in desperation. Just be mindful not to get caught by him or his companions, or they will whoop you good and your TV show will be taken off the air. If you perform well on the other hand, by creating more and more disarray and chaos in the neighbor’s life, ratings will increase, and you could win prestigious awards. "
-
-Neighbours From Hell 1 & 2 Remastered in one package: 28 episodes set in the neighbor’s home, on a cruise liner, and in several different holiday locations around the world 
-
-- All graphics newly rendered in Full HD 
-- Framerate of all animations doubled for a smoother experience  
-- Use stealth, skill, and style to perform the perfect ambush 
-- Easy to use interface and controls 
-- Superb cartoon-style graphics 
-- Big band soundtrack 
-- Game Center support
-- Full controller support
-
-© HandyGames
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1f/a7/62/1fa76201-79e0-19f4-04b0-b852cf4e9c54/59da0ec8-ca20-482b-99a6-a8f7dfe7ca72_NBFH_Screenshot_04.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/9d/c9/e6/9dc9e69d-1b8a-3da6-36c6-cd20a12dfda2/b10e155d-91ff-4d23-8444-169e51969c8d_NBFH_Screenshot_05.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/80/30/9b/80309bd4-c2b0-b39f-bb55-9ce15f173aea/83a7cb51-f523-46e8-b102-8874b608734b_NBFH_Screenshot_06.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/d9/e5/d1/d9e5d11f-0a80-c871-d4f5-3fc1ee82d622/cc0363e1-7f5a-4d47-9244-aa6cd9fc4f25_NBFH_Screenshot_07.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f0/a9/20/f0a92075-ebf0-b2de-42f5-ebaa9b989157/bd504dcd-8cc5-42cf-96d3-83058b0a1dee_NBFH_Screenshot_08.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e5/2c/7f/e52c7f95-ca5c-65ec-c990-ffc4a77eb991/7fbb3155-96ba-4810-aa0c-3589d7115554_NBFH_Screenshot_01.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/22/c1/83/22c18301-6763-ac7d-37e5-aa22dcb150a7/98a470ed-08b8-402e-bc55-7b9917c3b052_NBFH_Screenshot_02.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1e/2a/5f/1e2a5fd0-e04c-cc00-945d-5bfc0d7c681f/018bef36-816a-47b7-abf7-b7e2d321165c_NBFH_Screenshop_01.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/b5/fb/4eb5fb18-ee4e-362f-5f56-3ff8b19a3638/eff769f8-2a6b-420f-8f57-2621b322beaa_NBFH_Screenshop_02.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/fb/31/d9/fb31d93a-81b6-faff-d86c-61b48ba236c7/25015943-cc07-43b8-adf4-ad9b817f5d9e_NBFH_Screenshop_03.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e5/2a/86/e52a8646-2ef7-47e3-8352-6127be539411/6d638e11-c6e5-414a-b42e-55743cc39824_NBFH_Screenshop_04.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/20/ce/4c/20ce4c0c-2465-5275-7ffc-d90dafc59385/64ca17ad-e78f-49be-9660-3ae4e4c93ce4_NBFH_Screenshop_05.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/15/05/5e/15055e2c-d367-767a-732d-98ec5bb8c103/ca99bbb6-78fc-4656-b09b-7d573d29a3de_NBFH_Screenshop_06.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/77/68/24/7768244d-ba5a-d276-3b94-915b9906e978/98648054-0b3d-4e9f-b0ab-7007c731d540_NBFH_Screenshop_07.PNG/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/3a/4e/db/3a4edbd6-024d-08fe-12ab-28caab6cd7f0/528e1cb8-822f-4b86-82ea-ed60bda551b5_NBFH_Screenshop_08.PNG/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clouds & Sheep 2 Premium]]></title>
-        <id>Clouds &amp; Sheep 2 Premium-us-1770268773657</id>
-        <link href="https://apps.apple.com/us/app/clouds-sheep-2-premium/id998834675?uo=4"/>
-        <updated>2026-02-05T05:19:33.657Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/clouds-sheep-2-premium/id998834675?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/af/73/2d/af732d78-607b-50f4-fbfc-89251fe1bec7/mzl.cprlaufb.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    120 Gems：<b>$7.99</b>
-  </li><li>
-    50 Gems：<b>$3.99</b>
-  </li><li>
-    250 Gems：<b>$15.99</b>
-  </li><li>
-    1400 Gems：<b>$79.99</b>
-  </li><li>
-    650 Gems：<b>$40.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  In this eagerly anticipated sequel of the game “Clouds & Sheep”, the cute sheep are finally on the loose again! Solve countless quests and fulfill your wooly friends’ needs. Plant grass, flowers, trees and shear your animals’ different-colored wool to stock up your resources! Collect happy stars, harvest wood and flower petals and use them to provide your flock with food, accessories, toys and more! Control the clouds and make it rain to ensure your sheep never run out of fresh water to drink. If your sheep feel happy and content, they’ll bring tiny lambs into the world!
-
-Every single animal is asking for your attention! The fluffy balls of wool love to be entertained. Make your sheep jump and use different toys like the trampoline, the seesaw and the swing to actively play with them! Watch your pets interact with each other and observe their reactions to the objects you give to them! Customize your flock’s pasture with fun objects and choose between different settings like the Wild West or Pirate scenery. Watch your flock run around by day and sleep by the cozy campfire at night. Do everything you can to keep your sheep happy and healthy to prevent them from becoming big, cottony clouds in the sky.
-
-Features:
-- PLAY WITHOUT ADS!
-- Awesome sequel of the top game “Clouds & Sheep”
-- Go on an epic adventure to find the legendary Fountain of Youth!
-- Simulation game with adorable sheep
-- Take care of your flock
-- Raise sweet little lambs
-- Actively play with your animals
-- Give them many different items and objects
-- Grow and harvest various resources
-- Shear your sheep
-- Customize their pasture
-- Control the weather
-- Day-night cycle
-- Open-ended game set in a 3D world
-- Suitable for kids, but also fun for the whole family
-- MFi game controller support
-- Game Center support
-
-Thank you for playing ‘Clouds & Sheep 2’!
-Get in touch with HandyGamesTM: http://www.handy-games.com
-Join us on Facebook: http://www.fb.com/handygames
-Stay tuned on Google+: http://goo.gl/qkjngm
-Subscribe to our YouTube channel: http://goo.gl/2Kq6yY
-Check news on Twitter: http://www.twitter.com/handy_games
-Follow us on Instagram: http://instagram.com/handygames
-
-Imprint: http://www.handy-games.com/contact/
-
-© www.handy-games.com GmbH
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/14/9b/a5/149ba521-f2d4-3414-2887-5d8b060b2167/mzl.tmnsaadz.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/ad/e0/ea/ade0ea0d-7def-7fd5-2636-27981975c9d2/mzl.upfsmzvy.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/99/4c/47/994c47d9-f8e8-ca68-04fa-dbdfe77d890d/mzl.cdkqxxko.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/ad/7e/2a/ad7e2ae2-f0b9-8ed3-b001-a2c460a349d2/mzl.newiffic.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/1f/45/8f/1f458f8b-977d-dae1-bbb6-91a3af585d6d/mzl.xabitvbt.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/be/f7/45/bef745e3-7c18-571b-9273-f7ceaeafc145/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/2d/e9/7c/2de97cbf-fd17-151b-ad21-16f537346929/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/bf/12/02/bf120274-7121-f72e-0a8e-d39e87ad2e52/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/1e/ca/f4/1ecaf4a6-8da4-131b-5c76-cdee67140198/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/d6/0f/fb/d60ffb44-fa05-d162-f420-7ad1e7607414/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Townsmen Premium]]></title>
-        <id>Townsmen Premium-us-1770268773657</id>
-        <link href="https://apps.apple.com/us/app/townsmen-premium/id549432607?uo=4"/>
-        <updated>2026-02-05T05:19:33.657Z</updated>
-        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/townsmen-premium/id549432607?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/17/5f/5e175f61-3946-b606-5605-fd553870578e/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$2.99</span> → <b>
-  <strong>$0.99</strong>
-</b><span>[$0.99 ~ $2.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$0.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Small Prestige Pack：<b>$1.99</b>
-  </li><li>
-    Medium Prestige Pack：<b>$8.99</b>
-  </li><li>
-    Fast forward：<b>$3.99</b>
-  </li><li>
-    XP Buff x2：<b>$3.99</b>
-  </li><li>
-    Awesome Prestige Pack：<b>$21.99</b>
-  </li><li>
-    Ultimate Prestige Package：<b>$39.99</b>
-  </li><li>
-    Insane Prestige Package：<b>$79.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Develop your tiny village to a grand medieval empire with a thriving economy and happy villagers! Find spots for mining ore, harvest the crops of your farms and collect coins as taxes from your folk. Build jousting fields, taverns, marketplaces and beautify your city with impressive statues, magnificent monuments, and lush gardens. But there are also dangers lurking close by. Bandits are in the area, looking to plunder and pillage your peaceful town. Build barracks, guard towers and recruit brave soldiers to protect your citizens from harm. You rule the whole empire from your castle and make sure your inhabitants have fun and stay happy!
-
-FEATURES
-- PLAY WITHOUT ADS!
-- City-building gameplay set in medieval times
-- Cute inhabitants with their own daily routines
-- Complex economy sim and deep production chains
-- Dozens of different town and production buildings
-- Optional military feature with soldiers and bandits
-- Meaningful seasons and weather effects
-- Devastating disasters like fire, disease, drought and many more
-- Diverse scenarios and challenging tasks
-- Unrestricted sandbox gameplay mode
-- Game Center support
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/42/ec/c542ec36-0077-d2dc-6e47-86e3d957a860/dfaf81fc-1601-46da-bbf7-ad1e3a9bb832_Townsmen_iOS_Screenshot_04_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/68/71/e768714a-e4ba-0934-555d-f7928bb75382/92f0a518-0f9f-4d4d-8855-cb4a0e40f2f2_Townsmen_iOS_Screenshot_05_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/5a/86/6c5a860a-0694-c43e-c76b-659e1f3a9769/eb4f5ba8-1b82-40fa-a7cd-e6b65c606b94_Townsmen_iOS_Screenshot_06_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/20/5f/fa205f03-34d1-ece8-33f0-b6700097452f/c31cb445-696b-462a-a583-8c79e2b0217c_Townsmen_iOS_Screenshot_01_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/ee/ae/bdeeae18-02b1-66bf-4bf6-587e81d8a867/3a8ebd6f-a3d8-4c25-b662-012e62cdb02c_Townsmen_iOS_Screenshot_02_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/4d/0a/134d0a7a-fcd8-df50-fa75-c67468a6d680/34e1b3ff-5cf7-4ed2-aa5b-f2661675ed4c_Townsmen_iOS_Screenshot_03_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/82/8c/51828c77-34bf-f960-5bfd-6b7fbb1937e9/80bb1ccb-43f2-4ae3-8d6b-62c90cca7b41_Townsmen_iOS_Screenshot_05_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/10/1f/74101fcc-faec-a3d7-8e06-65fd5d3a47cf/0006cd77-3693-4128-86b1-f07f621a3d8a_Townsmen_iOS_Screenshot_06_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/5f/f6/655ff6ed-094c-72c0-e069-4a4ce471dfc6/d63e403d-a227-4d59-a40a-c24936157c51_Townsmen_iOS_Screenshot_01_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/a0/76/10a076f2-3522-5ae5-b8b4-a77a6973e77c/498e6efc-12f2-4f18-a953-9d2bc4bbf82b_Townsmen_iOS_Screenshot_02_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/ab/24/63ab24c2-79d9-1881-6fed-32aa3eb9cecd/7de3b905-be76-40da-a0ac-c13920e97a39_Townsmen_iOS_Screenshot_03_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/1f/d3/d11fd305-374b-35eb-4640-78382cae6b61/b4104314-8b20-4113-902a-7f2d4d660e56_Townsmen_iOS_Screenshot_04_2732x2048.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wreckfest]]></title>
-        <id>Wreckfest-us-1770268773657</id>
-        <link href="https://apps.apple.com/us/app/wreckfest/id1592505377?uo=4"/>
-        <updated>2026-02-05T05:19:33.657Z</updated>
-        <summary type="html"><![CDATA[Price: $9.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/wreckfest/id1592505377?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b7/93/2e/b7932e29-fcf4-8069-4ecb-efba132904c6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$9.99</span> → <b>
-  <strong>$3.99</strong>
-</b><span>[$0.99 ~ $9.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$3.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Content Bundle 1：<b>$9.99</b>
-  </li><li>
-    Content Bundle 2：<b>$7.99</b>
-  </li><li>
-    Getaway Car Pack：<b>$2.99</b>
-  </li><li>
-    Modified Monsters Car Pack：<b>$2.99</b>
-  </li><li>
-    Off-Road Car Pack：<b>$2.99</b>
-  </li><li>
-    Racing Heroes Car Pack：<b>$2.99</b>
-  </li><li>
-    Steel & Wheels Pack：<b>$1.99</b>
-  </li><li>
-    American All-Stars Car Pack：<b>$2.99</b>
-  </li><li>
-    Rusty Rats Car Pack：<b>$2.99</b>
-  </li><li>
-    Banger Racing Car Pack：<b>$2.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Burn rubber and shred metal in the ultimate driving playground!
-
-Wreckfest is jam-packed with upgrade and customization options. Whether you are preparing for your next demolition derby with reinforced bumpers, roll cages, side protectors and much more, or setting your car up for a banger race with engine performance parts like air filters, camshafts, fuel systems, etc., Wreckfest is shaping up to be the best combative motorsport game out there. 
-
-• Unique Racing Experience – Exhilarating no-rules racing action with defining, once-in-a-lifetime moments that can be achieved only with a true-to-life physics simulation. Witness insane neck-to-neck fighting on high-speed circuits, face total destruction madness on crazy courses with intersections and oncoming traffic, or go for demolition dominance in derby arenas.
-
-• Awesome Cars – Our cars are old, banged up, patched together... They ooze style and character! From old American heavy-hitters to agile Europeans and fun Asians, you won’t find anything like this in other games. 
-
-• Meaningful Customization – Change not only the look of your cars but also upgrade their body armor – Reinforce them with heavy iron that protects you from damage, but also adds weight, which impacts the cars handling. Modify your car to make a robust tank or a fragile but lightning-fast rocket, or anything in between!
-
-• Multiplayer – Wreck your friends in local multiplayer and take racing to the limit while chasing for demolition dominance!
-
-• Challenge modes – Have hilarious fun with crop harvesters, lawn mowers, school buses, three-wheelers and much more! 
-
-• Career Mode – Battle for championships, earn experience, unlock new upgrades and cars, and become the all-time Wreckfest champion!
-
-© www.handy-games.com GmbH
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/d4/ae/7cd4ae9a-e108-820f-4e6f-cc8f41cc059d/0a87860e-5bc5-417c-a3b6-cbffa80bd3b8_5_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/08/bd/18/08bd184b-8ccf-5c0d-4e1d-0926e477191e/27e3db4a-a5f7-4745-b348-2f6e170d14d7_9_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/11/15/62/1115626a-a9a5-081c-c71d-4635b5c2324e/959d0baa-27a2-4939-b422-fc0a87f17ed8_13_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/48/4e/69/484e6978-a85b-0fa6-7702-845b9981bc49/603ecd4a-bc0c-4dd3-a915-aab4e18e2fb3_4_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/5c/ac/18/5cac1850-587b-93c5-5562-1267acbd4551/ff7b84cd-0b92-4a87-b2d8-deb53928a475_14_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/17/21/00/1721005b-0f95-bc6f-4845-eefe36fa15d2/f292ea0b-6210-42c1-a949-750a0feb2bb2_3_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/92/14/9a/92149aba-6e66-97c4-4414-f76c30662377/2b31f2bd-161e-4b22-82e7-277e8440d9b5_10_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7c/4c/6a/7c4c6a34-843f-2d3e-02e4-a607fc5890cc/e6ab042a-edab-4d21-b88f-20e98afab81a_2_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/34/68/88/346888c1-1b7d-2f41-2e72-c6c578744feb/f9d7ce66-3048-4bac-90ba-0bc43c149274_11_HUD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/61/0b/e4/610be4f5-302f-f02d-4b16-0d80dae85ead/ce2ef323-f0a8-4634-a817-ce0938bc73f1_17_HUD.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ad/dd/5e/addd5eb2-db05-e964-6ba6-0898bbedea02/460f129a-c427-45a5-98e7-fb17dfb9e9c3_5_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/af/59/74/af59741e-c3b5-433e-f8a8-ba0dda1e4744/feb70eeb-71e3-40ea-975c-1ffc6db28b98_9_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d5/77/d7/d577d782-fcb5-c75d-1fcb-41228e3f9d9c/e756cd9d-a8fa-4801-bb59-8d1833683d82_13_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/41/a7/18/41a718c2-a415-29f4-a3ff-75bd24980d6a/60df2ffb-0f26-43b1-b712-1b5df29bed66_4_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cc/5f/63/cc5f6385-fc32-631b-f781-3c61d8a5cfd6/a8347d5d-a57c-4a7e-bd9c-fa56255985f3_14_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/22/1b/c3/221bc329-6fd3-1b73-7709-900b455355bd/fefafb5b-fd99-4c27-a09c-baecc76738b8_3_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/fe/8a/16/fe8a164d-911a-7227-c2da-288cd9e159f7/3253b0b9-ebe8-40ef-9786-b43149c80374_10_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/d0/49/44/d049449a-616b-0e40-9883-046ce7d8f0d1/f0bbf0f2-e112-4a9d-ac8b-b71f7963baa5_2_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c2/33/a6/c233a618-a0a6-79da-fdfc-ebca10c08408/2f3b8a5d-9d69-480d-8583-ce6498ea6ac1_11_HUD.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/be/35/9bbe3575-4686-98fb-afbc-e9f3f87355b4/063753a1-ebee-43f7-a176-8830d14d0532_17_HUD.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
