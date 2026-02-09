@@ -1353,7 +1353,7 @@ So far, we've covered `7` `Countries or Regions` and  `1741` `Apps` <br />Push n
 |398|1330314351|Automatic|微剪辑-微视频编辑助手|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|
 |397|1336793944|Automatic|❌|勇敢的哈克|勇敢的哈克|勇敢的哈克|HAAK|HAAK|HAAK|
 |396|1339516665|Automatic|奥特曼传奇英雄VIP版|❌|❌|❌|❌|❌|❌|
-|395|1351652600|Automatic|❌|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|
+|395|1351652600|Automatic|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|
 |394|1359107338|Automatic|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|
 |393|1359652100|Automatic|❌|DungeonMaker|DungeonMaker|DungeonMaker|Dungeon Maker : Dark Lord|Dungeon Maker : Dark Lord|Dungeon Maker : Dark Lord|
 |392|1391339323|Automatic|❌|Zaptiye|Zaptiye|Zaptiye|Zaptiye|Zaptiye|Zaptiye: A Polícia Otomana|

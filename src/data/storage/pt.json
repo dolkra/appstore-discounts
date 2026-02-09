@@ -8974,8 +8974,8 @@
   "519411018": {
     "name": "iGuzheng",
     "maxPriceInfo": {
-      "price": 0.9,
-      "formattedPrice": "0,90 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "iGuzheng™⁺ Pro Version": "1,99 €"
     },
     "minPriceInfo": {
@@ -8984,6 +8984,16 @@
       "iGuzheng™⁺ Pro Version": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770634895133,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "iGuzheng™⁺ Pro Version": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -31864,10 +31874,18 @@
       "formattedPrice": "0,29 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770634895133,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

@@ -1353,7 +1353,7 @@
 |398|1330314351|自动|微剪辑-微视频编辑助手|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|Videdit - Handy Video Editor|
 |397|1336793944|自动|❌|勇敢的哈克|勇敢的哈克|勇敢的哈克|HAAK|HAAK|HAAK|
 |396|1339516665|自动|奥特曼传奇英雄VIP版|❌|❌|❌|❌|❌|❌|
-|395|1351652600|自动|❌|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|
+|395|1351652600|自动|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|Boolean!|
 |394|1359107338|自动|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|Catch the Easter Bunny|
 |393|1359652100|自动|❌|DungeonMaker|DungeonMaker|DungeonMaker|Dungeon Maker : Dark Lord|Dungeon Maker : Dark Lord|Dungeon Maker : Dark Lord|
 |392|1391339323|自动|❌|Zaptiye|Zaptiye|Zaptiye|Zaptiye|Zaptiye|Zaptiye: A Polícia Otomana|
