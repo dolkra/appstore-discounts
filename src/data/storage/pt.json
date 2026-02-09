@@ -14039,6 +14039,14 @@
     "history": [
       [
         {
+          "timestamp": 1770605459669,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1770345791146,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -17944,6 +17952,14 @@
     "history": [
       [
         {
+          "timestamp": 1770605459669,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1770375041548,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -18059,6 +18075,25 @@
       "Mia": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770605459669,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €",
+            "Horse": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768357440903,
@@ -49437,6 +49472,25 @@
     "history": [
       [
         {
+          "timestamp": 1770605459669,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Season Pass": "7,99 €",
+            "Nurse Pack": "5,99 €",
+            "Unlock Beholder": "2,99 €",
+            "Unlock Gumiho": "2,99 €",
+            "Season 3 Battle Pass": "1,99 €",
+            "Uniform Pack": "3,99 €",
+            "Unlock Baphomet": "2,99 €",
+            "Season 2 Battle Pass": "1,99 €",
+            "Monster Pack 2": "34,99 €",
+            "Info Pack": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770345791146,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -49585,6 +49639,17 @@
       "Home Sweet Home": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770605459669,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Hello World!": "0,99 €",
+            "Home Sweet Home": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769394662688,
@@ -64846,12 +64911,23 @@
       "80 Redemption Tickets": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "1000 Redemption Tickets": "9,99 €",
       "80 Redemption Tickets": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770605459669,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "1000 Redemption Tickets": "9,99 €",
+            "80 Redemption Tickets": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769915842150,
