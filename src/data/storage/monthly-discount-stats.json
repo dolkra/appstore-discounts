@@ -483,6 +483,11 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1239299402": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1304822713": {
       "all": 1,
       "price": 1,
@@ -533,14 +538,19 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1621065119": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
     "1642733080": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
     },
     "6757755170": {
-      "all": 1,
-      "price": 1,
+      "all": 2,
+      "price": 2,
       "inAppPurchase": {}
     },
     "6504453094": {
@@ -576,6 +586,20 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6446021269": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6462360082": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Base Game": 1,
+        "Extra DLC Pack": 1,
+        "Weapon Upgrade Ticket x5 (A)": 1
+      }
     }
   },
   "tr": {
@@ -607,6 +631,11 @@
       "inAppPurchase": {}
     },
     "1001096601": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1239299402": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -650,6 +679,20 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "1621065119": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1640627334": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "DLC pack": 1,
+        "All Access Voucher": 1,
+        "Street Wolf Outfit": 1
+      }
     },
     "1642733080": {
       "all": 1,
@@ -695,6 +738,20 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6446021269": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6462360082": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Base Game": 1,
+        "Extra DLC Pack": 1,
+        "Weapon Upgrade Ticket x5 (A)": 1
+      }
     }
   },
   "pt": {
@@ -719,6 +776,11 @@
       "inAppPurchase": {}
     },
     "1001096601": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1239299402": {
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
@@ -763,6 +825,20 @@
       "price": 1,
       "inAppPurchase": {}
     },
+    "1621065119": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "1640627334": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {
+        "Pacote de Expansão": 1,
+        "Cupom de Acesso Total": 1,
+        "Traje \"Street Wolf\"": 1
+      }
+    },
     "1642733080": {
       "all": 1,
       "price": 1,
@@ -806,6 +882,30 @@
       "all": 1,
       "price": 1,
       "inAppPurchase": {}
+    },
+    "6446021269": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
+    },
+    "6450980545": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Jogo base": 1,
+        "Cupom de Acesso Total": 1,
+        "Pacote de Expansão": 1,
+        "Traje \"Street Wolf\"": 1
+      }
+    },
+    "6462360082": {
+      "all": 1,
+      "price": 0,
+      "inAppPurchase": {
+        "Jogo base": 1,
+        "Pacote de DLC Extra": 1,
+        "Weapon Upgrade Ticket x5 (A)": 1
+      }
     }
   }
 }
