@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-02-10T04:32:13.157Z</updated>
+    <updated>2026-02-10T12:16:05.694Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-10T04:32:13.157Z</updated>
+        <updated>2026-02-10T12:16:05.695Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrTue, 10 Feb 2026 04:32:13 GMT</id>
+        <id>rankingtrTue, 10 Feb 2026 12:16:05 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-10T04:32:13.157Z</updated>
+        <updated>2026-02-10T12:16:05.695Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -264,14 +264,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1239299402">Street Fighter IV CE</a>
+        <a href="https://apps.apple.com/tr/app/id1065360416">BimmerLink for BMW and MINI</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>BimmerLink full version</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -281,7 +287,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
+        <a href="https://apps.apple.com/tr/app/id1239299402">Street Fighter IV CE</a>
       </td>
       <td>
         <ul>
@@ -298,7 +304,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1351652600">Boolean!</a>
+        <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
       </td>
       <td>
         <ul>
@@ -315,7 +321,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1437669537">Bendy and the Ink Machine</a>
+        <a href="https://apps.apple.com/tr/app/id1351652600">Boolean!</a>
       </td>
       <td>
         <ul>
@@ -330,6 +336,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>14</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1437669537">Bendy and the Ink Machine</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439262206">Root Board Game</a>
@@ -358,7 +381,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1500126852">Chord</a>
@@ -375,7 +398,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1512838461">DayCircle - Day counter</a>
@@ -392,7 +415,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1533979882">Northgard</a>
@@ -409,7 +432,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1537362903">Neighbours back From Hell</a>
@@ -426,7 +449,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1551273147">Otter - Food & Meal Diary</a>
@@ -443,7 +466,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1575414319">Dune: Imperium</a>
@@ -466,7 +489,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1587301632">All In One Memo</a>
@@ -483,7 +506,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1592505377">Wreckfest</a>
@@ -500,7 +523,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1592854410">Island Story: 100 Days</a>
@@ -517,7 +540,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1621065119">Ace Attorney Trilogy</a>
@@ -534,7 +557,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1642733080">DungeonSquad</a>
@@ -551,7 +574,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6504453094">Black Border 2</a>
@@ -568,7 +591,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6745099872">Demumu: Are You Dead?</a>
@@ -585,7 +608,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6478639011">Subnautica</a>
@@ -602,7 +625,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6455495086">3D Pinball Space Cadet</a>
@@ -625,7 +648,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6447306697">Cluedo</a>
@@ -650,7 +673,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6752503669">Solar Arc – Sun & Moon Tracker</a>
@@ -667,7 +690,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6446021269">MEGA MAN X DiVE Offline</a>
@@ -684,7 +707,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6462360082">Resident Evil 4</a>
@@ -711,7 +734,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6450980545">Resident Evil Village</a>
@@ -740,7 +763,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6746746394">Mayor Card: City Management</a>
@@ -757,7 +780,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6449233549">Ark Nova</a>
@@ -774,7 +797,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6471947612">召喚騎士團</a>
@@ -1369,6 +1392,106 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BimmerLink for BMW and MINI]]></title>
+        <id>BimmerLink for BMW and MINI-tr-1770721274787</id>
+        <link href="https://apps.apple.com/tr/app/bimmerlink-for-bmw-and-mini/id1065360416?uo=4"/>
+        <updated>2026-02-10T11:01:14.787Z</updated>
+        <summary type="html"><![CDATA[BimmerLink full version: ₺2.499,99 → ₺1.999,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/bimmerlink-for-bmw-and-mini/id1065360416?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f9/25/e9/f925e95b-63d4-d3d6-63fc-5a547c180f87/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>BimmerLink full version：</strong><span>₺2.499,99</span> → <b>
+  <strong>₺1.999,99</strong>
+</b><span>[₺1.999,99 ~ ₺2.499,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺1.999,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    CarPlay Add-On：<b>₺499,99</b>
+  </li><li>
+    BimmerLink full version：<b>₺1.999,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  BimmerLink is the direct link to your BMW or MINI. Using one of the supported OBD adapters, you can read trouble codes or display sensor values in realtime, check the current state of the DPF in your car or register a new battery after replacement. BimmerLink even allows you to remotely control the exhaust flap or mute the Active Sound Design in your car.
+
+READ AND CLEAR TROUBLE CODES
+Diagnose your car as would otherwise be possible only by your Service Partner. In contrast to generic OBD apps that read emission related errors only, BimmerLink allows you to read and clear trouble codes from ALL control units in your car.
+
+DISPLAY REALTIME SENSOR VALUES
+BimmerLink provides a big selection of values like oil temperature or boost pressure. Keep an eye on all the important parameters of your car with a personalized dashboard.
+
+EXHAUST FLAP REMOTE CONTROL*
+Take control over the exhaust flap in your car and decide yourself, whether it should be closed or open.
+
+ACTIVE SOUND DESIGN**
+If you do not like the artificial engine sound generated in your car, just mute the Active Sound Design with BimmerLink.
+
+SOUND TUNING***
+The “Sound Tuning” option allows you to disable the “exhaust burble“ in cars equipped with the S55 engine (M2 Competition, M3, M4).
+
+DPF REGENERATION****
+BimmerLink allows you to check the current state of the diesel particulate filter in your car. Find out when the last regeneration took place or how much ash has accumulated in the filter and start a regeneration with the touch of a button.
+
+CARPLAY ADD-ON*****
+Enhance your driving experience with the CarPlay add-on for BimmerLink. Access your sensor values on your car's display for improved vehicle monitoring, all integrated seamlessly with CarPlay for ease of use.
+
+BATTERY REGISTRATION
+If you want to replace the battery in your car, this has to be registered in the engine control unit and BimmerLink allows you to do this yourself now.
+
+PARKING BRAKE SERVICE MODE
+BimmerLink allows you to activate the service mode for the electromechanical parking brake.
+
+SERVICE RESET
+Reset the service display in your car after carrying out maintenance work like a brake pad replacement or an engine oil change.
+
+RESET SHORT CIRCUIT LOCKS
+Unlock lamp outputs that were disabled due to a short circuit.
+
+TRANSMISSION ADAPTATION VALUES
+Check the adaptation values of the ZF 8HP automatic transmission in your vehicle.
+
+REQUIRED ACCESSORIES
+To use the app, one of the supported Bluetooth or WiFi OBD adapters or cables is required. For more information please visit https://bimmerlink.app.
+
+SUPPORTED CARS
+- 1 Series (2004+)
+- 2 Series, M2 (2013+)
+- 2 Series Active Tourer (2014+)
+- 2 Series Gran Tourer (2015+)
+- 3 Series, M3 (2005+)
+- 4 Series, M4 (2013+)
+- 5 Series, M5 (2003+)
+- 6 Series, M6 (2003+)
+- 7 Series (2008+)
+- 8 Series (2018+)
+- X1 (2009+)
+- X2 (2018+)
+- X3, X3 M (2010+)
+- X4, X4 M (2014+)
+- X5, X5 M (2006+)
+- X6, X6 M (2008+)
+- X7 (2019+)
+- Z4 (2009+)
+- i3 (2013+)
+- i4 (2021+)
+- i7 (2022+)
+- i8 (2013+)
+- iX (2021+)
+- iX1 (2022+)
+- iX3 (2021+)
+- MINI (2006+)
+- Toyota Supra (2019+)
+
+* Only for cars that are equipped with an exhaust flap by factory.
+** Only for cars that are equipped with the “Active Sound Design“ by factory.
+*** Only for cars with S55 engine (M2 Competition, M3, M4).
+**** Only for cars with a diesel engine.
+***** Additional in-app purchase required.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/1a/59/461a5922-c876-fe1d-8458-783c1b70d44e/b579ee5c-4e3a-42ef-a344-d7022defc5ef_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/58/27/07582759-68e9-6969-4be1-8b0c97a8ea74/af875a90-ee9d-4aca-b917-7d648568ce2b_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/07/8e/2c078e4c-4982-dd70-1afe-932f3a6bc602/1cca88b3-c51d-43d9-8808-3b1c68fae982_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/61/49/71614911-394f-c3ce-7feb-ade0f60c2180/da098097-8640-4337-b163-b5e3285af9d5_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/ee/56/88ee56dc-4359-9d18-3792-3c0101c830d7/0828aeb0-b385-4c21-843f-fe8c829514fb_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cf/28/60cf280e-f589-49b0-db0a-b4b0c1fb99da/33cd0154-b4bc-4ce1-acf0-bed282dbe6b4_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/e3/15/a0e31564-b5b3-33ab-4ec4-e21825ac4605/1d16e628-18d6-4922-b5d4-335aebeffbe0_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/f3/85/88f385ab-c46d-0bec-5326-9c238a570111/75c39d83-43db-47c5-bd35-42c875efddda_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/88/f7/d088f7bf-a036-e23f-8b8b-62885d99c22e/b3e429f1-f3e4-4d0f-ab85-b5135af2233c_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ef/73/b6ef7397-3b4c-bda9-90d6-71a62b713780/e0483cbd-c99f-4f95-b44c-2b12e73734f3_Screenshot_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/1d/c2/561dc26a-3625-a4c4-242d-5c7da3463955/9b6654d3-cfda-4a93-b9af-5917312156f6_Screenshot_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/1d/31/ea1d310e-3a13-af5f-0445-d6d4fc04973a/3227a2b3-c6bd-4f00-9629-23e886e8fa11_Screenshot_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/e7/d8/64e7d8f4-4f4c-84f0-5a47-8373e78eae11/df9afa60-ca49-4430-98b0-7e3f561d9e3e_Screenshot_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/2a/7c/612a7c16-bf12-277d-dd0c-912cc2a3cbf3/addde7dd-26c7-4823-b2be-d94efdf21ece_Screenshot_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/e7/af/f0e7afbf-1d50-ba8d-b3a8-ad22474fe8b1/88fb0b29-bf43-4d1f-b63c-416c8186cfd2_Screenshot_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/e6/c1/4fe6c1a7-59d5-5aee-de8d-e7568598b928/e3530d79-d70a-4adc-a8f9-29d1c548497d_Screenshot_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/13/5d/9a135d76-1c4f-b85e-1b10-0dd245820224/740098ce-6171-4323-b7a2-838316c7875d_Screenshot_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/36/75/c6367592-848a-e503-add2-bbbf0a1d93b8/6593b1e9-5b67-494e-a9fa-92eeb45a91a8_Screenshot_4.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bendy and the Ink Machine]]></title>
@@ -2442,62 +2565,5 @@ FEATURES
 
 Sharpen your mind with the iconic murder-mystery board game, now available on mobile!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/5a/f5/06/5af506fd-5d1a-dbc8-fcf2-2d6c9819e13b/6ea7a3d0-a3e1-42c5-9944-9897ae3362ef_Cluedo2_Screenshots_Launch_09_2023_2208x1242_01_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b6/23/89/b623898f-7340-f80d-f077-50274a534bdb/8eb5abff-2dc2-41b6-879b-ac41bc6aece4_Cluedo2_Screenshots_Launch_09_2023_2208x1242_02_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/eb/28/46/eb284651-1a07-8ef0-ed60-d44f8f31a2c9/736a2301-9f4e-4084-94d6-8f7478eb159b_Cluedo2_Screenshots_Launch_09_2023_2208x1242_03_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/5d/d5/775dd510-2d46-66c6-4c78-5f63bc20ce58/6c510048-1119-4a92-ae88-08deffb9c456_Cluedo2_Screenshots_Launch_09_2023_2208x1242_04_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f6/8e/69/f68e6988-d165-7e43-d1dc-1150286d690c/c4c9ec00-e6b5-4c25-8f1b-d1d7279f150e_Cluedo2_Screenshots_Launch_09_2023_2208x1242_05_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/38/18/6d381807-2413-7750-cfa1-5e63b2ca20c8/093868a1-8bdd-449a-a37d-7237a576581b_Cluedo2_Screenshots_Launch_09_2023_2208x1242_06_eng.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/62/01/0e/62010ed2-5b3a-9151-2001-dbdae205950a/f491f126-1391-41f7-ac66-2a4abad2c8de_Cluedo2_Screenshots_Launch_09_2023_2208x1242_07_eng.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/7d/a7/a27da778-94e0-8ce4-e7d4-c8368bac5b08/9fabddc5-226d-407c-b624-20373b20fac4_Cluedo2_Screenshots_Launch_09_2023_2732x2048_01_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/46/51/6a/46516a6b-925a-c9e4-0e97-db8fc6f17a7d/d0b99192-821a-4fcc-a7aa-d5d8e8e9d04a_Cluedo2_Screenshots_Launch_09_2023_2732x2048_02_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/87/76/e5/8776e5b4-03ce-c7bd-5395-a8408a547ced/b31056ae-e749-4ca4-bf35-2348ee2bd8df_Cluedo2_Screenshots_Launch_09_2023_2732x2048_03_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bb/c6/04/bbc60405-0cc9-f140-80a8-736ececa91ce/c5bccdff-6caf-4f24-a3bc-c0386d11ccf3_Cluedo2_Screenshots_Launch_09_2023_2732x2048_04_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/0b/08/da/0b08dad8-d1d4-4ca8-5285-d25272eb772b/3f016eb5-cfe4-4209-ad04-dbb605ade261_Cluedo2_Screenshots_Launch_09_2023_2732x2048_05_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c6/b1/73/c6b173bc-0ded-d2da-66b9-383216d24172/eba240d9-a209-4d23-b054-41053e34579d_Cluedo2_Screenshots_Launch_09_2023_2732x2048_06_eng.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a2/af/8d/a2af8d76-b8aa-6928-2221-c1e6c9689527/54ebb2cd-5804-47fb-ac17-01f74c4e9eb2_Cluedo2_Screenshots_Launch_09_2023_2732x2048_07_eng.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Otter - Food & Meal Diary]]></title>
-        <id>Otter - Food &amp; Meal Diary-tr-1770453650630</id>
-        <link href="https://apps.apple.com/tr/app/otter-food-meal-diary/id1551273147?uo=4"/>
-        <updated>2026-02-07T08:40:50.630Z</updated>
-        <summary type="html"><![CDATA[Price: ₺99,99 → ₺49,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/otter-food-meal-diary/id1551273147?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/de/32/cf/de32cf3a-3409-69b0-d2b7-d607f89dcf34/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺99,99</span> → <b>
-  <strong>₺49,99</strong>
-</b><span>[₺39,99 ~ ₺99,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺49,99</b>
-</p><h2>Application Description</h2><p>
-  Otter is a simple and beautiful food diary app that helps you track what you eat every day. No calorie counting, no complicated databases – just take photos, add notes, and reflect on your eating habits.
-
-◆ WHY OTTER?
-
-- Clean, minimal design with an adorable otter character
-- Photo-based meal tracking – snap and save
-- No ads, no distractions
-- iCloud sync across all your devices
-
-◆ FEATURES
-
-- Photo Food Journal
-Capture your meals with photos. A picture is worth a thousand calories – see what you eat at a glance.
-
-- Daily Notes
-Write about your day, how you felt, or what made each meal special.
-
-- Water Tracker
-Stay hydrated! Track your daily water intake with simple tap controls.
-
-- Weight Log
-Monitor your weight trends over time with easy-to-read records.
-
-- Timeline View
-Browse your food history in a beautiful timeline. See patterns in your eating habits.
-
-- Search & Stats
-Find past meals quickly and view your eating statistics.
-
-- iCloud Sync
-Your food diary stays safe and syncs automatically across iPhone, iPad, and Mac.
-
-
-◆ A MINDFUL APPROACH TO EATING
-
-Otter doesn't judge. There's no calorie counting or strict diet plans. Just a gentle companion to help you become more aware of what you eat. 
-
-You are what you eat – let Otter help you remember it.
-
-Questions? Contact us at OtterDietDiary@gmail.com
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f6/ac/f8/f6acf873-8a67-efa7-03ae-295ad2a3a791/54cb011c-8ccf-40c6-9615-a2991c3eca77_55_store_1_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/30/0a/60/300a60c8-ea2b-9f5e-0fd8-6ec8c8a8118c/1e4c759b-bc71-43c9-b146-ed53c981aae7_55_store_2_en_v2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/3e/16/97/3e1697a9-cb8c-4208-ee85-99102ac64c41/c7e3db2a-4feb-460c-a29a-288612beeebd_55_store_3_en_v2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/12/a1/61/12a16159-6186-a83f-a7ee-ffae9419950e/681e34f0-c456-4a88-afc8-615520be04a9_55_store_4_en_v2.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ce/4e/c8/ce4ec8c5-7e40-0850-e507-f3a25ac31beb/f4e38537-78f4-4415-b421-8f5095f72c65_55_store_5_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/36/be/d1/36bed1d1-13a0-c25f-549c-0e16b0a11325/09121f63-2fd8-40e0-8365-e3adf8a957a6_55_store_6_en.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/4d/2c/79/4d2c7932-9166-7907-5ffd-18b40f83a188/d8d57873-c40c-4937-b5fa-d7a13b85abe0_55_store_7_en.jpg/392x696bb.jpg" />]]></content>
     </entry>
 </feed>
