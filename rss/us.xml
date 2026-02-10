@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-02-10T14:55:11.074Z</updated>
+    <updated>2026-02-10T20:29:10.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-10T14:55:11.074Z</updated>
+        <updated>2026-02-10T20:29:10.480Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 10 Feb 2026 14:55:11 GMT</id>
+        <id>rankingusTue, 10 Feb 2026 20:29:10 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-10T14:55:11.074Z</updated>
+        <updated>2026-02-10T20:29:10.480Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -169,14 +169,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
+        <a href="https://apps.apple.com/us/app/id401818935">Genius Scan Enterprise - PDF</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Genius Scan Ultra</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -186,7 +192,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id646256209">Photo Eraser for iPhone</a>
+        <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
       </td>
       <td>
         <ul>
@@ -203,7 +209,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id764925064">Waterlogue: Photo to Painting</a>
+        <a href="https://apps.apple.com/us/app/id646256209">Photo Eraser for iPhone</a>
       </td>
       <td>
         <ul>
@@ -220,7 +226,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
+        <a href="https://apps.apple.com/us/app/id764925064">Waterlogue: Photo to Painting</a>
       </td>
       <td>
         <ul>
@@ -235,6 +241,23 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>
         <b>9</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -257,7 +280,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -274,7 +297,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1001096601">1941 Frozen Front Premium</a>
@@ -291,7 +314,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1065360416">BimmerLink for BMW and MINI</a>
@@ -314,7 +337,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1239299402">Street Fighter IV CE</a>
@@ -331,7 +354,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
@@ -348,7 +371,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1351652600">Boolean!</a>
@@ -365,7 +388,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1422480068">Notes Writer Pro 2026</a>
@@ -382,7 +405,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1437669537">Bendy and the Ink Machine</a>
@@ -399,7 +422,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -430,7 +453,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512838461">DayCircle - Day counter</a>
@@ -447,7 +470,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1533979882">Northgard</a>
@@ -464,7 +487,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537362903">Neighbours back From Hell</a>
@@ -481,7 +504,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1551273147">Otter - Food & Meal Diary</a>
@@ -498,7 +521,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1574175808">Specimen Zero - Horror</a>
@@ -515,7 +538,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1575414319">Dune: Imperium</a>
@@ -538,7 +561,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1587301632">All In One Memo</a>
@@ -555,7 +578,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592505377">Wreckfest</a>
@@ -572,7 +595,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1592854410">Island Story: 100 Days</a>
@@ -589,7 +612,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1621065119">Ace Attorney Trilogy</a>
@@ -606,7 +629,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1640627334">Resident Evil Village for Mac</a>
@@ -633,7 +656,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1642733080">DungeonSquad</a>
@@ -650,7 +673,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6745099872">Demumu: Are You Dead?</a>
@@ -667,7 +690,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6478639011">Subnautica</a>
@@ -684,7 +707,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6455495086">3D Pinball Space Cadet</a>
@@ -707,7 +730,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6447508479">Warm Snow</a>
@@ -730,7 +753,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6752503669">Solar Arc – Sun & Moon Tracker</a>
@@ -747,7 +770,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6446021269">MEGA MAN X DiVE Offline</a>
@@ -764,7 +787,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6462360082">Resident Evil 4</a>
@@ -791,7 +814,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6450980545">Resident Evil Village</a>
@@ -820,7 +843,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6471947612">召喚騎士團</a>
@@ -847,7 +870,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6449233549">Ark Nova</a>
@@ -1414,6 +1437,109 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genius Scan Enterprise - PDF]]></title>
+        <id>Genius Scan Enterprise - PDF-us-1770750955917</id>
+        <link href="https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=4"/>
+        <updated>2026-02-10T19:15:55.917Z</updated>
+        <summary type="html"><![CDATA[Genius Scan Ultra: $49.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/bb/09/25bb09ff-b0ea-e5a7-9c8a-852c972a4d37/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Genius Scan Ultra：</strong><span>$49.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $49.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$49.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Genius Scan Ultra：<b>$4.99</b>
+  </li><li>
+    Super Large Tip：<b>$9.99</b>
+  </li><li>
+    Generous Tip：<b>$2.99</b>
+  </li><li>
+    Small Tip：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Genius Scan is a document scanner app in your pocket. Quickly scan your paper documents on the go and export them as multi-page PDF files.
+
+*** Apple App of the Week *** 20+ million users *** 1000s of small businesses ***
+
+Place any document in front of your device’s camera: our scanner app automatically recognizes the paper against the background, crops it, and cleans up the result. You obtain a crisp, legible scan. Batch scanning lets you scan dozens of pages in a matter of seconds. Powerful tools help you organize, share, or archive your documents.
+
+“Next time you plan to hit the road, don’t forget to download Genius Scan to make life easier for yourself and your accounting department.” - AppPicker.com
+
+“Camera apps aren’t designed for close-up text scanning, but Genius Scan is.” - The Guardian
+
+== ENTERPRISE EDITION ==
+
+Genius Scan Plus Premium Plan:
+
+- All the premium features of the Genius Scan Plus Premium Plan (denoted with + below), out of the box (no upgrade needed).
+
+Managed Configuration:
+
+- Deployment to fleets of devices managed by a MDM tool
+- Pre-configuration of app settings on a per-user basis (eg. set default email address, WebDAV/FTP credentials)
+- Control of which apps and services users can export documents to
+- No ads
+
+== KEY FEATURES == 
+
+Smart Scanning:
+
+- Document detection & background removal
+- Distortion correction
+- Shadow removal and defect cleanup
+- Filters (black & white, whiteboard, photo)
+- Batch scanning
+
+PDF Creation & Editing:
+
+- Document merging & splitting
+- Multiple page PDF creation
+- Photos and PDF import
+
+Security & Privacy:
+
+- On-device document processing
++ Face ID locking
++ PDF password encryption
+
+Document Organization:
+
+- Document tagging
+- Metadata and content search
++ Smart document renaming (custom templates, …)
++ Backup and multi-device sync with Genius Cloud (separate subscription)
+
+Export:
+
+- Email
++ Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV.
++ Any WebDAV compatible service such as Citrix ShareFile, NextCloud, ownCloud, Synology, Yandex. 
++ Automatic background auto-export
+
+OCR (Text Recognition):
+
++ Text extraction
++ Searchable PDF creation
++ Business card scanning & contact creation
+
+== ABOUT US ==
+
+It’s in the heart of Paris, France that The Grizzly Labs develops Genius Scan. We take pride in crafting apps that help millions of users throughout the world and hold ourselves to the highest standards in terms of quality and privacy. Get in touch with us @thegrizzlylabs if you have any questions.
+
+== PRICING & LEGAL ==
+
+You can subscribe to Genius Cloud for backup & synchronization. In that case, Genius Scan’s store displays the duration and price of each subscription, updated at the time of purchase. Payment will be charged to iTunes account when the order is confirmed. Subscriptions automatically renew unless auto-renew is turned off no later than 24 hours before the end of the current period. Manage subscriptions, disable auto-renewal in the iTunes account settings.
+
+https://www.thegrizzlylabs.com/genius-scan/cloud/terms
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Black Border 2]]></title>
