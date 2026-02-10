@@ -2638,6 +2638,23 @@
     "history": [
       [
         {
+          "timestamp": 1770702062005,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Beethoven: The Mutopia Collection": "0,99 €",
+            "Bach: The Mutopia Collection": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1770693346524,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -7708,6 +7725,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1770702062005,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter D": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter S": "5,99 €",
+            "Chapter 7": "5,99 €",
+            "Chapter N": "3,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter 10": "5,99 €"
+          }
+        },
         {
           "timestamp": 1770693346524,
           "price": 1.99,
@@ -65619,6 +65653,27 @@
       [
         {
           "timestamp": 1770665170499,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6502905107": {
+    "name": "AListServer",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1770702062005,
           "price": 3.99,
           "formattedPrice": "3,99 €",
           "inAppPurchases": {}

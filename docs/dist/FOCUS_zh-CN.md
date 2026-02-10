@@ -781,7 +781,7 @@
 |971|1671475521|自动|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|
 |970|6479295005|自动|❌|住宅夢物語 DX|住宅夢物語 DX|住宅夢物語 DX|Dream House Days DX|Dream House Days DX|Dream House Days DX|
 |969|6744569015|自动|❌|❌|❌|❌|Neon Labyrinth|❌|❌|
-|968|6502905107|自动|❌|AListServer|AListServer|AListServer|AListServer|AListServer|❌|
+|968|6502905107|自动|❌|AListServer|AListServer|AListServer|AListServer|AListServer|AListServer|
 |967|400259071|自动|❌|降雨警報器 Pro|降雨警報器 Pro|降雨警報器 Pro|Rain Alarm Pro Weather Radar|❌|Rain Alarm Pro Weather Radar|
 |966|1139986977|自动|❌|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|
 |965|1197552569|自动|❌|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|Poly Bridge|
