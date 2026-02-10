@@ -37547,13 +37547,31 @@
     "name": "Waterlogue: Photo to Painting",
     "maxPriceInfo": {
       "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "formattedPrice": "USD 5.99",
+      "Waterlogue Unlimited (Monthly)": "USD 1.99",
+      "Waterlogue Unlimited (Yearly)": "USD 7.99",
+      "Waterlogue Unlimited (Lifetime)": "USD 19.99"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "USD 5.99"
+      "price": 0,
+      "formattedPrice": "免費",
+      "Waterlogue Unlimited (Monthly)": "USD 1.99",
+      "Waterlogue Unlimited (Yearly)": "USD 7.99",
+      "Waterlogue Unlimited (Lifetime)": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770730908255,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Waterlogue Unlimited (Monthly)": "USD 1.99",
+            "Waterlogue Unlimited (Yearly)": "USD 7.99",
+            "Waterlogue Unlimited (Lifetime)": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1754763439051,
@@ -135209,6 +135227,14 @@
       "formattedPrice": "USD 0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770730908255,
+          "price": 0.49,
+          "formattedPrice": "USD 0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1769971615127,
