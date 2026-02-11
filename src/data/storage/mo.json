@@ -1297,6 +1297,25 @@
     "history": [
       [
         {
+          "timestamp": 1770788364367,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Soccer coins": "USD 0.99",
+            "300,000 gold": "USD 2.99",
+            "100,000 gold": "USD 1.99",
+            "10,000 gold": "USD 0.99",
+            "100,000 coins": "USD 3.99",
+            "15000 eggs": "USD 2.99",
+            "5000 eggs": "USD 1.99",
+            "500 eggs": "USD 0.99",
+            "10000 candies": "USD 2.99",
+            "1000 candies": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1769316953131,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -8668,10 +8687,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770788364367,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763310557783,
@@ -43469,6 +43496,25 @@
     "history": [
       [
         {
+          "timestamp": 1770788364367,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "USD 0.00",
+            "ThemeA0B1C0": "USD 0.00",
+            "ThemeA1B0C0": "USD 0.00",
+            "ThemeA0B1C1": "USD 0.00",
+            "ThemeA1B0C1": "USD 0.00",
+            "ThemeA1B1C0": "USD 0.00",
+            "ThemeA2B0C0": "USD 0.00",
+            "主题大礼包": "USD 3.99",
+            "ThemeA2B0C1": "USD 3.99",
+            "ThemeA2B1C0": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -47032,16 +47078,22 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "VIP每月自動繳費": "USD 22.99",
-      "90天": "USD 64.99",
+      "VIP每月自動繳費": "USD 28.49",
+      "90天": "USD 84.99",
       "300點": "USD 2.99",
-      "365天": "USD 129.99",
+      "365天": "USD 159.99",
       "1500點": "USD 14.99",
-      "180天": "USD 99.99",
+      "180天": "USD 124.99",
       "1 LIKE": "USD 0.99",
       "10 LIKES": "USD 6.99",
       "100 LIKES": "USD 29.99",
-      "限時優惠365天": "USD 109.99"
+      "限時優惠365天": "USD 109.99",
+      "10 Boosts": "USD 19.99",
+      "5 Boosts": "USD 11.99",
+      "1 Boost": "USD 2.99",
+      "限時優惠7天": "USD 2.99",
+      "365 Days": "USD 179.99",
+      "180 Days": "USD 139.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -47055,9 +47107,34 @@
       "1 LIKE": "USD 0.99",
       "10 LIKES": "USD 6.99",
       "100 LIKES": "USD 29.99",
-      "限時優惠365天": "USD 109.99"
+      "限時優惠365天": "USD 109.99",
+      "10 Boosts": "USD 19.99",
+      "5 Boosts": "USD 11.99",
+      "1 Boost": "USD 2.99",
+      "限時優惠7天": "USD 2.99",
+      "365 Days": "USD 179.99",
+      "180 Days": "USD 139.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770788364367,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "10 Boosts": "USD 19.99",
+            "5 Boosts": "USD 11.99",
+            "1 Boost": "USD 2.99",
+            "365天": "USD 159.99",
+            "180天": "USD 124.99",
+            "90天": "USD 84.99",
+            "VIP每月自動繳費": "USD 28.49",
+            "限時優惠7天": "USD 2.99",
+            "365 Days": "USD 179.99",
+            "180 Days": "USD 139.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770297536556,
@@ -58134,6 +58211,24 @@
       "Frontier Legends Sale": "USD 6.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770788364367,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Frontier Legends": "USD 12.99",
+            "Frontier Legends Sale": "USD 6.49",
+            "Havoc Staff Booster Sale": "USD 1.99",
+            "Skeletor Obyn Prestige Pack": "USD 6.99",
+            "Havoc Staff Booster": "USD 3.99",
+            "Powers Pro Launch Pack": "USD 8.99",
+            "Desperado Unlock Pack": "USD 7.99",
+            "She-Ra Prestige Pack Sale": "USD 6.99",
+            "She-Ra Sword Booster Sale": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770095870549,
