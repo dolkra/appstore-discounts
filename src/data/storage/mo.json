@@ -9524,6 +9524,25 @@
     "history": [
       [
         {
+          "timestamp": 1770763839937,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "World 3 - Level Pack 2": "USD 0.99",
+            "World 2 - Level Pack 2": "USD 0.99",
+            "Unlock all Levels": "USD 0.99",
+            "MEGA Bubble Popper Pack": "USD 7.99",
+            "Bubble Popper Pack": "USD 3.99",
+            "Pack of 15 Bumpers": "USD 1.99",
+            "Pack of 5 Bumpers": "USD 0.99",
+            "Pack of 30 Fireballs": "USD 1.99",
+            "Pack of 10 Fireballs": "USD 0.99",
+            "Pack of 1500 Tokens": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770460521476,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -39853,6 +39872,27 @@
           "timestamp": 1745328692670,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "889417668": {
+    "name": "Elementary Minute",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1770763839937,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]
@@ -140614,6 +140654,27 @@
           "timestamp": 1770756837551,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758669847": {
+    "name": "Echo - SSH Client",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1770763839937,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]

@@ -10108,6 +10108,25 @@
     "history": [
       [
         {
+          "timestamp": 1770763839937,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mission 37 Gold": "2,99 €",
+            "Mission 36 Gold": "2,99 €",
+            "Mission 37 Demo": "0,99 €",
+            "Mission 36 Demo": "0,99 €",
+            "Mission 36 Skip": "1,99 €",
+            "Mission 35 Skip": "1,99 €",
+            "Mission 35 Gold": "2,99 €",
+            "Mission 35 Demo": "0,99 €",
+            "Mission 34 Skip": "1,99 €",
+            "Mission 34 Gold": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770172855540,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -16867,6 +16886,27 @@
           "timestamp": 1761797674362,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "889417668": {
+    "name": "Elementary Minute",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1770763839937,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -39880,7 +39920,9 @@
       "Prime gemma 100": "0,99 €",
       "Prime Gemma 10000": "79,99 €",
       "Prime Gemma 2500": "22,99 €",
-      "Prime Gemma 5000": "44,99 €"
+      "Prime Gemma 5000": "44,99 €",
+      "Zenith Islands DLC": "5,99 €",
+      "Prime Dimension DLC": "7,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -39896,9 +39938,30 @@
       "Prime gemma 100": "0,99 €",
       "Prime Gemma 10000": "79,99 €",
       "Prime Gemma 2500": "22,99 €",
-      "Prime Gemma 5000": "44,99 €"
+      "Prime Gemma 5000": "44,99 €",
+      "Zenith Islands DLC": "5,99 €",
+      "Prime Dimension DLC": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770763839937,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Zenith Islands DLC": "5,99 €",
+            "Prime Dimension DLC": "7,99 €",
+            "Evoker Kit": "0,99 €",
+            "Evoker Package": "9,99 €",
+            "Hunter Package": "9,99 €",
+            "Tamer Kit": "0,99 €",
+            "Prime Gemma 10000": "79,99 €",
+            "Prime Gemma 2500": "22,99 €",
+            "Master Package": "19,99 €",
+            "Prime Gemma 1200": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769915842150,
@@ -59707,7 +59770,14 @@
       "LegendaryAsia Expansion Bundle": "7,99 €",
       "India Expansion Bundle": "7,99 €",
       "Poland Map": "6,99 €",
-      "Poland Expansion": "7,99 €"
+      "Poland Expansion": "7,99 €",
+      "Poland Character Bundle": "1,99 €",
+      "Kujawiak": "1,99 €",
+      "Polonaise": "1,99 €",
+      "The Copernicus": "1,99 €",
+      "Orbiting Greatness": "1,99 €",
+      "Regina Kamińska": "1,99 €",
+      "Kacper Pawlak": "1,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -59739,9 +59809,35 @@
       "LegendaryAsia Expansion Bundle": "7,99 €",
       "India Expansion Bundle": "7,99 €",
       "Poland Map": "6,99 €",
-      "Poland Expansion": "7,99 €"
+      "Poland Expansion": "7,99 €",
+      "Poland Character Bundle": "1,99 €",
+      "Kujawiak": "1,99 €",
+      "Polonaise": "1,99 €",
+      "The Copernicus": "1,99 €",
+      "Orbiting Greatness": "1,99 €",
+      "Regina Kamińska": "1,99 €",
+      "Kacper Pawlak": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770763839937,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Poland Character Bundle": "1,99 €",
+            "Kujawiak": "1,99 €",
+            "Polonaise": "1,99 €",
+            "The Copernicus": "1,99 €",
+            "Orbiting Greatness": "1,99 €",
+            "Regina Kamińska": "1,99 €",
+            "Kacper Pawlak": "1,99 €",
+            "Poland Map": "6,99 €",
+            "Poland Expansion": "7,99 €",
+            "Germany Expansion": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770288703754,
@@ -65962,6 +66058,27 @@
           "timestamp": 1770756837551,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758669847": {
+    "name": "Echo - SSH Client",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1770763839937,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]
