@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1745` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1746` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1746|1283082051|Automatic|❌|Pepi|Pepi|Pepi|Pepi|Pepi|Pepi|
 |1745|889417668|Automatic|❌|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|
 |1744|6758669847|Automatic|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|
 |1743|6746479051|Automatic|❌|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|
@@ -358,7 +359,7 @@ So far, we've covered `7` `Countries or Regions` and  `1745` `Apps` <br />Push n
 |1397|379869627|Automatic|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|Living Earth - Clock & Weather|
 |1396|1093924230|Automatic|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|iAnnotate 4 — PDFs & more|
 |1395|1096461203|Automatic|南瓜先生大冒险HD|南瓜先生大冒險HD|南瓜先生大冒險HD|南瓜先生大冒險HD|Mr. Pumpkin Adventure HD|Mr. Pumpkin Adventure HD|Mr. Pumpkin Adventure HD|
-|1394|1371241818|Automatic|❌|Rain City|Rain City|Rain City|Rain City|Rain City|Rain City|
+|1394|1371241818|Automatic|雨城|Rain City|Rain City|Rain City|Rain City|Rain City|Rain City|
 |1393|6748572801|Automatic|❌|首爾驅魔人1111: Roguelite|首爾驅魔人1111: Roguelite|首爾驅魔人1111: Roguelite|Seoul Exorcist 1111: Roguelite|Seoul Exorcist 1111: Roguelite|Seoul Exorcist 1111: Roguelite|
 |1392|1551546168|Automatic|❌|中文認字遊戲(無廣告版）|中文認字遊戲(無廣告版）|中文認字遊戲(無廣告版）|Find Chinese Word - Full Ver|Find Chinese Word - Full Ver|Find Chinese Word - Full Ver|
 |1391|6474672665|Automatic|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
