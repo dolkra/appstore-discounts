@@ -8770,6 +8770,23 @@
     "history": [
       [
         {
+          "timestamp": 1770893707294,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "TRex 700 N": "2,99 €",
+            "F15 Eagle": "2,99 €",
+            "AH-64 Apache": "2,99 €",
+            "Hughes 500": "2,99 €",
+            "Bell 47": "2,99 €",
+            "Bell 222 Airwolf": "2,99 €",
+            "Boeing 747 Jumbo Jet": "2,99 €",
+            "RC Transformer": "2,99 €",
+            "Race Car": "2,99 €",
+            "Lego Car": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1770886651190,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -67027,6 +67044,27 @@
           "timestamp": 1770886651190,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742988247": {
+    "name": "Tomb Raider™",
+    "maxPriceInfo": {
+      "price": 14.49,
+      "formattedPrice": "14,49 €"
+    },
+    "minPriceInfo": {
+      "price": 14.49,
+      "formattedPrice": "14,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1770893707294,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
           "inAppPurchases": {}
         }
       ]
