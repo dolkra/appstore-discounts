@@ -44701,9 +44701,19 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Filebar Pro Lifetime": "8,99 €"
+      "Filebar Pro Lifetime": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770935933212,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Filebar Pro Lifetime": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767320023055,
