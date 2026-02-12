@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1750` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1751` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1751|6752695239|Automatic|❌|飛空艇探險物語|飛空艇探險物語|飛空艇探險物語|Skyship Quest Story|Skyship Quest Story|Skyship Quest Story|
 |1750|6742988247|Automatic|❌|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|
 |1749|6757187110|Automatic|❌|❌|❌|❌|❌|EKYS Plus|❌|
 |1748|6462841384|Automatic|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|
@@ -979,7 +980,7 @@ So far, we've covered `7` `Countries or Regions` and  `1750` `Apps` <br />Push n
 |781|1326740784|Automatic|❌|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|
 |780|1372408358|Automatic|ARGun2018|ARGun2018|ARGun2018|ARGun2018|ARGun2018|ARGun2018|ARGun2018|
 |779|1438597800|Automatic|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|
-|778|1448798374|Automatic|❌|CAR++|CAR++|CAR++|CAR++|CAR++|❌|
+|778|1448798374|Automatic|❌|CAR++|CAR++|CAR++|CAR++|CAR++|CAR++|
 |777|1450908177|Automatic|❌|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|
 |776|1509817154|Automatic|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|
 |775|1513814705|Automatic|计算器键盘 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|Calculator Keyboard - Faster|

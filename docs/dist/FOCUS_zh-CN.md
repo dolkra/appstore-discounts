@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `1750` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `1751` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1751|6752695239|自动|❌|飛空艇探險物語|飛空艇探險物語|飛空艇探險物語|Skyship Quest Story|Skyship Quest Story|Skyship Quest Story|
 |1750|6742988247|自动|❌|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|Tomb Raider™|
 |1749|6757187110|自动|❌|❌|❌|❌|❌|EKYS Plus|❌|
 |1748|6462841384|自动|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|香港基本法和國安法筆試|
@@ -979,7 +980,7 @@
 |781|1326740784|自动|❌|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|FINAL FANTASY VIII Remastered|
 |780|1372408358|自动|ARGun2018|ARGun2018|ARGun2018|ARGun2018|ARGun2018|ARGun2018|ARGun2018|
 |779|1438597800|自动|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|OKNDrum: Optokinetic Drum|
-|778|1448798374|自动|❌|CAR++|CAR++|CAR++|CAR++|CAR++|❌|
+|778|1448798374|自动|❌|CAR++|CAR++|CAR++|CAR++|CAR++|CAR++|
 |777|1450908177|自动|❌|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|
 |776|1509817154|自动|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|
 |775|1513814705|自动|计算器键盘 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|Calculator Keyboard - Faster|
