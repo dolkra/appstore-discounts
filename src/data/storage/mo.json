@@ -78805,6 +78805,16 @@
     "history": [
       [
         {
+          "timestamp": 1771001866488,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1768581528770,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -134490,8 +134500,8 @@
   "6448201153": {
     "name": "WOL — wake on lan",
     "maxPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "USD 1.49",
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
       "WOL Pro SALE": "USD 0.49",
       "WOL Pro": "USD 0.99"
     },
@@ -134502,6 +134512,17 @@
       "WOL Pro": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771001866488,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "WOL Pro SALE": "USD 0.49",
+            "WOL Pro": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
