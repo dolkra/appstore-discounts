@@ -15,7 +15,7 @@ So far, we've covered `7` `Countries or Regions` and  `1752` `Apps` <br />Push n
 |1747|536495161|Automatic|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|
 |1746|1283082051|Automatic|❌|Pepi|Pepi|Pepi|Pepi|Pepi|Pepi|
 |1745|889417668|Automatic|❌|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|
-|1744|6758669847|Automatic|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|
+|1744|6758669847|Automatic|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|
 |1743|6746479051|Automatic|❌|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|
 |1742|6480510314|Automatic|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|
 |1741|1498859517|Automatic|论如何建立一个修仙门派|論如何建立一個修仙門派|論如何建立一個修仙門派|論如何建立一個修仙門派|论如何建立一个修仙门派|论如何建立一个修仙门派|论如何建立一个修仙门派|

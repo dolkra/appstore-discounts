@@ -15,7 +15,7 @@
 |1747|536495161|自动|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|Lapse It Pro|
 |1746|1283082051|自动|❌|Pepi|Pepi|Pepi|Pepi|Pepi|Pepi|
 |1745|889417668|自动|❌|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|Elementary Minute|
-|1744|6758669847|自动|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|Echo - SSH Client|
+|1744|6758669847|自动|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|Echo - SSH + Mosh Client|
 |1743|6746479051|自动|❌|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|Goblin Sushi|
 |1742|6480510314|自动|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|Eml Reader Pro|
 |1741|1498859517|自动|论如何建立一个修仙门派|論如何建立一個修仙門派|論如何建立一個修仙門派|論如何建立一個修仙門派|论如何建立一个修仙门派|论如何建立一个修仙门派|论如何建立一个修仙门派|

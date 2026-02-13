@@ -11185,6 +11185,23 @@
     "history": [
       [
         {
+          "timestamp": 1771022446501,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "Drumaxx": "USD 1.99",
+            "Ferrous Mobile": "USD 2.99",
+            "Hyper-Pop Mobile": "USD 2.99",
+            "Chip-Tune Mobile": "USD 2.99",
+            "Essential Winds": "USD 1.99",
+            "Essential Strings": "USD 1.99",
+            "DubTechno": "USD 1.99",
+            "Chill-Lo-Fi Mobile": "USD 1.99",
+            "Technocraft": "USD 1.99",
+            "Brazil Bass": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1771015781342,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -141623,7 +141640,7 @@
     ]
   },
   "6758669847": {
-    "name": "Echo - SSH Client",
+    "name": "Echo - SSH + Mosh Client",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
