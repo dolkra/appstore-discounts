@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-02-12T23:53:12.967Z</updated>
+    <updated>2026-02-13T16:04:09.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-12T23:53:12.969Z</updated>
+        <updated>2026-02-13T16:04:09.932Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnThu, 12 Feb 2026 23:53:12 GMT</id>
+        <id>rankingcnFri, 13 Feb 2026 16:04:09 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-12T23:53:12.969Z</updated>
+        <updated>2026-02-13T16:04:09.932Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1751</b>
+        <b>1752</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1550</b>
+        <b>1551</b>
       </td>
       <td>
         <b>76</b>
@@ -384,14 +384,20 @@ feedId:157007849019630592+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1453808408">恶果之地</a>
+        <a href="https://apps.apple.com/cn/app/id1449893235">Earthquake Network</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>Priority 10k for 1 year</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -401,7 +407,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
+        <a href="https://apps.apple.com/cn/app/id1453808408">恶果之地</a>
       </td>
       <td>
         <ul>
@@ -418,7 +424,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1500126852">Chord</a>
+        <a href="https://apps.apple.com/cn/app/id1458460469">人类跌落梦境</a>
       </td>
       <td>
         <ul>
@@ -435,7 +441,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
+        <a href="https://apps.apple.com/cn/app/id1500126852">Chord</a>
       </td>
       <td>
         <ul>
@@ -452,7 +458,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1551273147">Otter - 饮食日记</a>
+        <a href="https://apps.apple.com/cn/app/id1523446532">重生细胞</a>
       </td>
       <td>
         <ul>
@@ -467,6 +473,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>21</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id1551273147">Otter - 饮食日记</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1558391784">Filebar</a>
@@ -489,7 +512,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1584313012">笼中窥梦</a>
@@ -506,7 +529,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1587301632">全能记(录音,备忘,流水)</a>
@@ -523,7 +546,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1614200925">部落与弯刀</a>
@@ -540,7 +563,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1635315427">暖雪</a>
@@ -563,7 +586,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6751309563">火山的女儿：再度重逢</a>
@@ -580,7 +603,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6746777407">魔法工艺</a>
@@ -605,7 +628,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749542417">迷雾北境</a>
@@ -622,7 +645,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6473332700">逐鹿 - 历史沙盘战棋</a>
@@ -639,7 +662,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749045841">王国保卫战5</a>
@@ -656,7 +679,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6740115177">破门而入：行动小队</a>
@@ -673,7 +696,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6612011484">怪物乐土</a>
@@ -690,7 +713,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6633427774">为了吾王-多人联机策略跑团</a>
@@ -707,7 +730,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6502489827">大侠立志传</a>
@@ -724,7 +747,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6466390901">旋转音律 Rotaeno</a>
@@ -741,7 +764,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6739274856">调律诗篇</a>
@@ -766,7 +789,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6444396120">挺进地牢</a>
@@ -783,7 +806,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6443786927">全面憨憨战争模拟器</a>
@@ -800,7 +823,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742221550">魔卡棋旅</a>
@@ -817,7 +840,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6499512726">浮岛冒险</a>
@@ -834,7 +857,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446614518">画中世界</a>
@@ -1284,6 +1307,73 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Earthquake Network]]></title>
+        <id>Earthquake Network-cn-1770994251171</id>
+        <link href="https://apps.apple.com/cn/app/earthquake-network/id1449893235?uo=4"/>
+        <updated>2026-02-13T14:50:51.171Z</updated>
+        <summary type="html"><![CDATA[Priority 10k for 1 year: ¥68.00 → ¥58.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/earthquake-network/id1449893235?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/a4/54/8aa4548f-32f0-bfea-6b45-3cccf2a442fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>Priority 10k for 1 year：</strong><span>¥68.00</span> → <b>
+  <strong>¥58.00</strong>
+</b><span>[¥58.00 ~ ¥68.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥15.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    PRO version：<b>¥22.00</b>
+  </li><li>
+    PRO version discounted：<b>¥22.00</b>
+  </li><li>
+    Priority 10k for 1 month：<b>¥7.00</b>
+  </li><li>
+    Priority 10k for 1 year：<b>¥58.00</b>
+  </li><li>
+    Priority 100k for 1 month：<b>¥3.00</b>
+  </li><li>
+    Priority 100k for 1 year：<b>¥38.00</b>
+  </li><li>
+    Priority 10k for lifetime：<b>¥128.00</b>
+  </li><li>
+    Priority 100k for lifetime：<b>¥88.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Earthquake Network is the most comprehensive app on earthquakes and for most world countries it is the only earthquake early warning system for receiving real time alerts.
+
+Earthquake Network gives you:
+
+- Real time alerts if you live close to the epicentre
+- Alerts seconds in advances if you live far from the epicentre
+- Real time user reports on felt earthquakes
+- Free earthquake data from 21 seismic networks including U.S., Puerto Rico, India, Indonesia, Turkey, Mexico, Chile, Peru, Ecuador, Argentina, Venezuela, Dominican Republic, Colombia, Costa Rica, Nicaragua, China, New Zeland, Japan, Italy, Croatia, Spain and Greece
+
+The Earthquake Network research project (https://www.sismo.app) aims at developing a smartphone-based earthquake early warning system able to detect earthquakes in real time and to alert the population in advance. Smartphones are able to detect earthquakes thanks to the accelerometer on-board each device. When an earthquake is detected, users with the application installed are immediatly alerted. Since earthquake waves travel at around 5 km/s it is possible to alert the population not yet reached by the damaging waves of the earthquake. For the scientific details about the project please refer to the scientific paper on Frontiers at https://bit.ly/2C8B5HI
+
+Subscriptions:
+
+When an earthquake is detected in real time by smartphones near the epicenter, the server sends an alert to all users with the app. Alerting all users can take up to 10 seconds since it is not technically feasible to do so instantly. Now you can join the priority lists of the first 10,000 or 100,000 people alerted in real time. The following subscriptions are available:
+
+- Subscription 10k for 1 year
+- Subscription 10k for 1 month 
+
+- Subscription 100k for 1 year
+- Subscription 100k for 1 month 
+
+• Payment will be charged to iTunes Account at confirmation of purchase
+• Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period
+• Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal
+• Subscriptions may be managed by the user and auto-renewal may be turned off by going to the user's Account Settings after purchase
+• Any unused portion of a free trial period, if offered, will be forfeited when the user purchases a subscription to that publication, where applicable
+
+Privacy: https://www.sismo.app/privacy
+
+Terms and conditions: https://www.sismo.app/terms-conditions
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Filebar]]></title>
@@ -2412,142 +2502,6 @@ B站：@良心工作室
 小红书：@良心工作室
 微博：@良心工作室官方
 Q群：334233839
-
-若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Waterlogue: 照片变画作]]></title>
-        <id>Waterlogue: 照片变画作-cn-1770730908255</id>
-        <link href="https://apps.apple.com/cn/app/waterlogue-%E7%85%A7%E7%89%87%E5%8F%98%E7%94%BB%E4%BD%9C/id764925064?uo=4"/>
-        <updated>2026-02-10T13:41:48.255Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/waterlogue-%E7%85%A7%E7%89%87%E5%8F%98%E7%94%BB%E4%BD%9C/id764925064?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6e/58/b6/6e58b6e5-710c-239c-9702-f78b1342428e/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥18.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Waterlogue Unlimited（月度）：<b>¥15.00</b>
-  </li><li>
-    Waterlogue Unlimited（年度）：<b>¥58.00</b>
-  </li><li>
-    Waterlogue Unlimited（终身）：<b>¥148.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  无需绘画功底，也能创作精美的水彩图像——Waterlogue用绚丽流动的色彩捕捉照片的神韵。像艺术家一样看世界。
-
-
-功能:
-
-• 创作宛如手绘的艺术作品
-• 照片瞬间变成明亮的水彩画
-• 丰富的风格，适用于人像、风景等
-• 人物和宠物效果出色
-• 可装裱的高品质导出
-• 模拟水彩，非AI生成
-• 注重隐私——照片始终留在您的设备上
-• 自定义边框、亮度和细节
-
-
-荣誉:
-
-• 自2013年以来销量超过100万
-• 荣获Apple"App Store Best of 2014"
-• 荣获App Store"今日推荐"
-• 奥普拉节日精选！"Made with Love: DIY Gifts"——O, The Oprah Magazine
-• "……Waterlogue的绘画算法背后显然有着非常用心的人文关怀" ——WIRED
-• "……Waterlogue会让你惊叹不已，这是我见过的第一款能呈现出真实水彩画效果的应用" ——Cult of Mac
-• "水彩应用并非新概念，但Waterlogue以精美直观的方式实现了它，使用起来非常愉悦" ——AppAdvice.com
-• "它超越了典型的Photoshop水彩滤镜，拥有更强的视觉智能和更真实的颜料质感" ——James Gurney，艺术家，《恐龙帝国》作者
-• 由This by Tinrocket（App Store Best of 2016）、Olli（App Store Best of 2017）等应用的开发商Tinrocket出品
-
-
-关注TINROCKET:
-
-• 在Instagram上关注@Tinrocket，获取最新动态！
-• 如有问题或需要帮助，请发送邮件至support@tinrocket.com
-• 如果您喜欢Waterlogue，请在App Store留下评论或评分。每一条评论对我们这样的独立开发者都意义重大
-
-
-Waterlogue®和See the world like an artist®是Tinrocket, LLC的注册商标
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[破门而入：行动小队]]></title>
-        <id>破门而入：行动小队-cn-1770693346524</id>
-        <link href="https://apps.apple.com/cn/app/%E7%A0%B4%E9%97%A8%E8%80%8C%E5%85%A5-%E8%A1%8C%E5%8A%A8%E5%B0%8F%E9%98%9F/id6740115177?uo=4"/>
-        <updated>2026-02-10T03:15:46.524Z</updated>
-        <summary type="html"><![CDATA[价格: ¥12.00 → ¥9.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%A0%B4%E9%97%A8%E8%80%8C%E5%85%A5-%E8%A1%8C%E5%8A%A8%E5%B0%8F%E9%98%9F/id6740115177?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/14/1c/ed/141ced37-914c-fbc5-843b-4e62bb6e83d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥12.00</span> → <b>
-  <strong>¥9.00</strong>
-</b><span>[¥9.00 ~ ¥12.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥9.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    DLC：海外行动：<b>¥4.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  《破门而入：行动小队》是一款独具特色的2D反恐战术游戏，它将策略的深度与动作的爽快感完美结合。在游戏中，你需要指挥特警小队，在错综复杂的室内环境中直面各种致命威胁。
-
-游戏主要体验在于：
-
-风格迥异的作战成员：6位特警队员各自拥有专属的武器、技能与升级路线，无论是正面强攻还是隐秘行动，都能找到合适的执行者。配合超过60种枪械装备，战术组合千变万化。
-
-拒绝线性的自由挑战：84个关卡无需按部就班，你可以根据任务情况自由选择挑战顺序。面对同一场景，亦可尝试多种通关思路，游戏没有唯一的正确答案。
-
-持续不断的新鲜体验：完成主线任务后，“无尽高塔”模式提供了极高的随机性挑战，而“僵尸入侵”模式则让你在熟悉的战场上，用全新的方式对抗成群的僵尸。
-
-总之，如果你渴望一款能真正让自己运筹帷幄的战术游戏，本作将是绝佳选择。
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪物乐土]]></title>
-        <id>怪物乐土-cn-1770693346524</id>
-        <link href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4"/>
-        <updated>2026-02-10T03:15:46.524Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%80%AA%E7%89%A9%E4%B9%90%E5%9C%9F/id6612011484?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/36/21/9b/36219be2-fb37-182c-8b78-ad2008a532af/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
-</b><span>[¥12.00 ~ ¥18.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥12.00</b>
-</p><h2>应用描述</h2><p>
-  宠物对战与银河恶魔城的融合。在可爱的侧视像素世界中收集和训练怪物，并让其为你作战。
-
-【寻找灵魂使魔，成为你最可靠的冒险伙伴】
-跟随先人的步伐，成为一个怪物饲养人并拯救怪物避难所。借助收集的怪物组建团队，开展史诗般冒险，解锁不断扩张的世界。在成为终极怪物饲养人的过程中，你将揭开威胁着人类与怪物之间和平的谜团。
-
-【探索银河恶魔城式的世界】
-探索银河恶魔城式的世界。借助培养的怪物们各种专属能力，你可以在这个世界上进行探索，拓宽自己视界。砍掉树藤、撞倒墙壁、滑过间隙......在怪物的帮助下，通通不在话下。
-
-【组建你自己的队伍】
-从世界各地孵化、收集和训练怪物，组建自己的组合。每个怪物均具备独有技能树，方便定制你自己的队伍。
-
-【战术3V3作战，激情碰撞】
-有策略地发出进攻命令，发挥最大效果；集中进攻以创造各种连击，反复出招，找到最佳的连击，从而获得最为稀有的怪兽蛋。
-
-【与其他的饲养员联机匹配战斗】
-针锋相对，在线上玩家对战中体验雄壮的战斗，接受技巧与能力的试炼！收集并训练怪物，点满它们的技能树，一路作战，让你的怪物撑到最后！
-
-【联系我们】
-抖音：@良心工作室
-快手：@良心工作室
-B站：@良心工作室
-小红书：@良心工作室
-微博：@良心工作室官方
-Q群：925023982
 
 若有任何关于游戏的建议与反馈，欢迎通过上方任意方式联系我们，我们将会为您提供一对一的客户服务！
 </p>]]></content>

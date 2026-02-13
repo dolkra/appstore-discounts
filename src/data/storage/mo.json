@@ -14622,6 +14622,14 @@
     "history": [
       [
         {
+          "timestamp": 1770994251171,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767544365292,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -94915,10 +94923,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770994251171,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1769480796092,
@@ -117610,6 +117626,17 @@
     "history": [
       [
         {
+          "timestamp": 1770994251171,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770568781768,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -127820,6 +127847,16 @@
       "Supporter Pack": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1770994251171,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Supporter Pack": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767112568849,
