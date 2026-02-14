@@ -18536,6 +18536,25 @@
     "history": [
       [
         {
+          "timestamp": 1771079701545,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Chapter N": "USD 3.99",
+            "Chapter D": "USD 4.99",
+            "Chapter L": "USD 9.99",
+            "Chapter T": "USD 4.99",
+            "Chapter R": "USD 4.99",
+            "Chapter 0": "USD 4.99",
+            "Chapter K": "USD 4.99",
+            "Chapter 10": "USD 4.99",
+            "Chapter 9": "USD 4.99",
+            "Chapter S": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770842923404,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -54374,6 +54393,46 @@
           "inAppPurchases": {
             "金鉆VIP": "USD 0.99",
             "移除廣告": "USD 0.00"
+          }
+        }
+      ]
+    ]
+  },
+  "1069549814": {
+    "name": "The Binding of Isaac: Rebirth",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99",
+      "AB, AB+, Repentance": "USD 39.99",
+      "Afterbirth+ and Repentance": "USD 24.99",
+      "Afterbirth and AB+": "USD 24.99",
+      "Binding of Isaac: Repentance": "USD 14.99",
+      "Binding of Isaac: Afterbirth+": "USD 14.99",
+      "Binding of Isaac: Afterbirth": "USD 14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "USD 14.99",
+      "AB, AB+, Repentance": "USD 39.99",
+      "Afterbirth+ and Repentance": "USD 24.99",
+      "Afterbirth and AB+": "USD 24.99",
+      "Binding of Isaac: Repentance": "USD 14.99",
+      "Binding of Isaac: Afterbirth+": "USD 14.99",
+      "Binding of Isaac: Afterbirth": "USD 14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771079701545,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "AB, AB+, Repentance": "USD 39.99",
+            "Afterbirth+ and Repentance": "USD 24.99",
+            "Afterbirth and AB+": "USD 24.99",
+            "Binding of Isaac: Repentance": "USD 14.99",
+            "Binding of Isaac: Afterbirth+": "USD 14.99",
+            "Binding of Isaac: Afterbirth": "USD 14.99"
           }
         }
       ]
