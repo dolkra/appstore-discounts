@@ -27102,6 +27102,23 @@
     "history": [
       [
         {
+          "timestamp": 1771058521908,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "私信付费1元": "0,99 €",
+            "私信付费8元": "0,99 €",
+            "私信付费6元": "0,99 €",
+            "私信付费3元": "0,99 €",
+            "998元": "179,99 €",
+            "618元": "99,99 €",
+            "488元": "79,99 €",
+            "218元": "34,99 €",
+            "118元": "19,99 €",
+            "50元": "8,99 €"
+          }
+        },
+        {
           "timestamp": 1771052216917,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -34472,6 +34489,34 @@
           "formattedPrice": "7,99 €",
           "inAppPurchases": {
             "Notes Writer Pro AI Assistant": "1,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "1422489202": {
+    "name": "ProBikeGarage: Bicycle tracker",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Premium annual subscription": "29,99 €",
+      "Premium monthly subscription": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Premium annual subscription": "29,99 €",
+      "Premium monthly subscription": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771058521908,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Premium annual subscription": "29,99 €",
+            "Premium monthly subscription": "2,99 €"
           }
         }
       ]
@@ -42054,18 +42099,37 @@
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Starter Package B": "59,99 €",
+      "Starter Package B": "34,99 €",
       "Daily Jewel Package": "22,99 €",
-      "Lite Daily Jewel Package": "9,99 €",
-      "Starter Package A": "17,99 €",
-      "Remove AD": "9,99 €",
-      "Jewel Package D": "49,99 €",
-      "Jewel Package A": "5,99 €",
-      "Jewel Package F": "99,99 €",
-      "Jewel Package C": "29,99 €",
-      "Jewel Package B": "9,99 €"
+      "Lite Daily Jewel Package": "7,99 €",
+      "Starter Package A": "8,99 €",
+      "Remove AD": "7,99 €",
+      "Jewel Package D": "34,99 €",
+      "Jewel Package A": "3,99 €",
+      "Jewel Package F": "79,99 €",
+      "Jewel Package C": "17,99 €",
+      "Jewel Package B": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771058521908,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Starter Package B": "34,99 €",
+            "Daily Jewel Package": "22,99 €",
+            "Lite Daily Jewel Package": "7,99 €",
+            "Starter Package A": "8,99 €",
+            "Remove AD": "7,99 €",
+            "Jewel Package D": "34,99 €",
+            "Jewel Package A": "3,99 €",
+            "Jewel Package F": "79,99 €",
+            "Jewel Package C": "17,99 €",
+            "Jewel Package B": "8,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
