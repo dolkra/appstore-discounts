@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/mo.xml</id>
     <title>App Store Discounts（MO）</title>
-    <updated>2026-02-14T08:12:23.199Z</updated>
+    <updated>2026-02-14T11:50:08.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008389768002560+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomemo</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-14T08:12:23.200Z</updated>
+        <updated>2026-02-14T11:50:08.085Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008389768002560+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingmoSat, 14 Feb 2026 08:12:23 GMT</id>
+        <id>rankingmoSat, 14 Feb 2026 11:50:08 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-14T08:12:23.200Z</updated>
+        <updated>2026-02-14T11:50:08.085Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>
@@ -51,13 +51,13 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1752</b>
+        <b>1753</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1551</b>
+        <b>1552</b>
       </td>
       <td>
         <b>76</b>
@@ -68,13 +68,13 @@ feedId:157008389768002560+userId:73658201673997312
         <b>MO</b>
       </td>
       <td>
-        <b>1625</b>
+        <b>1626</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>1446</b>
+        <b>1447</b>
       </td>
       <td>
         <b>63</b>
@@ -698,14 +698,36 @@ feedId:157008389768002560+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1533979882">Northgard</a>
+        <a href="https://apps.apple.com/mo/app/id1523146826">全民RPG：重啟</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>Starter Package B</i>：<b>1</b>
+              </li><li>
+                <i>Lite Daily Jewel Package</i>：<b>1</b>
+              </li><li>
+                <i>Starter Package A</i>：<b>1</b>
+              </li><li>
+                <i>Remove AD</i>：<b>1</b>
+              </li><li>
+                <i>Jewel Package D</i>：<b>1</b>
+              </li><li>
+                <i>Jewel Package A</i>：<b>1</b>
+              </li><li>
+                <i>Jewel Package F</i>：<b>1</b>
+              </li><li>
+                <i>Jewel Package C</i>：<b>1</b>
+              </li><li>
+                <i>Jewel Package B</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -715,7 +737,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1537060891">Titan Quest: Legendary Edition</a>
+        <a href="https://apps.apple.com/mo/app/id1533979882">Northgard</a>
       </td>
       <td>
         <ul>
@@ -732,7 +754,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1537362903">Neighbours back From Hell</a>
+        <a href="https://apps.apple.com/mo/app/id1537060891">Titan Quest: Legendary Edition</a>
       </td>
       <td>
         <ul>
@@ -749,7 +771,7 @@ feedId:157008389768002560+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/mo/app/id1551273147">Otter - Food & Meal Diary</a>
+        <a href="https://apps.apple.com/mo/app/id1537362903">Neighbours back From Hell</a>
       </td>
       <td>
         <ul>
@@ -764,6 +786,23 @@ feedId:157008389768002560+userId:73658201673997312
     <tr>
       <td>
         <b>36</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/mo/app/id1551273147">Otter - Food & Meal Diary</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1558391784">Filebar</a>
@@ -786,7 +825,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1571643809">地城謎蹤</a>
@@ -803,7 +842,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1574175808">Specimen Zero - Horror</a>
@@ -820,7 +859,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1575414319">Dune: Imperium</a>
@@ -843,7 +882,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1587301632">全能備忘錄</a>
@@ -860,7 +899,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1587860402">籠中窺夢</a>
@@ -877,7 +916,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1592505377">Wreckfest</a>
@@ -894,7 +933,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1609910024">泰拉瑞亞</a>
@@ -911,7 +950,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1611723264">人類跌落夢境</a>
@@ -928,7 +967,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1614771445">Rotaeno - 旋轉音律</a>
@@ -945,7 +984,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1614795077">Otaku's Adventure</a>
@@ -962,7 +1001,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1619867109">尋找天堂</a>
@@ -979,7 +1018,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1621065119">逆轉裁判123成步堂精選集</a>
@@ -996,7 +1035,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1640627334">Resident Evil Village for Mac</a>
@@ -1023,7 +1062,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1642733080">DungeonSquad</a>
@@ -1040,7 +1079,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id1644917705">無處遁形：全網公敵</a>
@@ -1057,7 +1096,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6745099872">Demumu: Are You Dead?</a>
@@ -1074,7 +1113,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6478639011">Subnautica</a>
@@ -1091,7 +1130,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6455495086">3D Pinball Space Cadet</a>
@@ -1114,7 +1153,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6447508479">暖雪</a>
@@ -1137,7 +1176,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6757755170">Inkblade Idlers：水墨武俠</a>
@@ -1154,7 +1193,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6752503669">Solar Arc – Sun & Moon Tracker</a>
@@ -1171,7 +1210,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6446021269">ROCKMAN X DiVE Offline</a>
@@ -1188,7 +1227,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6450980545">Resident Evil Village</a>
@@ -1217,7 +1256,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6462360082">Resident Evil 4</a>
@@ -1244,7 +1283,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6449233549">Ark Nova</a>
@@ -1261,7 +1300,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6471947612">召喚騎士團</a>
@@ -1288,7 +1327,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6755290585">Raiders Map</a>
@@ -1311,7 +1350,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6711347049">大俠立志傳</a>
@@ -1328,7 +1367,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6443875944">Sands of Salzaar</a>
@@ -1345,7 +1384,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6742472194">鬼谷八荒 Tale of Immortal</a>
@@ -1370,7 +1409,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6633412890">Tiny Terraces</a>
@@ -1387,7 +1426,7 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/mo/app/id6504841512">Halls of Torment: Premium</a>
@@ -1981,6 +2020,95 @@ feedId:157008389768002560+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[全民RPG：重啟]]></title>
+        <id>全民RPG：重啟-mo-1771065334683</id>
+        <link href="https://apps.apple.com/mo/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4"/>
+        <updated>2026-02-14T10:35:34.683Z</updated>
+        <summary type="html"><![CDATA[Starter Package B: USD 49.99 → USD 29.99<br/>Lite Daily Jewel Package: USD 8.99 → USD 6.99<br/>Starter Package A: USD 14.99 → USD 7.99<br/>Remove AD: USD 8.99 → USD 6.99<br/>Jewel Package D: USD 44.99 → USD 29.99<br/>Jewel Package A: USD 4.99 → USD 3.99<br/>Jewel Package F: USD 89.99 → USD 69.99<br/>Jewel Package C: USD 24.99 → USD 14.99<br/>Jewel Package B: USD 8.99 → USD 7.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/mo/app/%E5%85%A8%E6%B0%91rpg-%E9%87%8D%E5%95%9F/id1523146826?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4b/6e/cf/4b6ecfe0-4a95-8a16-2e1d-d90d72ba723c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>Starter Package B：</strong><span>USD 49.99</span> → <b>
+  <strong>USD 29.99</strong>
+</b><span>[USD 29.99 ~ USD 49.99]</span>
+  </li><li>
+    <strong>Lite Daily Jewel Package：</strong><span>USD 8.99</span> → <b>
+  <strong>USD 6.99</strong>
+</b><span>[USD 6.99 ~ USD 8.99]</span>
+  </li><li>
+    <strong>Starter Package A：</strong><span>USD 14.99</span> → <b>
+  <strong>USD 7.99</strong>
+</b><span>[USD 7.99 ~ USD 14.99]</span>
+  </li><li>
+    <strong>Remove AD：</strong><span>USD 8.99</span> → <b>
+  <strong>USD 6.99</strong>
+</b><span>[USD 6.99 ~ USD 8.99]</span>
+  </li><li>
+    <strong>Jewel Package D：</strong><span>USD 44.99</span> → <b>
+  <strong>USD 29.99</strong>
+</b><span>[USD 29.99 ~ USD 44.99]</span>
+  </li><li>
+    <strong>Jewel Package A：</strong><span>USD 4.99</span> → <b>
+  <strong>USD 3.99</strong>
+</b><span>[USD 3.99 ~ USD 4.99]</span>
+  </li><li>
+    <strong>Jewel Package F：</strong><span>USD 89.99</span> → <b>
+  <strong>USD 69.99</strong>
+</b><span>[USD 69.99 ~ USD 89.99]</span>
+  </li><li>
+    <strong>Jewel Package C：</strong><span>USD 24.99</span> → <b>
+  <strong>USD 14.99</strong>
+</b><span>[USD 14.99 ~ USD 24.99]</span>
+  </li><li>
+    <strong>Jewel Package B：</strong><span>USD 8.99</span> → <b>
+  <strong>USD 7.99</strong>
+</b><span>[USD 7.99 ~ USD 8.99]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>USD 0.99</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    Starter Package B：<b>USD 29.99</b>
+  </li><li>
+    Daily Jewel Package：<b>USD 19.99</b>
+  </li><li>
+    Lite Daily Jewel Package：<b>USD 6.99</b>
+  </li><li>
+    Starter Package A：<b>USD 7.99</b>
+  </li><li>
+    Remove AD：<b>USD 6.99</b>
+  </li><li>
+    Jewel Package D：<b>USD 29.99</b>
+  </li><li>
+    Jewel Package A：<b>USD 3.99</b>
+  </li><li>
+    Jewel Package F：<b>USD 69.99</b>
+  </li><li>
+    Jewel Package C：<b>USD 14.99</b>
+  </li><li>
+    Jewel Package B：<b>USD 7.99</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  召集傳說英雄，挑戰無盡關卡！
+自動戰鬥、採礦、強化通通都有！
+真正的放置型奇幻 RPG，即使離線也能持續成長！
+
+* 組建擁有獨特技能的英雄戰隊，發揮戰略優勢！
+
+* 利用礦坑系統收集資源！打造裝備所需的一切盡在其中！
+
+* 挑戰強大的首領，獲得傳說級獎勵！
+
+* 自動成長系統，讓忙碌的你也能輕鬆遊玩！
+
+* 多樣化內容：地城、遺物、進化、傳說裝備等你來體驗！
+
+立即下載，開始書寫屬於你的傳奇！
+馬上開始遊戲，收集你的英雄吧！
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[照片橡皮擦 - 去除水印雜物多余人物]]></title>
