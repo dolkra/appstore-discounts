@@ -43776,6 +43776,25 @@
     "history": [
       [
         {
+          "timestamp": 1771052216917,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "USD 0.00",
+            "ThemeA0B1C0": "USD 0.00",
+            "ThemeA1B0C0": "USD 0.00",
+            "ThemeA0B1C1": "USD 0.00",
+            "ThemeA1B0C1": "USD 0.00",
+            "ThemeA1B1C0": "USD 0.00",
+            "ThemeA2B0C0": "USD 0.00",
+            "主题大礼包": "USD 3.99",
+            "ThemeA2B0C1": "USD 3.99",
+            "ThemeA2B1C0": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770794001854,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -54228,6 +54247,17 @@
       "移除廣告": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771052216917,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "金鉆VIP": "USD 0.99",
+            "移除廣告": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
