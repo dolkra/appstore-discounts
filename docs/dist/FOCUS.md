@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1755` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1757` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1757|1116868277|Automatic|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|❌|
+|1756|1193503667|Automatic|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|❌|
 |1755|1069549814|Automatic|❌|The Binding of Isaac: Rebirth|The Binding of Isaac: Rebirth|The Binding of Isaac: Rebirth|The Binding of Isaac: Rebirth|The Binding of Isaac: Rebirth|The Binding of Isaac: Rebirth|
 |1754|6755930349|Automatic|掌上斗地主 - 手表游戏|掌上鬥地主 - 手錶遊戲|掌上鬥地主 - 手錶遊戲|掌上鬥地主 - 手錶遊戲|Mini Landlord - Watch Game|Mini Landlord - Watch Game|Mini Landlord - Watch Game|
 |1753|1422489202|Automatic|ProBikeGarage: Bicycle tracker|ProBikeGarage: Bicycle tracker|ProBikeGarage: Bicycle tracker|ProBikeGarage: Bicycle tracker|ProBikeGarage: Bicycle tracker|ProBikeGarage: Bicycle tracker|ProBikeGarage: Bicycle tracker|
