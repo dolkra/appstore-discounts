@@ -67365,11 +67365,21 @@
       "Remove Ads": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Remove Ads": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771124060377,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Remove Ads": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770303146662,
