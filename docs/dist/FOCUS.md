@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1758` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1759` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1759|6757734736|Automatic|REPO MOBILE|REPO MOBILE|REPO MOBILE|REPO MOBILE|REPO MOBILE|REPO MOBILE|REPO MOBILE|
 |1758|1311353234|Automatic|❌|Bridge Constructor Portal|Bridge Constructor Portal|Bridge Constructor Portal|Bridge Constructor Portal|Bridge Constructor Portal|Bridge Constructor Portal|
 |1757|1116868277|Automatic|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|圣火徽章之火焰纹章|❌|
 |1756|1193503667|Automatic|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|圣火徽章外传之火焰纹章索非亚的复苏|❌|
@@ -1322,7 +1323,7 @@ So far, we've covered `7` `Countries or Regions` and  `1758` `Apps` <br />Push n
 |446|1029932207|Automatic|❌|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|Papa's Cupcakeria To Go!|
 |445|1035219553|Automatic|Analog London|Analog London|Analog London|Analog London|Analog London|Analog London|Analog London|
 |444|1035219562|Automatic|Analog Paris|Analog Paris|Analog Paris|Analog Paris|Analog Paris|Analog Paris|Analog Paris|
-|443|1065360416|Automatic|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|BimmerLink for BMW and MINI|
+|443|1065360416|Automatic|BimmerLink|BimmerLink|BimmerLink|BimmerLink|BimmerLink|BimmerLink|BimmerLink|
 |442|1065599938|Automatic|❌|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|HARVEST MOON: Seeds Of Memories|
 |441|1077639630|Automatic|说剑The Swords|❌|❌|❌|❌|❌|❌|
 |440|1093131935|Automatic|❌|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|Incredibox|

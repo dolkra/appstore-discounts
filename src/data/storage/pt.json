@@ -2674,6 +2674,25 @@
     "history": [
       [
         {
+          "timestamp": 1771232335229,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Beethoven: The Mutopia Collection": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1771144950749,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -22756,7 +22775,7 @@
     ]
   },
   "1065360416": {
-    "name": "BimmerLink for BMW and MINI",
+    "name": "BimmerLink",
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "39,99 €",
@@ -22764,12 +22783,23 @@
       "BimmerLink full version": "44,99 €"
     },
     "minPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "29,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "CarPlay Add-On": "7,99 €",
       "BimmerLink full version": "39,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771232335229,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "CarPlay Add-On": "9,99 €",
+            "BimmerLink full version": "39,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770721274787,
@@ -38266,7 +38296,8 @@
       "Atlantic City Ultimate Theme Sale": "9,99 €",
       "Stormwing Token": "9,99 €",
       "Cannon Token": "2,99 €",
-      "VIP Offer": "19,99 €"
+      "VIP Offer": "19,99 €",
+      "The Ultimate Edition Sale": "24,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -38352,10 +38383,28 @@
       "Atlantic City Ultimate Theme Sale": "9,99 €",
       "Stormwing Token": "9,99 €",
       "Cannon Token": "2,99 €",
-      "VIP Offer": "19,99 €"
+      "VIP Offer": "19,99 €",
+      "The Ultimate Edition Sale": "24,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1771232335229,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "The Complete Collection": "39,99 €",
+            "Euro Trip": "3,99 €",
+            "The Dragon": "3,49 €",
+            "New York 2121 Board": "6,99 €",
+            "Welcome Offer": "19,99 €",
+            "New York 2121": "14,99 €",
+            "Promotion": "19,99 €",
+            "Paris, La Belle Epoque Board": "6,99 €"
+          }
+        },
         {
           "timestamp": 1771220391669,
           "price": 4.99,
@@ -46685,6 +46734,25 @@
       "Elsa character": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771232335229,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Lisa character": "0,00 €",
+            "Founders Pack": "0,99 €",
+            "Marco character": "0,99 €",
+            "Gloria skin": "0,99 €",
+            "Jorge skin": "0,99 €",
+            "Daniel skin": "0,99 €",
+            "Reyna skin": "0,99 €",
+            "Purple menu color": "3,99 €",
+            "Red menu color": "1,99 €",
+            "Yellow menu color": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770756837551,
@@ -67981,6 +68049,55 @@
           "inAppPurchases": {
             "Luxury Pack": "1,99 €",
             "Medium Pack": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6757734736": {
+    "name": "REPO MOBILE",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "6,000 DIAMONDS": "22,99 €",
+      "2,500 DIAMONDS": "9,99 €",
+      "1,000 DIAMONDS": "5,99 €",
+      "500 DIAMONDS": "2,99 €",
+      "VIP": "2,99 €",
+      "UNLOCK MULTIPLAYER Permanently": "1,99 €",
+      "Better Flashlight": "2,99 €",
+      "Infinity Energy": "5,99 €",
+      "Shrinker Cart": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "6,000 DIAMONDS": "22,99 €",
+      "2,500 DIAMONDS": "9,99 €",
+      "1,000 DIAMONDS": "5,99 €",
+      "500 DIAMONDS": "2,99 €",
+      "VIP": "2,99 €",
+      "UNLOCK MULTIPLAYER Permanently": "1,99 €",
+      "Better Flashlight": "2,99 €",
+      "Infinity Energy": "5,99 €",
+      "Shrinker Cart": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771232335229,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "6,000 DIAMONDS": "22,99 €",
+            "2,500 DIAMONDS": "9,99 €",
+            "1,000 DIAMONDS": "5,99 €",
+            "500 DIAMONDS": "2,99 €",
+            "VIP": "2,99 €",
+            "UNLOCK MULTIPLAYER Permanently": "1,99 €",
+            "Better Flashlight": "2,99 €",
+            "Infinity Energy": "5,99 €",
+            "Shrinker Cart": "5,99 €"
           }
         }
       ]

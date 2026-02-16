@@ -53221,7 +53221,7 @@
     ]
   },
   "1065360416": {
-    "name": "BimmerLink for BMW and MINI",
+    "name": "BimmerLink",
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "USD 39.99",
@@ -53229,12 +53229,23 @@
       "BimmerLink full version": "USD 44.99"
     },
     "minPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "USD 29.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "CarPlay Add-On": "USD 9.99",
       "BimmerLink full version": "USD 39.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771232335229,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "BimmerLink full version": "USD 39.99",
+            "CarPlay Add-On": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770721274787,
@@ -142330,6 +142341,55 @@
           "inAppPurchases": {
             "Luxury Pack": "USD 1.49",
             "Medium Pack": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "6757734736": {
+    "name": "REPO MOBILE",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "6,000 DIAMONDS": "USD 19.99",
+      "2,500 DIAMONDS": "USD 9.99",
+      "1,000 DIAMONDS": "USD 4.99",
+      "500 DIAMONDS": "USD 2.99",
+      "VIP": "USD 2.99",
+      "UNLOCK MULTIPLAYER Permanently": "USD 1.99",
+      "Better Flashlight": "USD 2.99",
+      "Infinity Energy": "USD 4.99",
+      "Shrinker Cart": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99",
+      "6,000 DIAMONDS": "USD 19.99",
+      "2,500 DIAMONDS": "USD 9.99",
+      "1,000 DIAMONDS": "USD 4.99",
+      "500 DIAMONDS": "USD 2.99",
+      "VIP": "USD 2.99",
+      "UNLOCK MULTIPLAYER Permanently": "USD 1.99",
+      "Better Flashlight": "USD 2.99",
+      "Infinity Energy": "USD 4.99",
+      "Shrinker Cart": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771232335229,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "6,000 DIAMONDS": "USD 19.99",
+            "2,500 DIAMONDS": "USD 9.99",
+            "1,000 DIAMONDS": "USD 4.99",
+            "500 DIAMONDS": "USD 2.99",
+            "VIP": "USD 2.99",
+            "UNLOCK MULTIPLAYER Permanently": "USD 1.99",
+            "Better Flashlight": "USD 2.99",
+            "Infinity Energy": "USD 4.99",
+            "Shrinker Cart": "USD 4.99"
           }
         }
       ]

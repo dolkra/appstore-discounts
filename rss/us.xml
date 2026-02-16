@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-02-16T06:56:17.535Z</updated>
+    <updated>2026-02-16T10:16:31.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-16T06:56:17.535Z</updated>
+        <updated>2026-02-16T10:16:31.098Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 16 Feb 2026 06:56:17 GMT</id>
+        <id>rankingusMon, 16 Feb 2026 10:16:31 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-02-16T06:56:17.536Z</updated>
+        <updated>2026-02-16T10:16:31.098Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1758</b>
+        <b>1759</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1557</b>
+        <b>1558</b>
       </td>
       <td>
         <b>76</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1621</b>
+        <b>1622</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1445</b>
+        <b>1446</b>
       </td>
       <td>
         <b>60</b>
@@ -118,6 +118,29 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/us/app/id1065360416">BimmerLink</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>BimmerLink full version</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/us/app/id1248033433">Kingdom Rush Vengeance TD Game</a>
       </td>
       <td>
@@ -150,7 +173,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -173,7 +196,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1500126852">Chord</a>
@@ -190,7 +213,24 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/us/app/id1574175808">Specimen Zero - Horror</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6757755170">Inkblade Idlers: Wuxia RPG</a>
@@ -207,7 +247,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6504453094">Black Border 2</a>
@@ -224,7 +264,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id6455495086">3D Pinball Space Cadet</a>
@@ -247,7 +287,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id288419283">RadarScope</a>
@@ -270,7 +310,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id327742738">聖經(和合本)(繁體中英對照)</a>
@@ -293,7 +333,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id396085661">Game Dev Story</a>
@@ -310,7 +350,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id401818935">Genius Scan Enterprise - PDF</a>
@@ -333,7 +373,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id459189186">Machinarium</a>
@@ -350,7 +390,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id510119487">AnatomyMapp</a>
@@ -367,7 +407,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id510249014">Level HD.</a>
@@ -384,7 +424,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id531727127">CovertCam</a>
@@ -401,7 +441,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id549432607">Townsmen Premium</a>
@@ -418,7 +458,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id646256209">Photo Eraser for iPhone</a>
@@ -435,7 +475,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id764925064">Waterlogue: Photo to Painting</a>
@@ -452,7 +492,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -469,7 +509,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id998834675">Clouds & Sheep 2 Premium</a>
@@ -486,7 +526,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1001096601">1941 Frozen Front Premium</a>
@@ -503,30 +543,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1065360416">BimmerLink for BMW and MINI</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>BimmerLink full version</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1067575393">Image Eraser - Inpaint & heal</a>
@@ -543,7 +560,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1070462618">Hero Emblems II</a>
@@ -560,7 +577,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1159700098">To the Moon</a>
@@ -577,7 +594,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1239299402">Street Fighter IV CE</a>
@@ -594,7 +611,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1271620263">ICEY</a>
@@ -611,7 +628,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1304822713">Infinity Tank Battle</a>
@@ -628,7 +645,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1351652600">Boolean!</a>
@@ -645,7 +662,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1359652100">Dungeon Maker : Dark Lord</a>
@@ -662,7 +679,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1373057849">ThreeKingdoms The Last Warlord</a>
@@ -695,7 +712,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1380582804">Mobile Empire</a>
@@ -712,7 +729,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1422480068">Notes Writer Pro 2026</a>
@@ -729,7 +746,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1437669537">Bendy and the Ink Machine</a>
@@ -746,7 +763,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1439262206">Root Board Game</a>
@@ -777,7 +794,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1453808408">Juicy Realm</a>
@@ -794,7 +811,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1490100895">Happy Game :)</a>
@@ -811,7 +828,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1504760106">Eco inc. Save the Earth</a>
@@ -828,7 +845,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1512838461">DayCircle - Day counter</a>
@@ -845,7 +862,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1523146826">Everybody's RPG: Reboot</a>
@@ -884,7 +901,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1533979882">Northgard</a>
@@ -901,7 +918,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537060891">Titan Quest: Legendary Edition</a>
@@ -918,7 +935,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1537362903">Neighbours back From Hell</a>
@@ -935,7 +952,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1551273147">Otter - Food & Meal Diary</a>
@@ -952,7 +969,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/us/app/id1558391784">Filebar - media player</a>
@@ -975,27 +992,10 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>47</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id1574175808">Specimen Zero - Horror</a>
+        <a href="https://apps.apple.com/us/app/id1571643809">Dungeon and Puzzles</a>
       </td>
       <td>
         <ul>
@@ -2149,6 +2149,157 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Specimen Zero - Horror]]></title>
+        <id>Specimen Zero - Horror-us-1771232335229</id>
+        <link href="https://apps.apple.com/us/app/specimen-zero-horror/id1574175808?uo=4"/>
+        <updated>2026-02-16T08:58:55.229Z</updated>
+        <summary type="html"><![CDATA[Price: $2.49 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/specimen-zero-horror/id1574175808?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6c/08/2f/6c082f66-24db-df3f-b089-2f2e45229848/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.49</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$0.99 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Founders Pack：<b>$0.99</b>
+  </li><li>
+    Lisa character：<b>$0.00</b>
+  </li><li>
+    Gloria skin：<b>$0.99</b>
+  </li><li>
+    Elsa character：<b>$0.99</b>
+  </li><li>
+    Jorge skin：<b>$0.99</b>
+  </li><li>
+    Daniel skin：<b>$0.99</b>
+  </li><li>
+    Red menu color：<b>$1.99</b>
+  </li><li>
+    James character：<b>$0.99</b>
+  </li><li>
+    Marco character：<b>$0.99</b>
+  </li><li>
+    Manuel character：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  You wake up in an unknown place and the last thing you remember is being kidnapped. But something has happened in that strange place, something out of the ordinary ... something dangerous. You must discover the way to escape. Because here, you will only find death.
+
+-Explore a large dark area: secret buildings, a creepy hospital and mysterious laboratories. 
+
+-Solve puzzles and search, collect and use objects to escape from the place.
+
+-Escape with your friends in online multiplayer mode! (Alpha)
+
+
+INCLUDES:
+
+-New map: Forest
+-Create unlimited private multiplayer rooms
+-No ads
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/42/98/eb/4298ebc1-ad4c-e1b6-bbf6-a0dafe9b4656/08547d52-bc08-48c7-ae7d-5335b623b987_ios1_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b0/84/ae/b084ae02-8fad-3936-beb9-37d2b0b08d23/424fd10a-bfc0-4019-bdec-5a1e27d37dc8_ios2_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/90/22/50/902250a1-e530-7a2e-b5b4-c281f24daba6/69545bf1-d8ce-49d0-a57c-762a27e8371c_ios3_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/02/73/c1/0273c1fd-0581-51cb-56ac-54f9da2681a2/ec58f4dd-430d-4a0e-bb85-d3354e3202e1_ios_10_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/fc/fe/eb/fcfeeb8d-9a0d-5274-1189-d6d608b9ebb4/f39fe9f0-fd5f-4013-8c5a-6c37d4c7ca87_ios3_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/35/84/9e/35849e7f-4ac1-22da-d110-8c20d1637313/a020403c-d0dc-4bf4-b6b8-f8172d02ee1a_ios4_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/9e/25/8e9e258a-4a43-01a4-48e4-1506ed760db9/9874cde2-f52c-41ce-a7af-16f7b52f2c94_ios5_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/05/83/23/05832356-6493-d74f-315f-0141cc95ad39/09465b06-4ac4-42d7-a185-ab35c82f7e61_ios6_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/aa/5d/04/aa5d0499-56b9-59a4-d3cd-81f9948707ff/5374a048-1533-4f46-b5aa-f05ed34a5302_ios7_5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/34/04/8b34046c-dd14-b6cc-a972-22eb4ea63e00/faff628f-ed8a-4905-a55f-63224b75c567_ios8_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6c/d1/42/6cd14202-639c-89cc-26f1-7801725d3b55/f2dbc3ec-2d23-4faa-8276-d19c82cdfa57_ios1_iPad.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/56/d0/5a/56d05ab8-e3e2-0d33-ecdc-95d585d91269/5da8a190-8e1d-4850-8d95-f5b1af35f83c_ios2_iPad.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/4d/b0/54/4db05434-3ab9-1a80-8c9d-fbdabd48cb1a/bfb23c57-e777-47b3-8411-286b52dc97e1_ios9_iPad.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/58/a3/f3/58a3f3fe-4ff7-9d3d-7bf8-d36818489b64/2d78b681-67e8-4789-9838-04958b22cc7f_ios_10_ipad.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f1/7b/8f/f17b8f73-f05e-bd0c-d415-c1839afcf9c0/473450df-1b49-4635-bc5b-092161855cf4_ios3_iPad.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ba/e9/48/bae948df-ae03-8285-0f4b-5bcb5e23807c/87f4b25f-17ac-44a7-942a-3ac4d6d7ad90_ios4_iPad.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5a/7a/4d/5a7a4df1-4ef2-f9af-e9f9-770b5c2589b2/4ff8a6a2-c052-4878-8a68-8d0b6d0a63f7_ios5_iPad.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/c6/71/96c67106-283f-9bb6-96a4-354fb2d7f88c/4248e9a6-2108-4a61-b3d4-fa309a8a42ee_ios6_iPad.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d1/ba/11/d1ba11ed-ca2b-6f84-cf24-cb55533d19af/f29ee9e0-8b25-41dd-9509-a525c91b3d29_ios7_iPad.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/28/6f/21/286f21ea-b102-3f37-dfbe-a4cfd8040245/105236dd-e33c-4b99-bb75-32264a43220b_ios8_iPad.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BimmerLink]]></title>
+        <id>BimmerLink-us-1771232335229</id>
+        <link href="https://apps.apple.com/us/app/bimmerlink/id1065360416?uo=4"/>
+        <updated>2026-02-16T08:58:55.229Z</updated>
+        <summary type="html"><![CDATA[Price: $39.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/bimmerlink/id1065360416?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a7/8d/7f/a78d7fee-fa1f-e769-906d-f43cc273d695/AppIcon-0-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$39.99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ $39.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    CarPlay Add-On：<b>$9.99</b>
+  </li><li>
+    BimmerLink full version：<b>$39.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  BimmerLink is the direct link to your BMW or MINI. Using one of the supported OBD adapters, you can read trouble codes or display sensor values in realtime, check the current state of the DPF in your car or register a new battery after replacement. BimmerLink even allows you to remotely control the exhaust flap or mute the Active Sound Design in your car.
+
+READ AND CLEAR TROUBLE CODES
+Diagnose your car as would otherwise be possible only by your Service Partner. In contrast to generic OBD apps that read emission related errors only, BimmerLink allows you to read and clear trouble codes from ALL control units in your car.
+
+DISPLAY REALTIME SENSOR VALUES
+BimmerLink provides a big selection of values like oil temperature or boost pressure. Keep an eye on all the important parameters of your car with a personalized dashboard.
+
+EXHAUST FLAP REMOTE CONTROL*
+Take control over the exhaust flap in your car and decide yourself, whether it should be closed or open.
+
+ACTIVE SOUND DESIGN**
+If you do not like the artificial engine sound generated in your car, just mute the Active Sound Design with BimmerLink.
+
+SOUND TUNING***
+The “Sound Tuning” option allows you to disable the “exhaust burble“ in cars equipped with the S55 engine (M2 Competition, M3, M4).
+
+DPF REGENERATION****
+BimmerLink allows you to check the current state of the diesel particulate filter in your car. Find out when the last regeneration took place or how much ash has accumulated in the filter and start a regeneration with the touch of a button.
+
+CARPLAY ADD-ON*****
+Enhance your driving experience with the CarPlay add-on for BimmerLink. Access your sensor values on your car's display for improved vehicle monitoring, all integrated seamlessly with CarPlay for ease of use.
+
+BATTERY REGISTRATION
+If you want to replace the battery in your car, this has to be registered in the engine control unit and BimmerLink allows you to do this yourself now.
+
+PARKING BRAKE SERVICE MODE
+BimmerLink allows you to activate the service mode for the electromechanical parking brake.
+
+SERVICE RESET
+Reset the service display in your car after carrying out maintenance work like a brake pad replacement or an engine oil change.
+
+RESET SHORT CIRCUIT LOCKS
+Unlock lamp outputs that were disabled due to a short circuit.
+
+TRANSMISSION ADAPTATION VALUES
+Check the adaptation values of the ZF 8HP automatic transmission in your vehicle.
+
+REQUIRED ACCESSORIES
+To use the app, one of the supported Bluetooth or WiFi OBD adapters or cables is required. For more information please visit https://bimmerlink.app.
+
+SUPPORTED CARS
+- 1 Series (2004+)
+- 2 Series, M2 (2013+)
+- 2 Series Active Tourer (2014+)
+- 2 Series Gran Tourer (2015+)
+- 3 Series, M3 (2005+)
+- 4 Series, M4 (2013+)
+- 5 Series, M5 (2003+)
+- 6 Series, M6 (2003+)
+- 7 Series (2008+)
+- 8 Series (2018+)
+- X1 (2009+)
+- X2 (2018+)
+- X3, X3 M (2010+)
+- X4, X4 M (2014+)
+- X5, X5 M (2006+)
+- X6, X6 M (2008+)
+- X7 (2019+)
+- Z4 (2009+)
+- i3 (2013+)
+- i4 (2021+)
+- i7 (2022+)
+- i8 (2013+)
+- iX (2021+)
+- iX1 (2022+)
+- iX3 (2021+)
+- MINI (2006+)
+- Toyota Supra (2019+)
+
+* Only for cars that are equipped with an exhaust flap by factory.
+** Only for cars that are equipped with the “Active Sound Design“ by factory.
+*** Only for cars with S55 engine (M2 Competition, M3, M4).
+**** Only for cars with a diesel engine.
+***** Additional in-app purchase required.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/1a/59/461a5922-c876-fe1d-8458-783c1b70d44e/b579ee5c-4e3a-42ef-a344-d7022defc5ef_8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/58/27/07582759-68e9-6969-4be1-8b0c97a8ea74/af875a90-ee9d-4aca-b917-7d648568ce2b_9.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/07/8e/2c078e4c-4982-dd70-1afe-932f3a6bc602/1cca88b3-c51d-43d9-8808-3b1c68fae982_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/61/49/71614911-394f-c3ce-7feb-ade0f60c2180/da098097-8640-4337-b163-b5e3285af9d5_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/ee/56/88ee56dc-4359-9d18-3792-3c0101c830d7/0828aeb0-b385-4c21-843f-fe8c829514fb_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/60/cf/28/60cf280e-f589-49b0-db0a-b4b0c1fb99da/33cd0154-b4bc-4ce1-acf0-bed282dbe6b4_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/e3/15/a0e31564-b5b3-33ab-4ec4-e21825ac4605/1d16e628-18d6-4922-b5d4-335aebeffbe0_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/f3/85/88f385ab-c46d-0bec-5326-9c238a570111/75c39d83-43db-47c5-bd35-42c875efddda_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d0/88/f7/d088f7bf-a036-e23f-8b8b-62885d99c22e/b3e429f1-f3e4-4d0f-ab85-b5135af2233c_6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/ef/73/b6ef7397-3b4c-bda9-90d6-71a62b713780/e0483cbd-c99f-4f95-b44c-2b12e73734f3_Screenshot_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/1d/c2/561dc26a-3625-a4c4-242d-5c7da3463955/9b6654d3-cfda-4a93-b9af-5917312156f6_Screenshot_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/1d/31/ea1d310e-3a13-af5f-0445-d6d4fc04973a/3227a2b3-c6bd-4f00-9629-23e886e8fa11_Screenshot_8.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/e7/d8/64e7d8f4-4f4c-84f0-5a47-8373e78eae11/df9afa60-ca49-4430-98b0-7e3f561d9e3e_Screenshot_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/2a/7c/612a7c16-bf12-277d-dd0c-912cc2a3cbf3/addde7dd-26c7-4823-b2be-d94efdf21ece_Screenshot_9.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/e7/af/f0e7afbf-1d50-ba8d-b3a8-ad22474fe8b1/88fb0b29-bf43-4d1f-b63c-416c8186cfd2_Screenshot_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/e6/c1/4fe6c1a7-59d5-5aee-de8d-e7568598b928/e3530d79-d70a-4adc-a8f9-29d1c548497d_Screenshot_7.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9a/13/5d/9a135d76-1c4f-b85e-1b10-0dd245820224/740098ce-6171-4323-b7a2-838316c7875d_Screenshot_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/36/75/c6367592-848a-e503-add2-bbbf0a1d93b8/6593b1e9-5b67-494e-a9fa-92eeb45a91a8_Screenshot_4.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bright Memory: Infinite]]></title>
         <id>Bright Memory: Infinite-us-1771220391669</id>
         <link href="https://apps.apple.com/us/app/bright-memory-infinite/id1669877091?uo=4"/>
@@ -2704,92 +2855,5 @@ More advanced hacking methods will be unlocked later!
 微博：土味文艺开发者
 邮箱：yande18@126.com
 </p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ed/ee/72/edee72d3-c32e-30e4-a9be-3f8870910632/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/21/17/322117e7-1cfe-e170-76d4-42dc890b8733/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/03/90/b8/0390b889-5f64-eb9d-4349-655cf37a58a0/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/2d/ca/2c2dcaba-629a-0769-04f1-c9a3dd1eb462/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/e9/1d/40e91dbd-bf1e-bab1-b9dc-bb568ac0a3c9/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/06/63/f2066382-37b8-f3bd-9d57-51940557a6be/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/cd/70/7acd706a-2b85-1421-5f71-e684e5ff533a/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/37/2d/25/372d2533-e96a-9890-551d-2738c5d0ebdb/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0a/58/7c/0a587c45-1e19-0f9b-6935-15f4d060c80d/mzl.wftiudsj.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[聖經(和合本)(繁體中英對照)]]></title>
-        <id>聖經(和合本)(繁體中英對照)-us-1770972852772</id>
-        <link href="https://apps.apple.com/us/app/%E8%81%96%E7%B6%93-%E5%92%8C%E5%90%88%E6%9C%AC-%E7%B9%81%E9%AB%94%E4%B8%AD%E8%8B%B1%E5%B0%8D%E7%85%A7/id327742738?uo=4"/>
-        <updated>2026-02-13T08:54:12.772Z</updated>
-        <summary type="html"><![CDATA[La Bible: $5.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E8%81%96%E7%B6%93-%E5%92%8C%E5%90%88%E6%9C%AC-%E7%B9%81%E9%AB%94%E4%B8%AD%E8%8B%B1%E5%B0%8D%E7%85%A7/id327742738?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/91/ea/fa/91eafa4a-4117-1587-7497-405e441d5ab3/mzl.mvttttye.jpg/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>La Bible：</strong><span>$5.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $5.99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>$4.99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    La Biblia：<b>$1.99</b>
-  </li><li>
-    日本聖書：<b>$1.99</b>
-  </li><li>
-    La Bible：<b>$1.99</b>
-  </li><li>
-    聖經(粤语朗读)：<b>$5.99</b>
-  </li><li>
-    圣经(普通话朗读)：<b>$5.99</b>
-  </li><li>
-    圣经(简体文本)：<b>$1.99</b>
-  </li><li>
-    English Bible(audio)：<b>$5.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  聖經(和合本)(繁體中英對照)
-	Application contains traditional Chinese bible and English bible for reference reading.
-	可自由選擇中英對照, 繁體中文或英文聖經閱讀.
-
-
-請參考在PalReader 網站上的使用錄像來深入了解此應用程序.
-閱讀程序具有以下先進功能:
-
-專為iPhone 而做的存儲優化, 存儲相同的圖書比其它程序節省超過30%的空間.
-全屏幕閱讀支持. LoudReader 只在用戶需要時顯示控制對話框, 而其它iPhone 閱讀程序顯示控制始終佔用寶貴的屏幕.
-支持任意方向閱讀. 程序自動調整圖書顯示方式.
-使用HTML顯示圖書的多種字體與圖像, 優於其它程序的單一字體文本顯示方式.
-頁內捲動控制幫助讀者在長頁面內快速移動到任意位置.
-直觀調整字體大小,顏色以及背景.
-手指雙擊擊即可使用的章節選擇, 字體大小控制.
-歷史記憶功能幫助用戶快速到任意章節或前後章節
-準確回到上次閱讀位置(甚至包括上次卷滾條位置)
-
-操作簡介
-
-每一章為一長頁, 用手指拖動卷滾或輕擊頁面上部1/4或下部1/4進行向上或向下翻頁.
-雙擊頁面即可彈出控制面板. 閱讀器的操作由這一個彈出式控制面板控制, 簡單直觀方便易用.
-如希望快速在頁面內移動, 可用控制面板小滾輪選擇頁面位置百分比.
-輕擊綠色的箭頭控制章節導航的後退和前進.
-退出閱讀器時程序會自動記住最後的閱讀位置(甚至包括上次卷滾條位置), 下次進入閱讀器時程序直接打開到此處.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/6e/18/16/6e1816f2-f59b-cc7c-f8e0-91ec4c387cdf/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/26/33/cb/2633cbfa-8575-e82d-24db-7a6df4b4d719/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/1d/e5/95/1de5955b-0a5a-abc7-ea25-83128cb228a1/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/0f/05/a2/0f05a290-c791-f7d5-ddf8-56037297a00a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/40/ea/17/40ea175b-47c7-452d-43e4-bf4afab9218c/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/a1/1c/6f/a11c6f51-007a-c9e4-acb3-cef1b64e621c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple117/v4/23/b8/67/23b86758-b10b-4870-e101-54342394b4a9/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/12/88/91/128891c8-3b80-57a2-8a3a-cfb999c9a23c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/39/74/1d/39741d11-dee5-cce6-647d-ffba0ccd65e6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/30/d8/1d/30d81de6-9a13-3ef7-00af-cda5f67bbc2c/pr_source.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tiny Terraces]]></title>
-        <id>Tiny Terraces-us-1770966511043</id>
-        <link href="https://apps.apple.com/us/app/tiny-terraces/id6633412890?uo=4"/>
-        <updated>2026-02-13T07:08:31.043Z</updated>
-        <summary type="html"><![CDATA[Price: $1.99 → $1.29]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/tiny-terraces/id6633412890?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0b/02/a9/0b02a997-e644-107a-ca1b-5219051cf962/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$1.99</span> → <b>
-  <strong>$1.29</strong>
-</b><span>[$1.29 ~ $1.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.29</b>
-</p><h2>Application Description</h2><p>
-  Tiny Terraces is an idle-farming game, where you can watch tiny guys do different tasks around the terrace.
-
-Grow Crops:
-Plant crops and watch as the tiny guys manage the garden plots by watering, weeding, and harvesting.
-
-Craft Tiny Guys:
-Use certain crops and tiny guy parts to craft more tiny guys to help manage the terrace.
-
-Decorate:
-Use money produced from crops to buy decorations to detail your terrace.
-</p>]]></content>
     </entry>
 </feed>
