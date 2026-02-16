@@ -47584,6 +47584,25 @@
     "history": [
       [
         {
+          "timestamp": 1771210189748,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "10 Boosts": "USD 19.99",
+            "5 Boosts": "USD 11.99",
+            "1 Boost": "USD 2.99",
+            "365天": "USD 159.99",
+            "180天": "USD 124.99",
+            "90天": "USD 84.99",
+            "VIP每月自動繳費": "USD 28.49",
+            "限時優惠7天": "USD 2.99",
+            "365 Days": "USD 179.99",
+            "180 Days": "USD 139.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770794001854,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -138837,8 +138856,8 @@
   "6753980946": {
     "name": "Urbexplore Portugal",
     "maxPriceInfo": {
-      "price": 2,
-      "formattedPrice": "USD 2.00",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "URBEXPLORE - Versão Premium": "USD 4.00"
     },
     "minPriceInfo": {
@@ -138847,6 +138866,16 @@
       "URBEXPLORE - Versão Premium": "USD 4.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771210189748,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "URBEXPLORE - Versão Premium": "USD 4.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767522448991,
