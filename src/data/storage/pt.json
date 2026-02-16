@@ -2007,8 +2007,8 @@
   "342115564": {
     "name": "Hipstamatic Classic",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "Portland HipstaPak": "0,99 €",
       "Williamsburg Starter HipstaPak": "0,99 €",
       "Camden HipstaPak": "0,99 €",
@@ -2057,6 +2057,25 @@
       "Mers Sultan HipstaPak": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771260935883,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Portland HipstaPak": "0,99 €",
+            "Williamsburg Starter HipstaPak": "0,99 €",
+            "Camden HipstaPak": "0,99 €",
+            "Shibuya HipstaPak": "0,99 €",
+            "Mission Hipstapak": "0,99 €",
+            "Soho HipstaPak": "0,99 €",
+            "Bondi HipstaPak": "0,99 €",
+            "RetroPak One": "1,99 €",
+            "Foodie SnapPak": "0,99 €",
+            "Wicker Park HipstaPak": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769480796092,
@@ -68233,6 +68252,27 @@
             "Infinity Energy": "5,99 €",
             "Shrinker Cart": "5,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6758402927": {
+    "name": "Ramadan Planner: Track & Pray",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771260935883,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
