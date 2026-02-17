@@ -2693,6 +2693,25 @@
     "history": [
       [
         {
+          "timestamp": 1771305877461,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1771232335229,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -9513,6 +9532,25 @@
       "Surto": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771305877461,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote pragas": "14,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €",
+            "Desbloquear Trapaças": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771220391669,
@@ -68392,6 +68430,27 @@
           "timestamp": 1771260935883,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755781701": {
+    "name": "Aurora Tromsø",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771305877461,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]
