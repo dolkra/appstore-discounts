@@ -1574,7 +1574,7 @@ So far, we've covered `7` `Countries or Regions` and  `1765` `Apps` <br />Push n
 |201|1481853033|Manual|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|
 |200|1581140954|Manual|Noir - 为Safari添加深色模式|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|
 |199|1592917505|Manual|Noir – 为Safari添加深色模式|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|
-|198|1591620171|Manual|Stay for Safari - 浏览器伴侣|Stay for Safari - 瀏覽器伴侶|Stay for Safari - 瀏覽器伴侶|Stay for Safari - 瀏覽器伴侶|Stay for Safari|Stay for Safari|Stay for Safari|
+|198|1591620171|Manual|Stay for Safari - 用户脚本与广告拦截插件|Stay for Safari - 使用者腳本與廣告攔截擴充|Stay for Safari - 使用者腳本與廣告攔截擴充|Stay for Safari - 使用者腳本與廣告攔截擴充|Stay for Safari|Stay for Safari|Stay for Safari|
 |197|1438243180|Manual|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|
 |196|625206080|Manual|❌|Tomb Raider|Tomb Raider|Tomb Raider|Tomb Raider|Tomb Raider|Tomb Raider|
 |195|1108032375|Manual|❌|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|

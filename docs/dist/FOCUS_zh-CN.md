@@ -1574,7 +1574,7 @@
 |201|1481853033|手动|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|Strongbox Pro|
 |200|1581140954|手动|Noir - 为Safari添加深色模式|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|Noir - Dark Mode for Safari|
 |199|1592917505|手动|Noir – 为Safari添加深色模式|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|Noir – Dark Mode for Safari|
-|198|1591620171|手动|Stay for Safari - 浏览器伴侣|Stay for Safari - 瀏覽器伴侶|Stay for Safari - 瀏覽器伴侶|Stay for Safari - 瀏覽器伴侶|Stay for Safari|Stay for Safari|Stay for Safari|
+|198|1591620171|手动|Stay for Safari - 用户脚本与广告拦截插件|Stay for Safari - 使用者腳本與廣告攔截擴充|Stay for Safari - 使用者腳本與廣告攔截擴充|Stay for Safari - 使用者腳本與廣告攔截擴充|Stay for Safari|Stay for Safari|Stay for Safari|
 |197|1438243180|手动|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|Dark Reader for Safari|
 |196|625206080|手动|❌|Tomb Raider|Tomb Raider|Tomb Raider|Tomb Raider|Tomb Raider|Tomb Raider|
 |195|1108032375|手动|❌|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|Rise of the Tomb Raider™|
