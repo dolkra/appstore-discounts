@@ -500,6 +500,23 @@
     "history": [
       [
         {
+          "timestamp": 1771520574062,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "10,000 coins": "1,99 €",
+            "1000 coins": "0,99 €",
+            "1000 candies": "0,99 €",
+            "30,000 coins": "2,99 €",
+            "10000 candies": "2,99 €",
+            "15000 eggs": "2,99 €",
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 gold": "1,99 €",
+            "10,000 gold": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1771512943479,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -57199,10 +57216,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771520574062,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
