@@ -1623,7 +1623,7 @@
 |155|1587301632|手动|全能记(录音,备忘,流水)|全能備忘錄|全能備忘錄|全能備忘錄|All In One Memo|All In One Memo|All In One Memo|
 |154|1464666446|手动|我的足迹: GPS记录仪|我的足跡: GPS記錄儀|我的足跡: GPS記錄儀|我的足跡: GPS記錄儀|MyTracks: GPS Recorder|MyTracks: GPS Recorder|MyTracks: GPS Recorder|
 |153|1665759338|手动|坐在罐子里的人|❌|❌|❌|❌|❌|❌|
-|152|953426154|手动|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro - Focus Timer|Be Focused Pro- Pomodoro Timer|Be Focused Pro: Pomodoro Timer|
+|152|953426154|手动|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro: Pomodoro Timer|Be Focused Pro - Focus Timer|Be Focused Pro- Pomodoro Timer|Be Focused Pro: Timer Pomodoro|
 |151|1238778050|手动|纪念碑谷2|❌|❌|❌|❌|❌|❌|
 |150|1020541183|手动|电影精灵 - 专业视频编辑和电影制作|電影精靈 - 專業視頻編輯和電影製作|電影精靈 - 專業視頻編輯和電影製作|電影精靈 - 專業視頻編輯和電影製作|MovieSpirit - Movie Maker Pro|MovieSpirit - Movie Maker Pro|❌|
 |149|576718804|手动|aTimeLogger - 时间记录工具|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger 2 - 私人時間記錄儀&时间表|aTimeLogger Time Tracker|aTimeLogger Time Tracker|aTimeLogger Time Tracker|

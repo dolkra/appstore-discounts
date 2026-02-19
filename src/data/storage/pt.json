@@ -19825,7 +19825,7 @@
     ]
   },
   "953426154": {
-    "name": "Be Focused Pro: Pomodoro Timer",
+    "name": "Be Focused Pro: Timer Pomodoro",
     "maxPriceInfo": {
       "price": 14.99,
       "formattedPrice": "14,99 €"
@@ -58509,6 +58509,23 @@
     "history": [
       [
         {
+          "timestamp": 1771484998774,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Boeing 787-9": "3,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Me 262": "1,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Robin DR400": "0,99 €",
+            "Boeing 777F": "1,99 €",
+            "Airbus A319": "1,99 €",
+            "Antares 21E": "0,99 €",
+            "ASK 21": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1771469303253,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -68563,14 +68580,22 @@
   "6758324604": {
     "name": "兒科考一考（香港中醫考牌）",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771484998774,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770124668070,
