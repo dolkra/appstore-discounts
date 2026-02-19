@@ -500,6 +500,25 @@
     "history": [
       [
         {
+          "timestamp": 1771512943479,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "10,000 coins": "1,99 €",
+            "1000 coins": "0,99 €",
+            "30,000 coins": "2,99 €",
+            "1000 candies": "0,99 €",
+            "10000 candies": "2,99 €",
+            "500 eggs": "0,99 €",
+            "5000 eggs": "1,99 €",
+            "15000 eggs": "2,99 €",
+            "100,000 coins": "3,99 €",
+            "10,000 gold": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1763800312129,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -38725,7 +38744,8 @@
       "Kitten and Puppy Bundle": "7,99 €",
       "King Hydra Token": "9,99 €",
       "Puppy Token": "4,99 €",
-      "Kitten Token": "4,99 €"
+      "Kitten Token": "4,99 €",
+      "Monstropolis Board": "6,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -38816,10 +38836,28 @@
       "Kitten and Puppy Bundle": "7,99 €",
       "King Hydra Token": "9,99 €",
       "Puppy Token": "4,99 €",
-      "Kitten Token": "4,99 €"
+      "Kitten Token": "4,99 €",
+      "Monstropolis Board": "6,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1771512943479,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "Monstropolis Board": "6,99 €",
+            "The Complete Collection": "39,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "The Dragon": "3,49 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €"
+          }
+        },
         {
           "timestamp": 1771498413527,
           "price": 4.99,
@@ -58635,6 +58673,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1771512943479,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Global scenery - 12 months": "14,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A319": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "Airbus A380": "1,99 €",
+            "UH-60": "0,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A321": "1,99 €"
+          }
+        },
         {
           "timestamp": 1771491336667,
           "price": 3.99,
