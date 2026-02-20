@@ -31370,7 +31370,13 @@
       "RAVON": "5,99 €",
       "Phigros": "5,99 €",
       "Lantis Selection": "5,99 €",
-      "Cosmic Radio 2025": "3,99 €"
+      "Cosmic Radio 2025": "3,99 €",
+      "Game Disc vol.1": "5,99 €",
+      "Memory Unit [A1]": "5,99 €",
+      "JOE": "9,99 €",
+      "Marvelous Mix vol. 1": "5,99 €",
+      "Nora": "9,99 €",
+      "Neko": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -31397,9 +31403,34 @@
       "RAVON": "5,99 €",
       "Phigros": "5,99 €",
       "Lantis Selection": "5,99 €",
-      "Cosmic Radio 2025": "3,99 €"
+      "Cosmic Radio 2025": "3,99 €",
+      "Game Disc vol.1": "5,99 €",
+      "Memory Unit [A1]": "5,99 €",
+      "JOE": "9,99 €",
+      "Marvelous Mix vol. 1": "5,99 €",
+      "Nora": "9,99 €",
+      "Neko": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771584448603,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "ConneR": "9,99 €",
+            "Xenon": "9,99 €",
+            "Cherry": "9,99 €",
+            "Game Disc vol.1": "5,99 €",
+            "Memory Unit [A1]": "5,99 €",
+            "JOE": "9,99 €",
+            "Marvelous Mix vol. 1": "5,99 €",
+            "Aroma": "9,99 €",
+            "Nora": "9,99 €",
+            "Neko": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771478680619,
@@ -42962,6 +42993,27 @@
       ]
     ]
   },
+  "1520427393": {
+    "name": "El Tubero 2.0",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771584448603,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1522215205": {
     "name": "拒之-骚扰电话批量拦截助手",
     "maxPriceInfo": {
@@ -52654,6 +52706,14 @@
     "history": [
       [
         {
+          "timestamp": 1771584448603,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767536728015,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -57283,13 +57343,31 @@
     "name": "Auto Redial App",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "Pro – Lifetime": "0,00 €",
+      "Assinatura semanal": "1,99 €",
+      "Assinatura anual": "29,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Pro – Lifetime": "0,00 €",
+      "Assinatura semanal": "1,99 €",
+      "Assinatura anual": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771584448603,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro – Lifetime": "0,00 €",
+            "Assinatura semanal": "1,99 €",
+            "Assinatura anual": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771520574062,

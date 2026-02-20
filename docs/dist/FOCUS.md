@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1770` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1771` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1771|1520427393|Automatic|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|
 |1770|6759113217|Automatic|❌|ER Doctor|ER Doctor|ER Doctor|ER Doctor|ER Doctor|ER Doctor|
 |1769|1459354443|Automatic|❌|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|书法字典大全Pro-练字必备|书法字典大全Pro-练字必备|❌|
 |1768|1620202676|Automatic|❌|鋼鐵戰隊|鋼鐵戰隊|鋼鐵戰隊|Iron Marines Invasion RTS Game|Iron Marines Invasion RTS Game|Iron Marines Invasion|
@@ -1191,7 +1192,7 @@ So far, we've covered `7` `Countries or Regions` and  `1770` `Apps` <br />Push n
 |589|6502623166|Automatic|❌|金武江湖 - 單機金庸群俠傳復刻|金武江湖 - 單機金庸群俠傳復刻|金武江湖 - 單機金庸群俠傳復刻|金武江湖 - 單機金庸群俠傳復刻|金武江湖 - 單機金庸群俠傳復刻|金武江湖 - 單機金庸群俠傳復刻|
 |588|6468033830|Automatic|❌|憶我: 一個性格測試遊戲|憶我: 一個性格測試遊戲|憶我: 一個性格測試遊戲|Refind Self|Refind Self|Refind Self|
 |587|6738138603|Automatic|❌|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|偶像之路终极版UltimateEdition|
-|586|6739185971|Automatic|❌|❌|❌|❌|Earnifi: Rent, Early Pay, Cash|❌|❌|
+|586|6739185971|Automatic|❌|❌|❌|❌|Earnifi: Early Pay. Fast Money|❌|❌|
 |585|284972998|Automatic|SoundHound∞ 音乐搜索识别和播放器|SoundHound∞ 音樂識別搜尋器及播放器|SoundHound∞ 音樂識別搜尋器及播放器|SoundHound∞ 音樂識別搜尋器及播放器|SoundHound∞ - Music Discovery|SoundHound∞ - Music Discovery|SoundHound∞|
 |584|288419283|Automatic|❌|❌|❌|❌|RadarScope|RadarScope|RadarScope|
 |583|292421271|Automatic|❌|Fieldrunners|Fieldrunners|Fieldrunners|Fieldrunners|Fieldrunners|Fieldrunners|
