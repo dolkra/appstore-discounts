@@ -26744,6 +26744,25 @@
     "history": [
       [
         {
+          "timestamp": 1771620074172,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Purchase game": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €",
+            "Get tips on the bucket": "0,99 €",
+            "Get tips on stone-eyed": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1769915842150,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -35102,6 +35121,31 @@
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1402259944": {
+    "name": "Salário Líquido",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Simulador IRS": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Simulador IRS": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771620074172,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Simulador IRS": "1,99 €"
+          }
         }
       ]
     ]
