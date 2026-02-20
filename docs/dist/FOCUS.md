@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1771` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1772` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1772|6741873549|Automatic|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|
 |1771|1520427393|Automatic|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|
 |1770|6759113217|Automatic|❌|ER Doctor|ER Doctor|ER Doctor|ER Doctor|ER Doctor|ER Doctor|
 |1769|1459354443|Automatic|❌|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|书法字典大全Pro-练字必备|书法字典大全Pro-练字必备|❌|
@@ -836,7 +837,7 @@ So far, we've covered `7` `Countries or Regions` and  `1771` `Apps` <br />Push n
 |945|1439889483|Automatic|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|
 |944|1562555975|Automatic|D2助手(专业版) for 暗黑破坏神2重制版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2 Pal Pro for Diablo2|D2 Pal Pro for Diablo2|D2助手(专业版) for 暗黑破坏神2重制版|
 |943| ~~1567658979~~ |Automatic| ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~❌~~ |
-|942|6467822375|Automatic|❌|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|
+|942|6467822375|Automatic|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|
 |941|329772936|Automatic|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|Automatic|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
 |939|499470113|Automatic|FE文件管理器|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|
