@@ -1064,7 +1064,7 @@
 |720|983145797|自动|超注音|超注音|超注音|超注音|超注音|超注音|超注音|
 |719|1033342465|自动|Just Press Record|Just Press Record|Just Press Record|Just Press Record|Just Press Record|Just Press Record|Just Press Record|
 |718|1112850631|自动|❌|樂秀專業版-影片編輯與影片剪輯|樂秀專業版-影片編輯與影片剪輯|樂秀專業版-影片編輯與影片剪輯|VideoShow PRO - Video Editor|VideoShow PRO - Video Editor|VideoShow PRO: Editor de Vídeo|
-|717|1126386264|自动|❌|AdGuard Pro — adblock|AdGuard Pro — adblock|AdGuard Pro — adblock|AdGuard Pro — adblock&privacy|AdGuard Pro — adblock|AdGuard Pro — adblock&privacy|
+|717|1126386264|自动|❌|AdGuard Pro — adblock|AdGuard Pro — adblock|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|
 |716|1182456409|自动|❌|奧托的奧德賽|奧托的奧德賽|奧托的奧德賽|Alto's Odyssey|Alto's Odyssey|Alto's Odyssey|
 |715| ~~1238247658~~ |自动| ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ | ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ |
 |714|1260271235|自动|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|
