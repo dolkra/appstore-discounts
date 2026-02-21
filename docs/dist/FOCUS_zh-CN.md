@@ -47,7 +47,7 @@
 |1737|6758114235|自动|❌|1 TL|1 TL|1 TL|1 TL|1 TL|1 TL|
 |1736|6755228041|自动|潜水员戴夫|❌|❌|❌|❌|❌|❌|
 |1735|6749369705|自动|沙石镇时光|❌|❌|❌|❌|❌|❌|
-|1734|972927324|自动|❌|SweetRing Pro|SweetRing Pro|SweetRing Pro|SweetRing Pro|❌|❌|
+|1734| ~~972927324~~ |自动| ~~❌~~ | ~~SweetRing Pro~~ | ~~SweetRing Pro~~ | ~~SweetRing Pro~~ | ~~SweetRing Pro~~ | ~~❌~~ | ~~❌~~ |
 |1733|1437282350|自动|Clear Fear|Clear Fear|Clear Fear|Clear Fear|Clear Fear|Clear Fear|Clear Fear|
 |1732|335454448|自动|❌|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|Tilt to Live|
 |1731|6744179489|自动|❌|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Football|Referee Simulator : Soccer|Referee Simulator : Football|Referee Simulator : Football|
