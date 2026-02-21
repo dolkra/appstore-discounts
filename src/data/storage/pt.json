@@ -27541,8 +27541,8 @@
   "1140451547": {
     "name": "Shot Tracer",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 14.99,
+      "formattedPrice": "14,99 €",
       "Map Subscription": "1,99 €",
       "Map Tracer Pro Annual Sub": "69,99 €",
       "Map Tracer Pro Half-Year Sub": "39,99 €",
@@ -27563,6 +27563,19 @@
       "Map Tracer & Video Editor Half-Year": "39,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771699635049,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {
+            "Map Subscription": "1,99 €",
+            "Map Tracer & Video Editor Monthly": "9,99 €",
+            "Map Tracer & Video Editor Annual": "69,99 €",
+            "Map Tracer & Video Editor Half-Year": "39,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769799335923,
