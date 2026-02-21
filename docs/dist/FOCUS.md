@@ -1064,7 +1064,7 @@ So far, we've covered `7` `Countries or Regions` and  `1774` `Apps` <br />Push n
 |720|983145797|Automatic|超注音|超注音|超注音|超注音|超注音|超注音|超注音|
 |719|1033342465|Automatic|Just Press Record|Just Press Record|Just Press Record|Just Press Record|Just Press Record|Just Press Record|Just Press Record|
 |718|1112850631|Automatic|❌|樂秀專業版-影片編輯與影片剪輯|樂秀專業版-影片編輯與影片剪輯|樂秀專業版-影片編輯與影片剪輯|VideoShow PRO - Video Editor|VideoShow PRO - Video Editor|VideoShow PRO: Editor de Vídeo|
-|717|1126386264|Automatic|❌|AdGuard Pro — adblock|AdGuard Pro — adblock|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|
+|717|1126386264|Automatic|❌|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|AdGuard Pro: Safari Ad Blocker|
 |716|1182456409|Automatic|❌|奧托的奧德賽|奧托的奧德賽|奧托的奧德賽|Alto's Odyssey|Alto's Odyssey|Alto's Odyssey|
 |715| ~~1238247658~~ |Automatic| ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ | ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ |
 |714|1260271235|Automatic|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|
