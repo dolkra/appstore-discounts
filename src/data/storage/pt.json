@@ -39172,7 +39172,8 @@
       "King Hydra Token": "9,99 €",
       "Puppy Token": "4,99 €",
       "Kitten Token": "4,99 €",
-      "Monstropolis Board": "6,99 €"
+      "Monstropolis Board": "6,99 €",
+      "Alien Token": "2,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -39264,9 +39265,29 @@
       "King Hydra Token": "9,99 €",
       "Puppy Token": "4,99 €",
       "Kitten Token": "4,99 €",
-      "Monstropolis Board": "6,99 €"
+      "Monstropolis Board": "6,99 €",
+      "Alien Token": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771737513147,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Alien Token": "2,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "Monstropolis Board": "6,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "The Dragon": "3,49 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771512943479,
@@ -57773,10 +57794,22 @@
       "price": 0,
       "formattedPrice": "Gratuito",
       "Pro – Lifetime": "0,00 €",
-      "Assinatura semanal": "1,99 €",
-      "Assinatura anual": "29,99 €"
+      "Assinatura semanal": "1,49 €",
+      "Assinatura anual": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771737513147,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro – Lifetime": "0,00 €",
+            "Assinatura semanal": "1,49 €",
+            "Assinatura anual": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771584448603,
@@ -70042,6 +70075,27 @@
           "timestamp": 1771598905644,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6759358968": {
+    "name": "PadLab - Live Pads",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771737513147,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]
