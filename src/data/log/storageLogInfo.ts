@@ -1,3 +1,4 @@
+import dayjs from 'dayjs'
 import { writeFileSync, readFileSync, existsSync } from 'fs'
 import { resolve } from 'path'
 
@@ -9,9 +10,13 @@ export function readLogInfo(): LogInfo[] {
   if (!existsSync(logFilePath)) return defaultRegionDiscountInfo
 
   try {
-    const data = JSON.parse(readFileSync(logFilePath, 'utf-8'))
+    const data = JSON.parse(readFileSync(logFilePath, 'utf-8')) || []
 
-    return data
+    const now = dayjs()
+
+    return data.filter(
+      (logInfo: LogInfo) => now.diff(dayjs(logInfo.timestamp), 'day') < 7,
+    )
   } catch {
     return defaultRegionDiscountInfo
   }
