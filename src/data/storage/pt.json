@@ -9716,6 +9716,23 @@
     "history": [
       [
         {
+          "timestamp": 1771825111499,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote pragas": "14,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €",
+            "Desbloquear Trapaças": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1771814999741,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -43671,7 +43688,7 @@
       "Starter Package B": "59,99 €",
       "Daily Jewel Package": "22,99 €",
       "Lite Daily Jewel Package": "9,99 €",
-      "Starter Package A": "17,99 €",
+      "Starter Package A": "29,99 €",
       "Remove AD": "9,99 €",
       "Jewel Package D": "49,99 €",
       "Jewel Package A": "5,99 €",
@@ -43680,8 +43697,8 @@
       "Jewel Package B": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Starter Package B": "34,99 €",
       "Daily Jewel Package": "22,99 €",
       "Lite Daily Jewel Package": "7,99 €",
@@ -43694,6 +43711,25 @@
       "Jewel Package B": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771825111499,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Starter Package B": "34,99 €",
+            "Daily Jewel Package": "22,99 €",
+            "Lite Daily Jewel Package": "7,99 €",
+            "Starter Package A": "29,99 €",
+            "Remove AD": "7,99 €",
+            "Jewel Package D": "39,99 €",
+            "Jewel Package A": "5,99 €",
+            "Jewel Package F": "89,99 €",
+            "Jewel Package C": "19,99 €",
+            "Jewel Package B": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771555395144,
@@ -59558,6 +59594,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1771825111499,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 12 months": "14,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A319": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737-900": "1,99 €"
+          }
+        },
         {
           "timestamp": 1771814999741,
           "price": 3.99,
