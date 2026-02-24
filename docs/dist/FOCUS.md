@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1781` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1782` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1782|1128326130|Automatic|❌|Pocket Arcade Story|Pocket Arcade Story|Pocket Arcade Story|Pocket Arcade Story|Pocket Arcade Story|Pocket Arcade Story|
 |1781|1503080791|Automatic|scan my T3SLA|scan my T3SLA|scan my T3SLA|scan my T3SLA|scan my T3SLA|scan my T3SLA|scan my T3SLA|
 |1780|767364550|Automatic|❌|❌|❌|常春藤核心英文字彙|常春藤核心英文字彙|常春藤核心英文字彙|常春藤核心英文字彙|
 |1779|1617513306|Automatic|自动重拨 - auto redial|自动重拨 - auto redial|自动重拨 - auto redial|自动重拨 - auto redial|自动重拨 - auto redial|自动重拨 - auto redial|自动重拨 - auto redial|
@@ -291,7 +292,7 @@ So far, we've covered `7` `Countries or Regions` and  `1781` `Apps` <br />Push n
 |1500|6587551050|Automatic|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|
 |1499|886697025|Automatic|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|
 |1498|1000884506|Automatic|❌|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|
-|1497|6477356535|Automatic|❌|Etiket Tofask|Etiket Tofask|Etiket Tofask|Etiket Tofask|Etiket Tofask|Etiket Tofask|
+|1497|6477356535|Automatic|❌|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|
 |1496|1007346233|Automatic|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|
 |1495|530060483|Automatic|❌|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|
 |1494|666202151|Automatic|汇声绘影|汇声绘影 PRO|汇声绘影 PRO|汇声绘影 PRO|movieStudio PRO-Video Editor|vivaMovie PRO|movieStudio PRO-Video Editor|
