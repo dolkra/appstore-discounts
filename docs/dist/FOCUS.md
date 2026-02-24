@@ -546,7 +546,7 @@ So far, we've covered `7` `Countries or Regions` and  `1776` `Apps` <br />Push n
 |1240|6569254072|Automatic|Watch闪卡|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|
 |1239| ~~6748376912~~ |Automatic| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ | ~~❌~~ |
 |1238|1533979882|Automatic|❌|Northgard|Northgard|Northgard|Northgard|Northgard|Northgard|
-|1237|1466088186|Automatic|❌|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|❌|
+|1237|1466088186|Automatic|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|❌|
 |1236|6746136017|Automatic|❌|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|
 |1235|1247294026|Automatic|练节奏|練節奏|練節奏|練節奏|Flying Beat - Rhythm Trainer|Flying Beat - Rhythm Trainer|Flying Beat Instrutor de Ritmo|
 |1234|491899548|Automatic|❌|足球俱樂部物語|足球俱樂部物語|足球俱樂部物語|Pocket League Story|Pocket League Story|Pocket League Story|
