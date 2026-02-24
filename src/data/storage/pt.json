@@ -22532,6 +22532,46 @@
       ]
     ]
   },
+  "1030595027": {
+    "name": "Wipr",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Very Generous Tip": "1,99 €",
+      "Lavishly Generous League": "5,49 €",
+      "Super Generous Tip": "5,99 €",
+      "Copiously Generous Crew": "1,99 €",
+      "Generous Gang": "0,99 €",
+      "Generous Tip": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Very Generous Tip": "1,99 €",
+      "Lavishly Generous League": "5,49 €",
+      "Super Generous Tip": "5,99 €",
+      "Copiously Generous Crew": "1,99 €",
+      "Generous Gang": "0,99 €",
+      "Generous Tip": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771923526689,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Very Generous Tip": "1,99 €",
+            "Lavishly Generous League": "5,49 €",
+            "Super Generous Tip": "5,99 €",
+            "Copiously Generous Crew": "1,99 €",
+            "Generous Gang": "0,99 €",
+            "Generous Tip": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1033342465": {
     "name": "Just Press Record",
     "maxPriceInfo": {
@@ -39666,6 +39706,25 @@
       "Alien Token": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771923526689,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Alien Token": "2,99 €",
+            "New York 2121 Board": "6,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "Monstropolis Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "The Dragon": "3,49 €",
+            "Promotion": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771737513147,
@@ -70731,6 +70790,27 @@
           "timestamp": 1771737513147,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449783315": {
+    "name": "MedNotes -For Medical Students",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1771923526689,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
