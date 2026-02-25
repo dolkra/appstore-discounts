@@ -45046,6 +45046,18 @@
     "history": [
       [
         {
+          "timestamp": 1771987682086,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {
+            "Ragnarök for free download": "0,00 €",
+            "Atlantis for free download": "0,00 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770864790600,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -58451,10 +58463,22 @@
       "price": 0,
       "formattedPrice": "Gratuito",
       "Pro – Lifetime": "0,00 €",
-      "Assinatura semanal": "1,49 €",
-      "Assinatura anual": "17,99 €"
+      "Assinatura semanal": "0,99 €",
+      "Assinatura anual": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1771987682086,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro – Lifetime": "0,00 €",
+            "Assinatura semanal": "0,99 €",
+            "Assinatura anual": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771737513147,
