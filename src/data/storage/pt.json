@@ -28900,6 +28900,27 @@
       ]
     ]
   },
+  "1174536386": {
+    "name": "VeinSeek Pro",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772046909953,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1179421849": {
     "name": "GRID™ Autosport",
     "maxPriceInfo": {
@@ -52205,6 +52226,43 @@
           "price": 29.99,
           "formattedPrice": "29,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1621267448": {
+    "name": "FormCheck AI: 表格检查",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "weekly pro": "9,99 €",
+      "Discounted Monthly Sub": "5,99 €",
+      "Yearly Subscription": "22,99 €",
+      "Discounted Yearly Subscription": "99,99 €",
+      "Monthly Subscription": "22,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "weekly pro": "9,99 €",
+      "Discounted Monthly Sub": "5,99 €",
+      "Yearly Subscription": "22,99 €",
+      "Discounted Yearly Subscription": "99,99 €",
+      "Monthly Subscription": "22,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772046909953,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "weekly pro": "9,99 €",
+            "Discounted Monthly Sub": "5,99 €",
+            "Yearly Subscription": "22,99 €",
+            "Discounted Yearly Subscription": "99,99 €",
+            "Monthly Subscription": "22,99 €"
+          }
         }
       ]
     ]
