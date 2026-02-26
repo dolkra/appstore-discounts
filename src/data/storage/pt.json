@@ -69365,9 +69365,19 @@
     "minPriceInfo": {
       "price": 59.99,
       "formattedPrice": "59,99 €",
-      "100 Onyx Credits": "29,99 €"
+      "100 Onyx Credits": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772138900696,
+          "price": 69.99,
+          "formattedPrice": "69,99 €",
+          "inAppPurchases": {
+            "100 Onyx Credits": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1769545864365,
