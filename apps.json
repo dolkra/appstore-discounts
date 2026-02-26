@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6736946286,
+      "name": {
+        "mo": "Reigns: The Witcher"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6755103808,
       "name": {
         "mo": "VoidLink - Extreme"
@@ -11265,7 +11272,8 @@
       "name": {
         "tr": "QUAKELINE"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 6744445187,
