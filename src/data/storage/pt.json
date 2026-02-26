@@ -39052,6 +39052,27 @@
       ]
     ]
   },
+  "1466088186": {
+    "name": "BA II Plus Calculator",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772073783499,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1466120520": {
     "name": "iVerify Basic",
     "maxPriceInfo": {
@@ -49601,6 +49622,14 @@
     "history": [
       [
         {
+          "timestamp": 1772073783499,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1770951187599,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -60122,6 +60151,25 @@
     "history": [
       [
         {
+          "timestamp": 1772073783499,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "3,99 €",
+            "Airbus A380": "1,99 €",
+            "Global scenery - 3 months": "7,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Global scenery - 12 months": "14,99 €",
+            "Boeing 787-9": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A319": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1771997151834,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -68516,6 +68564,17 @@
       "Steyr Arms Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772073783499,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Hunter's Pack": "1,99 €",
+            "Steyr Arms Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768962206324,
