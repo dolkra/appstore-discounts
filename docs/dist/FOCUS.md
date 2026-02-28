@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1796` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1797` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1797|1526122309|Automatic|❌|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|超級槍彈辯駁2 再會了絕望學園 Anniversary Ed|❌|❌|❌|
 |1796|1581312955|Automatic|❌|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|MermaidEditor|
 |1795|6752767565|Automatic|櫻花最前線 - 2026年預測|櫻花最前線 - 2026年預測|❌|櫻花最前線 - 2026年預測|❌|❌|❌|
 |1794|453571750|Automatic|3D绳结 (Knots 3D)|3D繩結  (Knots 3D)|3D繩結  (Knots 3D)|3D繩結  (Knots 3D)|Knots 3D|Knots 3D|Nós 3D  (Knots 3D)|
