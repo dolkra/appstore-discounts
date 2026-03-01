@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": 1772397357120,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": [
+        {
+          "trackId": 1203306285,
+          "trackName": "Piano Sight-Reading Trainer",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1064060287,
+          "trackName": "XP3Player",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "1h35m10.94s",
+    "regionAppCount": {
+      "cn": 887,
+      "hk": 1549,
+      "mo": 1544,
+      "tw": 1554,
+      "us": 1540,
+      "tr": 1530,
+      "pt": 1489
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1772390661420,
     "regionAppInfo": {
       "cn": [
@@ -127111,41 +127146,5 @@
     },
     "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1771792546276,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [
-        {
-          "trackId": 6752503669,
-          "trackName": "Solar Arc – Sun & Moon Tracker",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tw": [],
-      "us": [
-        {
-          "trackId": 6508165149,
-          "trackName": "Dungeon Clawler",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "1h27m22.185s",
-    "regionAppCount": {
-      "cn": 874,
-      "hk": 1532,
-      "mo": 1528,
-      "tw": 1536,
-      "us": 1524,
-      "tr": 1514,
-      "pt": 1472
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
