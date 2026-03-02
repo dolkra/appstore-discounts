@@ -5996,8 +5996,8 @@
   "430388524": {
     "name": "Do! Spring Mint - To Do List",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 22,
+      "formattedPrice": "22,00 €",
       "Tip": "0,99 €"
     },
     "minPriceInfo": {
@@ -6006,6 +6006,16 @@
       "Tip": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772419456897,
+          "price": 22,
+          "formattedPrice": "22,00 €",
+          "inAppPurchases": {
+            "Tip": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763526717905,
@@ -7632,6 +7642,25 @@
       "Structures Starter Pack": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772419456897,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Furniture Starter Pack": "9,99 €",
+            "Structures Starter Pack": "6,99 €",
+            "Scary Pack": "9,99 €",
+            "Weapon Pack": "6,99 €",
+            "Minecraft Pets Pack": "9,99 €",
+            "Minecraft Morph Pack": "6,99 €",
+            "Marketplace Pass Full": "3,99 €",
+            "Marketplace Pass Trial": "3,99 €",
+            "The Incredibles": "8,99 €",
+            "Marketplace Pass w/trial": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772175843112,
@@ -34662,6 +34691,27 @@
       ]
     ]
   },
+  "1342309192": {
+    "name": "Reigns: Game of Thrones",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772419456897,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1343590260": {
     "name": "Neutral Density Calculator",
     "maxPriceInfo": {
@@ -36561,6 +36611,14 @@
       "formattedPrice": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772419456897,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1769740812813,
@@ -45779,14 +45837,27 @@
     "maxPriceInfo": {
       "price": 19.99,
       "formattedPrice": "19,99 €",
-      "Custom Chord Progressions": "6,99 €"
+      "Custom Chord Progressions": "6,99 €",
+      "Custom Tunings": "1,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €",
-      "Custom Chord Progressions": "6,99 €"
+      "Custom Chord Progressions": "6,99 €",
+      "Custom Tunings": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772419456897,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {
+            "Custom Tunings": "1,99 €",
+            "Custom Chord Progressions": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767976661615,
@@ -54584,6 +54655,17 @@
       "Home Sweet Home": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772419456897,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Hello World!": "0,99 €",
+            "Home Sweet Home": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771036857391,
@@ -72269,14 +72351,26 @@
     "maxPriceInfo": {
       "price": 1.49,
       "formattedPrice": "1,49 €",
-      "Pencil Pro Pack": "6,99 €"
+      "Pencil Pro Pack": "6,99 €",
+      "Drawing Toolkit": "6,99 €"
     },
     "minPriceInfo": {
       "price": 1.49,
       "formattedPrice": "1,49 €",
-      "Pencil Pro Pack": "6,99 €"
+      "Pencil Pro Pack": "6,99 €",
+      "Drawing Toolkit": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772419456897,
+          "price": 1.49,
+          "formattedPrice": "1,49 €",
+          "inAppPurchases": {
+            "Drawing Toolkit": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772052197068,
