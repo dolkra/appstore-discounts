@@ -635,9 +635,13 @@
           "range": "[免费 ~ ¥15.00]"
         }
       ]
-    },
+    }
+  ],
+  "hk": [
     {
+      "isGameCenterEnabled": true,
       "features": [
+        "gameCenter",
         "iosUniversal"
       ],
       "supportedDevices": [
@@ -765,92 +769,100 @@
         "iPadPro13M5Cellular-iPadPro13M5Cellular"
       ],
       "advisories": [
-        "偶尔/轻微的烟酒或毒品使用或相关内容",
-        "偶尔/轻微的惊悚或恐怖题材",
-        "偶尔/轻微的卡通或幻想暴力"
+        "偶爾/輕度的藥物或治療資訊",
+        "偶爾/輕度的暴力卡通或幻想",
+        "偶爾/輕度使用或提及酒精、煙草或藥物"
       ],
-      "isGameCenterEnabled": false,
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/shanghai-hode-information-technology-co-ltd/id928380301?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0e/2c/b10e2cd7-f909-cfe6-e546-a44dbe7b2c4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0e/2c/b10e2cd7-f909-cfe6-e546-a44dbe7b2c4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
-      "screenshotUrls": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b1/0e/2c/b10e2cd7-f909-cfe6-e546-a44dbe7b2c4c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "artistId": 928380301,
-      "artistName": "Shanghai Hode Information Technology Co.,Ltd.",
-      "genres": [
-        "游戏",
-        "冒险"
+      "artistViewUrl": "https://apps.apple.com/hk/developer/playdigious/id1041387229?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/3c/54/613c54da-6dd5-d7db-512d-10b9dd56f6da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/3c/54/613c54da-6dd5-d7db-512d-10b9dd56f6da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/8a/a8/dc/8aa8dc78-ea28-dab6-1996-780292a1ad6f/77d332a6-e575-4c9c-8971-cfde8184c682_app_store_screenies_-_iphone_5_2208x1242_-_5_outwit_the_authorities.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/95/1e/12/951e124f-8465-94f6-f9dc-b121dcc4ff3c/b90386ab-e5fe-4e50-a134-c208f5a8d3a4_app_store_screenies_-_iphone_5_2208x1242_-_1_110k_words.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/60/28/ab/6028abcd-7e6b-ee06-c048-86c16665b36e/d56eb06a-369c-44c9-8353-cba5d392a0ab_app_store_screenies_-_iphone_5_2208x1242_-_4_unravel_arcane_mysteries.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/83/2f/6a/832f6a73-52e0-e039-0bcc-76540eea76fb/ee2a1972-7f26-4c33-80a4-853bc9ce593b_app_store_screenies_-_iphone_5_2208x1242_-_2_bafta_nominated.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/02/9d/ca/029dca17-50ea-7d6d-d2d3-595d902db745/80f7b96c-ac74-40d0-a74f-1f995b7ba77a_app_store_screenies_-_iphone_5_2208x1242_-_3_write_your_own_story.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/92/93/68/9293680e-18e1-97d5-cdba-1ccf15867b50/3abe3a6b-0bbf-4a3e-a375-bcb67bf3c6f7_app_store_screenies_-_iphone_5_2208x1242_-_6_seize_forbidden_treasures.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/dd/20/04/dd2004a8-2aab-d876-2405-0dd78e4c9e83/33bf1e28-a73c-460d-b0fc-e9614bf4c6dc_app_store_screenies_-_iphone_5_2208x1242_-_8_feed_on_your_disciples.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/87/48/ec/8748ec80-3f61-e7bc-27cc-fbe3b622f900/8ec85158-a7ed-4f39-abaf-7547dec74cfe_app_store_screenies_-_iphone_5_2208x1242_-_7_summon_alien_gods.png/406x228bb.png"
       ],
-      "price": 30,
-      "bundleId": "com.bilibili.deadcells.ios",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9d/80/0a/9d800a82-7828-6fc8-912b-26bccc96c3f2/91c4454d-a4bf-4a01-8859-8a72f0f5c718_exile_launch_dlc_promo_5_2732_x_2048.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9b/67/3a/9b673a15-7970-f3a7-4389-9876ed342254/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/30/2c/e8/302ce872-c877-eec7-ccc0-fb62278dca3b/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/6c/00/0d/6c000da1-2529-7db0-7d9a-521581bb32bd/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/29/ac/35/29ac3572-49ed-3d51-5921-0bbb2a5f9d23/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f9/a7/d9/f9a7d9b4-74e1-b8bc-3a06-0a8289994805/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ac/dd/8f/acdd8f46-1231-dfba-acb2-2289db5bfea9/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/9e/f5/c6/9ef5c63d-5b66-6441-35d5-1e94e5418988/pr_source.png/552x414bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/91/94/67/9194677f-ce6e-627e-d644-58019228c670/pr_source.png/552x414bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/61/3c/54/613c54da-6dd5-d7db-512d-10b9dd56f6da/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "price": 8,
+      "genres": [
+        "遊戲",
+        "卡牌",
+        "書籍",
+        "角色扮演"
+      ],
+      "sellerName": "Playdigious",
       "genreIds": [
         "6014",
-        "7002"
+        "7005",
+        "6018",
+        "7014"
       ],
-      "trackName": "重生细胞",
-      "trackId": 1523446532,
-      "releaseDate": "2021-02-03T08:00:00Z",
-      "sellerName": "Shanghai Hode Information Technology Co.,Ltd.",
-      "isVppDeviceBasedLicensingEnabled": true,
       "primaryGenreName": "Games",
       "primaryGenreId": 6014,
-      "currentVersionReleaseDate": "2025-12-26T02:14:01Z",
-      "releaseNotes": "【v.3.5.10 更新公告】\n\n*推荐各位细胞人使用云存档功能备份存档~避免卸载原安装包后出现存档丢失的情况。\n\n**各位细胞人大佬注意！随着游戏的更新以及资源量的提高，设备的最低运行配置要求会有所提升，推荐使用有可用RAM 4GB 以上的设备来运行本次的新内容哦。\n\n \n\n以下为本次更新内容：\n\n-修复了击败国王之手后发生的撞车事故\n\n-修复了与女王仆人作战时灯塔中的软锁\n\n-修复了女王与以太门战斗期间的空访问崩溃\n\n-修复了读/写保存时的崩溃（包括播放按钮）\n\n-修复了自定义游戏中的随机头部功能\n\n-当无法访问IAP模块时，在DLC菜单上添加了一条错误消息\n\n-改进并统一了选项菜单中的选择和滚动行为\n\n-修复了“选项”滚动条在点击时出现错误的问题\n\n-修复了紫花园大桥过场后HUD调光不正确的问题\n\n-当强制设置为默认值时，玩家现在可以隐藏noBlood选项\n\n-网格选择器UI现在相对于标题垂直居中\n\n-修复了日语中损坏/缺失的字符\n\n-修复了中文中损坏/缺失的字符\n\n-更新了“一路向海DLC”捆绑包内容（包含了所有4个DLC）及商店位置\n \n\n \n\n最低设备要求：iOS 12 或更高版本，内存：4GB，RAM：4GB\n\n注意：部分系统在游戏过程中可能会出现运行内存报错弹框的问题，烦请细胞人们备份云存档，尝试重启游戏，再次进入游戏即可正常游玩~\n\n同时在切换设备，或者重装游戏的时候，本地的存档会随着卸载丢失，推荐大家使用云存档功能来进行游戏进度的备份~请注意，云存档的目的是解决换机和数据备份的需求，上传及下载操作不可逆，且均需要手动操作。",
-      "version": "3.5.10",
+      "trackId": 1439886655,
+      "trackName": "Cultist Simulator",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-03-02T20:13:28Z",
+      "releaseNotes": "Bug fixes:\n- Feeding “Reason” in the Physician legacy now gives “Passion” or “Talk” verb, as intended\n- Fixing some font issues in Russian",
+      "version": "3.7.4",
       "wrapperType": "software",
-      "currency": "CNY",
-      "description": "死亡并非永眠。\n\n操作炼金实验失败的产物，在杀戮与重生的反复轮回中探索一座房间不断变化的巨大城堡，解开这座阴暗孤岛上的秘密…!\n当然，前提是你能战胜镇守其中的诸多守卫。\n\n重生细胞是一款RogueVania类型的平台动作游戏。你需要在一次一次战斗中锤炼战斗技巧，精通拥有独特使用方式的各种武器，并且将翻滚和闪避等走位操作视为本能，以逃过那些出其不意出现的怪潮侵袭，迎战强横凶残的守卫和Boss。\n\n鏖战、死亡、重生、再战\n\n继PC与主机平台之后，《重生细胞》准备在移动平台开启战斗！\n\n【主要特色】\n• RogueVania: 逐步攻略经过悉心设计的相连关卡，体验rogue-lite类型的重复可玩性，直面肾上腺素激增的凶险场面。\n• 凌厉爽快的2D动作体验：洞悉敌人的出手套路灵活走位，否则你将止步于半途，无缘城堡中隐藏的更多秘密。\n• 非线性进程：在反复的死亡中突破难关，根据自己的游玩风格或心情自由选择装备与技能搭配。厌倦了臭气熏天的下水道？攀上城头呼吸新鲜的空气吧！\n• 随心所欲的游玩：探索城堡的边边角角和隐秘通道，发现深藏在城堡深处的迷人景观，抑或是直冲终点？一切由你。\n\n【针对移动平台进行的悉心优化】\n• 两种攻击模式：传统与移动版新加入的自动攻击系统。\n• 定制键位与触屏操作：根据你的喜好调整按钮位置及大小，通过触屏滑动来进行闪避走位…\n• MFi设备以及主机控制器蓝牙连接特性支持。",
-      "trackCensoredName": "重生细胞",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E9%87%8D%E7%94%9F%E7%BB%86%E8%83%9E/id1523446532?uo=4",
+      "currency": "HKD",
+      "description": "SEIZE FORBIDDEN TREASURES. SUMMON ALIEN GODS. FEED ON YOUR DISCIPLES.\n\nBE WARNED. This game has no tutorial - part of the challenge is figuring out how to play. It's hard, but keep trying, and you'll master it. Good luck!\n\nIn this infamous roguelike narrative card game, play as a seeker after unholy mysteries in a 1920s-themed setting of hidden gods and secret histories. Become a scholar of the unseen arts. Craft tools and summon spirits. Indoctrinate innocents. Seize your place as the herald of a new age.\n\nCultist Simulator was first released on PC and has more than 200,000 players all over the world. Now we’re bringing the cosmic mysteries of Cultist Simulator to mobile.\n\n• Challenging roguelike gameplay - There is never only one history.\nCultist Simulator doesn’t hold your hand. Experiment, expire and transcend death with a story-driven legacy system. Over time you’ll learn enough to wrestle the game to its knees.\n\n• Intense, immersive narrative – Combine cards to tell your own story.\nA hefty novel’s worth of choice-based storytelling, from the creator of Fallen London and Sunless Sea. There are many paths through this game of ambition, appetite and abomination, and many ways your tale can end.\n\n• A rich Lovecraftian world – Corrupt your friends and consume your enemies.\nSearch your dreams for sanity-twisting rituals. Translate grimoires and glean their lore. Penetrate the realm of the Hours and win a place in their service. Cultist Simulator brings the peripheral horror of Lovecraft’s tales to an entirely new setting.\n\nExpand your knowledge with the DLCs: New Legacies, New Ascensions, New Mechanics...\n• The Dancer - Join the Bacchanal\n• The Priest - Knock, and Ye Shall Be Opened\n• The Ghoul - Taste of the graveyard's fruit\n• The Exile - Some there are who will not yield\n\nIf you encounter any issue with the game, please click on “Contact us” at the bottom of this page and give us as many details as possible regarding the issue and your device: https://playdigious.helpshift.com/hc/en/11-cultist-simulator/?p=ios",
+      "trackCensoredName": "Cultist Simulator",
+      "trackViewUrl": "https://apps.apple.com/hk/app/cultist-simulator/id1439886655?uo=4",
       "contentAdvisoryRating": "12+",
-      "averageUserRating": 4.67954,
-      "minimumOsVersion": "13.0",
-      "languageCodesISO2A": [
-        "EN",
-        "FR",
-        "DE",
-        "IT",
-        "JA",
-        "KO",
-        "PL",
-        "PT",
-        "RU",
-        "ZH",
-        "ES",
-        "ZH",
-        "TR"
-      ],
-      "fileSizeBytes": "1749041152",
-      "formattedPrice": "¥30.00",
+      "averageUserRating": 4.82609,
+      "minimumOsVersion": "12.0",
+      "averageUserRatingForCurrentVersion": 4.82609,
+      "userRatingCountForCurrentVersion": 138,
       "trackContentRating": "12+",
-      "averageUserRatingForCurrentVersion": 4.67954,
-      "userRatingCountForCurrentVersion": 86903,
-      "userRatingCount": 86903,
+      "sellerUrl": "http://weatherfactory.biz/cultist-simulator/",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "346796032",
+      "formattedPrice": "HK$ 8.00",
+      "releaseDate": "2019-04-02T04:55:37Z",
+      "artistId": 1041387229,
+      "artistName": "Playdigious",
+      "bundleId": "com.playdigious.cultist",
+      "userRatingCount": 138,
       "inAppPurchases": {
-        "解锁《坏种》DLC": "¥6.00",
-        "解锁《致命坠落》DLC": "¥8.00",
-        "解锁《王后与海》DLC": "¥8.00",
-        "解锁《重返恶魔城》DLC": "¥16.00",
-        "解锁《一路向海》DLC捆绑包": "¥18.00",
-        "解锁《新一路向海》DLC捆绑包": "¥34.00"
+        "Forbidden Bundle": "HK$ 58.00",
+        "The Dancer": "HK$ 18.00",
+        "The Ghoul": "HK$ 18.00",
+        "The Exile": "HK$ 38.00",
+        "The Priest": "HK$ 18.00"
       },
       "inAppPurchasesTimes": 1,
-      "timestamp": 1772296526499,
+      "timestamp": 1772557125158,
       "discounts": [
         {
-          "type": "inAppPurchase",
-          "name": "解锁《坏种》DLC",
-          "from": "¥8.00",
-          "to": "¥6.00",
-          "range": "[¥6.00 ~ ¥8.00]"
+          "type": "price",
+          "name": "价格",
+          "from": "HK$ 58.00",
+          "to": "HK$ 8.00",
+          "range": "[HK$ 8.00 ~ HK$ 58.00]"
         }
       ]
-    }
-  ],
-  "hk": [
+    },
     {
       "isGameCenterEnabled": false,
       "screenshotUrls": [
