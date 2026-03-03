@@ -1,5 +1,35 @@
 [
   {
+    "timestamp": 1772570389285,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 1580067723,
+          "trackName": "Wall of insanity",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "1h29m57.043s",
+    "regionAppCount": {
+      "cn": 890,
+      "hk": 1553,
+      "mo": 1548,
+      "tw": 1558,
+      "us": 1544,
+      "tr": 1534,
+      "pt": 1493
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1772564572180,
     "regionAppInfo": {
       "cn": [
@@ -124805,29 +124835,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1771965950878,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "1h34m30.378s",
-    "regionAppCount": {
-      "cn": 878,
-      "hk": 1536,
-      "mo": 1532,
-      "tw": 1541,
-      "us": 1529,
-      "tr": 1519,
-      "pt": 1477
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
