@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1772528000152,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "1h33m54.587s",
+    "regionAppCount": {
+      "cn": 887,
+      "hk": 1549,
+      "mo": 1544,
+      "tw": 1554,
+      "us": 1540,
+      "tr": 1530,
+      "pt": 1489
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1772521365000,
     "regionAppInfo": {
       "cn": [
@@ -125699,46 +125723,5 @@
     },
     "limitCount": 6,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1771923526689,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [
-        {
-          "trackId": 683353582,
-          "trackName": "Hong Kong Taxi Cards",
-          "inAppPurchasesTimes": 6
-        },
-        {
-          "trackId": 777310222,
-          "trackName": "GoodReader PDF Editor & Viewer",
-          "inAppPurchasesTimes": 6
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": [
-        {
-          "trackId": 1095883970,
-          "trackName": "芳香樂活",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "1h33m2.208s",
-    "regionAppCount": {
-      "cn": 876,
-      "hk": 1533,
-      "mo": 1529,
-      "tw": 1537,
-      "us": 1525,
-      "tr": 1515,
-      "pt": 1473
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
