@@ -513,7 +513,7 @@
 |1303| ~~6745578435~~ |自动| ~~正版传奇-鸡哥爆款表情包之战,多开打金高爆超变至尊极品传世界~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~暗黑联盟之暴打传说~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1302|6504453094|自动|❌|Black Border 2|Black Border 2|Black Border 2|Black Border 2|Black Border 2|Black Border 2|
 |1301|1198161469|自动|❌|百萬樂曲物語|百萬樂曲物語|百萬樂曲物語|March to a Million|March to a Million|March to a Million|
-|1300|1558634102|自动|分贝计 (声级计)|分貝計 (聲級計)|分貝計 (聲級計)|分貝計 (聲級計)|Sound Meter (SPL meter)|Sound Meter (SPL meter)|Medidor de Som (medidor SPL)|
+|1300|1558634102|自动|分贝计 (声级计)|分貝計 (聲級計)|分貝計 (聲級計)|分貝計 (聲級計)|Sound Meter (SPL meter)|Sound Meter (SPL meter)|Medidor de Som|
 |1299|456976375|自动|❌|衝刺！賽車物語|衝刺！賽車物語|衝刺！賽車物語|Grand Prix Story|Grand Prix Story|Grand Prix Story|
 |1298|348759822|自动|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|新時代日漢辭典(發音版)|
 |1297|1047815745|自动|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|
@@ -1730,7 +1730,7 @@
 |86|1210251567|手动|SleepTown 睡眠小镇|SleepTown 睡眠小鎮|SleepTown 睡眠小鎮|SleepTown 睡眠小鎮|SleepTown|SleepTown|SleepTown|
 |85|1080235640|手动|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|
 |84|1658579911|手动|小特钥匙 - 特斯拉蓝牙手表钥匙|小特钥匙 - 特斯拉蓝牙手表钥匙|小特钥匙 - 特斯拉蓝牙手表钥匙|小特钥匙 - 特斯拉蓝牙手表钥匙|XIAOTE - Tesla BLE Watch key|XIAOTE - Tesla BLE Watch key|小特钥匙 - 特斯拉蓝牙手表钥匙|
-|83|1152396902|手动|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|
+|83|1152396902|手动|凤凰新闻专业版|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻专业版|
 |82|1633366918|手动|Instant Lines|Instant Lines|Instant Lines|Instant Lines|Instant Lines|Instant Lines|Instant Lines|
 |81|6480159520|手动|转录大师 - 录音转文字、实时离线转录|Whisper Pen - 語音轉文字|Whisper Pen - 語音轉文字|Whisper Pen - 語音轉文字|Whisper Pen - Speech to Text|Whisper Pen - Speech to Text|Whisper Pen - Fala para Texto|
 |80|966489322|手动|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|生辰 — 桌面时间小组件|
