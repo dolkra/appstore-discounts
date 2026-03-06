@@ -2894,6 +2894,25 @@
     "history": [
       [
         {
+          "timestamp": 1772829607655,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro + Família": "29,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Haydn: String Quartets": "1,99 €",
+            "Christmas Carol Collection": "1,99 €",
+            "Bach: Cello Suites": "1,99 €",
+            "Vivaldi: The Four Seasons": "1,99 €",
+            "Mozart: Twelve Duets": "1,99 €",
+            "The Mutopia Piano Collection": "5,99 €",
+            "forScore Pro": "17,99 €",
+            "Voluntary Upgrade": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1771305877461,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -25315,6 +25334,20 @@
       "Parallels Desktop for Mac #5": "89,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772829607655,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "89,99 €",
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770864790600,
@@ -51044,6 +51077,27 @@
       [
         {
           "timestamp": 1761797674362,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1580768213": {
+    "name": "iDOS 3",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772829607655,
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}

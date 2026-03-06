@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1818` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1819` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1819|1580768213|Automatic|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|iDOS 3|
 |1818|6759806669|Automatic|ScoreMaster 桌游计分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster 萬用桌遊計分助手|ScoreMaster - Board Game|ScoreMaster - Board Game|ScoreMaster - Board Game|
 |1817|1499594139|Automatic|Coffee Roasting RDT Timer|Coffee Roasting RDT Timer|Coffee Roasting RDT Timer|Coffee Roasting RDT Timer|Coffee Roasting RDT Timer|Coffee Roasting RDT Timer|❌|
 |1816|1140419709|Automatic|❌|漫畫道場物語|漫畫道場物語|漫畫道場物語|The Manga Works|The Manga Works|The Manga Works|
