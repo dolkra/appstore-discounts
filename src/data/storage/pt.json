@@ -43356,13 +43356,28 @@
     "name": "A Hora Da Sua Morte",
     "maxPriceInfo": {
       "price": 0.49,
-      "formattedPrice": "0,49 €"
+      "formattedPrice": "0,49 €",
+      "Countdown 2.0 Monthly": "1,99 €",
+      "Countdown 2.0 Lifetime": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Countdown 2.0 Monthly": "1,99 €",
+      "Countdown 2.0 Lifetime": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772823426990,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Countdown 2.0 Monthly": "1,99 €",
+            "Countdown 2.0 Lifetime": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765571455488,
@@ -51717,6 +51732,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1772823426990,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Off-Road Car Pack": "2,99 €",
+            "Content Bundle 1": "9,99 €",
+            "Getaway Car Pack": "2,99 €",
+            "Modified Monsters Car Pack": "2,99 €",
+            "Racing Heroes Car Pack": "2,99 €",
+            "Content Bundle 2": "8,99 €",
+            "Steel & Wheels Pack": "1,99 €",
+            "Reckless Car Pack": "2,99 €",
+            "Rusty Rats Car Pack": "2,99 €",
+            "Goofy Roofs Pack": "0,99 €"
+          }
+        },
         {
           "timestamp": 1772815988601,
           "price": 9.99,
@@ -64010,14 +64042,27 @@
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €",
-      "Supporter Pack": "0,99 €"
+      "Supporter Pack": "0,99 €",
+      "The Boglands DLC": "2,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €",
-      "Supporter Pack": "0,99 €"
+      "Supporter Pack": "0,99 €",
+      "The Boglands DLC": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1772823426990,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Supporter Pack": "0,99 €",
+            "The Boglands DLC": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771641416999,
