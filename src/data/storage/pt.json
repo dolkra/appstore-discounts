@@ -20149,6 +20149,25 @@
     "history": [
       [
         {
+          "timestamp": 1772893888845,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €",
+            "Horse": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1770615610651,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -23053,6 +23072,27 @@
           "inAppPurchases": {
             "Server Subscription": "5,49 €"
           }
+        }
+      ]
+    ]
+  },
+  "1003788343": {
+    "name": "ClimaVinea",
+    "maxPriceInfo": {
+      "price": 44.99,
+      "formattedPrice": "44,99 €"
+    },
+    "minPriceInfo": {
+      "price": 44.99,
+      "formattedPrice": "44,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1772893888845,
+          "price": 44.99,
+          "formattedPrice": "44,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
