@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1773002122366,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "1h34m54.004s",
+    "regionAppCount": {
+      "cn": 907,
+      "hk": 1572,
+      "mo": 1567,
+      "tw": 1577,
+      "us": 1563,
+      "tr": 1554,
+      "pt": 1512
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1772995549170,
     "regionAppInfo": {
       "cn": [
@@ -114056,40 +114080,5 @@
     },
     "limitCount": 2,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1772397357120,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": [
-        {
-          "trackId": 1203306285,
-          "trackName": "Piano Sight-Reading Trainer",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1064060287,
-          "trackName": "XP3Player",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "1h35m10.94s",
-    "regionAppCount": {
-      "cn": 887,
-      "hk": 1549,
-      "mo": 1544,
-      "tw": 1554,
-      "us": 1540,
-      "tr": 1530,
-      "pt": 1489
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
