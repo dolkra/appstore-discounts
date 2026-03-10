@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-03-09T16:19:06.791Z</updated>
+    <updated>2026-03-10T12:10:06.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-09T16:19:06.793Z</updated>
+        <updated>2026-03-10T12:10:06.643Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 09 Mar 2026 16:19:06 GMT</id>
+        <id>rankingcnTue, 10 Mar 2026 12:10:06 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-09T16:19:06.793Z</updated>
+        <updated>2026-03-10T12:10:06.643Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>1829</b>
+        <b>1830</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1628</b>
+        <b>1629</b>
       </td>
       <td>
         <b>79</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>1016</b>
+        <b>1017</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>854</b>
+        <b>855</b>
       </td>
       <td>
         <b>47</b>
@@ -95,14 +95,22 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id646256209">Photo Eraser</a>
+        <a href="https://apps.apple.com/cn/app/id6479683928">AMood - 你的健康生活好伙伴</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>1</b>
+            <span>总次数</span>：<b>2</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>包年会员</i>：<b>1</b>
+              </li><li>
+                <i>永久会员</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -112,7 +120,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id722262021">Wallax - Wallpaper Editor</a>
+        <a href="https://apps.apple.com/cn/app/id646256209">Photo Eraser</a>
       </td>
       <td>
         <ul>
@@ -129,7 +137,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+        <a href="https://apps.apple.com/cn/app/id722262021">Wallax - Wallpaper Editor</a>
       </td>
       <td>
         <ul>
@@ -144,6 +152,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>4</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -168,7 +193,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1062022008">LumaFusion</a>
@@ -195,7 +220,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1065802380">Stream Music Player</a>
@@ -212,7 +237,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -235,7 +260,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1481006495">倒计时应用 Countdown App</a>
@@ -252,7 +277,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1558634102">分贝计 (声级计)</a>
@@ -269,7 +294,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742311454">伏魔诀-阴阳秘术诡道修仙录</a>
@@ -286,7 +311,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749045841">王国保卫战5</a>
@@ -303,7 +328,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504433140">LaxtTime - 日常记录/循环提醒/习惯养成/倒计时</a>
@@ -326,7 +351,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6756542102">Onyx Magic</a>
@@ -349,7 +374,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504854196">下一站江湖Ⅱ</a>
@@ -360,29 +385,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>15</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/cn/app/id6479683928">AMood - 你的健康生活好伙伴</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>包年会员</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -825,6 +827,87 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[AMood - 你的健康生活好伙伴]]></title>
+        <id>AMood - 你的健康生活好伙伴-cn-1773139902053</id>
+        <link href="https://apps.apple.com/cn/app/amood-%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E5%A5%BD%E4%BC%99%E4%BC%B4/id6479683928?uo=4"/>
+        <updated>2026-03-10T10:51:42.053Z</updated>
+        <summary type="html"><![CDATA[永久会员: ¥138.00 → ¥128.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/amood-%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E5%A5%BD%E4%BC%99%E4%BC%B4/id6479683928?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/29/27/ca/2927ca34-ae49-2f3a-beec-8f98aff095b3/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>永久会员：</strong><span>¥138.00</span> → <b>
+  <strong>¥128.00</strong>
+</b><span>[¥58.00 ~ ¥138.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    永久会员：<b>¥128.00</b>
+  </li><li>
+    包月会员：<b>¥16.00</b>
+  </li><li>
+    包年会员：<b>¥98.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  欢迎使用 AMood，你的 Apple Watch 上健康生活好伙伴。无感追踪你的心理状态和身体压力，快捷查看睡眠、基础代谢、饮水、咖啡因摄入等健康指标，帮助你掌握身体动态，探索更美好的健康生活。
+
+◎ AMood如何帮助到你
+
+在这个快节奏的时代，我们常常像陀螺一样不停旋转，却忽视了倾听内心的声音。疲惫与焦虑悄然袭来，却难以言说原因。我们相信，了解身心状态是每个人找到理想生活节奏的关键。AMood 正是秉持这一理念，通过更精准的分析，帮助你更好地照顾自己。例如：
+
+- 当你忙于赶项目，连续工作数小时，软件会通过手表提醒你身体活力下降，泡杯热茶，活动一下身体；
+
+- 当你开完一整天的会议，感到焦虑不安时，软件同样会提醒你情绪指数偏低，让你意识到需要暂时停下来，也许走出去晒晒太阳，散散步，都是不错的选择； 
+
+- 早晨醒来感到郁闷，打开软件发现情绪指数偏低，原来昨晚的睡眠质量不佳。今天可能需要多晒晒太阳或者中午小睡一会，让身心重新焕发光彩；
+
+- 查看本周趋势，发现每次与好友一起运动后，情绪指数都会明显上扬。这或许是生活给我们的一个小提示：快乐往往藏在简单的事物中；
+
+- 当工作压力大时，查看身心状态日历，寻找最适合自己的黄金时段。在对的时间做对的事，让效率与健康齐头并进。
+
+◎ 核心功能
+
+过去，压力常通过单一的 HRV 指标衡量，但生活远比数字复杂。AMood 首创双维度分析，独立监测身体压力和心理状态，帮助您更精准地识别身心变化，找到最适合的调节方式。
+
+- 双维监测：独立追踪身体活力与情绪波动，提供更精准的分析
+
+- 全域数据：整合睡眠、心率、体温、日照、步态等信息，全面了解身体状态
+
+- 智能提醒：实时监测身心状态变化，适时提醒休息与调整
+
+- 趋势洞察：帮助您发现最佳作息与工作节奏
+
+- 习惯养成：记录运动、饮水、咖啡因摄入等行为，助力健康管理
+
+- 联名主题：多个 IP 正版授权，增添健康管理的乐趣与互动
+
+AMood 不仅关注单一时刻，更致力于发现生活中的规律。通过分析睡眠、心率、体温等多维数据，描绘出你独特的生命韵律。每一组数据背后，都蕴藏着提升生活品质的秘密。因为我们深信，照顾自己这段旅程，理应充满温暖与愉悦。
+
+◎ 苹果健康集成
+
+AMood 与 Apple Health 集成，需要授予苹果健康的读取和写入权限。
+
+◎ 订阅价格和条款
+
+我们提供一次性购买、按月和按年自动续订三种不同的购买选项。按月或按年订阅的说明：确认并支付后，将通过你的苹果 iTunes 账号自动续订。扣费成功后，顺延一个订阅周期。若需退订，请在当前订阅期结束前至少24小时内，手动在 iTunes / Apple ID 设置管理中关闭自动续费功能。试用期内，如不取消订阅，则会在试用期结束时自动开通订阅并扣款。本服务由您自助选择是否取消，若您选择不取消，将为您开通下一个计费周期的续费服务。
+
+◎ 隐私保护
+
+用户健康数据仅储存在本地以及用户所属的iCloud中。
+
+◎ 免责声明
+
+AMood不是医疗设备，不能用于诊断、治疗、预防疾病或医疗状况，所提供的所有信息和建议不可以被视作医疗建议或诊断，请勿替代专业的诊断和治疗。因此，如果您担心自己的身体和(或)心理健康，请咨询医生。
+
+◎ 用户协议和隐私条款
+
+用户协议 https://docs.amood.app/terms-of-use
+隐私条款 https://docs.amood.app/privacy-policy
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/d3/14/03d3147b-be4e-588e-8434-03adf67c7f76/ca3b7246-8576-4974-ad24-2516b66ed5ad__U5e7b_U706f_U72471.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/30/38/5a30380e-ba34-ba9b-d123-1ae0dbf3b852/d766445b-5e6a-4d19-81e7-e04ffd35a2bd_5.5_U82f1_U5bf8_U5546_U5e97_U622a_U56fe.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/0b/20/610b2051-bdf1-dcfd-4992-50f0ba08ef22/115daeee-f7bc-4d48-853a-620f18eb3530__U5e7b_U706f_U72473.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/61/4b/25614b6e-158b-f0a6-3df1-8c50652a82cb/f05c30f0-e67e-465d-91de-2d677fa1f538__U5e7b_U706f_U72474.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/25/ab/3a25ab59-da2b-5334-dd02-f0eb9fdda7b6/cb86a6e1-cd35-4d3f-b085-2379a790568a__U5e7b_U706f_U72475.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f6/39/46/f63946af-210e-797e-ece0-9b45f3237ea5/e88e5f17-2771-435b-9996-c597a85eeb4d__U5e7b_U706f_U72476.png/392x696bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMood - 你的健康生活好伙伴]]></title>
         <id>AMood - 你的健康生活好伙伴-cn-1773068345439</id>
         <link href="https://apps.apple.com/cn/app/amood-%E4%BD%A0%E7%9A%84%E5%81%A5%E5%BA%B7%E7%94%9F%E6%B4%BB%E5%A5%BD%E4%BC%99%E4%BC%B4/id6479683928?uo=4"/>
         <updated>2026-03-09T14:59:05.439Z</updated>
@@ -1239,145 +1322,5 @@ LaxtTime提供了数十种预设颜色，你也可以进行自定义颜色来标
 [用户协议]
 (a) https://merciful-sugar-3e6.notion.site/Terms-of-service-08c6aecd3d5b4e6f8c91adb04f770826
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d4/fb/ff/d4fbff8e-e185-0118-a1eb-0233917f5edb/680b1db9-8194-472a-b5df-7249836232dc_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/0d/4b/860d4b5b-fa6e-630a-046c-df7a5738bc79/be00827a-bcaf-41f4-bd5b-93bbd2e5f38b_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/39/e0/ea39e0b3-222f-3595-1b28-a9b340285650/5dec7a08-8e6a-4dea-8a92-a4ac7a4c9a24_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cc/14/2a/cc142a68-bd63-5d5d-c7c8-070195d2c4e4/4baf0d90-b28d-4313-90af-0fb87647c4f4_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6a/c8/ae/6ac8ae02-2767-f072-ed18-c4d7062e0df9/0d1b0637-9860-4450-9724-97e525906f9c_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/4b/3b/894b3b7a-912b-6d2b-f27b-9cdcdef127bd/b54313a4-f008-4eec-b577-b033d6f53ee2_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/00/09/6700096d-5994-2e5e-d54f-4e393857c87a/eed675a3-6813-4df1-9319-57e79ed6f73e_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/36/e2/2e36e2b5-2ee2-78b6-8233-1b7f0efb1a3e/709dd0ee-1126-4d20-b401-2f29bd11a7d9_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/13/a9/5613a914-82d7-55dd-19fe-e60e41f49804/3e43bd15-ac1a-44b4-852e-e7c98c017619_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/40/66/ad4066cc-b9e8-002b-ec7e-2cec702eeb76/7d6982d2-3236-4800-ab15-00b981628612_8.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[倒计时应用 Countdown App]]></title>
-        <id>倒计时应用 Countdown App-cn-1772823426990</id>
-        <link href="https://apps.apple.com/cn/app/%E5%80%92%E8%AE%A1%E6%97%B6%E5%BA%94%E7%94%A8-countdown-app/id1481006495?uo=4"/>
-        <updated>2026-03-06T18:57:06.990Z</updated>
-        <summary type="html"><![CDATA[价格: ¥3.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%80%92%E8%AE%A1%E6%97%B6%E5%BA%94%E7%94%A8-countdown-app/id1481006495?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f0/54/b5/f054b501-9f9e-83c2-302b-a693c466c1a2/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥3.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Countdown 2.0 Monthly：<b>¥15.00</b>
-  </li><li>
-    Countdown 2.0 Lifetime：<b>¥38.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  Your countdown awaits. Inspired by the horror movie Countdown, this app will reveal exactly how much time you have left.
-
-By receiving, opening the file package, and/or using Countdown('Software') containing this software, you agree that this End User License Agreement(EULA) is a legally binding and valid contract and agree to be bound by it. You agree to abide by the intellectual property laws and all of the terms and conditions of this Agreement. User shall accept the terms of his or her fate. Any attempt to use information derived from Countdown to alter the user’s fate will result in a breach of this agreement.
-
-Tag us in your reactions using #CountdownApp on TikTok.
-
---- --- --- ---
-
-Warning: This app contains vibrations, sound effects, and uses your device’s torch for added intensity. It may not be suitable for individuals with epilepsy.
-
-Disclaimer: This app is for entertainment purposes. Results should not be taken seriously.
-
---- --- --- ---
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/90/35/f5/9035f561-98f8-5090-1663-60f751702528/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/b2/6c/d3b26c23-ae54-b54e-a56a-23df27efadb7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5e/b9/44/5eb94410-a243-5b20-d05b-6d13d5d6c788/pr_source.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LumaFusion]]></title>
-        <id>LumaFusion-cn-1772815988601</id>
-        <link href="https://apps.apple.com/cn/app/lumafusion/id1062022008?uo=4"/>
-        <updated>2026-03-06T16:53:08.601Z</updated>
-        <summary type="html"><![CDATA[价格: ¥198.00 → ¥98.00<br/>FCPXML Export: ¥148.00 → ¥88.00<br/>Multicam Studio: ¥148.00 → ¥88.00<br/>速度提升和关键帧: ¥148.00 → ¥88.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/lumafusion/id1062022008?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c9/18/8b/c9188b88-840b-548e-165c-a93cacdcc951/LumaFusionComposerIcon-0-1x_U007epad-0-1-0-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥198.00</span> → <b>
-  <strong>¥98.00</strong>
-</b><span>[¥98.00 ~ ¥198.00]</span>）
-</h2><h3>App内购买</h3><ul>
-  <li>
-    <strong>FCPXML Export：</strong><span>¥148.00</span> → <b>
-  <strong>¥88.00</strong>
-</b><span>[¥88.00 ~ ¥148.00]</span>
-  </li><li>
-    <strong>Multicam Studio：</strong><span>¥148.00</span> → <b>
-  <strong>¥88.00</strong>
-</b><span>[¥88.00 ~ ¥148.00]</span>
-  </li><li>
-    <strong>速度提升和关键帧：</strong><span>¥148.00</span> → <b>
-  <strong>¥88.00</strong>
-</b><span>[¥88.00 ~ ¥148.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>¥98.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    创作者通行证每月：<b>¥68.00</b>
-  </li><li>
-    FCPXML Export：<b>¥88.00</b>
-  </li><li>
-    创作者年票：<b>¥498.00</b>
-  </li><li>
-    Multicam Studio：<b>¥88.00</b>
-  </li><li>
-    速度提升和关键帧：<b>¥88.00</b>
-  </li><li>
-    CoreMelt PaintX Plug-In：<b>¥148.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  LumaFusion: 视频编辑的终极叙事体验
-
-欢迎使用App Store 2021年“年度应用程序”和“编辑选择奖”获得者！为全世界的故事讲述者设立黄金标准，提供流畅、直观、专为触摸屏设计的编辑体验。
-
-专业视频编辑轻松完成
-• 6个视频/音频或图形轨道：创建多个图层的合成，流畅处理4K ProRes和HDR媒体。
-• 6个额外的音频轨道：构建您的音效。
-• 终极时间轴：使用世界上最灵活的轨道式和磁性时间线进行流畅编辑。
-• 多种过渡效果：保持您的故事推进。
-• 外部显示器预览：在大屏幕上查看您的作品。
-• 标记、标签和备注：保持有序。
-• 配音：在播放电影的同时进行录制。
-
-分层效果和色彩校正
-• 绿屏、Luma和色度键：用于创意合成。
-• 锁定与加载视频稳定器：保持镜头稳定
-• 强大的色彩校正：打造您自己的外观。
-• 视频波形、矢量和柱状图显示器。
-• LUTs：导入并应用多个 .cube 或 .3dl LUT。
-• 无限关键帧：精确制作动画效果。
-• 可定制的文本和效果预设：保存并分享您最喜欢的动画和样式。
-• 网格和导线：使用标题安全网格、动作安全网格和水平线，精确对齐元素。
-
-高级音频控制
-• 图形均衡器、参数均衡器和声音隔离：微调音频。
-• 关键帧音频水平、平移和均衡器：制作无缝混音。
-• 支持立体声和双单声道音频：非常适合在一个剪辑中使用多个麦克风进行采访。
-• 音频降噪：平衡音乐和对话。
-• 第三方音频插件：增强声音。
-
-创意标题和多层文本
-• 多层标题：将形状、图像和文本组合到图形中。
-• 可自定义的字体、颜色、边框和阴影：设计引人注目的标题
-• 导入自定义字体：增强您的品牌。
-• 保存或分享标题预设：完美适用于协作。
-
-项目灵活性和媒体库
-• 适用于所有用途的宽高比：从宽银幕电影到社交媒体。
-• 帧率从18fps到240fps：灵活适用于任何工作流程。
-• 从照片、Frame.io或直接从USB-C驱动器进行编辑：在任何地方访问您的内容。
-• 从云存储导入媒体：无论存储在哪里。
-
-分享您的杰作
-• 控制分辨率、质量和格式：
-• 将电影分享到社交媒体、本地存储或云端存储。
-• 在多台设备上编辑：无缝传输项目。
-
-增强功能（单独购买，或作为创作者通行证订阅的一部分全部获取 - 见下文）
-• 速度调节和增强关键帧 - 使用这一独特且易于使用的功能创建速度渐变、贝塞尔曲线和缓动效果。
-XML导出：将您的项目发送到Mac版Final Cut Pro
-• 多机位工作室：同步6台摄像机或音频，并点击切换角度
-
-创作者通行证订阅
-• 获取LumaFusion的Storyblocks的全面访问权限：数百万高质量的免版税音乐、SFX和视频，并获取上述所有增强功能。
-
-卓越的免费支持服务
-• 在线教程：www.youtube.com/@LumaTouch
-• 参考指南：luma-touch.com/lumafusion-reference-guide
-• 支持：luma-touch.com/support
-</p>]]></content>
     </entry>
 </feed>
