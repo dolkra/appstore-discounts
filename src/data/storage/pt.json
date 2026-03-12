@@ -13913,6 +13913,40 @@
       ]
     ]
   },
+  "570306657": {
+    "name": "LEGO Batman: DC Super Heroes",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Stack of Bricks": "0,99 €",
+      "Pile of Bricks": "2,99 €",
+      "Cave of Bricks": "9,99 €",
+      "Crate of Bricks": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Stack of Bricks": "0,99 €",
+      "Pile of Bricks": "2,99 €",
+      "Cave of Bricks": "9,99 €",
+      "Crate of Bricks": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773312625962,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Stack of Bricks": "0,99 €",
+            "Pile of Bricks": "2,99 €",
+            "Cave of Bricks": "9,99 €",
+            "Crate of Bricks": "5,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "571863178": {
     "name": "AudioStretch",
     "maxPriceInfo": {
@@ -75380,6 +75414,27 @@
       [
         {
           "timestamp": 1773226277110,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755215139": {
+    "name": "スイカゲーム ぷらねっと",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773312625962,
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
