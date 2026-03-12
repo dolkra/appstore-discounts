@@ -910,7 +910,7 @@ So far, we've covered `7` `Countries or Regions` and  `1836` `Apps` <br />Push n
 |936|1095883970|Automatic|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|
 |935|1232791258|Automatic|❌|Battleheart 2|Battleheart 2|Battleheart 2|Battleheart 2|Battleheart 2|Battleheart 2|
 |934|1600925588|Automatic|GR Linker - 理光相机传图 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - 理光相機傳圖 Image Sync|GR Linker - Image Sync|GR Linker - Image Sync|GR Linker - Image Sync|
-|933|6474479684|Automatic|Spark - Ren'Py 小说们|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py Novels|Spark - Ren'Py Novels|Spark - Ren'Py Novels|
+|933|6474479684|Automatic|Spark - Ren'Py 小说们|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py 小說們|Spark - Ren'Py Novels|Spark - Ren'Py Novels|Spark Novels|
 |932|6466296603|Automatic|❌|The Last Game|The Last Game|The Last Game|The Last Game|The Last Game|The Last Game|
 |931|6670402289|Automatic|❌|Looking for Aliens|Looking for Aliens|Looking for Aliens|Looking for Aliens|Looking for Aliens|Looking for Aliens|
 |930|459947180|Automatic|LectroRM|LectroRM|LectroRM|LectroRM|LectroRM|LectroRM|LectroRM|
