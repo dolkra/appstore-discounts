@@ -1,5 +1,29 @@
 [
   {
+    "timestamp": 1773434679093,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [],
+      "mo": [],
+      "tw": [],
+      "us": [],
+      "tr": [],
+      "pt": []
+    },
+    "duration": "1h42m40.707s",
+    "regionAppCount": {
+      "cn": 912,
+      "hk": 1584,
+      "mo": 1579,
+      "tw": 1589,
+      "us": 1574,
+      "tr": 1567,
+      "pt": 1524
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1773428047860,
     "regionAppInfo": {
       "cn": [
@@ -124260,40 +124284,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1772829607655,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [
-        {
-          "trackId": 1492041539,
-          "trackName": "FINAL FANTASY VI",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6477660875,
-          "trackName": "大海賊探險物語DX",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [],
-      "tw": [],
-      "us": [],
-      "tr": [],
-      "pt": []
-    },
-    "duration": "1h34m15.187s",
-    "regionAppCount": {
-      "cn": 903,
-      "hk": 1567,
-      "mo": 1562,
-      "tw": 1572,
-      "us": 1558,
-      "tr": 1548,
-      "pt": 1507
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
