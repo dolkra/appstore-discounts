@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-03-13T16:11:08.650Z</updated>
+    <updated>2026-03-13T20:15:05.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-13T16:11:08.652Z</updated>
+        <updated>2026-03-13T20:15:05.380Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 13 Mar 2026 16:11:08 GMT</id>
+        <id>rankingcnFri, 13 Mar 2026 20:15:05 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-13T16:11:08.652Z</updated>
+        <updated>2026-03-13T20:15:05.380Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -143,14 +143,20 @@ feedId:157007849019630592+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
+        <a href="https://apps.apple.com/cn/app/id401818935">Genius Scan Enterprise - PDF</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>Genius Scan Ultra</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -160,7 +166,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id646256209">Photo Eraser</a>
+        <a href="https://apps.apple.com/cn/app/id510249014">水平仪 HD</a>
       </td>
       <td>
         <ul>
@@ -177,7 +183,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id722262021">Wallax - Wallpaper Editor</a>
+        <a href="https://apps.apple.com/cn/app/id646256209">Photo Eraser</a>
       </td>
       <td>
         <ul>
@@ -194,7 +200,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+        <a href="https://apps.apple.com/cn/app/id722262021">Wallax - Wallpaper Editor</a>
       </td>
       <td>
         <ul>
@@ -209,6 +215,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>7</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/cn/app/id931188326">DayCost</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>8</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id966489322">生辰 — 桌面时间小组件</a>
@@ -233,7 +256,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1062022008">LumaFusion</a>
@@ -260,7 +283,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1065802380">Stream Music Player</a>
@@ -277,7 +300,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1160943124">听写文本：语音识别</a>
@@ -294,7 +317,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -317,7 +340,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1446399911">指尖轮盘 - 有趣的手指转盘决定器</a>
@@ -334,7 +357,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1481006495">倒计时应用 Countdown App</a>
@@ -351,7 +374,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1558634102">分贝计 (声级计)</a>
@@ -368,7 +391,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576004936">化学 - 元素周期表 2026</a>
@@ -385,7 +408,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1640636826">Code Blue – CPR & ACLS Timer</a>
@@ -402,7 +425,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742311454">伏魔诀-阴阳秘术诡道修仙录</a>
@@ -419,7 +442,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749045841">王国保卫战5</a>
@@ -436,7 +459,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504433140">LaxtTime - 日常记录/循环提醒/习惯养成/倒计时</a>
@@ -459,7 +482,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6756542102">Onyx Magic</a>
@@ -482,7 +505,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504854196">下一站江湖Ⅱ</a>
@@ -499,7 +522,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6755290585">Raiders Map</a>
@@ -522,7 +545,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6759806669">ScoreMaster 桌游计分助手</a>
@@ -539,7 +562,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446607609">佛系传奇:君王天下</a>
@@ -989,6 +1012,109 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genius Scan Enterprise - PDF]]></title>
+        <id>Genius Scan Enterprise - PDF-cn-1773428047860</id>
+        <link href="https://apps.apple.com/cn/app/genius-scan-enterprise-pdf/id401818935?uo=4"/>
+        <updated>2026-03-13T18:54:07.860Z</updated>
+        <summary type="html"><![CDATA[Genius Scan Ultra: ¥298.00 → ¥38.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/genius-scan-enterprise-pdf/id401818935?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/25/bb/09/25bb09ff-b0ea-e5a7-9c8a-852c972a4d37/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>Genius Scan Ultra：</strong><span>¥298.00</span> → <b>
+  <strong>¥38.00</strong>
+</b><span>[¥38.00 ~ ¥298.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥328.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Genius Scan Ultra：<b>¥38.00</b>
+  </li><li>
+    超大赞助：<b>¥68.00</b>
+  </li><li>
+    慷慨捐赠：<b>¥22.00</b>
+  </li><li>
+    小提示：<b>¥8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Genius Scan是一款可装入口袋的扫描仪。 可随时随地快速扫描文档，并能导出为JPEG或多页PDF文件。
+
+*** Apple App of the Week *** 2000多万用户 *** 1000多家小企业 ***
+
+将任何文档放在设备的相机前面：我们的扫描仪应用程序会自动识别背景纸张，裁剪纸张并清理结果。您可以获得清晰易读的扫描。批量扫描可让您在几秒钟内扫描数十页。强大的工具可帮助您组织、共享或归档文档。
+
+“这是一款绝对精彩的应用。” -  AppSafari.com
+
+“下一次出差时别忘了下载一个 Genius Scan，可以给自己和会计部门带来很大方便。” -  AppPicker.com
+
+==企业版== 
+
+ Genius Scan+ Premium Pack： 
+
+ - 开箱即用（无需升级）Genius Scan+ 的所有高级功能（用下方的 + 表示）。 
+
+管理配置： 
+
+ - 部署到由MDM工具管理的设备中
+ - 按用户预先配置部署应用程序设置（例如，设置默认电子邮件地址，WebDAV / FTP 凭据） 
+ - 控制用户可以将文档导出到哪些应用程序和服务
+ - 无广告
+
+==主要功能== 
+
+智能扫描： 
+
+ - 文件检测和背景移除
+ - 失真校正
+ - 阴影去除和缺陷清理
+ - 滤镜（黑白、白板、照片） 
+ - 批量扫描
+
+ PDF创建和编辑： 
+
+ - 文档合并和拆分
+ - 多页PDF创建
+ - 照片和PDF导入
+
+安全和隐私： 
+
+ - 设备上文档处理
+ + 面容_ID 
+ + PDF密码加密
+
+文件组织： 
+
+ - 文档标记
+ - 元数据和内容搜索
+ + 自定义命名方案（智能文档名称） 
+ + 使用Genius Cloud进行备份和多设备同步（单独订阅） 
+
+导出：
+
+ - 电子邮件
+ + Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV. 
+ + 任何与WebDAV兼容的服务，例如Citrix ShareFile、NextCloud、ownCloud、Synology、Yandex。 
+ + 自动后台自动导出
+
+OCR（文本识别）：
+
+ + 文字提取
+ + 创建可搜索的PDF
+ + 扫描名片和创建联系人
+
+==关于我们== 
+
+The Grizzly Labs在法国巴黎市中心开发了Genius Scan。我们制作能够帮助全世界数百万用户的应用程序并在质量和隐私方面保持最高标准，我们为此感到自豪。如果您有任何疑问，请通过@thegrizzlylabs联系我们。
+
+==定价和法律==
+
+您可以订阅Genius Cloud进行备份和同步。在这种情况下，Genius Scan的商店会显示每个订阅的持续时间和价格，并在购买时更新。订单确认后，将从iTunes帐户中收取付款。除非在当前期间结束前24小时内关闭自动续订，否则订阅会自动续订。管理订阅，禁用iTunes帐户设置中的自动续订。
+
+https://www.thegrizzlylabs.com/genius-scan/cloud/terms
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[指尖轮盘 - 有趣的手指转盘决定器]]></title>
