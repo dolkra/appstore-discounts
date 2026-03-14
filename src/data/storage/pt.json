@@ -959,14 +959,27 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "全能版": "22,99 €"
+      "全能版": "22,99 €",
+      "星平合参": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "全能版": "22,99 €"
+      "全能版": "22,99 €",
+      "星平合参": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773471561108,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "星平合参": "1,99 €",
+            "全能版": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -20727,6 +20740,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1773471561108,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Unlock all stages": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €"
+          }
+        },
         {
           "timestamp": 1773465217674,
           "price": 0.99,
