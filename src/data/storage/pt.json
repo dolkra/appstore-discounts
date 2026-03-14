@@ -7896,6 +7896,23 @@
     "history": [
       [
         {
+          "timestamp": 1773465217674,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1773456047521,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -20709,6 +20726,25 @@
       "Mia": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1773465217674,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €",
+            "Horse": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772901407464,
@@ -76068,6 +76104,27 @@
           "timestamp": 1773312625962,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758839020": {
+    "name": "Outhold",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773465217674,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
