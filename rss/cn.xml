@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-03-14T14:28:33.719Z</updated>
+    <updated>2026-03-14T15:54:13.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-14T14:28:33.721Z</updated>
+        <updated>2026-03-14T15:54:13.166Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnSat, 14 Mar 2026 14:28:33 GMT</id>
+        <id>rankingcnSat, 14 Mar 2026 15:54:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-03-14T14:28:33.721Z</updated>
+        <updated>2026-03-14T15:54:13.166Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -60,7 +60,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1636</b>
       </td>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>857</b>
       </td>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
     </tr>
   </tbody>
@@ -95,7 +95,9 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1423585518">ROMAN: 进食计画、减肥、减脂一体化。 体重管理。</a>
+        <del>
+          <a href="https://apps.apple.com/cn/app/id1423585518">ROMAN: 进食计画、减肥、减脂一体化。 体重管理。</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -276,6 +278,23 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id1020541183">电影精灵 - 专业视频编辑和电影制作</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1062022008">LumaFusion</a>
       </td>
       <td>
@@ -300,7 +319,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1065802380">Stream Music Player</a>
@@ -317,7 +336,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1160943124">听写文本：语音识别</a>
@@ -334,7 +353,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1400032769">Card.Note - 多彩卡片笔记</a>
@@ -357,7 +376,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1446399911">指尖轮盘 - 有趣的手指转盘决定器</a>
@@ -374,7 +393,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1481006495">倒计时应用 Countdown App</a>
@@ -391,7 +410,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1558634102">分贝计 (声级计)</a>
@@ -408,7 +427,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1576004936">化学 - 元素周期表 2026</a>
@@ -425,7 +444,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id1640636826">Code Blue – CPR & ACLS Timer</a>
@@ -442,7 +461,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6742311454">伏魔诀-阴阳秘术诡道修仙录</a>
@@ -459,7 +478,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6749045841">王国保卫战5</a>
@@ -476,7 +495,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504433140">LaxtTime - 日常记录/循环提醒/习惯养成/倒计时</a>
@@ -499,7 +518,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6756542102">Onyx Magic</a>
@@ -522,7 +541,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6504854196">下一站江湖Ⅱ</a>
@@ -539,7 +558,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6755290585">Raiders Map</a>
@@ -562,7 +581,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6759806669">ScoreMaster 桌游计分助手</a>
@@ -579,7 +598,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/cn/app/id6446607609">佛系传奇:君王天下</a>
@@ -681,7 +700,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
+        <a href="https://apps.apple.com/cn/app/id1423585518">ROMAN: 进食计画、减肥、减脂一体化。 体重管理。</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -690,7 +709,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
+        <a href="https://apps.apple.com/cn/app/id6446178861">PlayNav - 影片内无广告！</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -699,7 +718,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id403684733">Badoo高级版</a>
+        <a href="https://apps.apple.com/cn/app/id352247139">Calorie Counter PRO MyNetDiary</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -708,7 +727,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>12</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id406541444">8毫米相机</a>
+        <a href="https://apps.apple.com/cn/app/id403684733">Badoo高级版</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -717,7 +736,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>13</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
+        <a href="https://apps.apple.com/cn/app/id406541444">8毫米相机</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -726,7 +745,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>14</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id916976066">短语键盘</a>
+        <a href="https://apps.apple.com/cn/app/id829581836">Driving Theory Test 4 in 1 Kit</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -735,7 +754,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>15</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id918609651">Money Pro: Personal Finance AR</a>
+        <a href="https://apps.apple.com/cn/app/id916976066">短语键盘</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -744,7 +763,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>16</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
+        <a href="https://apps.apple.com/cn/app/id918609651">Money Pro: Personal Finance AR</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -753,7 +772,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>17</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1095903651">【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件</a>
+        <a href="https://apps.apple.com/cn/app/id1028950091">贪婪洞窟：猿神降临</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -762,7 +781,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>18</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1217732174">TA - 一对一聊天，遇见对的人</a>
+        <a href="https://apps.apple.com/cn/app/id1095903651">【约吗】-约会附近的人，同城陌生人交友陪玩聊天软件</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -771,7 +790,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>19</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
+        <a href="https://apps.apple.com/cn/app/id1217732174">TA - 一对一聊天，遇见对的人</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -780,7 +799,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>20</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1439881811">RadarOmega</a>
+        <a href="https://apps.apple.com/cn/app/id1436429074">FILCA - SLR Film Camera</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -789,7 +808,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1551263854">打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业</a>
+        <a href="https://apps.apple.com/cn/app/id1439881811">RadarOmega</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -798,7 +817,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1576329230">传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说</a>
+        <a href="https://apps.apple.com/cn/app/id1551263854">打金传奇:官方正版 搬砖回收永不关服超爆加强版，传奇王者霸业</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -807,7 +826,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
+        <a href="https://apps.apple.com/cn/app/id1576329230">传奇1.76官方正版盛大首发(重置版)今日开服送点卡迷失传说</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -816,7 +835,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>24</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
+        <a href="https://apps.apple.com/cn/app/id1603421749">传奇高爆99999% 攻速9999倍PC同款三职业:战无不胜</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -825,7 +844,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>25</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
+        <a href="https://apps.apple.com/cn/app/id1659316190">钢铁战队(R)</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -834,7 +853,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>26</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
+        <a href="https://apps.apple.com/cn/app/id6444782083">王国保卫战4</a>
       </td>
       <td>自动添加</td>
     </tr>
@@ -843,16 +862,16 @@ feedId:157007849019630592+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
+        <a href="https://apps.apple.com/cn/app/id6740471827">手表经典迷宫游戏</a>
       </td>
-      <td>人为添加</td>
+      <td>自动添加</td>
     </tr>
     <tr>
       <td>
         <b>28</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
+        <a href="https://apps.apple.com/cn/app/id1198176727">Controller for HomeKit</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -861,7 +880,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>29</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1444383602">Goodnotes 6：笔记，PDF，AI</a>
+        <a href="https://apps.apple.com/cn/app/id1055511498">Day One Journal</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -870,7 +889,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>30</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1473785373">钱迹记账-无广告自动记账软件 & 预算 & 资产管理</a>
+        <a href="https://apps.apple.com/cn/app/id1444383602">Goodnotes 6：笔记，PDF，AI</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -879,7 +898,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>31</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
+        <a href="https://apps.apple.com/cn/app/id1473785373">钱迹记账-无广告自动记账软件 & 预算 & 资产管理</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -888,7 +907,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>32</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
+        <a href="https://apps.apple.com/cn/app/id1610668825">FyTube - 没有广告的 YouTube</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -897,7 +916,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>33</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id598581396">Kingdom Rush Frontiers 塔防史诗冒险</a>
+        <a href="https://apps.apple.com/cn/app/id533055404">夜星 (Night Stars)</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -906,7 +925,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>34</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
+        <a href="https://apps.apple.com/cn/app/id598581396">Kingdom Rush Frontiers 塔防史诗冒险</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -915,7 +934,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>35</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
+        <a href="https://apps.apple.com/cn/app/id460661291">安全笔记+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -924,7 +943,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>36</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
+        <a href="https://apps.apple.com/cn/app/id505904421">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -933,7 +952,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>37</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
+        <a href="https://apps.apple.com/cn/app/id1527841661">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -942,7 +961,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>38</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
+        <a href="https://apps.apple.com/cn/app/id431033044">Phone Drive - 云储存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -951,7 +970,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>39</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
+        <a href="https://apps.apple.com/cn/app/id456637671">安全监控照片+视频Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -960,7 +979,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>40</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
+        <a href="https://apps.apple.com/cn/app/id1453318714">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -969,7 +988,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>41</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
+        <a href="https://apps.apple.com/cn/app/id818394449">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -978,7 +997,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>42</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
+        <a href="https://apps.apple.com/cn/app/id1485101937">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -987,7 +1006,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>43</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
+        <a href="https://apps.apple.com/cn/app/id488674899">雨雷達-實時天氣圖。 亞洲和中國。°</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -996,7 +1015,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>44</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
+        <a href="https://apps.apple.com/cn/app/id1361473095">喵斯快跑</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1005,7 +1024,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>45</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
+        <a href="https://apps.apple.com/cn/app/id373454750">随手记Pro–个人家庭生意记账</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1014,7 +1033,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>46</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
+        <a href="https://apps.apple.com/cn/app/id866450515">Forest 专注森林 - 番茄钟学习计时器</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1023,12 +1042,87 @@ feedId:157007849019630592+userId:73658201673997312
         <b>47</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/cn/app/id388624839">扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>48</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/cn/app/id1659622164">VidHub - 高清影片视频播放器，快速播放云盘网盘</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[电影精灵 - 专业视频编辑和电影制作]]></title>
+        <id>电影精灵 - 专业视频编辑和电影制作-cn-1773499010061</id>
+        <link href="https://apps.apple.com/cn/app/%E7%94%B5%E5%BD%B1%E7%B2%BE%E7%81%B5-%E4%B8%93%E4%B8%9A%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%92%8C%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C/id1020541183?uo=4"/>
+        <updated>2026-03-14T14:36:50.061Z</updated>
+        <summary type="html"><![CDATA[价格: ¥68.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%B5%E5%BD%B1%E7%B2%BE%E7%81%B5-%E4%B8%93%E4%B8%9A%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%92%8C%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C/id1020541183?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/aa/8f/58aa8fc3-3ede-5036-6576-4f920c5138f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥68.00</span> → <b>
+  <strong>免费</strong>
+</b><span>[免费 ~ ¥68.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h2>应用描述</h2><p>
+  只需一次付费，即可终身免费使用！
+
+【客服微信】加微信(MovieSpiritApp)，让我们一对一解答您的疑问!
+您想制作属于自己的微电影吗？
+您想当导演、制片、主演......吗？
+
+在电影精灵中，这些角色可以全部由您一个人搞定！
+
+通过电影精灵，您可以把各种媒体素材如视频、照片、音乐、文字、录音以及手指涂鸦等，按照您的创意，把它们编辑组合在一起，并给它们添加各种特效（场景切换特效、文字动画、滤镜特效、片头、蒙版、移动马赛克等），创作出属于您自己的微电影。
+
+主要功能：
+
+- 可剪裁、分割、合并、剪切、 缩放、翻转、变形各种媒体素材
+- 叠加多层视频图片素材 （画中画效果），视频图片数量没有限制
+- 专业的视频比例选项，可伸缩时间轴（逐帧），无限轨道图层
+- 添加各种蒙版 （线性蒙版、矩形蒙版、圆形蒙版、文字蒙版和路径蒙版）来隐藏或者显示影片的各个部分
+- 可视频抠像， 去掉视频背景
+- 可快速抠图（钢笔工具、套索工具、涂抹工具和文字工具等自定义形状抠图工具）
+- 绿幕或蓝幕视频可一键去除背景
+- 多达50多种特效可添加，如高斯模糊，雪花，雨滴，气泡，地震，烟花，烟雾，漩涡，火焰，星空等特效
+- 溶图
+- 快进、慢放（1/12慢速至16倍速），倒放视频 
+- 文字转语音功能 （几十种语言选项）
+- 360度旋转影片
+- 多种混合图像模式
+- 各种字体、文本模版、文字颜色、竖排文字、表情符号、阴影、文字描边、对齐等，支持从互联网、iCloud下载新字体；
+- 内置多种风格的免费配乐和音效，可添加电脑上的音乐或者iTunes里的音乐，还可提取并导出视频里的音频
+- 给视频配音录音
+- 直接在影片上用手指绘画涂鸦，有多种辅助画图形状工具供选择如直线、曲线、箭头、圆形、方形、多边形、 心形、 七彩文字等
+- 简单自动跟踪功能
+- 添加移动式马赛克
+- 可自定义影片背景颜色，如纯色、渐变色、拾取图片颜色等
+- 可添加几十种动画效果
+- 可调整素材亮度、对比度、饱和度、色阶、曝光、白平衡、伽玛等
+- 创建自己的GIF动画
+- 私人定制特效片头（需另外购买）
+- 多达80种滤镜特效 （素描、漫画、鱼眼、放大镜、背景模糊、晕影、运动模糊、旋转模糊、移轴镜、虚化、锐化、漩涡、各种颜色滤镜等）
+- 多达60种场景切换效果可选择
+- 可给视频／照片设置各种几十种外观形状如圆形、心形、钻石、星形、各种不规则形状等，甚至是自定义独一无二的形状
+- 可设置叠加视频／照片的透明色（Chroma Key)，比如去除照片中纯色背景色 （绿幕蓝幕抠像）
+- 能把视频／照片变黑白，把需要突出的部分还原色彩突出出来（Color Splash)
+- 能自由变形视频／照片成不规则形状
+- 给视频／照片／文字添加运动点，使它们动起来，缩放、旋转和移动结合起来可创建出各种各样的绚丽效果，如淡入淡出效果、多重幻影效果等；
+- 实时预览，高分辨视频输出
+- 可通过Wi-Fi直接从电脑导入多媒体素材：视频、照片、音乐和GIF动画等
+- 可直接保存并分享影片到社交网络，如云盘、微信、QQ 、抖音、Instagram、Facebook等
+
+
+如果您有任何问题或反馈，请直接发邮件到verytools2006@gmail.com，或通过微信联系我们(MovieSpiritApp)，我们会尽快答复您。谢谢！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/84/c1/b684c14b-0ab9-0731-a440-85f7785d5818/mzl.nhqldhwc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/5f/e1/e65fe112-3cf1-2a06-4bad-f170e6b927f4/mzl.egmrhbuk.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/38/e1/af/38e1af9c-4945-e6e1-ec8b-83fd5e3d3265/mzl.pwazltxe.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/4c/85/894c8549-ef29-42b1-9008-4131b3a08e28/mzl.bosppwem.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/51/54/15515482-407f-42f7-3f92-11f4a3812745/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/9e/25/8f9e25a6-899b-f8f4-2040-153d6b7d74df/mzl.rugzbulj.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/97/39/349739e6-7335-f6c7-1ced-087f8da58a40/mzl.ldgsltta.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/44/e8/8c/44e88cd2-d217-731b-39b8-f00034a6be31/mzl.uihwdfls.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/f5/d6/29f5d6df-301d-d9c9-98f5-7052efdf1ec0/mzl.lqfnlnfz.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/28/fd/dd28fd46-2192-9fad-5052-6de96835b1f0/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ROMAN: 进食计画、减肥、减脂一体化。 体重管理。]]></title>
@@ -1611,79 +1705,5 @@ Level. URL scheme is "EWBubbleLevel://"
 —— 婚启团队
 期待与你一起启程
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Code Blue – CPR & ACLS Timer]]></title>
-        <id>Code Blue – CPR &amp; ACLS Timer-cn-1773240921396</id>
-        <link href="https://apps.apple.com/cn/app/code-blue-cpr-acls-timer/id1640636826?uo=4"/>
-        <updated>2026-03-11T14:55:21.396Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/code-blue-cpr-acls-timer/id1640636826?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/8f/3f/f38f3f7a-4b15-24c3-e2ae-a713d39db56f/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥28.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h2>应用描述</h2><p>
-  Code Blue is a professional CPR and ACLS timer designed to support healthcare providers during cardiac arrest and resuscitation events, where every second matters.
-Built and tested in real clinical environments, Code Blue helps you track CPR cycles, epinephrine timing, rhythms, medications, and procedures with precision — even during long, complex codes.
-Whether you need a simple CPR timer or a complete cardiac arrest log, Code Blue adapts to your workflow.
-
-# Core Features #
-DUAL CPR & EPINEPHRINE TIMERS
-- Simultaneously track CPR compression cycles and epinephrine intervals
-- High-contrast visual alerts when time limits are exceeded
-
-REAL-TIME EVENT LOG
-- Register rhythms, pulse checks, medications, procedures, and interventions
-- Access a concise summary or a full resuscitation timeline at any moment
-
-COMPRESSION FRACTION TRACKING
-- Monitor compression fraction to reduce pauses and optimize CPR quality
-
-# Fully Customizable for Your Practice #
-CUSTOM MEDICATIONS & PROCEDURES
-- Add and save your own medications, doses, procedures, and rhythms
-
-FLEXIBLE WORKFLOWS
-Configure the app as a simple CPR timer
-Or use advanced logging for prolonged cardiac arrest scenarios more than an hour
-
-# First Responder & Post-Code Tools #
-FIRST RESPONDER MODE
-- Designed for out-of-hospital cardiac arrest
-- Save event location coordinates for later review on the interactive map
-
-CODE HISTORY & PDF EXPORT
-- Save previous codes
-- Generate and share detailed PDF reports for documentation, teaching, or review
-
-# Evidence-Based Flowcharts #
-ACLS & RESUSCITATION GUIDELINES
-- Integrated CPR and cardiac arrest flowcharts
-- Based on AHA ACLS and ERC post-resuscitation care guidelines
-
-# Built for Healthcare Professionals #
-Designed for use in:
-- Emergency Departments
-- ICUs
-- Wards
-- Prehospital and first-responder settings
-
-Code Blue helps you stay focused on patient care while the app handles timing, tracking, and documentation.
-
-# Support & Legal #
-For suggestions, feature requests, or bug reports, contact:
-Customer Support:
-suporte.codigoazul@gmail.com
-
-Privacy Policy:
-https://sites.google.com/view/codeblueapp/privacy
-
-End User License Agreement (EULA):
-https://sites.google.com/view/codeblueapp/eula
-</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/6e/8d/c46e8d22-d26c-8fb3-8756-7ec1131956af/41230127-fbf6-47fe-adb3-e4650a096509_iPad_Pro_12.9__-_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/d1/c8/c7d1c8b9-0f52-23f2-a21f-392abedbe909/f2e9fdd4-7e5b-4259-b86a-db27762d97c1_iPad_Pro_12.9__-_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/71/98/19/719819da-1a09-1f91-d095-64dff71cae66/d5e9b2ce-9a60-4106-a6b3-b1fe8f1d692f_iPad_Pro_12.9__-_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cc/75/a0/cc75a0db-6a7e-c540-1204-f81aa84cbc07/69b30a24-7b95-476b-9e8c-793f802995a5_iPad_Pro_12.9__-_5.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
