@@ -1132,7 +1132,7 @@
 |715| ~~1238247658~~ |自动| ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ | ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ |
 |714|1260271235|自动|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|
 |713|1260967308|自动|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|
-|712|1423585518|自动|ROMAN: 进食计画、减肥、减脂一体化。 体重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|Roman: budget weight loss|Roman: budget weight loss|Roman: budget weight loss|
+|712| ~~1423585518~~ |自动| ~~ROMAN: 进食计画、减肥、减脂一体化。 体重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ |
 |711|1508108761|自动|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|Pare de fumar - EasyQuit Pro|
 |710|1550721625|自动|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|
 |709|1582355047|自动|❌|❌|❌|❌|❌|Hacker Başlangıç|❌|

@@ -1132,7 +1132,7 @@ So far, we've covered `7` `Countries or Regions` and  `1837` `Apps` <br />Push n
 |715| ~~1238247658~~ |Automatic| ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ | ~~❌~~ | ~~Cluedo: Classic Edition~~ | ~~❌~~ |
 |714|1260271235|Automatic|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|BoatSpeed: Course & Speed|
 |713|1260967308|Automatic|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|WhatCall|
-|712|1423585518|Automatic|ROMAN: 进食计画、减肥、减脂一体化。 体重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|ROMAN: 進食計畫、減肥、減脂一體化。體重管理。|Roman: budget weight loss|Roman: budget weight loss|Roman: budget weight loss|
+|712| ~~1423585518~~ |Automatic| ~~ROMAN: 进食计画、减肥、减脂一体化。 体重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~ROMAN: 進食計畫、減肥、減脂一體化。體重管理。~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ | ~~Roman: budget weight loss~~ |
 |711|1508108761|Automatic|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|Pare de fumar - EasyQuit Pro|
 |710|1550721625|Automatic|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|
 |709|1582355047|Automatic|❌|❌|❌|❌|❌|Hacker Başlangıç|❌|
