@@ -13844,6 +13844,25 @@
     "history": [
       [
         {
+          "timestamp": 1773585484565,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "0,99 €",
+            "Classic Tack Tower Skin": "1,99 €",
+            "Classic Super Monkey Skin Sale": "0,99 €",
+            "Classic Super Monkey Skin": "1,99 €",
+            "Classic Ice Tower Skin Sale": "0,99 €",
+            "Classic Ice Tower Skin": "1,99 €",
+            "Classic Bomb Tower Skin Sale": "0,99 €",
+            "Classic Bomb Tower Skin": "1,99 €",
+            "Classic Dart Monkey Skin Sale": "0,99 €",
+            "Classic Dart Monkey Skin": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773428047860,
           "price": 3.49,
           "formattedPrice": "3,49 €",
@@ -76493,6 +76512,27 @@
           "timestamp": 1773465217674,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6505016522": {
+    "name": "MiniBee VPN",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773585484565,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
