@@ -13844,6 +13844,22 @@
     "history": [
       [
         {
+          "timestamp": 1773592885123,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Torre Liberar Todas as Melhorias": "0,99 €",
+            "Bundle O' Monkey Money": "3,49 €",
+            "Monte de Dinheiro": "5,99 €",
+            "Cofre de Fichas": "9,99 €",
+            "Dinheiro de Macaco": "0,99 €",
+            "Passe de Nível": "0,99 €",
+            "Modo Dinheiro Dobrado": "9,99 €",
+            "Cofre de Dinheiro": "22,99 €",
+            "Bundle O' Tokens": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1773585484565,
           "price": 3.49,
           "formattedPrice": "3,49 €",
@@ -76533,6 +76549,27 @@
           "timestamp": 1773585484565,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6759131919": {
+    "name": "公開資訊接收站 - 公開資訊觀測站重大訊息快篩",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1773592885123,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]
