@@ -1447,7 +1447,7 @@
 |532|452990487|自动|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|
 |531|454086751|自动|❌|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|
 |530|469343554|自动|❌|洛克人X|洛克人X|洛克人X|❌|❌|❌|
-|529|479516143|自动|❌|Minecraft|Minecraft|Minecraft|Minecraft: Dream it, Build it!|Minecraft: Dream it, Build it!|Minecraft|
+|529|479516143|自动|❌|Minecraft|Minecraft|Minecraft|Minecraft: Play with Friends!|Minecraft: Dream it, Build it!|Minecraft|
 |528|479662730|自动|❌|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto 3|Grand Theft Auto III|
 |527|482303584|自动|❌|❌|❌|❌|PDG PROmote 2026+|PDG PROmote 2026+|❌|
 |526|485246824|自动|❌|Cytus|Cytus|Cytus|Cytus|Cytus|Cytus|

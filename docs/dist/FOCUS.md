@@ -1447,7 +1447,7 @@ So far, we've covered `7` `Countries or Regions` and  `1969` `Apps` <br />Push n
 |532|452990487|Automatic|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|
 |531|454086751|Automatic|❌|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|
 |530|469343554|Automatic|❌|洛克人X|洛克人X|洛克人X|❌|❌|❌|
-|529|479516143|Automatic|❌|Minecraft|Minecraft|Minecraft|Minecraft: Dream it, Build it!|Minecraft: Dream it, Build it!|Minecraft|
+|529|479516143|Automatic|❌|Minecraft|Minecraft|Minecraft|Minecraft: Play with Friends!|Minecraft: Dream it, Build it!|Minecraft|
 |528|479662730|Automatic|❌|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto 3|Grand Theft Auto III|
 |527|482303584|Automatic|❌|❌|❌|❌|PDG PROmote 2026+|PDG PROmote 2026+|❌|
 |526|485246824|Automatic|❌|Cytus|Cytus|Cytus|Cytus|Cytus|Cytus|
