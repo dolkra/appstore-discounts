@@ -6890,6 +6890,23 @@
     "history": [
       [
         {
+          "timestamp": 1778010275043,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "0,99 €",
+            "Struck by Lightning - Bubble Bust World 3": "1,99 €",
+            "World 2 - Level Pack 2": "0,99 €",
+            "Pack of 30 Fireballs": "1,99 €",
+            "Pack of 5 Bumpers": "0,99 €",
+            "Pack of 10 Fireballs": "0,99 €",
+            "World 3 - Level Pack 2": "0,99 €",
+            "Pack of 15 Bumpers": "1,99 €",
+            "Pack of 500 Tokens": "0,99 €",
+            "MEGA Bubble Popper Pack": "8,99 €"
+          }
+        },
+        {
           "timestamp": 1778003004926,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -75980,10 +75997,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778010275043,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
