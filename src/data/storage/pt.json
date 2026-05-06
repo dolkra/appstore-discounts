@@ -3156,6 +3156,25 @@
     "history": [
       [
         {
+          "timestamp": 1778077953006,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Jimbocho HipstaPak": "1,99 €",
+            "Mers Sultan HipstaPak": "1,99 €",
+            "HipstaBoy SnapPak": "1,99 €",
+            "Príncipe Real HipstaPak": "1,99 €",
+            "Coyoacán HipstaPak": "1,99 €",
+            "Ohara HipstaPak": "1,99 €",
+            "RetroPak 2022": "7,99 €",
+            "RetroPak 2023": "9,99 €",
+            "RetroPak Twenty-One": "5,99 €",
+            "Highland Park HipstaPak": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1777719452554,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -97571,6 +97590,27 @@
           "timestamp": 1777990414423,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6447488668": {
+    "name": "Basic Cantonese Phrases",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1778077953006,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]
