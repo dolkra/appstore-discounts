@@ -210,7 +210,7 @@
 |1769|1459354443|自动|❌|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|书法字典大全Pro-练字必备|书法字典大全Pro-练字必备|❌|
 |1768|1620202676|自动|❌|鋼鐵戰隊|鋼鐵戰隊|鋼鐵戰隊|Iron Marines Invasion RTS Game|Iron Marines Invasion RTS Game|Iron Marines Invasion|
 |1767|6740008848|自动|❌|Alter - Reigns Your Fate Story|Alter - Reigns Your Fate Story|Alter - Reigns Your Fate Story|Alters - Reign Beyond Your Ego|Alters - Reign Beyond Your Ego|Alters - Reign Beyond Your Ego|
-|1766|6758530974|自动|Current Reader|Current Reader|Current Reader|Current Reader|Current Reader|Current Reader|Current Reader|
+|1766|6758530974|自动|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|
 |1765|6744356917|自动|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|
 |1764|6755781701|自动|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|
 |1763|6758402927|自动|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|

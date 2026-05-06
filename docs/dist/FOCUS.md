@@ -210,7 +210,7 @@ So far, we've covered `7` `Countries or Regions` and  `1969` `Apps` <br />Push n
 |1769|1459354443|Automatic|❌|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|书法字典大全Pro-练字必备|书法字典大全Pro-练字必备|❌|
 |1768|1620202676|Automatic|❌|鋼鐵戰隊|鋼鐵戰隊|鋼鐵戰隊|Iron Marines Invasion RTS Game|Iron Marines Invasion RTS Game|Iron Marines Invasion|
 |1767|6740008848|Automatic|❌|Alter - Reigns Your Fate Story|Alter - Reigns Your Fate Story|Alter - Reigns Your Fate Story|Alters - Reign Beyond Your Ego|Alters - Reign Beyond Your Ego|Alters - Reign Beyond Your Ego|
-|1766|6758530974|Automatic|Current Reader|Current Reader|Current Reader|Current Reader|Current Reader|Current Reader|Current Reader|
+|1766|6758530974|Automatic|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|
 |1765|6744356917|Automatic|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|开局五个亿-超现实模拟经营真人互动影游|
 |1764|6755781701|Automatic|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|Aurora Tromsø|
 |1763|6758402927|Automatic|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|Ramadan Planner: Track & Pray|
