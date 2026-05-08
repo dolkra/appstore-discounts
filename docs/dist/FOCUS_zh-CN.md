@@ -7,7 +7,7 @@
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|1976|687236846|自动|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|❌|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
+|1976|687236846|自动|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
 |1975|463994203|自动|八字紫微斗|八字紫微斗|八字紫微斗|八字紫微斗|❌|❌|❌|
 |1974|6757943661|自动|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|
 |1973|1672852887|自动|绝对音高 Pro：音符 间隔 和弦 音阶|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|Ear training Pro: piano guitar|Ear training Pro: piano guitar|Ouvido absoluto Pro: Solfejo|

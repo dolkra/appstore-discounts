@@ -7,7 +7,7 @@ So far, we've covered `7` `Countries or Regions` and  `1976` `Apps` <br />Push n
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|1976|687236846|Automatic|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|❌|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
+|1976|687236846|Automatic|剑桥高阶英汉双解词典：英语 — 简体中文|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|Adv. Learner’s Dictionary (SC)|
 |1975|463994203|Automatic|八字紫微斗|八字紫微斗|八字紫微斗|八字紫微斗|❌|❌|❌|
 |1974|6757943661|Automatic|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|阿福出境管家（原签证大师）|
 |1973|1672852887|Automatic|绝对音高 Pro：音符 间隔 和弦 音阶|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|絕對音高 Pro：音符 間隔 和弦 音階|Ear training Pro: piano guitar|Ear training Pro: piano guitar|Ouvido absoluto Pro: Solfejo|
