@@ -40852,6 +40852,25 @@
     "history": [
       [
         {
+          "timestamp": 1778261155251,
+          "price": 7.79,
+          "formattedPrice": "7,79 €",
+          "inAppPurchases": {
+            "Texturas em alta definição": "0,00 €",
+            "Texturas de HD de modo grupo": "0,00 €",
+            "Texturas urbanas em HD": "0,00 €",
+            "Texturas de tuner em HD": "0,00 €",
+            "Texturas de monoposto em HD": "0,00 €",
+            "Texturas de resistência em HD": "0,00 €",
+            "Texturas de turismo em HD": "0,00 €",
+            "Pacote de DLC": "0,00 €",
+            "Edição Preta": "0,00 €",
+            "Melhores Britânicos": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775840244345,
           "price": 7.79,
           "formattedPrice": "7,79 €",
@@ -92497,14 +92516,22 @@
   "6752701677": {
     "name": "3Dcalc+",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778261155251,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767429298792,
