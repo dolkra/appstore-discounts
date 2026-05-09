@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-05-08T07:30:08.825Z</updated>
+    <updated>2026-05-09T00:25:13.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-08T07:30:08.825Z</updated>
+        <updated>2026-05-09T00:25:13.572Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 08 May 2026 07:30:08 GMT</id>
+        <id>rankingptSat, 09 May 2026 00:25:13 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-08T07:30:08.825Z</updated>
+        <updated>2026-05-09T00:25:13.572Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>1976</b>
+        <b>1978</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1775</b>
+        <b>1777</b>
       </td>
       <td>
         <b>87</b>
@@ -68,13 +68,13 @@ feedId:206907475259680768+userId:73658201673997312
         <b>PT</b>
       </td>
       <td>
-        <b>1692</b>
+        <b>1694</b>
       </td>
       <td>
         <b>144</b>
       </td>
       <td>
-        <b>1548</b>
+        <b>1550</b>
       </td>
       <td>
         <b>15</b>
@@ -538,6 +538,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>27</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/pt/app/id6738923299">Spin Hero</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -685,6 +702,22 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spin Hero]]></title>
+        <id>Spin Hero-pt-1778281289996</id>
+        <link href="https://apps.apple.com/pt/app/spin-hero/id6738923299?uo=4"/>
+        <updated>2026-05-08T23:01:29.996Z</updated>
+        <summary type="html"><![CDATA[Price: 4,99 € → 3,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/spin-hero/id6738923299?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c5/67/bd/c567bd7b-3228-f82f-447a-8171c721a71b/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>4,99 €</span> → <b>
+  <strong>3,99 €</strong>
+</b><span>[2,99 € ~ 4,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>3,99 €</b>
+</p><h2>Application Description</h2><p>Spin Hero is a roguelike deckbuilder, where you spin the reels to decide your fate. Collect powerful symbols for your inventory, adapt and evolve your strategy, learning from defeats to unlock new possibilities and synergies.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dungeon and Puzzles]]></title>
@@ -1156,87 +1189,6 @@ Here's what you can do with MyTracks:
 - Detailed records: You can view your tracks on a map and replay the route. The app provides detailed statistics about your track and displays the saved waypoints associated with each track. You can also change the color of your tracks for easier identification.
 
 Please note that using GPS continuously in the background can drain your device's battery quickly. If you have any feedback or questions, please feel free to contact us at miaozhi.ai@gmail.com
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Control Ultimate Edition]]></title>
-        <id>Control Ultimate Edition-pt-1778022068137</id>
-        <link href="https://apps.apple.com/pt/app/control-ultimate-edition/id6502953520?uo=4"/>
-        <updated>2026-05-05T23:01:08.137Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → 4,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/control-ultimate-edition/id6502953520?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/a0/6e/1da06e14-c461-a191-9ef3-ce82fd5ec0d9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>4,99 €</strong>
-</b><span>[4,99 € ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>4,99 €</b>
-</p><h2>Application Description</h2><p>
-  A corruptive presence has invaded the Federal Bureau of Control… Only you have the power to stop it. The world is now your weapon in an epic fight to annihilate an ominous enemy through deep and unpredictable environments. Containment has failed, humanity is at stake. Will you regain control?
-
-
-Winner of over 80 awards, CONTROL is a visually stunning third-person action-adventure that will keep you on the edge of your seat. Blending open-ended environments with the signature world-building and storytelling of renowned developer, Remedy Entertainment, CONTROL presents an expansive and intensely gratifying gameplay experience.
-
-
-CONTROL Ultimate Edition has now been adapted to iOS. We have implemented touch controls and made changes to the in-game UI and game mechanics, like aiming and puzzles to provide a great experience for supported touch devices. The game renders beautifully through Metal and supports Ray Tracing on supported hardware.
-
-
-
-Key features
-
-
-UNCOVER THE MYSTERIES: Can you handle the bureau’s dark secrets? Unfold an epic supernatural struggle, filled with unexpected characters and bizarre events, as you search for your missing brother, and discover the truth that has brought you here.
-
-
-
-EVERYTHING IS YOUR WEAPON: Unleash destruction through transforming weaponry and telekinetic powers. Discover new ways to annihilate your enemies as you harness powerful abilities to turn everything around you into a lethal weapon.
-
-
-
-EXPLORE A HIDDEN WORLD: Delve deep into the ominous expanses of a secretive government agency. Explore the Bureau’s shifting environments only to discover that there is always more than meets the eye…
-
-
-
-FIGHT FOR CONTROL: Battle a relentless enemy through exciting missions and challenging boss fights to earn powerful upgrades that maximize abilities and customize your weaponry.
-
-
-CONTROL Ultimate Edition on iOS supports the following MetalFX features:
-
-MetalFX TAAU - Temporal Anti-Aliasing and upscaling
-MetalFX Frame Interpolation
-
-Ray-Tracing is supported on devices with M3+ or A19 Pro with 10Gb of memory.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This Yours?]]></title>
-        <id>Is This Yours?-pt-1778010275043</id>
-        <link href="https://apps.apple.com/pt/app/is-this-yours/id6744267787?uo=4"/>
-        <updated>2026-05-05T19:44:35.043Z</updated>
-        <summary type="html"><![CDATA[Price: 1,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/is-this-yours/id6744267787?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/eb/f8/15ebf8aa-f52e-7f2c-6662-3e7b6057d236/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>1,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 1,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h2>Application Description</h2><p>
-  Welcome to the most chaotic job: running the Lost & Found counter! Sort through dozens of ridiculous lost items to match customers with their missing things. all this while the boss is watching you. From earbuds, burritos, passports  and a suspiciously emotional teddy bear, every request is a test of speed, memory and sharp eyes.
-
-What to expect?
-- Fast-paced item matching (the faster an item is returned, the more reputation awarded)
-- Hilarious characters and absurd requests
-- Fast-growing challenge as more lost items pile up
-- Increasingly impatient customers
-- Survival mode type of gameplay: 3 hearts available 
-- ZEN mode for a relaxing, pressure-free experience
-- A paid game: no ads, no tracking, no distractions, no data collected 
-- Haptic Feedback | Game Center | Leaderboards & Achievements
-
-I made Is This Yours? as a solo developer: from the artwork to the animations to the code. It’s a little absurd, a little chaotic, and built with a lot of love. I hope it brings you a few smiles and some satisfying moments along the way. Enjoy running the world’s weirdest lost & found counter. Hurry! Customers are losing their minds and their stuff.
 </p>]]></content>
     </entry>
 </feed>
