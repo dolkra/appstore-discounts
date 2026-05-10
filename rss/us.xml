@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-05-10T10:29:32.270Z</updated>
+    <updated>2026-05-10T16:26:27.959Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-10T10:29:32.271Z</updated>
+        <updated>2026-05-10T16:26:27.959Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusSun, 10 May 2026 10:29:32 GMT</id>
+        <id>rankingusSun, 10 May 2026 16:26:27 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-10T10:29:32.271Z</updated>
+        <updated>2026-05-10T16:26:27.959Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -141,14 +141,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id389083586">MDict</a>
+        <a href="https://apps.apple.com/us/app/id401818935">Genius Scan Enterprise - PDF</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>1</b>
+            <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Genius Scan Ultra</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -158,20 +164,14 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/us/app/id401818935">Genius Scan Enterprise - PDF</a>
+        <a href="https://apps.apple.com/us/app/id389083586">MDict</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>1</b>
           </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Genius Scan Ultra</i>：<b>1</b>
-              </li>
-            </ol>
+            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -1321,6 +1321,109 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Genius Scan Enterprise - PDF]]></title>
+        <id>Genius Scan Enterprise - PDF-us-1778425217397</id>
+        <link href="https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=4"/>
+        <updated>2026-05-10T15:00:17.397Z</updated>
+        <summary type="html"><![CDATA[Genius Scan Ultra: $49.99 → $4.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/genius-scan-enterprise-pdf/id401818935?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/fb/e0/40fbe05d-4e08-05fd-33bf-65478c8543ce/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Genius Scan Ultra：</strong><span>$49.99</span> → <b>
+  <strong>$4.99</strong>
+</b><span>[$4.99 ~ $49.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$49.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Genius Scan Ultra：<b>$4.99</b>
+  </li><li>
+    Super Large Tip：<b>$9.99</b>
+  </li><li>
+    Generous Tip：<b>$2.99</b>
+  </li><li>
+    Small Tip：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Genius Scan is a document scanner app in your pocket. Quickly scan your paper documents on the go and export them as multi-page PDF files.
+
+*** Apple App of the Week *** 20+ million users *** 1000s of small businesses ***
+
+Place any document in front of your device’s camera: our scanner app automatically recognizes the paper against the background, crops it, and cleans up the result. You obtain a crisp, legible scan. Batch scanning lets you scan dozens of pages in a matter of seconds. Powerful tools help you organize, share, or archive your documents.
+
+“Next time you plan to hit the road, don’t forget to download Genius Scan to make life easier for yourself and your accounting department.” - AppPicker.com
+
+“Camera apps aren’t designed for close-up text scanning, but Genius Scan is.” - The Guardian
+
+== ENTERPRISE EDITION ==
+
+Genius Scan Plus Premium Plan:
+
+- All the premium features of the Genius Scan Plus Premium Plan (denoted with + below), out of the box (no upgrade needed).
+
+Managed Configuration:
+
+- Deployment to fleets of devices managed by a MDM tool
+- Pre-configuration of app settings on a per-user basis (eg. set default email address, WebDAV/FTP credentials)
+- Control of which apps and services users can export documents to
+- No ads
+
+== KEY FEATURES == 
+
+Smart Scanning:
+
+- Document detection & background removal
+- Distortion correction
+- Shadow removal and defect cleanup
+- Filters (black & white, whiteboard, photo)
+- Batch scanning
+
+PDF Creation & Editing:
+
+- Document merging & splitting
+- Multiple page PDF creation
+- Photos and PDF import
+
+Security & Privacy:
+
+- On-device document processing
++ Face ID locking
++ PDF password encryption
+
+Document Organization:
+
+- Document tagging
+- Metadata and content search
++ Smart document renaming (custom templates, …)
++ Backup and multi-device sync with Genius Cloud (separate subscription)
+
+Export:
+
+- Email
++ Box, Dropbox, Evernote, Expensify, Google Drive, iCloud Drive, OneDrive, OneNote, FTP, SugarSync, WebDAV.
++ Any WebDAV compatible service such as Citrix ShareFile, NextCloud, ownCloud, Synology, Yandex. 
++ Automatic background auto-export
+
+OCR (Text Recognition):
+
++ Text extraction
++ Searchable PDF creation
++ Business card scanning & contact creation
+
+== ABOUT US ==
+
+It’s in the heart of Paris, France that The Grizzly Labs develops Genius Scan. We take pride in crafting apps that help millions of users throughout the world and hold ourselves to the highest standards in terms of quality and privacy. Get in touch with us @thegrizzlylabs if you have any questions.
+
+== PRICING & LEGAL ==
+
+You can subscribe to Genius Cloud for backup & synchronization. In that case, Genius Scan’s store displays the duration and price of each subscription, updated at the time of purchase. Payment will be charged to iTunes account when the order is confirmed. Subscriptions automatically renew unless auto-renew is turned off no later than 24 hours before the end of the current period. Manage subscriptions, disable auto-renewal in the iTunes account settings.
+
+https://www.thegrizzlylabs.com/genius-scan/cloud/terms
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fishow - Cast Anywhere Anytime]]></title>
