@@ -4129,6 +4129,23 @@
     "history": [
       [
         {
+          "timestamp": 1778517355922,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1778503410106,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -41307,6 +41324,21 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1778517355922,
+          "price": 7.79,
+          "formattedPrice": "7,79 €",
+          "inAppPurchases": {
+            "Pacote de DLC": "0,00 €",
+            "Texturas em alta definição": "0,00 €",
+            "Edição Preta": "0,00 €",
+            "Estradas e Pistas": "0,00 €",
+            "Estilo Coupé": "0,00 €",
+            "Melhores Britânicos": "0,00 €",
+            "Lendas do Turismo": "0,00 €",
+            "Pacote de Arrancada": "0,00 €"
+          }
+        },
         {
           "timestamp": 1778503410106,
           "price": 7.79,
@@ -98180,10 +98212,18 @@
       "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778517355922,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777299185454,
@@ -99544,8 +99584,8 @@
       "D2 Rallye des Ardennes 2026": "3,89 €"
     },
     "minPriceInfo": {
-      "price": 3.95,
-      "formattedPrice": "3,95 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "WRC Vodafone Rally de Portugal 2026": "3,89 €",
       "WRC Central European Rally": "4,69 €",
       "ERC Royal Rally of Scandinavia 2026": "3,90 €",
@@ -99558,6 +99598,25 @@
       "D2 Rallye des Ardennes 2026": "3,89 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778517355922,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "WRC Vodafone Rally de Portugal 2026": "3,89 €",
+            "WRC Central European Rally": "4,69 €",
+            "ERC Royal Rally of Scandinavia 2026": "3,90 €",
+            "Pihtla RT Saaremaa Sprintralli 2026": "2,69 €",
+            "D1 Rallye de Wallonie 2026": "3,89 €",
+            "WRC Rally Islas Canarias 2026": "3,89 €",
+            "D1 TAC Rally 2026": "3,89 €",
+            "ERC Rally Sierra Morena 2026": "3,89 €",
+            "WRC Crotia Rally 2026": "3,99 €",
+            "D2 Rallye des Ardennes 2026": "3,89 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778239461940,
