@@ -26164,10 +26164,18 @@
       "formattedPrice": "44,99 €"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "22,00 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778557964088,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778063068498,
@@ -32690,6 +32698,24 @@
       "Challenge Pass \"Retro Fantasia\"": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778557964088,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Challenge Pass": "2,99 €",
+            "Challenge Pass \"Retro Fantasia\"": "2,99 €",
+            "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+            "Expansion Ch. Z": "3,99 €",
+            "Challenge Pass \"Speedcore Overload\"": "2,99 €",
+            "satella Selection Pass": "2,99 €",
+            "Lanota 9th Anniversary Pass": "3,99 €",
+            "ULTRA BONK Hour Challenge Pass": "2,99 €",
+            "Radiant Star Trail Pass": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778354029130,
@@ -82757,6 +82783,25 @@
     "history": [
       [
         {
+          "timestamp": 1778557964088,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Boeing 737": "0,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778493260087,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -93688,6 +93733,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1778557964088,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 1": "5,99 €",
+            "Raider Mk. 2": "6,99 €",
+            "Raider Mk. 3": "9,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        },
         {
           "timestamp": 1778540486276,
           "price": 0,
