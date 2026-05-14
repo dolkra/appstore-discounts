@@ -98328,13 +98328,31 @@
     "name": "スイカゲーム ぷらねっと",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Night Chill": "1,79 €",
+      "Waterside": "1,79 €",
+      "Solar System": "1,79 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Night Chill": "1,79 €",
+      "Waterside": "1,79 €",
+      "Solar System": "1,79 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778731207068,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Night Chill": "1,79 €",
+            "Waterside": "1,79 €",
+            "Solar System": "1,79 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773312625962,
