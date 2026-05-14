@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-05-14T11:41:06.305Z</updated>
+    <updated>2026-05-14T19:28:15.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-14T11:41:06.305Z</updated>
+        <updated>2026-05-14T19:28:15.450Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrThu, 14 May 2026 11:41:06 GMT</id>
+        <id>rankingtrThu, 14 May 2026 19:28:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-14T11:41:06.305Z</updated>
+        <updated>2026-05-14T19:28:15.450Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -95,6 +95,31 @@ feedId:157008924688563200+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tr/app/id807752194">Cello Tuner Professional</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Tuning Fork</i>：<b>1</b>
+              </li><li>
+                <i>Settings</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tr/app/id6480058345">Kaiju Attack 2</a>
       </td>
       <td>
@@ -109,7 +134,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6755290585">Raiders Map</a>
@@ -134,7 +159,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6451352949">Fishow - Cast Anywhere Anytime</a>
@@ -151,7 +176,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6759861082">CD’ci: Oyun Al-Sat</a>
@@ -168,7 +193,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id389083586">MDict</a>
@@ -185,27 +210,10 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id495937600">The Tiny Bang Story</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id807752194">Cello Tuner Professional</a>
+        <a href="https://apps.apple.com/tr/app/id495937600">The Tiny Bang Story</a>
       </td>
       <td>
         <ul>
@@ -1440,6 +1448,75 @@ feedId:157008924688563200+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Cello Tuner Professional]]></title>
+        <id>Cello Tuner Professional-tr-1778781581227</id>
+        <link href="https://apps.apple.com/tr/app/cello-tuner-professional/id807752194?uo=4"/>
+        <updated>2026-05-14T17:59:41.227Z</updated>
+        <summary type="html"><![CDATA[Tuning Fork: ₺149,99 → ₺0,00<br/>Settings: ₺149,99 → ₺0,00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/cello-tuner-professional/id807752194?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/1d/c9/3a1dc92f-3468-bcaa-0fe4-106ce89f1d4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Tuning Fork：</strong><span>₺149,99</span> → <b>
+  <strong>₺0,00</strong>
+</b><span>[₺0,00 ~ ₺199,99]</span>
+  </li><li>
+    <strong>Settings：</strong><span>₺149,99</span> → <b>
+  <strong>₺0,00</strong>
+</b><span>[₺0,00 ~ ₺199,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺399,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Tuning Fork：<b>₺0,00</b>
+  </li><li>
+    Settings：<b>₺0,00</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Tune your cello instantly with precision and ease!
+Optimal for beginners, intermediate and advanced musicians!
+
+· The most accurate - displays the exact sound frequency in Hz.
+· Calibration for A: 392Hz, 415Hz, 432Hz, 440Hz, 441Hz, 442Hz, 443Hz, 444Hz, 466Hz. 
+· Instant load and fastest tuning! - Optimized for latest devices.
+· Highest responsiveness and sensitivity.
+· Intuitive user interface with LED tuning indicator.
+· Visual indicators - tuned string lights up.
+· Universal app - works with iPhone, iPad and iPod touch.
+· Advanced settings (A4 calibration, Mic sensitivity, Sound notifications) and Tuning fork! (as in-app purchases)
+
+What our users say:
+
+"Does what it promises - Very useful app." 
+
+"This app makes tuning so easy!" 
+
+"By far the greatest and most accurate cello tuning app. Play the string, read its chart and you know whether you're in tune."
+
+"Amazing! Outstanding, well spent money!
+
+"All cellists should have this app!"
+
+"It's very useful for me! Thank  you!"
+
+"Excellent app"
+
+"Very convenient software. Suitable for any skill!"
+
+--- 
+
+Please make sure to allow microphone access to this app when prompted. 
+Check it under Settings>Privacy>Microphone. Thank you.
+
+--- 
+
+Got ideas? Questions? 
+
+Please send us your feedback through our site or to feedback@daikyoujulabs.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/29/3b/9f/293b9fe8-3cbf-e312-673e-4af935fd61a5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/6f/2b/ed/6f2bedfd-9953-3a67-28a5-075ff1f6472f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/3b/03/20/3b0320e2-8165-4095-3c35-dad25dacad5b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/05/a0/b5/05a0b55c-6a5c-6d55-59f6-cc44d3cf517b/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/c2/26/0e/c2260eec-c64d-d62b-d4f3-d6757f789f16/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/4e/cf/28/4ecf2845-2a23-16f1-1336-e0ff12950bf7/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0f/66/0c/0f660c43-d785-e31a-a439-2ff4eb63da9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/17/90/81/179081b4-fd92-ed74-d940-ee6b7e1e5f29/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/69/1f/c4/691fc45c-a4f3-0872-ffe6-8754c590734a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/93/07/a8/9307a84b-538c-2814-7def-13801fbcbd93/c9a02feb-59b9-4254-aec3-b85dbe96411a_iPhone_8_Plus-9About.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/02/dc/33/02dc3381-a9a7-5532-5e40-913abb1370f6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/37/ae/29/37ae29ea-0018-d59d-1a5f-3c1951612a67/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/01/db/08/01db080e-3fdd-3d1c-f619-eb7b4d940a5f/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ab/7e/b7/ab7eb7cc-6e75-7dfc-2744-c2850cdae74d/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/62/6b/5c/626b5c7c-b7e2-ff3e-5225-855fc008dc63/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/5c/f3/21/5cf3217b-fd01-5a33-43bc-6a0b7dc9db4d/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a6/e9/de/a6e9dedf-d8ad-3f08-0076-58e44542706c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/2f/d0/b2/2fd0b2cd-b546-972b-9b72-4ec3f61568c4/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/26/f6/24/26f62402-2eb3-432a-0b0c-d418d70077b0/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/30/8c/15/308c15e5-0184-7940-0994-27db6e0ce087/616ead6b-5765-4eb6-a80a-fa2a337d48c6_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-9About.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fishow - Cast Anywhere Anytime]]></title>
         <id>Fishow - Cast Anywhere Anytime-tr-1778754411837</id>
         <link href="https://apps.apple.com/tr/app/fishow-cast-anywhere-anytime/id6451352949?uo=4"/>
@@ -1820,95 +1897,6 @@ Take control — with Remote, Mouse & Keyboard.
 </b><span>[₺2,99 ~ ₺29,99]</span>）
 </h2><h2>All Price Information</h2><p>
   Price：<b>₺2,99</b>
-</p><h2>Application Description</h2><p>
-  Küçük bir oyun dükkânıyla başlayın ve onu başarılı bir işletmeye dönüştürün. Gün boyunca dükkânınıza farklı müşteriler gelir. Bazıları eski oyunlarını satmak isterken, bazıları ise koleksiyonlarına ekleyecek özel parçalar arar. Amacınız akıllı anlaşmalar yapmak, doğru fiyata alım yapmak ve kâr ederek satmaktır.
-
-Her oyun farklıdır. Bazılarını bulmak kolaydır, bazıları ise çok daha nadir ve değerlidir. Kutunun ve diskin durumu da büyük önem taşır, bu yüzden her ürünü dikkatlice incelemek işin önemli bir parçasıdır. Bir anlaşma yapmadan önce detaylara bakmalı, müşterinin teklifini değerlendirmeli ve karşı teklif vermeye değip değmeyeceğine karar vermelisiniz. Bazen tek bir iyi pazarlık bile büyük fark yaratabilir.
-
-Daha fazla para kazandıkça dükkânınız büyümeye başlar. İşinizi geliştirebilir, daha iyi ticaretler yapabilir ve zamanla daha güçlü bir koleksiyon oluşturabilirsiniz. Oyun; ikinci el oyun ticaretini, basit pazarlık mekaniklerini, detaylı ürün durumlarını ve sıcak bir retro pixel art tarzını bir araya getirerek keyifli bir dükkân yönetimi deneyimi sunar.
-
-Dükkânınızı büyütün, daha iyi anlaşmalar yapın, harika oyunlar toplayın ve gerçek bir CD’ci olun.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RallyPin]]></title>
-        <id>RallyPin-tr-1778517355922</id>
-        <link href="https://apps.apple.com/tr/app/rallypin/id6476567182?uo=4"/>
-        <updated>2026-05-11T16:35:55.922Z</updated>
-        <summary type="html"><![CDATA[Price: ₺199,99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/rallypin/id6476567182?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/25/aa/1825aa41-3fbb-f0dc-62ff-43812b63433a/launcher_icon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺199,99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ ₺199,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    ERC Royal Rally of Scandinavia 2026：<b>₺149,99</b>
-  </li><li>
-    Pihtla RT Saaremaa Sprintralli 2026：<b>₺99,99</b>
-  </li><li>
-    WRC Vodafone Rally de Portugal 2026：<b>₺149,99</b>
-  </li><li>
-    D1 Rallye de Wallonie 2026：<b>₺149,99</b>
-  </li><li>
-    WRC Rally Islas Canarias 2026：<b>₺149,99</b>
-  </li><li>
-    D1 TAC Rally 2026：<b>₺149,99</b>
-  </li><li>
-    ERC Rally Sierra Morena 2026：<b>₺149,99</b>
-  </li><li>
-    WRC Crotia Rally 2026：<b>₺199,99</b>
-  </li><li>
-    D2 Rallye des Ardennes 2026：<b>₺149,99</b>
-  </li><li>
-    WRC Safari Rally Kenya 2026：<b>₺199,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  RallyPin – Your Ultimate Rally Companion!
-Get closer to the action with RallyPin, the must-have app for rally fans!
-
-Top features:
-- interactive rally maps
-- spectator areas with pictures
-- built-in one-click navigation
-- unique navigation algorithm - never through the stages
-- timetables and entrants
-- live results
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/b8/97/6cb89713-1f5e-0836-5546-29f006847474/b301f149-d331-4fa0-8b3a-535bcfffabab_ipad_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/10/f2/d710f2fb-f6fa-6ec4-704b-66a843c4e115/f169d433-b273-457c-a14e-f50d85135e26_ipad_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/4f/b5/674fb58d-2bf1-d117-71e3-571676e38741/eecdd85f-8abf-439c-b192-039771fe3374_ipad_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/50/53/895053cf-e60e-85eb-b6db-e86cf4c30180/edf29584-17eb-483d-b96a-015d109fae32_ipad_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/3a/13/6c3a132b-c503-4f34-5cba-76956e656b3b/d3b5c897-58b2-4acb-9f96-72a452c72dea_ipad_5.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/aa/8f/74aa8f6d-50f1-0392-02be-6ea88966fbd6/8996e987-80e0-4b12-b015-886017e50007_ipad_6.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/53/b0/9953b0a2-5a76-2bb7-73dc-b67113efa378/12a6c9ff-69e4-4829-9eb7-d500f73ddfaf_ipad_7.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/8f/9e/6c8f9eef-3dd9-40ab-0f56-3186449f7697/406c0be6-befe-4d16-ba06-f97996c6eb6b_ipad_8.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listenify]]></title>
-        <id>Listenify-tr-1778517355922</id>
-        <link href="https://apps.apple.com/tr/app/listenify/id6475892753?uo=4"/>
-        <updated>2026-05-11T16:35:55.922Z</updated>
-        <summary type="html"><![CDATA[Price: ₺199,99 → ₺99,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/listenify/id6475892753?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/13/03/2c13032d-1852-4326-f32d-8cf656184421/AppIcon_iOS-0-0-1x_U007epad-0-0-0-1-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺199,99</span> → <b>
-  <strong>₺99,99</strong>
-</b><span>[₺99,99 ~ ₺299,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺99,99</b>
-</p><h2>Application Description</h2><p>NAS music player，Support protocol: webdav, navidrome, subsonic, aliyundrive, emby</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1a/2a/3a/1a2a3a44-4bdd-d5a8-9613-848245657181/cf7906da-d995-4d20-919f-689cb7c2781f_listenify_ipad_2.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CD’ci: Oyun Al-Sat]]></title>
-        <id>CD’ci: Oyun Al-Sat-tr-1778503410106</id>
-        <link href="https://apps.apple.com/tr/app/cdci-oyun-al-sat/id6759861082?uo=4"/>
-        <updated>2026-05-11T12:43:30.106Z</updated>
-        <summary type="html"><![CDATA[Price: ₺19,99 → ₺9,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/cdci-oyun-al-sat/id6759861082?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/3e/96/b63e96d9-a24d-8ac8-d2b7-856cf466f3b4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺19,99</span> → <b>
-  <strong>₺9,99</strong>
-</b><span>[₺5,99 ~ ₺29,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺9,99</b>
 </p><h2>Application Description</h2><p>
   Küçük bir oyun dükkânıyla başlayın ve onu başarılı bir işletmeye dönüştürün. Gün boyunca dükkânınıza farklı müşteriler gelir. Bazıları eski oyunlarını satmak isterken, bazıları ise koleksiyonlarına ekleyecek özel parçalar arar. Amacınız akıllı anlaşmalar yapmak, doğru fiyata alım yapmak ve kâr ederek satmaktır.
 

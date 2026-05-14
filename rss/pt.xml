@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-05-14T11:41:06.313Z</updated>
+    <updated>2026-05-14T19:28:15.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-14T11:41:06.313Z</updated>
+        <updated>2026-05-14T19:28:15.464Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptThu, 14 May 2026 11:41:06 GMT</id>
+        <id>rankingptThu, 14 May 2026 19:28:15 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-14T11:41:06.313Z</updated>
+        <updated>2026-05-14T19:28:15.464Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -118,14 +118,22 @@ feedId:206907475259680768+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6480058345">Kaiju Attack 2</a>
+        <a href="https://apps.apple.com/pt/app/id807752194">Afinador de Violoncelo Pro</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>Compras integradas</span><ol>
+              <li>
+                <i>Diapasão</i>：<b>1</b>
+              </li><li>
+                <i>Configurações</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -135,7 +143,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id6451352949">Fishow - Cast Anywhere Anytime</a>
+        <a href="https://apps.apple.com/pt/app/id6480058345">Kaiju Attack 2</a>
       </td>
       <td>
         <ul>
@@ -152,14 +160,14 @@ feedId:206907475259680768+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id389083586">MDict</a>
+        <a href="https://apps.apple.com/pt/app/id6451352949">Fishow - Cast Anywhere Anytime</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>1</b>
+            <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>1</b>
+            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -169,7 +177,7 @@ feedId:206907475259680768+userId:73658201673997312
         <b>5</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/pt/app/id495937600">The Tiny Bang Story</a>
+        <a href="https://apps.apple.com/pt/app/id389083586">MDict</a>
       </td>
       <td>
         <ul>
@@ -186,6 +194,23 @@ feedId:206907475259680768+userId:73658201673997312
         <b>6</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/pt/app/id495937600">The Tiny Bang Story</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/pt/app/id525818839">Plague Inc.</a>
       </td>
       <td>
@@ -200,23 +225,6 @@ feedId:206907475259680768+userId:73658201673997312
                 <i>Pacote pragas</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/pt/app/id807752194">Afinador de Violoncelo Pro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
           </li>
         </ul>
       </td>
@@ -903,6 +911,51 @@ feedId:206907475259680768+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Afinador de Violoncelo Pro]]></title>
+        <id>Afinador de Violoncelo Pro-pt-1778781581227</id>
+        <link href="https://apps.apple.com/pt/app/afinador-de-violoncelo-pro/id807752194?uo=4"/>
+        <updated>2026-05-14T17:59:41.227Z</updated>
+        <summary type="html"><![CDATA[Diapasão: 2,99 € → 0,00 €<br/>Configurações: 2,99 € → 0,00 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/afinador-de-violoncelo-pro/id807752194?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/1d/c9/3a1dc92f-3468-bcaa-0fe4-106ce89f1d4d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>Compras integradas</h3><ul>
+  <li>
+    <strong>Diapasão：</strong><span>2,99 €</span> → <b>
+  <strong>0,00 €</strong>
+</b><span>[0,00 € ~ 3,99 €]</span>
+  </li><li>
+    <strong>Configurações：</strong><span>2,99 €</span> → <b>
+  <strong>0,00 €</strong>
+</b><span>[0,00 € ~ 3,99 €]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>8,99 €</b>
+</p><h3>Compras integradas</h3><ul>
+  <li>
+    Diapasão：<b>0,00 €</b>
+  </li><li>
+    Configurações：<b>0,00 €</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Afine o seu violoncelo instantaneamente com facilidade e precisão! 
+
+· Incrivelmente preciso: Apresenta a frequência exata em Hertz.
+· Calibração de A: 392Hz, 415Hz, 432Hz, 440Hz, 441Hz, 442Hz, 443Hz, 444Hz, 466Hz.
+· Carrega instantaneamente - O único afinador otimizado para 64 bits.
+· Maior capacidade de resposta e sensibilidade.
+· Indicador visual - a corda afinada acende. 
+· Interface de usuário intuitiva com LED indicador de afinação.
+· Aplicação universal.
+
+--- 
+
+Comentários? Dúvidas? 
+
+Por favor, envie seus comentários através do nosso site ou: 
+feedback@daikyoujulabs.com
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/0b/b1/2d/0bb12d1b-b62b-89cf-e8d3-db2106a49b63/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/54/28/f7/5428f7a1-68e3-eb76-68b6-5b83b32a1014/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/72/3a/a3/723aa316-4a43-59b2-2cbc-6f6c899d02b0/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a9/31/71/a9317138-5b1a-b4c0-0215-676f2cc91203/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/60/50/78/605078d9-fe1c-4f33-1378-748f63c4dfa5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/07/bc/d5/07bcd550-0ab4-c838-5ca5-c40279cf339e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/84/f7/6e/84f76e4c-e1d4-bd81-978e-bd747eca1b3d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/56/e8/f7/56e8f713-0ec5-88bb-f4ee-5c2e95b6b6a0/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/70/17/e6/7017e65f-17cb-b421-0d01-cbe3d930fe9a/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/05/1c/7f/051c7f9c-3cb0-b320-41d4-3f117d723ea1/ce301c6a-d8ac-4f9e-8cda-7117a1d9a862_iPhone_8_Plus-9About.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/80/ed/ff/80edffd4-5657-c2b1-4b15-619e6e756b98/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/e2/88/d4/e288d40f-308b-4121-3006-cd2c6341f312/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/21/18/84/21188427-71c4-14a6-2d24-ac5188dab6d6/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/7a/d5/66/7ad5669e-4e42-d5a9-c00c-c708c169a98c/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/81/a8/07/81a807f8-9e9f-e1cf-d53a-facc6c623072/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/44/89/20/44892013-2647-c93c-702a-0d4c71cf197e/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/c2/60/1bc260b6-2557-6672-ec8b-854884569a64/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/b7/b1/2b/b7b12b33-6bb2-f340-65d9-337b00012829/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/34/50/32/3450328d-3af2-2c9e-a1ae-630f2f35e6d8/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/a0/80/b4/a080b465-f998-8f1d-9ca0-6d5cbb594c7c/2ad20634-0fdc-4909-aee1-62c02e2a5d43_iPad_Pro__U002812.9-inch_U0029__U00282nd_generation_U0029-9About.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fishow - Cast Anywhere Anytime]]></title>
         <id>Fishow - Cast Anywhere Anytime-pt-1778754411837</id>
         <link href="https://apps.apple.com/pt/app/fishow-cast-anywhere-anytime/id6451352949?uo=4"/>
@@ -1267,70 +1320,5 @@ Not affiliated with embark. Raiders Map is independently owned and managed.
 
 apple standard EULA https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RallyPin]]></title>
-        <id>RallyPin-pt-1778517355922</id>
-        <link href="https://apps.apple.com/pt/app/rallypin/id6476567182?uo=4"/>
-        <updated>2026-05-11T16:35:55.922Z</updated>
-        <summary type="html"><![CDATA[Price: 3,95 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/rallypin/id6476567182?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/25/aa/1825aa41-3fbb-f0dc-62ff-43812b63433a/launcher_icon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>3,95 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 3,95 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    WRC Vodafone Rally de Portugal 2026：<b>3,89 €</b>
-  </li><li>
-    WRC Central European Rally：<b>4,69 €</b>
-  </li><li>
-    ERC Royal Rally of Scandinavia 2026：<b>3,90 €</b>
-  </li><li>
-    Pihtla RT Saaremaa Sprintralli 2026：<b>2,69 €</b>
-  </li><li>
-    D1 Rallye de Wallonie 2026：<b>3,89 €</b>
-  </li><li>
-    WRC Rally Islas Canarias 2026：<b>3,89 €</b>
-  </li><li>
-    D1 TAC Rally 2026：<b>3,89 €</b>
-  </li><li>
-    ERC Rally Sierra Morena 2026：<b>3,89 €</b>
-  </li><li>
-    WRC Crotia Rally 2026：<b>3,99 €</b>
-  </li><li>
-    D2 Rallye des Ardennes 2026：<b>3,89 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  RallyPin – Your Ultimate Rally Companion!
-Get closer to the action with RallyPin, the must-have app for rally fans!
-
-Top features:
-- interactive rally maps
-- spectator areas with pictures
-- built-in one-click navigation
-- unique navigation algorithm - never through the stages
-- timetables and entrants
-- live results
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/b8/97/6cb89713-1f5e-0836-5546-29f006847474/b301f149-d331-4fa0-8b3a-535bcfffabab_ipad_1.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d7/10/f2/d710f2fb-f6fa-6ec4-704b-66a843c4e115/f169d433-b273-457c-a14e-f50d85135e26_ipad_2.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/4f/b5/674fb58d-2bf1-d117-71e3-571676e38741/eecdd85f-8abf-439c-b192-039771fe3374_ipad_3.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/89/50/53/895053cf-e60e-85eb-b6db-e86cf4c30180/edf29584-17eb-483d-b96a-015d109fae32_ipad_4.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/3a/13/6c3a132b-c503-4f34-5cba-76956e656b3b/d3b5c897-58b2-4acb-9f96-72a452c72dea_ipad_5.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/aa/8f/74aa8f6d-50f1-0392-02be-6ea88966fbd6/8996e987-80e0-4b12-b015-886017e50007_ipad_6.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/53/b0/9953b0a2-5a76-2bb7-73dc-b67113efa378/12a6c9ff-69e4-4829-9eb7-d500f73ddfaf_ipad_7.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/8f/9e/6c8f9eef-3dd9-40ab-0f56-3186449f7697/406c0be6-befe-4d16-ba06-f97996c6eb6b_ipad_8.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listenify]]></title>
-        <id>Listenify-pt-1778517355922</id>
-        <link href="https://apps.apple.com/pt/app/listenify/id6475892753?uo=4"/>
-        <updated>2026-05-11T16:35:55.922Z</updated>
-        <summary type="html"><![CDATA[Price: 3,99 € → 1,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/pt/app/listenify/id6475892753?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/13/03/2c13032d-1852-4326-f32d-8cf656184421/AppIcon_iOS-0-0-1x_U007epad-0-0-0-1-0-85-220.jpeg/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>3,99 €</span> → <b>
-  <strong>1,99 €</strong>
-</b><span>[1,99 € ~ 6,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>1,99 €</b>
-</p><h2>Application Description</h2><p>NAS music player，Support protocol: webdav, navidrome, subsonic, aliyundrive, emby</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/bb/38/ffbb385f-53c4-c8aa-cb0e-0fb97c52d743/28247fd3-5bd8-4bf2-a795-0789ac6c5ce8_listenify_ipad_2.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
