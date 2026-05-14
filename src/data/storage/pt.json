@@ -24942,6 +24942,17 @@
     "history": [
       [
         {
+          "timestamp": 1778769015399,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Diapasão": "2,99 €",
+            "Configurações": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1777762363824,
           "price": 8.99,
           "formattedPrice": "8,99 €",
@@ -33401,7 +33412,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Remove ads": "2,99 €"
+      "Remove ads": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -33409,6 +33420,16 @@
       "Remove ads": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778769015399,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Remove ads": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770281706864,
