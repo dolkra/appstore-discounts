@@ -18788,6 +18788,25 @@
     "history": [
       [
         {
+          "timestamp": 1778713909694,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "5,000 Coins": "0,99 €",
+            "25,000 Coins": "5,99 €",
+            "10,000 Coins": "1,99 €",
+            "15,000 Coins": "2,99 €",
+            "85,000 Coins": "17,99 €",
+            "55,000 Coins": "9,99 €",
+            "120.000 coins": "59,99 €",
+            "45.000 coins": "22,99 €",
+            "22.000 coins": "9,99 €",
+            "10.000 coins": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778702632163,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -63289,13 +63308,25 @@
       "Eternal Embers DLC": "4,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
       "Ragnarök for free download": "0,00 €",
       "Atlantis for free download": "0,00 €",
       "Eternal Embers DLC": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778713909694,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Ragnarök for free download": "0,00 €",
+            "Atlantis for free download": "0,00 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776207189815,
@@ -72777,6 +72808,25 @@
     "history": [
       [
         {
+          "timestamp": 1778713909694,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unit Group Rebooted Ascendii": "2,99 €",
+            "All Unit Groups": "14,99 €",
+            "All Heroes": "17,99 €",
+            "Unit Group Jaegers": "7,99 €",
+            "Hero Dragon Kosmos": "7,99 €",
+            "pack 21": "8,99 €",
+            "Special Daily Pack20": "2,99 €",
+            "Special Daily Pack19": "1,99 €",
+            "Special Daily Pack18": "3,99 €",
+            "Special Daily Pack17": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1777924164911,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -79087,10 +79137,18 @@
       "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778713909694,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1773700901853,
