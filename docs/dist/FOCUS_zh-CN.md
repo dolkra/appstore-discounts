@@ -591,7 +591,7 @@
 |1405|1452151266|自动|压力单位转换|壓力單位轉換|壓力單位轉換|壓力單位轉換|Pressure Units Converter|Pressure Units Converter|Pressure Units Converter|
 |1404|6746137187|自动|❌|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|Poppy Playtime Chapter 4|
 |1403|1406253554|自动|❌|AirTycoon 5|AirTycoon 5|AirTycoon 5|AirTycoon 5|AirTycoon 5|AirTycoon 5|
-|1402|6749045841|自动|王国保卫战5|❌|❌|❌|❌|❌|❌|
+|1402| ~~6749045841~~ |自动| ~~王国保卫战5~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1401|1612913355|自动|修仙家族模拟器|修仙家族模拟器|修仙家族模拟器|修仙家族模拟器|修仙家族模拟器|修仙家族模拟器|修仙家族模拟器|
 |1400|1603239519|自动|❌|反叛公司: 場景工房|反叛公司: 場景工房|反叛公司: 場景工房|Rebel Inc: Scenario Creator|Rebel Inc: Scenario Creator|Rebel Inc: Criador de Cenário|
 |1399|1512282997|自动|❌|子午线157: 第2章|子午线157: 第2章|子午线157: 第2章|Meridian 157: Chapter 2|Meridian 157: Chapter 2|Meridian 157: Capítulo 2|
