@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1984` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1986` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1986|6476342802|Automatic|❌|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel and Defense|Skel and Defense|Skel and Defense|
+|1985|6743349595|Automatic|❌|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|Godseeker II Dark Fantasy ARPG|
 |1984|1477993614|Automatic|场记板-专业导演板拍打板摄影道具|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|場記板-導演板標準中英文對照電影打板|Clapperboard Pro|Clapperboard Pro|场记板-专业导演板拍打板摄影道具|
 |1983|1304231334|Automatic|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS Altitude Pro-海拔仪|GPS Altitude Pro-海拔仪|GPS海拔表-实时高度测量仪专业版|
 |1982|376302649|Automatic|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|

@@ -25546,6 +25546,25 @@
     "history": [
       [
         {
+          "timestamp": 1778817905438,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "12 Mo.Fongo Ultimate": "99,99 €",
+            "3 Mo.Fongo Ultimate": "34,99 €",
+            "6 Mo.Fongo Ultimate": "59,99 €",
+            "1 Mo.Fongo Ultimate": "14,99 €",
+            "12 Mo.Remover anúncios": "19,99 €",
+            "6 Mo.Remover anúncios": "9,99 €",
+            "3 Mo.Remover anúncios": "5,99 €",
+            "1 Mo.Remover anúncios": "2,99 €",
+            "12 Mo.Fongo Plus": "99,99 €",
+            "12 Mo.texto globais": "29,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778239461940,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -71189,6 +71208,23 @@
     "history": [
       [
         {
+          "timestamp": 1778817905438,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1778799814271,
           "price": 14.49,
           "formattedPrice": "14,49 €",
@@ -83187,6 +83223,25 @@
       "Airbus A321 XLR": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1778817905438,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A350-1000": "3,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778557964088,
@@ -100363,6 +100418,61 @@
             "WRC Crotia Rally 2026": "3,99 €",
             "D2 Rallye des Ardennes 2026": "3,89 €"
           }
+        }
+      ]
+    ]
+  },
+  "6476342802": {
+    "name": "Skel and Defense",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Blessing of Experience": "1,99 €",
+      "Skin Ticket x1": "0,49 €",
+      "Skin Ticket x3": "0,99 €",
+      "Skin Ticket x8": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Blessing of Experience": "1,99 €",
+      "Skin Ticket x1": "0,49 €",
+      "Skin Ticket x3": "0,99 €",
+      "Skin Ticket x8": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1778817905438,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Blessing of Experience": "1,99 €",
+            "Skin Ticket x1": "0,49 €",
+            "Skin Ticket x3": "0,99 €",
+            "Skin Ticket x8": "2,99 €"
+          }
+        }
+      ]
+    ]
+  },
+  "6743349595": {
+    "name": "Godseeker II Dark Fantasy ARPG",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1778817905438,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
