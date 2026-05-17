@@ -34460,6 +34460,19 @@
     "history": [
       [
         {
+          "timestamp": 1779045524875,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "14,99 €",
+            "SVIP auto-renew quarterly": "3,99 €",
+            "910 Days SVIP": "22,99 €",
+            "458 Days SVIP": "9,99 €",
+            "90 Days SVIP": "2,99 €",
+            "Annual Special SVIP": "14,99 €"
+          }
+        },
+        {
           "timestamp": 1779037491139,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -89413,7 +89426,8 @@
       "The Copernicus": "1,99 €",
       "Orbiting Greatness": "1,99 €",
       "Regina Kamińska": "1,99 €",
-      "Kacper Pawlak": "1,99 €"
+      "Kacper Pawlak": "1,99 €",
+      "Heart of Africa Expansion": "7,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -89452,10 +89466,28 @@
       "The Copernicus": "1,99 €",
       "Orbiting Greatness": "1,99 €",
       "Regina Kamińska": "1,99 €",
-      "Kacper Pawlak": "1,99 €"
+      "Kacper Pawlak": "1,99 €",
+      "Heart of Africa Expansion": "7,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1779045524875,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Heart of Africa Expansion": "7,99 €",
+            "Round the World Ticket": "29,99 €",
+            "Europe Expansion": "9,99 €",
+            "Europe Map": "8,99 €",
+            "1910 Ticket Pack": "3,99 €",
+            "Nordic Bundle": "7,99 €",
+            "Japan Expansion Bundle": "7,99 €",
+            "Nordic Map": "6,99 €",
+            "Japan Map": "6,99 €",
+            "Legendary Asia Map": "6,99 €"
+          }
+        },
         {
           "timestamp": 1779037491139,
           "price": 4.99,
