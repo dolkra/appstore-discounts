@@ -2822,6 +2822,12 @@
     "history": [
       [
         {
+          "timestamp": 1779058742417,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1779051715266,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -11148,6 +11154,23 @@
     "history": [
       [
         {
+          "timestamp": 1779058742417,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1779051715266,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -14147,6 +14170,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779058742417,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778799814271,
@@ -26547,6 +26578,27 @@
           "timestamp": 1761797674362,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "880614385": {
+    "name": "Cognitive Tap Test",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779058742417,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -49499,6 +49551,14 @@
     "history": [
       [
         {
+          "timestamp": 1779058742417,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778972096594,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -71310,6 +71370,14 @@
     "history": [
       [
         {
+          "timestamp": 1779058742417,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1777676137234,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -81589,6 +81657,14 @@
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779058742417,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778754411837,

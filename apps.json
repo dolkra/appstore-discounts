@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 880614385,
+      "name": {
+        "mo": "Cognitive Tap Test"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 458535809,
       "name": {
         "mo": "Calculator ∞ - 科學計算器"
@@ -450,7 +457,8 @@
       "name": {
         "mo": "Sun Seeker - Tracker & Compass"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 6761488276,
