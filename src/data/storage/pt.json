@@ -75550,14 +75550,22 @@
   "1642139491": {
     "name": "Tokyo Train!",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779099537214,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777952105621,
@@ -89053,6 +89061,18 @@
     "history": [
       [
         {
+          "timestamp": 1779099537214,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "劇情模式": "2,99 €",
+            "自由模式": "2,99 €",
+            "故事模式+自由模式合集": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778627307327,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -97253,6 +97273,14 @@
     "history": [
       [
         {
+          "timestamp": 1779099537214,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778951180305,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -101392,6 +101420,27 @@
             "10 Tokens Coach IA": "5,99 €",
             "Pro Mensal": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6767835460": {
+    "name": "Pompacı Simülatör",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779099537214,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
