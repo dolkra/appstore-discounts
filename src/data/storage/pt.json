@@ -12213,6 +12213,23 @@
     "history": [
       [
         {
+          "timestamp": 1779139150723,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "0,99 €",
+            "Unlock All Vehicles": "9,99 €",
+            "Autobahn paint job for all vehicles": "0,99 €",
+            "The Met paint job for all vehicles": "0,99 €",
+            "Donut Finder": "2,99 €",
+            "Unlock All": "17,99 €",
+            "Pack of 10 Super Cops": "2,99 €",
+            "Pack of 50 Super Cops": "14,99 €",
+            "East Side paint job for all vehicles": "0,99 €",
+            "Hot Chrome paint job for all vehicles": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1779127532173,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -61962,7 +61979,7 @@
     ]
   },
   "1513814705": {
-    "name": "Calculator Keyboard - Faster",
+    "name": "CalculatorKB",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
