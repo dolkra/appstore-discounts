@@ -25232,8 +25232,8 @@
     "maxPriceInfo": {
       "price": 14.99,
       "formattedPrice": "14,99 €",
-      "Diapasão": "3,99 €",
-      "Configurações": "3,99 €"
+      "Diapasão": "5,99 €",
+      "Configurações": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -25242,6 +25242,17 @@
       "Configurações": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779119342990,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {
+            "Diapasão": "5,99 €",
+            "Configurações": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778846401397,

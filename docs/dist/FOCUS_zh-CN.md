@@ -918,7 +918,7 @@
 |1086|6499549945|自动|❌|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|
 |1085|675049147|自动|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|
 |1084|1121659254|自动|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|
-|1083|6612009107|自动|❌|PID控制器模擬|PID控制器模擬|PID控制器模擬|PID Controller Simulation|PID Controller Simulation|Simulação de controlador PID|
+|1083|6612009107|自动|PID控制器仿真|PID控制器模擬|PID控制器模擬|PID控制器模擬|PID Controller Simulation|PID Controller Simulation|Simulação de controlador PID|
 |1082|308296029|自动|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|
 |1081|1435140819|自动|❌|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|
 |1080|828392046|自动|❌|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|

@@ -918,7 +918,7 @@ So far, we've covered `7` `Countries or Regions` and  `1994` `Apps` <br />Push n
 |1086|6499549945|Automatic|❌|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|
 |1085|675049147|Automatic|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|
 |1084|1121659254|Automatic|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|
-|1083|6612009107|Automatic|❌|PID控制器模擬|PID控制器模擬|PID控制器模擬|PID Controller Simulation|PID Controller Simulation|Simulação de controlador PID|
+|1083|6612009107|Automatic|PID控制器仿真|PID控制器模擬|PID控制器模擬|PID控制器模擬|PID Controller Simulation|PID Controller Simulation|Simulação de controlador PID|
 |1082|308296029|Automatic|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|
 |1081|1435140819|Automatic|❌|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|
 |1080|828392046|Automatic|❌|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|
