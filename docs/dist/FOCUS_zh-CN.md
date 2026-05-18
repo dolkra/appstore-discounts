@@ -411,7 +411,7 @@
 |1593|375819093|自动|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|
 |1592|1320681231|自动|❌|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|
 |1591|1146395075|自动|❌|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|
-|1590|327742738|自动|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|❌|
+|1590| ~~327742738~~ |自动| ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~❌~~ |
 |1589|1665291391|自动|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|
 |1588|307025309|自动|❌|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|
 |1587|378120971|自动|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|

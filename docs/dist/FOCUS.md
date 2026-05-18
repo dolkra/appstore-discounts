@@ -411,7 +411,7 @@ So far, we've covered `7` `Countries or Regions` and  `1994` `Apps` <br />Push n
 |1593|375819093|Automatic|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|
 |1592|1320681231|Automatic|❌|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|
 |1591|1146395075|Automatic|❌|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|
-|1590|327742738|Automatic|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|❌|
+|1590| ~~327742738~~ |Automatic| ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~❌~~ |
 |1589|1665291391|Automatic|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|
 |1588|307025309|Automatic|❌|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|
 |1587|378120971|Automatic|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|
