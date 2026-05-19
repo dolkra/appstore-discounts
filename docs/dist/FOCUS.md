@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1997` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `1998` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|1998|982717032|Automatic|生意记账DailySales - 进销存管理系统多仓库盘点|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|
 |1997|6745770352|Automatic|Not Dizzy 不晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|Not Dizzy 不晕车|
 |1996|6756866511|Automatic|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|
 |1995|6748056918|Automatic|❌|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|
@@ -1869,7 +1870,7 @@ So far, we've covered `7` `Countries or Regions` and  `1997` `Apps` <br />Push n
 |138|1157863540|Manual|泰拉瑞亚|❌|❌|❌|❌|❌|❌|
 |137|1630541373|Manual|隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|
 |136|1512838461|Manual|DayCircle - 倒数|DayCircle - 倒數|DayCircle - 倒數|DayCircle - 倒數|DayCircle - Day counter|DayCircle - Day counter|DayCircle - Day counter|
-|135|1400032769|Manual|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|
+|135|1400032769|Manual|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|
 |134| ~~460661291~~ |Manual| ~~安全笔记+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~❌~~ |
 |133| ~~505904421~~ |Manual| ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~❌~~ |
 |132| ~~1527841661~~ |Manual| ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~Sandbox Planet~~ | ~~Sandbox Planet~~ | ~~❌~~ |

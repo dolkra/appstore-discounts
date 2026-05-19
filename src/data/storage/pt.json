@@ -25282,6 +25282,17 @@
     "history": [
       [
         {
+          "timestamp": 1779209546714,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {
+            "Diapasão": "1,99 €",
+            "Configurações": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779119342990,
           "price": 14.99,
           "formattedPrice": "14,99 €",
@@ -31116,6 +31127,27 @@
       ]
     ]
   },
+  "982717032": {
+    "name": "Daily Sales Tracker-Inventory",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779209546714,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "983143183": {
     "name": "Neo Monsters",
     "maxPriceInfo": {
@@ -35554,6 +35586,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1779209546714,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Assinatura (1 ano)": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €",
+            "Parallels Desktop for Mac #5": "89,99 €"
+          }
+        },
         {
           "timestamp": 1779194971174,
           "price": 0,
@@ -51678,7 +51723,7 @@
     ]
   },
   "1400032769": {
-    "name": "Card.Note - 多彩卡片笔记",
+    "name": "Card.Note -文艺版PhotoColors和闪念胶囊",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
