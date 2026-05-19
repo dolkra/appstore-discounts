@@ -14561,6 +14561,23 @@
     "history": [
       [
         {
+          "timestamp": 1779226868075,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Pacote pragas": "14,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €",
+            "Desbloquear Trapaças": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1779220780927,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -25301,6 +25318,15 @@
     "history": [
       [
         {
+          "timestamp": 1779226868075,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Diapasão": "1,99 €",
+            "Configurações": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1779209546714,
           "price": 14.99,
           "formattedPrice": "14,99 €",
@@ -34645,7 +34671,9 @@
       "100 Days SVIP": "2,99 €",
       "Quarterly SVIP": "2,99 €",
       "910 Days SVIP": "22,99 €",
-      "458 Days SVIP": "9,99 €"
+      "458 Days SVIP": "9,99 €",
+      "1125 Days SVIP": "29,99 €",
+      "575 Days SVIP": "14,99 €"
     },
     "minPriceInfo": {
       "price": 17.99,
@@ -34659,9 +34687,28 @@
       "100 Days SVIP": "2,99 €",
       "Quarterly SVIP": "2,99 €",
       "910 Days SVIP": "22,99 €",
-      "458 Days SVIP": "9,99 €"
+      "458 Days SVIP": "9,99 €",
+      "1125 Days SVIP": "29,99 €",
+      "575 Days SVIP": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779226868075,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "14,99 €",
+            "1125 Days SVIP": "29,99 €",
+            "575 Days SVIP": "14,99 €",
+            "SVIP auto-renew quarterly": "3,99 €",
+            "910 Days SVIP": "22,99 €",
+            "458 Days SVIP": "9,99 €",
+            "90 Days SVIP": "2,99 €",
+            "Annual Special SVIP": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779045524875,
