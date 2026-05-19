@@ -35555,6 +35555,20 @@
     "history": [
       [
         {
+          "timestamp": 1779194971174,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "89,99 €",
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778318742673,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -62174,10 +62188,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779194971174,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -74242,6 +74264,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779194971174,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775602128743,
@@ -101671,6 +101701,27 @@
             "200'000 Coins": "1,19 €",
             "500'000 Coins": "2,49 €"
           }
+        }
+      ]
+    ]
+  },
+  "6745770352": {
+    "name": "Not Dizzy 不晕车",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779194971174,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
