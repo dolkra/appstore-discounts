@@ -14561,6 +14561,25 @@
     "history": [
       [
         {
+          "timestamp": 1779220780927,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Alien Chemistry": "0,99 €",
+            "Atmospheric Interference": "0,99 €",
+            "Void Signal": "0,99 €",
+            "Brittle Lattice": "0,99 €",
+            "Quantum Obfuscation": "0,99 €",
+            "Synaptic Pulse": "0,99 €",
+            "Lattice Shedding": "0,99 €",
+            "Crystal Overclock": "0,99 €",
+            "Magnetic Siphon": "0,99 €",
+            "Harmonic Vibrations": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779077892812,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -62230,14 +62249,27 @@
     "name": "Horas Planetárias",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "Planetary Hours Pro Yearly": "9,99 €",
+      "Planetary Hours Pro Monthly": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Planetary Hours Pro Yearly": "9,99 €",
+      "Planetary Hours Pro Monthly": "1,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1779220780927,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Planetary Hours Pro Yearly": "9,99 €",
+            "Planetary Hours Pro Monthly": "1,99 €"
+          }
+        },
         {
           "timestamp": 1779194971174,
           "price": 0,
