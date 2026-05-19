@@ -78573,7 +78573,7 @@
       "total chapter": "14,49 €",
       "road to empress II -- purchased": "8,69 €",
       "road to empress II": "10,49 €",
-      "road to empress II -- cost": "9,39 €",
+      "road to empress II -- cost": "9,59 €",
       "road to empress I": "6,89 €",
       "64800 eggs -- empress": "99,99 €",
       "12800 eggs -- empress": "22,99 €",
@@ -78592,17 +78592,36 @@
       "6,800 Flowers": "9,99 €",
       "12,800 Flowers": "22,99 €",
       "32,800 Flowers": "59,99 €",
-      "total chapter": "14,49 €",
+      "total chapter": "13,90 €",
       "road to empress II -- purchased": "8,69 €",
       "road to empress II": "10,49 €",
       "road to empress II -- cost": "9,39 €",
-      "road to empress I": "6,89 €",
+      "road to empress I": "5,89 €",
       "64800 eggs -- empress": "99,99 €",
       "12800 eggs -- empress": "22,99 €",
       "32800 eggs -- empress": "59,99 €",
       "6800 eggs -- empress": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779184723397,
+          "price": 0.9,
+          "formattedPrice": "0,90 €",
+          "inAppPurchases": {
+            "Jade Seal - Golden Era": "4,95 €",
+            "total chapter": "13,90 €",
+            "road to empress II -- purchased": "8,69 €",
+            "road to empress II": "10,49 €",
+            "road to empress II -- cost": "9,59 €",
+            "road to empress I": "5,89 €",
+            "64800 eggs -- empress": "99,99 €",
+            "12800 eggs -- empress": "22,99 €",
+            "32800 eggs -- empress": "59,99 €",
+            "6800 eggs -- empress": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778886150060,
@@ -101600,6 +101619,58 @@
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756866511": {
+    "name": "IIWII",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779184723397,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748056918": {
+    "name": "Farming Simulator 26 Mobile",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
+      "1'000'000 Coins": "3,49 €",
+      "200'000 Coins": "1,19 €",
+      "500'000 Coins": "2,49 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €",
+      "1'000'000 Coins": "3,49 €",
+      "200'000 Coins": "1,19 €",
+      "500'000 Coins": "2,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779184723397,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "1'000'000 Coins": "3,49 €",
+            "200'000 Coins": "1,19 €",
+            "500'000 Coins": "2,49 €"
+          }
         }
       ]
     ]
