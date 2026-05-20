@@ -3234,6 +3234,23 @@
     "history": [
       [
         {
+          "timestamp": 1779250427826,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Portland HipstaPak": "0,99 €",
+            "Williamsburg Starter HipstaPak": "0,99 €",
+            "Camden HipstaPak": "0,99 €",
+            "Shibuya HipstaPak": "0,99 €",
+            "Mission Hipstapak": "0,99 €",
+            "Soho HipstaPak": "0,99 €",
+            "Bondi HipstaPak": "0,99 €",
+            "RetroPak One": "1,99 €",
+            "Foodie SnapPak": "0,99 €",
+            "Wicker Park HipstaPak": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1779232299595,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -25344,6 +25361,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1779250427826,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Diapasão": "1,99 €",
+            "Configurações": "1,99 €"
+          }
+        },
         {
           "timestamp": 1779232299595,
           "price": 14.99,
@@ -51844,7 +51870,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Card.Note Premiun": "1,99 €"
+      "Card.Note Premiun": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -51852,6 +51878,16 @@
       "Card.Note Premiun": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779250427826,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Card.Note Premiun": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775913285464,
@@ -57036,6 +57072,25 @@
       "Lava Dice": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779250427826,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Kaiju": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778395157501,
@@ -94261,6 +94316,25 @@
       "Weapon Upgrade Ticket x3 (B)": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779250427826,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Jogo base": "69,99 €",
+            "Pacote de DLC Extra": "19,99 €",
+            "Weapon Upgrade Ticket x5 (A)": "9,99 €",
+            "Weapon Upgrade Ticket x3 (A)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (D)": "6,99 €",
+            "Weapon Upgrade Ticket x3 (C)": "6,99 €",
+            "Weapon Upgrade Ticket x1 (F)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (E)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (A)": "2,99 €",
+            "Weapon Upgrade Ticket x1 (C)": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778432571560,

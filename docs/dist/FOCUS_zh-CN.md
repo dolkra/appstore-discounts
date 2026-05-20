@@ -351,7 +351,7 @@
 |1657|401818935|自动|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|
 |1656|6468917523|自动|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Calculadora Infusão IV|
 |1655|565847915|自动|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|
-|1654|807752194|自动|大提琴调音器专业版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|Cello Tuner Professional|Cello Tuner Professional|Afinador de Violoncelo Pro|
+|1654| ~~807752194~~ |自动| ~~大提琴调音器专业版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~Cello Tuner Professional~~ | ~~Cello Tuner Professional~~ | ~~Afinador de Violoncelo Pro~~ |
 |1653|1065311870|自动|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|
 |1652|6755779631|自动|小花分期-借款小额贷款秒批宜享现金借钱好分期借款金融贷款软件|❌|❌|❌|❌|❌|❌|
 |1651| ~~6754364266~~ |自动| ~~臻心贷-小额贷款秒批现金借款金融贷款短期借钱花好分期借款软件~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
