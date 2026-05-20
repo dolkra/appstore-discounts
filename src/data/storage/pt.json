@@ -9396,10 +9396,18 @@
       "formattedPrice": "19,99 €"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "19,99 €"
+      "price": 14.99,
+      "formattedPrice": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779296234034,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777815491574,
@@ -43421,6 +43429,25 @@
       "$200,000,000 chips": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779296234034,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {
+            "$10,000 chips": "0,99 €",
+            "$33,000 chips": "2,99 €",
+            "$120,000 chips": "9,99 €",
+            "$250,000 chips": "22,99 €",
+            "$650,000 chips": "59,99 €",
+            "$1,500,000 chips": "99,99 €",
+            "$1,000,000 chips": "0,99 €",
+            "$5,000,000 chips": "2,99 €",
+            "$50,000,000 chips": "9,99 €",
+            "$200,000,000 chips": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768329644677,
