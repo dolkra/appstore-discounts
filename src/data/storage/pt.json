@@ -107,6 +107,27 @@
       ]
     ]
   },
+  "294236771": {
+    "name": "Dicionário de imagens ICOON",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779381692434,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "294379237": {
     "name": "PokerCruncher - Advanced Odds",
     "maxPriceInfo": {
@@ -33531,7 +33552,8 @@
       "Glorious Chorus Challenge Pass": "2,99 €",
       "Expansion Ch. Z": "3,99 €",
       "Challenge Pass \"Phantasm Feast\"": "2,99 €",
-      "Challenge Pass \"Retro Fantasia\"": "2,99 €"
+      "Challenge Pass \"Retro Fantasia\"": "2,99 €",
+      "Challenge Pass \"Camellia Selection\"": "3,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -33548,9 +33570,28 @@
       "Glorious Chorus Challenge Pass": "2,99 €",
       "Expansion Ch. Z": "1,99 €",
       "Challenge Pass \"Phantasm Feast\"": "2,99 €",
-      "Challenge Pass \"Retro Fantasia\"": "2,99 €"
+      "Challenge Pass \"Retro Fantasia\"": "2,99 €",
+      "Challenge Pass \"Camellia Selection\"": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779381692434,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Basic Plan - Monthly": "0,99 €",
+            "Challenge Pass \"Camellia Selection\"": "3,99 €",
+            "Challenge Pass": "2,99 €",
+            "Challenge Pass \"Retro Fantasia\"": "2,99 €",
+            "Challenge Pass \"Phantasm Feast\"": "2,99 €",
+            "Expansion Ch. Z": "3,99 €",
+            "Challenge Pass \"Speedcore Overload\"": "2,99 €",
+            "satella Selection Pass": "2,99 €",
+            "Lanota 9th Anniversary Pass": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778568094867,
@@ -60018,6 +60059,14 @@
     "history": [
       [
         {
+          "timestamp": 1779381692434,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778799814271,
           "price": 8.99,
           "formattedPrice": "8,99 €",
@@ -63629,6 +63678,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1779381692434,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Pacote de Escamas": "7,99 €",
+            "Clã do Dragão": "2,99 €",
+            "Clã do Lince": "2,99 €",
+            "Clã do Cavalo": "2,99 €",
+            "Clã da Águia": "2,99 €",
+            "Pacote de Peles": "7,99 €",
+            "Clã do Kraken": "2,99 €",
+            "Clã do Boi": "2,99 €",
+            "Clã do Rato": "2,95 €",
+            "Clã da Cobra": "2,99 €"
+          }
+        },
         {
           "timestamp": 1779367775031,
           "price": 8.99,
@@ -90439,7 +90505,9 @@
       "Orbiting Greatness": "1,99 €",
       "Regina Kamińska": "1,99 €",
       "Kacper Pawlak": "1,99 €",
-      "Heart of Africa Expansion": "7,99 €"
+      "Heart of Africa Expansion": "7,99 €",
+      "Nordic Expansion": "7,99 €",
+      "Japan Expansion": "7,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -90479,9 +90547,30 @@
       "Orbiting Greatness": "1,99 €",
       "Regina Kamińska": "1,99 €",
       "Kacper Pawlak": "1,99 €",
-      "Heart of Africa Expansion": "7,99 €"
+      "Heart of Africa Expansion": "7,99 €",
+      "Nordic Expansion": "7,99 €",
+      "Japan Expansion": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779381692434,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Round the World Ticket": "29,99 €",
+            "Heart of Africa Expansion": "7,99 €",
+            "Europe Expansion": "9,99 €",
+            "Europe Map": "8,99 €",
+            "1910 Ticket Pack": "3,99 €",
+            "Nordic Expansion": "7,99 €",
+            "Japan Expansion": "7,99 €",
+            "Nordic Map": "6,99 €",
+            "Japan Map": "6,99 €",
+            "Legendary Asia Map": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779045524875,
