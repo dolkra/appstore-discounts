@@ -1872,7 +1872,7 @@
 |138|1157863540|手动|泰拉瑞亚|❌|❌|❌|❌|❌|❌|
 |137|1630541373|手动|隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|
 |136|1512838461|手动|DayCircle - 倒数|DayCircle - 倒數|DayCircle - 倒數|DayCircle - 倒數|DayCircle - Day counter|DayCircle - Day counter|DayCircle - Day counter|
-|135|1400032769|手动|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和闪念胶囊|
+|135|1400032769|手动|Card.Note -文艺版PhotoColors和闪念胶囊|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|
 |134| ~~460661291~~ |手动| ~~安全笔记+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~❌~~ |
 |133| ~~505904421~~ |手动| ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~❌~~ |
 |132| ~~1527841661~~ |手动| ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~Sandbox Planet~~ | ~~Sandbox Planet~~ | ~~❌~~ |
