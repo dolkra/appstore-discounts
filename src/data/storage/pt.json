@@ -6996,7 +6996,9 @@
       "Double Ranga": "1,99 €",
       "Monkey Tycoon": "0,99 €",
       "Frag Bombs": "0,99 €",
-      "Digital Amplification": "0,99 €"
+      "Digital Amplification": "0,99 €",
+      "Dreadnought": "0,99 €",
+      "Crystal Ball": "0,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -7010,9 +7012,30 @@
       "Double Ranga": "1,99 €",
       "Monkey Tycoon": "0,99 €",
       "Frag Bombs": "0,99 €",
-      "Digital Amplification": "0,99 €"
+      "Digital Amplification": "0,99 €",
+      "Dreadnought": "0,99 €",
+      "Crystal Ball": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779563413672,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Rank Up +2 Ranks": "0,99 €",
+            "Double Cash": "2,99 €",
+            "Healthy Bananas": "1,99 €",
+            "Explosive Darts": "1,99 €",
+            "Double Ranga": "1,99 €",
+            "Monkey Tycoon": "0,99 €",
+            "Frag Bombs": "0,99 €",
+            "Digital Amplification": "0,99 €",
+            "Dreadnought": "0,99 €",
+            "Crystal Ball": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776261306798,
@@ -14632,6 +14655,25 @@
       "Harmonic Vibrations": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779563413672,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Pacote de Vírus Necroa": "1,99 €",
+            "Desbloquear 7 Pragas Padrão": "2,99 €",
+            "Desbloquear de Verme Neurax": "1,99 €",
+            "Desbloquear Todos os Genes": "8,99 €",
+            "Desbloquear Vírus": "0,99 €",
+            "Pacote pragas": "14,99 €",
+            "Pacote Cenário": "2,99 €",
+            "Pacote de expansão Gripe símia": "1,99 €",
+            "Pacote de Praga das Sombras": "1,99 €",
+            "Expansão Cura": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779226868075,
@@ -31095,6 +31137,27 @@
           "timestamp": 1761797674362,
           "price": 6.99,
           "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "975482646": {
+    "name": "GENKI Conjugation Cards",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779563413672,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -63837,6 +63900,23 @@
     "history": [
       [
         {
+          "timestamp": 1779563413672,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "Pacote de Escamas": "7,99 €",
+            "Clã do Dragão": "2,99 €",
+            "Clã do Lince": "2,99 €",
+            "Clã do Cavalo": "2,99 €",
+            "Clã da Águia": "2,99 €",
+            "Pacote de Peles": "7,99 €",
+            "Clã do Kraken": "2,99 €",
+            "Clã do Boi": "2,99 €",
+            "Clã do Rato": "2,95 €",
+            "Clã da Cobra": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1779552124797,
           "price": 8.99,
           "formattedPrice": "8,99 €",
@@ -77839,10 +77919,22 @@
       "Monthly Recurring Tip": "1,99 €",
       "Mega Tip": "22,99 €",
       "Tip": "5,99 €",
-      "Filtr": "29,99 €"
+      "Filtr": "5,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1779563413672,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Filtr": "5,99 €",
+            "Yearly Recurring Tip": "9,99 €",
+            "Monthly Recurring Tip": "1,99 €",
+            "Mega Tip": "22,99 €",
+            "Tip": "5,99 €"
+          }
+        },
         {
           "timestamp": 1779525017362,
           "price": 5.99,
