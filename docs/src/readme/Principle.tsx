@@ -22,7 +22,7 @@ export default function Principle() {
       {t(
         '本项目基于{0}定时任务（每{1}分钟）自动执行以下流程：',
         ' `GitHub Actions` ',
-        ' `120` ',
+        ' `180` ',
       )}
       <List
         items={[
