@@ -2,6 +2,34 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1434964023,
+      "name": {
+        "mo": "Arcade Watch Games"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 1483947937,
+      "name": {
+        "mo": "Hidden Through Time"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6757171842,
+      "name": {
+        "mo": "Green Pond Town"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6756825085,
+      "name": {
+        "mo": "Stao: Standing Desk Reminder"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 294236771,
       "name": {
         "pt": "Dicionário de imagens ICOON"
@@ -8753,7 +8781,8 @@
       "name": {
         "hk": "Evoland 2"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 1437715202,

@@ -1,12 +1,16 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2002` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2006` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2006|1434964023|自动|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
+|2005|1483947937|自动|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
+|2004|6757171842|自动|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|
+|2003|6756825085|自动|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao - Timer Mesa Elevável|
 |2002|294236771|自动|ICOON 全球图解词典|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|Dicionário de imagens ICOON|
 |2001|6761413198|自动|❌|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|
 |2000|1558620021|自动|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|
@@ -1247,7 +1251,7 @@
 |765|1171627280|自动|❌|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-无尽的地下城: 暗黑世界|魔窟-无尽的地下城: 暗黑世界|魔窟-无尽的地下城: 暗黑世界|
 |764|1179421849|自动|❌|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|
 |763|1260311003|自动|五线谱照片扫描仪 - 乐谱图像识别|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - Sheet Music|Notation Scanner - Sheet Music|Notation Scanner - Music OCR|
-|762|1291427111|自动|❌|Evoland 2|Evoland 2|Evoland 2|Evoland 2|Evoland 2|Evoland 2|
+|762| ~~1291427111~~ |自动| ~~❌~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ |
 |761|1437715202|自动|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|❌|
 |760|1519571900|自动|Luwian|Luwian|Luwian|Luwian|Luwian|Luwian|Luwian|
 |759|1544947623|自动|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|
@@ -1750,7 +1754,7 @@
 |262|6743487416|自动|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|Gold Miner - Watch Games|
 |261|6478843819|自动|❌|家園、異星與獵人|家園、異星與獵人|家園、異星與獵人|Home, Planet & Hunters|Home, Planet & Hunters|Lar, Planeta e Caçadores|
 |260|6502453075|自动|❌|Balatro|Balatro|Balatro|Balatro|Balatro|Balatro|
-|259|6670749900|自动|❌|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|
+|259|6670749900|自动|❌|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|
 |258|6711347049|自动|❌|大俠立志傳|大俠立志傳|大俠立志傳|Hero's Adventure|Hero's Adventure|Hero's Adventure|
 |257|6547834967|自动|❌|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|Animal Crossing: Pocket Camp C|❌|Animal Crossing: Pocket Camp C|
 |256|6452276410|自动|❌|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|

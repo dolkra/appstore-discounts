@@ -38019,6 +38019,25 @@
     "history": [
       [
         {
+          "timestamp": 1779525017362,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "XP de Torre": "1,19 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Fast Track Pack": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778990715380,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -41964,13 +41983,31 @@
     "name": "Artemis Director's Viewfinder",
     "maxPriceInfo": {
       "price": 34.99,
-      "formattedPrice": "34,99 €"
+      "formattedPrice": "34,99 €",
+      "Monthly": "2,99 €",
+      "Annual": "19,99 €",
+      "Core License": "34,99 €"
     },
     "minPriceInfo": {
-      "price": 34.99,
-      "formattedPrice": "34,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "Monthly": "2,99 €",
+      "Annual": "19,99 €",
+      "Core License": "34,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779525017362,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Monthly": "2,99 €",
+            "Annual": "19,99 €",
+            "Core License": "34,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773897908459,
@@ -52944,6 +52981,27 @@
       ]
     ]
   },
+  "1434964023": {
+    "name": "Jogos de Relógio Arcade",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779525017362,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1435140819": {
     "name": "Very Little Nightmares",
     "maxPriceInfo": {
@@ -57304,6 +57362,25 @@
     "history": [
       [
         {
+          "timestamp": 1779525017362,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779337335727,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -60377,6 +60454,43 @@
           "price": 5.99,
           "formattedPrice": "5,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1483947937": {
+    "name": "Hidden Through Time",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Legends of Japan": "1,99 €",
+      "Road to Rome": "1,99 €",
+      "Viking Tales": "1,99 €",
+      "Pirate Treasures": "1,99 €",
+      "Aztec Rituals": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "Legends of Japan": "1,99 €",
+      "Road to Rome": "1,99 €",
+      "Viking Tales": "1,99 €",
+      "Pirate Treasures": "1,99 €",
+      "Aztec Rituals": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779525017362,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Legends of Japan": "1,99 €",
+            "Road to Rome": "1,99 €",
+            "Viking Tales": "1,99 €",
+            "Pirate Treasures": "1,99 €",
+            "Aztec Rituals": "1,99 €"
+          }
         }
       ]
     ]
@@ -72628,6 +72742,25 @@
     "history": [
       [
         {
+          "timestamp": 1779525017362,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779423437113,
           "price": 14.49,
           "formattedPrice": "14,49 €",
@@ -76105,6 +76238,14 @@
     "history": [
       [
         {
+          "timestamp": 1779525017362,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778886150060,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -77633,7 +77774,8 @@
       "Yearly Recurring Tip": "9,99 €",
       "Monthly Recurring Tip": "1,99 €",
       "Mega Tip": "22,99 €",
-      "Tip": "5,99 €"
+      "Tip": "5,99 €",
+      "Filtr": "29,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -77641,9 +77783,24 @@
       "Yearly Recurring Tip": "9,99 €",
       "Monthly Recurring Tip": "1,99 €",
       "Mega Tip": "22,99 €",
-      "Tip": "5,99 €"
+      "Tip": "5,99 €",
+      "Filtr": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779525017362,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Filtr": "29,99 €",
+            "Yearly Recurring Tip": "9,99 €",
+            "Monthly Recurring Tip": "1,99 €",
+            "Mega Tip": "22,99 €",
+            "Tip": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775428770697,
@@ -82483,6 +82640,14 @@
     "history": [
       [
         {
+          "timestamp": 1779525017362,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778281289996,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -84855,6 +85020,25 @@
       "Airbus A321 XLR": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779525017362,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "C90GTx": "0,99 €",
+            "UH-60": "0,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 737-800": "2,99 €",
+            "EC135": "0,99 €",
+            "Airbus A319": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 777F": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779367775031,
@@ -88903,7 +89087,7 @@
     ]
   },
   "6670749900": {
-    "name": "再戰江湖之傲視蒼龍",
+    "name": "再戰江湖 - 金庸群俠傳MOD復刻",
     "maxPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €",
@@ -100912,6 +101096,14 @@
     "history": [
       [
         {
+          "timestamp": 1779525017362,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778517355922,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -102264,6 +102456,24 @@
     "history": [
       [
         {
+          "timestamp": 1779525017362,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "黄金会员月度": "1,99 €",
+            "黄金会员月": "1,99 €",
+            "普通会员买断": "24,99 €",
+            "黄金会员买断": "44,99 €",
+            "黄金年会员": "34,99 €",
+            "黄金月会员": "3,99 €",
+            "基础月会员": "0,99 €",
+            "黄金会员": "3,99 €",
+            "普通": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779423437113,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -102657,6 +102867,48 @@
             "Enldless Mode": "2,99 €",
             "Nightmare Mode": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6757171842": {
+    "name": "Green Pond Town",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779525017362,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756825085": {
+    "name": "Stao - Timer Mesa Elevável",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779525017362,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

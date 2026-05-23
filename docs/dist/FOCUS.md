@@ -1,12 +1,16 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2002` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2006` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2006|1434964023|Automatic|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
+|2005|1483947937|Automatic|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
+|2004|6757171842|Automatic|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|
+|2003|6756825085|Automatic|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao - Timer Mesa Elevável|
 |2002|294236771|Automatic|ICOON 全球图解词典|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|Dicionário de imagens ICOON|
 |2001|6761413198|Automatic|❌|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|
 |2000|1558620021|Automatic|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|
@@ -1247,7 +1251,7 @@ So far, we've covered `7` `Countries or Regions` and  `2002` `Apps` <br />Push n
 |765|1171627280|Automatic|❌|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-无尽的地下城: 暗黑世界|魔窟-无尽的地下城: 暗黑世界|魔窟-无尽的地下城: 暗黑世界|
 |764|1179421849|Automatic|❌|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|
 |763|1260311003|Automatic|五线谱照片扫描仪 - 乐谱图像识别|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - Sheet Music|Notation Scanner - Sheet Music|Notation Scanner - Music OCR|
-|762|1291427111|Automatic|❌|Evoland 2|Evoland 2|Evoland 2|Evoland 2|Evoland 2|Evoland 2|
+|762| ~~1291427111~~ |Automatic| ~~❌~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ |
 |761|1437715202|Automatic|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|❌|
 |760|1519571900|Automatic|Luwian|Luwian|Luwian|Luwian|Luwian|Luwian|Luwian|
 |759|1544947623|Automatic|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|
@@ -1750,7 +1754,7 @@ So far, we've covered `7` `Countries or Regions` and  `2002` `Apps` <br />Push n
 |262|6743487416|Automatic|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|Gold Miner - Watch Games|
 |261|6478843819|Automatic|❌|家園、異星與獵人|家園、異星與獵人|家園、異星與獵人|Home, Planet & Hunters|Home, Planet & Hunters|Lar, Planeta e Caçadores|
 |260|6502453075|Automatic|❌|Balatro|Balatro|Balatro|Balatro|Balatro|Balatro|
-|259|6670749900|Automatic|❌|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|
+|259|6670749900|Automatic|❌|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|
 |258|6711347049|Automatic|❌|大俠立志傳|大俠立志傳|大俠立志傳|Hero's Adventure|Hero's Adventure|Hero's Adventure|
 |257|6547834967|Automatic|❌|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|Animal Crossing: Pocket Camp C|❌|Animal Crossing: Pocket Camp C|
 |256|6452276410|Automatic|❌|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|
