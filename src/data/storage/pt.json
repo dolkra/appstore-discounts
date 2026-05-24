@@ -5671,10 +5671,18 @@
       "formattedPrice": "6,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779650230794,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -38258,6 +38266,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1779650230794,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "XP de Torre": "1,19 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Modo Dinheiro Dobrado": "21,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Liberar Excelência": "5,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "10 Pontos de Conhecimento": "8,99 €"
+          }
+        },
         {
           "timestamp": 1779638471104,
           "price": 7.99,
@@ -103447,6 +103472,27 @@
           "timestamp": 1779542683429,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6749406060": {
+    "name": "Subnautica: Below Zero",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779650230794,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
           "inAppPurchases": {}
         }
       ]
