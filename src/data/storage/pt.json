@@ -36026,6 +36026,19 @@
     "history": [
       [
         {
+          "timestamp": 1779611365811,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Assinatura (1 ano)": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac #5": "89,99 €"
+          }
+        },
+        {
           "timestamp": 1779593729991,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -57416,7 +57429,14 @@
       "Throne Prismatic Token": "3,49 €",
       "Goblet Prismatic Token": "3,49 €",
       "The Ultimate Edition Welcome Offer": "24,99 €",
-      "Lava Dice": "4,99 €"
+      "Lava Dice": "4,99 €",
+      "Lantern Prismatic Token": "3,49 €",
+      "Horse Prismatic Token": "3,49 €",
+      "Handbag Prismatic Token": "3,49 €",
+      "Cannon Prismatic Token": "3,49 €",
+      "Atlantic City Prismatic Tokens": "11,99 €",
+      "Prismatic Dice": "4,99 €",
+      "40 Prismatic Tokens and Dice": "24,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -57558,9 +57578,32 @@
       "Throne Prismatic Token": "3,49 €",
       "Goblet Prismatic Token": "3,49 €",
       "The Ultimate Edition Welcome Offer": "24,99 €",
-      "Lava Dice": "4,99 €"
+      "Lava Dice": "4,99 €",
+      "Lantern Prismatic Token": "3,49 €",
+      "Horse Prismatic Token": "3,49 €",
+      "Handbag Prismatic Token": "3,49 €",
+      "Cannon Prismatic Token": "3,49 €",
+      "Atlantic City Prismatic Tokens": "11,99 €",
+      "Prismatic Dice": "4,99 €",
+      "40 Prismatic Tokens and Dice": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779611365811,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Lantern Prismatic Token": "3,49 €",
+            "Horse Prismatic Token": "3,49 €",
+            "Handbag Prismatic Token": "3,49 €",
+            "Cannon Prismatic Token": "3,49 €",
+            "Atlantic City Prismatic Tokens": "11,99 €",
+            "Prismatic Dice": "4,99 €",
+            "40 Prismatic Tokens and Dice": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779525017362,
