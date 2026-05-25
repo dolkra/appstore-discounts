@@ -60260,15 +60260,29 @@
       "Decennial Royal Wardrobe": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €",
-      "Norse Lands": "2,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "Norse Lands": "1,99 €",
       "Call of Olympus": "3,99 €",
       "Archon's Royal Wardrobe": "2,99 €",
       "Regent's Royal Wardrobe": "2,99 €",
       "Decennial Royal Wardrobe": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779703568659,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Norse Lands": "1,99 €",
+            "Call of Olympus": "3,99 €",
+            "Regent's Royal Wardrobe": "2,99 €",
+            "Archon's Royal Wardrobe": "2,99 €",
+            "Decennial Royal Wardrobe": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765910485546,
@@ -74737,10 +74751,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779703568659,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -89393,13 +89415,31 @@
     "name": "Henshin Hero - Game for watch",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "Yearly VIP": "2,99 €",
+      "Monthly VIP": "0,99 €",
+      "Lifetime": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "Yearly VIP": "2,99 €",
+      "Monthly VIP": "0,99 €",
+      "Lifetime": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779703568659,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Yearly VIP": "2,99 €",
+            "Monthly VIP": "0,99 €",
+            "Lifetime": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
