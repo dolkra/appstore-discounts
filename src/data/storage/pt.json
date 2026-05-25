@@ -96346,9 +96346,9 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Groic Pro Half-Yearly": "6,99 €",
+      "Groic Pro Half-Yearly": "9,99 €",
       "Groic Pro Monthly": "1,99 €",
-      "Groic Pro Yearly": "9,99 €",
+      "Groic Pro Yearly": "17,99 €",
       "Starter Pack (50 Vibes)": "2,99 €",
       "Legend Pack (500 Vibes)": "5,99 €"
     },
@@ -96362,6 +96362,20 @@
       "Legend Pack (500 Vibes)": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779680961714,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Starter Pack (50 Vibes)": "2,99 €",
+            "Legend Pack (500 Vibes)": "5,99 €",
+            "Groic Pro Half-Yearly": "9,99 €",
+            "Groic Pro Monthly": "1,99 €",
+            "Groic Pro Yearly": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1777916805729,
