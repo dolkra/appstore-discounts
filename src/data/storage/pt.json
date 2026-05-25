@@ -26055,6 +26055,34 @@
       ]
     ]
   },
+  "836603095": {
+    "name": "Scanner RF detector Campo EMF",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Premium Pack": "5,99 €",
+      "Special Offer": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Premium Pack": "5,99 €",
+      "Special Offer": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779720817988,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Premium Pack": "5,99 €",
+            "Special Offer": "5,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "837860959": {
     "name": "Mini Metro",
     "maxPriceInfo": {
@@ -97699,10 +97727,18 @@
       "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
-      "price": 8.99,
-      "formattedPrice": "8,99 €"
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779720817988,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764167326995,
@@ -99819,7 +99855,8 @@
       "Bizarre Creatures": "1,99 €",
       "Fishow Species Collection": "7,99 €",
       "Cute and Goofy": "0,99 €",
-      "Rainbow Fantasy": "0,99 €"
+      "Rainbow Fantasy": "0,99 €",
+      "Fishow Pro Species Pack": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -99837,9 +99874,29 @@
       "Bizarre Creatures": "0,99 €",
       "Fishow Species Collection": "7,99 €",
       "Cute and Goofy": "0,99 €",
-      "Rainbow Fantasy": "0,99 €"
+      "Rainbow Fantasy": "0,99 €",
+      "Fishow Pro Species Pack": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779720817988,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Fishow Pro Species Pack": "1,99 €",
+            "Fishow Species Collection": "7,99 €",
+            "Cute and Goofy": "0,99 €",
+            "Rainbow Fantasy": "0,99 €",
+            "African Oddities": "0,99 €",
+            "Polar Giants": "0,99 €",
+            "Primeval Hunters": "0,99 €",
+            "Bizarre Creatures": "0,99 €",
+            "Apex Lure Pack (× 99)": "7,99 €",
+            "Apex Lure Pack (× 9)": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779638471104,
@@ -103609,6 +103666,27 @@
           "timestamp": 1779650230794,
           "price": 4.99,
           "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6742404565": {
+    "name": "Minishoot' Adventures",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1779720817988,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
           "inAppPurchases": {}
         }
       ]
