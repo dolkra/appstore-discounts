@@ -13222,7 +13222,8 @@
       "Richman 4 Fun Treasure package": "0,99 €",
       "Richman 4 Fun Water map package": "0,99 €",
       "Richman 4 Fun  PARIS & LONDON": "0,99 €",
-      "Richman 4 Fun  Hawaii & South Pole Island": "0,99 €"
+      "Richman 4 Fun  Hawaii & South Pole Island": "0,99 €",
+      "Taisho Daynight Package": "0,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
@@ -13236,9 +13237,29 @@
       "Richman 4 Fun Treasure package": "0,99 €",
       "Richman 4 Fun Water map package": "0,99 €",
       "Richman 4 Fun  PARIS & LONDON": "0,99 €",
-      "Richman 4 Fun  Hawaii & South Pole Island": "0,99 €"
+      "Richman 4 Fun  Hawaii & South Pole Island": "0,99 €",
+      "Taisho Daynight Package": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779826154618,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Taisho Daynight Package": "0,99 €",
+            "Ruins Explorer Package": "0,99 €",
+            "Empire of Angels Package": "0,99 €",
+            "Richman 4 Fun Paid FI Package": "0,99 €",
+            "Richman4 Paid AC Package": "0,99 €",
+            "Richman4 Paid Monster Package": "0,99 €",
+            "Richman 4 Fun Undersea package": "0,99 €",
+            "Richman 4 Fun Treasure package": "0,99 €",
+            "Richman 4 Fun Water map package": "0,99 €",
+            "Richman 4 Fun  PARIS & LONDON": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -80172,7 +80193,11 @@
       "64800 eggs -- empress": "99,99 €",
       "12800 eggs -- empress": "22,99 €",
       "32800 eggs -- empress": "59,99 €",
-      "6800 eggs -- empress": "9,99 €"
+      "6800 eggs -- empress": "9,99 €",
+      "road to empress I -- cost": "6,99 €",
+      "648000 Cracked Egg": "99,99 €",
+      "128000 Cracked Egg": "22,99 €",
+      "328000 Cracked Egg": "59,99 €"
     },
     "minPriceInfo": {
       "price": 0.9,
@@ -80194,9 +80219,32 @@
       "64800 eggs -- empress": "99,99 €",
       "12800 eggs -- empress": "22,99 €",
       "32800 eggs -- empress": "59,99 €",
-      "6800 eggs -- empress": "9,99 €"
+      "6800 eggs -- empress": "9,99 €",
+      "road to empress I -- cost": "6,99 €",
+      "648000 Cracked Egg": "99,99 €",
+      "128000 Cracked Egg": "22,99 €",
+      "328000 Cracked Egg": "59,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779826154618,
+          "price": 0.9,
+          "formattedPrice": "0,90 €",
+          "inAppPurchases": {
+            "Jade Seal - Golden Era": "4,95 €",
+            "total chapter": "13,90 €",
+            "road to empress II -- purchased": "8,69 €",
+            "road to empress II": "10,49 €",
+            "road to empress II -- cost": "9,59 €",
+            "road to empress I": "5,89 €",
+            "road to empress I -- cost": "6,99 €",
+            "648000 Cracked Egg": "99,99 €",
+            "128000 Cracked Egg": "22,99 €",
+            "328000 Cracked Egg": "59,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779184723397,
@@ -89703,13 +89751,25 @@
       "Lifetime": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Yearly VIP": "2,99 €",
       "Monthly VIP": "0,99 €",
       "Lifetime": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779826154618,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Yearly VIP": "2,99 €",
+            "Monthly VIP": "0,99 €",
+            "Lifetime": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779703568659,
@@ -96675,8 +96735,8 @@
       "Legend Pack (500 Vibes)": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Groic Pro Half-Yearly": "6,99 €",
       "Groic Pro Monthly": "1,99 €",
       "Groic Pro Yearly": "9,99 €",
@@ -96684,6 +96744,20 @@
       "Legend Pack (500 Vibes)": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779826154618,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Starter Pack (50 Vibes)": "2,99 €",
+            "Legend Pack (500 Vibes)": "5,99 €",
+            "Groic Pro Half-Yearly": "9,99 €",
+            "Groic Pro Monthly": "1,99 €",
+            "Groic Pro Yearly": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779680961714,
@@ -103476,7 +103550,8 @@
       "ERC Rally Sierra Morena 2026": "3,89 €",
       "WRC Crotia Rally 2026": "3,99 €",
       "D2 Rallye des Ardennes 2026": "3,89 €",
-      "SM Imatra Ralli 2026": "3,89 €"
+      "SM Imatra Ralli 2026": "3,89 €",
+      "NORDAUTO Kose Rahvaralli 2026": "3,49 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -103491,9 +103566,29 @@
       "ERC Rally Sierra Morena 2026": "3,89 €",
       "WRC Crotia Rally 2026": "3,99 €",
       "D2 Rallye des Ardennes 2026": "3,89 €",
-      "SM Imatra Ralli 2026": "3,89 €"
+      "SM Imatra Ralli 2026": "3,89 €",
+      "NORDAUTO Kose Rahvaralli 2026": "3,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779826154618,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "WRC Vodafone Rally de Portugal 2026": "3,89 €",
+            "WRC Central European Rally": "4,69 €",
+            "NORDAUTO Kose Rahvaralli 2026": "3,49 €",
+            "SM Imatra Ralli 2026": "3,89 €",
+            "ERC Royal Rally of Scandinavia 2026": "3,90 €",
+            "Pihtla RT Saaremaa Sprintralli 2026": "2,69 €",
+            "D1 Rallye de Wallonie 2026": "3,89 €",
+            "WRC Rally Islas Canarias 2026": "3,89 €",
+            "D1 TAC Rally 2026": "3,89 €",
+            "ERC Rally Sierra Morena 2026": "3,89 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779145879993,
@@ -103651,6 +103746,17 @@
       "BikeControl Pro - Yearly": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1779826154618,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "BikeControl Pro": "2,79 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778874489166,
