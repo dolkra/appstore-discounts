@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2013` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2014` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2014|6760838876|自动|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|
 |2013|6744669583|自动|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|
 |2012|836603095|自动|电磁场探测器射频扫描仪|電磁場探測器射頻掃描儀|電磁場探測器射頻掃描儀|電磁場探測器射頻掃描儀|EMF Field Detector RF Scanner|EMF Field Detector RF Scanner|Scanner RF detector Campo EMF|
 |2011|6742404565|自动|❌|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|
@@ -1885,7 +1886,7 @@
 |138|1157863540|手动|泰拉瑞亚|❌|❌|❌|❌|❌|❌|
 |137|1630541373|手动|隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|
 |136|1512838461|手动|DayCircle - 倒数|DayCircle - 倒數|DayCircle - 倒數|DayCircle - 倒數|DayCircle - Day counter|DayCircle - Day counter|DayCircle - Day counter|
-|135|1400032769|手动|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|
+|135|1400032769|手动|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|
 |134| ~~460661291~~ |手动| ~~安全笔记+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~❌~~ |
 |133| ~~505904421~~ |手动| ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~❌~~ |
 |132| ~~1527841661~~ |手动| ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~Sandbox Planet~~ | ~~Sandbox Planet~~ | ~~❌~~ |

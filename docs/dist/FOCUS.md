@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2013` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2014` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2014|6760838876|Automatic|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|
 |2013|6744669583|Automatic|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|
 |2012|836603095|Automatic|电磁场探测器射频扫描仪|電磁場探測器射頻掃描儀|電磁場探測器射頻掃描儀|電磁場探測器射頻掃描儀|EMF Field Detector RF Scanner|EMF Field Detector RF Scanner|Scanner RF detector Campo EMF|
 |2011|6742404565|Automatic|❌|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|
@@ -1885,7 +1886,7 @@ So far, we've covered `7` `Countries or Regions` and  `2013` `Apps` <br />Push n
 |138|1157863540|Manual|泰拉瑞亚|❌|❌|❌|❌|❌|❌|
 |137|1630541373|Manual|隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|
 |136|1512838461|Manual|DayCircle - 倒数|DayCircle - 倒數|DayCircle - 倒數|DayCircle - 倒數|DayCircle - Day counter|DayCircle - Day counter|DayCircle - Day counter|
-|135|1400032769|Manual|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|Card.Note -文艺版PhotoColors和照片拼图|
+|135|1400032769|Manual|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|
 |134| ~~460661291~~ |Manual| ~~安全笔记+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~❌~~ |
 |133| ~~505904421~~ |Manual| ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~❌~~ |
 |132| ~~1527841661~~ |Manual| ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~Sandbox Planet~~ | ~~Sandbox Planet~~ | ~~❌~~ |
