@@ -365,7 +365,7 @@ So far, we've covered `7` `Countries or Regions` and  `2015` `Apps` <br />Push n
 |1660|952764370|Automatic|❌|Rolling Coins|Rolling Coins|Rolling Coins|Rolling Coins|Rolling Coins|Rolling Coins|
 |1659|6745723131|Automatic|和弦基因 - 钢琴乐理可视化|和弦基因 - 鋼琴鍵盤樂理圖形化查詢|和弦基因 - 鋼琴鍵盤樂理圖形化查詢|和弦基因 - 鋼琴鍵盤樂理圖形化查詢|GenChord - Piano Scale Chord|GenChord - Piano Scale Chord|GenChord - Escala de Piano|
 |1658|632064672|Automatic|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|
-|1657|401818935|Automatic|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|
+|1657| ~~401818935~~ |Automatic| ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ |
 |1656|6468917523|Automatic|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Calculadora Infusão IV|
 |1655|565847915|Automatic|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|
 |1654| ~~807752194~~ |Automatic| ~~大提琴调音器专业版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~Cello Tuner Professional~~ | ~~Cello Tuner Professional~~ | ~~Afinador de Violoncelo Pro~~ |
