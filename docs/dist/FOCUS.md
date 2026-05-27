@@ -7,7 +7,7 @@ So far, we've covered `7` `Countries or Regions` and  `2020` `Apps` <br />Push n
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|2020|961328776|Automatic|JPics|JPics|JPics|JPics|JPics|JPics|❌|
+|2020|961328776|Automatic|JPics|JPics|JPics|JPics|JPics|JPics|JPics|
 |2019|421929034|Automatic|Time Guru 节拍器|Time Guru 節拍器|Time Guru 節拍器|Time Guru 節拍器|Time Guru Metronome|Time Guru Metronome|Time Guru Metrônomo|
 |2018|1194938970|Automatic|Miracle行车记录仪-开车视频拍摄与导航的智能安全助手|Miracle行車記錄儀-開車視頻拍攝與導航的智能安全助手|Miracle行車記錄儀-開車視頻拍攝與導航的智能安全助手|Miracle行車記錄儀-開車視頻拍攝與導航的智能安全助手|Miracle行车记录仪-开车必备智能安全助手|Miracle行车记录仪-开车必备智能安全助手|Miracle行车记录仪-开车必备智能安全助手|
 |2017|6758201392|Automatic|❌|Slime Rancher|Slime Rancher|Slime Rancher|Slime Rancher|Slime Rancher|Slime Rancher|
@@ -1043,7 +1043,7 @@ So far, we've covered `7` `Countries or Regions` and  `2020` `Apps` <br />Push n
 |987|6478398981|Automatic|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
 |986|528181527|Automatic|行车记录仪 「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Driving Recorder|TripREC Driving Recorder|gravador de condução「TripREC」|
 |985|545625741|Automatic|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
-|984|592398757|Automatic|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Perfect Tempo|
+|984|592398757|Automatic|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|
 |983|669835030|Automatic|WinZip完整版: 压缩/解压|WinZip完整版|WinZip完整版|WinZip完整版|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|
 |982|672649451|Automatic|Panecal Plus 科学计算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|
 |981|682046579|Automatic|人体探秘 - Tinybop出品|Tinybop 人體探秘|Tinybop 人體探秘|Tinybop 人體探秘|The Human Body by Tinybop|The Human Body by Tinybop|O Corpo Humano por Tinybop|
