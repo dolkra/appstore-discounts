@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-05-27T05:05:40.296Z</updated>
+    <updated>2026-05-27T17:08:36.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-27T05:05:40.297Z</updated>
+        <updated>2026-05-27T17:08:36.362Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 27 May 2026 05:05:40 GMT</id>
+        <id>rankingtrWed, 27 May 2026 17:08:36 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-05-27T05:05:40.297Z</updated>
+        <updated>2026-05-27T17:08:36.363Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2016</b>
+        <b>2019</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1815</b>
+        <b>1818</b>
       </td>
       <td>
         <b>93</b>
@@ -68,13 +68,13 @@ feedId:157008924688563200+userId:73658201673997312
         <b>TR</b>
       </td>
       <td>
-        <b>1863</b>
+        <b>1866</b>
       </td>
       <td>
         <b>172</b>
       </td>
       <td>
-        <b>1691</b>
+        <b>1694</b>
       </td>
       <td>
         <b>77</b>
@@ -225,14 +225,20 @@ feedId:157008924688563200+userId:73658201673997312
         <b>7</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1453875289">Hyper Light Drifter</a>
+        <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 让记忆染色</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>2</b>
           </li><li>
-            <span>Price</span>：<b>2</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Card.Note Premiun</i>：<b>2</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -242,7 +248,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>8</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1500126852">Chord</a>
+        <a href="https://apps.apple.com/tr/app/id1453875289">Hyper Light Drifter</a>
       </td>
       <td>
         <ul>
@@ -259,7 +265,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>9</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1571643809">Dungeon and Puzzles</a>
+        <a href="https://apps.apple.com/tr/app/id1500126852">Chord</a>
       </td>
       <td>
         <ul>
@@ -276,7 +282,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1580067723">Wall of insanity</a>
+        <a href="https://apps.apple.com/tr/app/id1571643809">Dungeon and Puzzles</a>
       </td>
       <td>
         <ul>
@@ -293,7 +299,7 @@ feedId:157008924688563200+userId:73658201673997312
         <b>11</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id1642139491">Tokyo Train!</a>
+        <a href="https://apps.apple.com/tr/app/id1580067723">Wall of insanity</a>
       </td>
       <td>
         <ul>
@@ -308,6 +314,23 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>
         <b>12</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id1642139491">Tokyo Train!</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>13</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1662217862">Wipr 2</a>
@@ -330,7 +353,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6480058345">Kaiju Attack 2</a>
@@ -347,7 +370,24 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6767835460">Pompacı Simülatör</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>16</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id288419283">RadarScope</a>
@@ -370,7 +410,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id379869627">Living Earth - Clock & Weather</a>
@@ -387,7 +427,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id389083586">MDict</a>
@@ -404,7 +444,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id441142802">Bass Modes Symmetry School</a>
@@ -421,7 +461,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id459189186">Machinarium</a>
@@ -438,7 +478,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id495937600">The Tiny Bang Story</a>
@@ -455,7 +495,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id510249014">Level HD.</a>
@@ -472,7 +512,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id646256209">Photo Eraser for iPhone</a>
@@ -489,7 +529,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id884153085">Remote, Mouse & Keyboard Pro</a>
@@ -506,7 +546,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id911201894">DRAGON QUEST</a>
@@ -523,7 +563,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id911205290">DRAGON QUEST II</a>
@@ -540,7 +580,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id911208088">DRAGON QUEST III</a>
@@ -557,7 +597,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id931188326">DayCost Pro - Personal Finance</a>
@@ -574,7 +614,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id933113994">DRAGON QUEST V</a>
@@ -591,7 +631,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id949745100">DRAGON QUEST VI</a>
@@ -608,7 +648,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id953426154">Be Focused Pro- Pomodoro Timer</a>
@@ -625,7 +665,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id983143183">Neo Monsters</a>
@@ -642,7 +682,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1067198688">彩云天气Pro</a>
@@ -665,7 +705,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1118115766">Bloons TD 6</a>
@@ -682,7 +722,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1141282192">Advanced Comprehension Therapy</a>
@@ -699,7 +739,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1164523253">Artemis Director's Viewfinder</a>
@@ -716,7 +756,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1304822713">Infinity Tank Battle</a>
@@ -733,7 +773,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1350599517">FoodyLife: The Food Diary App</a>
@@ -750,30 +790,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id1400032769">Card.Note - 让记忆染色</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Card.Note Premiun</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1411823462">7Days : Backer</a>
@@ -790,7 +807,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1439262206">Root Board Game</a>
@@ -807,7 +824,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1464666446">MyTracks: GPS Recorder</a>
@@ -824,7 +841,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1464850921">每日英语阅读</a>
@@ -841,7 +858,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1477991646">Kingdom Two Crowns</a>
@@ -864,7 +881,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1481100296">BreatheIn: Calm Breathing</a>
@@ -881,7 +898,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1517281147">Planetary Hours</a>
@@ -898,7 +915,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1522215205">拒之-骚扰电话批量拦截助手</a>
@@ -915,7 +932,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1537060891">Titan Quest: Legendary Edition</a>
@@ -932,7 +949,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1537362903">Neighbours back From Hell</a>
@@ -949,7 +966,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1538124245">where I put it</a>
@@ -966,7 +983,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1557502285">Rush Rally Origins</a>
@@ -983,7 +1000,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1575414319">Dune: Imperium</a>
@@ -1000,7 +1017,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1576004936">Chemistry Periodic Table 2026</a>
@@ -1017,7 +1034,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1576521142">SOULVARS</a>
@@ -1034,7 +1051,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1580629864">Clank!</a>
@@ -1051,7 +1068,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1586126746">Labyrinth City</a>
@@ -1068,7 +1085,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1592505377">Wreckfest</a>
@@ -1085,7 +1102,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1601194499">DRAGON QUEST BUILDERS</a>
@@ -1102,7 +1119,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1601446687">Streets of Rage 4</a>
@@ -1119,7 +1136,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1616652599">Kingdom Eighties</a>
@@ -1136,7 +1153,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>59</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1620202676">Iron Marines Invasion RTS Game</a>
@@ -1153,7 +1170,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>60</b>
+        <b>61</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1620883955">Little Nightmares</a>
@@ -1170,7 +1187,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>61</b>
+        <b>62</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1636423328">Cat Quest II</a>
@@ -1187,7 +1204,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>62</b>
+        <b>63</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1639509098">Pasha Planet: Reborn</a>
@@ -1204,7 +1221,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>63</b>
+        <b>64</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1640636826">Code Blue CPR – ALS Timer</a>
@@ -1221,7 +1238,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>64</b>
+        <b>65</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id1644917705">Cyber Manhunt</a>
@@ -1238,7 +1255,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>65</b>
+        <b>66</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6758328352">Scritchy Scratchy</a>
@@ -1255,7 +1272,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>66</b>
+        <b>67</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6761159805">DualShot Recorder</a>
@@ -1272,7 +1289,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>67</b>
+        <b>68</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6502634839">Dungeon Tracer</a>
@@ -1289,7 +1306,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>68</b>
+        <b>69</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6474541983">Children of Morta</a>
@@ -1306,7 +1323,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>69</b>
+        <b>70</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6458144503">Skul: The Hero Slayer</a>
@@ -1323,7 +1340,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>70</b>
+        <b>71</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6477535804">Vault of the Void</a>
@@ -1340,7 +1357,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>71</b>
+        <b>72</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6744267787">Is This Yours?</a>
@@ -1357,7 +1374,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>72</b>
+        <b>73</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6502953520">Control Ultimate Edition</a>
@@ -1374,7 +1391,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>73</b>
+        <b>74</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6444660338">Legend of Keepers</a>
@@ -1391,7 +1408,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>74</b>
+        <b>75</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6748572801">Seoul Exorcist 1111: Roguelite</a>
@@ -1408,7 +1425,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>75</b>
+        <b>76</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740553198">FlowDown - Open & Fast AI</a>
@@ -1425,7 +1442,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>76</b>
+        <b>77</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6670599313">TRINITY TRIGGER</a>
@@ -1442,7 +1459,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>77</b>
+        <b>78</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6476567182">RallyPin</a>
@@ -1459,7 +1476,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6475892753">Listenify</a>
@@ -1476,7 +1493,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>79</b>
+        <b>80</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6478639011">Subnautica</a>
@@ -1493,7 +1510,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6745723131">GenChord - Piano Scale Chord</a>
@@ -1510,7 +1527,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>81</b>
+        <b>82</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6476342802">Skel and Defense</a>
@@ -1527,7 +1544,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>82</b>
+        <b>83</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6471947612">召喚騎士團</a>
@@ -1554,7 +1571,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>83</b>
+        <b>84</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6449233549">Ark Nova</a>
@@ -1571,7 +1588,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>84</b>
+        <b>85</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6741892043">Road to Empress I</a>
@@ -1596,7 +1613,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>85</b>
+        <b>86</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6504841512">Halls of Torment: Premium</a>
@@ -1613,7 +1630,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>86</b>
+        <b>87</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6497948575">Way of the Hunter Wild America</a>
@@ -1630,7 +1647,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6747325233">完蛋！我被美女包围了！2</a>
@@ -1647,7 +1664,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>88</b>
+        <b>89</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6757943661">阿福出境管家（原签证大师）</a>
@@ -1664,27 +1681,10 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>89</b>
-      </td>
-      <td>
-        <a href="https://apps.apple.com/tr/app/id6502453075">Balatro</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>90</b>
       </td>
       <td>
-        <a href="https://apps.apple.com/tr/app/id6767835460">Pompacı Simülatör</a>
+        <a href="https://apps.apple.com/tr/app/id6502453075">Balatro</a>
       </td>
       <td>
         <ul>
@@ -1736,6 +1736,23 @@ feedId:157008924688563200+userId:73658201673997312
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6740705851">Henshin Hero - Game for watch</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>94</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6738272916">NetTV: Watch Global TV</a>
       </td>
       <td>
         <ul>
@@ -2452,6 +2469,161 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pompacı Simülatör]]></title>
+        <id>Pompacı Simülatör-tr-1779896486654</id>
+        <link href="https://apps.apple.com/tr/app/pompac%C4%B1-sim%C3%BClat%C3%B6r/id6767835460?uo=4"/>
+        <updated>2026-05-27T15:41:26.654Z</updated>
+        <summary type="html"><![CDATA[Price: ₺19,99 → ₺9,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/pompac%C4%B1-sim%C3%BClat%C3%B6r/id6767835460?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/d1/2c/e8d12c3c-44be-9545-322d-ceb61fb32b2d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺19,99</span> → <b>
+  <strong>₺9,99</strong>
+</b><span>[₺9,99 ~ ₺19,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺9,99</b>
+</p><h2>Application Description</h2><p>
+  Pompacı Simülatör, kendi benzin istasyonunu yönettiğin eğlenceli ve dikkat isteyen bir işletme simülasyon oyunudur. Gelen araçların istediği litreye en yakın dolumu yap, paranı kazan, benzinin tükenmeden günü tamamla ve işletmeni adım adım büyüt.
+
+Her müşteri farklı miktarda benzin ister. Senin görevin doğru zamanda dolumu durdurmak, fazla yakıt harcamadan kazancını artırmak ve gün sonunda kâr etmektir. Fazla dolum yaparsan müşteri yalnızca istediği litre kadar ödeme yapar; bu yüzden dikkat, zamanlama ve doğru kararlar çok önemlidir.
+
+Kazandığın parayla yeni benzin alabilir, seviyeni yükseltebilir ve daha iyi bir istasyon işletmecisi olmak için ilerleyebilirsin. Günler geçtikçe daha fazla araç gelir, talepler artar ve oyun giderek daha dikkat isteyen bir hale gelir.
+
+Özellikler:
+
+* Benzin istasyonu işletme simülasyonu
+* Araçlara litre bazlı yakıt dolumu
+* Fazla dolumda zarar etme sistemi
+* Günlük kazanç, yakıt ve kâr takibi
+* Seviye yükseltme sistemi
+* Rekabetçi sıralama sistemi
+* Basit, eğlenceli ve bağımlılık yapan oynanış
+
+En iyi pompacı olmak için doğru dolumu yap, paranı akıllıca yönet ve sıralamada zirveye çık!
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NetTV: Watch Global TV]]></title>
+        <id>NetTV: Watch Global TV-tr-1779896486654</id>
+        <link href="https://apps.apple.com/tr/app/nettv-watch-global-tv/id6738272916?uo=4"/>
+        <updated>2026-05-27T15:41:26.654Z</updated>
+        <summary type="html"><![CDATA[Price: ₺19,99 → ₺4,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/nettv-watch-global-tv/id6738272916?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/05/1c/04051c0c-958a-5962-d84e-1144e3b9f029/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.jpeg/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺19,99</span> → <b>
+  <strong>₺4,99</strong>
+</b><span>[₺4,99 ~ ₺19,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺4,99</b>
+</p><h2>Application Description</h2><p>
+  "Global TV" brings a vast array of global IPTV channels, allowing you to watch live TV from around the world anytime, anywhere. Whether it's news, entertainment, sports, or movies, "Global TV" gathers publicly available IPTV channels from across the globe, meeting your diverse viewing needs.
+
+Key Features:
+
+Country Coverage: United States, Canada, Argentina, Australia, Brazil, Chile, China, India, Indonesia, Israel, Japan, South Korea, Malaysia, Mexico, New Zealand, Pakistan, Philippines, Russia, South Africa, United Kingdom, Germany, France, Spain, Italy, Netherlands, Belgium, Switzerland, Sweden, Norway, Denmark, Finland, Ireland, Austria, Portugal, Poland, Czech Republic, Hungary, Greece, Turkey, Serbia, Croatia, Albania, Bosnia and Herzegovina, North Macedonia, Montenegro, Bulgaria, Romania, Moldova, Estonia, Latvia, Lithuania, Belarus, Ukraine, Iceland, Malta, San Marino, Luxembourg, Monaco, Liechtenstein, Vatican, Andorra, Saint Kitts and Nevis, São Tomé and Príncipe, Bahamas, Belarus, Argentina, Niger, Ecuador, Uruguay, Zambia, Botswana, Zimbabwe, Djibouti, Belarus, Rwanda, Côte d'Ivoire, Uganda, Cameroon, Angola, Republic of Congo, Democratic Republic of Congo, Togo, Sierra Leone, Mauritania, Nigeria, Tanzania, Somalia, Ghana, South Africa, Morocco, Algeria, Egypt, Tunisia, Libya, Kenya, Botswana, Eswatini, Mozambique, Lesotho, Madagascar, Mali, Chad, Sudan, Rwanda.
+
+Channel Categories: Offers a wide variety of content to satisfy your different viewing needs, covering a range of channels, including: Cartoons, Cars, Business, Classics, Comedy, Cooking, Culture, Documentaries, Education, Entertainment, Family, General, Kids, Legislation, Lifestyle, Movies, Music, News, Outdoors, Relaxation, Religion, Science, Series, Shopping, Sports, Travel, Weather, Undefined.
+
+Watch Anytime, Anywhere: With high-definition quality and smooth playback, watch live TV from around the world at any time and from anywhere.
+
+Easy to Use: A user-friendly interface allows you to easily browse and select your favorite channels.
+
+With "Global TV," experience the essence of global IPTV—never miss exciting content again!
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Card.Note - 让记忆染色]]></title>
+        <id>Card.Note - 让记忆染色-tr-1779896486654</id>
+        <link href="https://apps.apple.com/tr/app/card-note-%E8%AE%A9%E8%AE%B0%E5%BF%86%E6%9F%93%E8%89%B2/id1400032769?uo=4"/>
+        <updated>2026-05-27T15:41:26.654Z</updated>
+        <summary type="html"><![CDATA[Card.Note Premiun: ₺99,99 → ₺49,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/card-note-%E8%AE%A9%E8%AE%B0%E5%BF%86%E6%9F%93%E8%89%B2/id1400032769?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/47/c9/9f/47c99ff7-9d60-9f44-25f4-97226f006370/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Card.Note Premiun：</strong><span>₺99,99</span> → <b>
+  <strong>₺49,99</strong>
+</b><span>[₺29,99 ~ ₺149,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Card.Note Premiun：<b>₺49,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Card.Note：小某书数万博主私藏推荐的手账类App 
+
+这是一款集照片、文字、语音于一体的全能笔记App ，让您以更自由的方式记录生活。
+你可以用它来写诗、短文、随想； 
+也可以使用它的丰富照片模式，记录生活瞬间；
+也可以用它来记要事、记清单、记规划、设置要事提醒；
+还可以直接用语音输入来记录每个瞬间的念头。
+
+
+「Card.Note」三大笔记类型：
+1、照片笔记
+- 拥有单幅、六幅、九幅、自由模式
+- 支持自定义布局，设计杂志感版式
+- 琉璃色盘模式，支持液态玻璃效果
+- 智能配色、配文，让照片讲述故事
+- 支持自定义配色、配文，更加随心
+
+
+2、文字笔记
+- 简洁优雅的文字编辑界面
+- 支持更换100余种背景色
+- 支持更换10余种文青字体
+- 支持根据色卡集归档笔记
+- 支持添加题图让笔记更丰富
+- 每份笔记均可生成精致卡片
+
+3、语音笔记
+- 一键录制，解放双手
+- 支持语音转化成文本
+- 支持暂停/继续播放
+- 随时记录灵感、会议和故事
+
+「Card.Note」几大特点：
+
+1.极简设计
+循着极简的设计理念，结合图标及手势操作，轻松上手。
+
+2.文青定制
+精选了 10 款文青字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
+
+3.丰富照片样式
+支持单幅照片、六幅照片、九幅照片、琉璃色盘等照片模式，可智能识别配色和配文，也可自定义配色、配文及字体样式。
+
+3.全局卡片化
+充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
+
+4.语音录入
+可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
+
+5.要事提醒
+可设置提醒闹种，重要事情和计划不再错失。
+
+6.小组件功能
+支持Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
+
+7.iCloud云同步
+支持iCloud云同步，多台设备间数据可任意同步。
+
+8.深色模式
+全局适配深色模式，视觉舒适不刺眼。
+
+Card.Note 将实用性与美学完美结合。无论是简单的待办清单、长篇的生活随笔、珍贵的语音记录，还是精彩的照片故事，都能在这里找到最适合的呈现方式。
+
+感谢下载，生活愉快。
+
+如有问题或建议，请联系开发者
+小红书/微博：土味文艺开发者
+邮箱：yande18@126.com
+</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3c/df/4e/3cdf4e97-9b37-c17e-2377-72c3b6132d07/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/83/03/92/8303924b-d8d5-d927-47af-d7320b02d8dc/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/fd/fd/43fdfd78-3721-2e9d-8843-4858bb0fc91a/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/a7/63/dda76302-2519-d401-231e-a597cf5ec856/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f4/d8/4c/f4d84cbf-0d83-e446-3ae2-fc8be1ff00dc/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1e/03/f9/1e03f952-e058-9ed2-3bb6-6503d66c8891/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/75/79/c175797b-895d-5b31-b45e-db27fac9a0e5/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/14/d5/cd14d5c7-c1e0-928f-eb53-286c48db9f2f/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/fd/a6/65fda635-bbc0-09e5-4c85-50cdc6618a5f/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chord]]></title>
@@ -3355,96 +3527,5 @@ Quality detailed weather information provided by CustomWeather. CustomWeather is
 EMAIL US: support@radiantlabs.io 
 FOLLOW US: https://x.com/livingearthapp
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/25/5e/ce/255ece89-df43-053a-3bfc-9f47dfb4a411/923c04b7-e85c-4166-acee-9bebfbbee909_iPhone_8_Plus-0Launch_framed.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/90/b3/18/90b31807-af9d-0f0f-f829-002b9da58c80/29797b7d-46b8-4ffb-a38b-bd29d25262ec_iPhone_8_Plus-1Temperature_framed.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/bb/68/0c/bb680cd0-e343-e5b8-6e7b-3030f056d285/56c0c10f-0893-43b0-acff-60b470a24728_iPhone_8_Plus-2Forecasts_framed.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/5f/57/d5/5f57d55c-4a58-0348-10ed-99e683fb7123/78dd8912-d5f6-4d38-bbb1-14e4734ad65b_iPhone_8_Plus-3Hurricane_framed.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/12/88/c7/1288c753-8c0c-bfa8-4973-00bc1862078a/608ec3e5-11e9-46fe-a900-2f1aa1b0e1eb_iPhone_8_Plus-4WorldClock_framed.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/99/3a/0e/993a0e5a-ac6d-e9d2-b392-d4fe548a234f/mzl.wjdqvjjb.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/a2/dc/21/a2dc214c-12b5-4af0-29b9-7db41e10074b/mzl.acsceoef.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/ba/56/7f/ba567f2e-3340-2013-c92c-8e39f1f587f6/mzl.rxrchysn.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/32/6a/fa/326afa8c-6b0b-0591-816b-60aeb62a0a33/mzl.blmbdmoi.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Card.Note -文艺版PhotoColors和照片拼图]]></title>
-        <id>Card.Note -文艺版PhotoColors和照片拼图-tr-1779638471104</id>
-        <link href="https://apps.apple.com/tr/app/card-note-%E6%96%87%E8%89%BA%E7%89%88photocolors%E5%92%8C%E7%85%A7%E7%89%87%E6%8B%BC%E5%9B%BE/id1400032769?uo=4"/>
-        <updated>2026-05-24T16:01:11.104Z</updated>
-        <summary type="html"><![CDATA[Card.Note Premiun: ₺149,99 → ₺99,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/card-note-%E6%96%87%E8%89%BA%E7%89%88photocolors%E5%92%8C%E7%85%A7%E7%89%87%E6%8B%BC%E5%9B%BE/id1400032769?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d3/2b/1c/d32b1cfe-c63e-9bdb-3d54-1d4d3f000ec0/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Card.Note Premiun：</strong><span>₺149,99</span> → <b>
-  <strong>₺99,99</strong>
-</b><span>[₺29,99 ~ ₺149,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Card.Note Premiun：<b>₺99,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Card.Note：小某书数万博主私藏推荐的手账类App 
-
-这是一款集照片、文字、语音于一体的全能笔记App ，让您以更自由的方式记录生活。
-你可以用它来写诗、短文、随想； 
-也可以使用它的丰富照片模式，记录生活瞬间；
-也可以用它来记要事、记清单、记规划、设置要事提醒；
-还可以直接用语音输入来记录每个瞬间的念头。
-
-
-「Card.Note」三大笔记类型：
-1、照片笔记
-- 拥有单幅、六幅、九幅、自由模式
-- 支持自定义布局，设计杂志感版式
-- 琉璃色盘模式，支持液态玻璃效果
-- 智能配色、配文，让照片讲述故事
-- 支持自定义配色、配文，更加随心
-
-
-2、文字笔记
-- 简洁优雅的文字编辑界面
-- 支持更换100余种背景色
-- 支持更换10余种文青字体
-- 支持根据色卡集归档笔记
-- 支持添加题图让笔记更丰富
-- 每份笔记均可生成精致卡片
-
-3、语音笔记
-- 一键录制，解放双手
-- 支持语音转化成文本
-- 支持暂停/继续播放
-- 随时记录灵感、会议和故事
-
-「Card.Note」几大特点：
-
-1.极简设计
-循着极简的设计理念，结合图标及手势操作，轻松上手。
-
-2.文青定制
-精选了 10 款文青字体及 9 种文青主题色卡、多达 100 种不同颜色的色卡，可根据喜好定制各种卡片。
-
-3.丰富照片样式
-支持单幅照片、六幅照片、九幅照片、琉璃色盘等照片模式，可智能识别配色和配文，也可自定义配色、配文及字体样式。
-
-3.全局卡片化
-充分融入了卡片设计理念，可根据喜好随意切换横版或竖版两种卡片笔记显示样式。
-
-4.语音录入
-可直接语音输入，随时记录每个灵光显现的想法。你可以把它当作成iOS文艺版“闪念胶囊”。
-
-5.要事提醒
-可设置提醒闹种，重要事情和计划不再错失。
-
-6.小组件功能
-支持Widget小组件功能，可直接在应用图标或Widget快速打开应用或直接进入创建笔记界面，让你随时高效地记录每个念头。
-
-7.iCloud云同步
-支持iCloud云同步，多台设备间数据可任意同步。
-
-8.深色模式
-全局适配深色模式，视觉舒适不刺眼。
-
-Card.Note 将实用性与美学完美结合。无论是简单的待办清单、长篇的生活随笔、珍贵的语音记录，还是精彩的照片故事，都能在这里找到最适合的呈现方式。
-
-感谢下载，生活愉快。
-
-如有问题或建议，请联系开发者
-小红书/微博：土味文艺开发者
-邮箱：yande18@126.com
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/f9/fd/4ff9fdcd-44da-5e94-cb13-83ae0182a927/mzl.hmdcxpql.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3b/fa/bc/3bfabc21-1407-d6d4-1c8e-33f5826baa77/mzl.nbsfqtka.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/05/32/9e0532e5-1f7a-cc64-51c3-349c6e2e9d90/mzl.ahvmrhah.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/a9/f8/faa9f8cc-830e-e812-204d-789510753333/mzl.fvrictjc.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b2/c5/7c/b2c57cf8-c807-5b9e-6284-3a58087e196d/mzl.hwngkzgt.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e6/e4/00/e6e40084-d317-d6cb-fb1e-7693de14124b/mzl.emvjklae.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/45/9a/72459a2a-c86c-35dd-569e-c11e6d9e4ccb/mzl.hupgciec.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7e/02/8e/7e028e33-489f-f607-f11c-25b919e1eb31/mzl.ubsoeypd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/22/3d/e3/223de384-bf80-a706-4cab-d679c3c68ccf/mzl.wftiudsj.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
