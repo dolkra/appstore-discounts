@@ -8749,6 +8749,25 @@
     "history": [
       [
         {
+          "timestamp": 1780025731790,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Amped Guitar & Bass": "2,99 €",
+            "Hyper-Pop Mobile": "2,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Technocraft": "1,99 €",
+            "Synth Lead": "1,99 €",
+            "PsyTrance": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779853677173,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -17874,6 +17893,25 @@
       "Handful of Bolts": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780025731790,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "0,99 €",
+            "Skatepark: Mondo Ramp": "0,99 €",
+            "Skatepark of Tampa": "0,99 €",
+            "Skatepark: The Valley": "0,99 €",
+            "SLS 2016 Course Pack": "1,99 €",
+            "Skatepark: The Berrics": "1,99 €",
+            "Skatepark: Havasu": "1,99 €",
+            "Skatepark 6 Pack": "5,99 €",
+            "Skatepark: Schoolyard": "0,99 €",
+            "SLS Hangar": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778249136821,
@@ -58167,6 +58205,25 @@
     "history": [
       [
         {
+          "timestamp": 1780025731790,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Euro Trip": "3,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €",
+            "1935 Atlantic City": "14,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1780008102079,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -71201,10 +71258,18 @@
       "formattedPrice": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780025731790,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1778788711752,
@@ -104819,6 +104884,27 @@
           "timestamp": 1779875386311,
           "price": 7.99,
           "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760129507": {
+    "name": "CPR Buddy",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780025731790,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
