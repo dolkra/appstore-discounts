@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2024` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2025` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2025|6772053026|Automatic|❌|❌|❌|❌|❌|Halı Saha Patronu|❌|
 |2024|775888026|Automatic|❌|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|
 |2023|1104649303|Automatic|我的月相专业版|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|
 |2022|1294956870|Automatic|东西 在哪儿 - 整理房间 收纳家居 储存空间清理 物品清单|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|Where's my stuff - Keep & Find|Where's my stuff- Moving House|Where's my stuff - Keep & Find|
@@ -306,7 +307,7 @@ So far, we've covered `7` `Countries or Regions` and  `2024` `Apps` <br />Push n
 |1728|6749826892|Automatic|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|Automatic|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|Automatic|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
-|1725|6451352949|Automatic|鱼影 - 体感钓鱼，甩手可得|魚影 - 體感釣魚，甩手可得|魚影 - 體感釣魚，甩手可得|魚影 - 體感釣魚，甩手可得|Fishow - Just a Cast Away|Fishow - Just a Cast Away|Fishow - Just a Cast Away|
+|1725| ~~6451352949~~ |Automatic| ~~鱼影 - 体感钓鱼，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ |
 |1724|1074661768|Automatic|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
 |1723|938409051|Automatic|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
 |1722|1445772666|Automatic|❌|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|
@@ -1366,7 +1367,7 @@ So far, we've covered `7` `Countries or Regions` and  `2024` `Apps` <br />Push n
 |668|1617390109|Automatic|❌|我们的大航海|我们的大航海|我们的大航海|我们的大航海|我们的大航海|我们的大航海|
 |667|1621065119|Automatic|❌|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|Ace Attorney Trilogy|Ace Attorney Trilogy|Ace Attorney Trilogy|
 |666|1626320298|Automatic|极速变色龙|❌|❌|❌|❌|❌|❌|
-|665|6738272916|Automatic|全球电视 - 国际电视直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|NetTV: Watch Global TV|NetTV: Watch Global TV|TV Global - Ao vivo|
+|665| ~~6738272916~~ |Automatic| ~~全球电视 - 国际电视直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~NetTV: Watch Global TV~~ | ~~NetTV: Watch Global TV~~ | ~~TV Global - Ao vivo~~ |
 |664| ~~6446178861~~ |Automatic| ~~PlayNav - 影片内无广告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - No ads in videos!~~ | ~~PlayNav - No ads in videos!~~ | ~~❌~~ |
 |663|363385252|Automatic|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|
 |662|430270438|Automatic|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|

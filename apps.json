@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6772053026,
+      "name": {
+        "tr": "Halı Saha Patronu"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 775888026,
       "name": {
         "tw": "Shadowmatic"
@@ -2108,7 +2115,8 @@
       "name": {
         "mo": "魚影 - 手表體感釣魚"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 1074661768,
@@ -9592,7 +9600,8 @@
       "name": {
         "hk": "全球電視 - 國際電視直播"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 6446178861,

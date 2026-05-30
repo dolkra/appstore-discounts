@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2024` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2025` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2025|6772053026|自动|❌|❌|❌|❌|❌|Halı Saha Patronu|❌|
 |2024|775888026|自动|❌|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|
 |2023|1104649303|自动|我的月相专业版|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|
 |2022|1294956870|自动|东西 在哪儿 - 整理房间 收纳家居 储存空间清理 物品清单|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|Where's my stuff - Keep & Find|Where's my stuff- Moving House|Where's my stuff - Keep & Find|
@@ -306,7 +307,7 @@
 |1728|6749826892|自动|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|自动|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|自动|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
-|1725|6451352949|自动|鱼影 - 体感钓鱼，甩手可得|魚影 - 體感釣魚，甩手可得|魚影 - 體感釣魚，甩手可得|魚影 - 體感釣魚，甩手可得|Fishow - Just a Cast Away|Fishow - Just a Cast Away|Fishow - Just a Cast Away|
+|1725| ~~6451352949~~ |自动| ~~鱼影 - 体感钓鱼，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ |
 |1724|1074661768|自动|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
 |1723|938409051|自动|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
 |1722|1445772666|自动|❌|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|
@@ -1366,7 +1367,7 @@
 |668|1617390109|自动|❌|我们的大航海|我们的大航海|我们的大航海|我们的大航海|我们的大航海|我们的大航海|
 |667|1621065119|自动|❌|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|Ace Attorney Trilogy|Ace Attorney Trilogy|Ace Attorney Trilogy|
 |666|1626320298|自动|极速变色龙|❌|❌|❌|❌|❌|❌|
-|665|6738272916|自动|全球电视 - 国际电视直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|NetTV: Watch Global TV|NetTV: Watch Global TV|TV Global - Ao vivo|
+|665| ~~6738272916~~ |自动| ~~全球电视 - 国际电视直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~NetTV: Watch Global TV~~ | ~~NetTV: Watch Global TV~~ | ~~TV Global - Ao vivo~~ |
 |664| ~~6446178861~~ |自动| ~~PlayNav - 影片内无广告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - No ads in videos!~~ | ~~PlayNav - No ads in videos!~~ | ~~❌~~ |
 |663|363385252|自动|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|
 |662|430270438|自动|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|
