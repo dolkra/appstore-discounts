@@ -74322,6 +74322,23 @@
     "history": [
       [
         {
+          "timestamp": 1780225077243,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1780217119666,
           "price": 14.49,
           "formattedPrice": "14,49 €",
@@ -105550,6 +105567,27 @@
           "inAppPurchases": {
             "Simple Match 3 Gold": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6751319443": {
+    "name": "poker-math",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780225077243,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
