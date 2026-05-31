@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2027` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2029` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2029|1509500916|Automatic|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
+|2028|6482984389|Automatic|❌|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|
 |2027|6772549927|Automatic|❌|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|
 |2026|1366557092|Automatic|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|
 |2025|6772053026|Automatic|❌|❌|❌|❌|❌|Halı Saha Patronu|❌|
@@ -536,7 +538,7 @@ So far, we've covered `7` `Countries or Regions` and  `2027` `Apps` <br />Push n
 |1501|1583113291|Automatic|❌|❌|❌|❌|❌|❌|IRFSpro|
 |1500|6587551050|Automatic|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|
 |1499|886697025|Automatic|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|
-|1498|1000884506|Automatic|❌|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|
+|1498|1000884506|Automatic|❌|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim Legacy|Hmmsim Legacy|
 |1497|6477356535|Automatic|❌|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|
 |1496|1007346233|Automatic|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|
 |1495|530060483|Automatic|❌|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|

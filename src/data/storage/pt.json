@@ -33078,7 +33078,7 @@
     ]
   },
   "1000884506": {
-    "name": "Hmmsim 2 - Train Simulator",
+    "name": "Hmmsim Legacy",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
@@ -47675,6 +47675,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1780217119666,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "9 Characters": "39,99 €",
+            "CAPSO": "9,99 €",
+            "ConneR": "9,99 €",
+            "Aroma": "9,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "9,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "9,99 €"
+          }
+        },
         {
           "timestamp": 1780199459870,
           "price": 1.99,
@@ -63686,6 +63703,27 @@
       ]
     ]
   },
+  "1509500916": {
+    "name": "Golf On Mars",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780217119666,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1509817154": {
     "name": "某某宗女修修炼手札",
     "maxPriceInfo": {
@@ -74282,6 +74320,25 @@
       "French Audio": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780217119666,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "German Audio": "0,00 €",
+            "Tales of Valor - Russian": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Tales of Valor - Spanish": "0,00 €",
+            "Opposing Fronts - French": "0,00 €",
+            "Opposing Fronts - Spanish": "0,00 €",
+            "Tales of Valor - French": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "High-Quality Models": "0,00 €",
+            "French Audio": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780008102079,
@@ -86759,6 +86816,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1780217119666,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A380": "1,99 €",
+            "The Aircraft Bundle": "24,99 €",
+            "EC135": "0,99 €",
+            "Concorde": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "F/A-18": "1,99 €",
+            "Extra 330": "0,99 €",
+            "Boeing 737-900": "1,99 €",
+            "F4U Corsair": "0,99 €"
+          }
+        },
         {
           "timestamp": 1780199459870,
           "price": 3.99,
@@ -105451,6 +105525,31 @@
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6482984389": {
+    "name": "Simple Match 3",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Simple Match 3 Gold": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Simple Match 3 Gold": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780217119666,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Simple Match 3 Gold": "1,99 €"
+          }
         }
       ]
     ]
