@@ -478,7 +478,7 @@ So far, we've covered `7` `Countries or Regions` and  `2030` `Apps` <br />Push n
 |1562|6746705608|Automatic|AutoSnore: 鼾声记录器|AutoSnore: 鼾聲記錄工具|AutoSnore: 鼾聲記錄工具|AutoSnore: 鼾聲記錄工具|AutoSnore: Snoring Recorder|AutoSnore: Snoring Recorder|AutoSnore: Gravador de ronco|
 |1561|6670599313|Automatic|❌|聖塔神記 TRINITY TRIGGER|聖塔神記 TRINITY TRIGGER|聖塔神記 TRINITY TRIGGER|TRINITY TRIGGER|TRINITY TRIGGER|聖塔神記 トリニティトリガー|
 |1560|6497948575|Automatic|❌|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|
-|1559|495852701|Automatic|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|
+|1559|495852701|Automatic|SimpleURL - 无广告|SimpleURL - 無廣告|SimpleURL - 無廣告|SimpleURL - 無廣告|SimpleURL No Ads|SimpleURL No Ads|SimpleURL - Sem anúncios|
 |1558|1223392043|Automatic|❌|閃耀滑雪場物語|閃耀滑雪場物語|閃耀滑雪場物語|Shiny Ski Resort|Shiny Ski Resort|Shiny Ski Resort|
 |1557|6744430250|Automatic|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|
 |1556|6748850927|Automatic|PowerNFC|PowerNFC|PowerNFC|PowerNFC|PowerNFC|PowerNFC|PowerNFC|
