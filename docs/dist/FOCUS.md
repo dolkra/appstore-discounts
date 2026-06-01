@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2031` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2032` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2032|6759642128|Automatic|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|
 |2031|6762921522|Automatic|牌局记分器|牌局記分器|牌局記分器|牌局記分器|Game Scorer Round Tracker|Game Scorer Round Tracker|牌局记分器|
 |2030|6751319443|Automatic|❌|poker-math|poker-math|poker-math|poker-math|poker-math|poker-math|
 |2029|1509500916|Automatic|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
@@ -1376,7 +1377,7 @@ So far, we've covered `7` `Countries or Regions` and  `2031` `Apps` <br />Push n
 |665| ~~6738272916~~ |Automatic| ~~全球电视 - 国际电视直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~NetTV: Watch Global TV~~ | ~~NetTV: Watch Global TV~~ | ~~TV Global - Ao vivo~~ |
 |664| ~~6446178861~~ |Automatic| ~~PlayNav - 影片内无广告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - No ads in videos!~~ | ~~PlayNav - No ads in videos!~~ | ~~❌~~ |
 |663|363385252|Automatic|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|
-|662|430270438|Automatic|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|
+|662|430270438|Automatic|Astro Gold Astrology|Astro Gold Astrology|Astro Gold Astrology|Astro Gold Astrology|Astro Gold Astrology|Astro Gold Astrology|Astro Gold Astrology|
 |661|679454835|Automatic|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|Rarevision VHS: Retro Cam|
 |660|911201894|Automatic|❌|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|DRAGON QUEST|
 |659|921954809|Automatic|❌|❌|❌|❌|Craft The World-Pocket Edition|Craft The World-Pocket Edition|Craft The World-Pocket Edition|

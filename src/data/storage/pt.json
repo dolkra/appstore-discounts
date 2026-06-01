@@ -7962,7 +7962,7 @@
     ]
   },
   "430270438": {
-    "name": "Astro Gold",
+    "name": "Astro Gold Astrology",
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
@@ -46794,6 +46794,23 @@
     "history": [
       [
         {
+          "timestamp": 1780335522977,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pilha de Gemas": "2,99 €",
+            "Baú de Gemas": "9,99 €",
+            "Pilha de Moedas": "0,99 €",
+            "Bolsa de Moedas": "5,99 €",
+            "Bolsa de Gemas": "22,99 €",
+            "Bau de Moedas": "22,99 €",
+            "SF2SEPack25": "29,99 €",
+            "SF2SEPack21": "22,99 €",
+            "SF2SEPack18": "19,99 €",
+            "SF2SEPack30": "34,99 €"
+          }
+        },
+        {
           "timestamp": 1780313630056,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -74440,6 +74457,25 @@
       "French Audio": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780335522977,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "Spanish Audio": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "Russian Audio": "0,00 €",
+            "Opposing Fronts - Russian": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780225077243,
@@ -103847,13 +103883,25 @@
     "name": "寶寶的每日陪伴計畫",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "疫苗接種紀錄解鎖": "0,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "疫苗接種紀錄解鎖": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780335522977,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "疫苗接種紀錄解鎖": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775335273950,
@@ -105824,6 +105872,27 @@
           "timestamp": 1780313630056,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6759642128": {
+    "name": "ISC2 CGRC Governance & Risk",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780335522977,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]
