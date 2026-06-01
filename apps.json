@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6762921522,
+      "name": {
+        "mo": "牌局記分器"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6751319443,
       "name": {
         "mo": "poker-math"
