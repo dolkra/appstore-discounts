@@ -4,7 +4,7 @@ on:
   push:
     branches: ['main']
   schedule:
-    - cron: '0 */2 * * *'
+    - cron: '0 */3 * * *'
 
 jobs:
   generate:
@@ -14,7 +14,7 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: install dependence
-        run: npm i -g pnpm && pnpm i --no-frozen-lockfile
+        run: npm i -g pnpm && pnpm i --no-frozen-lockfile --ignore-scripts
 
       - name: install playwright
         run: npx playwright install chromium

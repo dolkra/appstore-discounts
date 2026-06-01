@@ -1,12 +1,49 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2030` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2030|6751319443|Automatic|❌|poker-math|poker-math|poker-math|poker-math|poker-math|poker-math|
+|2029|1509500916|Automatic|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
+|2028|6482984389|Automatic|❌|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|
+|2027|6772549927|Automatic|❌|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|
+|2026|1366557092|Automatic|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|Filmlike Kyoto|
+|2025|6772053026|Automatic|❌|❌|❌|❌|❌|Halı Saha Patronu|❌|
+|2024|775888026|Automatic|❌|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|Shadowmatic|
+|2023|1104649303|Automatic|我的月相专业版|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|My Moon Phase Pro - Alerts|
+|2022|1294956870|Automatic|东西 在哪儿 - 整理房间 收纳家居 储存空间清理 物品清单|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|東西 在哪兒 - 尋找物品 收藏庫存 收納房間 生活倉庫|Where's my stuff - Keep & Find|Where's my stuff- Moving House|Where's my stuff - Keep & Find|
+|2021|6760129507|Automatic|❌|❌|❌|❌|❌|CPR Buddy|CPR Buddy|
+|2020|961328776|Automatic|JPics|JPics|JPics|JPics|JPics|JPics|JPics|
+|2019|421929034|Automatic|Time Guru 节拍器|Time Guru 節拍器|Time Guru 節拍器|Time Guru 節拍器|Time Guru Metronome|Time Guru Metronome|Time Guru Metrônomo|
+|2018|1194938970|Automatic|Miracle行车记录仪-开车视频拍摄与导航的智能安全助手|Miracle行車記錄儀-開車視頻拍攝與導航的智能安全助手|Miracle行車記錄儀-開車視頻拍攝與導航的智能安全助手|Miracle行車記錄儀-開車視頻拍攝與導航的智能安全助手|Miracle行车记录仪-开车必备智能安全助手|Miracle行车记录仪-开车必备智能安全助手|Miracle行车记录仪-开车必备智能安全助手|
+|2017|6758201392|Automatic|❌|Slime Rancher|Slime Rancher|Slime Rancher|Slime Rancher|Slime Rancher|Slime Rancher|
+|2016|6771400576|Automatic|Baby Food Cookbook|Baby Food Cookbook|Baby Food Cookbook|Baby Food Cookbook|Baby Food Cookbook|Baby Food Cookbook|Baby Food Cookbook|
+|2015|6444508254|Automatic|汉末霸业|❌|❌|❌|❌|❌|❌|
+|2014|6760838876|Automatic|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|Oldi - Phone Camera|
+|2013|6744669583|Automatic|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|樱花动漫-动漫大全|
+|2012|836603095|Automatic|电磁场探测器射频扫描仪|電磁場探測器射頻掃描儀|電磁場探測器射頻掃描儀|電磁場探測器射頻掃描儀|EMF Field Detector RF Scanner|EMF Field Detector RF Scanner|Scanner RF detector Campo EMF|
+|2011|6742404565|Automatic|❌|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|Minishoot' Adventures|
+|2010|6749406060|Automatic|❌|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|Subnautica: Below Zero|
+|2009|385902072|Automatic|❌|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|Guns'n'Glory Premium|
+|2008|975482646|Automatic|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|GENKI Conjugation Cards|
+|2007|6762850272|Automatic|❌|Büfeci|Büfeci|Büfeci|Büfeci|Büfeci|Büfeci|
+|2006|1434964023|Automatic|❌|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Arcade Watch Games|Jogos de Relógio Arcade|
+|2005|1483947937|Automatic|❌|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|Hidden Through Time|
+|2004|6757171842|Automatic|❌|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|Green Pond Town|
+|2003|6756825085|Automatic|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao: Standing Desk Reminder|Stao - Timer Mesa Elevável|
+|2002|294236771|Automatic|ICOON 全球图解词典|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|ICOON picture dictionary|Dicionário de imagens ICOON|
+|2001|6761413198|Automatic|❌|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|That's not my Neighbor.|
+|2000|1558620021|Automatic|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|
+|1999|1043877923|Automatic|❌|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|Shoes Clothing Store Master|Shoes Clothing Store Master|Shoes Clothing Store Master|
+|1998|982717032|Automatic|生意记账DailySales - 进销存管理系统多仓库盘点|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|
+|1997|6745770352|Automatic|Not Dizzy 不晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|Not Dizzy 不晕车|
+|1996|6756866511|Automatic|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|
+|1995|6748056918|Automatic|❌|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|
+|1994|6767835460|Automatic|❌|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|
 |1993|880614385|Automatic|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|Cognitive Tap Test|
 |1992|458535809|Automatic|Calculator ∞ - 科学计算器|Calculator ∞ - 科學計算器|Calculator ∞ - 科學計算器|Calculator ∞ - 科學計算器|Calculator ∞|Calculator ∞|Calculator ∞ - Calculadora|
 |1991|6766166468|Automatic|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|
@@ -275,7 +312,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |1728|6749826892|Automatic|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|zinciri_kırma|
 |1727|1599622583|Automatic|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|EKYS Müdür ve Müdür Y. Sınavı|
 |1726|6758324604|Automatic|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|兒科考一考（香港中醫考牌）|
-|1725|6451352949|Automatic|鱼影 - 掌上钓鱼模拟器|魚影 - 隨時隨地隨手拋竿|魚影 - 隨時隨地隨手拋竿|魚影 - 隨時隨地隨手拋竿|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|Fishow - Cast Anywhere Anytime|
+|1725| ~~6451352949~~ |Automatic| ~~鱼影 - 体感钓鱼，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~魚影 - 體感釣魚，甩手可得~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ | ~~Fishow - Just a Cast Away~~ |
 |1724|1074661768|Automatic|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|出行訣飛星萬年曆|
 |1723|938409051|Automatic|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|Smart PDF Scanner|
 |1722|1445772666|Automatic|❌|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|Keep Talking & Nobody Explodes|
@@ -343,10 +380,10 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |1660|952764370|Automatic|❌|Rolling Coins|Rolling Coins|Rolling Coins|Rolling Coins|Rolling Coins|Rolling Coins|
 |1659|6745723131|Automatic|和弦基因 - 钢琴乐理可视化|和弦基因 - 鋼琴鍵盤樂理圖形化查詢|和弦基因 - 鋼琴鍵盤樂理圖形化查詢|和弦基因 - 鋼琴鍵盤樂理圖形化查詢|GenChord - Piano Scale Chord|GenChord - Piano Scale Chord|GenChord - Escala de Piano|
 |1658|632064672|Automatic|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|Official Life in the UK Test|
-|1657|401818935|Automatic|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|Genius Scan Enterprise - PDF|
+|1657| ~~401818935~~ |Automatic| ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ | ~~Genius Scan Enterprise - PDF~~ |
 |1656|6468917523|Automatic|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Infusion Calculator|EasyIV Calculadora Infusão IV|
 |1655|565847915|Automatic|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|Ghost Detect Pro|
-|1654|807752194|Automatic|大提琴调音器专业版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|大提琴調音器專業版 - Cello Tuner Pro|Cello Tuner Professional|Cello Tuner Professional|Afinador de Violoncelo Pro|
+|1654| ~~807752194~~ |Automatic| ~~大提琴调音器专业版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~大提琴調音器專業版 - Cello Tuner Pro~~ | ~~Cello Tuner Professional~~ | ~~Cello Tuner Professional~~ | ~~Afinador de Violoncelo Pro~~ |
 |1653|1065311870|Automatic|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|VRPlayer Pro : 2D 3D 360°Video|
 |1652|6755779631|Automatic|小花分期-借款小额贷款秒批宜享现金借钱好分期借款金融贷款软件|❌|❌|❌|❌|❌|❌|
 |1651| ~~6754364266~~ |Automatic| ~~臻心贷-小额贷款秒批现金借款金融贷款短期借钱花好分期借款软件~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
@@ -410,7 +447,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |1593|375819093|Automatic|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|Forvo Pronunciation|
 |1592|1320681231|Automatic|❌|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|Bring You Home|
 |1591|1146395075|Automatic|❌|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|Pou 3D|
-|1590|327742738|Automatic|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|聖經(和合本)(繁體中英對照)|❌|
+|1590| ~~327742738~~ |Automatic| ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~聖經(和合本)(繁體中英對照)~~ | ~~❌~~ |
 |1589|1665291391|Automatic|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|Watch PDF Reader|
 |1588|307025309|Automatic|❌|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|iWriteWords|
 |1587|378120971|Automatic|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|AeroWeather Pro|
@@ -441,7 +478,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |1562|6746705608|Automatic|AutoSnore: 鼾声记录器|AutoSnore: 鼾聲記錄工具|AutoSnore: 鼾聲記錄工具|AutoSnore: 鼾聲記錄工具|AutoSnore: Snoring Recorder|AutoSnore: Snoring Recorder|AutoSnore: Gravador de ronco|
 |1561|6670599313|Automatic|❌|聖塔神記 TRINITY TRIGGER|聖塔神記 TRINITY TRIGGER|聖塔神記 TRINITY TRIGGER|TRINITY TRIGGER|TRINITY TRIGGER|聖塔神記 トリニティトリガー|
 |1560|6497948575|Automatic|❌|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|Way of the Hunter Wild America|
-|1559|495852701|Automatic|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|SimpleURL No Ads|
+|1559|495852701|Automatic|SimpleURL - 无广告|SimpleURL - 無廣告|SimpleURL - 無廣告|SimpleURL - 無廣告|SimpleURL No Ads|SimpleURL No Ads|SimpleURL - Sem anúncios|
 |1558|1223392043|Automatic|❌|閃耀滑雪場物語|閃耀滑雪場物語|閃耀滑雪場物語|Shiny Ski Resort|Shiny Ski Resort|Shiny Ski Resort|
 |1557|6744430250|Automatic|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|Python 學習計劃|
 |1556|6748850927|Automatic|PowerNFC|PowerNFC|PowerNFC|PowerNFC|PowerNFC|PowerNFC|PowerNFC|
@@ -502,7 +539,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |1501|1583113291|Automatic|❌|❌|❌|❌|❌|❌|IRFSpro|
 |1500|6587551050|Automatic|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|FilmN Kankokuma: Ramune|
 |1499|886697025|Automatic|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|ArtPose Female Edition|
-|1498|1000884506|Automatic|❌|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|Hmmsim 2 - Train Simulator|
+|1498|1000884506|Automatic|❌|Hmmsim Legacy|Hmmsim Legacy|Hmmsim Legacy|Hmmsim Legacy|Hmmsim Legacy|Hmmsim Legacy|
 |1497|6477356535|Automatic|❌|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|Etiket Tofask Online|
 |1496|1007346233|Automatic|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|Rhythm Swing- Music Drills|
 |1495|530060483|Automatic|❌|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|METAL SLUG 3|
@@ -917,7 +954,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |1086|6499549945|Automatic|❌|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|
 |1085|675049147|Automatic|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|
 |1084|1121659254|Automatic|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|
-|1083|6612009107|Automatic|❌|PID控制器模擬|PID控制器模擬|PID控制器模擬|PID Controller Simulation|PID Controller Simulation|Simulação de controlador PID|
+|1083|6612009107|Automatic|PID控制器仿真|PID控制器模擬|PID控制器模擬|PID控制器模擬|PID Controller Simulation|PID Controller Simulation|Simulação de controlador PID|
 |1082|308296029|Automatic|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|iStroboSoft|
 |1081|1435140819|Automatic|❌|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|Very Little Nightmares|
 |1080|828392046|Automatic|❌|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|Teach Your Monster to Read|
@@ -1016,7 +1053,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |987|6478398981|Automatic|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
 |986|528181527|Automatic|行车记录仪 「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Driving Recorder|TripREC Driving Recorder|gravador de condução「TripREC」|
 |985|545625741|Automatic|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
-|984|592398757|Automatic|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|Perfect Tempo|
+|984|592398757|Automatic|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|
 |983|669835030|Automatic|WinZip完整版: 压缩/解压|WinZip完整版|WinZip完整版|WinZip完整版|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|
 |982|672649451|Automatic|Panecal Plus 科学计算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus 科學計算器|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|Panecal Plus Sci. Calculator|
 |981|682046579|Automatic|人体探秘 - Tinybop出品|Tinybop 人體探秘|Tinybop 人體探秘|Tinybop 人體探秘|The Human Body by Tinybop|The Human Body by Tinybop|O Corpo Humano por Tinybop|
@@ -1103,7 +1140,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |900|1574339556|Automatic|❌|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|
 |899|6453763474|Automatic|❌|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|
 |898|6477535804|Automatic|❌|虛空穹牢|虛空穹牢|虛空穹牢|Vault of the Void|Vault of the Void|Vault of the Void|
-|897|6730126160|Automatic|戏曲锣鼓 - 传统乐器新体验|戲曲鑼鼓 - 傳統樂器新體驗|戲曲鑼鼓 - 傳統樂器新體驗|戲曲鑼鼓 - 傳統樂器新體驗|戏曲锣鼓 - 传统乐器新体验|戏曲锣鼓 - 传统乐器新体验|戏曲锣鼓 - 传统乐器新体验|
+|897|6730126160|Automatic|戏曲锣鼓 - 传统戏曲打击乐演奏|戲曲鑼鼓 - 傳統戲曲打擊樂演奏|戲曲鑼鼓 - 傳統戲曲打擊樂演奏|戲曲鑼鼓 - 傳統戲曲打擊樂演奏|戏曲锣鼓 - 传统戏曲打击乐演奏|戏曲锣鼓 - 传统戏曲打击乐演奏|戏曲锣鼓 - 传统戏曲打击乐演奏|
 |896|6449986941|Automatic|❌|❌|❌|常春藤108課綱核心單字|常春藤108課綱核心單字|常春藤108課綱核心單字|常春藤108課綱核心單字|
 |895|1115520522|Automatic|姬魔恋战纪-单机剧情手游戏|❌|❌|❌|姬魔恋战纪-单机剧情手游戏|姬魔恋战纪-单机剧情手游戏|姬魔恋战纪-单机剧情手游戏|
 |894|1322877018|Automatic|地震 - DataX Earthquake|地震 - DataX Earthquake|地震 - DataX Earthquake|地震 - DataX Earthquake|DataX Earthquake|DataX Earthquake|Terremoto - DataX Earthquake|
@@ -1225,7 +1262,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |778|1448798374|Automatic|❌|CAR++|CAR++|CAR++|CAR++|CAR++|CAR++|
 |777|1450908177|Automatic|❌|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|
 |776|1509817154|Automatic|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|
-|775|1513814705|Automatic|计算器键盘 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|Calculator Keyboard - Faster|
+|775|1513814705|Automatic|计算器键盘 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|計算器鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|CalculatorKB|
 |774|1543183092|Automatic|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|
 |773|6744311159|Automatic|魔王终局|❌|❌|❌|❌|❌|❌|
 |772|6740014272|Automatic|水果合成 - 手表游戏|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|
@@ -1238,7 +1275,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |765|1171627280|Automatic|❌|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-無盡的地下城：暗黑世界|魔窟-无尽的地下城: 暗黑世界|魔窟-无尽的地下城: 暗黑世界|魔窟-无尽的地下城: 暗黑世界|
 |764|1179421849|Automatic|❌|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|GRID™ Autosport|
 |763|1260311003|Automatic|五线谱照片扫描仪 - 乐谱图像识别|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - 五線譜樂譜圖像識別|Notation Scanner - Sheet Music|Notation Scanner - Sheet Music|Notation Scanner - Music OCR|
-|762|1291427111|Automatic|❌|Evoland 2|Evoland 2|Evoland 2|Evoland 2|Evoland 2|Evoland 2|
+|762| ~~1291427111~~ |Automatic| ~~❌~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ | ~~Evoland 2~~ |
 |761|1437715202|Automatic|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|倉頡詞典|❌|
 |760|1519571900|Automatic|Luwian|Luwian|Luwian|Luwian|Luwian|Luwian|Luwian|
 |759|1544947623|Automatic|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|Kiosk - fullscreen browser|
@@ -1335,7 +1372,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |668|1617390109|Automatic|❌|我们的大航海|我们的大航海|我们的大航海|我们的大航海|我们的大航海|我们的大航海|
 |667|1621065119|Automatic|❌|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|逆轉裁判123成步堂精選集|Ace Attorney Trilogy|Ace Attorney Trilogy|Ace Attorney Trilogy|
 |666|1626320298|Automatic|极速变色龙|❌|❌|❌|❌|❌|❌|
-|665|6738272916|Automatic|全球电视 - 国际电视直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|全球電視 - 國際電視直播|NetTV: Watch Global TV|NetTV: Watch Global TV|TV Global - Ao vivo|
+|665| ~~6738272916~~ |Automatic| ~~全球电视 - 国际电视直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~全球電視 - 國際電視直播~~ | ~~NetTV: Watch Global TV~~ | ~~NetTV: Watch Global TV~~ | ~~TV Global - Ao vivo~~ |
 |664| ~~6446178861~~ |Automatic| ~~PlayNav - 影片内无广告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - 影片內無廣告！~~ | ~~PlayNav - No ads in videos!~~ | ~~PlayNav - No ads in videos!~~ | ~~❌~~ |
 |663|363385252|Automatic|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|DTMFdec|
 |662|430270438|Automatic|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|Astro Gold|
@@ -1741,7 +1778,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |262|6743487416|Automatic|黄金矿工 for Watch - 经典复刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|黃金礦工 - 手錶遊戲 經典複刻|Gold Miner - Watch Games|Gold Miner - Watch Games|Gold Miner - Watch Games|
 |261|6478843819|Automatic|❌|家園、異星與獵人|家園、異星與獵人|家園、異星與獵人|Home, Planet & Hunters|Home, Planet & Hunters|Lar, Planeta e Caçadores|
 |260|6502453075|Automatic|❌|Balatro|Balatro|Balatro|Balatro|Balatro|Balatro|
-|259|6670749900|Automatic|❌|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|再戰江湖之傲視蒼龍|
+|259|6670749900|Automatic|❌|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|再戰江湖 - 金庸群俠傳MOD復刻|
 |258|6711347049|Automatic|❌|大俠立志傳|大俠立志傳|大俠立志傳|Hero's Adventure|Hero's Adventure|Hero's Adventure|
 |257|6547834967|Automatic|❌|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|動物森友會 口袋露營廣場 集合版|Animal Crossing: Pocket Camp C|❌|Animal Crossing: Pocket Camp C|
 |256|6452276410|Automatic|❌|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|遊戲開發者：全能製作人|
@@ -1865,7 +1902,7 @@ So far, we've covered `7` `Countries or Regions` and  `1993` `Apps` <br />Push n
 |138|1157863540|Manual|泰拉瑞亚|❌|❌|❌|❌|❌|❌|
 |137|1630541373|Manual|隐私相册-私密记忆，安心记录，安全保障隐藏秘密PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|Private Album - PRAM|
 |136|1512838461|Manual|DayCircle - 倒数|DayCircle - 倒數|DayCircle - 倒數|DayCircle - 倒數|DayCircle - Day counter|DayCircle - Day counter|DayCircle - Day counter|
-|135|1400032769|Manual|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|Card.Note - 多彩卡片笔记|
+|135|1400032769|Manual|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|Card.Note - 让记忆染色|
 |134| ~~460661291~~ |Manual| ~~安全笔记+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~Safety Note+ Pro~~ | ~~❌~~ |
 |133| ~~505904421~~ |Manual| ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~AirDisk Pro~~ | ~~❌~~ |
 |132| ~~1527841661~~ |Manual| ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~沙盒星球~~ | ~~Sandbox Planet~~ | ~~Sandbox Planet~~ | ~~❌~~ |
