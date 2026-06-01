@@ -65,7 +65,6 @@ Click  [![telegram](https://img.shields.io/badge/Telegram-Channel-blue?style=fla
 ## DingTalk
 Click  [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk")  to Subscribe
 # Operating Mechanism and Process
-
 This project automatically executes the following process based on  `GitHub Actions`  timing tasks (every  `180`  minutes):
 ```mermaid
 flowchart LR
