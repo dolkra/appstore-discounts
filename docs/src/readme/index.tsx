@@ -2,6 +2,7 @@ import React, { TableOfContents } from 'jsx-to-md'
 import initI18n from '../i18n'
 import Top from './Top'
 import Vision from './Vision'
+import WhyItExists from './WhyItExists'
 import Feature from './Feature'
 import Subscription from './Subscription'
 import Principle from './Principle'
@@ -18,6 +19,7 @@ export default function Doc(props) {
       <Top />
       <TableOfContents text={t('目录')} open={false} />
       <Vision />
+      <WhyItExists />
       <Feature />
       <Sponsors />
       <Subscription />

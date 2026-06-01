@@ -15,6 +15,7 @@
   <summary>目录</summary>
 
   [愿景](#愿景)<br/>
+  [为什么会有这个项目](#为什么会有这个项目)<br/>
   [特性](#特性)<br/>
   [如何订阅](#如何订阅)<br/>
   &emsp;&emsp;[RSS](#rss)<br/>
@@ -30,6 +31,8 @@
 
 # 愿景
 成为 `App Store` 用户信赖的省钱助手，让更多人都能以优惠的价格购买到自己喜欢的应用
+# 为什么会有这个项目
+App 价格经常变化，手动检查既繁琐也容易错过优惠。本项目会自动追踪付费榜单与已收录应用的价格变化，并通过订阅渠道推送折扣信息，帮助用户更及时地发现值得购买的应用。
 # 特性
 
 * 支持任意 `国家或地区` 的 `App Store` （理论上🤔）
@@ -66,6 +69,18 @@
 点击 [![dingtalk](https://img.alicdn.com/imgextra/i3/O1CN01WMvMRG1ks3Ixc9x1v_!!6000000004738-55-tps-32-32.svg "dingtalk")](https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11 "dingtalk") 订阅
 # 运行机制及流程
 本项目基于 `GitHub Actions` 定时任务（每 `120` 分钟）自动执行以下流程：
+```mermaid
+flowchart LR
+  A["获取付费排行榜应用信息"] --> B["更新跟踪应用列表"]
+  B --> C["获取应用最新价格信息"]
+  C --> D["读取已存储价格信息"]
+  D --> E["计算折扣信息"]
+  E --> F["更新最新价格信息"]
+  F --> G["更新RSS文件"]
+  F --> H["推送通知到Telegram"]
+  F --> I["推送通知到钉钉"]
+```
+
 1. 获取付费排行榜应用信息
 2. 更新跟踪应用列表
 3. 获取应用最新价格信息
