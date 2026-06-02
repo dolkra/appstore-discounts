@@ -4240,7 +4240,8 @@
       "Beethoven: The Mutopia Collection": "0,99 €",
       "Verdi: The Mutopia Collection": "0,00 €",
       "Bach: The Mutopia Collection": "0,99 €",
-      "Mozart: The Mutopia Collection": "0,99 €"
+      "Mozart: The Mutopia Collection": "0,99 €",
+      "Burgmüller: The Mutopia Collection": "0,00 €"
     },
     "minPriceInfo": {
       "price": 29.99,
@@ -4267,9 +4268,29 @@
       "Beethoven: The Mutopia Collection": "0,99 €",
       "Verdi: The Mutopia Collection": "0,00 €",
       "Bach: The Mutopia Collection": "0,99 €",
-      "Mozart: The Mutopia Collection": "0,99 €"
+      "Mozart: The Mutopia Collection": "0,99 €",
+      "Burgmüller: The Mutopia Collection": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780433363654,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €",
+            "Burgmüller: The Mutopia Collection": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778517355922,
@@ -5683,6 +5704,14 @@
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780433363654,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779650230794,
@@ -83311,6 +83340,23 @@
     "history": [
       [
         {
+          "timestamp": 1780433363654,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "9,99 €",
+            "Mystic Mayhem Pack": "4,99 €",
+            "Sun and Spice Bundle": "7,99 €",
+            "Santa Claws Card Back": "0,99 €",
+            "Santa Claws Pack": "4,99 €",
+            "Under the Tree location": "1,99 €",
+            "Santa Claws Emoji Pack": "0,99 €",
+            "All Wrapped Up outfit": "1,99 €",
+            "Snow Globe Outfit": "1,99 €",
+            "Mystic Mayhem Location": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1780417495421,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -106040,6 +106086,27 @@
       [
         {
           "timestamp": 1780372658995,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6772182116": {
+    "name": "Food Marshal",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780433363654,
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
