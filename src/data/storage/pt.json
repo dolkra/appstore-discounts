@@ -2728,14 +2728,22 @@
   "327963391": {
     "name": "Pedi STAT",
     "maxPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €"
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780372658995,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -8747,6 +8755,25 @@
       "Groove Machine Synth": "0,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780372658995,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Technocraft": "1,99 €",
+            "PsyTrance": "2,99 €",
+            "Brazil Bass": "1,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Essential Strings": "1,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780199459870,
@@ -79674,6 +79701,20 @@
     "history": [
       [
         {
+          "timestamp": 1780372658995,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Filtr": "5,99 €",
+            "Yearly Recurring Tip": "9,99 €",
+            "Monthly Recurring Tip": "1,99 €",
+            "Mega Tip": "22,99 €",
+            "Tip": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779593729991,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -105767,14 +105808,22 @@
   "6758201392": {
     "name": "Slime Rancher",
     "maxPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780372658995,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779875386311,
@@ -105910,6 +105959,27 @@
           "timestamp": 1780335522977,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6745230519": {
+    "name": "Windguru Spots: Wind Forecasts",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1780372658995,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
