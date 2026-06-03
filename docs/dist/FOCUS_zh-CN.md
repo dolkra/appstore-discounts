@@ -804,7 +804,7 @@
 |1241|1640679491|自动|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|Road Movie Premium|
 |1240|6569254072|自动|Watch闪卡|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|QuickNotes Flashcards Watch|
 |1239| ~~6748376912~~ |自动| ~~❌~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~石器大陸之獵龍時代~~ | ~~Dragon Hunt: Tribe Within~~ | ~~Dragon Hunt: Tribe Within~~ | ~~❌~~ |
-|1238|1533979882|自动|❌|Northgard|Northgard|Northgard|Northgard|Northgard|Northgard|
+|1238| ~~1533979882~~ |自动| ~~❌~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ | ~~Northgard~~ |
 |1237|1466088186|自动|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|BA II Plus Calculator|
 |1236|6746136017|自动|❌|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|Astrea: Six-Sided Oracles|
 |1235|1247294026|自动|练节奏|練節奏|練節奏|練節奏|Flying Beat - Rhythm Trainer|Flying Beat - Rhythm Trainer|Flying Beat Instrutor de Ritmo|
