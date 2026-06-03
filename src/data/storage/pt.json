@@ -5795,8 +5795,8 @@
   "385902072": {
     "name": "Guns'n'Glory Premium",
     "maxPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "0,49 €",
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
       "Dakota Map Pack": "0,99 €",
       "Alaska Map Pack": "0,99 €",
       "Unlock Everything": "8,99 €"
@@ -5809,6 +5809,18 @@
       "Unlock Everything": "8,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780441355738,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Dakota Map Pack": "0,99 €",
+            "Alaska Map Pack": "0,99 €",
+            "Unlock Everything": "8,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779638471104,
@@ -55078,6 +55090,20 @@
     "history": [
       [
         {
+          "timestamp": 1780441355738,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Forbidden Bundle": "7,99 €",
+            "The Exile": "5,99 €",
+            "The Priest": "1,99 €",
+            "The Ghoul": "1,99 €",
+            "The Dancer": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1773873543091,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -77009,6 +77035,14 @@
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780441355738,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779194971174,
@@ -99468,6 +99502,17 @@
       "Steyr Arms Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780441355738,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Hunter's Pack": "1,99 €",
+            "Steyr Arms Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779319139246,
