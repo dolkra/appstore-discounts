@@ -749,7 +749,7 @@
 |1297|1047815745|自动|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|Music With Grandma|
 |1296|1660616690|自动|OneTap Stream - PC Game Stream|OneTap Stream - PC Game Stream|OneTap Stream - PC Game Stream|OneTap Stream - PC Game Stream|OneTap Stream - PC Game Stream|OneTap Stream - PC Game Stream|OneTap Stream - PC Game Stream|
 |1295|6746699177|自动|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|Lysoniq|
-|1294|403977617|自动|❌|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|
+|1294|403977617|自动|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|Alien Shooter - Survive|
 |1293|686923970|自动|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|HRV4Training|
 |1292| ~~6749533872~~ |自动| ~~❌~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~石器狩獵勇士:原始人部落之戰~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |1291|6742139144|自动|❌|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|貓娘樂園 Love Project Vol.1|Nekopara Love Project Vol.1|Nekopara Love Project Vol.1|ネコぱら ラブプロジェクト Vol.1|
