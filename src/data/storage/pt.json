@@ -7096,10 +7096,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780611702332,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -19919,7 +19927,8 @@
       "Classic Bomb Tower Skin": "1,99 €",
       "Classic Dart Monkey Skin Sale": "0,99 €",
       "Classic Dart Monkey Skin": "1,99 €",
-      "Monte de Fichas": "5,99 €"
+      "Monte de Fichas": "5,99 €",
+      "Bananas Saudáveis": "0,99 €"
     },
     "minPriceInfo": {
       "price": 3.49,
@@ -19943,9 +19952,28 @@
       "Classic Bomb Tower Skin": "1,99 €",
       "Classic Dart Monkey Skin Sale": "0,99 €",
       "Classic Dart Monkey Skin": "1,99 €",
-      "Monte de Fichas": "5,99 €"
+      "Monte de Fichas": "5,99 €",
+      "Bananas Saudáveis": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780611702332,
+          "price": 3.49,
+          "formattedPrice": "3,49 €",
+          "inAppPurchases": {
+            "Modo Dinheiro Dobrado": "9,99 €",
+            "Torre Liberar Todas as Melhorias": "0,99 €",
+            "Bundle O' Monkey Money": "3,49 €",
+            "Bananas Saudáveis": "0,99 €",
+            "Monte de Dinheiro": "5,99 €",
+            "Cofre de Fichas": "9,99 €",
+            "Dinheiro de Macaco": "0,99 €",
+            "Passe de Nível": "0,99 €",
+            "Cofre de Dinheiro": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778346131929,
@@ -29507,6 +29535,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780611702332,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777848781235,
@@ -58972,6 +59008,25 @@
       "Emberwing Token": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780611702332,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "The Complete Collection": "39,99 €",
+            "Euro Trip": "3,99 €",
+            "Emberwing Token": "9,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780111446039,
@@ -97329,13 +97384,24 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Premium Annual": "9,99 €",
+      "Premium Annual": "6,99 €",
       "Premium Lifetime": "8,99 €",
       "Premium Lifetime-Early Bird": "19,99 €",
       "Premium Monthly": "0,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1780611702332,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Premium Annual": "6,99 €",
+            "Premium Lifetime": "9,99 €",
+            "Premium Lifetime-Early Bird": "19,99 €",
+            "Premium Monthly": "0,99 €"
+          }
+        },
         {
           "timestamp": 1780545566027,
           "price": 0,
