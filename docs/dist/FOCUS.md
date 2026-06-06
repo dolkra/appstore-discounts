@@ -135,7 +135,7 @@ So far, we've covered `7` `Countries or Regions` and  `2041` `Apps` <br />Push n
 |1916|1353471030|Automatic|❌|Terraforming Mars|Terraforming Mars|Terraforming Mars|Terraforming Mars|Terraforming Mars|Terraforming Mars|
 |1915|700740791|Automatic|Squeezy|Squeezy|Squeezy|Squeezy|Squeezy|Squeezy|Squeezy|
 |1914|1630157380|Automatic|GoGenius|GoGenius|GoGenius|GoGenius|GoGenius|GoGenius|GoGenius|
-|1913|6759071028|Automatic|A32X Tools|A32X Tools|A32X Tools|A32X Tools|A32X Tools|A32X Tools|A32X Tools|
+|1913|6759071028|Automatic|A32X Tools · A320 ECAM Resets|A32X Tools · A320 ECAM Resets|A32X Tools · A320 ECAM Resets|A32X Tools · A320 ECAM Resets|A32X Tools · A320 ECAM Resets|A32X Tools · A320 ECAM Resets|A32X Tools · A320 ECAM Resets|
 |1912|834315918|Automatic|❌|Space Marshals|Space Marshals|Space Marshals|Space Marshals|Space Marshals|Space Marshals|
 |1911|6761111279|Automatic|Lügat.|Lügat.|Lügat.|Lügat.|Lügat.|Lügat.|Lügat.|
 |1910|1536107653|Automatic|❌|Bike Baron 2|Bike Baron 2|Bike Baron 2|Bike Baron 2|Bike Baron 2|Bike Baron 2|

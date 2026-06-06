@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-06-05T23:42:05.860Z</updated>
+    <updated>2026-06-06T10:01:35.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-05T23:42:05.861Z</updated>
+        <updated>2026-06-06T10:01:35.313Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrFri, 05 Jun 2026 23:42:05 GMT</id>
+        <id>rankingtrSat, 06 Jun 2026 10:01:35 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-05T23:42:05.862Z</updated>
+        <updated>2026-06-06T10:01:35.313Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -418,6 +418,23 @@ feedId:157008924688563200+userId:73658201673997312
       </td>
       <td>
         <a href="https://apps.apple.com/tr/app/id6446021269">MEGA MAN X DiVE Offline</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>20</b>
+      </td>
+      <td>
+        <a href="https://apps.apple.com/tr/app/id6762970009">Otoparkçı</a>
       </td>
       <td>
         <ul>
@@ -1161,6 +1178,30 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Otoparkçı]]></title>
+        <id>Otoparkçı-tr-1780734803849</id>
+        <link href="https://apps.apple.com/tr/app/otopark%C3%A7%C4%B1/id6762970009?uo=4"/>
+        <updated>2026-06-06T08:33:23.849Z</updated>
+        <summary type="html"><![CDATA[Price: ₺19,99 → ₺9,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tr/app/otopark%C3%A7%C4%B1/id6762970009?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/82/86/1f/82861f71-c2a9-28b8-b2cc-c0a332761e70/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺19,99</span> → <b>
+  <strong>₺9,99</strong>
+</b><span>[₺9,99 ~ ₺19,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>₺9,99</b>
+</p><h2>Application Description</h2><p>
+  Otoparkçı’da küçük bir otoparkın başına geçiyorsun. İlk başta sadece birkaç park yerin var; ama doğru kararlarla kazancını artırıp otoparkını adım adım büyütebilirsin.
+
+Araçları uygun park alanlarına al, süreleri dolduğunda paranı topla ve müşteri memnuniyetini dengede tut. Hava durumu, gün içindeki yoğunluk ve verdiğin kararlar kazancını doğrudan etkiler. Bazen işler sakin gider, bazen de otopark bir anda dolup taşar.
+
+Yeni park yerleri aç, kapasiteni artır, gerektiğinde ek vardiya çağırarak işleri hızlandır. Her gün daha fazla kazanmak için fiyat, memnuniyet ve yoğunluk dengesini iyi kurman gerekir.
+
+Basit görünen ama doğru hamlelerle büyüyen bir otopark işletmeye hazır mısın?
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DungeonSquad]]></title>
