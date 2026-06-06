@@ -106495,8 +106495,8 @@
   "6753721284": {
     "name": "BikeControl",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "4,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "Full Version Unlock": "4,99 €",
       "BikeControl Pro": "2,79 €",
       "BikeControl Pro - Yearly": "24,99 €"
@@ -106509,6 +106509,17 @@
       "BikeControl Pro - Yearly": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1780773771362,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "BikeControl Pro": "2,79 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779826154618,
