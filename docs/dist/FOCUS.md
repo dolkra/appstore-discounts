@@ -1154,7 +1154,7 @@ So far, we've covered `7` `Countries or Regions` and  `2044` `Apps` <br />Push n
 |900|1574339556|Automatic|❌|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|Game Booster 4x|
 |899|6453763474|Automatic|❌|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|Hidden Through Time 2: Magic|
 |898|6477535804|Automatic|❌|虛空穹牢|虛空穹牢|虛空穹牢|Vault of the Void|Vault of the Void|Vault of the Void|
-|897|6730126160|Automatic|戏曲锣鼓 - 传统戏曲打击乐演奏|戲曲鑼鼓 - 傳統戲曲打擊樂演奏|戲曲鑼鼓 - 傳統戲曲打擊樂演奏|戲曲鑼鼓 - 傳統戲曲打擊樂演奏|戏曲锣鼓 - 传统戏曲打击乐演奏|戏曲锣鼓 - 传统戏曲打击乐演奏|戏曲锣鼓 - 传统戏曲打击乐演奏|
+|897|6730126160|Automatic|锣鼓 - 戏曲锣鼓｜电子锣鼓打击垫｜虚拟民族乐器｜演奏模拟器|锣鼓 - 戲曲鑼鼓｜電子鑼鼓打擊墊｜虛擬民族樂器｜演奏模擬器|锣鼓 - 戲曲鑼鼓｜電子鑼鼓打擊墊｜虛擬民族樂器｜演奏模擬器|锣鼓 - 戲曲鑼鼓｜電子鑼鼓打擊墊｜虛擬民族樂器｜演奏模擬器|锣鼓 - 戏曲锣鼓｜电子锣鼓打击垫｜虚拟民族乐器｜演奏模拟器|锣鼓 - 戏曲锣鼓｜电子锣鼓打击垫｜虚拟民族乐器｜演奏模拟器|锣鼓 - 戏曲锣鼓｜电子锣鼓打击垫｜虚拟民族乐器｜演奏模拟器|
 |896|6449986941|Automatic|❌|❌|❌|常春藤108課綱核心單字|常春藤108課綱核心單字|常春藤108課綱核心單字|常春藤108課綱核心單字|
 |895|1115520522|Automatic|姬魔恋战纪-单机剧情手游戏|❌|❌|❌|姬魔恋战纪-单机剧情手游戏|姬魔恋战纪-单机剧情手游戏|姬魔恋战纪-单机剧情手游戏|
 |894|1322877018|Automatic|地震 - DataX Earthquake|地震 - DataX Earthquake|地震 - DataX Earthquake|地震 - DataX Earthquake|DataX Earthquake|DataX Earthquake|Terremoto - DataX Earthquake|
