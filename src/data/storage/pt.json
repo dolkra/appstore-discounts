@@ -17001,6 +17001,31 @@
       ]
     ]
   },
+  "539397400": {
+    "name": "nPlayer Plus",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Upgrade (ONLY FOR 2.x VERSION USERS)": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Upgrade (ONLY FOR 2.x VERSION USERS)": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781016655027,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Upgrade (ONLY FOR 2.x VERSION USERS)": "2,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "540925500": {
     "name": "Need for Speed™ Most Wanted",
     "maxPriceInfo": {
@@ -104509,10 +104534,18 @@
       "formattedPrice": "4,99 €"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "4,99 €"
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781016655027,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1772254726869,
