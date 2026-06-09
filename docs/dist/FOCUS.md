@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2045` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2046` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2046|6763830287|Automatic|Killavic Cheat Codes|Killavic Cheat Codes|Killavic Cheat Codes|Killavic Cheat Codes|Killavic Cheat Codes|Killavic Cheat Codes|Killavic Cheat Codes|
 |2045|6736359713|Automatic|y2kam|y2kam|y2kam|y2kam|y2kam|y2kam|y2kam|
 |2044|6762288718|Automatic|❌|What's the Password?|What's the Password?|What's the Password?|What's the Password?|What's the Password?|What's the Password?|
 |2043|1450635907|Automatic|❌|殭屍夜驚魂|殭屍夜驚魂|殭屍夜驚魂|Zombie Night Terror|Zombie Night Terror|Zombie Night Terror|
@@ -689,9 +690,9 @@ So far, we've covered `7` `Countries or Regions` and  `2045` `Apps` <br />Push n
 |1366|1561658854|Automatic|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|Battery Widget 2.0|❌|
 |1365|1350599517|Automatic|FoodyLife: The Food Diary App|吃貨人生 飲食紀錄App|吃貨人生 飲食紀錄App|吃貨人生 飲食紀錄App|FoodyLife : The Food Diary App|FoodyLife: The Food Diary App|FoodyLife: The Food Diary App|
 |1364|1331393380|Automatic|❌|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|
-|1363|6749132733|Automatic|❌|❌|❌|女王的遊戲：盛世天下 媚娘篇|❌|❌|❌|
+|1363|6749132733|Automatic|❌|❌|❌|女王的遊戲-盛世天下|❌|❌|❌|
 |1362|6743148949|Automatic|盛世天下：女王的游戏|❌|❌|❌|❌|❌|❌|
-|1361|6741892043|Automatic|❌|Road to Empress - 盛世天下 媚娘篇|Road to Empress - 盛世天下 媚娘篇|❌|Road to Empress|Road to Empress|Road to Empress|
+|1361|6741892043|Automatic|❌|女王的遊戲：盛世天下|女王的遊戲：盛世天下|❌|Road to Empress|Road to Empress|Road to Empress|
 |1360|6740349855|Automatic|❌|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|
 |1359|6743611124|Automatic|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|
 |1358|1458687087|Automatic|❌|我的孩子: 生命之泉|我的孩子: 生命之泉|我的孩子: 生命之泉|❌|❌|❌|
