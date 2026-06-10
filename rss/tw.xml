@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2026-06-09T18:52:07.364Z</updated>
+    <updated>2026-06-10T04:59:04.228Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008546980077568+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcometw</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-09T18:52:07.364Z</updated>
+        <updated>2026-06-10T04:59:04.230Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008546980077568+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingtwTue, 09 Jun 2026 18:52:07 GMT</id>
+        <id>rankingtwWed, 10 Jun 2026 04:59:04 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-09T18:52:07.364Z</updated>
+        <updated>2026-06-10T04:59:04.230Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>中国香港(HK)</li><li>中国澳门(MO)</li><li>
@@ -539,6 +539,29 @@ feedId:157008546980077568+userId:73658201673997312
         <b>27</b>
       </td>
       <td>
+        <a href="https://apps.apple.com/tw/app/id1662217862">Wipr 2</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App內購買</span><ol>
+              <li>
+                <i>Filtr</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>28</b>
+      </td>
+      <td>
         <a href="https://apps.apple.com/tw/app/id6749132733">女王的遊戲-盛世天下</a>
       </td>
       <td>
@@ -559,7 +582,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6446021269">ROCKMAN X DiVE Offline</a>
@@ -576,7 +599,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6447606411">創意咖啡店物語</a>
@@ -593,7 +616,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6505046490">摔角擂臺物語</a>
@@ -610,7 +633,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6746649752">MagicKit Pro：AI智慧工具箱</a>
@@ -627,7 +650,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6740553198">FlowDown - Open & Fast AI</a>
@@ -644,7 +667,7 @@ feedId:157008546980077568+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://apps.apple.com/tw/app/id6736900640">Countless Army Mobile Edition</a>
@@ -1447,6 +1470,57 @@ feedId:157008546980077568+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wipr 2]]></title>
+        <id>Wipr 2-tw-1781062871238</id>
+        <link href="https://apps.apple.com/tw/app/wipr-2/id1662217862?uo=4"/>
+        <updated>2026-06-10T03:41:11.238Z</updated>
+        <summary type="html"><![CDATA[Filtr: $790.00 → $150.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/wipr-2/id1662217862?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/86/cc/d986cc80-ea0a-19a2-f5d9-f09bde4a81b2/AppIcon-0-0-1x_U007epad-0-0-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App內購買</h3><ul>
+  <li>
+    <strong>Filtr：</strong><span>$790.00</span> → <b>
+  <strong>$150.00</strong>
+</b><span>[$150.00 ~ $790.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>$150.00</b>
+</p><h3>App內購買</h3><ul>
+  <li>
+    Filtr：<b>$150.00</b>
+  </li><li>
+    Tip：<b>$150.00</b>
+  </li><li>
+    Yearly Recurring Tip：<b>$320.00</b>
+  </li><li>
+    Monthly Recurring Tip：<b>$60.00</b>
+  </li><li>
+    Mega Tip：<b>$690.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Wipr blocks ads, popups, trackers, cookie warnings, and other nasty things that make the web slow and ugly.
+
+Websites in Safari will look clean, load fast, and stop invisibly tracking you. You’ll notice significant improvements to your battery life and data usage. Setup is a snap.
+
+The Filtr add-on extends Wipr’s blocking to all apps on your device. It acts at the network level, but unlike a VPN, it can access none of your data, and can be used in conjunction with VPNs, iCloud Private Relay, and custom DNS.
+
+Wipr’s blocklist is updated twice a week automatically, and has enhanced versions for the following languages: Bosnian, Chinese, Croatian, Czech, Danish, Dutch, Estonian, Finnish, French, German, Greek, Hebrew, Hindi, Hungarian, Icelandic, Indonesian, Italian, Japanese, Korean, Macedonian, Malay, Montenegrin, Norwegian, Polish, Romanian, Russian, Serbian, Slovak, Spanish, Thai, and Vietnamese.
+
+Wipr is a universal app: install it on all your devices (iPhone, iPad, Mac, Vision Pro) with a single purchase. It’s fully accessible with VoiceOver, Voice Control, and more. Dark, Tinted, and Clear icon variants are included. Family Sharing is supported.
+
+Because it’s developed by a single independent developer and 100% funded by its users, Wipr only answers to you: no one can pay to have their ads unblocked, and there are no “acceptable ads”.
+
+This app was made with love and patience. I hope you’ll enjoy using it as much as I enjoyed designing and building it.
+
+– Kaylee
+
+
+
+Terms & Conditions: https://kaylees.site/terms-and-conditions.html
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[化學 - 元素週期表 2026]]></title>
         <id>化學 - 元素週期表 2026-tw-1781025895112</id>
         <link href="https://apps.apple.com/tw/app/%E5%8C%96%E5%AD%B8-%E5%85%83%E7%B4%A0%E9%80%B1%E6%9C%9F%E8%A1%A8-2026/id1576004936?uo=4"/>
@@ -1807,50 +1881,5 @@ MagicKit AI 是一款完整的實用工具應用程式，專為 iOS 設計，幫
 
 立即下載 MagicKit AI，使用一款智慧又強大的工具箱，簡化您的日常工作與生活！
 </p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[化學 - 元素週期表 2026]]></title>
-        <id>化學 - 元素週期表 2026-tw-1780804514489</id>
-        <link href="https://apps.apple.com/tw/app/%E5%8C%96%E5%AD%B8-%E5%85%83%E7%B4%A0%E9%80%B1%E6%9C%9F%E8%A1%A8-2026/id1576004936?uo=4"/>
-        <updated>2026-06-07T03:55:14.489Z</updated>
-        <summary type="html"><![CDATA[价格: $320.00 → $30.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%8C%96%E5%AD%B8-%E5%85%83%E7%B4%A0%E9%80%B1%E6%9C%9F%E8%A1%A8-2026/id1576004936?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/d1/76/7dd1760e-85eb-10de-ed46-c50b4427a7dd/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$320.00</span> → <b>
-  <strong>$30.00</strong>
-</b><span>[免費 ~ $690.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>$30.00</b>
-</p><h2>应用描述</h2><p>
-  在我们创新的3D应用中，发现元素周期表的全新世界！沉浸在全新、视觉上令人惊叹的元素世界中。我们的应用提供极简和引人入胜的体验，使探索元素周期表成为一次独特而引人入胜的旅程。
-
-通过我们直观的界面和极简设计，您可以轻松浏览各个元素。每个元素在引人入胜的3D环境中栩栩如生，让您以前所未有的方式可视化其结构。观察元素如何相互作用，以全新的视角揭示它们的性质。
-
-想要了解特定元素更多吗？我们的应用提供有关每个元素的详细且易于理解的信息，涵盖从其物理和化学性质到历史和实际用途的所有方面。学习元素周期表从未如此易于获取和令人兴奋。
-
-我们的应用非常适合学生、专业人士和科学爱好者。无论您是学习化学还是只是对元素世界感到好奇，我们的3D应用都提供了一种教育性和富有娱乐性的体验。
-
-立即下载，沉浸在元素周期表之美中，以前所未有的方式探索、学习并着迷！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/bc/dd/c9bcdd68-b280-623f-5432-8518cbff35d3/ef5148ab-7e10-4514-a6e2-e1c009a6bd55_iPhone1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/ff/cc/dfffcc61-0d3c-92ca-3ca5-10932c2c4f51/b6e4e087-242d-46e8-872b-0f3942c1ff6c_iPhone2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/48/47/d3484745-c6c8-608f-61aa-9d83ee438dc6/db2a9ccb-33fb-45e5-9f7b-3674e171ccb0_iPhone3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/4e/75/a24e7565-a829-f072-251a-c44e52bd02a3/aee91e27-8b54-4227-baf7-d4d16e851fc8_iPhone4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/e2/83/6ce28374-7196-85bb-e56e-9dde639fb706/44ef36cf-7d05-4e58-bd0b-7d9e24e92fc7_iPhone5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/5c/9b/eb5c9b4b-606e-94ff-66cb-0c6f7f9e4575/b4ae070e-ed0f-4c1e-b523-14db4d639032_iPadPro1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/22/72/49227284-54fe-3469-28f6-44f355dda1b8/c168846b-0263-4a2d-a6f1-23f5e3d61f6b_iPadPro2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/0a/5c/9f0a5c7f-eb6c-d6fb-2874-6cf7ce354d86/c95a8834-1d5a-4f62-9c0e-d32e98427232_iPadPro3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/c9/d6/76c9d636-eb39-28d8-af2a-4f23141babb2/4bd5dbc0-c6c4-4e89-affd-52df5a6f461b_iPadPro4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/74/db/2374dbb1-ed88-9b50-5e5f-726dfa413015/449a5f85-4e40-4b60-9ab5-4d611451effc_iPadPro5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[全能備忘錄]]></title>
-        <id>全能備忘錄-tw-1780804514489</id>
-        <link href="https://apps.apple.com/tw/app/%E5%85%A8%E8%83%BD%E5%82%99%E5%BF%98%E9%8C%84/id1587301632?uo=4"/>
-        <updated>2026-06-07T03:55:14.489Z</updated>
-        <summary type="html"><![CDATA[价格: $120.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/%E5%85%A8%E8%83%BD%E5%82%99%E5%BF%98%E9%8C%84/id1587301632?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/59/96/8959968b-9509-d517-6970-bf90d931691e/AppIcon-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>$120.00</span> → <b>
-  <strong>免費</strong>
-</b><span>[免費 ~ $120.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免費</b>
-</p><h2>应用描述</h2><p>
-  Keep the words, pictures, videos, voice and positions you want to record at any time and anywhere.
-And there are reminders that you can never forget.
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/d9/b7/21d9b748-5450-6c9a-126d-c89003a8706e/f800892f-a55d-455c-ade4-0eeb7b43b15c_8plus01en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9f/6d/bb/9f6dbb7c-38ee-d336-0747-931bdecc3bad/5e170518-34df-42b6-8675-19706b96808a_8plus02en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/4c/06/6e4c06dd-7d88-b505-c4b1-8065c89e9d44/95dcaa79-2c3f-4159-8629-21d5c4bfd435_8plus03en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e1/cc/49/e1cc49e8-6363-7f7a-d413-2b7ea3000986/be9ed823-cb8b-45ac-9c87-62c0df31eb63_8plus04en.png/392x696bb.png" />]]></content>
     </entry>
 </feed>
