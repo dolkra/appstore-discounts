@@ -26074,6 +26074,18 @@
     "history": [
       [
         {
+          "timestamp": 1781123418585,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Waterlogue Unlimited (Monthly)": "3,99 €",
+            "Waterlogue Unlimited (Yearly)": "9,99 €",
+            "Waterlogue Unlimited (Lifetime)": "34,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775415360407,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -73029,15 +73041,29 @@
       "price": 11.99,
       "formattedPrice": "11,99 €",
       "Dune: Imperium - Rise of Ix": "9,99 €",
-      "Dune: Imperium - Immortality": "9,99 €"
+      "Dune: Imperium - Immortality": "9,99 €",
+      "Dune: Imperium - Uprising": "11,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
       "formattedPrice": "7,99 €",
       "Dune: Imperium - Rise of Ix": "8,99 €",
-      "Dune: Imperium - Immortality": "9,99 €"
+      "Dune: Imperium - Immortality": "9,99 €",
+      "Dune: Imperium - Uprising": "11,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781123418585,
+          "price": 11.99,
+          "formattedPrice": "11,99 €",
+          "inAppPurchases": {
+            "Dune: Imperium - Rise of Ix": "9,99 €",
+            "Dune: Imperium - Immortality": "9,99 €",
+            "Dune: Imperium - Uprising": "11,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779746890806,
@@ -88754,6 +88780,25 @@
       "P-38 Lightning": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781123418585,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Global scenery - 12 months": "19,99 €",
+            "Robin DR400": "0,99 €",
+            "Junkers Ju 52": "0,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Airbus A321": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780975791228,
