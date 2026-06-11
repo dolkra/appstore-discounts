@@ -43823,16 +43823,31 @@
       "formattedPrice": "34,99 €",
       "Monthly": "2,99 €",
       "Annual": "19,99 €",
-      "Core License": "34,99 €"
+      "Core License": "34,99 €",
+      "External Camera Mode": "22,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
       "Monthly": "2,99 €",
       "Annual": "19,99 €",
-      "Core License": "34,99 €"
+      "Core License": "34,99 €",
+      "External Camera Mode": "22,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781150257304,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "External Camera Mode": "22,99 €",
+            "Monthly": "2,99 €",
+            "Annual": "19,99 €",
+            "Core License": "34,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779525017362,
@@ -88859,6 +88874,25 @@
     "history": [
       [
         {
+          "timestamp": 1781150257304,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 737": "0,99 €",
+            "Robinson R-22": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Global scenery - 12 months": "19,99 €",
+            "Robin DR400": "0,99 €",
+            "Junkers Ju 52": "0,99 €",
+            "Boeing 737 MAX 9": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1781123418585,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -106036,6 +106070,14 @@
       "疫苗接種紀錄解鎖": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781150257304,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780335522977,
