@@ -969,7 +969,7 @@
 |1090|1659903900|自动|❌|Super Mega Lucky Box|Super Mega Lucky Box|Super Mega Lucky Box|Super Mega Lucky Box|Super Mega Lucky Box|Super Mega Lucky Box|
 |1089|981485539|自动|Wise Pilgrim Camino del Norte|Wise Pilgrim Camino del Norte|Wise Pilgrim Camino del Norte|Wise Pilgrim Camino del Norte|Wise Pilgrim Camino del Norte|Wise Pilgrim Camino del Norte|Wise Pilgrim Camino del Norte|
 |1088|1077134281|自动|节拍器 : Smart Metronome & Tuner+|节拍器 : Smart Metronome & Tuner+|节拍器 : Smart Metronome & Tuner+|节拍器 : Smart Metronome & Tuner+|Smart Metronome & Tuner +|Smart Metronome & Tuner +|Smart Metronome & Tuner +|
-|1087|6478203259|自动|❌|文字工廠|文字工廠|文字工廠|Woord Factory|Woord Factory|Woord Factory|
+|1087|6478203259|自动|❌|文字工廠：自動化|文字工廠：自動化|文字工廠：自動化|Text Factory: Automation|Text Factory: Automation|Text Factory: Automation|
 |1086|6499549945|自动|❌|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|Football Chairman Pro 2|
 |1085|675049147|自动|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|SmallFish Chess for Stockfish|
 |1084|1121659254|自动|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|江湖风云录-超自由武侠剧情角色扮演手游|
