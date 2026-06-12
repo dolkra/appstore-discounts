@@ -24085,6 +24085,14 @@
     "history": [
       [
         {
+          "timestamp": 1781303116070,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1781062871238,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -74457,6 +74465,14 @@
     "history": [
       [
         {
+          "timestamp": 1781303116070,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780804514489,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -82360,7 +82376,7 @@
       "formattedPrice": "3,99 €",
       "终身会员": "22,99 €",
       "Liftetime": "22,99 €",
-      "年订阅": "5,99 €",
+      "年订阅": "9,99 €",
       "月订阅": "6,99 €"
     },
     "minPriceInfo": {
@@ -82373,6 +82389,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1781303116070,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Liftetime": "17,99 €",
+            "年订阅": "9,99 €",
+            "月订阅": "6,99 €"
+          }
+        },
         {
           "timestamp": 1781276299651,
           "price": 0,
