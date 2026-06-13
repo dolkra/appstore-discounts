@@ -7,7 +7,7 @@
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|2052|1529092958|自动|Awesomatix Toolbox|Awesomatix Toolbox|❌|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
+|2052|1529092958|自动|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
 |2051|6760948683|自动|❌|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|
 |2050|6754315964|自动|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|
 |2049|6759248276|自动|SIMHub|esimSubscription|esimSubscription|esimSubscription|esimSubscription|esimSubscription|SIMHub|

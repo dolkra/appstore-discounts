@@ -7,7 +7,7 @@ So far, we've covered `7` `Countries or Regions` and  `2052` `Apps` <br />Push n
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|2052|1529092958|Automatic|Awesomatix Toolbox|Awesomatix Toolbox|❌|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
+|2052|1529092958|Automatic|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
 |2051|6760948683|Automatic|❌|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|
 |2050|6754315964|Automatic|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|
 |2049|6759248276|Automatic|SIMHub|esimSubscription|esimSubscription|esimSubscription|esimSubscription|esimSubscription|SIMHub|
