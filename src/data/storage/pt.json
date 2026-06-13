@@ -8942,6 +8942,25 @@
     "history": [
       [
         {
+          "timestamp": 1781322102650,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "PsyTrance": "2,99 €",
+            "DubTechno": "1,99 €",
+            "Brazil Bass": "1,99 €",
+            "Synth Lead": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1781259199000,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -66604,6 +66623,27 @@
       ]
     ]
   },
+  "1529092958": {
+    "name": "Awesomatix Toolbox",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781322102650,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1529445840": {
     "name": "Reeder Classic",
     "maxPriceInfo": {
@@ -89233,6 +89273,25 @@
     "history": [
       [
         {
+          "timestamp": 1781322102650,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Swift": "0,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Robinson R-22": "0,99 €",
+            "Global scenery - 12 months": "19,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Airbus A321": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1781286039810,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -93666,8 +93725,8 @@
       "Treinamento Especial": "9,99 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "120 Ouro": "1,99 €",
       "Expansão de Mochila": "1,99 €",
       "Recompensas Duplas de Combate": "1,99 €",
@@ -93684,6 +93743,25 @@
       "Treinamento Especial": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781322102650,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "120 Ouro": "1,99 €",
+            "Expansão de Mochila": "1,99 €",
+            "Recompensas Duplas de Combate": "1,99 €",
+            "3280 Ouro": "59,99 €",
+            "1280 Ouro": "22,99 €",
+            "300 Ouro": "5,99 €",
+            "980 Ouro": "17,99 €",
+            "6480 Ouro": "99,99 €",
+            "1980 Ouro": "34,99 €",
+            "60 Ouro": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767618102650,
