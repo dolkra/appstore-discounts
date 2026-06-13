@@ -32971,6 +32971,22 @@
     "history": [
       [
         {
+          "timestamp": 1781388259761,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "13 Gems": "8,99 €",
+            "1 Gem": "0,99 €",
+            "6 Gems": "3,99 €",
+            "28 Gems": "17,99 €",
+            "48 Gems": "29,99 €",
+            "150 Gems": "89,99 €",
+            "74 Gems": "49,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779319139246,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -108899,6 +108915,27 @@
           "timestamp": 1781276299651,
           "price": 6.99,
           "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6777231093": {
+    "name": "Patrol Officer",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781388259761,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
