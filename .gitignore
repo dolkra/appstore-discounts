@@ -2,3 +2,7 @@ node_modules
 .DS_Store
 .log
 .env
+src/web/.wrangler
+src/web/pnpm-lock.yaml
+src/web/tsconfig.tsbuildinfo
+src/web/dist

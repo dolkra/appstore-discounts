@@ -5,7 +5,7 @@ import { getRegionNameMap, regions, regionTimezoneMap } from 'appinfo.config'
 import React, { render } from 'jsx-to-md'
 import { resolve } from 'node:path'
 import { writeFileSync } from 'node:fs'
-import { getAppStoreUrl } from '../utils'
+import { getAppUrl } from '../utils'
 
 export interface generateRSSProps {
   timestamp: number
@@ -170,9 +170,7 @@ function getDescriptionAndContent(logInfo: LogInfo) {
                         <ul>
                           <li>{trackId}</li>
                           <li>
-                            <a href={getAppStoreUrl(region, trackId)}>
-                              {trackName}
-                            </a>
+                            <a href={getAppUrl(region, trackId)}>{trackName}</a>
                           </li>
                         </ul>
                       </td>

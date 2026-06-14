@@ -37,7 +37,7 @@ const links = [
   },
   {
     title: 'dingtalk',
-    href: 'https://qr.dingtalk.com/action/joingroup?code=v1,k1,o9TXTPxGRNhCmrTUa4cHymeJCIcRiimCsH4FqEnbEWU=&_dt_no_comment=1&origin=11',
+    href: 'https://qr.dingtalk.com/action/joingroup?code=v1,k1,tzuNlnnwVLRCmrTUa4cHymeJCIcRiimCcPThTO3THLQ=&_dt_no_comment=1&origin=11',
   },
 ] as const
 

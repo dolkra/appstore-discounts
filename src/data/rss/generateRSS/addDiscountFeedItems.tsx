@@ -3,6 +3,7 @@ import { Feed } from 'feed'
 import { getTranslate } from '@/data/i18n'
 import { regionInAppPurchasesTextMap } from 'appinfo.config'
 import { Translate } from 'i18n-pro'
+import { getAppUrl } from '@/data/utils'
 
 function getShowDescription(discountInfo: DiscountInfo) {
   const { discounts } = discountInfo
@@ -38,7 +39,7 @@ function getShowContent(
 ) {
   const {
     discounts,
-    trackViewUrl,
+    trackId,
     description,
     artworkUrl60,
     screenshotUrls = [],
@@ -146,7 +147,7 @@ function getShowContent(
 
   return render(
     <>
-      <a href={trackViewUrl}>
+      <a href={getAppUrl(region, trackId)}>
         <img src={artworkUrl60} />
       </a>
       {discountInfoContent}
@@ -197,12 +198,12 @@ export default function addDiscountFeedItems(props: {
   const t = getTranslate(region)
 
   discountInfos.forEach((discountInfo) => {
-    const { timestamp, trackName, trackViewUrl } = discountInfo
+    const { timestamp, trackName, trackId } = discountInfo
 
     feed.addItem({
       title: `${trackName}`,
       id: `${trackName}-${region}-${timestamp}`,
-      link: trackViewUrl,
+      link: getAppUrl(region, trackId),
       description: getShowDescription(discountInfo),
       content: getShowContent(region, t, discountInfo),
       date: new Date(timestamp),

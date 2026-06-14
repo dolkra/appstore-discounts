@@ -7,7 +7,7 @@ import {
   regionInAppPurchasesTextMap,
   regions,
 } from 'appinfo.config'
-import { getAppStoreUrl } from '@/data/utils'
+import { getAppUrl, getAppsUrl } from '@/data/utils'
 import { isEmpty } from 'lodash'
 
 function getCount(appConfig: AppConfig[]) {
@@ -177,6 +177,9 @@ export default function addRankingFeedItem(props: {
             </tr>
           </tbody>
         </table>
+        <p>
+          <a href={getAppsUrl(region)}>{t('查看所有应用')}</a>
+        </p>
         <h2>
           {t('本月应用优惠次数排行')}({region.toUpperCase()})
         </h2>
@@ -198,9 +201,7 @@ export default function addRankingFeedItem(props: {
               const { appId, name, all, price, inAppPurchasesInfo } =
                 monthlyDiscountStat
 
-              const nameContent = (
-                <a href={getAppStoreUrl(region, appId)}>{name}</a>
-              )
+              const nameContent = <a href={getAppUrl(region, appId)}>{name}</a>
               const isDisabled = idDisableMap[appId]
 
               return (
@@ -256,7 +257,7 @@ export default function addRankingFeedItem(props: {
                     <b>{index + 1}</b>
                   </td>
                   <td>
-                    <a href={getAppStoreUrl(region, id)}>{name}</a>
+                    <a href={getAppUrl(region, id)}>{name}</a>
                   </td>
                   <td>{addType === 'auto' ? t('自动添加') : t('人为添加')}</td>
                 </tr>

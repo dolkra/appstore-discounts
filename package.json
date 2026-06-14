@@ -11,7 +11,8 @@
     "docs-i18n": "i18n t -P docs/src",
     "build": "rimraf dist/src && rollup -c",
     "rss": "tsx src/data/index.ts",
-    "rss-i18n": "npx i18n t -P src/data/i18n"
+    "rss-i18n": "npx i18n t -P src/data/i18n",
+    "generate-web-data": "tsx src/web/scripts/generateWebData.ts"
   },
   "author": "Eyelly Wu",
   "license": "MIT",

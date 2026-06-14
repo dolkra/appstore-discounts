@@ -1,0 +1,52 @@
+{
+  "name": "appstore-discounts-web",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "pnpm@10.11.1",
+  "pnpm": {
+    "packageExtensions": {}
+  },
+  "packages": [
+    "."
+  ],
+  "scripts": {
+    "dev": "(npm run api & vite)",
+    "api": "wrangler dev --port 8787",
+    "build": "tsc -b && vite build",
+    "postbuild": "node scripts/postbuild.js",
+    "preview": "vite preview",
+    "generate-data": "tsx scripts/generateWebData.ts",
+    "generate-sitemap": "tsx scripts/generateSitemap.ts",
+    "prebuild": "npm run generate-sitemap"
+  },
+  "dependencies": {
+    "@giscus/react": "^3.1.0",
+    "@i18n-pro/react": "^2.0.1",
+    "chart.js": "^4.4.7",
+    "chartjs-plugin-zoom": "^2.2.0",
+    "dayjs": "^1.11.13",
+    "hammerjs": "^2.0.8",
+    "i18n-pro": "3.0.0",
+    "lodash": "^4.17.21",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0"
+  },
+  "devDependencies": {
+    "@prerenderer/prerenderer": "^1.2.5",
+    "@prerenderer/renderer-puppeteer": "^1.2.4",
+    "@types/lodash": "^4.17.7",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.4",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "tsx": "^4.16.2",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0",
+    "wrangler": "^4.0.0"
+  }
+}

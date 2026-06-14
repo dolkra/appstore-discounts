@@ -3,6 +3,7 @@ import React, { render, H3, Bold, Italic, Break, Link } from 'jsx-to-md'
 import { start, end } from './timer'
 import { isEmpty } from 'lodash'
 import { getTranslate } from './i18n'
+import { getAppUrl } from './utils'
 
 function getMessage(region: Region, discountInfos: DiscountInfo[]) {
   const t = getTranslate(region)
@@ -21,7 +22,7 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
       </H3>
       <br />
       {discountInfos.map((discountInfo) => {
-        const { trackName, trackViewUrl, discounts = [] } = discountInfo
+        const { trackId, trackName, discounts = [] } = discountInfo
 
         const { price, inAppPurchase } = discounts.reduce(
           (res, discount) => {
@@ -67,7 +68,11 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
         return (
           <>
             {br}
-            <Bold>{render(<Link href={trackViewUrl}>{trackName}</Link>)}</Bold>
+            <Bold>
+              {render(
+                <Link href={getAppUrl(region, trackId)}>{trackName}</Link>,
+              )}
+            </Bold>
             {br}
             {inAppPurchase}
           </>

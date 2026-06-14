@@ -4,6 +4,7 @@ import React, { render } from 'jsx-to-md'
 import { start, end } from './timer'
 import { isEmpty } from 'lodash'
 import { getTranslate } from './i18n'
+import { getAppUrl } from './utils'
 
 function getMessage(region: Region, discountInfos: DiscountInfo[]) {
   const t = getTranslate(region)
@@ -19,7 +20,7 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
       </b>
       {'\n'}
       {discountInfos.map((discountInfo) => {
-        const { trackName, trackViewUrl, discounts = [] } = discountInfo
+        const { trackId, trackName, discounts = [] } = discountInfo
 
         const { price, inAppPurchase } = discounts.reduce(
           (res, discount) => {
@@ -65,7 +66,7 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
         return (
           <>
             {'\n'}
-            <a href={trackViewUrl}>
+            <a href={getAppUrl(region, trackId)}>
               <b>{trackName}</b>
             </a>
             {'\n'}

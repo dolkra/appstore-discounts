@@ -1,0 +1,7 @@
+allowBuilds:
+  '@alicloud/openapi-core': false
+  esbuild: false
+  protobufjs: false
+  puppeteer: false
+  sharp: false
+  workerd: false

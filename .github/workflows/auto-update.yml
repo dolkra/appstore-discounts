@@ -25,6 +25,9 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           DING_TALK_BOT_TOKEN: ${{ secrets.DING_TALK_BOT_TOKEN }}
 
+      - name: generate web data (src/web/data)
+        run: npm run generate-web-data
+
       - name: update README
         run: npx jtm run --watch false
 
