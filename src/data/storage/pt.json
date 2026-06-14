@@ -6179,6 +6179,14 @@
     "history": [
       [
         {
+          "timestamp": 1781445729568,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1781276299651,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -30379,6 +30387,23 @@
     "history": [
       [
         {
+          "timestamp": 1781445729568,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Free Checkpoints": "0,99 €",
+            "Unlock all stages": "0,99 €",
+            "Large Coin Pack": "2,99 €",
+            "Medium Coin Pack": "1,99 €",
+            "Small Coin Pack": "0,99 €",
+            "Pig": "0,99 €",
+            "Dog": "0,99 €",
+            "Rooster": "0,99 €",
+            "Monkey": "0,99 €",
+            "Goat": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1781429651595,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -45282,6 +45307,27 @@
           "timestamp": 1761797674362,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1193760955": {
+    "name": "O Jardim das Criaturas",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781445729568,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -73786,8 +73832,8 @@
   "1576004936": {
     "name": "Química Tabela Periódica 2026",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -73795,6 +73841,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1781445729568,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1781422082485,
           "price": 1.99,
@@ -107309,6 +107361,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781445729568,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780869851843,

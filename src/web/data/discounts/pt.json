@@ -1,23 +1,43 @@
 [
   {
-    "trackId": 1576004936,
+    "trackId": 391269557,
     "region": "pt",
-    "timestamp": 1781422082485,
+    "timestamp": 1781445729568,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
         "from": "9,99 €",
-        "to": "1,99 €",
-        "range": "[Gratuito ~ 9,99 €]"
+        "to": "6,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
       }
     ],
-    "price": 1.99,
-    "formattedPrice": "1,99 €",
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
     "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id1576004936",
-    "trackName": "Química Tabela Periódica 2026",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id391269557",
+    "trackName": "Apnea Trainer",
     "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6502634839,
+    "region": "pt",
+    "timestamp": 1781445729568,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
   },
   {
     "trackId": 983143183,
@@ -429,7 +449,7 @@
         "name": "Price",
         "from": "0,99 €",
         "to": "Gratuito",
-        "range": "[Gratuito ~ 9,99 €]"
+        "range": "[Gratuito ~ 22,99 €]"
       }
     ],
     "price": 0,
@@ -509,7 +529,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "0,99 €",
-        "range": "[Gratuito ~ 9,99 €]"
+        "range": "[Gratuito ~ 22,99 €]"
       }
     ],
     "price": 0.99,
@@ -1250,7 +1270,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "Gratuito",
-        "range": "[Gratuito ~ 9,99 €]"
+        "range": "[Gratuito ~ 22,99 €]"
       }
     ],
     "price": 0,
@@ -2630,7 +2650,7 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "1,99 €",
-        "range": "[Gratuito ~ 9,99 €]"
+        "range": "[Gratuito ~ 22,99 €]"
       }
     ],
     "price": 1.99,
@@ -11796,7 +11816,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "1,99 €",
-        "range": "[Gratuito ~ 9,99 €]"
+        "range": "[Gratuito ~ 22,99 €]"
       }
     ],
     "price": 1.99,
@@ -15082,7 +15102,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "3,99 €",
-        "range": "[Gratuito ~ 9,99 €]"
+        "range": "[Gratuito ~ 22,99 €]"
       }
     ],
     "price": 3.99,
