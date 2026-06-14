@@ -2,6 +2,506 @@
   {
     "trackId": 1576004936,
     "region": "pt",
+    "timestamp": 1781422082485,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[Gratuito ~ 9,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1576004936",
+    "trackName": "Química Tabela Periódica 2026",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 983143183,
+    "region": "pt",
+    "timestamp": 1781388259761,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id983143183",
+    "trackName": "Neo Monsters",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1662217862,
+    "region": "pt",
+    "timestamp": 1781341090979,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Filtr",
+        "from": "29,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1662217862",
+    "trackName": "Wipr 2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6478843819,
+    "region": "pt",
+    "timestamp": 1781322102650,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,29 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,29 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6478843819",
+    "trackName": "Lar, Planeta e Caçadores",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 675049147,
+    "region": "pt",
+    "timestamp": 1781303116070,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "5,99 €",
+        "range": "[Gratuito ~ 9,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id675049147",
+    "trackName": "SmallFish Chess for Stockfish",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6742044212,
+    "region": "pt",
+    "timestamp": 1781303116070,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Liftetime",
+        "from": "22,99 €",
+        "to": "17,99 €",
+        "range": "[17,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6742044212",
+    "trackName": "SnapKoin: Fast Expense Tracker",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 355460798,
+    "region": "pt",
+    "timestamp": 1781276299651,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id355460798",
+    "trackName": "Inspire Pro",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1359652100,
+    "region": "pt",
+    "timestamp": 1781218205241,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1359652100",
+    "trackName": "Dungeon Maker : Dark Lord",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1672164496,
+    "region": "pt",
+    "timestamp": 1781218205241,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1672164496",
+    "trackName": "Roundguard",
+    "firstRecordedAt": 1766840013092
+  },
+  {
+    "trackId": 6480058345,
+    "region": "pt",
+    "timestamp": 1781193638928,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6480058345",
+    "trackName": "Kaiju Attack 2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 549432607,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1001096601,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1012298403,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1012298403",
+    "trackName": "Don't Starve: Pocket Edition",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1147297267,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1147297267",
+    "trackName": "Don't Starve: Shipwrecked",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1438091392,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1438091392",
+    "trackName": "Human Fall Flat",
+    "firstRecordedAt": 1775070838694
+  },
+  {
+    "trackId": 1481181827,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1481181827",
+    "trackName": "Aces of the Luftwaffe Squadron",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1523633394,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1523633394",
+    "trackName": "SpongeBob SquarePants: BfBB",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1636423328,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1636423328",
+    "trackName": "Cat Quest II",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6445992619,
+    "region": "pt",
+    "timestamp": 1781131882596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6445992619",
+    "trackName": "SpongeBob - The Cosmic Shake",
+    "firstRecordedAt": 1767364108321
+  },
+  {
+    "trackId": 1581640677,
+    "region": "pt",
+    "timestamp": 1781043843746,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 0,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1581640677",
+    "trackName": "Football Referee Simulator",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6740553198,
+    "region": "pt",
+    "timestamp": 1781043843746,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 8,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6740553198",
+    "trackName": "FlowDown - Open & Fast AI",
+    "firstRecordedAt": 1772879524208
+  },
+  {
+    "trackId": 1576004936,
+    "region": "pt",
+    "timestamp": 1781025895112,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 9,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1576004936",
+    "trackName": "Química Tabela Periódica 2026",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6736900640,
+    "region": "pt",
+    "timestamp": 1781016655027,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "4,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 4,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6736900640",
+    "trackName": "Countless Army Mobile Edition",
+    "firstRecordedAt": 1772254726869
+  },
+  {
+    "trackId": 1287138671,
+    "region": "pt",
+    "timestamp": 1780958413934,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1287138671",
+    "trackName": "Thumper: Pocket Edition",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6746649752,
+    "region": "pt",
+    "timestamp": 1780916065163,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 3,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6746649752",
+    "trackName": "MagicKit Pro: AI Smart Toolbox",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1576004936,
+    "region": "pt",
     "timestamp": 1780804514489,
     "discounts": [
       {
@@ -1647,7 +2147,7 @@
     "formattedPrice": "0,90 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6741892043",
-    "trackName": "Road to Empress I",
+    "trackName": "Road to Empress",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -2420,7 +2920,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 8,99 €]"
+        "range": "[Gratuito ~ 8,99 €]"
       }
     ],
     "price": 3.99,
@@ -4673,7 +5173,7 @@
         "name": "Price",
         "from": "7,99 €",
         "to": "6,99 €",
-        "range": "[3,99 € ~ 8,99 €]"
+        "range": "[Gratuito ~ 8,99 €]"
       }
     ],
     "price": 6.99,
@@ -7434,7 +7934,7 @@
         "name": "Price",
         "from": "8,99 €",
         "to": "7,99 €",
-        "range": "[3,99 € ~ 8,99 €]"
+        "range": "[Gratuito ~ 8,99 €]"
       }
     ],
     "price": 7.99,
@@ -9548,7 +10048,7 @@
         "name": "Waterlogue Unlimited (Yearly)",
         "from": "8,99 €",
         "to": "5,99 €",
-        "range": "[5,99 € ~ 9,99 €]"
+        "range": "[5,99 € ~ 17,99 €]"
       }
     ],
     "price": 0,
