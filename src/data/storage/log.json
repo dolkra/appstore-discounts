@@ -1,5 +1,175 @@
 [
   {
+    "timestamp": 1781496952864,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 1632953327,
+          "trackName": "Tivimax IPTV Player (Premium)",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1449893235,
+          "trackName": "Earthquake Network",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1450064785,
+          "trackName": "山林日誌",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1477854253,
+          "trackName": "大家的日本語 初級 第二版",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [
+        {
+          "trackId": 504300412,
+          "trackName": "歐陸戰爭3",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 505367096,
+          "trackName": "世界迷霧",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tw": [
+        {
+          "trackId": 432791399,
+          "trackName": "Cloud Baby Monitor",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6443811423,
+          "trackName": "My Classic-復古遊戲機",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6449783315,
+          "trackName": "MedNotes -For Medical Students",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 398463868,
+          "trackName": "詰将棋",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 419606496,
+          "trackName": "Baby Shusher Sleep Miracle App",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [
+        {
+          "trackId": 1369253556,
+          "trackName": "Light | Long Exposure",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [
+        {
+          "trackId": 605274104,
+          "trackName": "Matthew Henry Study Bible",
+          "inAppPurchasesTimes": 3
+        },
+        {
+          "trackId": 6633412890,
+          "trackName": "Tiny Terraces",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 784265988,
+          "trackName": "Multi Track Song Recorder Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 932687167,
+          "trackName": "iSpreadsheet™",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1431466900,
+          "trackName": "Word Root Dictionary",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1519754224,
+          "trackName": "Spanish Word Parts",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1609059358,
+          "trackName": "eVario2  - Variometer Pro",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6702013134,
+          "trackName": "Cat Flow - Kitty Focus Timer",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "pt": [
+        {
+          "trackId": 6749406060,
+          "trackName": "Subnautica: Below Zero",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 385902072,
+          "trackName": "Guns'n'Glory Premium",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6760331891,
+          "trackName": "寶寶的每日陪伴計畫",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1406794157,
+          "trackName": "My Cooking Recipe -My dish app",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1422196592,
+          "trackName": "堪輿透明羅盤",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 1458977921,
+          "trackName": "Secret Vault - Cofre de Fotos",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6447090616,
+          "trackName": "Whisper Notes - Voz para Texto",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 510119487,
+          "trackName": "AnatomyMapp",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "1h42m41.789s",
+    "regionAppCount": {
+      "cn": 1009,
+      "hk": 1744,
+      "mo": 1740,
+      "tw": 1749,
+      "us": 1737,
+      "tr": 1732,
+      "pt": 1687
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1781474966430,
     "regionAppInfo": {
       "cn": [
@@ -94775,100 +94945,5 @@
     },
     "limitCount": 5,
     "inAppPurchasesScrapeType": "fetch"
-  },
-  {
-    "timestamp": 1780891201931,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [
-        {
-          "trackId": 1618333874,
-          "trackName": "重生長公主的日常",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 582584117,
-          "trackName": "Solocator - GPS Field Camera",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [
-        {
-          "trackId": 1128464707,
-          "trackName": "Death Road to Canada",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1633243177,
-          "trackName": "Ableton Note",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1633253544,
-          "trackName": "消除星星-益智的星星消消樂經典手錶消除遊戲",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tw": [
-        {
-          "trackId": 430270438,
-          "trackName": "Astro Gold Astrology",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6479307181,
-          "trackName": "靈體偵測器: 能量、超自然感測雷達",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "us": [
-        {
-          "trackId": 1665291391,
-          "trackName": "Watch PDF Reader",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 307025309,
-          "trackName": "iWriteWords",
-          "inAppPurchasesTimes": 20
-        },
-        {
-          "trackId": 6738282698,
-          "trackName": "RCS - Real Combat Simulator",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1198161469,
-          "trackName": "March to a Million",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tr": [
-        {
-          "trackId": 1458977921,
-          "trackName": "SecretVault Pro - Lock Photos",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "pt": [
-        {
-          "trackId": 6740814979,
-          "trackName": "Follow the meaning",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "1h45m45.818s",
-    "regionAppCount": {
-      "cn": 401,
-      "hk": 1734,
-      "mo": 1730,
-      "tw": 1740,
-      "us": 1727,
-      "tr": 1722,
-      "pt": 1676
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
   }
 ]
