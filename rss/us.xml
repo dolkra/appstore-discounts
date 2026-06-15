@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-06-15T14:14:56.064Z</updated>
+    <updated>2026-06-15T20:23:16.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-15T14:14:56.065Z</updated>
+        <updated>2026-06-15T20:23:16.151Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusMon, 15 Jun 2026 14:14:56 GMT</id>
+        <id>rankingusMon, 15 Jun 2026 20:23:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-15T14:14:56.065Z</updated>
+        <updated>2026-06-15T20:23:16.151Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,16 +51,16 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2060</b>
+        <b>2062</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1859</b>
+        <b>1861</b>
       </td>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1909</b>
+        <b>1911</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1733</b>
+        <b>1735</b>
       </td>
       <td>
-        <b>78</b>
+        <b>79</b>
       </td>
     </tr>
   </tbody>
@@ -97,7 +97,9 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1576004936?lang=en">Chemistry Periodic Table 2026</a>
+        <del>
+          <a href="https://appstore-discounts.eyelly.me/us/1576004936?lang=en">Chemistry Periodic Table 2026</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -1140,6 +1142,40 @@ feedId:157008699750812672+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>61</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6748572801?lang=en">Seoul Exorcist 1111: Roguelite</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>62</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en">Listenify</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -1722,7 +1758,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>64</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/598581396?lang=en">Kingdom Rush Frontiers TD</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1576004936?lang=en">Chemistry Periodic Table 2026</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1731,7 +1767,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>65</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/460661291?lang=en">Safety Note+ Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/598581396?lang=en">Kingdom Rush Frontiers TD</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1740,7 +1776,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>66</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/505904421?lang=en">AirDisk Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/460661291?lang=en">Safety Note+ Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1749,7 +1785,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>67</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1527841661?lang=en">Sandbox Planet</a>
+        <a href="https://appstore-discounts.eyelly.me/us/505904421?lang=en">AirDisk Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1758,7 +1794,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>68</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/431033044?lang=en">Phone Drive: File Storage Sync</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1527841661?lang=en">Sandbox Planet</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1767,7 +1803,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>69</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/456637671?lang=en">Safety Photo+Video Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/431033044?lang=en">Phone Drive: File Storage Sync</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1776,7 +1812,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>70</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1453318714?lang=en">Vostok — Story Maker</a>
+        <a href="https://appstore-discounts.eyelly.me/us/456637671?lang=en">Safety Photo+Video Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1785,7 +1821,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>71</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/818394449?lang=en">Timeline - World history</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1453318714?lang=en">Vostok — Story Maker</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1794,7 +1830,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>72</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1485101937?lang=en">Juice Watch</a>
+        <a href="https://appstore-discounts.eyelly.me/us/818394449?lang=en">Timeline - World history</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1803,7 +1839,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>73</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/488674899?lang=en">RAIN RADAR °- sky weather NOAA</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1485101937?lang=en">Juice Watch</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1812,7 +1848,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>74</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1361473095?lang=en">MuseDash</a>
+        <a href="https://appstore-discounts.eyelly.me/us/488674899?lang=en">RAIN RADAR °- sky weather NOAA</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1821,7 +1857,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>75</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/373454750?lang=en">随手记Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1361473095?lang=en">MuseDash</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1830,7 +1866,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>76</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/866450515?lang=en">Forest: Focus for Productivity</a>
+        <a href="https://appstore-discounts.eyelly.me/us/373454750?lang=en">随手记Pro</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1839,7 +1875,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>77</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/388624839?lang=en">CamScanner + | OCR Scanner</a>
+        <a href="https://appstore-discounts.eyelly.me/us/866450515?lang=en">Forest: Focus for Productivity</a>
       </td>
       <td>Artificially Added</td>
     </tr>
@@ -1848,12 +1884,92 @@ feedId:157008699750812672+userId:73658201673997312
         <b>78</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/us/388624839?lang=en">CamScanner + | OCR Scanner</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
+    <tr>
+      <td>
+        <b>79</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/us/1659622164?lang=en">VidHub -Video Library & Player</a>
       </td>
       <td>Artificially Added</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Seoul Exorcist 1111: Roguelite]]></title>
+        <id>Seoul Exorcist 1111: Roguelite-us-1781550232616</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6748572801?lang=en"/>
+        <updated>2026-06-15T19:03:52.616Z</updated>
+        <summary type="html"><![CDATA[Price: $4.99 → $1.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6748572801?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/f8/87/a1f887fe-6da3-8f11-a00a-cdc9f1fdb47e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$4.99</span> → <b>
+  <strong>$1.99</strong>
+</b><span>[$1.99 ~ $5.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$1.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    200,000 x Coins：<b>$9.99</b>
+  </li><li>
+    80,000 x Coins：<b>$4.99</b>
+  </li><li>
+    40,000 x Coins：<b>$2.99</b>
+  </li><li>
+    10,000 x Coins：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Think Fast, Strike Faster! As the ultimate exorcist, choose your attacks wisely, upgrade combat deck, combine traits and items, and save the cursed souls—before death finds you.
+
+▪ Real-Time Turn-Based Combat
+Enemies react the moment you make a decision—! Fast, tense action with every move.
+
+▪ 4 Characters with Unique Strategies
+Each with 8 uniques attack types, exclusive animations, and 2 passive traits. Adapt your playstyle for every run.
+
+▪ Time Limit - Think Fast, Strike Faster!
+You have just 7 minutes to defeat all enemies in each run. You've been relentlessly trained for this moment.
+
+▪ Item & Trait Combinations
+Strategic synergies that activate automatically during battle. Timing and adaptability are the keys to victory!
+
+▪ Roguelite
+Clear all 7 maps and the boss in a single run—or get reset! But clearing the same map 3 times unlocks progress. Collect coins, build a stronger deck, and dive back in!
+
+▪ 12 Languages Supported
+ Korean, English, Japanese, Simplified Chinese, Traditional Chinese, French, German, Italian, Spanish, Portuguese, Brazilian Portuguese, and Russian. 
+
+▪ Offline Game
+All data is stored locally. No network required. Be Aware. Uninstalling the app will erase saved data.
+
+▪Discord
+https://discord.gg/UaZApdWG93
+
+▪For inquires / bug report
+snowgames0629@gmail.com
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listenify]]></title>
+        <id>Listenify-us-1781550232616</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en"/>
+        <updated>2026-06-15T19:03:52.616Z</updated>
+        <summary type="html"><![CDATA[Price: $5.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/89/53/738953e7-1e11-c97f-051b-2beaef060179/AppIcon_iOS-0-0-1x_U007epad-0-0-0-1-0-85-220.jpeg/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$5.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$1.99 ~ $5.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$3.99</b>
+</p><h2>Application Description</h2><p>NAS music player，Support protocol: webdav, navidrome, subsonic, aliyundrive, emby</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/bb/38/ffbb385f-53c4-c8aa-cb0e-0fb97c52d743/28247fd3-5bd8-4bf2-a795-0789ac6c5ce8_listenify_ipad_2.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tokyo Train!]]></title>
@@ -2437,58 +2553,5 @@ X (Twitter): twitter.com/bpgames321
 Instagram: www.instagram.com/blackpearlgames
 Threads: www.threads.net/@blackpearlgames
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/09/3b/b5093b8a-6eca-c83d-89f5-0efa04a1ad0f/77213542-a8fa-4344-894c-2742ac02e60c_SC-1_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/61/9b/5e619b41-ce92-496f-748c-2c1205246121/63837a5a-7beb-4709-afc1-fa8ff5a50685_2_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/62/8c/13/628c1316-88fb-6952-3475-c691cc15292b/68c9ef59-4681-49bc-933a-c93375fcb931_SC-3_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/10/9a/19109a75-c4b5-a847-843b-79d7b4bf0478/7581365f-e5cc-4196-a8d6-75ab3c167f05_SC-4_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/59/47/c85947f2-1e4c-ad40-ebf1-2ad10aa82ecf/2b893ece-cc6d-486f-8124-c64bf040cba6_SC-5_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fe/e7/e1/fee7e1a3-43b0-856c-c335-cee7a6468155/fd70d25d-8395-4dee-80ba-534d7d52a53c_SC-6_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ae/78/7d/ae787d67-dbff-5bc9-e9f8-19e9ee32a0b5/cc9b880c-e106-4805-beb2-004e3e32be07_SC-2_EN.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/02/f8/48/02f8482a-2622-be88-e379-5189c6474619/998cf714-9bed-49dd-a055-36808bc48989_SC-1_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/35/97/b5/3597b5a6-43a7-e85a-ed94-c07bc4df6c2c/84698d6d-828e-420d-a2bf-0eb1426f6f01_2_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/e3/1c/2ee31c1e-a21b-383f-e02c-b93100b2edc2/3a7ff676-d88e-444a-aabe-26fc3d24badb_SC-3_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ab/bc/27/abbc277d-57a2-fdba-971d-972db323ad46/a521024f-271e-4d77-8925-1bcfabe12113_SC-4_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5c/41/73/5c41737a-828d-90c8-b280-0adf92a31b23/63fc131f-9f9d-4eb6-bf1b-934219dea6f4_SC-5_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/3c/74/363c747d-202f-3ea5-2865-66273b93b368/0b507605-84ac-472e-af04-7bf140ca2161_SC-6_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/49/62/5a49628d-a548-f88c-f3c8-688aa640f5e0/7000fc88-e23e-4837-9cc1-a263ff3e6894_SC-2_EN.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspire Pro]]></title>
-        <id>Inspire Pro-us-1781276299651</id>
-        <link href="https://appstore-discounts.eyelly.me/us/355460798?lang=en"/>
-        <updated>2026-06-12T14:58:19.651Z</updated>
-        <summary type="html"><![CDATA[Price: $9.99 → $1.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/355460798?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/9f/0d/f59f0dd0-8930-fe1b-9cfe-9d4328ea951f/AppIcon-1x_U007emarketing-5-0-P3-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$9.99</span> → <b>
-  <strong>$1.99</strong>
-</b><span>[$1.99 ~ $19.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$1.99</b>
-</p><h2>Application Description</h2><p>
-  Available exclusively on the App Store, meticulously designed to be beautifully powerful, and painstakingly engineered for iPad — Inspire Pro delivers an incredibly fast and realistic painting, drawing, and sketching experience that you can take with you wherever you go and use whenever inspiration strikes.
-
-Our proprietary painting engine Sorcery™ takes full advantage of the GPU to render brush strokes with brilliant 64-bit color, laser-sharp sub-pixel precision, and insanely fast speed. While the strokes of a wet oil paint brush look beautiful on their own, the breathtaking blending effects of a dry brush will absolutely stun you. Graze the canvas with just a bit of pressure to add a subtle blur to your artwork or use stronger pressure to actually mix existing colors on the canvas together to create new ones.
-
-Whether you are a budding artist, seasoned professional, or somewhere in-between, you will enjoy the simplicity and power of the most intuitive and compelling illustration app for iPad, Inspire Pro.
-
-Amazing Brushes
-• 150 high quality brushes to choose from, divided into 15 sets: Oil Paint, Airbrushes, Spray Paint, Paint Splatter, Graphite Pencils, Wax Crayons, Markers, Chalk, Charcoal, Pastels & Conté, Basic Shapes, Complex Shapes, Shape Outlines, Patterns, and Textures
-• All brushes can be used as a Wet Brush, Dry Brush (Blending), or Eraser
-• Over 20 different settings are available to customize brush strokes with powerful versatility and variation
-
-The Best Painting App for iPad
-• Sorcery™, the fastest 64-bit painting engine on the App Store
-• Full-fledged Apple Pencil support for pressure, tilt angle, orientation, and double-tap
-• Smart Keyboard support with over 20 context-sensitive keyboard shortcuts
-• Create a canvas of any size up to 16K (64MP) on iPad Pro
-• Dual-texture brushes
-• 64-bit color
-• All device orientations are supported all the time — switch from portrait to landscape painting with ease
-• 1000 levels of undo and redo are available
-• Touch and slide hotspots can be used to quickly change brush size, opacity, and pressure without opening a menu
-• The eyedropper tool can be used with a touch and hold gesture to select paint colors from the canvas
-• The canvas can be moved around, rotated, and zoomed in and out up to 6400%
-
-Canvas Playback Video Recording
-• Brush strokes are automatically recorded as you paint without any delay
-• You can play the video of your artwork being created stroke-by-stroke directly in the gallery
-• Exported videos are high quality HD at up to 1080p resolution
-
-Full-Featured Color Picker
-• Choose any paint color you can dream of with the intuitive color picker
-• HSB and RGB sliders accompany a large color circle, color square, and opacity slider
-• Your latest colors are saved to a palette automatically while you paint
-• You can also save your favorite colors to a palette with drag and drop
-
-Visit snowCanoe.com to check out more screenshots, videos, and artwork.
-</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/90/73/4f/90734fcf-dfef-c016-ae6f-5900dd8cedba/5af65c1c-5464-43e2-b86a-ba4843bc5e06_Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a7/af/6e/a7af6e2c-47ad-c847-fa74-a6716f7fd212/d5e0783c-b639-4b13-b8a9-d9ab1514561d_Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/18/23/b5/1823b5dd-55e6-bb4e-8714-c34328c996ca/9cc1685e-d15e-4f39-9bc1-360d4f628280_Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/36/ae/48/36ae489a-561d-2308-707a-ba920df1b2f1/c3b9b682-8199-48c5-a5d4-c4529917f7a5_Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/25/8c/0e258c61-ade5-3b84-fd40-049b45551c0b/d8682575-87f7-4578-a375-42d00bcbb062_Screenshot5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/d1/f3/f3/d1f3f319-1555-a266-41bd-f3a093e96d13/5568fdef-fb06-425c-ad95-c0227c9f4697_Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/81/07/c2/8107c279-0640-f4d9-a275-ed3037091d56/3213636f-cef5-480a-b509-4b6b50b22a6f_Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/40/a0/50/40a050b1-16ba-dd5d-6522-2933e0ef1a88/1ff73799-41c0-4522-ac2c-c608e21b8fd3_Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/0e/7f/a1/0e7fa13a-719d-731d-a5b9-e7400258187a/a30911bf-f1ba-445d-8b6a-00792572bcca_Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/5f/88/325f88fd-afd3-e5ad-9be1-e92cb85539b7/71fd637f-9fa4-438a-98cc-636997ccc728_Screenshot10.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

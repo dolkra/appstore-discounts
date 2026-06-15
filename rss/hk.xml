@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2026-06-14T15:22:06.198Z</updated>
+    <updated>2026-06-15T20:23:16.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008141708743680+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomehk</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-14T15:22:06.198Z</updated>
+        <updated>2026-06-15T20:23:16.081Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157008141708743680+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankinghkSun, 14 Jun 2026 15:22:06 GMT</id>
+        <id>rankinghkMon, 15 Jun 2026 20:23:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-14T15:22:06.199Z</updated>
+        <updated>2026-06-15T20:23:16.082Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>中国大陆(CN)</li><li>
@@ -51,16 +51,16 @@ feedId:157008141708743680+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2057</b>
+        <b>2062</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1856</b>
+        <b>1861</b>
       </td>
       <td>
-        <b>96</b>
+        <b>97</b>
       </td>
     </tr>
     <tr>
@@ -68,16 +68,16 @@ feedId:157008141708743680+userId:73658201673997312
         <b>HK</b>
       </td>
       <td>
-        <b>1928</b>
+        <b>1933</b>
       </td>
       <td>
         <b>179</b>
       </td>
       <td>
-        <b>1749</b>
+        <b>1754</b>
       </td>
       <td>
-        <b>87</b>
+        <b>88</b>
       </td>
     </tr>
   </tbody>
@@ -97,7 +97,9 @@ feedId:157008141708743680+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1576004936?lang=zh-CN">化學 - 元素週期表 2026</a>
+        <del>
+          <a href="https://appstore-discounts.eyelly.me/hk/1576004936?lang=zh-CN">化學 - 元素週期表 2026</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -990,6 +992,48 @@ feedId:157008141708743680+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>53</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6748572801?lang=zh-CN">首爾驅魔人1111: Roguelite</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>54</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/6742472194?lang=zh-CN">鬼谷八荒 Tale of Immortal</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li><li>
+            <span>App 內購買</span><ol>
+              <li>
+                <i>五朵金花</i>：<b>1</b>
+              </li><li>
+                <i>不歸玄境</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>禁用推送应用列表</h2><table>
   <thead>
@@ -1653,7 +1697,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>73</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/598581396?lang=zh-CN">Kingdom Rush Frontiers 塔防生存戰爭</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1576004936?lang=zh-CN">化學 - 元素週期表 2026</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1662,7 +1706,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>74</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/460661291?lang=zh-CN">Safety Note+ Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/598581396?lang=zh-CN">Kingdom Rush Frontiers 塔防生存戰爭</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1671,7 +1715,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>75</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/505904421?lang=zh-CN">AirDisk Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/460661291?lang=zh-CN">Safety Note+ Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1680,7 +1724,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>76</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1527841661?lang=zh-CN">沙盒星球</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/505904421?lang=zh-CN">AirDisk Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1689,7 +1733,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>77</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/431033044?lang=zh-CN">Phone Drive - 雲儲存管理和文件共享</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1527841661?lang=zh-CN">沙盒星球</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1698,7 +1742,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>78</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/456637671?lang=zh-CN">安全監控照片+視頻Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/431033044?lang=zh-CN">Phone Drive - 雲儲存管理和文件共享</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1707,7 +1751,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>79</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1453318714?lang=zh-CN">Vostok — 创建美丽快拍页面</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/456637671?lang=zh-CN">安全監控照片+視頻Pro</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1716,7 +1760,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>80</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/818394449?lang=zh-CN">时间轴-全球历史</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1453318714?lang=zh-CN">Vostok — 创建美丽快拍页面</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1725,7 +1769,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>81</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1485101937?lang=zh-CN">Juice Watch</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/818394449?lang=zh-CN">时间轴-全球历史</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1734,7 +1778,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>82</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/488674899?lang=zh-CN">雨雷達 ° -實時天氣圖</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1485101937?lang=zh-CN">Juice Watch</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1743,7 +1787,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>83</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/1361473095?lang=zh-CN">MuseDash</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/488674899?lang=zh-CN">雨雷達 ° -實時天氣圖</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1752,7 +1796,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>84</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/373454750?lang=zh-CN">隨手記Pro–個人家庭生意記帳</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/1361473095?lang=zh-CN">MuseDash</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1761,7 +1805,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>85</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/866450515?lang=zh-CN">Forest 專注森林 - 讀書專注番茄鐘</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/373454750?lang=zh-CN">隨手記Pro–個人家庭生意記帳</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1770,7 +1814,7 @@ feedId:157008141708743680+userId:73658201673997312
         <b>86</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/hk/388624839?lang=zh-CN">CamScanner+</a>
+        <a href="https://appstore-discounts.eyelly.me/hk/866450515?lang=zh-CN">Forest 專注森林 - 讀書專注番茄鐘</a>
       </td>
       <td>人为添加</td>
     </tr>
@@ -1779,12 +1823,147 @@ feedId:157008141708743680+userId:73658201673997312
         <b>87</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/hk/388624839?lang=zh-CN">CamScanner+</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
+    <tr>
+      <td>
+        <b>88</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/hk/1659622164?lang=zh-CN">VidHub -Video Library & Player</a>
       </td>
       <td>人为添加</td>
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[首爾驅魔人1111: Roguelite]]></title>
+        <id>首爾驅魔人1111: Roguelite-hk-1781550232616</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6748572801?lang=zh-CN"/>
+        <updated>2026-06-15T19:03:52.616Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 38.00 → HK$ 18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6748572801?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a1/f8/87/a1f887fe-6da3-8f11-a00a-cdc9f1fdb47e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 38.00</span> → <b>
+  <strong>HK$ 18.00</strong>
+</b><span>[HK$ 18.00 ~ HK$ 48.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 18.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    200,000 x Coins：<b>HK$ 88.00</b>
+  </li><li>
+    80,000 x Coins：<b>HK$ 38.00</b>
+  </li><li>
+    40,000 x Coins：<b>HK$ 22.00</b>
+  </li><li>
+    10,000 x Coins：<b>HK$ 8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  果斷決策，攻擊快如閃電！作為最終的驅魔師，依照情況選擇攻擊方式、強化戰鬥牌組，並組合特性與道具——在死亡降臨之前拯救被詛咒的靈魂吧！
+
+▪ 即時回合制戰鬥
+你做出決定的瞬間，敵人立即反應！每一步都充滿快速而緊張的動作。
+
+▪ 四位擁有獨特策略的角色
+每位角色擁有8種獨特的攻擊方式、專屬動畫和2個被動特性。根據每次遊戲調整你的遊戲風格。
+
+▪ 時間限制 - 快速思考，更快出擊！
+每次遊戲中，你只有7分鐘來擊敗所有敵人。你為這一刻進行了殘酷的訓練。
+
+▪ 物品與特性組合
+在戰鬥中自動激活的戰略協同。時機和適應能力是勝利的關鍵！
+
+▪ Roguelite
+在一次遊戲中清除所有7個地圖和Boss，否則將被重置！但同一地圖通關3次將解鎖進度。收集金幣，構建更強大的卡組，再次挑戰！
+
+▪ 完全支援控制器
+支援Xbox、DualShock/DualSense以及大多數xInput/Direct Input控制器。
+
+▪ 支援12種語言
+支援韓語、英語、日語、中文（簡體/繁體）、法語、德語、義大利語、西班牙語、葡萄牙語、巴西葡萄牙語和俄語。
+
+▪ 離線遊戲
+所有資料皆儲存在本機，不需連接網路。
+注意- 移除應用程式將會刪除所有儲存資料。
+
+▪Discord
+https://discord.gg/UaZApdWG93
+
+▪聯絡信箱 / 錯誤回報
+snowgames0629@gmail.com
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鬼谷八荒 Tale of Immortal]]></title>
+        <id>鬼谷八荒 Tale of Immortal-hk-1781550232616</id>
+        <link href="https://appstore-discounts.eyelly.me/hk/6742472194?lang=zh-CN"/>
+        <updated>2026-06-15T19:03:52.616Z</updated>
+        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 52.00<br/>五朵金花: HK$ 28.00 → HK$ 22.00<br/>不歸玄境: HK$ 22.00 → HK$ 17.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6742472194?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/77/26/c1/7726c14a-8d89-017b-0599-eb871417192e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>HK$ 58.00</span> → <b>
+  <strong>HK$ 52.00</strong>
+</b><span>[HK$ 52.00 ~ HK$ 58.00]</span>）
+</h2><h3>App 內購買</h3><ul>
+  <li>
+    <strong>五朵金花：</strong><span>HK$ 28.00</span> → <b>
+  <strong>HK$ 22.00</strong>
+</b><span>[HK$ 22.00 ~ HK$ 28.00]</span>
+  </li><li>
+    <strong>不歸玄境：</strong><span>HK$ 22.00</span> → <b>
+  <strong>HK$ 17.00</strong>
+</b><span>[HK$ 17.00 ~ HK$ 22.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>HK$ 52.00</b>
+</p><h3>App 內購買</h3><ul>
+  <li>
+    五朵金花：<b>HK$ 22.00</b>
+  </li><li>
+    不歸玄境：<b>HK$ 17.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  《鬼谷八荒》是一款開放世界的沙盒修仙遊戲。結合了修仙體系與山海經文化背景，體驗從凡人一步步修行成長為強者的過程，與山海經中各種妖、獸戰鬥。你是否能堅守本心，與困難做鬥爭；慎做抉擇，把握自己的命運。
+【遁入修仙世界，開啟逆天人生】  
+鬼谷八荒，除了財侶法地，還有詭祕莫測的妖獸，危機重重的秘境，難以逾越的天塹，彩光四射的祕寶，等著被人發現。  
+你將作為一個煉氣期小修士從愚村出發，修煉，變強，危機中九死一生。每一次突破，你都能逆天改命，助你在旅途上披荊斬棘，跨越五大州，睥睨天下，再闖上天元山，向天道一問。  
+
+【AI互動生態，給NPC完整的一生】  
+我們構建了完整的NPC互動生態，他們「生活」在這裡，有自己的朋友親族關係網，自己的人生軌跡，不受玩家的進度限制，除非，你決定出手干涉。  
+你可兼濟天下，攜手紅顏；你可獨善其身，快意恩仇；你亦可逆天而行，與全世界為敵。  
+和NPC們切磋武藝，傳授道心，拜師學藝，收徒授業。和NPC在拍賣場喊價廝殺，結束後拔刀相向或順手牽羊。你將成為修仙界群像中的一部分，是大放異彩，還是默默修行，皆看你如何選擇。  
+
+【體驗小說橋段，感受奇遇驚喜】  
+英雄救美？愛人為你爭風吃醋？五十年之約？捲入神秘組織的明爭暗鬥？遺蹟遇寶？又慘遭奪寶？  
+這些都有可能發生在你身上。  
+除NPC交互之外，這裡還有豐富的隨機事件以及支線任務，在你的旅途上給予驚喜。它們或許會讓你煩惱，餵你刀子，也可能讓你化險為夷，甚至破而後立。在一步又一步的選擇過程中，你將譜寫只屬於你的，獨一無二的故事。  
+
+【打造最強宗門，攻城略地一統八荒】  
+我們構建了宗門的經營玩法，身為弟子、長老以及宗主，將會有不同的體驗。你可以加入大宗門，從最底層的弟子做起，一步步爬上權力的階梯。也可以空降落魄的小宗門，力挽狂瀾，帶領宗門重振雄風。  
+弟子可以完成宗門任務，在宗門大比中出戰，或隨同門出征作戰，為宗門積累資源，為宗門贏取榮譽，為宗門擴張土地。  
+長老可以管轄門下弟子，傳道授業，分配任務職能，加速宗門成長，在宗門大戰中指導弟子大殺四方。  
+宗主則需要統籌全宗的秩序，制定侵略和防守計劃，攻防靈礦等資源點，甚至佔領他人宗門，奪取專屬逆天改命和祕籍。  
+一統八荒，只要你有宏圖壯志和鐵腕手段，不再只是幻想。  
+
+【構築獨特流派，挑戰妖獸神仙】  
+闖蕩這世界，需要有傍身之技。  
+心法築根基，武技/靈技探深淺，身法創機會，絕技造優勢，神通定乾坤。不同祕籍有不同的特性。  
+修仙者還有十二大靈根，對應不同的流派，你可以選擇專精一路，或全面發展。十二種靈根都有對應的功法祕籍，排列組合可組成豐富的流派，孰強孰弱，皆由你評斷。  
+城鎮琅琊閣、宗門功法閣、秘境、各種任務，甚至路邊一個土坑裡，都可能發現珍奇祕籍，充滿驚喜。  
+這個世界上還有上百種珍奇妖獸，無數修仙者、鬼怪、仙人供你檢驗自己的實力。挑戰升仙擂台，衝擊各大洲參玄榜，以此證明自己的實力。你能否踏破冥山的障礙一路向前？構築的流派能否經歷大浪淘沙的檢驗？  
+
+【法寶器靈煉丹畫符，三大神器伴前路】  
+練好自身本領，也別忘了外力加持。  
+開局三大神器，每一個都會給你帶來一種獨一無二的系統。雙魚佩可以復活自己和選中之人，昊天眼可以偷學妖獸技能，洞察更多訊息，而煉妖壺則可以讓你捕獲BOSS成為你的小跟班，替你戰鬥或派遣尋求寶物。  
+除了開局神器之外，你也能煉製你自己的法寶，並收服器靈與你一起戰鬥，此外器靈還會在探索中給予你陪伴，觸發專屬的奇遇等等。  
+在這裡，你還可以學習煉丹畫符、堪輿風水，製作幫助你探索世界、整蠱仇人、戰鬥殺敵的種種道具。至於如何發揮它們真正的作用，皆看各位道友如何抉擇。
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dungeon Tracer]]></title>
@@ -2194,182 +2373,5 @@ Threads: www.threads.net/@blackpearlgames
 生辰 軟件許可及服務協議：https://post.jellow.club/whatslife-agreement/
 生辰 隱私協議：https://post.jellow.club/whatslife-privacy/
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/54/cb/1354cbc9-1df6-eb71-4b5f-2ea17dfb40e8/pr_source.png/322x572bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/87/ec/2a/87ec2ae7-c906-f35b-71e8-4509add0c7e5/pr_source.png/322x572bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/81/f9/b8/81f9b8a1-c3c2-d74c-3444-933e6d7d078f/pr_source.png/322x572bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7d/d7/02/7dd70236-7072-543c-b9bf-ef0e6a7d036b/pr_source.png/322x572bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/55/c5/4f/55c54fde-f63e-01f6-6382-485a8dd8d1cc/mzl.sxdnhpck.jpg/322x572bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Inspire Pro]]></title>
-        <id>Inspire Pro-hk-1781276299651</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/355460798?lang=zh-CN"/>
-        <updated>2026-06-12T14:58:19.651Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 88.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/355460798?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f5/9f/0d/f59f0dd0-8930-fe1b-9cfe-9d4328ea951f/AppIcon-1x_U007emarketing-5-0-P3-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 88.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 148.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h2>应用描述</h2><p>
-  於 App Store 獨家上架，針對 iPad 量身打造，精心設計，提供強大功能 - Inspire Pro 可提供極速逼真的繪畫、繪圖與素描體驗，讓您隨身攜帶並於靈感迸發時，隨時隨地進行創作。
-
-我們的專利繪圖引擎 Sorcery™ 充分運用 GPU 效能，讓筆觸擁有絢爛的 64 位元色彩、雷射般銳利的子像素精細度和極致高速。 濕潤的油畫筆觸看起來很漂亮，而幹筆劃驚人的混合效果同樣會完全讓你驚嘆。稍用一點力塗抹畫布，爲您的作品添加微妙的模糊效果，或者再用大點力將畫布上現有的顔色混合在一起，創造出新的色彩。 
-
-不論是新秀藝術家、經驗豐富的專業人士或處於兩者之間的藝術工作者，皆可享有 iPad 上最直觀迷人之繪圖應用程式 Inspire Pro 的簡潔設計和強大功能。
-
-畫筆
-• 共有 150 種優質筆刷可供選擇 (分為 15 組)：油畫、噴槍、噴漆、顏料潑濺、石墨鉛筆、蠟筆、麥克筆、粉筆、炭筆、粉彩筆和炭精筆、基本圖形、複雜圖形、圖形外框、圖樣和紋理
-• 所有畫筆均可用作濕刷、幹刷（混合）或擦除器
-• 超過20種不同的背景可用于定制畫筆筆觸，功能强大、變化多樣。
-
-油畫
-• Sorcery™，App Store上最快的64位噴漆引擎
-• 完整支援 Apple Pencil 壓力、傾斜角度、方向和雙擊功能
-• 支援 Smart Keyboard，並提供 20 多組依使用情境而定的鍵盤快捷鍵
-• 在iPad Pro上可創建尺寸最大爲16K（64MP）的畫布
-• 雙紋理刷
-• 64位彩色
-• 始終支持所有設備情况 - 輕鬆地從人像切換到風景畫
-• 可1000級撤消和重做
-• 觸摸和滑動熱點可用于快速更改畫筆大小、不透明度和壓力，而無需打開菜單
-• 可長按吸管工具，從畫布中選擇塗料顔色
-• 畫布可以移動、旋轉和放大，最多可達6400％
-
-畫布回放視頻錄製
-• 自動記錄筆觸效果，隨時繪製
-• 您可以直接在作品庫中播放你一筆一筆作畫的視頻
-• 畫布回放視頻可以導出到您的照片或任何其他目的地
-• 導出的視頻是高品質高清晰度的，分辨率高達1080p
-
-拾色器
-• 使用直觀的拾色器，選擇您喜歡的任何塗料顔色
-• HSB（色調-飽和度-亮度）和RGB（紅綠藍）滑塊，伴隨著一個大色環、彩色方塊和不透明滑塊
-• 在繪畫時，您最近使用的顔色會自動保存到調色板中
-• 您還可以通過拖放將您喜愛的顔色保存到調色板中
-
-訪問snowCanoe.com 查看更多截圖、視頻和圖稿。
-</p><h2>应用截屏</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/19/4e/83/194e8344-c511-7ac0-2b4d-073c8f0e455e/7484a9e4-2292-432a-9099-5f93aa006e02_Screenshot1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/4f/b9/3c4fb924-3456-89a9-0870-3a8f075b232d/c079022c-c51c-4f26-a87e-df78e0c3432b_Screenshot2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/5c/87/4e/5c874e6b-54b4-2881-1585-9726c6a65c93/2fca4d1a-b49b-4bb1-bc2d-d00c7e898c74_Screenshot3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/27/63/30/276330ac-4a3a-6d87-8182-91affeef430e/1c6276fa-f6d0-4e44-aebd-6098eb9e1f61_Screenshot4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/05/c9/05/05c90586-7183-5842-9a84-acf7a22367fc/896c0b13-e60a-4941-a8d5-9860fc6c5970_Screenshot5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/29/25/e12925ae-23dd-c8aa-02b6-886a447865a0/cb102cde-da42-4efc-a199-8cd23e66282f_Screenshot6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b5/bd/6e/b5bd6e8d-f8d6-b547-0b82-751615b4adf7/3f3d0f74-39fc-4c35-8ebd-316cc07de798_Screenshot7.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6c/55/92/6c559293-dc67-d1eb-e0dd-4015be7e9332/4a14fe75-a641-4a57-a54f-60f7b67a3418_Screenshot8.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f1/04/87/f10487ba-1368-f58c-1c6a-1bfc2b4615b7/b48e6f68-4030-4d4f-b49d-4808bc9535a0_Screenshot9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/97/e8/df/97e8df1f-2c20-0e4f-612d-2389d3bbbd0f/b4c5c0a9-9785-4d7b-a300-eeba9e2d3a96_Screenshot10.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roundguard]]></title>
-        <id>Roundguard-hk-1781193638928</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/1672164496?lang=zh-CN"/>
-        <updated>2026-06-11T16:00:38.928Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 58.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1672164496?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/b9/ae/c6/b9aec687-0d46-28d9-1a02-9a2f30cea2be/AppIcon-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 58.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 58.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h2>应用描述</h2><p>
-  圓守衛是彈來彈去的地牢爬行者，結合彈珠台打法、掠奪許多寶物，以及滿是怪物流竄的隨機城堡。在圓形的回彈冒險旅途中，對抗許多危險又可愛的怪獸，並挑戰沿路層出不窮的類惡霸！
-
-如果你喜歡類惡霸遊戲和《撞撞球》，一定也會愛上圓守衛。
-
-彈來彈去趣味多：直覺式的彈珠台打法，跟其他地牢爬行遊戲截然不同。
-
-多種類別：可以擔任戰士、惡霸或巫師，分別擁有各自的特殊技能、物品和惡搞的幽默感。
-
-隨機地牢：每次遊戲會透過程序產生等級，並隨機安排任務事件和精美怪獸。
-
-永久死亡贈好物：角色死亡時，你可以將特殊寶物帶到下一回合。你拿到的金幣越多，收集到最強大寶物的機會就越大。
-
-怪物角色：與城堡裡色彩繽紛的怪物交談取得任務，並瞭解為什麼有些老鼠希望除掉國王、哪些事情激怒了當地的年輕骷髏，或者戰士如果來不及跑廁所會怎麼辦。
-
-掠奪大量寶物：提供上百種物品和寶物，各有象徵策略選擇的不同效果，且有些可結合使用。
-
-展現你的技能：爭奪排行榜上的名次，並盡量學會所有具有挑戰性、不按牌理出牌的寶物。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ff/8b/7d/ff8b7dee-414d-7885-36a8-12fac2f858fe/8d8c4dd0-aa6f-4da0-b89b-3191668e050f_CN_T_1_aim_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a7/16/4e/a7164e4f-bb39-637d-d6d9-9a220389c6a5/ce66ed29-90cf-4804-8e78-80527ef1bc47_CN_T_1_map_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d0/f6/42/d0f64220-d26d-8e06-6562-2e56b3468526/aa541efb-dc10-40b3-8769-88b8cf0f3e96_CN_T_3_intermission_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e3/47/8f/e3478f8c-7d90-bf1c-91e5-e4b24f00401b/aa9f01ea-1860-4e1a-be4f-76e10f4338ce_CN_T_4_boss_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a1/4f/08/a14f0801-47e0-bf21-8408-2d489b0b1251/4f5f269b-f355-4e2b-85aa-cca7275dd4a2_CN_T_5_equipment_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a4/c0/7e/a4c07e3c-8619-ab83-a56b-6f7d7d3b3c6d/ebc5024d-d9ef-432b-8738-96e8616accb9_CN_T_6_charge_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/65/1e/7c651e88-359a-7e85-0934-e1e9ddedf73f/474c5b5c-021a-4f52-9a7a-30f044ad882f_CN_T_7_dialogue_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c1/4d/07/c14d0795-3030-a236-fd19-ad576baa372d/5e38c640-a5b4-471b-854d-44f5f81f96f6_CN_T_9_heroes_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/21/37/b7/2137b758-7016-3126-92d0-d8c6d63779b4/c6f85d7d-5898-455a-92d4-e4e11d2ce7a9_CN_T_10_Relics_iOS_5_5_inch_2208x1242.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/69/06/49/69064979-66a6-9a46-83e6-44f48c3b1ef1/eb9f6425-691d-4685-bc6d-e3074db6f760_CN_T_1_aim_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6a/78/15/6a7815f7-3a28-6824-38a3-507ee0279cb1/95b91410-e359-4d0d-abba-933f698e4b61_CN_T_1_map_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/f7/72/61f7724b-f00b-3e96-a6fb-81d9bddd8c03/f21ebcfe-c88f-43f3-b0b7-43ce011dc8fe_CN_T_3_intermission_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/dd/80/bd/dd80bd95-397f-a177-309a-4cfebf215773/0cb6c4b1-3dbe-424e-9f05-021c19a3dcb7_CN_T_4_boss_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/2e/56/e9/2e56e93a-e665-6da1-6360-6313c64eb0c9/f27bb0f5-33c4-48c3-8589-f75aa7220bca_CN_T_5_equipment_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b6/3c/d1/b63cd1dd-34f3-ecb4-304f-f8de9054e966/cc17870a-4c19-4843-b154-29c4d13d3d0b_CN_T_6_charge_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/9b/17/81/9b17816f-0560-0865-dd31-5d10d3755b1a/200ef539-9662-428c-b6df-016a05d85faa_CN_T_7_dialogue_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/4a/4d/7c4a4d86-660c-7bbe-a560-7c77658a4dab/33b8bf16-e1e2-4b84-ac8a-005b3e3d39e1_CN_T_9_heroes_iPad_12_9_inch_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/83/29/d1/8329d120-9e36-f011-5d2e-7ee0536c68a8/de5ccb2c-75b6-4d11-8f7f-359d0f6ce797_CN_T_10_Relics_iPad_12_9_inch_2732x2048.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[怪獸大進擊 2]]></title>
-        <id>怪獸大進擊 2-hk-1781193638928</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/6480058345?lang=zh-CN"/>
-        <updated>2026-06-11T16:00:38.928Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 22.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/6480058345?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/a9/89/efa989f8-102f-10af-7d66-b46d0507f4e3/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 22.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h2>应用描述</h2><p>
-  為了洗雪兩年前敗北的恥辱，混沌這次集結了異星的聯軍，以人類的罪孽為理由，再次襲擊地球。
-就連一直捍衛人類的那位超級英雄，也決定倒戈相向。身為指揮官的你，要如何解決這個危機？人類和地球的明天，又會是如何？
-
-遊戲介紹與特點
-怪獸大進擊2，是我們在兩年前發售的好評作品，怪獸大進擊的續作。我們在保留一代的優點上，修改了缺點，並加入了許多新的特點和樂趣如下：
-- 遊戲節奏更快速、更緊湊。
-- 在原有的三種方塊外，新增資金方塊的蒐集使用。
-- 秘密武器的部署不限一種，可部署複數種類在戰場上。
-- 全新九種外星敵人，更聰明刁鑽的行為AI，提升挑戰性。
-- 全新八種秘密武器，包含可三機分離、合體的超級機器人。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/61/81/97/618197c7-6f9e-26f3-73c0-ef3a204f4ea3/924ccf7e-c600-45df-8b09-15efb688182d_Screenshot_5.5inch_0_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a7/42/63/a742637a-1856-40c0-b0f7-0a2b51e251ca/9a654150-c7bb-4104-ba47-afef591c3eee_Screenshot_5.5inch_1_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/94/24/c7942402-7e27-5331-289a-0be2e9435f97/470e585e-9472-40b0-86df-5ad3a4109fca_Screenshot_5.5inch_2_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a0/90/31/a090311f-1c79-f76f-2f66-c2a96f1ef5b4/7c9e6fd1-fb53-4208-bcd3-2cc2b9823421_Screenshot_5.5inch_3_0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/be/e6/57bee617-3314-4b87-6cd2-b8fdfea26218/e279c54a-67cd-440f-8ea6-cf4f50286918_Screenshot_5.5inch_4_0.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/3a/6b/983a6bfd-de9b-1910-c7c8-2b332633005f/8cba80d3-6223-44fb-b188-a0b7f673d6a6_Screenshot_12.9inch_0_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/7b/c1/e77bc186-0b39-115c-9cba-63d2fc0a4c2e/43650a95-eec1-4e13-a013-70eadf761281_Screenshot_12.9inch_1_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/36/be/4236bea9-8557-4b1f-5afe-022ace0da81d/d4a16524-fd00-43b2-8fbe-f7aa174121ab_Screenshot_12.9inch_2_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3e/b3/7e/3eb37e78-0c21-2e46-5421-248ee236433c/4c5e4eec-d56c-462f-ab84-a894911b9ddd_Screenshot_12.9inch_3_0.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/a6/9a/cea69abe-e036-a707-ef54-8e20e4578d30/42a0bb2b-bdac-400b-a993-e105c80b9ca6_Screenshot_12.9inch_4_0.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DungeonMaker]]></title>
-        <id>DungeonMaker-hk-1781193638928</id>
-        <link href="https://appstore-discounts.eyelly.me/hk/1359652100?lang=zh-CN"/>
-        <updated>2026-06-11T16:00:38.928Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 32.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/hk/1359652100?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b8/85/40/b885403b-2d15-8354-8c7a-5fad26ff4017/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 32.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b><span>[HK$ 18.00 ~ HK$ 32.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>HK$ 18.00</b>
-</p><h3>App 內購買</h3><ul>
-  <li>
-    DLC "卡牌遊戲"：<b>HK$ 32.00</b>
-  </li><li>
-    原版怪獸繼承卡牌包：<b>HK$ 148.00</b>
-  </li><li>
-    怪獸繼承：<b>HK$ 38.00</b>
-  </li><li>
-    覺醒魔王完整卡牌包：<b>HK$ 228.00</b>
-  </li><li>
-    原版設施卡牌包：<b>HK$ 68.00</b>
-  </li><li>
-    原版魔王完整卡牌包：<b>HK$ 228.00</b>
-  </li><li>
-    原版地宮卡牌包：<b>HK$ 148.00</b>
-  </li><li>
-    原版魔王權能卡牌包：<b>HK$ 148.00</b>
-  </li><li>
-    原版魔王加速卡牌包：<b>HK$ 68.00</b>
-  </li><li>
-    原版怪獸卡牌包：<b>HK$ 68.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  透過無數選項佈置地宮的Roguelike類地宮建造遊戲。
-在地宮佈置各種陷阱和設施，並雇傭可透過戰鬥成長的怪獸，發現神秘力量的神器，擊退攻擊地宮的勇士！
-
-◆ 內容
- - 以特殊能力指揮地宮的9名魔王！
- - 300多種勇士及怪物
- - 地宮內可佈置的100多種陷阱及設施
- - 200多種神秘的神器
- - 各種活動
- - 各種解鎖要素
-目前還在不斷開發新的內容。
-我們將持續增加更多魔王和陷阱及怪獸，並準備各種遊戲模式。
-
-◆ 創造屬於自己的地宮
-請慎重佈置陷阱、設施及怪獸。利用擊退勇士獲得的獎勵，可建造更強力的地宮。考慮各個設施及怪獸的特性找出最佳組合，並建造具有最佳效率的地宮。
-
-◆ 探險命運
-每天獲得新的命運卡牌。想要戰鬥就迎接勇士，需要娛樂就進行活動。如果要與強敵對戰，就可將強力的勇士召喚至地宮。
-每一場遊戲可選擇不同命運，給您帶來各種新的體驗。
-
--SUPPORT-
-E-Mail : support@gamecoaster.com
-Tel :+82 10-4178-0283
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/57/eb/a1/57eba149-6711-1f35-80ef-c4d83f91eb87/99035e0f-da4f-44fb-b203-0ae3482e4b1a_1_tw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/5f/78/89/5f7889c6-c71e-99f6-d871-e486d2859456/58d57eb0-0ec6-4b34-833f-4b36637eeedb_2_tw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/99/31/b6/9931b654-270e-4ce1-8d44-177ff6e11703/5d7ef8a5-918e-485d-ab22-d06dea8d8cf3_3_tw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/8c/fb/f7/8cfbf7bc-7d01-f549-6d5e-10d0d6470b01/74f3d111-e3dd-49de-8ad5-94313b578210_4_tw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/40/b2/d6/40b2d6c1-a354-f1e6-f4cd-ea7f198d4568/5000784b-49d2-4a98-9061-b1cbb9effe0a_5_tw.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/ce/07/39/ce073995-0ac8-1675-d3b9-b0e6422855ac/d6b7b062-c955-40ea-8d11-569430d5bcf1_1_tw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/cf/48/6a/cf486a2c-71c2-6832-60ae-6a56ed03c0ad/5703ddae-e66d-44d2-ad7b-a12fc089dd38_5_tw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7d/c3/77/7dc3771f-6241-8787-4738-58fe7468c074/e594caed-d002-45bd-bd97-b6e30262ccb8_4_tw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/9c/cd/cc/9ccdcc1f-c5bd-8dfe-4323-3aeaf7025109/64da699a-4d35-477c-8d51-f978da87e490_2_tw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/61/19/81/611981e2-5bc0-b00d-ba22-87d728b02fc6/61343ef2-acae-447e-a670-a138a86988e3_3_tw.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
