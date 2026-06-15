@@ -43710,6 +43710,23 @@
     "history": [
       [
         {
+          "timestamp": 1781525626784,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €",
+            "Get tips about the diamond pyramid": "0,99 €",
+            "Purchase game": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1781496952864,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -76181,6 +76198,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781525626784,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781445729568,
@@ -112853,6 +112878,52 @@
           "timestamp": 1781388259761,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6502451832": {
+    "trackId": 6502451832,
+    "trackName": "SeesunFilm [RK in Tokyo]",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781525626784,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6476489377": {
+    "trackId": 6476489377,
+    "trackName": "Clever Mixed",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781525626784,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]

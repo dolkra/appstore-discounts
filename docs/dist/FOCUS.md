@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2057` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2060` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2060|1598531252|Automatic|影像图谱|影像图谱|影像图谱|影像图谱|❌|❌|❌|
+|2059|6502451832|Automatic|视线Film [RK in Tokyo]|視線Film [RK in Tokyo]|視線Film [RK in Tokyo]|視線Film [RK in Tokyo]|SeesunFilm [RK in Tokyo]|SeesunFilm [RK in Tokyo]|SeesunFilm [RK in Tokyo]|
+|2058|6476489377|Automatic|❌|Clever Mixed|Clever Mixed|Clever Mixed|Clever Mixed|Clever Mixed|Clever Mixed|
 |2057|1193760955|Automatic|百怪千奇野兽园 - Tinybop出品|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Creature Garden by Tinybop|Creature Garden by Tinybop|O Jardim das Criaturas|
 |2056|394199597|Automatic|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|
 |2055|576216365|Automatic|妞妞12345|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|Math Animations Pro|Maths Animations Pro|Animações de Matemática Pro|
@@ -1904,7 +1907,7 @@ So far, we've covered `7` `Countries or Regions` and  `2057` `Apps` <br />Push n
 |163|1493379610|Manual|时光进度 - 进度管理&待办计划|時光進度 - 待辦事項四象限規劃及進度管理|時光進度 - 待辦事項四象限規劃及進度管理|時光進度 - 待辦事項四象限規劃及進度管理|bProgress - Manage Daily Tasks|bProgress - Manage Daily Tasks|时光进度 - 进度管理&待办计划|
 |162|1255627901|Manual|方便面 - 朋友圈图文排版好帮手|泡麵｜經典原味|泡麵｜經典原味|泡麵｜經典原味|Instant Noodles: Original|Instant Noodles: Original|Instant Noodles: Original|
 |161|1449020025|Manual|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|
-|160|1576004936|Manual|化学 - 元素周期表 2026|化學 - 元素週期表 2026|化學 - 元素週期表 2026|化學 - 元素週期表 2026|Chemistry Periodic Table 2026|Chemistry Periodic Table 2026|Química Tabela Periódica 2026|
+|160| ~~1576004936~~ |Manual| ~~化学 - 元素周期表 2026~~ | ~~化學 - 元素週期表 2026~~ | ~~化學 - 元素週期表 2026~~ | ~~化學 - 元素週期表 2026~~ | ~~Chemistry Periodic Table 2026~~ | ~~Chemistry Periodic Table 2026~~ | ~~Química Tabela Periódica 2026~~ |
 |159|827740598|Manual|小牛计算器(高级版)|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|
 |158|355460798|Manual|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|
 |157|1595313870|Manual|瓦尔登 - 日程管理，待办计划，一个就够|瓦爾登 - 終極個人管理工具|瓦爾登 - 終極個人管理工具|瓦爾登 - 終極個人管理工具|Walden - Calendar/ToDo/Notes|Walden - Calendar/ToDo/Notes|Walden - Calendar/ToDo/Notes|

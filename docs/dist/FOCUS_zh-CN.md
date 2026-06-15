@@ -1,12 +1,15 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2057` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2060` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2060|1598531252|自动|影像图谱|影像图谱|影像图谱|影像图谱|❌|❌|❌|
+|2059|6502451832|自动|视线Film [RK in Tokyo]|視線Film [RK in Tokyo]|視線Film [RK in Tokyo]|視線Film [RK in Tokyo]|SeesunFilm [RK in Tokyo]|SeesunFilm [RK in Tokyo]|SeesunFilm [RK in Tokyo]|
+|2058|6476489377|自动|❌|Clever Mixed|Clever Mixed|Clever Mixed|Clever Mixed|Clever Mixed|Clever Mixed|
 |2057|1193760955|自动|百怪千奇野兽园 - Tinybop出品|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Tinybop 出品的動物樂園|Creature Garden by Tinybop|Creature Garden by Tinybop|O Jardim das Criaturas|
 |2056|394199597|自动|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|HF Weather Fax|
 |2055|576216365|自动|妞妞12345|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|國小數學教學動畫(1~6年級) 完整版|Math Animations Pro|Maths Animations Pro|Animações de Matemática Pro|
@@ -1904,7 +1907,7 @@
 |163|1493379610|手动|时光进度 - 进度管理&待办计划|時光進度 - 待辦事項四象限規劃及進度管理|時光進度 - 待辦事項四象限規劃及進度管理|時光進度 - 待辦事項四象限規劃及進度管理|bProgress - Manage Daily Tasks|bProgress - Manage Daily Tasks|时光进度 - 进度管理&待办计划|
 |162|1255627901|手动|方便面 - 朋友圈图文排版好帮手|泡麵｜經典原味|泡麵｜經典原味|泡麵｜經典原味|Instant Noodles: Original|Instant Noodles: Original|Instant Noodles: Original|
 |161|1449020025|手动|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|不玩手机-自律习惯养成记|
-|160|1576004936|手动|化学 - 元素周期表 2026|化學 - 元素週期表 2026|化學 - 元素週期表 2026|化學 - 元素週期表 2026|Chemistry Periodic Table 2026|Chemistry Periodic Table 2026|Química Tabela Periódica 2026|
+|160| ~~1576004936~~ |手动| ~~化学 - 元素周期表 2026~~ | ~~化學 - 元素週期表 2026~~ | ~~化學 - 元素週期表 2026~~ | ~~化學 - 元素週期表 2026~~ | ~~Chemistry Periodic Table 2026~~ | ~~Chemistry Periodic Table 2026~~ | ~~Química Tabela Periódica 2026~~ |
 |159|827740598|手动|小牛计算器(高级版)|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|Xmart Calculator Pro|
 |158|355460798|手动|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|Inspire Pro|
 |157|1595313870|手动|瓦尔登 - 日程管理，待办计划，一个就够|瓦爾登 - 終極個人管理工具|瓦爾登 - 終極個人管理工具|瓦爾登 - 終極個人管理工具|Walden - Calendar/ToDo/Notes|Walden - Calendar/ToDo/Notes|Walden - Calendar/ToDo/Notes|

@@ -2,6 +2,27 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 1598531252,
+      "name": {
+        "mo": "影像图谱"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6502451832,
+      "name": {
+        "mo": "視線Film [RK in Tokyo]"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6476489377,
+      "name": {
+        "mo": "Clever Mixed"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1193760955,
       "name": {
         "tw": "Tinybop 出品的動物樂園"
@@ -13502,7 +13523,8 @@
         {
           "us": "Chemistry Periodic Table 2024"
         }
-      ]
+      ],
+      "allowNotification": false
     },
     {
       "id": 827740598,
