@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6742472194,
+    "region": "tr",
+    "timestamp": 1781564587520,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Five Blooms",
+        "from": "₺199,99",
+        "to": "₺149,99",
+        "range": "[₺129,99 ~ ₺199,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Ground of No Return",
+        "from": "₺149,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6742472194",
+    "trackName": "Tale of Immortal",
+    "firstRecordedAt": 1752517177782
+  },
+  {
     "trackId": 6748572801,
     "region": "tr",
     "timestamp": 1781550232616,

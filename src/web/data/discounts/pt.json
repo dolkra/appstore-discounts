@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6742472194,
+    "region": "pt",
+    "timestamp": 1781564587520,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Five Blooms",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Ground of No Return",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6742472194",
+    "trackName": "鬼谷八荒 Tale of Immortal",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6475892753,
+    "region": "pt",
+    "timestamp": 1781564587520,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[1,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6475892753",
+    "trackName": "Listenify",
+    "firstRecordedAt": 1774630899433
+  },
+  {
     "trackId": 6748572801,
     "region": "pt",
     "timestamp": 1781550232616,
@@ -17701,7 +17748,7 @@
         "name": "Price",
         "from": "14,99 €",
         "to": "9,99 €",
-        "range": "[9,99 € ~ 17,99 €]"
+        "range": "[9,99 € ~ 19,99 €]"
       }
     ],
     "price": 9.99,
