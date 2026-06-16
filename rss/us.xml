@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-06-16T18:15:51.561Z</updated>
+    <updated>2026-06-16T22:19:24.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-16T18:15:51.561Z</updated>
+        <updated>2026-06-16T22:19:24.691Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 16 Jun 2026 18:15:51 GMT</id>
+        <id>rankingusTue, 16 Jun 2026 22:19:24 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-16T18:15:51.561Z</updated>
+        <updated>2026-06-16T22:19:24.691Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -51,13 +51,13 @@ feedId:157008699750812672+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2062</b>
+        <b>2063</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1861</b>
+        <b>1862</b>
       </td>
       <td>
         <b>97</b>
@@ -68,13 +68,13 @@ feedId:157008699750812672+userId:73658201673997312
         <b>US</b>
       </td>
       <td>
-        <b>1911</b>
+        <b>1912</b>
       </td>
       <td>
         <b>176</b>
       </td>
       <td>
-        <b>1735</b>
+        <b>1736</b>
       </td>
       <td>
         <b>79</b>
@@ -133,6 +133,23 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en">Listenify</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>3</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en">彩云天气Pro</a>
       </td>
       <td>
@@ -153,7 +170,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <del>
@@ -172,7 +189,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6502634839?lang=en">Dungeon Tracer</a>
@@ -189,7 +206,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6741892043?lang=en">Road to Empress</a>
@@ -208,23 +225,6 @@ feedId:157008699750812672+userId:73658201673997312
                 <i>Road to Empress I</i>：<b>1</b>
               </li>
             </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>7</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en">Listenify</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>2</b>
           </li>
         </ul>
       </td>
@@ -1975,6 +1975,22 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listenify]]></title>
+        <id>Listenify-us-1781643017274</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en"/>
+        <updated>2026-06-16T20:50:17.274Z</updated>
+        <summary type="html"><![CDATA[Price: $5.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/73/89/53/738953e7-1e11-c97f-051b-2beaef060179/AppIcon_iOS-0-0-1x_U007epad-0-0-0-1-0-85-220.jpeg/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$5.99</span> → <b>
+  <strong>$3.99</strong>
+</b><span>[$1.99 ~ $5.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$3.99</b>
+</p><h2>Application Description</h2><p>NAS music player，Support protocol: webdav, navidrome, subsonic, aliyundrive, emby</p><h2>Application Screenshot</h2><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/bb/38/ffbb385f-53c4-c8aa-cb0e-0fb97c52d743/28247fd3-5bd8-4bf2-a795-0789ac6c5ce8_listenify_ipad_2.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hyper Light Drifter]]></title>
