@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 6742472194,
+    "region": "us",
+    "timestamp": 1781582751091,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$7.99",
+        "range": ""
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Five Blooms",
+        "from": "$3.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Ground of No Return",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6742472194",
+    "trackName": "Tale of Immortal",
+    "firstRecordedAt": 1752517177782
+  },
+  {
     "trackId": 6748572801,
     "region": "us",
     "timestamp": 1781550232616,
