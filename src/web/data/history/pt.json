@@ -60129,6 +60129,14 @@
     "history": [
       [
         {
+          "timestamp": 1781628728222,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1780178493733,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -113163,13 +113171,25 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Daily Challenge": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Daily Challenge": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781628728222,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Daily Challenge": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781550232616,
