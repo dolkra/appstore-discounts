@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 408854559,
+    "region": "us",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id408854559",
+    "trackName": "Hot Springs Story",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1530345628,
+    "region": "us",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1530345628",
+    "trackName": "Hot Springs Story2",
+    "firstRecordedAt": 1760332356675
+  },
+  {
+    "trackId": 6730126160,
+    "region": "us",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6730126160",
+    "trackName": "戏曲锣鼓 - 电子锣鼓打击垫｜虚拟乐器｜演奏模拟器｜戏曲伴奏",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 6479295005,
+    "region": "us",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $5.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6479295005",
+    "trackName": "Dream House Days DX",
+    "firstRecordedAt": 1745658131479
+  },
+  {
+    "trackId": 6503427918,
+    "region": "us",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $6.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6503427918",
+    "trackName": "Legends of Heropolis DX",
+    "firstRecordedAt": 1753873943491
+  },
+  {
     "trackId": 1453875289,
     "region": "us",
     "timestamp": 1781628728222,
@@ -16290,7 +16390,7 @@
         "name": "Price",
         "from": "$5.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $5.99]"
+        "range": "[$0.99 ~ $5.99]"
       }
     ],
     "price": 1.99,
@@ -27211,7 +27311,7 @@
         "name": "Price",
         "from": "$5.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $5.99]"
+        "range": "[$0.99 ~ $5.99]"
       }
     ],
     "price": 1.99,

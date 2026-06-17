@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 408854559,
+    "region": "pt",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id408854559",
+    "trackName": "Hot Springs Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1530345628,
+    "region": "pt",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1530345628",
+    "trackName": "Hot Springs Story2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6503427918,
+    "region": "pt",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6503427918",
+    "trackName": "Legends of Heropolis DX",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6479295005,
+    "region": "pt",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6479295005",
+    "trackName": "Dream House Days DX",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6730126160,
+    "region": "pt",
+    "timestamp": 1781710173773,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6730126160",
+    "trackName": "戏曲锣鼓 - 电子锣鼓打击垫｜虚拟乐器｜演奏模拟器｜戏曲伴奏",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6475892753,
     "region": "pt",
     "timestamp": 1781650397331,
@@ -15561,7 +15661,7 @@
         "name": "Price",
         "from": "6,99 €",
         "to": "1,99 €",
-        "range": "[1,99 € ~ 6,99 €]"
+        "range": "[0,99 € ~ 6,99 €]"
       }
     ],
     "price": 1.99,
