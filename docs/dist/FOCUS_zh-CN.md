@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2066` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2067` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2067|6759284932|自动|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
 |2066|1182217891|自动|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|
 |2065|6762279908|自动|DayGrid: 하루 계획표, 데일리스케줄, 시간표|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: Grid planner & Widget|DayGrid: Grid planner & Widget|DayGrid: 하루 계획표, 데일리스케줄, 시간표|
 |2064|6778099993|自动|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|
@@ -1905,7 +1906,7 @@
 |171|1316883372|手动|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|手动|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|手动|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|
-|168|1422480068|手动|Notes Writer Pro: 笔记和 PDF 标注|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro: Notas e PDF|
+|168|1422480068|手动|Notes Writer Pro：不止 PDF, 笔记和|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: Beyond PDFs|Notes Writer Pro: Beyond PDFs|Notes Writer Pro: além dos PDF|
 |167|6443915320|手动|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|❌|
 |166|884153085|手动|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|
 |165|1065802380|手动|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|

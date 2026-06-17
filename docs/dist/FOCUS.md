@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2066` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2067` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2067|6759284932|Automatic|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
 |2066|1182217891|Automatic|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|
 |2065|6762279908|Automatic|DayGrid: 하루 계획표, 데일리스케줄, 시간표|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: Grid planner & Widget|DayGrid: Grid planner & Widget|DayGrid: 하루 계획표, 데일리스케줄, 시간표|
 |2064|6778099993|Automatic|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|
@@ -1905,7 +1906,7 @@ So far, we've covered `7` `Countries or Regions` and  `2066` `Apps` <br />Push n
 |171|1316883372|Manual|音乐世界赛特斯2|❌|❌|❌|❌|❌|❌|
 |170|956086985|Manual|美元折纸|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|Dollar Bill Origami|
 |169|1436481293|Manual|迷失岛3宇宙的尘埃|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|ISOLAND 3 Dust of the Universe|
-|168|1422480068|Manual|Notes Writer Pro: 笔记和 PDF 标注|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro 2026|Notes Writer Pro: Notas e PDF|
+|168|1422480068|Manual|Notes Writer Pro：不止 PDF, 笔记和|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: 不止 PDF, 筆記|Notes Writer Pro: Beyond PDFs|Notes Writer Pro: Beyond PDFs|Notes Writer Pro: além dos PDF|
 |167|6443915320|Manual|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|发条日签-好心情制造机|❌|
 |166|884153085|Manual|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|Remote, Mouse & Keyboard Pro|
 |165|1065802380|Manual|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|Stream Music Player|
