@@ -107616,14 +107616,22 @@
   "6758935103": {
     "name": "Dash for Tesla",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781693735963,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775743448156,
@@ -109811,6 +109819,48 @@
           "timestamp": 1781550232616,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762279908": {
+    "name": "DayGrid: 그리드 플래너, 위젯, 스케줄",
+    "maxPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
+    },
+    "minPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781693735963,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6778099993": {
+    "name": "KuKirin",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781693735963,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

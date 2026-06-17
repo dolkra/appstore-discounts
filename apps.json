@@ -2,6 +2,20 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6762279908,
+      "name": {
+        "hk": "DayGrid: 網格規劃工具、桌面小工具、行程管理"
+      },
+      "addType": "auto"
+    },
+    {
+      "id": 6778099993,
+      "name": {
+        "pt": "KuKirin"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1671507777,
       "name": {
         "mo": "Isoland  : Pumpkin town"
@@ -8713,7 +8727,8 @@
       "name": {
         "hk": "Listenify"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 6739755879,

@@ -18257,7 +18257,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6475892753",
     "trackName": "Listenify",
-    "firstRecordedAt": 1745481777335
+    "firstRecordedAt": 1745481777335,
+    "notificationDisabled": true
   },
   {
     "trackId": 6476010032,
@@ -22674,10 +22675,10 @@
   {
     "trackId": 6758935103,
     "region": "hk",
-    "timestamp": 1775743448156,
+    "timestamp": 1781693735963,
     "discounts": [],
-    "price": 22,
-    "formattedPrice": "HK$ 22.00",
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6758935103",
     "trackName": "Dash for Tesla",
@@ -23092,6 +23093,18 @@
     "firstRecordedAt": 1777634035508
   },
   {
+    "trackId": 6762279908,
+    "region": "hk",
+    "timestamp": 1781693735963,
+    "discounts": [],
+    "price": 2,
+    "formattedPrice": "HK$ 2.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6762279908",
+    "trackName": "DayGrid: 網格規劃工具、桌面小工具、行程管理",
+    "firstRecordedAt": 1781693735963
+  },
+  {
     "trackId": 6762288718,
     "region": "hk",
     "timestamp": 1780860124255,
@@ -23282,5 +23295,17 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6777748394",
     "trackName": "38-0",
     "firstRecordedAt": 1781550232616
+  },
+  {
+    "trackId": 6778099993,
+    "region": "hk",
+    "timestamp": 1781693735963,
+    "discounts": [],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6778099993",
+    "trackName": "KuKirin",
+    "firstRecordedAt": 1781693735963
   }
 ]
