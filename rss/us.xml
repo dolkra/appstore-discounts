@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-06-16T22:19:24.691Z</updated>
+    <updated>2026-06-17T05:56:38.493Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-16T22:19:24.691Z</updated>
+        <updated>2026-06-17T05:56:38.494Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusTue, 16 Jun 2026 22:19:24 GMT</id>
+        <id>rankingusWed, 17 Jun 2026 05:56:38 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-16T22:19:24.691Z</updated>
+        <updated>2026-06-17T05:56:38.494Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -133,14 +133,20 @@ feedId:157008699750812672+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en">Listenify</a>
+        <a href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en">彩云天气Pro</a>
       </td>
       <td>
         <ul>
           <li>
             <span>Total Times</span>：<b>3</b>
           </li><li>
-            <span>Price</span>：<b>3</b>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>SVIP auto-renew annually</i>：<b>3</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -150,20 +156,14 @@ feedId:157008699750812672+userId:73658201673997312
         <b>4</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en">彩云天气Pro</a>
+        <a href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en">Listenify</a>
       </td>
       <td>
         <ul>
           <li>
-            <span>Total Times</span>：<b>2</b>
+            <span>Total Times</span>：<b>3</b>
           </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>SVIP auto-renew annually</i>：<b>2</b>
-              </li>
-            </ol>
+            <span>Price</span>：<b>3</b>
           </li>
         </ul>
       </td>
@@ -1977,6 +1977,82 @@ feedId:157008699750812672+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[彩云天气Pro]]></title>
+        <id>彩云天气Pro-us-1781669194293</id>
+        <link href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en"/>
+        <updated>2026-06-17T04:06:34.293Z</updated>
+        <summary type="html"><![CDATA[SVIP auto-renew annually: $13.99 → $1.49]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/79/af/f979af02-4819-c4d6-75fb-08dfd0b080c4/AppIcon-pro-0-0-1x_U007epad-0-1-0-0-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>SVIP auto-renew annually：</strong><span>$13.99</span> → <b>
+  <strong>$1.49</strong>
+</b><span>[$1.49 ~ $13.99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$14.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    SVIP auto-renew annually：<b>$1.49</b>
+  </li><li>
+    SVIP auto-renew yearly：<b>$12.99</b>
+  </li><li>
+    545 Days SVIP：<b>$12.99</b>
+  </li><li>
+    3-Year SVIP：<b>$24.99</b>
+  </li><li>
+    575 Days SVIP：<b>$12.99</b>
+  </li><li>
+    1125 Days SVIP：<b>$24.99</b>
+  </li><li>
+    100 Days SVIP：<b>$2.99</b>
+  </li><li>
+    Quarterly SVIP：<b>$2.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Differences from the free version:
+- exclusive rain notification
+- no Ads
+
+Expect the Unexpected with this Beautiful and Easy-to-use Weather App
+
+Accurate Minute to Minute Rainfall Forecast - When will the rain start and when is it going to stop? Know about the weather in advance and plan your day out properly!
+
+
+Street-level accuracy: No more imprecise forecasts based on a national or city level! Your exclusive weather forecast for every block in the neighborhood is here!
+
+Multiple Location Selections: Street-level accurate forecasts to keep an eye on your loved ones!
+
+
+China Rainfall Map - We use the National Meteorological Radar to produce our accurate forecast. Just take a glimpse to know exactly where and how heavy the rain will be!
+
+
+China Air Pollution Map - Is the pollution growing stronger or fading away? Where is it heading to? Just take a look at this map and get the answer to all of your questions!
+
+Real-time satellite imagery
+From the astronaut's point of view, tracing the flowing cloud and glittering days, and Help yourself judge the weather
+
+Omni-directional weather map
+Look at the evolution trend of precipitation, temperature, dew point temperature, humidity and visibility in the next two days.
+
+Weather Feedback - If you feel that our forecast is not completely accurate, please tap the feedback button to help us improve!
+
+
+------
+A big thank you to the "Swarma Club" and our partners for their long-term and unfailing support!
+
+
+Automatic renewal service:
+1. Service name：svip auto-renew monthly, svip auto-renew annually.
+2. Price：9 RMB / Month, 90 RMB / Year.
+3. Account will be charged for renewal within 24-hours prior to the end of the current period, and identify the cost of the renewal.
+4. You can manually open the Apple mobile phone 'Settings' - > enter 'iTunes Store and App Store - > click 'Apple ID', select 'view Apple ID', enter the 'account settings' page, click 'subscription', select 'ColorfulClouds Pro continuous subscription', and cancel subscriptions to end it. Subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period.
+5. Term of use: https://caiyunapp.com/h5/agreement/vipprotocal.html?ostype=ios_pro&lang=en_US
+6. Privacy policy: https://caiyunapp.com/h5/agreement/privacy.html?ostype=ios_pro&lang=en_US
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/73/2c/72732c89-62b4-3ef2-af6a-7540bb665ae7/1659a64f-378e-4750-8a10-963e28c4d4d3_5.5_U5bf8_U82f1_U6587-_U5206_U949f_U7ea7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fc/71/6e/fc716ec0-51c5-8c9c-5ea3-ab6ae76f0c59/2277d8a0-2859-491e-8402-4e09ee5719f9_5.5_U5bf8_U82f1_U6587-_U96f7_U8fbe.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/c6/e8/40c6e84b-d645-2d1c-6c12-0ab85b284217/4545a43b-b050-43f4-b333-d01194f927a6_5.5_U5bf8_U82f1_U6587-_U536b_U661f.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/40/d6/0440d6f8-c223-ea09-a216-ff5a5ab50304/ea7ec244-1185-43c3-bc3a-cdb7cad1562c_5.5_U5bf8_U82f1_U6587-48_U5c0f_U65f6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/e8/27/d5e82740-0179-6975-0abe-63bffb701a68/567de3fd-b0a4-4cbf-a67b-90440dd6141d_5.5_U5bf8_U82f1_U6587-_U7a7a_U6c14_U8d28_U91cf.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/47/18/b9471884-5e91-92e4-1811-d12ca8f59651/3b642941-3478-48e3-bdb0-fc32ea14f19f_en1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/1b/74/741b74d7-721d-186e-3014-cbde56cb3fd3/bbd39543-e933-4d13-985a-6ef08a986e0f_en2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/69/9f/35/699f35aa-cb8b-7638-fd8f-bb042945b781/11efc89f-4a59-43f2-ab1b-14a53cd85d2e_en3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dd/4f/fd/dd4ffd34-7600-3a87-b873-e64e5e799488/75501396-501e-4ff0-bd9e-1ef3063a30e5_en4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/05/9f/00059f04-9a46-56c9-aa5e-0d63eaabd6e3/6961b9e5-1ae4-40b5-934e-d67c6a58925e_en5.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Listenify]]></title>
         <id>Listenify-us-1781643017274</id>
         <link href="https://appstore-discounts.eyelly.me/us/6475892753?lang=en"/>
@@ -2640,76 +2716,5 @@ Perfect for students, professionals, and science enthusiasts alike, our app cate
 
 Download now and dive into the beauty of the Periodic Table in a way you never imagined. Explore, learn, and marvel at the elements with our 3D app today!
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/bc/dd/c9bcdd68-b280-623f-5432-8518cbff35d3/ef5148ab-7e10-4514-a6e2-e1c009a6bd55_iPhone1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/ff/cc/dfffcc61-0d3c-92ca-3ca5-10932c2c4f51/b6e4e087-242d-46e8-872b-0f3942c1ff6c_iPhone2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/48/47/d3484745-c6c8-608f-61aa-9d83ee438dc6/db2a9ccb-33fb-45e5-9f7b-3674e171ccb0_iPhone3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/4e/75/a24e7565-a829-f072-251a-c44e52bd02a3/aee91e27-8b54-4227-baf7-d4d16e851fc8_iPhone4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6c/e2/83/6ce28374-7196-85bb-e56e-9dde639fb706/44ef36cf-7d05-4e58-bd0b-7d9e24e92fc7_iPhone5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/eb/5c/9b/eb5c9b4b-606e-94ff-66cb-0c6f7f9e4575/b4ae070e-ed0f-4c1e-b523-14db4d639032_iPadPro1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/49/22/72/49227284-54fe-3469-28f6-44f355dda1b8/c168846b-0263-4a2d-a6f1-23f5e3d61f6b_iPadPro2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9f/0a/5c/9f0a5c7f-eb6c-d6fb-2874-6cf7ce354d86/c95a8834-1d5a-4f62-9c0e-d32e98427232_iPadPro3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/c9/d6/76c9d636-eb39-28d8-af2a-4f23141babb2/4bd5dbc0-c6c4-4e89-affd-52df5a6f461b_iPadPro4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/74/db/2374dbb1-ed88-9b50-5e5f-726dfa413015/449a5f85-4e40-4b60-9ab5-4d611451effc_iPadPro5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neo Monsters]]></title>
-        <id>Neo Monsters-us-1781409790277</id>
-        <link href="https://appstore-discounts.eyelly.me/us/983143183?lang=en"/>
-        <updated>2026-06-14T04:03:10.277Z</updated>
-        <summary type="html"><![CDATA[Price: $0.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/983143183?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/2b/94/0c2b943b-1c59-2cdc-66b3-202f1d92e42d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$0.99</span> → <b>
-  <strong>Free</strong>
-</b><span>[Free ~ $0.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Free</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    13 Gems：<b>$7.99</b>
-  </li><li>
-    6 Gems：<b>$3.99</b>
-  </li><li>
-    1 Gem：<b>$0.99</b>
-  </li><li>
-    48 Gems：<b>$28.99</b>
-  </li><li>
-    150 Gems：<b>$79.99</b>
-  </li><li>
-    74 Gems：<b>$40.99</b>
-  </li><li>
-    28 Gems：<b>$14.99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Become a Legend! Capture over 3000 Animated Monsters and Duel in Real-Time PvP!
-
-Form your team and battle for victory! Capture, train, and evolve to become the champion in one of the biggest monster battling RPGs!
-
-Neo Monsters is an addictive strategy RPG that features epic 4v4 battles between two teams of up to 16 monsters. The unique turn-based battle system allows you to come up with powerful chain strategies by combining hundreds of abilities. Hunt down the strongest monsters and harness their power, then take the battle online to dominate in exciting PvP battles and leagues! Are you ready to take the challenge?
-
-▶Features:
-●  Build your Monster Collection
-• Capture and evolve over 1000 fully animated monsters!
-• Train your monsters and unleash their deadly potential.
-• Collect evolution ingredients to create the ultimate power!
-
-●  Form a Battle Strategy
-• Build the ultimate team of up to 16 monsters.
-• Defeat your opponents in epic turn-based 4v4 battles!
-• Create devastating combinations from hundreds of abilities.
-
-●  Become the Champion
-• Conquer six Leagues and take on the Grand Champion in 60+ hours of adventure!
-• Explore multiple islands and dungeons on your journey.
-• Follow the story to uncover the truth behind your late uncle’s atrocity.
-
-●  Take the Battle Online
-• Duel players from around the world in PvP leagues!
-• Complete 100+ online missions.
-• Take on weekly updated events to unlock big rewards.
-
-Follow us on Facebook:
-https://www.facebook.com/NeoMonstersOfficial/
-Join the Neo Monsters community:
-http://www.neomonstersforum.com/
-Issues or questions? Contact our support:
-neomonsupport.gameplay@zigzagame.net
-
-Terms of Service:
-https://www.zigzagame.com/terms/
-Privacy Policy:
-https://www.zigzagame.com/privacy-policy/
-</p>]]></content>
     </entry>
 </feed>
