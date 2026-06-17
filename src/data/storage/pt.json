@@ -1867,7 +1867,8 @@
       "LUFS Meter": "9,99 €",
       "HAA CinemaTools with HAA Link": "179,99 €",
       "Impedance Module": "34,99 €",
-      "Gated Noise RT60": "39,99 €"
+      "Gated Noise RT60": "39,99 €",
+      "Max Subwoofer SPL": "34,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -1896,9 +1897,29 @@
       "LUFS Meter": "9,99 €",
       "HAA CinemaTools with HAA Link": "99,99 €",
       "Impedance Module": "34,99 €",
-      "Gated Noise RT60": "39,99 €"
+      "Gated Noise RT60": "39,99 €",
+      "Max Subwoofer SPL": "34,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781727143966,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "34,99 €",
+            "LUFS Meter": "9,99 €",
+            "HAA CinemaTools with HAA Link": "179,99 €",
+            "HAA Link": "9,99 €",
+            "HAA Pro Module": "22,99 €",
+            "SPL Enhance": "44,99 €",
+            "All-In Module Access": "9,99 €",
+            "HAA Upgrade to Pro": "449,99 €",
+            "HAA Pro Installer Calibration": "599,99 €",
+            "HAA Home Theater": "99,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778799814271,
@@ -45425,6 +45446,27 @@
           "timestamp": 1765139302273,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1182217891": {
+    "name": "掌上洞箫-丁晓逵代言",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781727143966,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -108887,6 +108929,18 @@
     "history": [
       [
         {
+          "timestamp": 1781727143966,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "BikeControl Pro": "2,79 €",
+            "Full Version Unlock": "4,99 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1780773771362,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -109732,14 +109786,20 @@
       "20 fuel to storage": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "+200 fuel to storage": "5,99 €",
       "+75 fuel to storage": "2,99 €",
       "20 fuel to storage": "0,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1781727143966,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1781710173773,
           "price": 1.99,
@@ -109900,7 +109960,7 @@
     ]
   },
   "6762279908": {
-    "name": "DayGrid: 그리드 플래너, 위젯, 스케줄",
+    "name": "DayGrid: 하루 계획표, 데일리스케줄, 시간표",
     "maxPriceInfo": {
       "price": 0.49,
       "formattedPrice": "0,49 €"
