@@ -18043,6 +18043,25 @@
     "history": [
       [
         {
+          "timestamp": 1781796255294,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mission 37 Gold": "2,99 €",
+            "Mission 36 Gold": "2,99 €",
+            "Mission 37 Demo": "0,99 €",
+            "Mission 36 Demo": "0,99 €",
+            "Mission 36 Skip": "1,99 €",
+            "Mission 35 Skip": "1,99 €",
+            "Mission 35 Gold": "2,99 €",
+            "Mission 35 Demo": "0,99 €",
+            "Mission 34 Skip": "1,99 €",
+            "Mission 34 Gold": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1781582751091,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -39267,6 +39286,20 @@
       "Parallels Desktop for Mac #5": "89,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781796255294,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "89,99 €",
+            "Parallels Desktop for Mac #4": "89,99 €",
+            "Parallels Desktop for Mac #3": "89,99 €",
+            "Parallels Desktop for Mac": "89,99 €",
+            "Parallels Desktop for Mac #2": "89,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780891201931,
@@ -75935,6 +75968,25 @@
     "history": [
       [
         {
+          "timestamp": 1781796255294,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Daniel skin": "0,99 €",
+            "Reyna skin": "0,99 €",
+            "Jorge skin": "0,99 €",
+            "Gloria skin": "0,99 €",
+            "Purple menu color": "3,99 €",
+            "Red menu color": "1,99 €",
+            "Yellow menu color": "0,99 €",
+            "James character": "0,99 €",
+            "Lisa character": "0,00 €",
+            "Elsa character": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1779896486654,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -107880,6 +107932,14 @@
     "history": [
       [
         {
+          "timestamp": 1781796255294,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1775428770697,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -113802,6 +113862,29 @@
           "timestamp": 1781736329315,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6443677513": {
+    "trackId": 6443677513,
+    "trackName": "Keka",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781796255294,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
