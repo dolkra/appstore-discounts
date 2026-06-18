@@ -10,7 +10,7 @@
 |2067|6759284932|自动|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
 |2066|1182217891|自动|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|
 |2065|6762279908|自动|DayGrid: 하루 계획표, 데일리스케줄, 시간표|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: Grid planner & Widget|DayGrid: Grid planner & Widget|DayGrid: 하루 계획표, 데일리스케줄, 시간표|
-|2064|6778099993|自动|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|KuKirin|
+|2064|6778099993|自动|KuKirin Manager|KuKirin Manager|KuKirin Manager|KuKirin Manager|KuKirin Manager|KuKirin Manager|KuKirin Manager|
 |2063|1671507777|自动|❌|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|
 |2062|6777748394|自动|38-0|38-0|38-0|38-0|38-0|38-0|38-0|
 |2061|6744002776|自动|Clear Icons|Clear Icons|Clear Icons|Clear Icons|Clear Icons|Clear Icons|Clear Icons|
