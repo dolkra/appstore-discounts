@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2070` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2072` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2072|1605488891|Automatic|VESC Tool|VESC Tool|VESC Tool|VESC Tool|VESC Tool|VESC Tool|VESC Tool|
+|2071|6755353645|Automatic|慢慢吃|慢慢吃|慢慢吃|慢慢吃|Eat Slowly|Eat Slowly|Eat Slowly|
 |2070|1410350374|Automatic|❌|魔石傳說|魔石傳說|魔石傳說|Devil Stone|Devil Stone|Devil Stone|
 |2069|6479395335|Automatic|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|
 |2068|6443677513|Automatic|Keka •|Keka •|Keka •|Keka •|Keka|Keka|Keka|

@@ -80858,6 +80858,29 @@
       ]
     ]
   },
+  "1605488891": {
+    "trackId": 1605488891,
+    "trackName": "VESC Tool",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781864761375,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1606405358": {
     "trackId": 1606405358,
     "trackName": "Dealer's Life Pawn Shop",
@@ -113027,13 +113050,25 @@
       "BikeControl Pro - Yearly": "24,99 €"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "4,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Full Version Unlock": "4,99 €",
       "BikeControl Pro": "2,79 €",
       "BikeControl Pro - Yearly": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781864761375,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "BikeControl Pro": "2,79 €",
+            "Full Version Unlock": "4,99 €",
+            "BikeControl Pro - Yearly": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781727143966,
@@ -114273,6 +114308,29 @@
           "timestamp": 1781842641085,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6755353645": {
+    "trackId": 6755353645,
+    "trackName": "Eat Slowly",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781864761375,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
