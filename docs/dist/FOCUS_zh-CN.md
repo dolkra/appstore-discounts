@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2069` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2070` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2070|1410350374|自动|❌|魔石傳說|魔石傳說|魔石傳說|Devil Stone|Devil Stone|Devil Stone|
 |2069|6479395335|自动|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|
 |2068|6443677513|自动|Keka •|Keka •|Keka •|Keka •|Keka|Keka|Keka|
 |2067|6759284932|自动|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
@@ -1845,7 +1846,7 @@
 |234|6470958985|自动|❌|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|
 |233|6445875391|自动|叶分贝-噪音分贝检测|湯米分貝:專業噪音分貝檢測儀|湯米分貝:專業噪音分貝檢測儀|湯米分貝:專業噪音分貝檢測儀|Tomi dB:Sound Decibel Meter|Tomi dB:Sound Decibel Meter|叶分贝-噪音分贝检测|
 |232|6443923265|自动|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|
-|231|6739839815|自动|❌|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|❌|
+|231|6739839815|自动|❌|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|
 |230|6505052301|自动|❌|碧海蒼雲錄|碧海蒼雲錄|碧海蒼雲錄|❌|❌|❌|
 |229|6642649684|自动|❌|韭菜投資公司2|韭菜投資公司2|韭菜投資公司2|Leek Inc. 2|Leek Inc. 2|Leek Inc. 2|
 |228|6738784092|自动|❌|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|

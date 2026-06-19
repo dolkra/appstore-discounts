@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2069` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2070` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2070|1410350374|Automatic|❌|魔石傳說|魔石傳說|魔石傳說|Devil Stone|Devil Stone|Devil Stone|
 |2069|6479395335|Automatic|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|RPGViewer|
 |2068|6443677513|Automatic|Keka •|Keka •|Keka •|Keka •|Keka|Keka|Keka|
 |2067|6759284932|Automatic|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
@@ -1845,7 +1846,7 @@ So far, we've covered `7` `Countries or Regions` and  `2069` `Apps` <br />Push n
 |234|6470958985|Automatic|❌|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|完美的一天 - 無限流劇情向解謎游戲|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|A Perfect Day: Go back to 1999|
 |233|6445875391|Automatic|叶分贝-噪音分贝检测|湯米分貝:專業噪音分貝檢測儀|湯米分貝:專業噪音分貝檢測儀|湯米分貝:專業噪音分貝檢測儀|Tomi dB:Sound Decibel Meter|Tomi dB:Sound Decibel Meter|叶分贝-噪音分贝检测|
 |232|6443923265|Automatic|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|GSE SMART IPTV PRO|
-|231|6739839815|Automatic|❌|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|❌|
+|231|6739839815|Automatic|❌|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|RogueVana|
 |230|6505052301|Automatic|❌|碧海蒼雲錄|碧海蒼雲錄|碧海蒼雲錄|❌|❌|❌|
 |229|6642649684|Automatic|❌|韭菜投資公司2|韭菜投資公司2|韭菜投資公司2|Leek Inc. 2|Leek Inc. 2|Leek Inc. 2|
 |228|6738784092|Automatic|❌|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|A Little to the Left: Drawers|

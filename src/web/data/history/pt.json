@@ -57463,6 +57463,29 @@
       ]
     ]
   },
+  "1410350374": {
+    "trackId": 1410350374,
+    "trackName": "Devil Stone",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781842641085,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1411823462": {
     "trackId": 1411823462,
     "trackName": "7Days : Backer",
@@ -62865,6 +62888,25 @@
       "Emberwing Token": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781842641085,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Ruby Dragon Sale": "2,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781669194293,
@@ -93424,7 +93466,8 @@
       "F4U Corsair": "0,99 €",
       "Extra 330": "0,99 €",
       "Airbus A321 XLR": "3,99 €",
-      "P-38 Lightning": "0,99 €"
+      "P-38 Lightning": "0,99 €",
+      "Dr.1": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -93464,9 +93507,29 @@
       "F4U Corsair": "0,99 €",
       "Extra 330": "0,99 €",
       "Airbus A321 XLR": "3,99 €",
-      "P-38 Lightning": "0,99 €"
+      "P-38 Lightning": "0,99 €",
+      "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781842641085,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "EC135": "0,99 €",
+            "Dr.1": "0,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "The Aircraft Bundle": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781814371032,
@@ -114187,6 +114250,29 @@
           "timestamp": 1781814371032,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6739839815": {
+    "trackId": 6739839815,
+    "trackName": "RogueVana",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781842641085,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
