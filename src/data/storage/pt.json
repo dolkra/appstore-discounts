@@ -9097,6 +9097,25 @@
     "history": [
       [
         {
+          "timestamp": 1781993190082,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Amped Guitar & Bass": "2,99 €",
+            "Ferrous Mobile": "2,99 €",
+            "Chill-Lo-Fi Mobile": "1,99 €",
+            "Sliced Synth Sequences": "2,99 €",
+            "PsyTrance": "2,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Voices": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "Acoustic Guitars": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1781898556796,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -67383,10 +67402,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781993190082,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764556138236,
@@ -75460,6 +75487,22 @@
       "Gems pack 1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781993190082,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Starter pack": "5,99 €",
+            "Stars pack 3": "2,99 €",
+            "Stars Pack 2": "1,99 €",
+            "Stars Pack 1": "0,99 €",
+            "Gems pack 3": "2,99 €",
+            "Gems pack 2": "1,99 €",
+            "Gems pack 1": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773745084652,
@@ -89428,6 +89471,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781993190082,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774218830196,
@@ -104026,10 +104077,18 @@
       "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
-      "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "price": 5.59,
+      "formattedPrice": "5,59 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781993190082,
+          "price": 5.59,
+          "formattedPrice": "5,59 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1779720817988,
@@ -107384,6 +107443,14 @@
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781993190082,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781016655027,
@@ -111208,6 +111275,27 @@
           "timestamp": 1781964189596,
           "price": 6.99,
           "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6757846100": {
+    "name": "This Aint Even Poker, Ya Joker",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781993190082,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

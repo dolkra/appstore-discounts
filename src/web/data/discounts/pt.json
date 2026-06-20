@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1519386476,
+    "region": "pt",
+    "timestamp": 1781993190082,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,29 €",
+        "range": "[0,29 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "0,29 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1519386476",
+    "trackName": "MiniJogos - Retro de Relógio",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1577762239,
+    "region": "pt",
+    "timestamp": 1781993190082,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,29 €",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "0,29 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1577762239",
+    "trackName": "Invading Horde - TD",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6466296603,
+    "region": "pt",
+    "timestamp": 1781993190082,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6499431452,
+    "region": "pt",
+    "timestamp": 1781993190082,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "5,59 €",
+        "range": "[5,59 € ~ 8,99 €]"
+      }
+    ],
+    "price": 5.59,
+    "formattedPrice": "5,59 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6499431452",
+    "trackName": "Blasphemous",
+    "firstRecordedAt": 1764167326995
+  },
+  {
     "trackId": 1290687550,
     "region": "pt",
     "timestamp": 1781926725834,
@@ -2401,7 +2481,7 @@
         "name": "Price",
         "from": "8,99 €",
         "to": "7,99 €",
-        "range": "[7,99 € ~ 8,99 €]"
+        "range": "[5,59 € ~ 8,99 €]"
       }
     ],
     "price": 7.99,
@@ -17544,7 +17624,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 1,99 €]"
+        "range": "[0,29 € ~ 1,99 €]"
       }
     ],
     "price": 0.99,
