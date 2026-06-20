@@ -18148,6 +18148,23 @@
     "history": [
       [
         {
+          "timestamp": 1781945771294,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Sandbox Unlock All Parts": "8,99 €",
+            "Sandbox Unlock Standard Parts": "8,99 €",
+            "Mission 16 Gold": "1,99 €",
+            "Nooleus X Parts Pack": "3,99 €",
+            "Transponder Module": "0,99 €",
+            "Mission 12 Skip": "0,99 €",
+            "Mission Free Unlock-All": "5,99 €",
+            "1000 Quick Launches": "3,99 €",
+            "Mission 15 Gold": "1,99 €",
+            "Mission 15 Skip": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1781926725834,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -63163,6 +63180,23 @@
     "history": [
       [
         {
+          "timestamp": 1781945771294,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Ruby Dragon Sale": "2,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €"
+          }
+        },
+        {
           "timestamp": 1781926725834,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -67536,7 +67570,9 @@
       "Hunter Offer Sale": "5,99 €",
       "Master Offer Sale": "9,99 €",
       "Crystal Offer": "22,99 €",
-      "Elite Offer": "9,99 €"
+      "Elite Offer": "9,99 €",
+      "Spray kit": "3,99 €",
+      "Ascensio Kit": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -67565,9 +67601,30 @@
       "Hunter Offer Sale": "5,99 €",
       "Master Offer Sale": "9,99 €",
       "Crystal Offer": "22,99 €",
-      "Elite Offer": "9,99 €"
+      "Elite Offer": "9,99 €",
+      "Spray kit": "3,99 €",
+      "Ascensio Kit": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1781945771294,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Spray kit": "3,99 €",
+            "Ascensio Kit": "5,99 €",
+            "Zenith Islands DLC Sale": "2,99 €",
+            "Prime Dimension DLC Sale": "2,99 €",
+            "Crystal Offer Sale": "9,99 €",
+            "Elite Offer Sale": "5,99 €",
+            "Fancy Apparel Offer Sale": "7,99 €",
+            "Starter Offer Sale": "1,99 €",
+            "Hunter Offer Sale": "5,99 €",
+            "Master Offer Sale": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780933942517,
@@ -114030,7 +114087,7 @@
   },
   "6751319443": {
     "trackId": 6751319443,
-    "trackName": "poker-math",
+    "trackName": "Poker Math: Odds & EV Trainer",
     "region": "pt",
     "maxPriceInfo": {
       "price": 0.99,

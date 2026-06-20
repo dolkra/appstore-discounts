@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2072` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2073` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2073|6761366366|自动|ZineControl|ZineControl|ZineControl|ZineControl|ZineControl|ZineControl|❌|
 |2072|1605488891|自动|VESC Tool|VESC Tool|VESC Tool|VESC Tool|VESC Tool|VESC Tool|VESC Tool|
 |2071|6755353645|自动|慢慢吃|慢慢吃|慢慢吃|慢慢吃|Eat Slowly|Eat Slowly|Eat Slowly|
 |2070|1410350374|自动|❌|魔石傳說|魔石傳說|魔石傳說|Devil Stone|Devil Stone|Devil Stone|
@@ -49,7 +50,7 @@
 |2033|6745230519|自动|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
 |2032|6759642128|自动|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|
 |2031|6762921522|自动|牌局记分器|牌局記分器|牌局記分器|牌局記分器|Game Scorer Round Tracker|Game Scorer Round Tracker|牌局记分器|
-|2030|6751319443|自动|❌|poker-math|poker-math|poker-math|poker-math|poker-math|poker-math|
+|2030|6751319443|自动|❌|poker-math|poker-math|poker-math|poker-math|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|
 |2029|1509500916|自动|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
 |2028|6482984389|自动|❌|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|
 |2027|6772549927|自动|❌|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|
@@ -233,7 +234,7 @@
 |1849|356994010|自动|Le Conjugueur|Le Conjugueur|Le Conjugueur|Le Conjugueur|Le Conjugueur|Le Conjugueur|Le Conjugueur|
 |1848|493207167|自动|易经导航 - iChing Navigator|易經導航 - iChing Navigator|易經導航 - iChing Navigator|易經導航 - iChing Navigator|易经导航 - iChing Navigator|易经导航 - iChing Navigator|易经导航 - iChing Navigator|
 |1847|1076480192|自动|Photo Manager Pro|Photo Manager Pro|Photo Manager Pro|Photo Manager Pro|Photo Manager Pro|Photo Manager Pro|Photo Manager Pro|
-|1846|316133247|自动|朗文当代高级词典（第6版）|朗文當代高級詞典 (第6版)|朗文當代高級詞典 (第6版)|朗文當代高級詞典 (第6版)|❌|LDOCE|LDOCE|
+|1846|316133247|自动|朗文当代高级词典（第6版）|朗文當代高級詞典 (第6版)|朗文當代高級詞典 (第6版)|朗文當代高級詞典 (第6版)|LDOCE|LDOCE|LDOCE|
 |1845|1551480486|自动|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|IFR Trainer|
 |1844|297328082|自动|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|iComic -comic reader-|
 |1843|434343055|自动|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|Special Symbols: Keyboards|
