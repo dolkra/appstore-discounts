@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1290687550,
+    "region": "tr",
+    "timestamp": 1781983569683,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1290687550",
+    "trackName": "Cytus II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 6759861082,
     "region": "tr",
     "timestamp": 1781945771294,
@@ -38,26 +58,6 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6762970009",
     "trackName": "Otoparkçı",
     "firstRecordedAt": 1777371742983
-  },
-  {
-    "trackId": 1290687550,
-    "region": "tr",
-    "timestamp": 1781926725834,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "₺99,99",
-        "to": "Free",
-        "range": "[Free ~ ₺99,99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id1290687550",
-    "trackName": "Cytus II",
-    "firstRecordedAt": 1745328692670
   },
   {
     "trackId": 6759806669,

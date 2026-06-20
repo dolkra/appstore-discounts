@@ -752,7 +752,7 @@ So far, we've covered `7` `Countries or Regions` and  `2074` `Apps` <br />Push n
 |1332|657638474|Automatic|❌|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot : Programming Puzzles|Lightbot|
 |1331|465810912|Automatic|计算器HD+专业版|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculator HD+ Pro|Calculadora HD+ PRO|
 |1330|6443943397|Automatic|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|Wilderless 流浪荒野|❌|❌|❌|
-|1329|1637438059|Automatic|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap para o YouTube|
+|1329|1637438059|Automatic|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|UnTrap for YouTube|
 |1328| ~~6749845582~~ |Automatic| ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~NPD知识普及~~ | ~~❌~~ |
 |1327|314306777|Automatic|❌|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|慾經 - 隨身性愛姿勢指南及成人伴侶慾經遊戲 02|Kamasutra Sex Positions Guide|Kamasutra Sex Positions Guide|❌|
 |1326| ~~6749620111~~ |Automatic| ~~❌~~ | ~~石器手機版Go！自由抓捕,寵物養成遊戲~~ | ~~❌~~ | ~~石器手機版Go！自由抓捕,寵物養成遊戲~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
