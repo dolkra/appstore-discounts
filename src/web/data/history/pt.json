@@ -106376,6 +106376,19 @@
     "history": [
       [
         {
+          "timestamp": 1781964189596,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 2": "6,99 €",
+            "Raider Mk. 3": "9,99 €",
+            "Raider Mk. 1": "0,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778557964088,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -114731,6 +114744,29 @@
           "timestamp": 1781864761375,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746666681": {
+    "trackId": 6746666681,
+    "trackName": "Data of Exile - POE2Data",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1781964189596,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
           "inAppPurchases": {}
         }
       ]

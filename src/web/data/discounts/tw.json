@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1519386476,
+    "region": "tw",
+    "timestamp": 1781964189596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $60.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1519386476",
+    "trackName": "迷你遊戲 - 復古手錶遊戲",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1577762239,
+    "region": "tw",
+    "timestamp": 1781964189596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$10.00",
+        "range": "[免費 ~ $60.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1577762239",
+    "trackName": "Invading Horde - TD",
+    "firstRecordedAt": 1745481777335
+  },
+  {
+    "trackId": 6466296603,
+    "region": "tw",
+    "timestamp": 1781964189596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1745578938597
+  },
+  {
+    "trackId": 6499431452,
+    "region": "tw",
+    "timestamp": 1781964189596,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$190.00",
+        "range": "[$190.00 ~ $290.00]"
+      }
+    ],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6499431452",
+    "trackName": "Blasphemous",
+    "firstRecordedAt": 1764167326995
+  },
+  {
     "trackId": 1290687550,
     "region": "tw",
     "timestamp": 1781926725834,
@@ -18160,7 +18240,7 @@
         "name": "Price",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$20.00 ~ $60.00]"
+        "range": "[$10.00 ~ $60.00]"
       }
     ],
     "price": 30,
@@ -24248,7 +24328,7 @@
         "name": "Price",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$20.00 ~ $60.00]"
+        "range": "[$10.00 ~ $60.00]"
       }
     ],
     "price": 30,
@@ -34591,7 +34671,7 @@
         "name": "Price",
         "from": "$60.00",
         "to": "$20.00",
-        "range": "[$20.00 ~ $60.00]"
+        "range": "[$10.00 ~ $60.00]"
       }
     ],
     "price": 20,
