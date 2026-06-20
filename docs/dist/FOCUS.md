@@ -50,7 +50,7 @@ So far, we've covered `7` `Countries or Regions` and  `2073` `Apps` <br />Push n
 |2033|6745230519|Automatic|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
 |2032|6759642128|Automatic|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|
 |2031|6762921522|Automatic|牌局记分器|牌局記分器|牌局記分器|牌局記分器|Game Scorer Round Tracker|Game Scorer Round Tracker|牌局记分器|
-|2030|6751319443|Automatic|❌|poker-math|poker-math|poker-math|poker-math|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|
+|2030|6751319443|Automatic|❌|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|
 |2029|1509500916|Automatic|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
 |2028|6482984389|Automatic|❌|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|
 |2027|6772549927|Automatic|❌|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|
