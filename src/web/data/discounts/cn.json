@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 1637377410,
+    "region": "cn",
+    "timestamp": 1782035419414,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1637377410",
+    "trackName": "Flying Carpet File Transfer",
+    "firstRecordedAt": 1761553104805
+  },
+  {
+    "trackId": 6743148949,
+    "region": "cn",
+    "timestamp": 1782035419414,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "女帝篇",
+        "from": "¥59.00",
+        "to": "¥53.00",
+        "range": "[¥53.00 ~ ¥59.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "媚娘篇",
+        "from": "¥39.00",
+        "to": "¥33.00",
+        "range": "[¥33.00 ~ ¥39.00]"
+      }
+    ],
+    "price": 6,
+    "formattedPrice": "¥6.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6743148949",
+    "trackName": "盛世天下：女王的游戏",
+    "firstRecordedAt": 1757416246562
+  },
+  {
     "trackId": 6759806669,
     "region": "cn",
     "timestamp": 1781882161679,

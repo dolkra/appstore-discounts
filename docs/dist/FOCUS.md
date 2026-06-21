@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2075` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2078` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2078|1044671796|Automatic|❌|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|
+|2077|1410742242|Automatic|❌|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|
+|2076|1467248737|Automatic|❌|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|
 |2075|6757846100|Automatic|❌|This Aint Even Poker, Ya Joker|This Aint Even Poker, Ya Joker|This Aint Even Poker, Ya Joker|This Aint Even Poker, Ya Joker|This Aint Even Poker, Ya Joker|This Aint Even Poker, Ya Joker|
 |2074|6746666681|Automatic|Data of Exile - POE2Data|Data of Exile - POE2Data|Data of Exile - POE2Data|Data of Exile - POE2Data|Data of Exile - POE2Data|Data of Exile - POE2Data|Data of Exile - POE2Data|
 |2073|6761366366|Automatic|ZineControl|ZineControl|ZineControl|ZineControl|ZineControl|ZineControl|❌|

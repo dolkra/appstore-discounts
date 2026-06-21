@@ -37043,6 +37043,29 @@
       ]
     ]
   },
+  "1044671796": {
+    "trackId": 1044671796,
+    "trackName": "Le Havre: The Inland Port",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782035419414,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1047815745": {
     "trackId": 1047815745,
     "trackName": "Music With Grandma",
@@ -57783,6 +57806,36 @@
       ]
     ]
   },
+  "1410742242": {
+    "trackId": 1410742242,
+    "trackName": "The Castles of Burgundy",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Map Pack 1": "2,99 €",
+      "Map Pack 2": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Map Pack 1": "2,99 €",
+      "Map Pack 2": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782035419414,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Map Pack 1": "2,99 €",
+            "Map Pack 2": "2,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1411823462": {
     "trackId": 1411823462,
     "trackName": "7Days : Backer",
@@ -62196,6 +62249,33 @@
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1467248737": {
+    "trackId": 1467248737,
+    "trackName": "Viticulture",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Tuscany Essential Edition": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €",
+      "Tuscany Essential Edition": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782035419414,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Tuscany Essential Edition": "9,99 €"
+          }
         }
       ]
     ]
@@ -84005,10 +84085,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1782035419414,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
