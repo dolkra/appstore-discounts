@@ -107011,15 +107011,29 @@
       "price": 0.99,
       "formattedPrice": "0,99 €",
       "Luxury Pack": "1,99 €",
-      "Medium Pack": "0,99 €"
+      "Medium Pack": "0,99 €",
+      "Full Game Unlock": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
       "Luxury Pack": "1,99 €",
-      "Medium Pack": "0,99 €"
+      "Medium Pack": "0,99 €",
+      "Full Game Unlock": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1782015118620,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Full Game Unlock": "0,99 €",
+            "Luxury Pack": "1,99 €",
+            "Medium Pack": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771074299368,
