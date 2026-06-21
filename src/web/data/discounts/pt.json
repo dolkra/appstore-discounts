@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 982175678,
+    "region": "pt",
+    "timestamp": 1782080091315,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "17,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 17,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id982175678",
+    "trackName": "This War of Mine",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1499001662,
+    "region": "pt",
+    "timestamp": 1782080091315,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "4,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 4,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
+    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6755930349,
     "region": "pt",
     "timestamp": 1782060327512,
@@ -4577,7 +4617,7 @@
         "name": "Price",
         "from": "4,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[Gratuito ~ 4,99 €]"
       }
     ],
     "price": 0.99,
@@ -13660,7 +13700,7 @@
         "name": "Price",
         "from": "4,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 4,99 €]"
+        "range": "[Gratuito ~ 4,99 €]"
       }
     ],
     "price": 0.99,
