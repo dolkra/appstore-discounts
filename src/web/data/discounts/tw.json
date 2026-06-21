@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 982175678,
+    "region": "tw",
+    "timestamp": 1782051043626,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$490.00",
+        "to": "$60.00",
+        "range": "[$30.00 ~ $490.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id982175678",
+    "trackName": "This War of Mine",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1499001662,
+    "region": "tw",
+    "timestamp": 1782051043626,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "免費",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1604675493,
+    "region": "tw",
+    "timestamp": 1782051043626,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$290.00",
+        "range": "[$290.00 ~ $320.00]"
+      }
+    ],
+    "price": 290,
+    "formattedPrice": "$290.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1604675493",
+    "trackName": "Descenders",
+    "firstRecordedAt": 1777371742983
+  },
+  {
     "trackId": 1637377410,
     "region": "tw",
     "timestamp": 1782035419414,
@@ -4542,7 +4602,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $150.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -14044,7 +14104,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $150.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 30,
@@ -21286,7 +21346,7 @@
         "name": "Price",
         "from": "$150.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $150.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 30,

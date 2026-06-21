@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 982175678,
+    "region": "hk",
+    "timestamp": 1782051043626,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 118.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 8.00 ~ HK$ 118.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id982175678",
+    "trackName": "This War of Mine",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1499001662,
+    "region": "hk",
+    "timestamp": 1782051043626,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1604675493,
+    "region": "hk",
+    "timestamp": 1782051043626,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 88.00",
+        "to": "HK$ 68.00",
+        "range": "[HK$ 68.00 ~ HK$ 88.00]"
+      }
+    ],
+    "price": 68,
+    "formattedPrice": "HK$ 68.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1604675493",
+    "trackName": "Descenders",
+    "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 6467822375,
+    "region": "hk",
+    "timestamp": 1782051043626,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "每週訂閱",
+        "from": "HK$ 8.00",
+        "to": "HK$ 6.00",
+        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1745593334191
+  },
+  {
     "trackId": 1637377410,
     "region": "hk",
     "timestamp": 1782035419414,
@@ -4459,7 +4539,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+        "range": "[免費 ~ HK$ 38.00]"
       }
     ],
     "price": 8,
@@ -14008,7 +14088,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+        "range": "[免費 ~ HK$ 38.00]"
       }
     ],
     "price": 8,
@@ -20467,7 +20547,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+        "range": "[免費 ~ HK$ 38.00]"
       }
     ],
     "price": 8,
