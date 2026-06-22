@@ -1,5 +1,145 @@
 [
   {
+    "trackId": 966489322,
+    "region": "us",
+    "timestamp": 1782101576613,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "永久会员",
+        "from": "$14.99",
+        "to": "$12.99",
+        "range": "[$12.99 ~ $19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id966489322",
+    "trackName": "生辰 — 桌面时间小组件",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 982175678,
+    "region": "us",
+    "timestamp": 1782101576613,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$13.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $13.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id982175678",
+    "trackName": "This War of Mine",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1499001662,
+    "region": "us",
+    "timestamp": 1782101576613,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "Free",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer RPG",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1604675493,
+    "region": "us",
+    "timestamp": 1782101576613,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$8.99",
+        "range": "[$8.99 ~ $9.99]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "$8.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1604675493",
+    "trackName": "Descenders",
+    "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 6642649684,
+    "region": "us",
+    "timestamp": 1782101576613,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Leek VIP",
+        "from": "$6.99",
+        "to": "$4.99",
+        "range": "[$1.99 ~ $6.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6642649684",
+    "trackName": "Leek Inc. 2",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6467822375,
+    "region": "us",
+    "timestamp": 1782101576613,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Weekly Subscription",
+        "from": "$1.49",
+        "to": "$0.99",
+        "range": "[$0.69 ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 6757846100,
+    "region": "us",
+    "timestamp": 1782101576613,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$2.49",
+        "range": "[$2.49 ~ $2.99]"
+      }
+    ],
+    "price": 2.49,
+    "formattedPrice": "$2.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 6755930349,
     "region": "us",
     "timestamp": 1782060327512,
@@ -4687,7 +4827,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $4.99]"
+        "range": "[Free ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -14287,7 +14427,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $4.99]"
+        "range": "[Free ~ $4.99]"
       }
     ],
     "price": 0.99,
@@ -20945,7 +21085,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $4.99]"
+        "range": "[Free ~ $4.99]"
       }
     ],
     "price": 0.99,

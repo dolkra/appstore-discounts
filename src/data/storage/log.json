@@ -1,5 +1,78 @@
 [
   {
+    "timestamp": 1782101576613,
+    "regionAppInfo": {
+      "cn": [],
+      "hk": [
+        {
+          "trackId": 510249014,
+          "trackName": "水準管 HD",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 904237743,
+          "trackName": "Things 3",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "mo": [],
+      "tw": [
+        {
+          "trackId": 1554691584,
+          "trackName": "Naturalisation en France",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "us": [
+        {
+          "trackId": 1595901138,
+          "trackName": "Handheld Game - NES Emulator",
+          "inAppPurchasesTimes": 2
+        }
+      ],
+      "tr": [],
+      "pt": [
+        {
+          "trackId": 1546911907,
+          "trackName": "Even Longer",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 926177061,
+          "trackName": "TinType por Hipstamatic",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6743422824,
+          "trackName": "Pixel Paws - Virtual Pet Toy",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6745711999,
+          "trackName": "青签助手",
+          "inAppPurchasesTimes": 2
+        },
+        {
+          "trackId": 6738342400,
+          "trackName": "Tampermonkey",
+          "inAppPurchasesTimes": 2
+        }
+      ]
+    },
+    "duration": "1h41m37.938s",
+    "regionAppCount": {
+      "cn": 1023,
+      "hk": 1766,
+      "mo": 1761,
+      "tw": 1771,
+      "us": 1757,
+      "tr": 1750,
+      "pt": 1705
+    },
+    "limitCount": 2,
+    "inAppPurchasesScrapeType": "playwright"
+  },
+  {
     "timestamp": 1782080091315,
     "regionAppInfo": {
       "cn": [
@@ -76077,176 +76150,6 @@
       "us": 1739,
       "tr": 1734,
       "pt": 1689
-    },
-    "limitCount": 2,
-    "inAppPurchasesScrapeType": "playwright"
-  },
-  {
-    "timestamp": 1781496952864,
-    "regionAppInfo": {
-      "cn": [],
-      "hk": [
-        {
-          "trackId": 1632953327,
-          "trackName": "Tivimax IPTV Player (Premium)",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1449893235,
-          "trackName": "Earthquake Network",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1450064785,
-          "trackName": "山林日誌",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1477854253,
-          "trackName": "大家的日本語 初級 第二版",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "mo": [
-        {
-          "trackId": 504300412,
-          "trackName": "歐陸戰爭3",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 505367096,
-          "trackName": "世界迷霧",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tw": [
-        {
-          "trackId": 432791399,
-          "trackName": "Cloud Baby Monitor",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6443811423,
-          "trackName": "My Classic-復古遊戲機",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6449783315,
-          "trackName": "MedNotes -For Medical Students",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 398463868,
-          "trackName": "詰将棋",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 419606496,
-          "trackName": "Baby Shusher Sleep Miracle App",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "us": [
-        {
-          "trackId": 1369253556,
-          "trackName": "Light | Long Exposure",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "tr": [
-        {
-          "trackId": 605274104,
-          "trackName": "Matthew Henry Study Bible",
-          "inAppPurchasesTimes": 3
-        },
-        {
-          "trackId": 6633412890,
-          "trackName": "Tiny Terraces",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 784265988,
-          "trackName": "Multi Track Song Recorder Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 932687167,
-          "trackName": "iSpreadsheet™",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1431466900,
-          "trackName": "Word Root Dictionary",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1519754224,
-          "trackName": "Spanish Word Parts",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1609059358,
-          "trackName": "eVario2  - Variometer Pro",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6702013134,
-          "trackName": "Cat Flow - Kitty Focus Timer",
-          "inAppPurchasesTimes": 2
-        }
-      ],
-      "pt": [
-        {
-          "trackId": 6749406060,
-          "trackName": "Subnautica: Below Zero",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 385902072,
-          "trackName": "Guns'n'Glory Premium",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6760331891,
-          "trackName": "寶寶的每日陪伴計畫",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1406794157,
-          "trackName": "My Cooking Recipe -My dish app",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1422196592,
-          "trackName": "堪輿透明羅盤",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 1458977921,
-          "trackName": "Secret Vault - Cofre de Fotos",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 6447090616,
-          "trackName": "Whisper Notes - Voz para Texto",
-          "inAppPurchasesTimes": 2
-        },
-        {
-          "trackId": 510119487,
-          "trackName": "AnatomyMapp",
-          "inAppPurchasesTimes": 2
-        }
-      ]
-    },
-    "duration": "1h42m41.789s",
-    "regionAppCount": {
-      "cn": 1009,
-      "hk": 1744,
-      "mo": 1740,
-      "tw": 1749,
-      "us": 1737,
-      "tr": 1732,
-      "pt": 1687
     },
     "limitCount": 2,
     "inAppPurchasesScrapeType": "playwright"
