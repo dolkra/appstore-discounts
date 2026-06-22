@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "tr",
+    "timestamp": 1782129250725,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
+    "trackName": "EvoCreo2 Catch & Tame Monsters",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 6758935103,
+    "region": "tr",
+    "timestamp": 1782129250725,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺229,99",
+        "range": "[₺149,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 229.99,
+    "formattedPrice": "₺229,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6758935103",
+    "trackName": "Dash for Tesla",
+    "firstRecordedAt": 1775743448156
+  },
+  {
     "trackId": 6642649684,
     "region": "tr",
     "timestamp": 1782101576613,
@@ -38,26 +78,6 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id982175678",
     "trackName": "This War of Mine",
     "firstRecordedAt": 1745328692670
-  },
-  {
-    "trackId": 1499001662,
-    "region": "tr",
-    "timestamp": 1782080091315,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "₺99,99",
-        "to": "Free",
-        "range": "[Free ~ ₺99,99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
-    "trackName": "EvoCreo2 Catch & Tame Monsters",
-    "firstRecordedAt": 1759940107332
   },
   {
     "trackId": 6467822375,

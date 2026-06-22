@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-06-22T05:54:23.004Z</updated>
+    <updated>2026-06-22T13:22:11.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-22T05:54:23.004Z</updated>
+        <updated>2026-06-22T13:22:11.071Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptMon, 22 Jun 2026 05:54:23 GMT</id>
+        <id>rankingptMon, 22 Jun 2026 13:22:11 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-22T05:54:23.004Z</updated>
+        <updated>2026-06-22T13:22:11.071Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2081</b>
+        <b>2082</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1880</b>
+        <b>1881</b>
       </td>
       <td>
         <b>98</b>
@@ -1776,6 +1776,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>97</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6758935103?lang=en">Dash for Tesla</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2004,6 +2021,52 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dash for Tesla]]></title>
+        <id>Dash for Tesla-pt-1782129250725</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6758935103?lang=en"/>
+        <updated>2026-06-22T11:54:10.725Z</updated>
+        <summary type="html"><![CDATA[Price: 5,99 € → 4,99 €]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6758935103?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/98/07/8a980758-5795-bf10-9522-38a3dc3e807a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>5,99 €</span> → <b>
+  <strong>4,99 €</strong>
+</b><span>[2,99 € ~ 5,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>4,99 €</b>
+</p><h2>Application Description</h2><p>
+  Dash for Tesla 是一款专为特斯拉车主打造的「蓝牙数字仪表盘」。
+ 无需登录账号、无需云端授权、无需额外通信盒子，只用手机和蓝牙，即可获取车辆车速等官方支持的基础信息，并以多种仪表样式呈现。
+
+核心特点
+
+- 免登录 · 免授权 · 免盒子
+   无需输入 Tesla 账号密码、无需远程 API 授权，也不用额外购置 OBD 或通信盒子。只要车辆支持蓝牙钥匙能力，你就可以在本地完成连接与数据展示。
+- 蓝牙直连车辆
+   基于车辆官方支持的蓝牙通信能力，与车辆进行本地连接，在手机上查看车速等基础信息以及部分车辆状态。
+- 专注仪表体验
+   App 的核心就是一个「数字仪表盘」：将车速等关键信息集中展示，让你在行驶中一眼获取重点数据。
+- 多种背景与样式
+   支持多种仪表背景与配色主题，可根据喜好选择不同风格，让你的特斯拉仪表更个性化。
+- 本地优先，快速响应
+   依赖本地蓝牙通信，不依赖云端网络，弱网或无网环境下也能使用，响应更快、更稳定。
+隐私与安全
+
+- 不需要注册账号，不采集用于云端身份识别的个人信息。
+- 不在自建服务器长期存储你的车辆数据，数据主要在本地处理。
+- 所需权限（蓝牙、定位等）仅用于实现与车辆的本地通信和仪表显示。
+适用场景
+
+- 想要一个简单、专注的「车速 + 状态」数字仪表盘。
+- 不想提供 Tesla 账号密码，也不想依赖云端远程控制。
+- 不希望安装额外硬件盒子，只用手机和车辆本身即可。
+重要说明
+ Dash for Tesla 为第三方个人开发的工具应用，与 Tesla, Inc. 及其附属公司没有任何官方合作或隶属关系。
+ 本应用仅基于车辆官方支持的蓝牙能力展示基础信息，不对任何形式的改装、刷写或不当使用负责。
+ 所有 Tesla 相关商标和品牌均为其各自权利人所有，仅用于说明用途。
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Leek Inc. 2]]></title>
@@ -2630,47 +2693,6 @@ Six Core Features:
 * Countdown Timer: Customizable sand timer, essential for time-limited party games and trivia.
 * Versus Timer (Chess Clock): Dedicated 2-player turn timer. Say goodbye to slow play and keep competitive matches fair.
 Download ScoreMaster today and make your next game night smoother and more professional!
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BikeControl]]></title>
-        <id>BikeControl-pt-1781864761375</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6753721284?lang=en"/>
-        <updated>2026-06-19T10:26:01.375Z</updated>
-        <summary type="html"><![CDATA[Price: 5,99 € → Gratuito]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6753721284?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2f/b1/98/2fb1980f-6378-41a1-3327-7bee8e2c5c49/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>5,99 €</span> → <b>
-  <strong>Gratuito</strong>
-</b><span>[Gratuito ~ 5,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>Gratuito</b>
-</p><h3>Compras integradas</h3><ul>
-  <li>
-    BikeControl Pro：<b>2,79 €</b>
-  </li><li>
-    Full Version Unlock：<b>4,99 €</b>
-  </li><li>
-    BikeControl Pro - Yearly：<b>24,99 €</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  With BikeControl (formerly SwiftControl) you can control your favorite trainer app using your hardware click devices. Here's what you can do with it, depending on your configuration:
-
-▶ Virtual Gear shifting
-▶ Steering / turning
-▶ Adjust workout intensity
-▶ Control music on your device
-▶ More? If you can do it via keyboard, mouse or touch, you can do it with BikeControl
-
-
-Privacy and Security:
-▶ BikeControl only accesses your screen to perform the gestures you configure
-▶ No other accessibility features or personal information is accessed
-▶ All gesture configurations remain on your device
-▶ The app does not connect to external services for accessibility functions
-
-Terms of use: https://bikecontrol.app/terms-of-use
 </p>]]></content>
     </entry>
 </feed>
