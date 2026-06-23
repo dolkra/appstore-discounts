@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1411823462,
+    "region": "tw",
+    "timestamp": 1782226086786,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $150.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tw",
+    "timestamp": 1782226086786,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $60.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6476342802",
+    "trackName": "Skel和Defense：地下城Roguelike防禦",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1160943124,
     "region": "tw",
     "timestamp": 1782185577372,
@@ -3466,7 +3506,7 @@
         "name": "Price",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $60.00]"
+        "range": "[$20.00 ~ $60.00]"
       }
     ],
     "price": 30,
