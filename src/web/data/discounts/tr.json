@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1411823462,
+    "region": "tr",
+    "timestamp": 1782252795272,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺29,99",
+        "range": "[₺19,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tr",
+    "timestamp": 1782252795272,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺29,99",
+        "range": "[₺29,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 6759861082,
     "region": "tr",
     "timestamp": 1782226086786,
@@ -3517,7 +3557,7 @@
         "name": "Price",
         "from": "₺99,99",
         "to": "₺49,99",
-        "range": "[₺49,99 ~ ₺99,99]"
+        "range": "[₺29,99 ~ ₺99,99]"
       }
     ],
     "price": 49.99,

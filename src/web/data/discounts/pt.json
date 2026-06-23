@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1411823462,
+    "region": "pt",
+    "timestamp": 1782252795272,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6476342802,
+    "region": "pt",
+    "timestamp": 1782252795272,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1160943124,
     "region": "pt",
     "timestamp": 1782185577372,
@@ -3385,7 +3425,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 1,99 €]"
+        "range": "[0,49 € ~ 1,99 €]"
       }
     ],
     "price": 0.99,
