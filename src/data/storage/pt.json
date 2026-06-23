@@ -44815,6 +44815,18 @@
     "history": [
       [
         {
+          "timestamp": 1782185577372,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Year": "12,99 €",
+            "6 Months": "5,99 €",
+            "Month": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1775280237069,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -61541,6 +61553,25 @@
       "Valkyrie Token": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1782185577372,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €",
+            "Paris, La Belle Epoque Board": "6,99 €",
+            "1935 Atlantic City": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781945771294,
@@ -111679,6 +111710,27 @@
           "timestamp": 1782060327512,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6756966178": {
+    "name": "V2Box Pro - V2ray Client",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782185577372,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]
