@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1450144092,
+    "region": "us",
+    "timestamp": 1782293360068,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "禮包11",
+        "from": "$99.99",
+        "to": "$49.99",
+        "range": "[$49.99 ~ $99.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "$0.29",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1450144092",
+    "trackName": "三國志天下布武 - 單機戰棋策略遊戲",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1411823462,
     "region": "us",
     "timestamp": 1782272039603,
