@@ -1,5 +1,341 @@
 [
   {
+    "trackId": 1044671796,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1044671796",
+    "trackName": "Le Havre: The Inland Port",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1070462618,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1070462618",
+    "trackName": "Hero Emblems II",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1199912736,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Inns & Cathedrals Expansion",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Traders and Builders",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "The Princess and the Dragon",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Winter and Gingerbread Man",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1199912736",
+    "trackName": "Carcassonne – Tiles & Tactics",
+    "firstRecordedAt": 1771239364796
+  },
+  {
+    "trackId": 1291429551,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1291429551",
+    "trackName": "60 Parsecs!",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1353471030,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Terraforming Mars - Prelude",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Hellas & Elysium",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Venus Next",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Original Promo Pack",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1353471030",
+    "trackName": "Terraforming Mars",
+    "firstRecordedAt": 1775668406656
+  },
+  {
+    "trackId": 1445772666,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1445772666",
+    "trackName": "Keep Talking & Nobody Explodes",
+    "firstRecordedAt": 1769891643967
+  },
+  {
+    "trackId": 1474716211,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1474716211",
+    "trackName": "60 Seconds! Reatomized",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1511788295,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1511788295",
+    "trackName": "Crying Suns",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1537362903,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "4,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 4,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1537362903",
+    "trackName": "Neighbours back From Hell",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1592505377,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[0,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1620202676,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1620202676",
+    "trackName": "Iron Marines Invasion",
+    "firstRecordedAt": 1771447813830
+  },
+  {
+    "trackId": 1668755109,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1668755109",
+    "trackName": "Brotato:Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6448352407,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6448352407",
+    "trackName": "Unboxing the Cryptic Killer",
+    "firstRecordedAt": 1766931982733
+  },
+  {
+    "trackId": 6477541914,
+    "region": "pt",
+    "timestamp": 1782339465774,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6477541914",
+    "trackName": "Parallel Experiment",
+    "firstRecordedAt": 1770951187599
+  },
+  {
     "trackId": 1411823462,
     "region": "pt",
     "timestamp": 1782252795272,
