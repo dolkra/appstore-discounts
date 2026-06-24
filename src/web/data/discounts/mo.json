@@ -1,5 +1,321 @@
 [
   {
+    "trackId": 1044671796,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 3.99]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1044671796",
+    "trackName": "Le Havre: The Inland Port",
+    "firstRecordedAt": 1782035419414
+  },
+  {
+    "trackId": 1070462618,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 6.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1070462618",
+    "trackName": "Hero Emblems II",
+    "firstRecordedAt": 1759028567061
+  },
+  {
+    "trackId": 1199912736,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 1.49",
+        "range": "[USD 1.49 ~ USD 4.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Inns & Cathedrals Expansion",
+        "from": "USD 2.99",
+        "to": "USD 1.79",
+        "range": "[USD 1.79 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Winter and Gingerbread Man",
+        "from": "USD 2.99",
+        "to": "USD 1.79",
+        "range": "[USD 1.79 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Traders and Builders",
+        "from": "USD 2.99",
+        "to": "USD 1.79",
+        "range": "[USD 1.79 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "The Princess and the Dragon",
+        "from": "USD 2.99",
+        "to": "USD 1.79",
+        "range": "[USD 1.79 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.49,
+    "formattedPrice": "USD 1.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1199912736",
+    "trackName": "Carcassonne – Tiles & Tactics",
+    "firstRecordedAt": 1771239364796
+  },
+  {
+    "trackId": 1291429551,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1291429551",
+    "trackName": "60 Parsecs!",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1353471030,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 3.19",
+        "range": "[USD 3.19 ~ USD 8.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Terraforming Mars - Prelude",
+        "from": "USD 3.99",
+        "to": "USD 2.79",
+        "range": "[USD 2.79 ~ USD 3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Venus Next",
+        "from": "USD 3.99",
+        "to": "USD 2.79",
+        "range": "[USD 2.79 ~ USD 3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Hellas & Elysium",
+        "from": "USD 3.99",
+        "to": "USD 2.79",
+        "range": "[USD 2.79 ~ USD 3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Original Promo Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.09",
+        "range": "[USD 2.09 ~ USD 2.99]"
+      }
+    ],
+    "price": 3.19,
+    "formattedPrice": "USD 3.19",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1353471030",
+    "trackName": "Terraforming Mars",
+    "firstRecordedAt": 1775668406656
+  },
+  {
+    "trackId": 1445772666,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1445772666",
+    "trackName": "Keep Talking & Nobody Explodes",
+    "firstRecordedAt": 1769891643967
+  },
+  {
+    "trackId": 1474716211,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1474716211",
+    "trackName": "60 Seconds! Reatomized",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1511788295,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 5.99",
+        "range": "[USD 5.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1511788295",
+    "trackName": "Crying Suns",
+    "firstRecordedAt": 1757700886286
+  },
+  {
+    "trackId": 1537362903,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 1.39",
+        "range": "[USD 0.90 ~ USD 3.99]"
+      }
+    ],
+    "price": 1.39,
+    "formattedPrice": "USD 1.39",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1537362903",
+    "trackName": "Neighbours back From Hell",
+    "firstRecordedAt": 1745539765557
+  },
+  {
+    "trackId": 1592505377,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.79",
+        "to": "USD 2.49",
+        "range": "[USD 0.90 ~ USD 7.79]"
+      }
+    ],
+    "price": 2.49,
+    "formattedPrice": "USD 2.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1668755109,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.49",
+        "range": "[USD 3.49 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.49,
+    "formattedPrice": "USD 3.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1668755109",
+    "trackName": "Brotato:Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6448352407,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6448352407",
+    "trackName": "Unboxing the Cryptic Killer",
+    "firstRecordedAt": 1766931982733
+  },
+  {
+    "trackId": 6477541914,
+    "region": "mo",
+    "timestamp": 1782311362500,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 6.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6477541914",
+    "trackName": "Parallel Experiment",
+    "firstRecordedAt": 1770951187599
+  },
+  {
     "trackId": 1411823462,
     "region": "mo",
     "timestamp": 1782226086786,

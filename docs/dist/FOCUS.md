@@ -1,12 +1,16 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2087` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2091` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2091|380105927|Automatic|❌|HachiCalendar2 Pro|HachiCalendar2 Pro|HachiCalendar2 Pro|HachiCalendar2 Pro|HachiCalendar2 Pro|HachiCalendar2 Pro|
+|2090|1193531073|Automatic|WebBLE|WebBLE|WebBLE|WebBLE|WebBLE|WebBLE|WebBLE|
+|2089|1545285093|Automatic|Speechable - 文本到语音|Speechable - 文本到語音|Speechable - 文本到語音|Speechable - 文本到語音|Speechable - Text to Voice|Speechable - Text to Voice|Speechable - Text to Voice|
+|2088|6769140324|Automatic|Milky Way Tonight|Milky Way Tonight|Milky Way Tonight|Milky Way Tonight|Milky Way Tonight|Milky Way Tonight|Milky Way Tonight|
 |2087|1464645812|Automatic|❌|Company of Heroes|Company of Heroes|Company of Heroes|Company of Heroes|Company of Heroes|Company of Heroes|
 |2086|858640629|Automatic|❌|Lightbot Jr : Coding Puzzles for Ages 4+|Lightbot Jr : Coding Puzzles for Ages 4+|Lightbot Jr : Coding Puzzles for Ages 4+|Lightbot Jr : Coding Puzzles for Ages 4+|Lightbot Jr : Coding Puzzles for Ages 4+|Lightbot Jr : Coding Puzzles for Ages 4+|
 |2085|6755030141|Automatic|❌|DUNGEON RAZE|DUNGEON RAZE|DUNGEON RAZE|DUNGEON RAZE|DUNGEON RAZE|DUNGEON RAZE|

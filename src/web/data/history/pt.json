@@ -4554,6 +4554,25 @@
     "history": [
       [
         {
+          "timestamp": 1782311362500,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro + Família": "29,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Haydn: String Quartets": "1,99 €",
+            "Christmas Carol Collection": "1,99 €",
+            "Bach: Cello Suites": "1,99 €",
+            "Vivaldi: The Four Seasons": "1,99 €",
+            "Mozart: Twelve Duets": "1,99 €",
+            "The Mutopia Piano Collection": "5,99 €",
+            "forScore Pro": "17,99 €",
+            "Voluntary Upgrade": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1780804514489,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -6097,6 +6116,36 @@
           "price": 6.99,
           "formattedPrice": "6,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "380105927": {
+    "trackId": 380105927,
+    "trackName": "HachiCalendar2 Pro",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Weather Theme Pack": "2,99 €",
+      "New Year Theme Pack": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
+      "Weather Theme Pack": "2,99 €",
+      "New Year Theme Pack": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782311362500,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Weather Theme Pack": "2,99 €",
+            "New Year Theme Pack": "1,99 €"
+          }
         }
       ]
     ]
@@ -16345,6 +16394,25 @@
       "Harmonic Vibrations": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1782311362500,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Alien Chemistry": "0,99 €",
+            "Atmospheric Interference": "0,99 €",
+            "Void Signal": "0,99 €",
+            "Brittle Lattice": "0,99 €",
+            "Quantum Obfuscation": "0,99 €",
+            "Synaptic Pulse": "0,99 €",
+            "Lattice Shedding": "0,99 €",
+            "Crystal Overclock": "0,99 €",
+            "Magnetic Siphon": "0,99 €",
+            "Harmonic Vibrations": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780545566027,
@@ -47651,6 +47719,29 @@
       ]
     ]
   },
+  "1193531073": {
+    "trackId": 1193531073,
+    "trackName": "WebBLE",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782311362500,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1193760955": {
     "trackId": 1193760955,
     "trackName": "O Jardim das Criaturas",
@@ -72771,6 +72862,33 @@
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1545285093": {
+    "trackId": 1545285093,
+    "trackName": "Speechable - Text to Voice",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Live Chat Support": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Live Chat Support": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782311362500,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Live Chat Support": "0,99 €"
+          }
         }
       ]
     ]
@@ -115658,6 +115776,29 @@
           "timestamp": 1782226086786,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6769140324": {
+    "trackId": 6769140324,
+    "trackName": "Milky Way Tonight",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782311362500,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
           "inAppPurchases": {}
         }
       ]
