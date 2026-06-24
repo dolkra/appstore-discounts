@@ -89093,13 +89093,25 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 12.99,
-      "formattedPrice": "12,99 €"
+      "formattedPrice": "12,99 €",
+      "LYNQ+ Monthly": "2,99 €"
     },
     "minPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "7,99 €"
+      "formattedPrice": "7,99 €",
+      "LYNQ+ Monthly": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1782272039603,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781474966430,
