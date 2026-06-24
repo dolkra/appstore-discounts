@@ -19,7 +19,7 @@ So far, we've covered `7` `Countries or Regions` and  `2091` `Apps` <br />Push n
 |2082|1459203087|Automatic|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|❌|
 |2081|6776762891|Automatic|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|
 |2080|441179131|Automatic|爱笔思画|愛筆思畫|愛筆思畫|愛筆思畫|ibis Paint|ibis Paint|ibis Paint|
-|2079|6778044568|Automatic|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|❌|新手爸媽的副食品好幫手|❌|❌|❌|
+|2079|6778044568|Automatic|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|❌|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|❌|❌|
 |2078|1044671796|Automatic|❌|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|
 |2077|1410742242|Automatic|❌|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|
 |2076|1467248737|Automatic|❌|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|

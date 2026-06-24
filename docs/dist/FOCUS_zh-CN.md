@@ -19,7 +19,7 @@
 |2082|1459203087|自动|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|GameNet for - Human Fall Flat|❌|
 |2081|6776762891|自动|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|Lügat: İngilizce|
 |2080|441179131|自动|爱笔思画|愛筆思畫|愛筆思畫|愛筆思畫|ibis Paint|ibis Paint|ibis Paint|
-|2079|6778044568|自动|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|❌|新手爸媽的副食品好幫手|❌|❌|❌|
+|2079|6778044568|自动|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|❌|新手爸媽的副食品好幫手|新手爸媽的副食品好幫手|❌|❌|
 |2078|1044671796|自动|❌|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|Le Havre: The Inland Port|
 |2077|1410742242|自动|❌|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|The Castles of Burgundy|
 |2076|1467248737|自动|❌|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|Viticulture|
