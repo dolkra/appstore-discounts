@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6447508479,
+    "region": "mo",
+    "timestamp": 1782407533652,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 6.39",
+        "range": "[USD 6.39 ~ USD 7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "終業(DLC)",
+        "from": "USD 3.99",
+        "to": "USD 3.59",
+        "range": "[USD 3.59 ~ USD 3.99]"
+      }
+    ],
+    "price": 6.39,
+    "formattedPrice": "USD 6.39",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6447508479",
+    "trackName": "暖雪",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 549432607,
     "region": "mo",
     "timestamp": 1782397971993,
