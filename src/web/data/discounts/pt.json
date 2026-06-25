@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 646256209,
+    "region": "pt",
+    "timestamp": 1782426068334,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id646256209",
+    "trackName": "Photo Eraser for iPhone",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6743115658,
+    "region": "pt",
+    "timestamp": 1782426068334,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "4,59 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 4,59 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6743115658",
+    "trackName": "TABS Pocket Edition",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6447508479,
     "region": "pt",
     "timestamp": 1782407533652,
@@ -71,26 +111,6 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1001096601",
     "trackName": "1941 Frozen Front Premium",
-    "firstRecordedAt": 1761797674362
-  },
-  {
-    "trackId": 6743422824,
-    "region": "pt",
-    "timestamp": 1782397971993,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "2,99 €",
-        "to": "Gratuito",
-        "range": "[Gratuito ~ 2,99 €]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Gratuito",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6743422824",
-    "trackName": "Pixel Paws - Virtual Pet Toy",
     "firstRecordedAt": 1761797674362
   },
   {
