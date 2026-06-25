@@ -6379,14 +6379,22 @@
   "391269557": {
     "name": "Apnea Trainer",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1782417615629,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781710173773,
@@ -19238,6 +19246,25 @@
     "history": [
       [
         {
+          "timestamp": 1782417615629,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "SLS 2023: Chicago": "0,99 €",
+            "SLS 2022: Jacksonville": "0,99 €",
+            "SLS 2021: World Championship": "0,99 €",
+            "SLS 2019: Sao Paulo": "0,99 €",
+            "SLS 2019: London": "0,99 €",
+            "Sandbox 1 Year": "26,99 €",
+            "Sandbox 3 Months": "10,99 €",
+            "Sandbox Monthly": "5,49 €",
+            "SLS 2018: World Championship": "0,99 €",
+            "Mountain of Bolts": "99,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782293360068,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -27552,6 +27579,27 @@
           "timestamp": 1761797674362,
           "price": 24.99,
           "formattedPrice": "24,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "802826167": {
+    "name": "World Cruise Story",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782417615629,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
