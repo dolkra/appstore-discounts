@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 549432607,
+    "region": "hk",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "小型聲望包",
+        "from": "HK$ 18.00",
+        "to": "HK$ 15.00",
+        "range": "[HK$ 15.00 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 646256209,
+    "region": "hk",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id646256209",
+    "trackName": "照片橡皮擦",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1001096601,
+    "region": "hk",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "60,000資金",
+        "from": "HK$ 88.00",
+        "to": "HK$ 78.00",
+        "range": "[HK$ 78.00 ~ HK$ 88.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1580067723,
+    "region": "hk",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 2.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6743115658,
+    "region": "hk",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 32.00",
+        "to": "HK$ 25.00",
+        "range": "[HK$ 25.00 ~ HK$ 32.00]"
+      }
+    ],
+    "price": 25,
+    "formattedPrice": "HK$ 25.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6743115658",
+    "trackName": "TABS Pocket Edition",
+    "firstRecordedAt": 1754651512534
+  },
+  {
     "trackId": 1620202676,
     "region": "hk",
     "timestamp": 1782330325125,
@@ -1660,7 +1760,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -1720,7 +1820,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -1740,7 +1840,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 12,
@@ -1780,7 +1880,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 68.00]"
+        "range": "[HK$ 22.00 ~ HK$ 78.00]"
       }
     ],
     "price": 22,
@@ -4894,7 +4994,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -4954,7 +5054,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 12,
@@ -5691,7 +5791,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -5751,7 +5851,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 68.00]"
+        "range": "[HK$ 22.00 ~ HK$ 78.00]"
       }
     ],
     "price": 22,
@@ -8860,7 +8960,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -9350,7 +9450,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -9370,7 +9470,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 12,
@@ -9913,7 +10013,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 22.00 ~ HK$ 68.00]"
+        "range": "[HK$ 22.00 ~ HK$ 78.00]"
       }
     ],
     "price": 22,
@@ -12257,7 +12357,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -12678,7 +12778,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -13020,7 +13120,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 36.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 36,
@@ -13060,7 +13160,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 36.00",
-        "range": "[HK$ 22.00 ~ HK$ 68.00]"
+        "range": "[HK$ 22.00 ~ HK$ 78.00]"
       }
     ],
     "price": 36,
@@ -15107,7 +15207,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -16520,7 +16620,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -17463,7 +17563,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 8,
@@ -19549,7 +19649,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -20061,7 +20161,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -22494,7 +22594,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -22514,7 +22614,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 36.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 36,
@@ -23308,7 +23408,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -25362,7 +25462,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -25402,7 +25502,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 36.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 36,
@@ -25955,7 +26055,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,
@@ -28411,7 +28511,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -28451,7 +28551,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 36.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 36,
@@ -31991,7 +32091,7 @@
         "name": "Price",
         "from": "HK$ 22.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+        "range": "[HK$ 8.00 ~ HK$ 32.00]"
       }
     ],
     "price": 8,
@@ -32011,7 +32111,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 36.00",
-        "range": "[HK$ 8.00 ~ HK$ 68.00]"
+        "range": "[HK$ 8.00 ~ HK$ 78.00]"
       }
     ],
     "price": 36,
@@ -32632,7 +32732,7 @@
         "name": "Price",
         "from": "HK$ 55.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 55.00]"
+        "range": "[HK$ 8.00 ~ HK$ 68.00]"
       }
     ],
     "price": 8,

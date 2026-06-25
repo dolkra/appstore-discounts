@@ -1,5 +1,79 @@
 [
   {
+    "trackId": 549432607,
+    "region": "pt",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Pacote de Prestígio médio",
+        "from": "9,99 €",
+        "to": "8,99 €",
+        "range": "[8,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Pacote final Prestige",
+        "from": "44,99 €",
+        "to": "39,99 €",
+        "range": "[39,99 € ~ 44,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Pacote de Prestígio ótimo",
+        "from": "24,99 €",
+        "to": "19,99 €",
+        "range": "[19,99 € ~ 24,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1001096601,
+    "region": "pt",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "25.000 ouro",
+        "from": "5,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6743422824,
+    "region": "pt",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6743422824",
+    "trackName": "Pixel Paws - Virtual Pet Toy",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1044671796,
     "region": "pt",
     "timestamp": 1782339465774,
@@ -1573,7 +1647,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 3,99 €]"
       }
     ],
     "price": 0.99,
@@ -4932,7 +5006,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 3,99 €]"
       }
     ],
     "price": 0.99,
@@ -8655,7 +8729,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 3,99 €]"
       }
     ],
     "price": 0.99,
@@ -12108,7 +12182,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 3,99 €]"
       }
     ],
     "price": 0.99,
@@ -14578,7 +14652,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 3,99 €]"
       }
     ],
     "price": 0.99,
@@ -19362,7 +19436,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 3,99 €]"
       }
     ],
     "price": 0.99,

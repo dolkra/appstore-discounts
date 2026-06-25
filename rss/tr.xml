@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/tr.xml</id>
     <title>App Store Discounts（TR）</title>
-    <updated>2026-06-24T23:38:12.000Z</updated>
+    <updated>2026-06-25T16:03:43.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008924688563200+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcometr</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-24T23:38:12.001Z</updated>
+        <updated>2026-06-25T16:03:43.054Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008924688563200+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingtrWed, 24 Jun 2026 23:38:12 GMT</id>
+        <id>rankingtrThu, 25 Jun 2026 16:03:43 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-06-24T23:38:12.001Z</updated>
+        <updated>2026-06-25T16:03:43.054Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>
@@ -51,13 +51,13 @@ feedId:157008924688563200+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2091</b>
+        <b>2092</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1890</b>
+        <b>1891</b>
       </td>
       <td>
         <b>98</b>
@@ -135,6 +135,39 @@ feedId:157008924688563200+userId:73658201673997312
         <b>3</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/549432607?lang=en">Townsmen Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Fast forward</i>：<b>1</b>
+              </li><li>
+                <i>Small Prestige Pack</i>：<b>1</b>
+              </li><li>
+                <i>Medium Prestige Pack</i>：<b>1</b>
+              </li><li>
+                <i>XP Buff x2</i>：<b>1</b>
+              </li><li>
+                <i>Awesome Prestige Pack</i>：<b>1</b>
+              </li><li>
+                <i>Ultimate Prestige Package</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>4</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/tr/675049147?lang=en">SmallFish Chess for Stockfish</a>
       </td>
       <td>
@@ -149,7 +182,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/994157520?lang=en">1942 Pacific Front Premium</a>
@@ -178,7 +211,36 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/1001096601?lang=en">1941 Frozen Front Premium</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>2</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>25,000 Gold</i>：<b>1</b>
+              </li><li>
+                <i>325,000 Gold</i>：<b>1</b>
+              </li><li>
+                <i>125,000 Gold</i>：<b>1</b>
+              </li><li>
+                <i>60,000 Gold</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>7</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/1067198688?lang=en">彩云天气Pro</a>
@@ -201,7 +263,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
+        <b>8</b>
       </td>
       <td>
         <del>
@@ -220,7 +282,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>7</b>
+        <b>9</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/1571643809?lang=en">Dungeon and Puzzles</a>
@@ -237,7 +299,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>8</b>
+        <b>10</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6504433140?lang=en">LaxtTime - Remember Last Time</a>
@@ -262,7 +324,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>9</b>
+        <b>11</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6762970009?lang=en">Otoparkçı</a>
@@ -279,7 +341,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>10</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6499431452?lang=en">Blasphemous</a>
@@ -296,7 +358,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/6759861082?lang=en">CD’ci: Oyun Al-Sat</a>
@@ -313,7 +375,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/355460798?lang=en">Inspire Pro</a>
@@ -330,7 +392,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/391269557?lang=en">Apnea Trainer</a>
@@ -347,7 +409,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/396085661?lang=en">Game Dev Story</a>
@@ -364,7 +426,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/403977617?lang=en">Alien Shooter - Survive</a>
@@ -381,7 +443,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/408854559?lang=en">Hot Springs Story</a>
@@ -398,7 +460,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/441142802?lang=en">Bass Modes Symmetry School</a>
@@ -415,7 +477,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/474177077?lang=en">Oh! Edo Towns</a>
@@ -432,7 +494,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/510249014?lang=en">Level HD.</a>
@@ -449,24 +511,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/549432607?lang=en">Townsmen Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/564730202?lang=en">Money Manager (Remove Ads)</a>
@@ -483,7 +528,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/592398757?lang=en">Grooves: Song Speed Changer</a>
@@ -500,7 +545,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/744851208?lang=en">Pocket Stables</a>
@@ -517,7 +562,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/931188326?lang=en">DayCost Pro - Personal Finance</a>
@@ -534,7 +579,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/982175678?lang=en">This War of Mine</a>
@@ -551,7 +596,7 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/tr/983143183?lang=en">Neo Monsters</a>
@@ -568,27 +613,10 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/998834675?lang=en">Clouds & Sheep 2 Premium</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>1</b>
-          </li><li>
-            <span>Price</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>28</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/tr/1001096601?lang=en">1941 Frozen Front Premium</a>
+        <a href="https://appstore-discounts.eyelly.me/tr/998834675?lang=en">Clouds & Sheep 2 Premium</a>
       </td>
       <td>
         <ul>
@@ -2220,6 +2248,23 @@ feedId:157008924688563200+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>121</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/tr/6743422824?lang=en">Pixel Paws - Virtual Pet Toy</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2970,6 +3015,208 @@ feedId:157008924688563200+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pixel Paws - Virtual Pet Toy]]></title>
+        <id>Pixel Paws - Virtual Pet Toy-tr-1782397971993</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/6743422824?lang=en"/>
+        <updated>2026-06-25T14:32:51.993Z</updated>
+        <summary type="html"><![CDATA[Price: ₺149,99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6743422824?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ae/a5/d9/aea5d936-0037-cf33-9e7d-4f87a52c4685/AppIcon-0-0-1x_U007ewatch-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>₺149,99</span> → <b>
+  <strong>Free</strong>
+</b><span>[Free ~ ₺149,99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Free</b>
+</p><h2>Application Description</h2><p>
+  Introducing Pixel Paws for Apple Watch –  enjoy the charm of classic virtual pets in this retro 8-bit pet simulator.
+
+KID-FRIENDLY GAMEPLAY
+Anyone can enjoy Pixel Paws, but certain safeguards and design elements were implemented with kids ages 4 - 12 in mind. The game features simple controls, friendly graphics, and no ads or tracking. 
+
+TRUSTED BY PARENTS
+No in-app purchases or subscriptions. And with no tracking or ads, parents and players can enjoy Pixel Paws knowing that user data is never collected, stored, or sold.
+
+CARE, PLAY, EARN
+From breakfast to bedtime, your little pixel friend depends on you. Play with them, walk them, and repeat. Each action works on a cooldown timer throughout the day.
+When the timer completes, they’re ready for attention again. It’s the perfect balance of fun and freedom, with gentle reminders to check in and connect.
+
+PLAY MORE, EARN MORE
+Every time you care for your pixel friend — whether it’s feeding, walking, or playtime — you earn coins. Coins unlock new pets, playful backgrounds, and fun weather scenes.
+It’s all part of the experience — no ads and no in-app purchases for a delightful and fun gameplay.
+
+No hidden penalties—if you miss a moment, you simply catch up on your own schedule. Your pet will always be there -- happy, goofy, waiting for you.
+
+COIN BOOST
+Earn double the coins for a limited time when you unlock new pets or scenes, letting you refill your coin bank even faster. Plus, your boost durations stack when you unlock multiple items!
+
+FEATURES
+• Adorable pixelated cuteness
+• Retro 8-bit graphics
+• Offline play (no internet required)
+• Earn coins by playing (no in-app purchases)
+• Unlock additional pets from a growing selection
+• Customize the pet's environment (scenes, backgrounds, and weather)
+• Privacy comes first (no tracking / no ads)
+• No penalties (pets never die or faint)
+• Configurable haptics
+• Configurable reminders (cooldown timer alerts)
+
+SPECIAL THANKS
+tomahawk1277
+the14collective
+seethingswarm
+
+TERMS & PRIVACY
+Requires watchOS 11.2 or later
+Price subject to change
+https://thatvirtualboy.com/pixelpaws
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1941 Frozen Front Premium]]></title>
+        <id>1941 Frozen Front Premium-tr-1782397971993</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/1001096601?lang=en"/>
+        <updated>2026-06-25T14:32:51.993Z</updated>
+        <summary type="html"><![CDATA[25,000 Gold: ₺249,99 → ₺89,99<br/>325,000 Gold: ₺2.499,99 → ₺769,99<br/>125,000 Gold: ₺999,99 → ₺349,99<br/>60,000 Gold: ₺499,99 → ₺169,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/1001096601?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1b/4b/a9/1b4ba93f-e223-6804-b1f1-86fd5540d97a/AppIcon-0-0-1x_U007emarketing-0-5-85-220.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>25,000 Gold：</strong><span>₺249,99</span> → <b>
+  <strong>₺89,99</strong>
+</b><span>[₺89,99 ~ ₺249,99]</span>
+  </li><li>
+    <strong>325,000 Gold：</strong><span>₺2.499,99</span> → <b>
+  <strong>₺769,99</strong>
+</b><span>[₺769,99 ~ ₺2.499,99]</span>
+  </li><li>
+    <strong>125,000 Gold：</strong><span>₺999,99</span> → <b>
+  <strong>₺349,99</strong>
+</b><span>[₺349,99 ~ ₺999,99]</span>
+  </li><li>
+    <strong>60,000 Gold：</strong><span>₺499,99</span> → <b>
+  <strong>₺169,99</strong>
+</b><span>[₺169,99 ~ ₺499,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺69,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    25,000 Gold：<b>₺89,99</b>
+  </li><li>
+    700,000 Gold：<b>₺4.999,99</b>
+  </li><li>
+    325,000 Gold：<b>₺769,99</b>
+  </li><li>
+    125,000 Gold：<b>₺349,99</b>
+  </li><li>
+    60,000 Gold：<b>₺169,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Lead German forces on the rise towards the East or defend mother Russia on the Soviet side. Choose the right tactic of warfare and earn your stripes as an ingenious Commander at the FROZEN FRONT!
+
+PLAY WITHOUT ADS!
+
+Experience mind-blowing World War 2 battles in the brilliant new military STRATEGY-sim by HandyGames™!
+
+MISSION BRIEFING
+- FIGHT through the bone-chilling cold of the 1941 Eastern Front!
+- COMBAT enemy positions with tanks and infantry!
+- SHOOT hostile headquarters with mighty bomber wings!
+- EMPLACE your artillery in rough terrain!
+- SUPPLY your army with goods and ammunition!
+- DEFEND yourself against superior numbers of enemies!
+
+FEATURES
+- Turn-based strategy action in WW2
+- Thrilling campaigns and challenging missions
+- Hot-Hand multiplayer battles
+- Historical German and Soviet units
+- Repairs, camouflage and fortification of units during the battles
+- Infantry, artillery, tanks and warplanes for both fractions
+- Hex grid for the best overview possible
+- Detailed graphics and super-realistic sounds
+- Full tablet support
+
+Audio powered by Dolby on supported devices
+
+Thank you for playing '1941 Frozen Front'!
+
+© HandyGames 2026
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Townsmen Premium]]></title>
+        <id>Townsmen Premium-tr-1782397971993</id>
+        <link href="https://appstore-discounts.eyelly.me/tr/549432607?lang=en"/>
+        <updated>2026-06-25T14:32:51.993Z</updated>
+        <summary type="html"><![CDATA[Fast forward: ₺199,99 → ₺69,99<br/>Small Prestige Pack: ₺99,99 → ₺29,99<br/>Medium Prestige Pack: ₺499,99 → ₺149,99<br/>XP Buff x2: ₺199,99 → ₺69,99<br/>Awesome Prestige Pack: ₺1.199,99 → ₺349,99<br/>Ultimate Prestige Package: ₺1.999,99 → ₺619,99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/549432607?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5e/17/5f/5e175f61-3946-b606-5605-fd553870578e/AppIcon-0-0-1x_U007emarketing-0-0-0-4-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Fast forward：</strong><span>₺199,99</span> → <b>
+  <strong>₺69,99</strong>
+</b><span>[₺69,99 ~ ₺199,99]</span>
+  </li><li>
+    <strong>Small Prestige Pack：</strong><span>₺99,99</span> → <b>
+  <strong>₺29,99</strong>
+</b><span>[₺29,99 ~ ₺99,99]</span>
+  </li><li>
+    <strong>Medium Prestige Pack：</strong><span>₺499,99</span> → <b>
+  <strong>₺149,99</strong>
+</b><span>[₺149,99 ~ ₺499,99]</span>
+  </li><li>
+    <strong>XP Buff x2：</strong><span>₺199,99</span> → <b>
+  <strong>₺69,99</strong>
+</b><span>[₺69,99 ~ ₺199,99]</span>
+  </li><li>
+    <strong>Awesome Prestige Pack：</strong><span>₺1.199,99</span> → <b>
+  <strong>₺349,99</strong>
+</b><span>[₺349,99 ~ ₺1.199,99]</span>
+  </li><li>
+    <strong>Ultimate Prestige Package：</strong><span>₺1.999,99</span> → <b>
+  <strong>₺619,99</strong>
+</b><span>[₺619,99 ~ ₺1.999,99]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>₺49,99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Fast forward：<b>₺69,99</b>
+  </li><li>
+    Small Prestige Pack：<b>₺29,99</b>
+  </li><li>
+    Medium Prestige Pack：<b>₺149,99</b>
+  </li><li>
+    XP Buff x2：<b>₺69,99</b>
+  </li><li>
+    Awesome Prestige Pack：<b>₺349,99</b>
+  </li><li>
+    Insane Prestige Package：<b>₺3.999,99</b>
+  </li><li>
+    Ultimate Prestige Package：<b>₺619,99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  Develop your tiny village to a grand medieval empire with a thriving economy and happy villagers! Find spots for mining ore, harvest the crops of your farms and collect coins as taxes from your folk. Build jousting fields, taverns, marketplaces and beautify your city with impressive statues, magnificent monuments, and lush gardens. But there are also dangers lurking close by. Bandits are in the area, looking to plunder and pillage your peaceful town. Build barracks, guard towers and recruit brave soldiers to protect your citizens from harm. You rule the whole empire from your castle and make sure your inhabitants have fun and stay happy!
+
+FEATURES
+- PLAY WITHOUT ADS!
+- City-building gameplay set in medieval times
+- Cute inhabitants with their own daily routines
+- Complex economy sim and deep production chains
+- Dozens of different town and production buildings
+- Optional military feature with soldiers and bandits
+- Meaningful seasons and weather effects
+- Devastating disasters like fire, disease, drought and many more
+- Diverse scenarios and challenging tasks
+- Unrestricted sandbox gameplay mode
+- Game Center support
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/42/ec/c542ec36-0077-d2dc-6e47-86e3d957a860/dfaf81fc-1601-46da-bbf7-ad1e3a9bb832_Townsmen_iOS_Screenshot_04_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e7/68/71/e768714a-e4ba-0934-555d-f7928bb75382/92f0a518-0f9f-4d4d-8855-cb4a0e40f2f2_Townsmen_iOS_Screenshot_05_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/5a/86/6c5a860a-0694-c43e-c76b-659e1f3a9769/eb4f5ba8-1b82-40fa-a7cd-e6b65c606b94_Townsmen_iOS_Screenshot_06_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fa/20/5f/fa205f03-34d1-ece8-33f0-b6700097452f/c31cb445-696b-462a-a583-8c79e2b0217c_Townsmen_iOS_Screenshot_01_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/ee/ae/bdeeae18-02b1-66bf-4bf6-587e81d8a867/3a8ebd6f-a3d8-4c25-b662-012e62cdb02c_Townsmen_iOS_Screenshot_02_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/4d/0a/134d0a7a-fcd8-df50-fa75-c67468a6d680/34e1b3ff-5cf7-4ed2-aa5b-f2661675ed4c_Townsmen_iOS_Screenshot_03_2208x1242.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/51/82/8c/51828c77-34bf-f960-5bfd-6b7fbb1937e9/80bb1ccb-43f2-4ae3-8d6b-62c90cca7b41_Townsmen_iOS_Screenshot_05_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/10/1f/74101fcc-faec-a3d7-8e06-65fd5d3a47cf/0006cd77-3693-4128-86b1-f07f621a3d8a_Townsmen_iOS_Screenshot_06_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/5f/f6/655ff6ed-094c-72c0-e069-4a4ce471dfc6/d63e403d-a227-4d59-a40a-c24936157c51_Townsmen_iOS_Screenshot_01_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/a0/76/10a076f2-3522-5ae5-b8b4-a77a6973e77c/498e6efc-12f2-4f18-a953-9d2bc4bbf82b_Townsmen_iOS_Screenshot_02_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/ab/24/63ab24c2-79d9-1881-6fed-32aa3eb9cecd/7de3b905-be76-40da-a0ac-c13920e97a39_Townsmen_iOS_Screenshot_03_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/1f/d3/d11fd305-374b-35eb-4640-78382cae6b61/b4104314-8b20-4113-902a-7f2d4d660e56_Townsmen_iOS_Screenshot_04_2732x2048.jpg/552x414bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Havre: The Inland Port]]></title>
@@ -4009,95 +4256,5 @@ Support:
 Please email for any suggestions/feedback
 voiceovermakerz@gmail.com
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/25/9c/a2259cd3-bd59-1ebe-94c5-5d0466ed69e0/mzl.vmygkyjz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/75/0d/bc750d10-602f-4205-6297-6a2b32a884b6/f9ecb161-b28d-46a0-9a25-00809fc51d99_SpeechText1@z2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3d/ec/f4/3decf434-9544-7c87-b72b-facdfe595127/af36c918-b65f-4d95-b6ec-8a5d95f3a491_SpeechText_iphone5pt5_3@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/fa/15/d4fa1546-8b5a-b688-abd7-3d7d9f28305e/52b0a797-e88d-417a-a69d-a3afae3d7c01_SpeechText5@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/99/54/8d9954ed-3074-ff5e-cce5-f128a342560d/97a05ad0-b470-4890-b048-a8a5e4240987_Speechtext2@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/ec/a8/43eca89e-58da-c527-ee7a-33114291f379/756f491f-13c7-47e8-85ea-8a28b9548484_SpeechText8@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/bc/d0/3dbcd094-b683-377c-aa2a-c90cad921927/bb6d4598-81ef-4e64-86f5-d3a7d7c89b7a_SpeechText9@2x.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/f6/90/daf690d6-07db-431b-51cd-dd23af8e8216/ff96eba5-6233-423d-94b2-4de07ed6c814_SpeechtextiPad1@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/5a/43/375a43c9-7c1e-e0dc-eebd-86d9593a0856/38618a72-0ca3-450f-9024-86c3f9b0df05_SpeechtextiPad4@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/4f/93/404f937c-f31c-3aa2-96f5-33c673156463/d953665e-2a03-4615-9de8-2b019db242d5_SpeechtextiPad5@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/e2/ac/bae2aca4-d671-e4bd-5070-a38099520477/7265fb5a-c6fd-43f0-be8b-ecca4cd897cc_SpeechtextiPad7@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/e4/7d/59e47d7c-849f-efd9-8b06-f9598bb88804/947b0610-f965-4baf-af99-92fb0049fb33_SpeechtextiPad10@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/2c/a2/b42ca2c1-be22-9e73-199b-ab6b71a0d51f/8a293e78-3a88-41ae-bd2e-4ff9ed3e6227_SpeechtextiPadold2.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dash for Tesla]]></title>
-        <id>Dash for Tesla-tr-1782129250725</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/6758935103?lang=en"/>
-        <updated>2026-06-22T11:54:10.725Z</updated>
-        <summary type="html"><![CDATA[Price: ₺299,99 → ₺229,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6758935103?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8a/98/07/8a980758-5795-bf10-9522-38a3dc3e807a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>₺299,99</span> → <b>
-  <strong>₺229,99</strong>
-</b><span>[₺149,99 ~ ₺299,99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>₺229,99</b>
-</p><h2>Application Description</h2><p>
-  Dash for Tesla is a Bluetooth‑based digital dashboard designed for Tesla owners.
-No login, no cloud authorization, and no additional hardware box are required. With just your phone and Bluetooth, you can access vehicle speed and other officially supported data and display them in multiple dashboard styles.
-
-Core Highlights
-
-No login · No cloud auth · No extra box
-You don’t need to enter your Tesla account, request remote API tokens, or install any OBD/communication box. As long as your vehicle supports Bluetooth key capabilities, you can connect locally and display data.
-Local Bluetooth connection
-Uses the vehicle’s officially supported Bluetooth capabilities to connect locally and show basic information such as speed and selected vehicle status on your phone.
-Dashboard‑first experience
-The core of the app is a digital cluster: it focuses on key driving information like speed, so you can read what matters at a glance.
-Multiple themes and backgrounds
-Choose from different dashboard backgrounds and color themes to match your personal style and interior mood.
-Local‑first, fast response
-Communication is local over BLE, not dependent on cloud connectivity, which means faster response and better stability even in poor or no network conditions.
-Privacy & Security
-
-No account registration is required, and we do not build a cloud profile based on your personal identity.
-Vehicle data is primarily processed locally on your device rather than stored long‑term on our own servers.
-Permissions such as Bluetooth and Location are used only to enable local communication with the vehicle and to support dashboard features.
-Ideal for drivers who
-
-Want a simple, focused digital speedometer and status dashboard.
-Prefer not to share Tesla account credentials or rely on cloud‑based remote control.
-Don’t want to install extra hardware boxes and just use the phone plus the vehicle itself.
-Important Notice
-Dash for Tesla is an independent third‑party tool and is not affiliated with, endorsed by, or officially connected to Tesla, Inc. or any of its subsidiaries.
-The app only displays data based on the vehicle’s officially supported Bluetooth capabilities and does not perform any modification or flashing of the vehicle.
-All Tesla‑related trademarks and brand names are the property of their respective owners and are used only for descriptive purposes.
-</p>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leek Inc. 2]]></title>
-        <id>Leek Inc. 2-tr-1782101576613</id>
-        <link href="https://appstore-discounts.eyelly.me/tr/6642649684?lang=en"/>
-        <updated>2026-06-22T04:12:56.613Z</updated>
-        <summary type="html"><![CDATA[Leek VIP: ₺399,99 → ₺249,99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/tr/6642649684?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/32/28/713228a6-2ef5-0aa4-80a3-42f03376a8bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
-  <li>
-    <strong>Leek VIP：</strong><span>₺399,99</span> → <b>
-  <strong>₺249,99</strong>
-</b><span>[₺99,99 ~ ₺399,99]</span>
-  </li>
-</ul><h2>All Price Information</h2><p>
-  Price：<b>₺49,99</b>
-</p><h3>In-App Purchases</h3><ul>
-  <li>
-    Leek Goldcoin +10000：<b>₺499,99</b>
-  </li><li>
-    Leek VIP：<b>₺249,99</b>
-  </li><li>
-    Leek Goldcoin +100：<b>₺49,99</b>
-  </li><li>
-    Treasure Chest Master：<b>₺149,99</b>
-  </li><li>
-    Leek Goldcoin +10：<b>₺49,99</b>
-  </li><li>
-    Leek Goldcoin +1000：<b>₺199,99</b>
-  </li>
-</ul><h2>Application Description</h2><p>
-  Leek Investment Company 2 is finally here, a new capital frenzy waiting for you to open!
-1.New beautiful pixel graphics, up to 100 kinds of buildings, more than 200 kinds of icons;
-2.Create value for the company, get promotion opportunities and a lot of commissions; acquire shares of the company and become the president of the company;
-3.Real trading system (100x leveraged trading), up to thousands of random events, to make huge profits in the ever-changing market;
-4.Awesome BTC mining system, simulating the BTC arithmetic system, hoarding a large number of mining machines to become a super miner;
-5.Recruit talent to work for you and get double the results depending on the employee's occupation and talent;
-6.Enter the leek club, get acquainted with industry elites and the world's richest people, and build your own business empire;
-7.ICO/IPO system;
-8.Extra large city map, city buildings can be acquired or upgraded;
-9.Built-in multiple arithmetic games or DAPP;
-10.Private garage, luxury car collection...
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/45/e7/7245e741-7355-8f67-6865-69718c86fe5d/bec0d1f5-fc08-430b-bb18-b776f6e65438_iphone-2208x1242-1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/82/7a/7d/827a7d15-ceae-bda5-bf9e-0c01e6eeb759/e97d675b-b6c7-4412-b1d6-72d6812de5e3_iphone-2208x1242-2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4c/58/04/4c5804d0-7873-2500-8fda-d30a41b17762/35a0d159-5af0-4b1b-841f-35dd744d6c51_iphone-2208x1242-3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8f/e1/47/8fe14753-015d-0197-5130-c1ebf96dbec5/bcba0bb6-2c85-40e5-922b-9f9e03d41aac_iphone-2208x1242-4.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/47/55/28/475528bc-8f41-5596-cd39-0c57075d3abf/82a15f1f-c7ec-43a4-b7f5-a067f3087832_iphone-2208x1242-5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/d6/eb/4bd6eb9f-6569-8c78-e2e3-6d48dc13f9e3/3c435170-9678-4b10-a0a6-049adedb4fc6_iphone-2208x1242-6.png/406x228bb.png" />]]></content>
     </entry>
 </feed>

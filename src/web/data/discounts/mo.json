@@ -1,5 +1,161 @@
 [
   {
+    "trackId": 549432607,
+    "region": "mo",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "無限的快進 !",
+        "from": "USD 3.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "小型聲望包",
+        "from": "USD 1.99",
+        "to": "USD 1.59",
+        "range": "[USD 1.59 ~ USD 1.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "無限的雙倍 XP 值！",
+        "from": "USD 3.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "很棒的聲望包",
+        "from": "USD 21.99",
+        "to": "USD 17.99",
+        "range": "[USD 17.99 ~ USD 21.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "終極尊貴包",
+        "from": "USD 39.99",
+        "to": "USD 32.99",
+        "range": "[USD 32.99 ~ USD 39.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "中聲望包",
+        "from": "USD 8.99",
+        "to": "USD 7.99",
+        "range": "[USD 7.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 2.49,
+    "formattedPrice": "USD 2.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 646256209,
+    "region": "mo",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id646256209",
+    "trackName": "照片橡皮擦",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1001096601,
+    "region": "mo",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "325,000資金",
+        "from": "USD 45.99",
+        "to": "USD 44.99",
+        "range": "[USD 44.99 ~ USD 45.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "125,000資金",
+        "from": "USD 18.99",
+        "to": "USD 17.99",
+        "range": "[USD 17.99 ~ USD 18.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "60,000資金",
+        "from": "USD 9.99",
+        "to": "USD 8.99",
+        "range": "[USD 8.99 ~ USD 9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "25,000資金",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1580067723,
+    "region": "mo",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.39 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6743115658,
+    "region": "mo",
+    "timestamp": 1782397971993,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6743115658",
+    "trackName": "TABS Pocket Edition",
+    "firstRecordedAt": 1754651512534
+  },
+  {
     "trackId": 1620202676,
     "region": "mo",
     "timestamp": 1782330325125,
@@ -1648,7 +1804,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -1708,7 +1864,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -1728,7 +1884,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -1768,7 +1924,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 2.49 ~ USD 7.79]"
+        "range": "[USD 2.49 ~ USD 8.99]"
       }
     ],
     "price": 2.49,
@@ -4885,7 +5041,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -4945,7 +5101,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -5675,7 +5831,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -5735,7 +5891,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 2.49 ~ USD 7.79]"
+        "range": "[USD 2.49 ~ USD 8.99]"
       }
     ],
     "price": 2.49,
@@ -8760,7 +8916,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -9269,7 +9425,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -9289,7 +9445,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -9811,7 +9967,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 2.49 ~ USD 7.79]"
+        "range": "[USD 2.49 ~ USD 8.99]"
       }
     ],
     "price": 2.49,
@@ -12202,7 +12358,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -12643,7 +12799,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -12984,7 +13140,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -13024,7 +13180,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 2.49 ~ USD 7.79]"
+        "range": "[USD 2.49 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -15055,7 +15211,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -16436,7 +16592,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -17379,7 +17535,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 0.9,
@@ -19513,7 +19669,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -19969,7 +20125,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -22318,7 +22474,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -22338,7 +22494,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -23040,7 +23196,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -25101,7 +25257,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -25141,7 +25297,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -25673,7 +25829,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
@@ -27892,7 +28048,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -27932,7 +28088,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -31059,7 +31215,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.49]"
+        "range": "[USD 0.90 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -31079,7 +31235,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.90 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -31680,7 +31836,7 @@
         "name": "Price",
         "from": "USD 6.29",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 6.29]"
+        "range": "[USD 0.90 ~ USD 7.49]"
       }
     ],
     "price": 0.9,
