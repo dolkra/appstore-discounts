@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 391269557,
+    "region": "us",
+    "timestamp": 1782549339195,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$29.99",
+        "to": "Free",
+        "range": "[Free ~ $29.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id391269557",
+    "trackName": "Apnea Trainer",
+    "firstRecordedAt": 1759366521700
+  },
+  {
     "trackId": 1492049794,
     "region": "us",
     "timestamp": 1782465994454,
@@ -1506,7 +1526,7 @@
         "name": "Price",
         "from": "$8.99",
         "to": "$6.99",
-        "range": "[$2.99 ~ $29.99]"
+        "range": "[Free ~ $29.99]"
       }
     ],
     "price": 6.99,

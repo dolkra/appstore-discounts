@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 391269557,
+    "region": "tr",
+    "timestamp": 1782549339195,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺1.499,99",
+        "to": "Free",
+        "range": "[Free ~ ₺1.499,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id391269557",
+    "trackName": "Apnea Trainer",
+    "firstRecordedAt": 1759366521700
+  },
+  {
     "trackId": 1492049794,
     "region": "tr",
     "timestamp": 1782465994454,
@@ -1641,7 +1661,7 @@
         "name": "Price",
         "from": "₺499,99",
         "to": "₺299,99",
-        "range": "[₺129,99 ~ ₺1.499,99]"
+        "range": "[Free ~ ₺1.499,99]"
       }
     ],
     "price": 299.99,

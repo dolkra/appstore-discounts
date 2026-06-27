@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2095` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2096` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2096|1560136627|Automatic|❌|幸福槍彈辯駁Ｓ 超高中級的南國擲骰合宿|幸福槍彈辯駁Ｓ 超高中級的南國擲骰合宿|幸福槍彈辯駁Ｓ 超高中級的南國擲骰合宿|❌|❌|❌|
 |2095|6758826958|Automatic|❌|命運之塔：四象劫滅|命運之塔：四象劫滅|命運之塔：四象劫滅|Tower of Fortune: Pralaya|Tower of Fortune: Pralaya|Tower of Fortune: Pralaya|
 |2094|802826167|Automatic|❌|豪華大郵輪物語|豪華大郵輪物語|豪華大郵輪物語|World Cruise Story|World Cruise Story|World Cruise Story|
 |2093|1025377649|Automatic|佛光大辭典增訂版|佛光大辭典增訂版|佛光大辭典增訂版|佛光大辭典增訂版|佛光大辭典增訂版|佛光大辭典增訂版|佛光大辭典增訂版|

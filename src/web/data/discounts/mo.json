@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 391269557,
+    "region": "mo",
+    "timestamp": 1782549339195,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 29.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 29.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id391269557",
+    "trackName": "Apnea Trainer",
+    "firstRecordedAt": 1759366521700
+  },
+  {
     "trackId": 1492049794,
     "region": "mo",
     "timestamp": 1782465994454,
@@ -1610,7 +1630,7 @@
         "name": "Price",
         "from": "USD 8.99",
         "to": "USD 6.99",
-        "range": "[USD 2.99 ~ USD 29.99]"
+        "range": "[免費 ~ USD 29.99]"
       }
     ],
     "price": 6.99,
