@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6745723131,
+    "region": "mo",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 5.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 5.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6745723131",
+    "trackName": "和弦基因 - 鋼琴鍵盤樂理圖形化查詢",
+    "firstRecordedAt": 1767768294074
+  },
+  {
+    "trackId": 6768559918,
+    "region": "mo",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6768559918",
+    "trackName": "和弦基因 - 吉他樂理",
+    "firstRecordedAt": 1780603562967
+  },
+  {
     "trackId": 670400597,
     "region": "mo",
     "timestamp": 1782674342423,
@@ -3987,7 +4027,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 5.99]"
+        "range": "[USD 0.99 ~ USD 5.99]"
       }
     ],
     "price": 3.99,
@@ -13066,7 +13106,7 @@
         "name": "Lifetime Membership",
         "from": "USD 12.99",
         "to": "USD 9.99",
-        "range": "[USD 7.99 ~ USD 12.99]"
+        "range": "[USD 7.99 ~ USD 19.99]"
       }
     ],
     "price": 0,
@@ -14346,7 +14386,7 @@
         "name": "Lifetime Membership",
         "from": "USD 9.99",
         "to": "USD 7.99",
-        "range": "[USD 7.99 ~ USD 12.99]"
+        "range": "[USD 7.99 ~ USD 19.99]"
       }
     ],
     "price": 0,
@@ -21231,7 +21271,7 @@
         "name": "Lifetime Membership",
         "from": "USD 9.99",
         "to": "USD 7.99",
-        "range": "[USD 7.99 ~ USD 12.99]"
+        "range": "[USD 7.99 ~ USD 19.99]"
       }
     ],
     "price": 0,
@@ -35075,7 +35115,7 @@
         "name": "Lifetime Membership",
         "from": "USD 12.99",
         "to": "USD 9.99",
-        "range": "[USD 7.99 ~ USD 12.99]"
+        "range": "[USD 7.99 ~ USD 19.99]"
       }
     ],
     "price": 0,
@@ -36548,7 +36588,7 @@
         "name": "Lifetime Membership",
         "from": "USD 12.99",
         "to": "USD 9.99",
-        "range": "[USD 7.99 ~ USD 12.99]"
+        "range": "[USD 7.99 ~ USD 19.99]"
       }
     ],
     "price": 0,
@@ -43832,7 +43872,7 @@
         "name": "Lifetime Membership",
         "from": "USD 9.99",
         "to": "USD 7.99",
-        "range": "[USD 7.99 ~ USD 12.99]"
+        "range": "[USD 7.99 ~ USD 19.99]"
       }
     ],
     "price": 0,

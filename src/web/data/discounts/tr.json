@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1642139491,
+    "region": "tr",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺29,99",
+        "range": "[₺2,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1756860878460
+  },
+  {
+    "trackId": 6502453075,
+    "region": "tr",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺264,99",
+        "to": "₺185,00",
+        "range": "[₺185,00 ~ ₺499,99]"
+      }
+    ],
+    "price": 185,
+    "formattedPrice": "₺185,00",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6502453075",
+    "trackName": "Balatro",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6670599313,
+    "region": "tr",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺249,99",
+        "range": "[₺249,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6670599313",
+    "trackName": "TRINITY TRIGGER",
+    "firstRecordedAt": 1764102625154
+  },
+  {
+    "trackId": 6745723131,
+    "region": "tr",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6745723131",
+    "trackName": "GenChord - Piano Scale Chord",
+    "firstRecordedAt": 1767768294074
+  },
+  {
+    "trackId": 6768559918,
+    "region": "tr",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺199,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺199,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6768559918",
+    "trackName": "GenChord - Guitar Scale Chord",
+    "firstRecordedAt": 1780603562967
+  },
+  {
     "trackId": 670400597,
     "region": "tr",
     "timestamp": 1782663030002,
@@ -4189,7 +4289,7 @@
         "name": "Price",
         "from": "₺249,99",
         "to": "₺199,99",
-        "range": "[₺199,99 ~ ₺299,99]"
+        "range": "[₺49,99 ~ ₺299,99]"
       }
     ],
     "price": 199.99,
@@ -13682,7 +13782,7 @@
         "name": "Lifetime Membership",
         "from": "₺699,99",
         "to": "₺499,99",
-        "range": "[₺349,99 ~ ₺699,99]"
+        "range": "[₺349,99 ~ ₺999,99]"
       }
     ],
     "price": 0,
@@ -15202,7 +15302,7 @@
         "name": "Lifetime Membership",
         "from": "₺499,99",
         "to": "₺399,99",
-        "range": "[₺349,99 ~ ₺699,99]"
+        "range": "[₺349,99 ~ ₺999,99]"
       }
     ],
     "price": 0,
@@ -23031,7 +23131,7 @@
         "name": "Lifetime Membership",
         "from": "₺449,99",
         "to": "₺349,99",
-        "range": "[₺349,99 ~ ₺699,99]"
+        "range": "[₺349,99 ~ ₺999,99]"
       }
     ],
     "price": 0,
@@ -38680,7 +38780,7 @@
         "name": "Lifetime Membership",
         "from": "₺599,99",
         "to": "₺449,99",
-        "range": "[₺349,99 ~ ₺699,99]"
+        "range": "[₺349,99 ~ ₺999,99]"
       }
     ],
     "price": 0,
@@ -40194,7 +40294,7 @@
         "name": "Lifetime Membership",
         "from": "₺599,99",
         "to": "₺449,99",
-        "range": "[₺349,99 ~ ₺699,99]"
+        "range": "[₺349,99 ~ ₺999,99]"
       }
     ],
     "price": 0,

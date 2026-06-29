@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1642139491,
+    "region": "us",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.49",
+        "range": "[$0.29 ~ $2.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1756860878460
+  },
+  {
+    "trackId": 6745723131,
+    "region": "us",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6745723131",
+    "trackName": "GenChord - Piano Scale Chord",
+    "firstRecordedAt": 1767768294074
+  },
+  {
+    "trackId": 6768559918,
+    "region": "us",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6768559918",
+    "trackName": "GenChord - Guitar Scale Chord",
+    "firstRecordedAt": 1780603562967
+  },
+  {
     "trackId": 670400597,
     "region": "us",
     "timestamp": 1782674342423,
@@ -4169,7 +4229,7 @@
         "name": "Price",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $5.99]"
+        "range": "[$0.99 ~ $5.99]"
       }
     ],
     "price": 3.99,
@@ -13295,7 +13355,7 @@
         "name": "Lifetime Membership",
         "from": "$12.99",
         "to": "$9.99",
-        "range": "[$7.99 ~ $12.99]"
+        "range": "[$7.99 ~ $19.99]"
       }
     ],
     "price": 0,
@@ -14656,7 +14716,7 @@
         "name": "Lifetime Membership",
         "from": "$9.99",
         "to": "$7.99",
-        "range": "[$7.99 ~ $12.99]"
+        "range": "[$7.99 ~ $19.99]"
       }
     ],
     "price": 0,
@@ -21688,7 +21748,7 @@
         "name": "Lifetime Membership",
         "from": "$9.99",
         "to": "$7.99",
-        "range": "[$7.99 ~ $12.99]"
+        "range": "[$7.99 ~ $19.99]"
       }
     ],
     "price": 0,
@@ -36806,7 +36866,7 @@
         "name": "Lifetime Membership",
         "from": "$12.99",
         "to": "$9.99",
-        "range": "[$7.99 ~ $12.99]"
+        "range": "[$7.99 ~ $19.99]"
       }
     ],
     "price": 0,
@@ -38269,7 +38329,7 @@
         "name": "Lifetime Membership",
         "from": "$12.99",
         "to": "$9.99",
-        "range": "[$7.99 ~ $12.99]"
+        "range": "[$7.99 ~ $19.99]"
       },
       {
         "type": "inAppPurchase",
@@ -45965,7 +46025,7 @@
         "name": "Lifetime Membership",
         "from": "$9.99",
         "to": "$7.99",
-        "range": "[$7.99 ~ $12.99]"
+        "range": "[$7.99 ~ $19.99]"
       }
     ],
     "price": 0,

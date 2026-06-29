@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1642139491,
+    "region": "pt",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,49 €",
+        "range": "[0,29 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6745723131,
+    "region": "pt",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6745723131",
+    "trackName": "GenChord - Escala de Piano",
+    "firstRecordedAt": 1767768294074
+  },
+  {
+    "trackId": 6768559918,
+    "region": "pt",
+    "timestamp": 1782705242702,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6768559918",
+    "trackName": "GenChord - Guitar Chords",
+    "firstRecordedAt": 1780603562967
+  },
+  {
     "trackId": 670400597,
     "region": "pt",
     "timestamp": 1782663030002,
@@ -3976,7 +4036,7 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 6,99 €]"
+        "range": "[0,99 € ~ 6,99 €]"
       }
     ],
     "price": 3.99,
@@ -12850,7 +12910,7 @@
         "name": "Lifetime Membership",
         "from": "14,99 €",
         "to": "9,99 €",
-        "range": "[8,99 € ~ 14,99 €]"
+        "range": "[8,99 € ~ 22,99 €]"
       }
     ],
     "price": 0,
@@ -14003,7 +14063,7 @@
         "name": "Lifetime Membership",
         "from": "9,99 €",
         "to": "8,99 €",
-        "range": "[8,99 € ~ 14,99 €]"
+        "range": "[8,99 € ~ 22,99 €]"
       }
     ],
     "price": 0,
