@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1481853033,
+    "region": "tw",
+    "timestamp": 1782747962673,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2,990.00",
+        "to": "$2,250.00",
+        "range": "[$2,250.00 ~ $3,990.00]"
+      }
+    ],
+    "price": 2250,
+    "formattedPrice": "$2,250.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1481853033",
+    "trackName": "Strongbox Pro",
+    "firstRecordedAt": 1742264150416
+  },
+  {
+    "trackId": 1499001662,
+    "region": "tw",
+    "timestamp": 1782747962673,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
     "trackId": 6745723131,
     "region": "tw",
     "timestamp": 1782730750438,
@@ -13240,7 +13280,7 @@
         "name": "Price",
         "from": "$3,990.00",
         "to": "$2,990.00",
-        "range": "[$2,490.00 ~ $3,990.00]"
+        "range": "[$2,250.00 ~ $3,990.00]"
       }
     ],
     "price": 2990,
@@ -37238,7 +37278,7 @@
         "name": "Yearly Membership",
         "from": "$150.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $150.00]"
+        "range": "[$120.00 ~ $290.00]"
       }
     ],
     "price": 0,
