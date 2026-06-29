@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6745723131,
+    "region": "pt",
+    "timestamp": 1782730750438,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "2,99 €",
+        "range": "[0,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6745723131",
+    "trackName": "GenChord - Escala de Piano",
+    "firstRecordedAt": 1767768294074
+  },
+  {
+    "trackId": 6768559918,
+    "region": "pt",
+    "timestamp": 1782730750438,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6768559918",
+    "trackName": "GenChord - Guitar Chords",
+    "firstRecordedAt": 1780603562967
+  },
+  {
     "trackId": 1642139491,
     "region": "pt",
     "timestamp": 1782705242702,
@@ -18,46 +58,6 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1642139491",
     "trackName": "Tokyo Train!",
     "firstRecordedAt": 1761797674362
-  },
-  {
-    "trackId": 6745723131,
-    "region": "pt",
-    "timestamp": 1782705242702,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "6,99 €",
-        "to": "0,99 €",
-        "range": "[0,99 € ~ 6,99 €]"
-      }
-    ],
-    "price": 0.99,
-    "formattedPrice": "0,99 €",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6745723131",
-    "trackName": "GenChord - Escala de Piano",
-    "firstRecordedAt": 1767768294074
-  },
-  {
-    "trackId": 6768559918,
-    "region": "pt",
-    "timestamp": 1782705242702,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "3,99 €",
-        "to": "0,99 €",
-        "range": "[0,99 € ~ 3,99 €]"
-      }
-    ],
-    "price": 0.99,
-    "formattedPrice": "0,99 €",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6768559918",
-    "trackName": "GenChord - Guitar Chords",
-    "firstRecordedAt": 1780603562967
   },
   {
     "trackId": 670400597,
