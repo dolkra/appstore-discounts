@@ -4147,7 +4147,7 @@
   },
   "348094874": {
     "trackId": 348094874,
-    "trackName": "Pano Tuner - Chromatic Tuner",
+    "trackName": "Pano Tuner – Chromatic Tuner",
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
@@ -42575,7 +42575,8 @@
       "福运铃铛": "17,99 €",
       "福运十次": "3,99 €",
       "至尊门票": "17,99 €",
-      "应援十次": "3,99 €"
+      "应援十次": "3,99 €",
+      "幸运转盘": "17,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -42596,9 +42597,29 @@
       "福运铃铛": "17,99 €",
       "福运十次": "3,99 €",
       "至尊门票": "17,99 €",
-      "应援十次": "3,99 €"
+      "应援十次": "3,99 €",
+      "幸运转盘": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1782763047411,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "幸运转盘": "17,99 €",
+            "至尊门票": "17,99 €",
+            "应援十次": "3,99 €",
+            "福运铃铛": "17,99 €",
+            "福运十次": "3,99 €",
+            "战姬参战": "99,99 €",
+            "火鸡宴会": "17,99 €",
+            "提升十级": "3,99 €",
+            "宝石通行证": "17,99 €",
+            "休假证明": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776310445510,
@@ -89663,6 +89684,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1782763047411,
+          "price": 0.9,
+          "formattedPrice": "0,90 €",
+          "inAppPurchases": {
+            "Road to Empress II": "9,59 €",
+            "Road to Empress I": "5,89 €",
+            "Road to Empress Collection": "13,90 €",
+            "Road to Empress-Sammlung": "14,90 €",
+            "total chapter": "14,90 €",
+            "road to empress I -- cost": "6,99 €",
+            "648000 Cracked Egg": "99,99 €"
+          }
+        },
         {
           "timestamp": 1782747962673,
           "price": 0.9,
