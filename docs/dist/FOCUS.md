@@ -486,7 +486,7 @@ So far, we've covered `7` `Countries or Regions` and  `2100` `Apps` <br />Push n
 |1624|1587497077|Automatic|❌|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|拦截1001-浏览器广告和app跳转拦截扩展(加强版)|
 |1623|1162537630|Automatic|❌|天使帝國四 (單機戰棋)|天使帝國四 (單機戰棋)|天使帝國四 (單機戰棋)|Empire of Angels IV|Empire of Angels IV|Empire of Angels IV|
 |1622|1348597095|Automatic|Camera Remote Watch|Camera Remote Watch|Camera Remote Watch|Camera Remote Watch|Camera Remote Watch|Camera Remote Watch|Camera Remote Watch|
-|1621|348094874|Automatic|Pano Tuner - Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|
+|1621|348094874|Automatic|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|Pano Tuner – Chromatic Tuner|
 |1620|1309035984|Automatic|❌|Passpartout: Starving Artist|Passpartout: Starving Artist|Passpartout: Starving Artist|Passpartout: Starving Artist|Passpartout: Starving Artist|Passpartout: Starving Artist|
 |1619|6756542102|Automatic|Onyx Magic|Onyx Magic|Onyx Magic|Onyx Magic|Onyx Magic|Onyx Magic|Onyx Magic|
 |1618|6478832224|Automatic|Rigging Bridle Calculator+|Rigging Bridle Calculator+|Rigging Bridle Calculator+|Rigging Bridle Calculator+|Rigging Bridle Calculator+|Rigging Bridle Calculator+|Rigging Bridle Calculator+|

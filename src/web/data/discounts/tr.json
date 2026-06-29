@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1481853033,
+    "region": "tr",
+    "timestamp": 1782770887097,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺3.999,99",
+        "to": "₺2.999,99",
+        "range": "[₺2.999,99 ~ ₺6.999,99]"
+      }
+    ],
+    "price": 2999.99,
+    "formattedPrice": "₺2.999,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1481853033",
+    "trackName": "Strongbox Pro",
+    "firstRecordedAt": 1742264150416
+  },
+  {
+    "trackId": 1499001662,
+    "region": "tr",
+    "timestamp": 1782770887097,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
+    "trackName": "EvoCreo2 Catch & Tame Monsters",
+    "firstRecordedAt": 1759940107332
+  },
+  {
     "trackId": 6768559918,
     "region": "tr",
     "timestamp": 1782730750438,
@@ -40254,7 +40294,7 @@
         "name": "Yearly Membership",
         "from": "₺229,99",
         "to": "₺179,99",
-        "range": "[₺149,99 ~ ₺229,99]"
+        "range": "[₺149,99 ~ ₺399,99]"
       }
     ],
     "price": 0,
