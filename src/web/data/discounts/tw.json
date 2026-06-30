@@ -1,5 +1,73 @@
 [
   {
+    "trackId": 1439262206,
+    "region": "tw",
+    "timestamp": 1782839195023,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "The Riverfolk Expansion",
+        "from": "$320.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Exiles & Partisans & Vagabonds",
+        "from": "$290.00",
+        "to": "$190.00",
+        "range": "[$190.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "The Clockwork Expansion",
+        "from": "$190.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $190.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Root: The Marauder Expansion",
+        "from": "$320.00",
+        "to": "$290.00",
+        "range": "[$290.00 ~ $320.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1439262206",
+    "trackName": "Root Board Game",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1575414319,
+    "region": "tw",
+    "timestamp": 1782839195023,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dune: Imperium - Rise of Ix",
+        "from": "$320.00",
+        "to": "$290.00",
+        "range": "[$290.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dune: Imperium - Immortality",
+        "from": "$320.00",
+        "to": "$290.00",
+        "range": "[$290.00 ~ $320.00]"
+      }
+    ],
+    "price": 390,
+    "formattedPrice": "$390.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1575414319",
+    "trackName": "Dune: Imperium",
+    "firstRecordedAt": 1751551965928
+  },
+  {
     "trackId": 6744170498,
     "region": "tw",
     "timestamp": 1782829258984,
