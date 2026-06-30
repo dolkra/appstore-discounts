@@ -86789,6 +86789,25 @@
     "history": [
       [
         {
+          "timestamp": 1782812098024,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Nurse Pack": "5,99 €",
+            "Unlock Beholder": "2,99 €",
+            "Unlock Gumiho": "2,99 €",
+            "Season 3 Battle Pass": "1,99 €",
+            "Uniform Pack": "3,99 €",
+            "Unlock Baphomet": "2,99 €",
+            "Season 2 Battle Pass": "1,99 €",
+            "Monster Pack 2": "34,99 €",
+            "Info Pack": "14,99 €",
+            "Smelting Pack": "7,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1780958413934,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -117570,6 +117589,29 @@
           "timestamp": 1782730750438,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6782209394": {
+    "trackId": 6782209394,
+    "trackName": "Bilgisayarcı",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1782812098024,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
