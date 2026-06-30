@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 510119487,
+    "region": "us",
+    "timestamp": 1782790658251,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$19.99",
+        "to": "$13.99",
+        "range": "[$9.99 ~ $19.99]"
+      }
+    ],
+    "price": 13.99,
+    "formattedPrice": "$13.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id510119487",
+    "trackName": "AnatomyMapp",
+    "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 1481853033,
+    "region": "us",
+    "timestamp": 1782790658251,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$99.99",
+        "to": "$74.99",
+        "range": "[$74.99 ~ $124.99]"
+      }
+    ],
+    "price": 74.99,
+    "formattedPrice": "$74.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1481853033",
+    "trackName": "Strongbox Pro",
+    "firstRecordedAt": 1742264150416
+  },
+  {
+    "trackId": 6748837351,
+    "region": "us",
+    "timestamp": 1782790658251,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$5.99",
+        "range": "[$5.99 ~ $9.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "$5.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6748837351",
+    "trackName": "Moment Pro Camera II",
+    "firstRecordedAt": 1763124830350
+  },
+  {
     "trackId": 1642139491,
     "region": "us",
     "timestamp": 1782705242702,
@@ -36990,7 +37050,7 @@
         "name": "Yearly Membership",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $4.99]"
+        "range": "[$3.99 ~ $7.99]"
       }
     ],
     "price": 0,
@@ -38336,7 +38396,7 @@
         "name": "Yearly Membership",
         "from": "$4.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $4.99]"
+        "range": "[$3.99 ~ $7.99]"
       }
     ],
     "price": 0,
