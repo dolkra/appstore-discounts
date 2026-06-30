@@ -1,30 +1,132 @@
 [
   {
-    "trackId": 6740698426,
+    "trackId": 1439262206,
     "region": "pt",
-    "timestamp": 1782849460401,
+    "timestamp": 1782857708407,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "New Clan",
-        "from": "22,99 €",
-        "to": "5,99 €",
-        "range": "[5,99 € ~ 22,99 €]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "New Hero",
+        "type": "price",
+        "name": "Price",
         "from": "9,99 €",
         "to": "2,99 €",
         "range": "[2,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "The Riverfolk Expansion",
+        "from": "9,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Root: The Underworld Expansion",
+        "from": "9,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Exiles & Partisans & Vagabonds",
+        "from": "8,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 8,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "The Clockwork Expansion",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 6,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Root: The Marauder Expansion",
+        "from": "9,99 €",
+        "to": "8,99 €",
+        "range": "[8,99 € ~ 9,99 €]"
       }
     ],
     "price": 2.99,
     "formattedPrice": "2,99 €",
     "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6740698426",
-    "trackName": "Empires Game",
-    "firstRecordedAt": 1768538736603
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1439262206",
+    "trackName": "Root Board Game",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1575414319,
+    "region": "pt",
+    "timestamp": 1782857708407,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "11,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 11,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dune: Imperium - Rise of Ix",
+        "from": "9,99 €",
+        "to": "8,99 €",
+        "range": "[8,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1575414319",
+    "trackName": "Dune: Imperium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1580629864,
+    "region": "pt",
+    "timestamp": 1782857708407,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "11,99 €",
+        "to": "8,99 €",
+        "range": "[7,99 € ~ 11,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Sunken Treasures",
+        "from": "9,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "8,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1580629864",
+    "trackName": "Clank!",
+    "firstRecordedAt": 1773162085626
+  },
+  {
+    "trackId": 6449233549,
+    "region": "pt",
+    "timestamp": 1782857708407,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "11,99 €",
+        "to": "8,99 €",
+        "range": "[8,99 € ~ 11,99 €]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "8,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6449233549",
+    "trackName": "Ark Nova",
+    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1481853033,
@@ -3848,7 +3950,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "5,99 €",
-        "range": "[3,99 € ~ 9,99 €]"
+        "range": "[2,99 € ~ 9,99 €]"
       }
     ],
     "price": 5.99,
@@ -8613,7 +8715,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 9,99 €]"
+        "range": "[2,99 € ~ 9,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -8715,7 +8817,7 @@
         "name": "Sunken Treasures",
         "from": "9,99 €",
         "to": "8,99 €",
-        "range": "[8,99 € ~ 9,99 €]"
+        "range": "[7,99 € ~ 9,99 €]"
       }
     ],
     "price": 8.99,
@@ -11883,7 +11985,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "5,99 €",
-        "range": "[3,99 € ~ 9,99 €]"
+        "range": "[2,99 € ~ 9,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -14987,7 +15089,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 9,99 €]"
+        "range": "[2,99 € ~ 9,99 €]"
       },
       {
         "type": "inAppPurchase",
@@ -19803,7 +19905,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 9,99 €]"
+        "range": "[2,99 € ~ 9,99 €]"
       },
       {
         "type": "inAppPurchase",
