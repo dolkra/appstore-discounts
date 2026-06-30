@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6740698426,
+    "region": "pt",
+    "timestamp": 1782849460401,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "New Clan",
+        "from": "22,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 22,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "New Hero",
+        "from": "9,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6740698426",
+    "trackName": "Empires Game",
+    "firstRecordedAt": 1768538736603
+  },
+  {
     "trackId": 1481853033,
     "region": "pt",
     "timestamp": 1782770887097,

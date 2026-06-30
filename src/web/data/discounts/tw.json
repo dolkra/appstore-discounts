@@ -2,11 +2,25 @@
   {
     "trackId": 1439262206,
     "region": "tw",
-    "timestamp": 1782839195023,
+    "timestamp": 1782849460401,
     "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $320.00]"
+      },
       {
         "type": "inAppPurchase",
         "name": "The Riverfolk Expansion",
+        "from": "$320.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Root: The Underworld Expansion",
         "from": "$320.00",
         "to": "$220.00",
         "range": "[$220.00 ~ $320.00]"
@@ -33,8 +47,8 @@
         "range": "[$290.00 ~ $320.00]"
       }
     ],
-    "price": 320,
-    "formattedPrice": "$320.00",
+    "price": 90,
+    "formattedPrice": "$90.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1439262206",
     "trackName": "Root Board Game",
@@ -43,8 +57,15 @@
   {
     "trackId": 1575414319,
     "region": "tw",
-    "timestamp": 1782839195023,
+    "timestamp": 1782849460401,
     "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $390.00]"
+      },
       {
         "type": "inAppPurchase",
         "name": "Dune: Imperium - Rise of Ix",
@@ -60,12 +81,59 @@
         "range": "[$290.00 ~ $320.00]"
       }
     ],
-    "price": 390,
-    "formattedPrice": "$390.00",
+    "price": 220,
+    "formattedPrice": "$220.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1575414319",
     "trackName": "Dune: Imperium",
     "firstRecordedAt": 1751551965928
+  },
+  {
+    "trackId": 1580629864,
+    "region": "tw",
+    "timestamp": 1782849460401,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$290.00",
+        "range": "[$220.00 ~ $390.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Sunken Treasures",
+        "from": "$290.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $290.00]"
+      }
+    ],
+    "price": 290,
+    "formattedPrice": "$290.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580629864",
+    "trackName": "Clank!",
+    "firstRecordedAt": 1773162085626
+  },
+  {
+    "trackId": 6449233549,
+    "region": "tw",
+    "timestamp": 1782849460401,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "$290.00",
+        "range": "[$290.00 ~ $390.00]"
+      }
+    ],
+    "price": 290,
+    "formattedPrice": "$290.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6449233549",
+    "trackName": "Ark Nova",
+    "firstRecordedAt": 1750417857625
   },
   {
     "trackId": 6744170498,
@@ -3997,7 +4065,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$150.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       }
     ],
     "price": 150,
@@ -8857,7 +8925,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       },
       {
         "type": "inAppPurchase",
@@ -11995,7 +12063,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$150.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       },
       {
         "type": "inAppPurchase",
@@ -15493,7 +15561,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       }
     ],
     "price": 120,
@@ -20730,7 +20798,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       },
       {
         "type": "inAppPurchase",
@@ -23793,7 +23861,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       },
       {
         "type": "inAppPurchase",
@@ -27394,7 +27462,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$150.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       },
       {
         "type": "inAppPurchase",
@@ -30180,7 +30248,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       },
       {
         "type": "inAppPurchase",
@@ -33612,7 +33680,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$150.00",
-        "range": "[$120.00 ~ $320.00]"
+        "range": "[$90.00 ~ $320.00]"
       },
       {
         "type": "inAppPurchase",
