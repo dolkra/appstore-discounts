@@ -1,5 +1,141 @@
 [
   {
+    "trackId": 1439262206,
+    "region": "us",
+    "timestamp": 1782877922821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "The Riverfolk Expansion",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Root: The Underworld Expansion",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Exiles & Partisans & Vagabonds",
+        "from": "$7.99",
+        "to": "$5.99",
+        "range": "[$5.99 ~ $7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Root: The Marauder Expansion",
+        "from": "$9.99",
+        "to": "$7.99",
+        "range": "[$7.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "The Clockwork Expansion",
+        "from": "$5.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $5.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1439262206",
+    "trackName": "Root Board Game",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1575414319,
+    "region": "us",
+    "timestamp": 1782877922821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $10.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dune: Imperium - Rise of Ix",
+        "from": "$9.99",
+        "to": "$7.99",
+        "range": "[$7.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dune: Imperium - Immortality",
+        "from": "$9.99",
+        "to": "$8.99",
+        "range": "[$8.99 ~ $9.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1575414319",
+    "trackName": "Dune: Imperium",
+    "firstRecordedAt": 1751551965928
+  },
+  {
+    "trackId": 1580629864,
+    "region": "us",
+    "timestamp": 1782877922821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$7.99",
+        "range": "[$6.99 ~ $10.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Sunken Treasures",
+        "from": "$8.99",
+        "to": "$6.99",
+        "range": "[$6.99 ~ $8.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1580629864",
+    "trackName": "Clank!",
+    "firstRecordedAt": 1773162085626
+  },
+  {
+    "trackId": 6449233549,
+    "region": "us",
+    "timestamp": 1782877922821,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$7.99",
+        "range": "[$7.99 ~ $10.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6449233549",
+    "trackName": "Ark Nova",
+    "firstRecordedAt": 1750417857625
+  },
+  {
     "trackId": 1499001662,
     "region": "us",
     "timestamp": 1782857708407,
@@ -4075,7 +4211,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       }
     ],
     "price": 4.99,
@@ -8828,7 +8964,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
@@ -8964,7 +9100,7 @@
         "name": "Sunken Treasures",
         "from": "$8.99",
         "to": "$7.99",
-        "range": "[$7.99 ~ $8.99]"
+        "range": "[$6.99 ~ $8.99]"
       }
     ],
     "price": 7.99,
@@ -12274,7 +12410,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
@@ -15639,7 +15775,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
@@ -20490,7 +20626,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
@@ -23622,7 +23758,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
@@ -27267,7 +27403,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
@@ -29977,7 +30113,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
@@ -33518,7 +33654,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$3.99 ~ $9.99]"
+        "range": "[$2.99 ~ $9.99]"
       },
       {
         "type": "inAppPurchase",
