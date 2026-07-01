@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 385902072,
+    "region": "tw",
+    "timestamp": 1782916477387,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$85.00",
+        "to": "$15.00",
+        "range": "[$15.00 ~ $85.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "$15.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 1437669537,
+    "region": "tw",
+    "timestamp": 1782916477387,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1437669537",
+    "trackName": "Bendy and the Ink Machine",
+    "firstRecordedAt": 1759144236301
+  },
+  {
+    "trackId": 1537060891,
+    "region": "tw",
+    "timestamp": 1782916477387,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$590.00",
+        "to": "$220.00",
+        "range": "[$220.00 ~ $590.00]"
+      }
+    ],
+    "price": 220,
+    "formattedPrice": "$220.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 6730126160,
+    "region": "tw",
+    "timestamp": 1782916477387,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$125.00",
+        "to": "$99.00",
+        "range": "[$60.00 ~ $125.00]"
+      }
+    ],
+    "price": 99,
+    "formattedPrice": "$99.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6730126160",
+    "trackName": "戲曲鑼鼓 - 電子鑼鼓打擊墊｜虛擬樂器｜演奏模擬器｜戲曲伴奏",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 6746699177,
+    "region": "tw",
+    "timestamp": 1782916477387,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "LYNQ+ Monthly",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 390,
+    "formattedPrice": "$390.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6746699177",
+    "trackName": "Lysoniq",
+    "firstRecordedAt": 1755418570787
+  },
+  {
     "trackId": 1439262206,
     "region": "tw",
     "timestamp": 1782849460401,
