@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1601446687,
+    "region": "us",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$7.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $7.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1601446687",
+    "trackName": "Streets of Rage 4",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6462841384,
+    "region": "us",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "Free",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6462841384",
+    "trackName": "香港基本法和國安法筆試",
+    "firstRecordedAt": 1770886651190
+  },
+  {
+    "trackId": 6758935103,
+    "region": "us",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.19",
+        "to": "Free",
+        "range": "[Free ~ $5.19]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6758935103",
+    "trackName": "Dash for Tesla",
+    "firstRecordedAt": 1775743448156
+  },
+  {
     "trackId": 385902072,
     "region": "us",
     "timestamp": 1782963215579,
@@ -968,7 +1028,7 @@
         "name": "Price",
         "from": "$5.19",
         "to": "$4.19",
-        "range": "[$2.99 ~ $5.19]"
+        "range": "[Free ~ $5.19]"
       }
     ],
     "price": 4.19,

@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1601446687,
+    "region": "tr",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1601446687",
+    "trackName": "Streets of Rage 4",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6462841384,
+    "region": "tr",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "Free",
+        "range": "[Free ~ ₺249,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6462841384",
+    "trackName": "香港基本法和國安法筆試",
+    "firstRecordedAt": 1770886651190
+  },
+  {
+    "trackId": 6758935103,
+    "region": "tr",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺229,99",
+        "to": "Free",
+        "range": "[Free ~ ₺299,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6758935103",
+    "trackName": "Dash for Tesla",
+    "firstRecordedAt": 1775743448156
+  },
+  {
     "trackId": 385902072,
     "region": "tr",
     "timestamp": 1782944237326,
@@ -1109,7 +1169,7 @@
         "name": "Price",
         "from": "₺299,99",
         "to": "₺229,99",
-        "range": "[₺149,99 ~ ₺299,99]"
+        "range": "[Free ~ ₺299,99]"
       }
     ],
     "price": 229.99,

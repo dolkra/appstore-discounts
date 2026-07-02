@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1601446687,
+    "region": "pt",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "8,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1601446687",
+    "trackName": "Streets of Rage 4",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6758935103,
+    "region": "pt",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "4,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 5,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6758935103",
+    "trackName": "Dash for Tesla",
+    "firstRecordedAt": 1775743448156
+  },
+  {
     "trackId": 6462841384,
     "region": "pt",
     "timestamp": 1782963215579,
@@ -948,7 +988,7 @@
         "name": "Price",
         "from": "5,99 €",
         "to": "4,99 €",
-        "range": "[2,99 € ~ 5,99 €]"
+        "range": "[Gratuito ~ 5,99 €]"
       }
     ],
     "price": 4.99,

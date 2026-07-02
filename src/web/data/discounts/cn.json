@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6462841384,
+    "region": "cn",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6462841384",
+    "trackName": "香港基本法和國安法筆試",
+    "firstRecordedAt": 1770886651190
+  },
+  {
+    "trackId": 6758935103,
+    "region": "cn",
+    "timestamp": 1782982556497,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥28.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6758935103",
+    "trackName": "Dash for Tesla",
+    "firstRecordedAt": 1775743448156
+  },
+  {
     "trackId": 6730126160,
     "region": "cn",
     "timestamp": 1782916477387,
@@ -343,7 +383,7 @@
         "name": "Price",
         "from": "¥38.00",
         "to": "¥28.00",
-        "range": "[¥18.00 ~ ¥38.00]"
+        "range": "[免费 ~ ¥38.00]"
       }
     ],
     "price": 28,
