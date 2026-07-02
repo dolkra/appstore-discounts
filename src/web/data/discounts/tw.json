@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 931188326,
+    "region": "tw",
+    "timestamp": 1783000797627,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1557502285,
+    "region": "tw",
+    "timestamp": 1783000797627,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $150.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1557502285",
+    "trackName": "Rush Rally Origins",
+    "firstRecordedAt": 1764507025759
+  },
+  {
     "trackId": 1601446687,
     "region": "tw",
     "timestamp": 1782982556497,
