@@ -163,7 +163,7 @@ So far, we've covered `7` `Countries or Regions` and  `2105` `Apps` <br />Push n
 |1952|432791399|Automatic|Cloud Baby Monitor|❌|Cloud Baby Monitor|Cloud Baby Monitor|Cloud Baby Monitor|Cloud Baby Monitor|Cloud Baby Monitor|
 |1951|6761328517|Automatic|❌|地牢深處|地牢深處|地牢深處|Dungeon Within|Dungeon Within|Dungeon Within|
 |1950|1533473030|Automatic|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|
-|1949|6762740657|Automatic|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|
+|1949|6762740657|Automatic|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|
 |1948|924438909|Automatic|ProShot|ProShot|ProShot|ProShot|ProShot|ProShot|ProShot|
 |1947|6743021613|Automatic|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|
 |1946|6762764584|Automatic|韩ִ小ֹ圈：韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|❌|❌|❌|
@@ -1124,7 +1124,7 @@ So far, we've covered `7` `Countries or Regions` and  `2105` `Apps` <br />Push n
 |991|1116905928|Automatic|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|nPlayer|
 |990|1292311498|Automatic|International One Night|International One Night|International One Night|International One Night|❌|❌|❌|
 |989|6473332700|Automatic|逐鹿 - 历史沙盘战棋|❌|❌|❌|❌|❌|❌|
-|988|6742526717|Automatic|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube - Video & Shorts|WatchTube for YouTube|WatchTube - Video & Shorts|
+|988|6742526717|Automatic|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|
 |987|6478398981|Automatic|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
 |986|528181527|Automatic|行车记录仪 「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Driving Recorder|TripREC Driving Recorder|gravador de condução「TripREC」|
 |985|545625741|Automatic|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
