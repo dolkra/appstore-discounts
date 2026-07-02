@@ -163,7 +163,7 @@ So far, we've covered `7` `Countries or Regions` and  `2105` `Apps` <br />Push n
 |1952|432791399|Automatic|Cloud Baby Monitor|❌|Cloud Baby Monitor|Cloud Baby Monitor|Cloud Baby Monitor|Cloud Baby Monitor|Cloud Baby Monitor|
 |1951|6761328517|Automatic|❌|地牢深處|地牢深處|地牢深處|Dungeon Within|Dungeon Within|Dungeon Within|
 |1950|1533473030|Automatic|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|BS Companion|
-|1949|6762740657|Automatic|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|
+|1949|6762740657|Automatic|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|寶寶副食品・今天吃什麼－食譜與過敏紀錄|
 |1948|924438909|Automatic|ProShot|ProShot|ProShot|ProShot|ProShot|ProShot|ProShot|
 |1947|6743021613|Automatic|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|电视直播-手机电视节目表、电视导航|
 |1946|6762764584|Automatic|韩ִ小ֹ圈：韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|韩国小影视圈-海量韩剧韩综韩影聚合平台|❌|❌|❌|

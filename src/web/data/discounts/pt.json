@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 931188326,
+    "region": "pt",
+    "timestamp": 1783029958349,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1557502285,
+    "region": "pt",
+    "timestamp": 1783029958349,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1557502285",
+    "trackName": "Rush Rally Origins",
+    "firstRecordedAt": 1764507025759
+  },
+  {
+    "trackId": 6756866511,
+    "region": "pt",
+    "timestamp": 1783029958349,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6756866511",
+    "trackName": "IIWII",
+    "firstRecordedAt": 1779184723397
+  },
+  {
     "trackId": 1601446687,
     "region": "pt",
     "timestamp": 1782982556497,
