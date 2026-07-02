@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 931188326,
+    "region": "cn",
+    "timestamp": 1783010928492,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id931188326",
+    "trackName": "DayCost",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6737795387,
+    "region": "cn",
+    "timestamp": 1783010928492,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥38.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6737795387",
+    "trackName": "鬼谷八荒",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6504854196,
+    "region": "cn",
+    "timestamp": 1783010928492,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥36.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6504854196",
+    "trackName": "下一站江湖Ⅱ",
+    "firstRecordedAt": 1756239208453
+  },
+  {
     "trackId": 6737795387,
     "region": "cn",
     "timestamp": 1783000797627,
