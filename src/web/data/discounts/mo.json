@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 495937600,
+    "region": "mo",
+    "timestamp": 1783087390633,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id495937600",
+    "trackName": "The Tiny Bang Story",
+    "firstRecordedAt": 1759327934089
+  },
+  {
+    "trackId": 6760948683,
+    "region": "mo",
+    "timestamp": 1783087390633,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 3.99",
+        "to": "USD 2.39",
+        "range": "[USD 0.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 2.39,
+    "formattedPrice": "USD 2.39",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6760948683",
+    "trackName": "Digline: Cozy Mining",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 6756866511,
     "region": "mo",
     "timestamp": 1783029958349,
