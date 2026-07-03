@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 931188326,
+    "region": "us",
+    "timestamp": 1783047362559,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1557502285,
+    "region": "us",
+    "timestamp": 1783047362559,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1557502285",
+    "trackName": "Rush Rally Origins",
+    "firstRecordedAt": 1764507025759
+  },
+  {
+    "trackId": 6758935103,
+    "region": "us",
+    "timestamp": 1783047362559,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.19",
+        "to": "$0.99",
+        "range": "[Free ~ $5.19]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6758935103",
+    "trackName": "Dash for Tesla",
+    "firstRecordedAt": 1775743448156
+  },
+  {
     "trackId": 6756866511,
     "region": "us",
     "timestamp": 1783029958349,
@@ -58,26 +118,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6462841384",
     "trackName": "香港基本法和國安法筆試",
     "firstRecordedAt": 1770886651190
-  },
-  {
-    "trackId": 6758935103,
-    "region": "us",
-    "timestamp": 1782982556497,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$4.19",
-        "to": "Free",
-        "range": "[Free ~ $5.19]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id6758935103",
-    "trackName": "Dash for Tesla",
-    "firstRecordedAt": 1775743448156
   },
   {
     "trackId": 385902072,
