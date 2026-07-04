@@ -47956,7 +47956,7 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "INSIDE - jogo completo": "7,99 €"
+      "INSIDE - jogo completo": "9,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -47964,6 +47964,16 @@
       "INSIDE - jogo completo": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783202313715,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "INSIDE - jogo completo": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -54591,6 +54601,25 @@
       "Blend": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783202313715,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Rate": "0,00 €",
+            "Info": "0,00 €",
+            "Tuner": "0,00 €",
+            "Chromakey": "0,00 €",
+            "Unlock All": "8,99 €",
+            "Paint": "0,00 €",
+            "Erase": "0,99 €",
+            "Blend": "0,99 €",
+            "Distortion": "0,00 €",
+            "Magnifier": "0,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781898556796,
@@ -113797,6 +113826,14 @@
     "history": [
       [
         {
+          "timestamp": 1783202313715,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783029958349,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -115159,6 +115196,27 @@
           "timestamp": 1783162444805,
           "price": 4.99,
           "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6746944662": {
+    "name": "Voidloop",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1783202313715,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
