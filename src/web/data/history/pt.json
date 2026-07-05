@@ -6646,12 +6646,12 @@
     "maxPriceInfo": {
       "price": 34.99,
       "formattedPrice": "34,99 €",
-      "Training Plan – Loyalty · mo.": "2,39 €",
+      "Training Plan – Loyalty · mo.": "3,99 €",
       "Apnea Trainer Pro – Monthly": "5,99 €",
       "Apnea Trainer Pro – Yearly": "19,99 €",
       "Training Plan – Loyalty · one-time": "29,99 €",
       "Apnea Trainer Pro – Lifetime": "44,99 €",
-      "Training Plan – Loyalty · yr.": "7,99 €"
+      "Training Plan – Loyalty · yr.": "14,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -6665,6 +6665,19 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1783288885792,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Training Plan – Loyalty · mo.": "3,99 €",
+            "Apnea Trainer Pro – Monthly": "5,99 €",
+            "Apnea Trainer Pro – Yearly": "19,99 €",
+            "Training Plan – Loyalty · one-time": "29,99 €",
+            "Apnea Trainer Pro – Lifetime": "44,99 €",
+            "Training Plan – Loyalty · yr.": "14,99 €"
+          }
+        },
         {
           "timestamp": 1783258698084,
           "price": 0,
@@ -32759,6 +32772,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783288885792,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783029958349,
@@ -69981,6 +70002,25 @@
     "history": [
       [
         {
+          "timestamp": 1783288885792,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Starter Package": "2,99 €",
+            "Tamer Kit": "0,99 €",
+            "Master Package": "19,99 €",
+            "Prime Gemma 500": "5,99 €",
+            "Hunter Package": "9,99 €",
+            "Prime Gemma 1200": "9,99 €",
+            "Prime gemma 100": "0,99 €",
+            "Evoker Kit": "0,99 €",
+            "Prime Dimension DLC": "7,99 €",
+            "Evoker Package": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783029958349,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -71499,6 +71539,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783288885792,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1776984944582,
@@ -95166,6 +95214,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1783288885792,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Assinatura semanal": "0,99 €",
+            "Premium Lifetime": "19,99 €",
+            "Pro – Lifetime": "0,00 €",
+            "Assinatura anual": "8,99 €"
+          }
+        },
         {
           "timestamp": 1783221728989,
           "price": 0,
