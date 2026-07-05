@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2113` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2115` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2115|294730339|Automatic|TripView|TripView|TripView|TripView|TripView|TripView|TripView|
+|2114|1466743409|Automatic|Mensa IQ Check|Mensa IQ Check|Mensa IQ Check|Mensa IQ Check|❌|Mensa IQ Check|Mensa IQ Check|
 |2113|6762336561|Automatic|Parallax Monitor|Parallax Monitor|Parallax Monitor|Parallax Monitor|Parallax Monitor|Parallax Monitor|Parallax Monitor|
 |2112|6746944662|Automatic|❌|Voidloop|Voidloop|Voidloop|Voidloop|Voidloop|Voidloop|
 |2111|6517357575|Automatic|❌|Graphwar II|Graphwar II|Graphwar II|Graphwar II|Graphwar II|Graphwar II|
@@ -1151,7 +1153,7 @@ So far, we've covered `7` `Countries or Regions` and  `2113` `Apps` <br />Push n
 |972|1623111026|Automatic|❌|口袋學院物語3|口袋學院物語3|口袋學院物語3|Pocket Academy 3|Pocket Academy 3|Pocket Academy 3|
 |971|1671475521|Automatic|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|
 |970|6479295005|Automatic|❌|住宅夢物語 DX|住宅夢物語 DX|住宅夢物語 DX|Dream House Days DX|Dream House Days DX|Dream House Days DX|
-|969|6744569015|Automatic|❌|❌|❌|❌|Neon Labyrinth|❌|❌|
+|969|6744569015|Automatic|❌|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|❌|
 |968|6502905107|Automatic|❌|AListServer|AListServer|AListServer|AListServer|AListServer|AListServer|
 |967|400259071|Automatic|❌|降雨警報器 Pro|降雨警報器 Pro|降雨警報器 Pro|Rain Alarm Pro Weather Radar|❌|Rain Alarm Pro Radar de Chuva|
 |966|1139986977|Automatic|❌|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|
