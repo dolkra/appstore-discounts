@@ -61365,10 +61365,18 @@
       "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
-      "price": 17.99,
-      "formattedPrice": "17,99 €"
+      "price": 17,
+      "formattedPrice": "17,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783249446065,
+          "price": 17,
+          "formattedPrice": "17,00 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1774436192893,
@@ -118903,6 +118911,29 @@
           "timestamp": 1783202313715,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762336561": {
+    "trackId": 6762336561,
+    "trackName": "Parallax Monitor",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "minPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1783249446065,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
           "inAppPurchases": {}
         }
       ]
