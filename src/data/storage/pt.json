@@ -5499,6 +5499,27 @@
       ]
     ]
   },
+  "363978811": {
+    "name": "Seconds Pro Interval Timer",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1783351908145,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "364876095": {
     "name": "Jump Desktop (RDP, VNC, Fluid)",
     "maxPriceInfo": {
@@ -42127,6 +42148,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1783351908145,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "XP de Torre": "1,19 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Torre completa e Excelência": "9,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Liberar Excelência": "5,99 €",
+            "Modo Dinheiro Dobrado": "21,99 €"
+          }
+        },
         {
           "timestamp": 1783308623317,
           "price": 7.99,
@@ -113499,7 +113537,10 @@
       "Lõuna-Eesti Ralli 2026": "3,89 €",
       "WRC Eko Acropolis Rally Greece 2026": "3,89 €",
       "D1 Ardeca Ypres Rally 2026": "3,89 €",
-      "ERC Rally di Roma Capitale 2026": "1,95 €"
+      "ERC Rally di Roma Capitale 2026": "1,95 €",
+      "WRC Secto Rally Finland 2026": "3,99 €",
+      "ERC 82nd Rally Poland 2026": "3,99 €",
+      "WRC Rally Estonia 2026": "3,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -113523,9 +113564,31 @@
       "Lõuna-Eesti Ralli 2026": "3,89 €",
       "WRC Eko Acropolis Rally Greece 2026": "3,89 €",
       "D1 Ardeca Ypres Rally 2026": "3,89 €",
-      "ERC Rally di Roma Capitale 2026": "1,95 €"
+      "ERC Rally di Roma Capitale 2026": "1,95 €",
+      "WRC Secto Rally Finland 2026": "3,99 €",
+      "ERC 82nd Rally Poland 2026": "3,99 €",
+      "WRC Rally Estonia 2026": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783351908145,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "WRC Vodafone Rally de Portugal 2026": "3,89 €",
+            "WRC Central European Rally": "4,69 €",
+            "WRC Secto Rally Finland 2026": "3,99 €",
+            "ERC 82nd Rally Poland 2026": "3,99 €",
+            "WRC Rally Estonia 2026": "3,99 €",
+            "ERC Rally di Roma Capitale 2026": "1,95 €",
+            "D1 Ardeca Ypres Rally 2026": "3,89 €",
+            "Lõuna-Eesti Ralli 2026": "3,89 €",
+            "WRC Eko Acropolis Rally Greece 2026": "3,89 €",
+            "NEO Rally Žemaitija 2026": "3,39 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782407533652,
