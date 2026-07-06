@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2117` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2118` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2118|781437836|自动|MultiDeco|MultiDeco|MultiDeco|MultiDeco|MultiDeco|MultiDeco|MultiDeco|
 |2117|363978811|自动|Seconds Pro Interval Timer|Seconds Pro Interval Timer|Seconds Pro Interval Timer|Seconds Pro Interval Timer|Seconds Pro Interval Timer|Seconds Pro Interval Timer|Seconds Pro Interval Timer|
 |2116|6772719928|自动|入境處投考全攻略|入境處投考全攻略|入境處投考全攻略|入境處投考全攻略|入境處投考全攻略|入境處投考全攻略|入境處投考全攻略|
 |2115|294730339|自动|TripView|TripView|TripView|TripView|TripView|TripView|TripView|
@@ -22,7 +23,7 @@
 |2105|6742782416|自动|空气PiuPiu枪-iWatch解压枪械名枪声狙击手枪模拟器|空氣PiuPiu槍-iWatch解壓槍械名槍模擬器|空氣PiuPiu槍-iWatch解壓槍械名槍模擬器|空氣PiuPiu槍-iWatch解壓槍械名槍模擬器|Gunshot sound simulator pro|Gunshot sound simulator pro|空气PiuPiu枪-iWatch解压枪械名枪声狙击手枪模拟器|
 |2104|1062494205|自动|MacDive|MacDive|MacDive|MacDive|MacDive|MacDive|❌|
 |2103|1511139245|自动|ABRSM Piano Scales Trainer|ABRSM Piano Scales Trainer|ABRSM Piano Scales Trainer|ABRSM Piano Scales Trainer|ABRSM Piano Scales Trainer|ABRSM Piano Scales Trainer|ABRSM Piano Scales Trainer|
-|2102|6742218180|自动|Heedam 滤镜|Heedam Filter|Heedam Filter|Heedam Filter|Heedam Filter|Heedam Filter|희담필터|
+|2102|6742218180|自动|Heedam Filter|Heedam Filter|Heedam Filter|Heedam Filter|Heedam Filter|Heedam Filter|희담필터|
 |2101|6782209394|自动|❌|Bilgisayarcı|Bilgisayarcı|Bilgisayarcı|Bilgisayarcı|Bilgisayarcı|Bilgisayarcı|
 |2100|6763737180|自动|YoungPhoto - 氛围感构图相机|YoungPhoto - 質感構圖相機|YoungPhoto - 質感構圖相機|YoungPhoto - 質感構圖相機|YoungPhoto - Aesthetic Camera|YoungPhoto - Aesthetic Camera|YoungPhoto - Aesthetic Camera|
 |2099|1477806063|自动|❌|Football Agent|Football Agent|Football Agent|Football Agent|Football Agent|Agente de Futebol|
