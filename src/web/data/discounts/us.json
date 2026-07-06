@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1449020025,
+    "region": "us",
+    "timestamp": 1783308623317,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "不玩手机永久会员",
+        "from": "$19.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1449020025",
+    "trackName": "不玩手机-自律习惯养成记",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1512838461,
+    "region": "us",
+    "timestamp": 1783308623317,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1512838461",
+    "trackName": "DayCircle - Day counter",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 6741892043,
     "region": "us",
     "timestamp": 1783249446065,
