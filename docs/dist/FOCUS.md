@@ -1156,7 +1156,7 @@ So far, we've covered `7` `Countries or Regions` and  `2118` `Apps` <br />Push n
 |972|1623111026|Automatic|❌|口袋學院物語3|口袋學院物語3|口袋學院物語3|Pocket Academy 3|Pocket Academy 3|Pocket Academy 3|
 |971|1671475521|Automatic|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|DNA Transform!|
 |970|6479295005|Automatic|❌|住宅夢物語 DX|住宅夢物語 DX|住宅夢物語 DX|Dream House Days DX|Dream House Days DX|Dream House Days DX|
-|969|6744569015|Automatic|❌|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|❌|
+|969|6744569015|Automatic|❌|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|Neon Labyrinth|
 |968|6502905107|Automatic|❌|AListServer|AListServer|AListServer|AListServer|AListServer|AListServer|
 |967|400259071|Automatic|❌|降雨警報器 Pro|降雨警報器 Pro|降雨警報器 Pro|Rain Alarm Pro Weather Radar|❌|Rain Alarm Pro Radar de Chuva|
 |966|1139986977|Automatic|❌|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|軒轅劍參 雲和山的彼端 加強版|
