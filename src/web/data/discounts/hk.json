@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 6741892043,
+    "region": "hk",
+    "timestamp": 1783434755140,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "女帝篇",
+        "from": "HK$ 71.00",
+        "to": "HK$ 63.00",
+        "range": "[HK$ 63.00 ~ HK$ 71.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6741892043",
+    "trackName": "女王的遊戲：盛世天下",
+    "firstRecordedAt": 1757409218377
+  },
+  {
+    "trackId": 6448928429,
+    "region": "hk",
+    "timestamp": 1783434755140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6448928429",
+    "trackName": "Parking Mafia: ONLİNE",
+    "firstRecordedAt": 1764641127012
+  },
+  {
+    "trackId": 6633412890,
+    "region": "hk",
+    "timestamp": 1783434755140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 18.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6633412890",
+    "trackName": "Tiny Terraces",
+    "firstRecordedAt": 1769087164675
+  },
+  {
     "trackId": 6458144503,
     "region": "hk",
     "timestamp": 1783367798161,
@@ -4733,7 +4793,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+        "range": "[免費 ~ HK$ 38.00]"
       }
     ],
     "price": 8,
@@ -7079,7 +7139,7 @@
         "name": "Price",
         "from": "HK$ 18.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 8.00 ~ HK$ 38.00]"
+        "range": "[免費 ~ HK$ 38.00]"
       }
     ],
     "price": 8,
@@ -11703,7 +11763,7 @@
         "name": "Price",
         "from": "HK$ 18.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 12.00 ~ HK$ 18.00]"
+        "range": "[HK$ 8.00 ~ HK$ 18.00]"
       }
     ],
     "price": 12,

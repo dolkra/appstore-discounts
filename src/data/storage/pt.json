@@ -26640,6 +26640,25 @@
     "history": [
       [
         {
+          "timestamp": 1783434755140,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "17,99 €",
+            "Racing Prodigy X30 Atlanta": "17,99 €",
+            "Racing Prodigy X30 Kart Dubai": "17,99 €",
+            "Racing Prodigy X30 B. Vegas": "17,99 €",
+            "Racing Prodigy 50 Quali Tyres": "5,99 €",
+            "10 Pack Qualifying Tyres": "0,99 €",
+            "Figo 100 Octane Fuel Pack - 20": "3,99 €",
+            "Le Cont Hards - 40 Tyre Pack": "3,99 €",
+            "Le Cont Mediums - 40 Tyre Pack": "3,99 €",
+            "Le Cont Softs - 40 Tyres Pack": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782916477387,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -58693,13 +58712,25 @@
     "name": "Power Grid Boardgame",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "1. Expansion": "4,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "formattedPrice": "3,99 €",
+      "1. Expansion": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783434755140,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "1. Expansion": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764556138236,

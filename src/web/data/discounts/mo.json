@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6448928429,
+    "region": "mo",
+    "timestamp": 1783434755140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6448928429",
+    "trackName": "Parking Mafia: ONLİNE",
+    "firstRecordedAt": 1764641127012
+  },
+  {
+    "trackId": 6633412890,
+    "region": "mo",
+    "timestamp": 1783434755140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 1.19",
+        "range": "[USD 1.19 ~ USD 1.99]"
+      }
+    ],
+    "price": 1.19,
+    "formattedPrice": "USD 1.19",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6633412890",
+    "trackName": "Tiny Terraces",
+    "firstRecordedAt": 1769087164675
+  },
+  {
     "trackId": 6458144503,
     "region": "mo",
     "timestamp": 1783367798161,
@@ -4839,7 +4879,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 4.99]"
+        "range": "[免費 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
@@ -7078,7 +7118,7 @@
         "name": "Price",
         "from": "USD 1.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 4.99]"
+        "range": "[免費 ~ USD 4.99]"
       }
     ],
     "price": 0.99,
@@ -11802,7 +11842,7 @@
         "name": "Price",
         "from": "USD 1.99",
         "to": "USD 1.29",
-        "range": "[USD 1.29 ~ USD 1.99]"
+        "range": "[USD 1.19 ~ USD 1.99]"
       }
     ],
     "price": 1.29,
