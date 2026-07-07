@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6458144503,
+    "region": "us",
+    "timestamp": 1783394439862,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$7.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $7.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6458144503",
+    "trackName": "Skul: The Hero Slayer",
+    "firstRecordedAt": 1745626119758
+  },
+  {
+    "trackId": 6474541983,
+    "region": "us",
+    "timestamp": 1783394439862,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $6.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6474541983",
+    "trackName": "Children of Morta",
+    "firstRecordedAt": 1763130406035
+  },
+  {
     "trackId": 1449020025,
     "region": "us",
     "timestamp": 1783308623317,
