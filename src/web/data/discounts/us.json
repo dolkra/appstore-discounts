@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1449020025,
+    "region": "us",
+    "timestamp": 1783636051492,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "不玩手机永久会员",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1449020025",
+    "trackName": "不玩手机-自律习惯养成记",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 6760948683,
     "region": "us",
     "timestamp": 1783626347383,
@@ -257,7 +277,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1067198688",
     "trackName": "彩云天气Pro",
-    "firstRecordedAt": 1721960142187
+    "firstRecordedAt": 1721960142187,
+    "notificationDisabled": true
   },
   {
     "trackId": 1587301632,
@@ -349,7 +370,7 @@
         "name": "不玩手机永久会员",
         "from": "$19.99",
         "to": "$3.99",
-        "range": "[$3.99 ~ $19.99]"
+        "range": "[$0.99 ~ $19.99]"
       }
     ],
     "price": 0,
@@ -2990,7 +3011,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1067198688",
     "trackName": "彩云天气Pro",
-    "firstRecordedAt": 1721960142187
+    "firstRecordedAt": 1721960142187,
+    "notificationDisabled": true
   },
   {
     "trackId": 1020541183,

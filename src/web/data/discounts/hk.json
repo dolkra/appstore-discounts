@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1449020025,
+    "region": "hk",
+    "timestamp": 1783636051492,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "不玩手机永久会员",
+        "from": "HK$ 32.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 8.00 ~ HK$ 148.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1449020025",
+    "trackName": "不玩手机-自律习惯养成记",
+    "firstRecordedAt": 1722784406759
+  },
+  {
     "trackId": 1580067723,
     "region": "hk",
     "timestamp": 1783610315110,
@@ -389,7 +409,7 @@
         "name": "不玩手机永久会员",
         "from": "HK$ 148.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 148.00]"
+        "range": "[HK$ 8.00 ~ HK$ 148.00]"
       }
     ],
     "price": 0,

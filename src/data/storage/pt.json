@@ -42320,6 +42320,25 @@
     "history": [
       [
         {
+          "timestamp": 1783636051492,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Oferta de Pilha de Dinheiro": "3,49 €",
+            "Liberar Torre Totalmente": "5,99 €",
+            "Dinheiro de Macaco": "2,49 €",
+            "XP de Torre": "1,19 €",
+            "Pilha de Dinheiro de Macaco": "5,99 €",
+            "Dinheiro de Macaco Extra": "1,99 €",
+            "Oferta de Cofre de Dinheiro": "14,99 €",
+            "Torre completa e Excelência": "9,99 €",
+            "Ponto de Conhecimento": "1,19 €",
+            "Liberar Excelência": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783351908145,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -57921,14 +57940,27 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Card.Note Premiun": "2,99 €"
+      "Card.Note Premiun": "2,99 €",
+      "Card.Note会员按周订阅": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Card.Note Premiun": "0,99 €"
+      "Card.Note Premiun": "0,99 €",
+      "Card.Note会员按周订阅": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783636051492,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Card.Note会员按周订阅": "0,99 €",
+            "Card.Note Premiun": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782320664767,
@@ -60618,11 +60650,23 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "不玩手机永久会员": "3,99 €",
+      "不玩手机永久会员": "0,99 €",
       "不玩手机年自动订阅": "9,99 €",
       "周订阅": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783636051492,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "不玩手机年自动订阅": "9,99 €",
+            "周订阅": "0,49 €",
+            "不玩手机永久会员": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783308623317,
@@ -89860,6 +89904,14 @@
     "history": [
       [
         {
+          "timestamp": 1783636051492,
+          "price": 4.59,
+          "formattedPrice": "4,59 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782426068334,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -105114,11 +105166,21 @@
       "Lies of P: Overture": "29,99 €"
     },
     "minPriceInfo": {
-      "price": 59.99,
-      "formattedPrice": "59,99 €",
+      "price": 29.99,
+      "formattedPrice": "29,99 €",
       "Lies of P: Overture": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783636051492,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "Lies of P: Overture": "29,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -105142,6 +105204,14 @@
       "formattedPrice": "19,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783636051492,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767580158024,

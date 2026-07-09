@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1449020025,
+    "region": "pt",
+    "timestamp": 1783636051492,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "不玩手机永久会员",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1449020025",
+    "trackName": "不玩手机-自律习惯养成记",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6459738231,
+    "region": "pt",
+    "timestamp": 1783636051492,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "59,99 €",
+        "to": "29,99 €",
+        "range": "[29,99 € ~ 59,99 €]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "29,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6459738231",
+    "trackName": "Lies of P",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6449748961,
+    "region": "pt",
+    "timestamp": 1783636051492,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "39,99 €",
+        "to": "22,99 €",
+        "range": "[19,99 € ~ 39,99 €]"
+      }
+    ],
+    "price": 22.99,
+    "formattedPrice": "22,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6449748961",
+    "trackName": "DEATH STRANDING DIRECTOR'S CUT",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6480058345,
     "region": "pt",
     "timestamp": 1783610315110,
@@ -309,7 +369,7 @@
         "name": "不玩手机永久会员",
         "from": "22,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 22,99 €]"
+        "range": "[0,99 € ~ 22,99 €]"
       }
     ],
     "price": 0,
@@ -20233,7 +20293,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1067198688",
     "trackName": "彩云天气Pro",
-    "firstRecordedAt": 1761797674362
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 1524418421,
