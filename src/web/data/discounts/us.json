@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 625206080,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$29.99",
+        "to": "$14.99",
+        "range": "[$14.99 ~ $29.99]"
+      }
+    ],
+    "price": 14.99,
+    "formattedPrice": "$14.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id625206080",
+    "trackName": "Tomb Raider",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 764925064,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Waterlogue Unlimited (Lifetime)",
+        "from": "$29.99",
+        "to": "$24.99",
+        "range": "[$19.99 ~ $29.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id764925064",
+    "trackName": "Waterlogue: Photo to Painting",
+    "firstRecordedAt": 1754763439051
+  },
+  {
+    "trackId": 1108032375,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$29.99",
+        "to": "$14.99",
+        "range": "[$14.99 ~ $29.99]"
+      }
+    ],
+    "price": 14.99,
+    "formattedPrice": "$14.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1108032375",
+    "trackName": "Rise of the Tomb Raider™",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 1435461053,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $8.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1435461053",
+    "trackName": "This Is the Police",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 1439569401,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$39.99",
+        "to": "$19.99",
+        "range": "[$19.99 ~ $54.99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "$19.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1439569401",
+    "trackName": "Shadow of the Tomb Raider",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 1465779286,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$7.99",
+        "range": "[$7.99 ~ $9.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1465779286",
+    "trackName": "GRIS",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1571643809,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 6497948575,
+    "region": "us",
+    "timestamp": 1783565841644,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$4.99 ~ $9.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6497948575",
+    "trackName": "Way of the Hunter Wild America",
+    "firstRecordedAt": 1764095974561
+  },
+  {
     "trackId": 1452113719,
     "region": "us",
     "timestamp": 1783528718384,
@@ -3363,7 +3523,7 @@
         "name": "Price",
         "from": "$54.99",
         "to": "$39.99",
-        "range": "[$39.99 ~ $54.99]"
+        "range": "[$19.99 ~ $54.99]"
       }
     ],
     "price": 39.99,
