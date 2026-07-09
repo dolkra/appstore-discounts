@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "mo",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.39 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6459738231,
+    "region": "mo",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 59.99",
+        "to": "USD 29.99",
+        "range": "[USD 29.99 ~ USD 59.99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "USD 29.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6459738231",
+    "trackName": "Lies of P",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6449748961,
+    "region": "mo",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 39.99",
+        "to": "USD 19.99",
+        "range": "[USD 17.99 ~ USD 39.99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "USD 19.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6449748961",
+    "trackName": "DEATH STRANDING DIRECTOR'S CUT",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6480058345,
+    "region": "mo",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6480058345",
+    "trackName": "怪獸大進擊 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
     "trackId": 764925064,
     "region": "mo",
     "timestamp": 1783548301708,
@@ -43604,7 +43684,7 @@
         "name": "Price",
         "from": "USD 59.99",
         "to": "USD 35.99",
-        "range": "[USD 35.99 ~ USD 59.99]"
+        "range": "[USD 29.99 ~ USD 59.99]"
       }
     ],
     "price": 35.99,

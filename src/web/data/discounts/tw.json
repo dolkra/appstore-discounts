@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "tw",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$10.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6459738231,
+    "region": "tw",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1,290.00",
+        "to": "$690.00",
+        "range": "[$690.00 ~ $1,290.00]"
+      }
+    ],
+    "price": 690,
+    "formattedPrice": "$690.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6459738231",
+    "trackName": "Lies of P",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6449748961,
+    "region": "tw",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1,290.00",
+        "to": "$690.00",
+        "range": "[$590.00 ~ $1,290.00]"
+      }
+    ],
+    "price": 690,
+    "formattedPrice": "$690.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6449748961",
+    "trackName": "DEATH STRANDING DIRECTOR'S CUT",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6480058345,
+    "region": "tw",
+    "timestamp": 1783610315110,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6480058345",
+    "trackName": "怪獸大進擊 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
     "trackId": 764925064,
     "region": "tw",
     "timestamp": 1783548301708,
@@ -45741,7 +45821,7 @@
         "name": "Price",
         "from": "$1,290.00",
         "to": "$775.00",
-        "range": "[$775.00 ~ $1,290.00]"
+        "range": "[$690.00 ~ $1,290.00]"
       }
     ],
     "price": 775,
