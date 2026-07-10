@@ -1148,10 +1148,12 @@
       "inAppPurchase": {}
     },
     "6467822375": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Premium Lifetime": 1
+        "Premium Lifetime": 1,
+        "Weekly Subscription": 1,
+        "Yearly Subscription": 1
       }
     }
   },
@@ -1357,11 +1359,18 @@
       "inAppPurchase": {}
     },
     "6467822375": {
-      "all": 1,
+      "all": 2,
       "price": 0,
       "inAppPurchase": {
-        "Premium Lifetime": 1
+        "Premium Lifetime": 1,
+        "Assinatura semanal": 1,
+        "Assinatura anual": 1
       }
+    },
+    "6761328517": {
+      "all": 1,
+      "price": 1,
+      "inAppPurchase": {}
     }
   }
 }

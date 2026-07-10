@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "pt",
+    "timestamp": 1783720942230,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Assinatura semanal",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Lifetime",
+        "from": "19,99 €",
+        "to": "14,99 €",
+        "range": "[8,99 € ~ 34,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Assinatura anual",
+        "from": "9,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6761328517,
+    "region": "pt",
+    "timestamp": 1783720942230,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6761328517",
+    "trackName": "Dungeon Within",
+    "firstRecordedAt": 1777123247350
+  },
+  {
     "trackId": 1453875289,
     "region": "pt",
     "timestamp": 1783702572648,
@@ -17,26 +71,6 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1453875289",
     "trackName": "Hyper Light Drifter",
-    "firstRecordedAt": 1761797674362
-  },
-  {
-    "trackId": 6467822375,
-    "region": "pt",
-    "timestamp": 1783653386078,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Premium Lifetime",
-        "from": "19,99 €",
-        "to": "14,99 €",
-        "range": "[8,99 € ~ 34,99 €]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Gratuito",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -8822,7 +8856,7 @@
         "name": "Assinatura anual",
         "from": "7,99 €",
         "to": "6,99 €",
-        "range": "[6,99 € ~ 29,99 €]"
+        "range": "[5,99 € ~ 29,99 €]"
       }
     ],
     "price": 0,
@@ -9340,7 +9374,7 @@
         "name": "Assinatura anual",
         "from": "12,99 €",
         "to": "7,99 €",
-        "range": "[6,99 € ~ 29,99 €]"
+        "range": "[5,99 € ~ 29,99 €]"
       }
     ],
     "price": 0,
@@ -11318,7 +11352,7 @@
         "name": "Assinatura anual",
         "from": "17,99 €",
         "to": "9,99 €",
-        "range": "[6,99 € ~ 29,99 €]"
+        "range": "[5,99 € ~ 29,99 €]"
       }
     ],
     "price": 0,
@@ -11505,7 +11539,7 @@
         "name": "Assinatura anual",
         "from": "29,99 €",
         "to": "17,99 €",
-        "range": "[6,99 € ~ 29,99 €]"
+        "range": "[5,99 € ~ 29,99 €]"
       }
     ],
     "price": 0,

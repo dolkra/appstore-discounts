@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "tr",
+    "timestamp": 1783720942230,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Weekly Subscription",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺39,99 ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly Subscription",
+        "from": "₺499,99",
+        "to": "₺249,99",
+        "range": "[₺249,99 ~ ₺1.299,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1745593334191
+  },
+  {
     "trackId": 1453875289,
     "region": "tr",
     "timestamp": 1783702572648,
@@ -9343,7 +9370,7 @@
         "name": "Yearly Subscription",
         "from": "₺399,99",
         "to": "₺299,99",
-        "range": "[₺299,99 ~ ₺1.299,99]"
+        "range": "[₺249,99 ~ ₺1.299,99]"
       }
     ],
     "price": 0,
@@ -9949,7 +9976,7 @@
         "name": "Yearly Subscription",
         "from": "₺599,99",
         "to": "₺399,99",
-        "range": "[₺299,99 ~ ₺1.299,99]"
+        "range": "[₺249,99 ~ ₺1.299,99]"
       }
     ],
     "price": 0,
@@ -12076,7 +12103,7 @@
         "name": "Yearly Subscription",
         "from": "₺799,99",
         "to": "₺499,99",
-        "range": "[₺299,99 ~ ₺1.299,99]"
+        "range": "[₺249,99 ~ ₺1.299,99]"
       }
     ],
     "price": 0,
