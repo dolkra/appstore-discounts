@@ -2,14 +2,28 @@
   {
     "trackId": 6467822375,
     "region": "hk",
-    "timestamp": 1783653386078,
+    "timestamp": 1783693535219,
     "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "每週訂閱",
+        "from": "HK$ 18.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+      },
       {
         "type": "inAppPurchase",
         "name": "高級終身會員",
         "from": "HK$ 148.00",
         "to": "HK$ 88.00",
         "range": "[HK$ 58.00 ~ HK$ 228.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度訂閱",
+        "from": "HK$ 88.00",
+        "to": "HK$ 38.00",
+        "range": "[HK$ 38.00 ~ HK$ 188.00]"
       }
     ],
     "price": 0,
@@ -18,6 +32,26 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6467822375",
     "trackName": "Auto Redial App",
     "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 6761328517,
+    "region": "hk",
+    "timestamp": 1783693535219,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 48.00",
+        "to": "HK$ 38.00",
+        "range": "[HK$ 38.00 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6761328517",
+    "trackName": "地牢深處",
+    "firstRecordedAt": 1777123247350
   },
   {
     "trackId": 6760948683,
@@ -8892,7 +8926,7 @@
         "name": "年度訂閱",
         "from": "HK$ 118.00",
         "to": "HK$ 48.00",
-        "range": "[HK$ 48.00 ~ HK$ 188.00]"
+        "range": "[HK$ 38.00 ~ HK$ 188.00]"
       }
     ],
     "price": 0,
@@ -9445,7 +9479,7 @@
         "name": "年度訂閱",
         "from": "HK$ 118.00",
         "to": "HK$ 58.00",
-        "range": "[HK$ 48.00 ~ HK$ 188.00]"
+        "range": "[HK$ 38.00 ~ HK$ 188.00]"
       }
     ],
     "price": 0,

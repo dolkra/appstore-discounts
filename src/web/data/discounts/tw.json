@@ -2,14 +2,28 @@
   {
     "trackId": 6467822375,
     "region": "tw",
-    "timestamp": 1783653386078,
+    "timestamp": 1783693535219,
     "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "每週訂閱",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$20.00 ~ $60.00]"
+      },
       {
         "type": "inAppPurchase",
         "name": "高級終身會員",
         "from": "$590.00",
         "to": "$320.00",
         "range": "[$290.00 ~ $990.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度訂閱",
+        "from": "$320.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $790.00]"
       }
     ],
     "price": 0,
@@ -18,6 +32,26 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
     "trackName": "Auto Redial App",
     "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 6761328517,
+    "region": "tw",
+    "timestamp": 1783693535219,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$190.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $190.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6761328517",
+    "trackName": "地牢深處",
+    "firstRecordedAt": 1777123247350
   },
   {
     "trackId": 6760948683,
@@ -8964,7 +8998,7 @@
         "name": "年度訂閱",
         "from": "$390.00",
         "to": "$190.00",
-        "range": "[$190.00 ~ $790.00]"
+        "range": "[$150.00 ~ $790.00]"
       }
     ],
     "price": 0,
@@ -9496,7 +9530,7 @@
         "name": "年度訂閱",
         "from": "$390.00",
         "to": "$220.00",
-        "range": "[$190.00 ~ $790.00]"
+        "range": "[$150.00 ~ $790.00]"
       }
     ],
     "price": 0,
