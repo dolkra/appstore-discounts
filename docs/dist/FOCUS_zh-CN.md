@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2120` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2122` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2122|1011806461|自动|❌|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|
+|2121|1576368371|自动|❌|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|
 |2120|628457635|自动|❌|地球儀與國旗 Pro|地球儀與國旗 Pro|地球儀與國旗 Pro|Globe Earth 3D Pro|Globe Earth 3D Pro|Globe Earth 3D Pro|
 |2119|6785263681|自动|❌|Sanayi: Kurtuluş|Sanayi: Kurtuluş|Sanayi: Kurtuluş|Garage King | Sanayi|Garage King | Sanayi|Sanayi: Kurtuluş|
 |2118|781437836|自动|MultiDeco|MultiDeco|MultiDeco|MultiDeco|MultiDeco|MultiDeco|MultiDeco|
@@ -1220,7 +1222,7 @@
 |910|1003660287|自动|❌|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|Dwarf Fortress Remote|
 |909|1035220162|自动|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|Analog Budapest|
 |908|1055650930|自动|❌|Codenames|Codenames|Codenames|Codenames|Codenames|Codenames|
-|907|1073576068|自动|电波表对时|電波表對時|電波表對時|電波表對時|Clock Wave|Clock Wave|❌|
+|907|1073576068|自动|电波表对时|電波表對時|電波表對時|電波表對時|Clock Wave|Clock Wave|Clock Wave|
 |906|1106831630|自动|❌|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|ROME: Total War|
 |905|1138248035|自动|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|Analog Seoul|
 |904| ~~1373057849~~ |自动| ~~❌~~ | ~~三國志漢末霸業~~ | ~~三國志漢末霸業~~ | ~~三國志漢末霸業~~ | ~~ThreeKingdoms The Last Warlord~~ | ~~ThreeKingdoms The Last Warlord~~ | ~~ThreeKingdoms The Last Warlord~~ |
