@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2026-07-09T23:49:09.108Z</updated>
+    <updated>2026-07-10T04:42:18.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157008699750812672+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomeus</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-07-09T23:49:09.108Z</updated>
+        <updated>2026-07-10T04:42:18.587Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:157008699750812672+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingusThu, 09 Jul 2026 23:49:09 GMT</id>
+        <id>rankingusFri, 10 Jul 2026 04:42:18 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-07-09T23:49:09.109Z</updated>
+        <updated>2026-07-10T04:42:18.587Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>
@@ -60,7 +60,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1919</b>
       </td>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1792</b>
       </td>
       <td>
-        <b>80</b>
+        <b>81</b>
       </td>
     </tr>
   </tbody>
@@ -97,7 +97,9 @@ feedId:157008699750812672+userId:73658201673997312
         <b>1</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en">彩云天气Pro</a>
+        <del>
+          <a href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en">彩云天气Pro</a>
+        </del>
       </td>
       <td>
         <ul>
@@ -120,6 +122,29 @@ feedId:157008699750812672+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6741892043?lang=en">Road to Empress</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>3</b>
+          </li><li>
+            <span>Price</span>：<b>0</b>
+          </li><li>
+            <span>In-App Purchases</span><ol>
+              <li>
+                <i>Road to Empress II</i>：<b>3</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/us/1449020025?lang=en">不玩手机-自律习惯养成记</a>
       </td>
       <td>
@@ -132,29 +157,6 @@ feedId:157008699750812672+userId:73658201673997312
             <span>In-App Purchases</span><ol>
               <li>
                 <i>不玩手机永久会员</i>：<b>2</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>3</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/us/6741892043?lang=en">Road to Empress</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>Total Times</span>：<b>2</b>
-          </li><li>
-            <span>Price</span>：<b>0</b>
-          </li><li>
-            <span>In-App Purchases</span><ol>
-              <li>
-                <i>Road to Empress II</i>：<b>2</b>
               </li>
             </ol>
           </li>
@@ -517,6 +519,23 @@ feedId:157008699750812672+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1580067723?lang=en">Wall of insanity</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>24</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/us/1580629864?lang=en">Clank!</a>
       </td>
       <td>
@@ -537,7 +556,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1587301632?lang=en">All In One Memo</a>
@@ -554,7 +573,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1592854410?lang=en">Island Story: 100 Days</a>
@@ -571,7 +590,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/1601446687?lang=en">Streets of Rage 4</a>
@@ -588,7 +607,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6449233549?lang=en">Ark Nova</a>
@@ -605,7 +624,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6730126160?lang=en">戏曲锣鼓 - 电子锣鼓打击垫｜虚拟乐器｜演奏模拟器｜戏曲伴奏</a>
@@ -622,7 +641,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6746699177?lang=en">Lysoniq</a>
@@ -645,7 +664,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6758935103?lang=en">Dash for Tesla</a>
@@ -662,7 +681,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6462841384?lang=en">香港基本法和國安法筆試</a>
@@ -679,7 +698,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6756866511?lang=en">IIWII</a>
@@ -696,7 +715,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6474541983?lang=en">Children of Morta</a>
@@ -713,7 +732,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6458144503?lang=en">Skul: The Hero Slayer</a>
@@ -730,7 +749,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6448928429?lang=en">Parking Mafia: ONLİNE</a>
@@ -747,7 +766,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6633412890?lang=en">Tiny Terraces</a>
@@ -764,7 +783,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6497948575?lang=en">Way of the Hunter Wild America</a>
@@ -781,7 +800,7 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6480058345?lang=en">Kaiju Attack 2</a>
@@ -798,10 +817,44 @@ feedId:157008699750812672+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/us/6760948683?lang=en">Digline: Cozy Mining</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>41</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6459738231?lang=en">Lies of P</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>42</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/6449748961?lang=en">DEATH STRANDING DIRECTOR'S CUT</a>
       </td>
       <td>
         <ul>
@@ -1543,8 +1596,211 @@ feedId:157008699750812672+userId:73658201673997312
       </td>
       <td>Artificially Added</td>
     </tr>
+    <tr>
+      <td>
+        <b>81</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/us/1067198688?lang=en">彩云天气Pro</a>
+      </td>
+      <td>Artificially Added</td>
+    </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Road to Empress]]></title>
+        <id>Road to Empress-us-1783653386078</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6741892043?lang=en"/>
+        <updated>2026-07-10T03:16:26.078Z</updated>
+        <summary type="html"><![CDATA[Road to Empress II: $13.90 → $12.90]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6741892043?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/87/c9/9387c921-7562-0707-a908-04a939fcedc8/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>Discount Information</h2><h3>In-App Purchases</h3><ul>
+  <li>
+    <strong>Road to Empress II：</strong><span>$13.90</span> → <b>
+  <strong>$12.90</strong>
+</b><span>[$12.90 ~ $13.90]</span>
+  </li>
+</ul><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Road to Empress Collection：<b>$17.49</b>
+  </li><li>
+    Road to Empress I：<b>$6.79</b>
+  </li><li>
+    Road to Empress II：<b>$12.90</b>
+  </li><li>
+    600 Flowers：<b>$0.99</b>
+  </li><li>
+    6000 Gold Flower：<b>$0.99</b>
+  </li><li>
+    3,000 Flowers：<b>$4.99</b>
+  </li><li>
+    600 Eggs：<b>$0.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  This drama requires an internet connection. Road to Empress I contains 16 chapters; Road to Empress II contains 32 chapters. Both include free trial chapters.
+
+A palace adventure unlike anything you've played—shaped entirely by your choices!
+Road to Empress II is now available! Step into a world of Eastern palace intrigue and power.
+
+● Building on Road to Empress I, The Palace Legend Continues
+Road to Empress I has captivated audiences globally.
+Now, Road to Empress II plunges you into a gripping battle of court politics. Watch a legendary empress rise to new glory!
+
+● 4K Cinematic Quality, Eastern Palace Aesthetics Reimagined
+Filmed on lavishly built sets with 4K cinematic lighting, the story brings Eastern palaces to life: silk brocade texture, glinting golden hairpins, and a stirring traditional score. Featuring actors Kuan Hung, Evie Huang, Zeawo Yao, and Hana Lin. Sweeping scenes and nuanced performances ensure this golden age unfold right before your eyes. This is the ultimate Eastern aesthetic feast!
+
+● From Unknown Girl to Legendary Empress, Write Your Own Story!
+Ready to defy fate? Dive into the most thrilling palace power struggles ever! Rise from an unknown girl, break through rival factions, and climb to the peak of power. Think like a ruler: balance court power, plan ahead, and carve a blazing path to the throne.
+
+● Approx.1,500 Minutes, Fully Immersed in Ruling Empress's Life
+With around 1,500 minutes (I & II) of live-action content, immerse yourself in a sweeping saga of ambition and survival. Every choice triggers a chain of consequences. Twists and suspense await as you seize control and rewrite a dynasty's fate!
+You decide who rises in the global popularity rankings.
+
+● Stop Being a Spectator, Start Ruling Your Realm
+A fully upgraded interactive experience: power is a battle of wits at your fingertips:
+
+Review Memorials: With a press, witness your realm's lives—answer petitions, resolve disputes, and bring prosperity to your people.
+
+Issue Edicts: Your imperial brush decides ministers' fate—reward merit, punish fault, and govern with wisdom.
+
+● What Kind of Ruler Are You? Exclusive Trait Sketch Unlocked
+At story's end, unlock an exclusive imperial trait sketch covering your scheming style, crisis decision-making, and methods of control. Are you the "Deadly Arsenic Trioxide"—cool, versatile, balancing power and passion? The "Romantic Datura"—loyal, ride-or-die, charging headfirst through fire? Or the "Overachiever Lurid Bolete"—ruthless, letting nothing stand in the way of ambition? Discover who you really are and share your exclusive empress profile!
+
+About New One Studio
+
+An independent team focused on interactive storytelling, blending Eastern culture with interactive media. In 2019, everyone who journeyed with The Invisible Guardian shared its BAFTA glory, reaffirming that great interactive storytelling can truly stay in people's hearts. Road to Empress depicts the deadly beauty of Eastern intrigue — a battlefield that tests your wisdom and courage.
+
+Two works, different stories, one shared vision: let global users experience traditional Eastern culture. A bridge across cultures for every FMV fan.
+
+Road to Empress is a saga of the legendary empress.
+
+In Road to Empress I, follow a legendary beginning — an unknown girl navigating deadly palace power struggles with wisdom and courage.
+
+In Road to Empress II, return as a master strategist. Stakes are brutally higher. Pull the strings, keep ministers in check, and forge a golden age. Every word of your empire's legacy — written by you!
+
+(Official Orange Light Authorization, with sincere thanks to Orange Light for their music support.)
+
+YouTube：https://www.youtube.com/@RoadtoEmpressOfficial
+X：https://x.com/roadtoempressen
+Instagram：https://www.instagram.com/roadtoempress/
+Discord：https://discord.gg/roadtoempress
+</p>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wall of insanity]]></title>
+        <id>Wall of insanity-us-1783653386078</id>
+        <link href="https://appstore-discounts.eyelly.me/us/1580067723?lang=en"/>
+        <updated>2026-07-10T03:16:26.078Z</updated>
+        <summary type="html"><![CDATA[Price: $2.99 → $0.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/1580067723?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/ff/19/70/ff197039-0e95-c3f5-b891-2528ca6b48b7/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$2.99</span> → <b>
+  <strong>$0.99</strong>
+</b><span>[$0.39 ~ $2.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$0.99</b>
+</p><h2>Application Description</h2><p>
+  Wall of Insanity is a new project from the creators of the Slaughter game series.
+It features a dark storyline, intense action, and a mystical journey into a dead, smoldering world.
+You will face the unknown. A descent into a kingdom of anxiety and madness. The path through the abyss will be difficult, the trek extremely dangerous, and you will be left almost hopeless.
+
+
+Story:
+
+A police operation to detain a dangerous cult's sectarians leads to unexpectedly deadly consequences. That squad vanished under mysterious circumstances, and the Special Unit soldiers sent in to investigate their disappearance find just an empty, abandoned house. This is only where the story begins...
+
+
+
+Key Features:
+
+- Active battles with the use of firearms. Survival depends on caution, reaction speed, and weapon accuracy. Use elements of the environment itself to escape this horrific world.
+
+- A journey to another world where fear, sorrow, and madness rule. A diligently crafted, ominous environment, fraught with mystery and danger, lies ahead of you. How far will you dare to go?
+
+- A plethora of traps and enemies await around every corner. Investigate your surroundings carefully. Don't take unnecessary risks. Study your enemies. Carefully selected tactics will save your ammunition.  And your life.
+
+- Explore the world to replenish and expand your arsenal. Weapons and useful items will be needed.  Look for secrets, documents, and workarounds to prevail against all odds.
+
+- Wall of Insanity features simple controls, gamepad support, good optimization, and a wide graphics customization.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c4/db/72/c4db72ae-6966-3dea-6345-ebc631252eeb/c0eeb319-7ee6-4783-9165-c79de8b508dc_screenshot_2021_07_30_01_58_27FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/67/01/6d/67016dd5-3cfd-18b6-7ac7-a5da751bfe74/ecfede19-4b72-4112-9d83-2ad2318b031f_screenshot_2021_07_30_02_20_36FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0d/02/6d/0d026d86-277a-17a3-d423-659810be2a5b/5e69ff8c-5a9a-4df8-b9c1-9ee4845dbe09_screenshot_2021_08_02_01_21_14FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/f7/1f/7e/f71f7e73-4005-c7f7-29fc-397e1d124e34/5c17abb4-1468-4eb4-bfb9-bfb63c8157a3_screenshot_2021_08_02_01_57_35FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/99/0b/09/990b09b5-dee2-a1e5-cb76-63f48caa0e34/391da31f-2564-4470-9e75-ce4cb5858488_screenshot_2021_08_02_02_04_44FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/04/18/06/04180699-34d8-08ae-339c-6e8b309ce534/09f8f0f7-87aa-47de-8da5-27ab16f72fe9_screenshot_2021_08_02_03_27_42FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/67/90/4e/67904e28-7359-e237-141c-6967590f42d6/502ced7d-ec6c-4621-8d6a-a8ec60acd029_screenshot_2021_08_02_11_18_56FullHD.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/41/46/48/414648ef-0bac-1055-9cf2-7dc7ed711430/98ececb8-8a8a-461c-9481-34766ec1dc05_screenshot_2021_08_02_11_29_51FullHD.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/94/81/2b/94812b39-1485-a7c3-ba54-e3288f7c560b/d870480f-17dc-4574-835c-ebc7357fb0a7_01.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/11/32/88/11328833-437b-28c7-922c-41cc64a3ad7b/224c3ae3-94c0-4414-89b7-5c2792a3f359_02.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/a7/f7/a4/a7f7a4d9-6beb-84bc-c8e2-cb382d3ab639/b84dd720-ce42-482a-b207-45f0b7057f4b_03.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/1b/b3/35/1bb33588-14f8-5756-5e48-fd917d09b4be/6d2e4143-66fa-4e88-a3e5-417e5cd167a4_04.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b5/f4/7d/b5f47db8-10f6-10f2-79f4-e47e8e7c4bb0/938bc130-2009-43ea-a616-f39a600906f7_05.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/c6/a4/24/c6a4241b-e4af-df76-d450-346278ea7604/3e19b5f5-ce83-41c6-91f2-0ab81277d7a0_06.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/7c/42/95/7c4295c0-1583-0636-1c03-cf7dc4cc34ae/0b5d4192-15bc-44a2-9cd7-1e44f7608845_07.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/49/2e/f8/492ef858-bd0e-3003-128d-c0b6cc34a676/7269390a-1257-4735-bd5b-b2feb6bf962a_08.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/5e/b0/46/5eb04605-848c-6aec-0464-49bc4779ef71/01687f51-cbac-48bb-ad28-07e96809e8f0_09.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/e1/ab/89/e1ab894c-df85-92ab-18c4-d0c90ff86bc3/9890583e-a2dc-4ce3-b9e2-fd78201429c8_10.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lies of P]]></title>
+        <id>Lies of P-us-1783653386078</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6459738231?lang=en"/>
+        <updated>2026-07-10T03:16:26.078Z</updated>
+        <summary type="html"><![CDATA[Price: $59.99 → $29.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6459738231?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/45/1c/dc/451cdc1f-ae3f-80d6-2f2e-8e2d2c19e1f1/LOP.png/60x60bb.png" />
+</a><h2>
+  Discount Information（Price：<span>$59.99</span> → <b>
+  <strong>$29.99</strong>
+</b><span>[$29.99 ~ $59.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$29.99</b>
+</p><h3>In-App Purchases</h3><ul>
+  <li>
+    Lies of P: Overture：<b>$29.99</b>
+  </li>
+</ul><h2>Application Description</h2><p>
+  You are a puppet created by Geppetto who’s caught in a web of lies with unimaginable monsters and untrustworthy figures standing between you and the events that have befallen the world of Lies of P.
+ 
+You are awakened by a mysterious voice that guides you through the plagued city of Krat - a once lively place that has been poisoned by madness and bloodlust. In our soulslike, you must adapt yourself and your weapons to face untold horrors, untangle the unfathomable secrets of the city's elites and choose whether to confront predicaments with the truth or weave lies to overcome them on the journey to find yourself.
+
+
+- A DARKLY ELEGANT AND CRUEL WORLD
+Unearth the secrets of the city of Krat – a place soaked in the style of the Belle Epoque era which once thrived due to its puppet industry and now sees its streets covered in blood.
+ 
+- BATTLE WITH TWISTED INSTRUMENTS
+Develop a unique combat style to counter vicious enemies and terrain by weaving together dynamic weapon combinations, utilizing the Legion Arms, and activating new abilities.
+ 
+- WHAT’S IN A LIE?
+There will be times when you will be confronted with choices where you can give comfort to others in sorrow or despair by lying…or you can choose to tell the truth. 
+Carve your own path.
+ 
+- A CLASSIC REIMAGINED
+Experience the beloved fairy tale of Pinocchio reinterpreted as a dark, grim narrative that allows players to discover the secrets and symbols hidden within the world of Lies of P.
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/32/9a/28/329a28f9-08f6-1357-c3c4-519a027643fc/_U005bMAC_U005d_Royal_Horn_Bow_attack.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5f/02/e8/5f02e81e-288b-bb96-bb45-19518edd56f9/_U005bMAC_U005d_Z.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6f/9c/8d/6f9c8dec-9c92-c21a-62d9-90d8318e7923/_U005bMAC_U005d_Snow-covered_Krat_Zoo.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c5/24/19/c5241996-928a-61ca-2de2-84416a3883e0/_U005bMAC_U005d_Anguished_Guardian_of_the_Ruins.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ea/d0/21/ead0214a-afa3-d81b-2c70-82eab5c535ac/_U005bMAC_U005d_Carnival.png/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f0/ff/0b/f0ff0b96-596e-73bd-e227-6a387ec8b75c/_U005bMAC_U005d_At_Greenhouse_with_Pale_Knight.png/800x500bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEATH STRANDING DIRECTOR'S CUT]]></title>
+        <id>DEATH STRANDING DIRECTOR'S CUT-us-1783653386078</id>
+        <link href="https://appstore-discounts.eyelly.me/us/6449748961?lang=en"/>
+        <updated>2026-07-10T03:16:26.078Z</updated>
+        <summary type="html"><![CDATA[Price: $39.99 → $19.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6449748961?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/52/21/46/5221468f-2c43-80c3-a117-84de564442d9/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>$39.99</span> → <b>
+  <strong>$19.99</strong>
+</b><span>[$17.99 ~ $39.99]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>$19.99</b>
+</p><h2>Application Description</h2><p>
+  From legendary game creator Hideo Kojima comes a genre-defying experience, now expanded in this definitive DIRECTOR’S CUT. 
+ 
+In the future, a mysterious event known as the Death Stranding has opened a doorway between the living and the dead, leading to grotesque creatures from the afterlife roaming the fallen world marred by a desolate society. 
+ 
+As Sam Bridges, your mission is to deliver hope to humanity by connecting the last survivors of a decimated America. 
+ Can you reunite the shattered world, one step at a time?
+
+DEATH STRANDING DIRECTOR'S CUT on iOS includes a HIGH FRAME RATE, PHOTO MODE, and cross-over content from Valve Corporation's HALF-LIFE series and CD Projekt Red's Cyberpunk 2077. Stay connected with players around the globe with the Social Strand System™.
+
+Mac and iOS
+• Sign-in to iCloud and activation of iCloudDrive are required to play this product.
+• This product can be played offline, but a network connection is required to fully experience the Social Strand System™. Communication fees will be incurred during online play.
+
+Only for iOS version
+• When playing this product for the first time, you will be required to download additional data. You can start the game once you have downloaded approximately 13 GB, but additional downloads will occur as the game progresses, requiring a total of approximately 50 GB of downloads. Additional downloads will occur when additional language voice data is used.
+
+FAQs
+https://505.games/DSDCAppStoreFAQ
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f1/70/cf/f170cf57-788c-9385-4804-712c533a1517/410957ff-3b63-4a28-b9b2-2439a9242187_DSDC_Mac_Crater.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/32/41/83/32418322-1b65-ee57-6891-e2babcdaf61b/80ee3e1d-ac84-44d1-a89d-5527488ced3e_DSDC_Mac_Truck.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7d/e1/f3/7de1f36f-b199-742a-66bf-4e3a4b4ae288/ebada4b7-4e66-40cf-a7b9-5edf50fb5b30_DSDC_Mac_Ladder.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6e/e1/9f/6ee19fff-1f92-05f6-4444-8130e98724b7/a674e766-d973-4d7f-9973-1682cebaedff_DSDC_Mac_Delivery.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6d/0d/24/6d0d2461-e372-5e08-4569-437b2fd51902/cf50affd-3bcc-49f5-9dd2-45ecedf502f4_DSDC_Mac_Higgs.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/57/79/a3/5779a3b7-455e-3025-b239-d0e78f3c2e20/2ec2c950-3d7b-4bcf-ae92-dd50a7fcf04d_DSDC_Mac_Sam.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d3/8f/14/d38f14ff-5d7e-c0b1-a6ea-cebc3e991c78/a26a0e41-5590-40de-ba64-51250fae188f_DSDC_iPad129_BB.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/51/28/cd/5128cdae-535a-a320-ff22-9c8a4e62ef2d/26bc9f26-21a0-407b-81e3-083f1fadb1b6_DSDC_iPad129_Sam.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/a2/e6/bb/a2e6bb89-2599-4f25-5e88-57adf8df16b7/51303ce2-eb25-4e0f-86de-cdd804af9aa2_DSDC_iPad129_Mission.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/3c/b8/ea/3cb8ea1b-dee1-61d1-efdd-9f4d85a6c83b/45ce2e3e-ea92-4cd7-88f1-ce0935bd96dd_DSDC_iPad129_Ladder.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/70/50/84/7050841d-5665-1193-f834-70a2f698841f/7254f44e-c30f-485b-8067-f36710573424_DSDC_iPad129_Gazers.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/13/9a/c8/139ac8f7-6e13-dd30-406a-af1f9d2692b5/779f9f5c-6b2d-48f7-a35d-f2d439f15ac6_DSDC_iPad129_Delivery.png/552x414bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
@@ -2336,88 +2592,5 @@ And there are reminders that you can never forget.
     100 ticket：<b>$3.90</b>
   </li>
 </ul><h2>Application Description</h2><p>Parking Mafia Online Amazing map and your own villa with private security guards and luxury vehicles. Join in the fun. New updates, new luxury vehicles, and amazing fun await you NO online</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8a/be/f5/8abef518-c782-7e96-16e4-9a177cbe0f25/9052aa52-de1e-487f-9f89-5c86e94aa3a4_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d3/0f/cf/d30fcfbc-e605-8710-0433-78e57399b4aa/f60f10e3-b134-418d-b0c3-129959706f98_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/96/d4/21/96d42155-3741-7d6b-e315-8abc4748052d/2ddc4c53-9373-4b2e-ab22-f877bc011c13_3.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/43/1e/92431eca-0fa6-5db1-847a-3cfa19ac195d/2a88367e-2a15-45c6-a082-21199dee945a_4.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/b4/5e/9db45ef1-3fcd-30c0-907a-8e3406dcf800/eeecb115-e95e-4ac0-895d-da8540f106f8_5.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/88/d3/5a88d3b0-0bb0-6be0-210e-b2c602e51b4a/a69412ea-eaf9-4575-b96b-1b3639d067c4_6.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/6a/1a/576a1ad3-6b91-7cf5-5aec-5a500d2ba913/fd5aec84-a8bf-4237-badb-4ea82a985d52_1.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4f/03/a5/4f03a5e5-7e6e-f288-9291-685e94cd1b3b/d99580cb-0d46-495c-87d1-28ac28abb3dc_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/22/49/4122490c-3d32-032f-919c-69c1ef65bd64/62cee113-5b3e-4968-bb15-066990b32254_3.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/25/63/39/25633981-21bd-79ab-db0f-90e999bc8dab/2be730b9-d1c3-4be7-98e5-4ff7144bafd9_4.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2f/21/49/2f2149ff-abef-5465-1727-04db680a9c8c/2e006cd2-9e9c-4bdf-8315-4a9cd0d2a6b9_5.jpg/552x414bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Children of Morta]]></title>
-        <id>Children of Morta-us-1783394439862</id>
-        <link href="https://appstore-discounts.eyelly.me/us/6474541983?lang=en"/>
-        <updated>2026-07-07T03:20:39.862Z</updated>
-        <summary type="html"><![CDATA[Price: $6.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6474541983?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/3f/9b/8e3f9baf-aa9e-3406-54c4-75a11742ecec/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$6.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $6.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h2>Application Description</h2><p>
-  *Online co-op is now available: play with a friend by sharing a code!*
-
-Children of Morta is a story-driven action RPG with a roguelite approach to character development, in which you don’t play a single character but a whole, extraordinary family of heroes. 
-
-Hack’n’slash through hordes of enemies in procedurally generated dungeons, caves and lands and lead the Bergson family, with all their flaws and virtues, against the forthcoming Corruption. The story takes place in a distant land but copes with themes and emotions common to all of us: love and hope, longing and uncertainty, ultimately loss... and sacrifice we are willing to make to save the ones we care the most for. 
-Ultimately, it's about a family of heroes standing together against the encroaching darkness.
-
--- Complete Edition --
-
-Both the Ancient Spirits and the Paws and Claws DLC are included in the main game and available as you play.
-
-FEATURES
-- Welcome to the family! Join the heroic Bergsons in their trials to honor their heritage and save the land of Rea from the creeping Corruption 
-- One for all, all for one: improve skills and gear for the whole family through each run in the ever-changing world of this roguelite RPG
-- Stronger together: switch between 7 playable characters, each with their own abilities, fighting styles and endearing personality 
-- Immerse yourself in the beautiful, deadly world of Rea through gorgeous 2D pixel art mixing handcrafted animations with modern lighting techniques
-- Family that slays together stays together: use the two-player online coop mode and rely on each other in every fight (available in a post-launch update)
-
-CAREFULLY REDESIGNED FOR MOBILE
-- Revamped interface – exclusive mobile UI with complete touch control
-- Game Center achievements
-- Cloud Save – Share your progress between iOS devices
-- Compatible with MFi controllers
-- iPhone 15 Optimization (including Pro Max)
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/df/d8/d6/dfd8d6c9-7f77-efad-e490-b0811ed4c6c1/5cc23299-5b76-4e57-9639-cdf966cf311e_01-Linda-combat-mort-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/f7/ba/eff7ba3c-5c23-0d83-1817-57e4707c6154/ce44a845-96df-4b2c-9b21-98289d8c6922_02-Mark-Barahut-ziggurat-gameplay-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/bb/56/b8bb56da-6c1c-d4cc-d868-c7869fc5bc0e/9b5ae9ae-16ed-4100-bc46-90b36565cd31_03-Lucy_Training_-_6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5e/ec/15/5eec15c3-dba1-0365-0d49-3099b3f10378/4a265d01-7b00-4f12-907e-dff868194000_04-Lucy-terralava-industrial_district-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/4d/9c/5b4d9c07-42e8-e814-afee-126b64f95ad7/dfbcbccb-b10e-49b1-a9f7-7cb7f01e46cf_05-Character__EN-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/cf/92/7fcf92e3-1c0e-80ca-688e-3e166fd9d00a/eef5b968-20dc-4ebd-9247-daaea74ea44c_06-John-anai_dya-BOSS-guardian-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/6e/d1/1d6ed1ba-80c5-0463-e2f4-b2e300f3b1a0/08f05db8-9af4-4f4c-888d-713bdb68ad65_07-John-Tuto-combat-vue-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/07/d0/7c/07d07caf-20d2-6264-4180-5a77b309f6ec/0122ea48-d174-4c9a-b6f9-9fcb74ee5c96_08-Corruption_jardin_cerf-6.7.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a3/d4/94/a3d4947f-6c05-be56-1964-b4178cc3f39b/f170198b-e23c-4ee4-8103-15f832cbccd4_09-Workshop-oncle-Ben-6.7-EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d1/f5/39/d1f5399e-5db8-cbc2-1dc3-717fe66b8969/d907c57e-a3c8-4d01-897c-64fd7044fa9d_10-Repas_en_famille_-_6.7.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/98/c3/9b98c367-90f0-5868-6889-72f3eac2ae82/698866be-6935-4b7f-a80a-97551a119102_01-Linda-combat-mort-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/68/72/3b6872a5-72ea-a08d-7987-b96f8876973b/40ad30a0-9880-44ba-ad77-e9dc2ac41edd_02-Mark-Barahut-ziggurat-gameplay-2-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/03/6b/71/036b7157-4e98-6bf3-a929-ce5fdd2d097f/15d50082-530b-4d75-8b6b-7e27b176de66_03-Lucy_Training_-_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1d/98/56/1d9856fe-d345-4d31-c9d8-7c4548da2bc1/dd09958d-025e-4d5e-901b-fb475721bf3c_04-Lucy-terralava-industrial_district-3-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e1/34/ca/e134ca02-5593-f55a-7c97-31889f6c4794/e954914b-06da-4c82-8e87-7b436582c430_05-Character__EN-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/aa/d7/9a/aad79a6f-729c-24be-5734-167d995018ef/1d3f88de-c5fa-4a7f-b239-869e4c52c951_06-John-anai_dya-BOSS-guardian-3-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/88/b1/8388b128-44db-df3b-c143-df0d5d1ade44/06ba66fb-3278-4d94-b42e-37679f29fd72_07-John-Tuto-combat-vue-12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a2/4f/c3/a24fc317-696c-6a53-c2b1-e462aa2ff3a2/b7b1ba5b-f394-49bc-817c-8afc57c4868c_08-Corruption_jardin_cerf-_12.9.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/0e/c0/1f0ec0f1-560b-7bab-2e4a-9b69166f2da6/e2dc71af-a2f3-435a-b9eb-8d7f09cfb3e4_09-Workshop-oncle-Ben-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/b7/8f/5ab78f1a-adf9-5086-c22a-e08f080f60e2/381661eb-d6de-4c37-82c3-42ecc9d2bf93_10-Repas_en_famille_-_12.9.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skul: The Hero Slayer]]></title>
-        <id>Skul: The Hero Slayer-us-1783394439862</id>
-        <link href="https://appstore-discounts.eyelly.me/us/6458144503?lang=en"/>
-        <updated>2026-07-07T03:20:39.862Z</updated>
-        <summary type="html"><![CDATA[Price: $7.99 → $2.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/us/6458144503?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cc/bd/8c/ccbd8c4e-fcdf-50b7-9a9a-ddc454448fa7/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$7.99</span> → <b>
-  <strong>$2.99</strong>
-</b><span>[$2.99 ~ $7.99]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>$2.99</b>
-</p><h2>Application Description</h2><p>
-  Skul is a fast-paced action rogue-lite where losing your head is encouraged. 
-
-Featuring 100 playable characters each with their own unique abilities and a ton of items that can create wild synergies, the battles are as electrifying as they are challenging.
-
-The Demon King's Castle in Ruins
-The human race attacking the Demon King's castle is nothing new and has happened countless times before.
-What makes this time different though, is that the Adventurers decided to join forces with the Imperial Army and the 'Hero of Caerleon' to lead a full onslaught in hopes of wiping out the Demons once and for all. 
-They attacked the Demon stronghold with overwhelming numbers and succeeded in its total destruction. All of the demons in the castle were taken prisoner except for one lone skeleton named 'Skul'.
-
-Dark Mirror Mode
-Once you're through with the main story, test your skills and limits in the new challenging 'Dark Mirror' mode!
-
-FEATURES
--You’re the last hope of the entire demon race! Play as Skul, a tiny skeleton on a path to slay the pompous heroes and save the demon king from the corrupt army of Carleon.  
--Losing your head never felt so right: try on new skulls to borrow the powers and dashing outfits of their previous owners and create synergies with unique items to defeat your enemies.
--What is dead may never die: you will not rest until you have faced all the challenges of this action-packed rogue-lite platformer.
--Let your hollow eyes feast upon vibrant, cartoony pixel-art 2D animations as you help all sorts of demonic creatures return to their original state.
--From the Mummies of Egypt to the Minotaur of Greece or even an official Dead Cells crossover… Will you spot all the fun easter eggs scattered across the game?
-
-CAREFULLY REDESIGNED FOR MOBILE
-- Revamped interface – exclusive mobile UI with complete touch control
-- Game Center achievements
-- Cloud Save – Share your progress between iOS devices
-- Compatible with MFi controllers
-- iPhone 15 Optimization (including Pro Max)
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/38/9b/9d/389b9da3-ea83-078d-7709-a594727c5a00/5d20f040-9b33-44b5-828c-7bca1619935a_Screen_8-5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/35/a7/a2/35a7a2aa-bad3-126a-b43b-d2f2df1dd21f/f82c776f-eb6d-48b2-af44-6e3da1b0d13f_Screen_7-5.5.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/85/74/43/8574439c-182f-d508-3825-37b39c975d7c/6ea6a094-6008-4953-b502-4bf0cc0e0b1d_Screen_10-5.5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/86/31/3e/86313ee5-7242-5ddb-036a-225e7632e9e4/e88737d1-6f0a-4317-b665-d815ff1086d2_Screen_1-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3a/84/29/3a8429bf-4048-232c-b09c-e4bb840a18de/24bf11ee-c418-4e88-9b3a-b16847b07640_Screen_2-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/64/61/d0/6461d01d-de0d-0524-681d-dfd10b000bee/718c2634-b78d-4d3c-ad40-92894616e0c7_Screen_3-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/91/55/70/915570bc-ecdc-4e40-de77-6c7bb35ed081/5483c57a-b888-4ae8-96b5-d85b7b9dea7a_Screen_4-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/ae/56/61/ae5661b4-f95b-4fae-c29a-80597c5f32e7/77d2c03a-fd2f-48a1-a250-84c6bc1d9a2e_Screen_5-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c7/e8/8c/c7e88c75-f585-0fdc-3091-1157012fb7a6/2771ba55-8f42-411a-a151-6747b02cfc6b_Screen_6-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/fe/d0/27/fed02769-ee58-08d6-989a-58767b94099e/6957d79e-4748-4c9d-a985-80440e329e62_Screen_7-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e7/9c/09/e79c090f-9896-c206-d452-6b8590ceed8d/84c554ea-5a13-478d-b8c6-02dc15684793_Screen_8-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/dc/5f/33dc5ff2-0940-e85e-9d43-56f8d40c25a6/503e14ba-1410-4d1b-8bcf-4eaf86502ea4_Screen_9-12.9-EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/26/77/4d/26774dec-ec52-9c18-411b-24e207e254e9/b7bd114e-fc12-4783-ac8b-4dd1a04584f3_Screen_10-12.9-EN.png/552x414bb.png" />]]></content>
     </entry>
 </feed>

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "tw",
+    "timestamp": 1783653386078,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "高級終身會員",
+        "from": "$590.00",
+        "to": "$320.00",
+        "range": "[$290.00 ~ $990.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 6760948683,
+    "region": "tw",
+    "timestamp": 1783653386078,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6760948683",
+    "trackName": "Digline: Cozy Mining",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 1449020025,
     "region": "tw",
     "timestamp": 1783636051492,

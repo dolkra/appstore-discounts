@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "us",
+    "timestamp": 1783653386078,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.39 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6459738231,
+    "region": "us",
+    "timestamp": 1783653386078,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$59.99",
+        "to": "$29.99",
+        "range": "[$29.99 ~ $59.99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "$29.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6459738231",
+    "trackName": "Lies of P",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 6449748961,
+    "region": "us",
+    "timestamp": 1783653386078,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$39.99",
+        "to": "$19.99",
+        "range": "[$17.99 ~ $39.99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "$19.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6449748961",
+    "trackName": "DEATH STRANDING DIRECTOR'S CUT",
+    "firstRecordedAt": 1725636889563
+  },
+  {
     "trackId": 1449020025,
     "region": "us",
     "timestamp": 1783636051492,
@@ -45878,7 +45938,7 @@
         "name": "Price",
         "from": "$59.99",
         "to": "$35.99",
-        "range": "[$35.99 ~ $59.99]"
+        "range": "[$29.99 ~ $59.99]"
       }
     ],
     "price": 35.99,

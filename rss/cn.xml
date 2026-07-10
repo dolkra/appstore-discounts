@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-07-08T23:20:14.714Z</updated>
+    <updated>2026-07-10T04:42:18.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-07-08T23:20:14.716Z</updated>
+        <updated>2026-07-10T04:42:18.505Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnWed, 08 Jul 2026 23:20:14 GMT</id>
+        <id>rankingcnFri, 10 Jul 2026 04:42:18 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-07-08T23:20:14.716Z</updated>
+        <updated>2026-07-10T04:42:18.505Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,16 +51,16 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2118</b>
+        <b>2120</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1917</b>
+        <b>1919</b>
       </td>
       <td>
-        <b>98</b>
+        <b>99</b>
       </td>
     </tr>
     <tr>
@@ -77,7 +77,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>1036</b>
       </td>
       <td>
-        <b>58</b>
+        <b>59</b>
       </td>
     </tr>
   </tbody>
@@ -95,6 +95,29 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>1</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1449020025?lang=zh-CN">不玩手机-自律习惯养成记</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>不玩手机永久会员</i>：<b>2</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>2</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6737795387?lang=zh-CN">鬼谷八荒</a>
@@ -119,7 +142,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>2</b>
+        <b>3</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/764925064?lang=zh-CN">Waterlogue: 照片变画作</a>
@@ -142,7 +165,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/931188326?lang=zh-CN">DayCost</a>
@@ -159,7 +182,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1344655035?lang=zh-CN">蜡烛人</a>
@@ -174,29 +197,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>App内购买</span><ol>
               <li>
                 <i>蜡烛人完整版</i>：<b>1</b>
-              </li>
-            </ol>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>5</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1449020025?lang=zh-CN">不玩手机-自律习惯养成记</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>0</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>不玩手机永久会员</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -902,8 +902,69 @@ feedId:157007849019630592+userId:73658201673997312
       </td>
       <td>人为添加</td>
     </tr>
+    <tr>
+      <td>
+        <b>59</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1067198688?lang=zh-CN">彩云天气Pro</a>
+      </td>
+      <td>人为添加</td>
+    </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
+        <id>不玩手机-自律习惯养成记-cn-1783653386078</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1449020025?lang=zh-CN"/>
+        <updated>2026-07-10T03:16:26.078Z</updated>
+        <summary type="html"><![CDATA[不玩手机永久会员: ¥28.00 → ¥6.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1449020025?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/5d/f8/2c5df8b8-9666-dc9c-c290-bec8a6d20020/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>不玩手机永久会员：</strong><span>¥28.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥128.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    不玩手机永久会员：<b>¥6.00</b>
+  </li><li>
+    不玩手机年自动订阅：<b>¥58.00</b>
+  </li><li>
+    周订阅：<b>¥3.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  这个App可以让你更专注地工作或学习，戒掉手机瘾，让你在工作或学习的时候远离手机，提高工作和学习的效率。
+
+当开启了不玩手机警报后，你在设定的时间里拿起手机将会报警，这将培养你更专注于学习或工作的习惯。
+
+App使用方法：
+1. 选择要集中精力工作的时间间隔。
+
+2. 把手机放在水平桌面上。
+
+3. 点击开始按钮。
+
+4. 直接按下锁定屏幕按钮。
+
+5. 开始并专注于你的工作或学习。
+快来和我们一起进步吧！！！
+
+1. 该服务是订阅制的收费服务，这意味着您将为未来的订阅使用而提前预支费用。当前您可以选择以按季度的方式来使用该服务。在每个订阅周期即将结束时，您的订阅默认将自动续费，除非您自行取消自动续费，或者由我们取消该服务。
+2. 取消订阅:如需取消续订，请至少提前24小时操作取消。您可以通过如下方法取消：打开系统设置 - 点击Apple ID - 点击订阅 - 选择高级版，取消订阅即可。
+3. 恢复购买:如果在支付过程中，收到提示 “您目前已经订阅该项目”，并且确定之前完成了购买，可以点击右上角 “恢复购买” 进行购买恢复。
+
+会员服务协议及自动续费协议：
+https://gcn1s2rmayw3.feishu.cn/wiki/YgqKwPdJmiH0ulkF92kco1CznCg?from=from_copylink
+
+隐私政策：
+https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/99/c1/cb99c165-1f5c-e3a7-aff7-b9dd66d18321/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/ca/b2/bdcab20f-406e-06af-ffef-f497dd7e6bd5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/a1/59/f4a15915-dfb6-6942-1de7-0dd8b19d915f/mzl.bkcdpibu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/73/34/21733469-cab7-f8b3-7431-09a6dbbbf9f2/mzl.ijpebcxc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/c9/df/abc9df78-4745-a848-09ac-ed698eac23d9/mzl.kaxjshbt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/a1/32/f7a13273-f0af-0a21-935e-e654a15677e8/mzl.mcdhwqfk.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/f6/3f/a3f63ff8-140c-2527-e07f-310136ba5137/mzl.icblcvod.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/28/de/3f28de24-ad23-0353-a6f5-67211a0a772f/mzl.ckekpjvp.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/54/a7/a354a7c9-27d9-d15e-2ccc-5ed85f13878f/mzl.wethfkxl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/7f/d1/307fd172-f03f-656e-ba33-8c4d95e1b61a/mzl.lbyvydhm.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/05/2a/1b052a2f-955e-f6d9-c2f0-a7bfcab09405/mzl.bcrzmpha.png/576x768bb.png" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Waterlogue: 照片变画作]]></title>
@@ -986,57 +1047,5 @@ Waterlogue®和See the world like an artist®是Tinrocket, LLC的注册商标
   随时随地，将你想记录的文字，图片，视频，语音以及位置都得以妥善保存
 更有备忘提醒让繁忙的你无一错漏！
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/78/cf/c9/78cfc91a-749b-6059-7753-91a5f18fa32a/808ab864-9f7e-461c-9376-5afabb2b32ff_8plus01cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8a/bb/72/8abb7218-bd3a-ccc9-b7dd-4f6935aaba0c/f1e2e929-0e38-499a-b257-84e86fda214d_8plus02cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/6b/ff/90/6bff9096-9ea9-e297-c474-81d547b496a6/668cabae-2249-40ec-8513-e2221fa3e9f9_8plus03cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/82/76/36/82763680-7c14-f4d3-261f-561fcf572289/35d443dc-757b-40ca-86d1-8ff86adb7bc8_8plus04cn.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
-        <id>不玩手机-自律习惯养成记-cn-1783308623317</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/1449020025?lang=zh-CN"/>
-        <updated>2026-07-06T03:30:23.317Z</updated>
-        <summary type="html"><![CDATA[不玩手机永久会员: ¥128.00 → ¥28.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1449020025?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/5d/f8/2c5df8b8-9666-dc9c-c290-bec8a6d20020/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
-  <li>
-    <strong>不玩手机永久会员：</strong><span>¥128.00</span> → <b>
-  <strong>¥28.00</strong>
-</b><span>[¥28.00 ~ ¥128.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    不玩手机永久会员：<b>¥28.00</b>
-  </li><li>
-    周订阅：<b>¥3.00</b>
-  </li><li>
-    不玩手机年自动订阅：<b>¥58.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  这个App可以让你更专注地工作或学习，戒掉手机瘾，让你在工作或学习的时候远离手机，提高工作和学习的效率。
-
-当开启了不玩手机警报后，你在设定的时间里拿起手机将会报警，这将培养你更专注于学习或工作的习惯。
-
-App使用方法：
-1. 选择要集中精力工作的时间间隔。
-
-2. 把手机放在水平桌面上。
-
-3. 点击开始按钮。
-
-4. 直接按下锁定屏幕按钮。
-
-5. 开始并专注于你的工作或学习。
-快来和我们一起进步吧！！！
-
-1. 该服务是订阅制的收费服务，这意味着您将为未来的订阅使用而提前预支费用。当前您可以选择以按季度的方式来使用该服务。在每个订阅周期即将结束时，您的订阅默认将自动续费，除非您自行取消自动续费，或者由我们取消该服务。
-2. 取消订阅:如需取消续订，请至少提前24小时操作取消。您可以通过如下方法取消：打开系统设置 - 点击Apple ID - 点击订阅 - 选择高级版，取消订阅即可。
-3. 恢复购买:如果在支付过程中，收到提示 “您目前已经订阅该项目”，并且确定之前完成了购买，可以点击右上角 “恢复购买” 进行购买恢复。
-
-会员服务协议及自动续费协议：
-https://gcn1s2rmayw3.feishu.cn/wiki/YgqKwPdJmiH0ulkF92kco1CznCg?from=from_copylink
-
-隐私政策：
-https://gcn1s2rmayw3.feishu.cn/wiki/SGBIwmUWCiPWoWktE5sclLRgnol?from=from_copylink
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/99/c1/cb99c165-1f5c-e3a7-aff7-b9dd66d18321/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/ca/b2/bdcab20f-406e-06af-ffef-f497dd7e6bd5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/a1/59/f4a15915-dfb6-6942-1de7-0dd8b19d915f/mzl.bkcdpibu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/73/34/21733469-cab7-f8b3-7431-09a6dbbbf9f2/mzl.ijpebcxc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/c9/df/abc9df78-4745-a848-09ac-ed698eac23d9/mzl.kaxjshbt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/a1/32/f7a13273-f0af-0a21-935e-e654a15677e8/mzl.mcdhwqfk.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/f6/3f/a3f63ff8-140c-2527-e07f-310136ba5137/mzl.icblcvod.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/28/de/3f28de24-ad23-0353-a6f5-67211a0a772f/mzl.ckekpjvp.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/54/a7/a354a7c9-27d9-d15e-2ccc-5ed85f13878f/mzl.wethfkxl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/7f/d1/307fd172-f03f-656e-ba33-8c4d95e1b61a/mzl.lbyvydhm.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/05/2a/1b052a2f-955e-f6d9-c2f0-a7bfcab09405/mzl.bcrzmpha.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
