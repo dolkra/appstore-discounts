@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 1050535507,
+    "region": "pt",
+    "timestamp": 1783893028974,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Expansion Ch. Z",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1050535507",
+    "trackName": "Lanota - Music game with story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1309638846,
     "region": "pt",
     "timestamp": 1783883126238,
