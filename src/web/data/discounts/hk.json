@@ -1,23 +1,112 @@
 [
   {
-    "trackId": 1406794157,
+    "trackId": 1050535507,
     "region": "hk",
-    "timestamp": 1783824196340,
+    "timestamp": 1783871980856,
     "discounts": [
       {
         "type": "price",
         "name": "Price",
-        "from": "HK$ 22.00",
+        "from": "HK$ 18.00",
         "to": "免費",
-        "range": "[免費 ~ HK$ 22.00]"
+        "range": "[免費 ~ HK$ 18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節 U",
+        "from": "HK$ 32.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "支線第一章",
+        "from": "HK$ 32.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節H",
+        "from": "HK$ 32.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節B",
+        "from": "HK$ 32.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節 I",
+        "from": "HK$ 32.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節 R",
+        "from": "HK$ 32.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
       }
     ],
     "price": 0,
     "formattedPrice": "免費",
     "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1406794157",
-    "trackName": "我的私房菜-早餐 食譜 廚房 料理 美食 烹飪 做菜 筆記",
-    "firstRecordedAt": 1774666118529
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1050535507",
+    "trackName": "Lanota - 動感節奏音樂遊戲",
+    "firstRecordedAt": 1745517753203
+  },
+  {
+    "trackId": 1309638846,
+    "region": "hk",
+    "timestamp": 1783871980856,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 8.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1309638846",
+    "trackName": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6467822375,
+    "region": "hk",
+    "timestamp": 1783871980856,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "每週訂閱",
+        "from": "HK$ 18.00",
+        "to": "HK$ 8.00",
+        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度訂閱",
+        "from": "HK$ 88.00",
+        "to": "HK$ 38.00",
+        "range": "[HK$ 38.00 ~ HK$ 188.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1745593334191
   },
   {
     "trackId": 6744170498,

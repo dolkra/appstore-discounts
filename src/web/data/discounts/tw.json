@@ -2,8 +2,15 @@
   {
     "trackId": 1050535507,
     "region": "tw",
-    "timestamp": 1783862288330,
+    "timestamp": 1783871980856,
     "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "免費",
+        "range": "[免費 ~ $60.00]"
+      },
       {
         "type": "inAppPurchase",
         "name": "支線第一章",
@@ -47,12 +54,59 @@
         "range": "[$60.00 ~ $120.00]"
       }
     ],
-    "price": 60,
-    "formattedPrice": "$60.00",
+    "price": 0,
+    "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1050535507",
     "trackName": "Lanota - 動感節奏音樂遊戲",
     "firstRecordedAt": 1745517753203
+  },
+  {
+    "trackId": 1309638846,
+    "region": "tw",
+    "timestamp": 1783871980856,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1309638846",
+    "trackName": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6467822375,
+    "region": "tw",
+    "timestamp": 1783871980856,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "每週訂閱",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$20.00 ~ $60.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度訂閱",
+        "from": "$320.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $790.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1745593334191
   },
   {
     "trackId": 6749132733,

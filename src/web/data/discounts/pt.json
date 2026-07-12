@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "pt",
+    "timestamp": 1783871980856,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Assinatura semanal",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Assinatura anual",
+        "from": "9,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6744170498,
     "region": "pt",
     "timestamp": 1783824196340,
