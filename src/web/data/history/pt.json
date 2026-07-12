@@ -32982,14 +32982,22 @@
     "trackName": "1SecMoney",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783883126238,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -56590,8 +56598,8 @@
       "Color Frame Pack": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 1.99,
+      "formattedPrice": "1,99 €",
       "Upgrade Deluxe Edition": "6,99 €",
       "Design Frame Package": "0,99 €",
       "Social Frame Package": "0,99 €",
@@ -56604,6 +56612,25 @@
       "Color Frame Pack": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783883126238,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "6,99 €",
+            "Design Frame Package": "0,99 €",
+            "Social Frame Package": "0,99 €",
+            "Magazine Frame Package": "0,99 €",
+            "Black Frame Pack": "0,99 €",
+            "Geometric Frame Pack": "0,99 €",
+            "Stamp Frame Pack": "0,99 €",
+            "Retro Frame Pack": "0,99 €",
+            "Stroke Frame Pack": "0,99 €",
+            "Color Frame Pack": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -66482,7 +66509,16 @@
       "Valkyrie Token": "9,99 €",
       "Arcade Dice Sale": "3,99 €",
       "Diamond Bundle": "12,49 €",
-      "Astronaut Token Sale": "2,99 €"
+      "Astronaut Token Sale": "2,99 €",
+      "Overload Monster Truck Token": "9,99 €",
+      "Triceratruck Monster Truck Token": "9,99 €",
+      "Hammerhead Monster Truck Token": "9,99 €",
+      "Monster Truck Bundle": "24,99 €",
+      "Emerald Dice": "4,99 €",
+      "Emerald Cockerel Token": "3,49 €",
+      "Emerald Car Token": "3,49 €",
+      "Emerald King Kong Token": "3,49 €",
+      "Emerald Bundle": "11,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -66641,10 +66677,35 @@
       "Valkyrie Token": "9,99 €",
       "Arcade Dice Sale": "3,99 €",
       "Diamond Bundle": "12,49 €",
-      "Astronaut Token Sale": "2,99 €"
+      "Astronaut Token Sale": "2,99 €",
+      "Overload Monster Truck Token": "9,99 €",
+      "Triceratruck Monster Truck Token": "9,99 €",
+      "Hammerhead Monster Truck Token": "9,99 €",
+      "Monster Truck Bundle": "24,99 €",
+      "Emerald Dice": "4,99 €",
+      "Emerald Cockerel Token": "3,49 €",
+      "Emerald Car Token": "3,49 €",
+      "Emerald King Kong Token": "3,49 €",
+      "Emerald Bundle": "11,99 €"
     },
     "history": [
       [
+        {
+          "timestamp": 1783883126238,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Overload Monster Truck Token": "9,99 €",
+            "Triceratruck Monster Truck Token": "9,99 €",
+            "Hammerhead Monster Truck Token": "9,99 €",
+            "Monster Truck Bundle": "24,99 €",
+            "Emerald Dice": "4,99 €",
+            "Emerald Cockerel Token": "3,49 €",
+            "Emerald Car Token": "3,49 €",
+            "Emerald King Kong Token": "3,49 €",
+            "Emerald Bundle": "11,99 €"
+          }
+        },
         {
           "timestamp": 1783835883421,
           "price": 4.99,
