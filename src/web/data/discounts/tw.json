@@ -1,5 +1,60 @@
 [
   {
+    "trackId": 1050535507,
+    "region": "tw",
+    "timestamp": 1783862288330,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "支線第一章",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節B",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節 R",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節 U",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴充章節 I",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "支線第二章",
+        "from": "$120.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $120.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1050535507",
+    "trackName": "Lanota - 動感節奏音樂遊戲",
+    "firstRecordedAt": 1745517753203
+  },
+  {
     "trackId": 6749132733,
     "region": "tw",
     "timestamp": 1783844795867,
