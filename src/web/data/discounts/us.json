@@ -1,5 +1,60 @@
 [
   {
+    "trackId": 1050535507,
+    "region": "us",
+    "timestamp": 1783910662088,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Side Story Chapter 1",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Expansion Chapter B",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Expansion Chapter H",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Expansion Ch. U",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Side Story Chapter 2",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1050535507",
+    "trackName": "Lanota - Music game with story",
+    "firstRecordedAt": 1745517753203
+  },
+  {
     "trackId": 1309638846,
     "region": "us",
     "timestamp": 1783883126238,
