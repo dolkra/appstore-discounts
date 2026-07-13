@@ -11547,6 +11547,27 @@
       ]
     ]
   },
+  "452561112": {
+    "name": "集王羲之书圣教序",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1783944326400,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "452990487": {
     "name": "RushPlayer",
     "maxPriceInfo": {
@@ -63365,6 +63386,16 @@
       "Lifetime Premium": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783944326400,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime Premium": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778039431689,
