@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1050535507,
+    "region": "tw",
+    "timestamp": 1783962732921,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1050535507",
+    "trackName": "Lanota - 動感節奏音樂遊戲",
+    "firstRecordedAt": 1745517753203
+  },
+  {
+    "trackId": 1452113719,
+    "region": "tw",
+    "timestamp": 1783962732921,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1452113719",
+    "trackName": "文明百科",
+    "firstRecordedAt": 1767256663423
+  },
+  {
+    "trackId": 6504841512,
+    "region": "tw",
+    "timestamp": 1783962732921,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6504841512",
+    "trackName": "Halls of Torment: Premium",
+    "firstRecordedAt": 1745334141417
+  },
+  {
     "trackId": 6467822375,
     "region": "tw",
     "timestamp": 1783944326400,
@@ -111,7 +171,7 @@
         "name": "每週訂閱",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$20.00 ~ $60.00]"
+        "range": "[$20.00 ~ $70.00]"
       },
       {
         "type": "inAppPurchase",
@@ -198,7 +258,7 @@
         "name": "每週訂閱",
         "from": "$60.00",
         "to": "$30.00",
-        "range": "[$20.00 ~ $60.00]"
+        "range": "[$20.00 ~ $70.00]"
       },
       {
         "type": "inAppPurchase",
@@ -9180,7 +9240,7 @@
         "name": "每週訂閱",
         "from": "$55.00",
         "to": "$30.00",
-        "range": "[$20.00 ~ $60.00]"
+        "range": "[$20.00 ~ $70.00]"
       },
       {
         "type": "inAppPurchase",
@@ -9712,7 +9772,7 @@
         "name": "每週訂閱",
         "from": "$55.00",
         "to": "$20.00",
-        "range": "[$20.00 ~ $60.00]"
+        "range": "[$20.00 ~ $70.00]"
       },
       {
         "type": "inAppPurchase",

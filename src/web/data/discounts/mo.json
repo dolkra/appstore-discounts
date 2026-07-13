@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1452113719,
+    "region": "mo",
+    "timestamp": 1783962732921,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1452113719",
+    "trackName": "文明百科",
+    "firstRecordedAt": 1767256663423
+  },
+  {
+    "trackId": 6504841512,
+    "region": "mo",
+    "timestamp": 1783962732921,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6504841512",
+    "trackName": "Halls of Torment: Premium",
+    "firstRecordedAt": 1745334141417
+  },
+  {
     "trackId": 6761328517,
     "region": "mo",
     "timestamp": 1783923492761,
@@ -125,7 +165,7 @@
         "name": "每週訂閱",
         "from": "USD 1.99",
         "to": "USD 0.99",
-        "range": "[USD 0.69 ~ USD 1.99]"
+        "range": "[USD 0.69 ~ USD 2.99]"
       },
       {
         "type": "inAppPurchase",
@@ -199,7 +239,7 @@
         "name": "每週訂閱",
         "from": "USD 1.99",
         "to": "USD 0.99",
-        "range": "[USD 0.69 ~ USD 1.99]"
+        "range": "[USD 0.69 ~ USD 2.99]"
       },
       {
         "type": "inAppPurchase",
@@ -1941,7 +1981,7 @@
         "name": "每週訂閱",
         "from": "USD 0.89",
         "to": "USD 0.79",
-        "range": "[USD 0.69 ~ USD 1.99]"
+        "range": "[USD 0.69 ~ USD 2.99]"
       }
     ],
     "price": 0,
@@ -9032,7 +9072,7 @@
         "name": "每週訂閱",
         "from": "USD 1.99",
         "to": "USD 0.89",
-        "range": "[USD 0.69 ~ USD 1.99]"
+        "range": "[USD 0.69 ~ USD 2.99]"
       },
       {
         "type": "inAppPurchase",
@@ -9564,7 +9604,7 @@
         "name": "每週訂閱",
         "from": "USD 1.99",
         "to": "USD 0.69",
-        "range": "[USD 0.69 ~ USD 1.99]"
+        "range": "[USD 0.69 ~ USD 2.99]"
       },
       {
         "type": "inAppPurchase",

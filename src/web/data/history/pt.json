@@ -64010,7 +64010,7 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Premium": "0,99 €"
+      "Premium": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -64018,6 +64018,16 @@
       "Premium": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1783962732921,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Premium": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783824196340,
@@ -121903,6 +121913,29 @@
           "timestamp": 1783796560187,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6766948602": {
+    "trackId": 6766948602,
+    "trackName": "Lighting Gel Combiner",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1783962732921,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
           "inAppPurchases": {}
         }
       ]

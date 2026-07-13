@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1452113719,
+    "region": "hk",
+    "timestamp": 1783962732921,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1452113719",
+    "trackName": "文明百科",
+    "firstRecordedAt": 1767256663423
+  },
+  {
+    "trackId": 6504841512,
+    "region": "hk",
+    "timestamp": 1783962732921,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6504841512",
+    "trackName": "Halls of Torment: Premium",
+    "firstRecordedAt": 1745334141417
+  },
+  {
     "trackId": 1050535507,
     "region": "hk",
     "timestamp": 1783871980856,
@@ -91,7 +131,7 @@
         "name": "每週訂閱",
         "from": "HK$ 18.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+        "range": "[HK$ 6.00 ~ HK$ 22.00]"
       },
       {
         "type": "inAppPurchase",
@@ -158,7 +198,7 @@
         "name": "每週訂閱",
         "from": "HK$ 18.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+        "range": "[HK$ 6.00 ~ HK$ 22.00]"
       },
       {
         "type": "inAppPurchase",
@@ -1911,7 +1951,7 @@
         "name": "每週訂閱",
         "from": "HK$ 8.00",
         "to": "HK$ 6.00",
-        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+        "range": "[HK$ 6.00 ~ HK$ 22.00]"
       }
     ],
     "price": 0,
@@ -9061,7 +9101,7 @@
         "name": "每週訂閱",
         "from": "HK$ 18.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+        "range": "[HK$ 6.00 ~ HK$ 22.00]"
       },
       {
         "type": "inAppPurchase",
@@ -9621,7 +9661,7 @@
         "name": "每週訂閱",
         "from": "HK$ 18.00",
         "to": "HK$ 6.00",
-        "range": "[HK$ 6.00 ~ HK$ 18.00]"
+        "range": "[HK$ 6.00 ~ HK$ 22.00]"
       },
       {
         "type": "inAppPurchase",
