@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6504841512,
+    "region": "pt",
+    "timestamp": 1783979784640,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6504841512",
+    "trackName": "Halls of Torment: Premium",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1452113719,
     "region": "pt",
     "timestamp": 1783962732921,
@@ -18,26 +38,6 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id1452113719",
     "trackName": "Civilopédia",
     "firstRecordedAt": 1767256663423
-  },
-  {
-    "trackId": 6761328517,
-    "region": "pt",
-    "timestamp": 1783923492761,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "6,99 €",
-        "to": "5,99 €",
-        "range": "[5,99 € ~ 6,99 €]"
-      }
-    ],
-    "price": 5.99,
-    "formattedPrice": "5,99 €",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id6761328517",
-    "trackName": "Dungeon Within",
-    "firstRecordedAt": 1777123247350
   },
   {
     "trackId": 1050535507,
