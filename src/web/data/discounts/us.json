@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1050535507,
+    "region": "us",
+    "timestamp": 1783996054730,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$0.99",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1050535507",
+    "trackName": "Lanota - Music game with story",
+    "firstRecordedAt": 1745517753203
+  },
+  {
+    "trackId": 6504841512,
+    "region": "us",
+    "timestamp": 1783996054730,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6504841512",
+    "trackName": "Halls of Torment: Premium",
+    "firstRecordedAt": 1745334141417
+  },
+  {
     "trackId": 1452113719,
     "region": "us",
     "timestamp": 1783962732921,
@@ -18,26 +58,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1452113719",
     "trackName": "Civilopedia",
     "firstRecordedAt": 1767256663423
-  },
-  {
-    "trackId": 6761328517,
-    "region": "us",
-    "timestamp": 1783923492761,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$5.99",
-        "to": "$4.99",
-        "range": "[$4.99 ~ $5.99]"
-      }
-    ],
-    "price": 4.99,
-    "formattedPrice": "$4.99",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id6761328517",
-    "trackName": "Dungeon Within",
-    "firstRecordedAt": 1777123247350
   },
   {
     "trackId": 1050535507,
