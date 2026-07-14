@@ -532,7 +532,7 @@
 |1609|6472636728|自动|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|
 |1608|6754894237|自动|❌|CloverPit|CloverPit|CloverPit|CloverPit|CloverPit|CloverPit|
 |1607|1073923311|自动|地藏占察轮|地藏占察輪|地藏占察輪|地藏占察輪|Divination|Divination|Divination|
-|1606|536158103|自动|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|
+|1606|536158103|自动|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|
 |1605|6742644783|自动|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|
 |1604|1537060891|自动|❌|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|
 |1603|6472627887|自动|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|

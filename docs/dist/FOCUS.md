@@ -532,7 +532,7 @@ So far, we've covered `7` `Countries or Regions` and  `2131` `Apps` <br />Push n
 |1609|6472636728|Automatic|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|七政四餘排盤|
 |1608|6754894237|Automatic|❌|CloverPit|CloverPit|CloverPit|CloverPit|CloverPit|CloverPit|
 |1607|1073923311|Automatic|地藏占察轮|地藏占察輪|地藏占察輪|地藏占察輪|Divination|Divination|Divination|
-|1606|536158103|Automatic|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|Direction Compass With Maps|
+|1606|536158103|Automatic|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|Orientation: Compass & Map|
 |1605|6742644783|Automatic|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|Speed-Tracker|
 |1604|1537060891|Automatic|❌|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|Titan Quest: Legendary Edition|
 |1603|6472627887|Automatic|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|问天阁观星|
