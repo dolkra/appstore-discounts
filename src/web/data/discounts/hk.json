@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1041260001,
+    "region": "hk",
+    "timestamp": 1784025938034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 168.00",
+        "to": "HK$ 88.00",
+        "range": "[HK$ 48.00 ~ HK$ 168.00]"
+      }
+    ],
+    "price": 88,
+    "formattedPrice": "HK$ 88.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1041260001",
+    "trackName": "FINAL FANTASY Ⅸ",
+    "firstRecordedAt": 1745568184983
+  },
+  {
+    "trackId": 1492041539,
+    "region": "hk",
+    "timestamp": 1784025938034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 118.00",
+        "to": "HK$ 88.00",
+        "range": "[HK$ 88.00 ~ HK$ 118.00]"
+      }
+    ],
+    "price": 88,
+    "formattedPrice": "HK$ 88.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1492041539",
+    "trackName": "FINAL FANTASY VI",
+    "firstRecordedAt": 1745568184983
+  },
+  {
     "trackId": 424591347,
     "region": "hk",
     "timestamp": 1784016228442,
@@ -22369,7 +22409,7 @@
         "name": "Price",
         "from": "HK$ 32.00",
         "to": "免費",
-        "range": "[免費 ~ HK$ 32.00]"
+        "range": "[免費 ~ HK$ 38.00]"
       }
     ],
     "price": 0,

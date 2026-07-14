@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1050535507,
+    "region": "tw",
+    "timestamp": 1784025938034,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1050535507",
+    "trackName": "Lanota - 動感節奏音樂遊戲",
+    "firstRecordedAt": 1745517753203
+  },
+  {
     "trackId": 424591347,
     "region": "tw",
     "timestamp": 1784016228442,
@@ -138,46 +158,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id1492041611",
     "trackName": "FINAL FANTASY V",
     "firstRecordedAt": 1749665880279
-  },
-  {
-    "trackId": 1637438059,
-    "region": "tw",
-    "timestamp": 1784016228442,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$120.00",
-        "to": "免費",
-        "range": "[免費 ~ $120.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免費",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id1637438059",
-    "trackName": "UnTrap for YouTube",
-    "firstRecordedAt": 1756465798841
-  },
-  {
-    "trackId": 1050535507,
-    "region": "tw",
-    "timestamp": 1783979784640,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$60.00",
-        "to": "$30.00",
-        "range": "[免費 ~ $60.00]"
-      }
-    ],
-    "price": 30,
-    "formattedPrice": "$30.00",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id1050535507",
-    "trackName": "Lanota - 動感節奏音樂遊戲",
-    "firstRecordedAt": 1745517753203
   },
   {
     "trackId": 1452113719,
@@ -23282,7 +23262,7 @@
         "name": "Price",
         "from": "$120.00",
         "to": "免費",
-        "range": "[免費 ~ $120.00]"
+        "range": "[免費 ~ $150.00]"
       }
     ],
     "price": 0,
