@@ -113673,7 +113673,8 @@
       "20 gold": "0,99 €",
       "10 gold": "0,49 €",
       "5 gold": "0,29 €",
-      "100 ticket": "3,90 €"
+      "100 ticket": "3,90 €",
+      "porches": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -113687,9 +113688,29 @@
       "20 gold": "0,99 €",
       "10 gold": "0,49 €",
       "5 gold": "0,29 €",
-      "100 ticket": "3,90 €"
+      "100 ticket": "3,90 €",
+      "porches": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784152795972,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "porches": "0,99 €",
+            "passatb8": "0,99 €",
+            "sonsuz paket": "9,99 €",
+            "mega paket": "2,00 €",
+            "büyük paket": "0,99 €",
+            "orta paket": "0,99 €",
+            "mini paket": "0,49 €",
+            "20 gold": "0,99 €",
+            "10 gold": "0,49 €",
+            "5 gold": "0,29 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783417219983,
