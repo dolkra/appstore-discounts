@@ -1,5 +1,46 @@
 [
   {
+    "trackId": 1435752659,
+    "region": "us",
+    "timestamp": 1784082315610,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$32.99",
+        "to": "$29.99",
+        "range": "[$29.99 ~ $32.99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "$29.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1747123391708
+  },
+  {
+    "trackId": 6741892043,
+    "region": "us",
+    "timestamp": 1784082315610,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Road to Empress II",
+        "from": "$13.90",
+        "to": "$12.90",
+        "range": "[$12.90 ~ $13.90]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6741892043",
+    "trackName": "Road to Empress",
+    "firstRecordedAt": 1757409218377,
+    "notificationDisabled": true
+  },
+  {
     "trackId": 6448928429,
     "region": "us",
     "timestamp": 1784025938034,
@@ -853,7 +894,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6741892043",
     "trackName": "Road to Empress",
-    "firstRecordedAt": 1757409218377
+    "firstRecordedAt": 1757409218377,
+    "notificationDisabled": true
   },
   {
     "trackId": 459189186,
@@ -1329,7 +1371,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6741892043",
     "trackName": "Road to Empress",
-    "firstRecordedAt": 1757409218377
+    "firstRecordedAt": 1757409218377,
+    "notificationDisabled": true
   },
   {
     "trackId": 510119487,
@@ -3386,7 +3429,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6741892043",
     "trackName": "Road to Empress",
-    "firstRecordedAt": 1757409218377
+    "firstRecordedAt": 1757409218377,
+    "notificationDisabled": true
   },
   {
     "trackId": 6445992619,
@@ -5356,7 +5400,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6741892043",
     "trackName": "Road to Empress",
-    "firstRecordedAt": 1757409218377
+    "firstRecordedAt": 1757409218377,
+    "notificationDisabled": true
   },
   {
     "trackId": 1439262206,
@@ -9283,7 +9328,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -9901,7 +9946,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -13926,7 +13971,7 @@
     "formattedPrice": "$4.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -15313,7 +15358,7 @@
     "formattedPrice": "$2.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1758269785305
   },
   {
@@ -17655,7 +17700,7 @@
     "formattedPrice": "$3.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1758269785305
   },
   {

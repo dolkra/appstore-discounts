@@ -6267,6 +6267,18 @@
     "history": [
       [
         {
+          "timestamp": 1784082315610,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Dakota Map Pack": "0,99 €",
+            "Alaska Map Pack": "0,99 €",
+            "Unlock Everything": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782944237326,
           "price": 0.49,
           "formattedPrice": "0,49 €",
@@ -60069,10 +60081,18 @@
       "formattedPrice": "39,99 €"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "39,99 €"
+      "price": 34.99,
+      "formattedPrice": "34,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784082315610,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1771160811393,
@@ -68582,6 +68602,22 @@
     "history": [
       [
         {
+          "timestamp": 1784082315610,
+          "price": 89.99,
+          "formattedPrice": "89,99 €",
+          "inAppPurchases": {
+            "Annual Tip": "20,49 €",
+            "Monthly Tip": "2,99 €",
+            "Huge Tip": "229,99 €",
+            "Large Tip": "99,99 €",
+            "Medium Tip": "22,99 €",
+            "Small Tip": "9,99 €",
+            "Little Tip": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782770887097,
           "price": 67.9,
           "formattedPrice": "67,90 €",
@@ -73851,6 +73887,18 @@
       "Eternal Embers DLC": "4,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784082315610,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {
+            "Ragnarök for free download": "0,00 €",
+            "Atlantis for free download": "0,00 €",
+            "Eternal Embers DLC": "4,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782944237326,
@@ -90159,7 +90207,7 @@
     ]
   },
   "6752503669": {
-    "name": "Solar Arc – Sun & Moon Tracker",
+    "name": "Solar Arc: Golden Hour Tracker",
     "maxPriceInfo": {
       "price": 6.99,
       "formattedPrice": "6,99 €",

@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1435752659,
+    "region": "pt",
+    "timestamp": 1784082315610,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "39,99 €",
+        "to": "34,99 €",
+        "range": "[34,99 € ~ 39,99 €]"
+      }
+    ],
+    "price": 34.99,
+    "formattedPrice": "34,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1771160811393
+  },
+  {
     "trackId": 1021566244,
     "region": "pt",
     "timestamp": 1784016228442,
@@ -5026,7 +5046,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6741892043",
     "trackName": "Road to Empress",
-    "firstRecordedAt": 1761797674362
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 1642139491,
@@ -8982,7 +9003,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -9521,7 +9542,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -13465,7 +13486,7 @@
     "formattedPrice": "5,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -14625,7 +14646,7 @@
     "formattedPrice": "2,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -16933,7 +16954,7 @@
     "formattedPrice": "3,99 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6752503669",
-    "trackName": "Solar Arc – Sun & Moon Tracker",
+    "trackName": "Solar Arc: Golden Hour Tracker",
     "firstRecordedAt": 1761797674362
   },
   {

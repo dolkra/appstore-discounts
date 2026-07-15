@@ -751,7 +751,7 @@
 |1391|6474672665|自动|❌|開拓神秘島 DX|開拓神秘島 DX|開拓神秘島 DX|Beastie Bay DX|Beastie Bay DX|Beastie Bay DX|
 |1390|6744650366|自动|MyScoreTracker – 计分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – 計分器|MyScoreTracker – Score Counter|MyScoreTracker – Score Counter|MyScoreTracker – Marcador|
 |1389|513370441|自动|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|ParseGreek - Greek Quizzing|
-|1388|6752503669|自动|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|Solar Arc – Sun & Moon Tracker|
+|1388|6752503669|自动|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|Solar Arc: Golden Hour Tracker|
 |1387|1148617550|自动|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|My Jump 2|
 |1386|973789555|自动|❌|夢想商店街物語|夢想商店街物語|夢想商店街物語|Biz Builder Delux|Biz Builder Delux|Biz Builder Delux|
 |1385|1484024784|自动|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
@@ -778,7 +778,7 @@
 |1364|1331393380|自动|❌|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|The House of Da Vinci 2|
 |1363|6749132733|自动|❌|❌|❌|女王的遊戲-盛世天下|❌|❌|❌|
 |1362|6743148949|自动|盛世天下：女王的游戏|❌|❌|❌|❌|❌|❌|
-|1361|6741892043|自动|❌|女王的遊戲：盛世天下|女王的遊戲：盛世天下|❌|Road to Empress|Road to Empress|Road to Empress|
+|1361| ~~6741892043~~ |自动| ~~❌~~ | ~~女王的遊戲：盛世天下~~ | ~~女王的遊戲：盛世天下~~ | ~~❌~~ | ~~Road to Empress~~ | ~~Road to Empress~~ | ~~Road to Empress~~ |
 |1360|6740349855|自动|❌|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|Backyard Football '99|
 |1359|6743611124|自动|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|扫毒风暴|
 |1358|1458687087|自动|❌|我的孩子: 生命之泉|我的孩子: 生命之泉|我的孩子: 生命之泉|❌|❌|❌|
