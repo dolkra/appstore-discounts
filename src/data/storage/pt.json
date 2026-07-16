@@ -49988,6 +49988,14 @@
     "history": [
       [
         {
+          "timestamp": 1784180418926,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782379275820,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -85656,6 +85664,14 @@
     "history": [
       [
         {
+          "timestamp": 1784180418926,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782379275820,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -94866,11 +94882,27 @@
       "Assinatura semanal": "0,99 €",
       "Assinatura anual": "5,99 €",
       "Premium Lifetime": "8,99 €",
-      "7-Day Pass": "3,49 €",
-      "3-Day Pass": "1,49 €",
-      "24h Pass": "0,69 €"
+      "7-Day Pass": "2,99 €",
+      "3-Day Pass": "0,99 €",
+      "24h Pass": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784180418926,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Assinatura semanal": "1,99 €",
+            "7-Day Pass": "2,99 €",
+            "3-Day Pass": "0,99 €",
+            "24h Pass": "0,49 €",
+            "Premium Lifetime": "14,99 €",
+            "Pro – Lifetime": "0,00 €",
+            "Assinatura anual": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784132494306,
@@ -95645,6 +95677,14 @@
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784180418926,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782379275820,
@@ -103703,6 +103743,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1784180418926,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Round the World Ticket": "29,99 €",
+            "Europe Expansion": "9,99 €",
+            "Europe Map": "8,99 €",
+            "1910 Ticket Pack": "3,99 €",
+            "Nordic Expansion": "7,99 €",
+            "Japan Expansion": "7,99 €",
+            "Nordic Map": "6,99 €",
+            "Heart of Africa Expansion": "7,99 €",
+            "Japan Map": "6,99 €",
+            "Legendary Asia Map": "6,99 €"
+          }
+        },
         {
           "timestamp": 1784169186411,
           "price": 4.99,

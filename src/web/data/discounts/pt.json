@@ -1,5 +1,106 @@
 [
   {
+    "trackId": 1239299402,
+    "region": "pt",
+    "timestamp": 1784180418926,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1239299402",
+    "trackName": "Street Fighter IV CE",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1621065119,
+    "region": "pt",
+    "timestamp": 1784180418926,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "29,99 €",
+        "to": "14,99 €",
+        "range": "[14,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 14.99,
+    "formattedPrice": "14,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1621065119",
+    "trackName": "Ace Attorney Trilogy",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6467822375,
+    "region": "pt",
+    "timestamp": 1784180418926,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "3-Day Pass",
+        "from": "1,49 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,49 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "24h Pass",
+        "from": "0,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 0,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Lifetime",
+        "from": "29,99 €",
+        "to": "14,99 €",
+        "range": "[8,99 € ~ 34,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6446021269,
+    "region": "pt",
+    "timestamp": 1784180418926,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "29,99 €",
+        "to": "2,99 €",
+        "range": "[0,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6446021269",
+    "trackName": "MEGA MAN X DiVE Offline",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 441142802,
     "region": "pt",
     "timestamp": 1784169186411,
