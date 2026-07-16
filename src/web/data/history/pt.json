@@ -11104,6 +11104,14 @@
     "history": [
       [
         {
+          "timestamp": 1784169186411,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782512000049,
           "price": 19.99,
           "formattedPrice": "19,99 €",
@@ -58955,6 +58963,25 @@
     "history": [
       [
         {
+          "timestamp": 1784169186411,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "5,99 €",
+            "Pic Say Poster Pack": "0,99 €",
+            "Insta Poster Pack": "0,99 €",
+            "Always Font Pack": "0,00 €",
+            "Unique Font Pack": "0,99 €",
+            "Reason Font Pack": "0,00 €",
+            "Path Font Pack": "0,00 €",
+            "Wisdom Font Pack": "0,00 €",
+            "Just Font Pack": "0,00 €",
+            "Future Font Pack": "0,00 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783871980856,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -89876,6 +89903,14 @@
     "history": [
       [
         {
+          "timestamp": 1784169186411,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1781650397331,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -106692,7 +106727,8 @@
       "Kacper Pawlak": "1,99 €",
       "Heart of Africa Expansion": "7,99 €",
       "Nordic Expansion": "7,99 €",
-      "Japan Expansion": "7,99 €"
+      "Japan Expansion": "7,99 €",
+      "Welcome Offer": "9,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -106734,9 +106770,29 @@
       "Kacper Pawlak": "1,99 €",
       "Heart of Africa Expansion": "7,99 €",
       "Nordic Expansion": "7,99 €",
-      "Japan Expansion": "7,99 €"
+      "Japan Expansion": "7,99 €",
+      "Welcome Offer": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784169186411,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Welcome Offer": "9,99 €",
+            "Poland Character Bundle": "2,99 €",
+            "Kujawiak": "1,99 €",
+            "Polonaise": "1,99 €",
+            "The Copernicus": "1,99 €",
+            "Orbiting Greatness": "1,99 €",
+            "Regina Kamińska": "1,99 €",
+            "Kacper Pawlak": "1,99 €",
+            "Poland Map": "6,99 €",
+            "Poland Expansion": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781823364683,
