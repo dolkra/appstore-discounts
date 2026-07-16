@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 536158103,
+    "region": "pt",
+    "timestamp": 1784189532599,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id536158103",
+    "trackName": "Orientation: Compass & Map",
+    "firstRecordedAt": 1765981841641
+  },
+  {
+    "trackId": 1492049794,
+    "region": "pt",
+    "timestamp": 1784189532599,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1492049794",
+    "trackName": "宗师-武林风云传",
+    "firstRecordedAt": 1774723994994
+  },
+  {
+    "trackId": 6443849085,
+    "region": "pt",
+    "timestamp": 1784189532599,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6443849085",
+    "trackName": "Terminal Madness - Awakening",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1239299402,
     "region": "pt",
     "timestamp": 1784180418926,

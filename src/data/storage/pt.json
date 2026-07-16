@@ -18531,10 +18531,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784189532599,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1765981841641,
@@ -61879,6 +61887,23 @@
     "history": [
       [
         {
+          "timestamp": 1784189532599,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Priority 10k for 1 month": "0,99 €",
+            "Priority 10k for lifetime": "19,99 €",
+            "Priority 10k for 1 year": "10,49 €",
+            "Priority 100k for 1 year": "6,99 €",
+            "PRO version": "3,49 €",
+            "Priority 100k for lifetime": "14,99 €",
+            "Priority 100k for 1 month": "0,49 €",
+            "PRO version discounted": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783806554521,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -65178,6 +65203,25 @@
       "Emerald Bundle": "11,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784189532599,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Diamond Bundle": "12,49 €",
+            "Enchanted Forest Token Wizard": "2,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784093447794,
@@ -69397,6 +69441,25 @@
       "60元宝": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784189532599,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "终身卡VIP": "69,99 €",
+            "终身VIP": "69,99 €",
+            "年卡VIP": "39,99 €",
+            "月卡VIP": "3,99 €",
+            "880元宝": "14,99 €",
+            "250元宝": "3,99 €",
+            "3880元宝": "69,99 €",
+            "2980元宝": "44,99 €",
+            "1680元宝": "29,99 €",
+            "60元宝": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783489848911,
@@ -95812,14 +95875,27 @@
       "Buy me a coffee": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
       "Buy me a few coffees": "7,99 €",
       "Buy me couple coffees": "3,99 €",
       "I adore the game": "14,99 €",
       "Buy me a coffee": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784189532599,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Buy me a few coffees": "7,99 €",
+            "Buy me couple coffees": "3,99 €",
+            "I adore the game": "14,99 €",
+            "Buy me a coffee": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
