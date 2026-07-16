@@ -6462,9 +6462,21 @@
       "formattedPrice": "0,49 €",
       "Dakota Map Pack": "0,99 €",
       "Alaska Map Pack": "0,99 €",
-      "Unlock Everything": "8,99 €"
+      "Unlock Everything": "7,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784209726656,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Dakota Map Pack": "0,99 €",
+            "Alaska Map Pack": "0,99 €",
+            "Unlock Everything": "7,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784082315610,
@@ -93782,6 +93794,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784209726656,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784093447794,

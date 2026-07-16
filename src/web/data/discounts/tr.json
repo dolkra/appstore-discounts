@@ -1,8 +1,28 @@
 [
   {
+    "trackId": 385902072,
+    "region": "tr",
+    "timestamp": 1784209726656,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Unlock Everything",
+        "from": "₺399,99",
+        "to": "₺139,99",
+        "range": "[₺139,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
     "trackId": 1370362850,
     "region": "tr",
-    "timestamp": 1784199600801,
+    "timestamp": 1784209726656,
     "discounts": [
       {
         "type": "price",
@@ -1290,7 +1310,7 @@
         "name": "Price",
         "from": "₺17,99",
         "to": "₺5,00",
-        "range": "[₺5,00 ~ ₺17,99]"
+        "range": "[₺5,00 ~ ₺49,99]"
       }
     ],
     "price": 5,

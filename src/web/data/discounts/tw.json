@@ -1,5 +1,100 @@
 [
   {
+    "trackId": 385902072,
+    "region": "tw",
+    "timestamp": 1784209726656,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Unlock Everything",
+        "from": "$290.00",
+        "to": "$270.00",
+        "range": "[$270.00 ~ $290.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 510249014,
+    "region": "tw",
+    "timestamp": 1784209726656,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id510249014",
+    "trackName": "水準管 HD",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6467822375,
+    "region": "tw",
+    "timestamp": 1784209726656,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "每週訂閱",
+        "from": "$70.00",
+        "to": "$50.00",
+        "range": "[$20.00 ~ $70.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "高級終身會員",
+        "from": "$590.00",
+        "to": "$390.00",
+        "range": "[$290.00 ~ $990.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "3-Day Pass",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $60.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "24h Pass",
+        "from": "$30.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $30.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "年度訂閱",
+        "from": "$320.00",
+        "to": "$290.00",
+        "range": "[$150.00 ~ $790.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
+    "trackName": "Auto Redial App",
+    "firstRecordedAt": 1745593334191
+  },
+  {
     "trackId": 469343554,
     "region": "tw",
     "timestamp": 1784189532599,
@@ -138,47 +233,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6443849085",
     "trackName": "Terminal Madness - Awakening",
     "firstRecordedAt": 1745481777335
-  },
-  {
-    "trackId": 6467822375,
-    "region": "tw",
-    "timestamp": 1784180418926,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "高級終身會員",
-        "from": "$590.00",
-        "to": "$390.00",
-        "range": "[$290.00 ~ $990.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "7-Day Pass",
-        "from": "$150.00",
-        "to": "$90.00",
-        "range": "[$90.00 ~ $150.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "3-Day Pass",
-        "from": "$60.00",
-        "to": "$30.00",
-        "range": "[$30.00 ~ $60.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "24h Pass",
-        "from": "$30.00",
-        "to": "$20.00",
-        "range": "[$20.00 ~ $30.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免費",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
-    "trackName": "Auto Redial App",
-    "firstRecordedAt": 1745593334191
   },
   {
     "trackId": 441142802,
@@ -1453,7 +1507,7 @@
         "name": "Price",
         "from": "$85.00",
         "to": "$15.00",
-        "range": "[$15.00 ~ $85.00]"
+        "range": "[$15.00 ~ $90.00]"
       }
     ],
     "price": 15,
