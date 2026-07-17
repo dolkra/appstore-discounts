@@ -112,7 +112,7 @@
 |2033|6745230519|自动|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
 |2032|6759642128|自动|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|
 |2031|6762921522|自动|计分器-多人对局|計分器-多人對局|計分器-多人對局|計分器-多人對局|Game Scorer Round Tracker|Game Scorer Round Tracker|计分器-多人对局|
-|2030|6751319443|自动|❌|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|
+|2030|6751319443|自动|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|
 |2029|1509500916|自动|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
 |2028|6482984389|自动|❌|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|
 |2027|6772549927|自动|❌|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|

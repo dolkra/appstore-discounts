@@ -12825,6 +12825,25 @@
     "history": [
       [
         {
+          "timestamp": 1784255717106,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784228967127,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -16449,6 +16468,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784255717106,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782080091315,
@@ -75380,6 +75407,14 @@
     "history": [
       [
         {
+          "timestamp": 1784255717106,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1770453650630,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -83848,6 +83883,16 @@
       "DLC Mr. X Nightmare": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784255717106,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {
+            "DLC Mr. X Nightmare": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782982556497,
@@ -115700,6 +115745,17 @@
     "history": [
       [
         {
+          "timestamp": 1784255717106,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "高级会员（年度）": "9,99 €",
+            "高级会员（月度）": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783047362559,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -117855,10 +117911,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784255717106,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780225077243,
