@@ -15004,6 +15004,25 @@
     "history": [
       [
         {
+          "timestamp": 1784304900498,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter N": "3,99 €",
+            "Chapter D": "5,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter 10": "5,99 €",
+            "Chapter 9": "5,99 €",
+            "Chapter S": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1777386675995,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -121861,6 +121880,14 @@
     "history": [
       [
         {
+          "timestamp": 1784304900498,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783087390633,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -122892,6 +122919,29 @@
           "timestamp": 1784275747862,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6779987526": {
+    "trackId": 6779987526,
+    "trackName": "Parchment: Agenda & Daily Note",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784304900498,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
