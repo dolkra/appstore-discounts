@@ -113660,6 +113660,17 @@
     "history": [
       [
         {
+          "timestamp": 1784266941236,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Hunter's Pack": "1,99 €",
+            "Steyr Arms Pack": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783548301708,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -118834,7 +118845,7 @@
   },
   "6760331891": {
     "trackId": 6760331891,
-    "trackName": "寶寶的每日陪伴計畫",
+    "trackName": "寶寶的每日陪伴計畫－親子景點與排程",
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,

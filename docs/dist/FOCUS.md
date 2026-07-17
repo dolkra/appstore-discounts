@@ -244,7 +244,7 @@ So far, we've covered `7` `Countries or Regions` and  `2135` `Apps` <br />Push n
 |1901|6758862862|Automatic|❌|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|
 |1900|1536711520|Automatic|小熊数日子|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|
 |1899|6751122124|Automatic|Notteka ｜ 专业粤语会议助手|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI Meeting Notes|Notteka | AI Meeting Notes|Notteka ｜ 专业粤语会议助手|
-|1898|6760331891|Automatic|寶寶的每日陪伴計畫|寶寶的每日陪伴計畫|寶寶的每日陪伴計畫|寶寶的每日陪伴計畫|寶寶的每日陪伴計畫|寶寶的每日陪伴計畫|寶寶的每日陪伴計畫|
+|1898|6760331891|Automatic|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|
 |1897|6756783688|Automatic|❌|❌|❌|寶寶接種小幫手|❌|❌|❌|
 |1896|374098312|Automatic|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|
 |1895|744321889|Automatic|Unicode Pad Pro with keyboards|Unicode Pad Pro with keyboards|Unicode Pad Pro with keyboards|Unicode Pad Pro with keyboards|Unicode Pad Pro with keyboards|Unicode Pad Pro with keyboards|Unicode Pad Pro with keyboards|
