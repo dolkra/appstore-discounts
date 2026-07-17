@@ -15004,6 +15004,23 @@
     "history": [
       [
         {
+          "timestamp": 1784315236299,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter D": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter S": "5,99 €",
+            "Chapter 7": "5,99 €",
+            "Chapter N": "3,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter 10": "5,99 €"
+          }
+        },
+        {
           "timestamp": 1784304900498,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -75015,6 +75032,29 @@
           "timestamp": 1761797674362,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1530464858": {
+    "trackId": 1530464858,
+    "trackName": "Light Pollution Map",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784315236299,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
           "inAppPurchases": {}
         }
       ]
