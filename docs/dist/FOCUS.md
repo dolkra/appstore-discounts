@@ -94,7 +94,7 @@ So far, we've covered `7` `Countries or Regions` and  `2138` `Apps` <br />Push n
 |2054|6777231093|Automatic|❌|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|
 |2053|1464501334|Automatic|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|
 |2052|1529092958|Automatic|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
-|2051|6760948683|Automatic|❌|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Cozy Mining|
+|2051|6760948683|Automatic|❌|Digline：療癒挖礦|Digline：療癒挖礦|Digline：療癒挖礦|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Mineração Relaxante|
 |2050|6754315964|Automatic|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|Plezy for Plex & Jellyfin|
 |2049|6759248276|Automatic|SIMHub|esimSubscription|esimSubscription|esimSubscription|esimSubscription|esimSubscription|SIMHub|
 |2048|6777329542|Automatic|❌|强势股雷达学院|强势股雷达学院|强势股雷达学院|Stock Radar Academy|Stock Radar Academy|强势股雷达学院|

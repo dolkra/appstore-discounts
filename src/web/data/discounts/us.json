@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 454086751,
+    "region": "us",
+    "timestamp": 1784341580677,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.29",
+        "range": "[$0.29 ~ $0.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "$0.29",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id454086751",
+    "trackName": "Flick Home Run !",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1576521142,
+    "region": "us",
+    "timestamp": 1784341580677,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1576521142",
+    "trackName": "SOULVARS",
+    "firstRecordedAt": 1749168565362
+  },
+  {
     "trackId": 6760948683,
     "region": "us",
     "timestamp": 1784304900498,

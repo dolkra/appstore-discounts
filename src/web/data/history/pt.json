@@ -12090,8 +12090,8 @@
       "ContactLevel_1up": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0.29,
+      "formattedPrice": "0,29 €",
       "PowerLevel_5up": "3,99 €",
       "AllLevel_5up": "9,99 €",
       "PowerLevel_1Up": "0,99 €",
@@ -12105,6 +12105,25 @@
       "ContactLevel_1up": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784341580677,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "PowerLevel_5up": "3,99 €",
+            "AllLevel_5up": "9,99 €",
+            "PowerLevel_1Up": "0,99 €",
+            "ContactLevel_5up": "3,99 €",
+            "Called Shot 50": "9,99 €",
+            "Called Shot 4": "0,99 €",
+            "GOLD BAT": "17,99 €",
+            "AllLevel_1up": "2,99 €",
+            "EyeLevel_5up": "3,99 €",
+            "EyeLevel_1up": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783835883421,
@@ -82787,6 +82806,14 @@
     "history": [
       [
         {
+          "timestamp": 1784341580677,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778367299967,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -100136,6 +100163,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784341580677,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A319": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 777F": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "EC135": "0,99 €",
+            "Boeing 737-900": "1,99 €",
+            "The Aircraft Bundle": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784093447794,
@@ -121936,7 +121982,7 @@
   },
   "6760948683": {
     "trackId": 6760948683,
-    "trackName": "Digline: Cozy Mining",
+    "trackName": "Digline: Mineração Relaxante",
     "region": "pt",
     "maxPriceInfo": {
       "price": 3.99,
