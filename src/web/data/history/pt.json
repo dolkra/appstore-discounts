@@ -94406,10 +94406,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 0.49,
-      "formattedPrice": "0,49 €"
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784360917216,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770730908255,
@@ -105711,7 +105719,17 @@
       "フルーツパーラー": "1,19 €",
       "2025春イースタースキン": "0,99 €",
       "Waterside": "1,79 €",
-      "Night Chill": "1,79 €"
+      "Night Chill": "1,79 €",
+      "Moonlight and Lanterns": "1,19 €",
+      "Crimson Walk": "1,79 €",
+      "Wagashi Whispers": "1,19 €",
+      "Fireworks display": "1,79 €",
+      "Halloween Party": "1,79 €",
+      "Summer holiday": "1,19 €",
+      "Sunset beach": "1,19 €",
+      "Sunflower farm": "1,19 €",
+      "Melodies of Fall": "1,19 €",
+      "New Year's Sunrise": "1,79 €"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -105727,9 +105745,38 @@
       "フルーツパーラー": "1,19 €",
       "2025春イースタースキン": "0,99 €",
       "Waterside": "1,79 €",
-      "Night Chill": "1,79 €"
+      "Night Chill": "1,79 €",
+      "Moonlight and Lanterns": "1,19 €",
+      "Crimson Walk": "1,79 €",
+      "Wagashi Whispers": "1,19 €",
+      "Fireworks display": "1,79 €",
+      "Halloween Party": "1,79 €",
+      "Summer holiday": "1,19 €",
+      "Sunset beach": "1,19 €",
+      "Sunflower farm": "1,19 €",
+      "Melodies of Fall": "1,19 €",
+      "New Year's Sunrise": "1,79 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784360917216,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Moonlight and Lanterns": "1,19 €",
+            "Crimson Walk": "1,79 €",
+            "Wagashi Whispers": "1,19 €",
+            "Fireworks display": "1,79 €",
+            "Halloween Party": "1,79 €",
+            "Summer holiday": "1,19 €",
+            "Sunset beach": "1,19 €",
+            "Sunflower farm": "1,19 €",
+            "Melodies of Fall": "1,19 €",
+            "New Year's Sunrise": "1,79 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1775762349274,
@@ -123100,6 +123147,29 @@
           "timestamp": 1784304900498,
           "price": 5.99,
           "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6790482210": {
+    "trackId": 6790482210,
+    "trackName": "香港海關投考攻略 CustomsReady",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784360917216,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
           "inAppPurchases": {}
         }
       ]
