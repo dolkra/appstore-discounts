@@ -2233,7 +2233,7 @@
   {
     "trackId": 449735650,
     "region": "us",
-    "timestamp": 1784341580677,
+    "timestamp": 1784352341835,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -8942,7 +8942,7 @@
   {
     "trackId": 1195035357,
     "region": "us",
-    "timestamp": 1784255717106,
+    "timestamp": 1784352341835,
     "discounts": [],
     "price": 0.99,
     "formattedPrice": "$0.99",
@@ -14708,7 +14708,7 @@
   {
     "trackId": 1563932741,
     "region": "us",
-    "timestamp": 1784266941236,
+    "timestamp": 1784352341835,
     "discounts": [],
     "price": 1.99,
     "formattedPrice": "$1.99",
@@ -17512,7 +17512,7 @@
   {
     "trackId": 6448928429,
     "region": "us",
-    "timestamp": 1784285206555,
+    "timestamp": 1784352341835,
     "discounts": [],
     "price": 0,
     "formattedPrice": "Free",
@@ -18332,10 +18332,10 @@
   {
     "trackId": 6471594918,
     "region": "us",
-    "timestamp": 1745328692670,
+    "timestamp": 1784352341835,
     "discounts": [],
-    "price": 4.99,
-    "formattedPrice": "$4.99",
+    "price": 0,
+    "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6471594918",
     "trackName": "Just a Simple Image Converter",
@@ -21457,10 +21457,10 @@
   {
     "trackId": 6746699177,
     "region": "us",
-    "timestamp": 1782963215579,
+    "timestamp": 1784352341835,
     "discounts": [],
-    "price": 13.99,
-    "formattedPrice": "$13.99",
+    "price": 14.99,
+    "formattedPrice": "$14.99",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6746699177",
     "trackName": "Lysoniq",
@@ -23876,5 +23876,17 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id6785585993",
     "trackName": "Emlakçı",
     "firstRecordedAt": 1783693535219
+  },
+  {
+    "trackId": 6789642793,
+    "region": "us",
+    "timestamp": 1784352341835,
+    "discounts": [],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6789642793",
+    "trackName": "FirstQuake",
+    "firstRecordedAt": 1784352341835
   }
 ]

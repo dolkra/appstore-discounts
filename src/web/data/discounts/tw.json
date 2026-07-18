@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 454086751,
+    "region": "tw",
+    "timestamp": 1784352341835,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $30.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id454086751",
+    "trackName": "Flick Home Run !",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6471594918,
+    "region": "tw",
+    "timestamp": 1784352341835,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "免費",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6471594918",
+    "trackName": "Just a Simple Image Converter",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1576521142,
     "region": "tw",
     "timestamp": 1784341580677,

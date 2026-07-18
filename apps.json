@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6789642793,
+      "name": {
+        "tr": "FirstQuake"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1530464858,
       "name": {
         "mo": "Light Pollution Map"
