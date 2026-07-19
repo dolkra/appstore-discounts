@@ -83792,6 +83792,14 @@
     "history": [
       [
         {
+          "timestamp": 1784449011192,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783720942230,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -120221,6 +120229,23 @@
     "history": [
       [
         {
+          "timestamp": 1784449011192,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Underworld Pass 1": "2,99 €",
+            "Ark of Eternity": "34,99 €",
+            "Pioneer of the Abyss": "9,99 €",
+            "Time Traveler": "6,99 €",
+            "Essence of Transcendence": "34,99 €",
+            "Underworld Expansion Pass": "6,99 €",
+            "Essence of the Abyss": "22,99 €",
+            "Essence of Beginning": "22,99 €",
+            "Beginning of the Abyss": "9,99 €",
+            "Beginning of Growth": "9,99 €"
+          }
+        },
+        {
           "timestamp": 1784440356843,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -123356,6 +123381,29 @@
           "timestamp": 1784360917216,
           "price": 12.99,
           "formattedPrice": "12,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785438432": {
+    "trackId": 6785438432,
+    "trackName": "Tokyo Shipping!",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
+    },
+    "minPriceInfo": {
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784449011192,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
           "inAppPurchases": {}
         }
       ]
