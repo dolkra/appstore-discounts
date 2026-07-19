@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 454679700,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id454679700",
+    "trackName": "Mega Mall Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 456976375,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id456976375",
+    "trackName": "Grand Prix Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1538900393,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1538900393",
+    "trackName": "Boxing Gym Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1575192531,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1575192531",
+    "trackName": "Dream Park Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1623111026,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1623111026",
+    "trackName": "Pocket Academy 3",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6744878177,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6744878177",
+    "trackName": "Final Frontier Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6463115144,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6463115144",
+    "trackName": "TV Studio Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6477660875,
+    "region": "pt",
+    "timestamp": 1784456864120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6477660875",
+    "trackName": "High Sea Saga DX",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1587301632,
     "region": "pt",
     "timestamp": 1784449011192,
@@ -18930,7 +19090,7 @@
         "name": "Price",
         "from": "7,99 €",
         "to": "3,99 €",
-        "range": "[3,99 € ~ 7,99 €]"
+        "range": "[2,99 € ~ 7,99 €]"
       }
     ],
     "price": 3.99,
