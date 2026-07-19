@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1523633394,
+    "region": "tw",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$330.00",
+        "to": "$15.00",
+        "range": "[$15.00 ~ $330.00]"
+      }
+    ],
+    "price": 15,
+    "formattedPrice": "$15.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1523633394",
+    "trackName": "SpongeBob SquarePants",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1558052531,
+    "region": "tw",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "官方模型庫（年度）",
+        "from": "$120.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $120.00]"
+      }
+    ],
+    "price": 320,
+    "formattedPrice": "$320.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1558052531",
+    "trackName": "風光攝影助手Pro:風光攝影計劃好幫手",
+    "firstRecordedAt": 1757664952299
+  },
+  {
+    "trackId": 1604675493,
+    "region": "tw",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$290.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $320.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1604675493",
+    "trackName": "Descenders",
+    "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 6757846100,
+    "region": "tw",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$75.00",
+        "to": "$50.00",
+        "range": "[$50.00 ~ $75.00]"
+      }
+    ],
+    "price": 50,
+    "formattedPrice": "$50.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 454679700,
     "region": "tw",
     "timestamp": 1784466984969,
@@ -3000,7 +3080,7 @@
         "name": "Price",
         "from": "$320.00",
         "to": "$290.00",
-        "range": "[$290.00 ~ $320.00]"
+        "range": "[$150.00 ~ $320.00]"
       }
     ],
     "price": 290,
@@ -4155,7 +4235,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$60.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 60,
@@ -7478,7 +7558,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$60.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 60,
@@ -11881,7 +11961,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$60.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 60,
@@ -15534,7 +15614,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$150.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 150,
@@ -20119,7 +20199,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 30,
@@ -25645,7 +25725,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$150.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 150,
@@ -28628,7 +28708,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$150.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 150,
@@ -31974,7 +32054,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$150.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 150,
@@ -35306,7 +35386,7 @@
         "name": "Price",
         "from": "$290.00",
         "to": "$150.00",
-        "range": "[$30.00 ~ $330.00]"
+        "range": "[$15.00 ~ $330.00]"
       }
     ],
     "price": 150,

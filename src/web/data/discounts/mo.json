@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1523633394,
+    "region": "mo",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 0.39",
+        "range": "[USD 0.39 ~ USD 8.99]"
+      }
+    ],
+    "price": 0.39,
+    "formattedPrice": "USD 0.39",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1523633394",
+    "trackName": "SpongeBob SquarePants",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1558052531,
+    "region": "mo",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "官方模型庫（年度）",
+        "from": "USD 3.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 3.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1558052531",
+    "trackName": "風光攝影助手Pro:風光攝影計劃好幫手",
+    "firstRecordedAt": 1757664952299
+  },
+  {
+    "trackId": 1604675493,
+    "region": "mo",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 4.99",
+        "range": "[USD 4.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1604675493",
+    "trackName": "Descenders",
+    "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 6757846100,
+    "region": "mo",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 1.29",
+        "range": "[USD 1.29 ~ USD 1.99]"
+      }
+    ],
+    "price": 1.29,
+    "formattedPrice": "USD 1.29",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 454679700,
     "region": "mo",
     "timestamp": 1784466984969,
@@ -2876,7 +2956,7 @@
         "name": "Price",
         "from": "USD 9.99",
         "to": "USD 8.99",
-        "range": "[USD 8.99 ~ USD 9.99]"
+        "range": "[USD 4.99 ~ USD 9.99]"
       }
     ],
     "price": 8.99,
@@ -4099,7 +4179,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -7318,7 +7398,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -11662,7 +11742,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -15357,7 +15437,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -19752,7 +19832,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 0.9,
@@ -24711,7 +24791,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -27514,7 +27594,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -30305,7 +30385,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.99,
@@ -33452,7 +33532,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 8.99]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.99,

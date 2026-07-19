@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 1558052531,
+    "region": "cn",
+    "timestamp": 1784476657988,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "官方模型库（年度）",
+        "from": "¥28.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "官方模型库（月度）",
+        "from": "¥6.00",
+        "to": "¥1.00",
+        "range": "[¥1.00 ~ ¥6.00]"
+      }
+    ],
+    "price": 68,
+    "formattedPrice": "¥68.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1558052531",
+    "trackName": "风光摄影助手Pro:风光摄影计划好帮手",
+    "firstRecordedAt": 1757664952299
+  },
+  {
     "trackId": 1452113719,
     "region": "cn",
     "timestamp": 1784466984969,
