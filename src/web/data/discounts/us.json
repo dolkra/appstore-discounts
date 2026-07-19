@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1077134281,
+    "region": "us",
+    "timestamp": 1784440356843,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$4.99",
+        "range": "[$3.99 ~ $5.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1077134281",
+    "trackName": "Smart Metronome & Tuner +",
+    "firstRecordedAt": 1748379732727
+  },
+  {
+    "trackId": 1642364007,
+    "region": "us",
+    "timestamp": 1784440356843,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642364007",
+    "trackName": "Altitude Compass",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 1551273147,
     "region": "us",
     "timestamp": 1784428776416,

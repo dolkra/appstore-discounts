@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1077134281,
+    "region": "pt",
+    "timestamp": 1784440356843,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "5,99 €",
+        "range": "[3,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1077134281",
+    "trackName": "Smart Metronome & Tuner +",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1642364007,
+    "region": "pt",
+    "timestamp": 1784440356843,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1642364007",
+    "trackName": "海拔指南针-水印相机",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1551273147,
     "region": "pt",
     "timestamp": 1784428776416,
