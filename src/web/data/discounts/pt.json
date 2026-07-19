@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1523633394,
+    "region": "pt",
+    "timestamp": 1784497926240,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 9,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1523633394",
+    "trackName": "SpongeBob SquarePants: BfBB",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1558052531,
+    "region": "pt",
+    "timestamp": 1784497926240,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Official Model Library (Yearly)",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1558052531",
+    "trackName": "LandscapePhotographyHelper Pro",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1604675493,
+    "region": "pt",
+    "timestamp": 1784497926240,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1604675493",
+    "trackName": "Descenders",
+    "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 1642364007,
+    "region": "pt",
+    "timestamp": 1784497926240,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1642364007",
+    "trackName": "海拔指南针-水印相机",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6757846100,
+    "region": "pt",
+    "timestamp": 1784497926240,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 1452113719,
     "region": "pt",
     "timestamp": 1784466984969,
@@ -217,26 +317,6 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1077134281",
     "trackName": "Smart Metronome & Tuner +",
-    "firstRecordedAt": 1761797674362
-  },
-  {
-    "trackId": 1642364007,
-    "region": "pt",
-    "timestamp": 1784440356843,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "0,99 €",
-        "to": "Gratuito",
-        "range": "[Gratuito ~ 0,99 €]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Gratuito",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id1642364007",
-    "trackName": "海拔指南针-水印相机",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -3965,7 +4045,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "1,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 1.99,
@@ -7285,7 +7365,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "1,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 1.99,
@@ -11457,7 +11537,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "1,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 1.99,
@@ -15118,7 +15198,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "4,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 4.99,
@@ -19330,7 +19410,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 0.99,
