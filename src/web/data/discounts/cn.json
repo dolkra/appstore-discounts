@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1551273147,
+    "region": "cn",
+    "timestamp": 1784428776416,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥15.00",
+        "to": "¥3.00",
+        "range": "[¥3.00 ~ ¥15.00]"
+      }
+    ],
+    "price": 3,
+    "formattedPrice": "¥3.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1551273147",
+    "trackName": "Otter - 饮食日记",
+    "firstRecordedAt": 1750605098690
+  },
+  {
     "trackId": 6471594918,
     "region": "cn",
     "timestamp": 1784352341835,
@@ -7936,7 +7956,7 @@
         "name": "Price",
         "from": "¥15.00",
         "to": "¥8.00",
-        "range": "[¥8.00 ~ ¥15.00]"
+        "range": "[¥3.00 ~ ¥15.00]"
       }
     ],
     "price": 8,
