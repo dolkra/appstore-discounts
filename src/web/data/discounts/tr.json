@@ -1,5 +1,185 @@
 [
   {
+    "trackId": 454679700,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id454679700",
+    "trackName": "Mega Mall Story",
+    "firstRecordedAt": 1750245088537
+  },
+  {
+    "trackId": 456976375,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id456976375",
+    "trackName": "Grand Prix Story",
+    "firstRecordedAt": 1755454618016
+  },
+  {
+    "trackId": 1452113719,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "₺99,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1452113719",
+    "trackName": "Civilopedia",
+    "firstRecordedAt": 1767256663423
+  },
+  {
+    "trackId": 1538900393,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1538900393",
+    "trackName": "Boxing Gym Story",
+    "firstRecordedAt": 1745634497549
+  },
+  {
+    "trackId": 1575192531,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺199,99",
+        "range": "[₺129,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1575192531",
+    "trackName": "Dream Park Story",
+    "firstRecordedAt": 1745406133842
+  },
+  {
+    "trackId": 1623111026,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺299,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺299,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1623111026",
+    "trackName": "Pocket Academy 3",
+    "firstRecordedAt": 1745658131479
+  },
+  {
+    "trackId": 6477660875,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6477660875",
+    "trackName": "High Sea Saga DX",
+    "firstRecordedAt": 1745406133842
+  },
+  {
+    "trackId": 6463115144,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6463115144",
+    "trackName": "TV Studio Story",
+    "firstRecordedAt": 1745492532710
+  },
+  {
+    "trackId": 6744878177,
+    "region": "tr",
+    "timestamp": 1784466984969,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺199,99",
+        "range": "[₺199,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 199.99,
+    "formattedPrice": "₺199,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6744878177",
+    "trackName": "Final Frontier Story",
+    "firstRecordedAt": 1753917208479
+  },
+  {
     "trackId": 1587301632,
     "region": "tr",
     "timestamp": 1784449011192,
@@ -149,7 +329,7 @@
         "name": "Price",
         "from": "₺9,99",
         "to": "Free",
-        "range": "[Free ~ ₺9,99]"
+        "range": "[Free ~ ₺399,99]"
       }
     ],
     "price": 0,
@@ -20440,7 +20620,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "₺199,99",
-        "range": "[₺199,99 ~ ₺399,99]"
+        "range": "[₺149,99 ~ ₺399,99]"
       }
     ],
     "price": 199.99,

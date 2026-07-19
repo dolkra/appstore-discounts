@@ -62827,6 +62827,16 @@
     "history": [
       [
         {
+          "timestamp": 1784466984969,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Premium": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783962732921,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -78068,6 +78078,25 @@
       "Winter Holidays Bundle": "6,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784466984969,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Winter Holidays Bundle": "6,49 €",
+            "Festive Bundle": "9,99 €",
+            "Generations: 90s Bundle": "6,49 €",
+            "Pop Culture Bundle": "6,49 €",
+            "Welcome Offer": "9,99 €",
+            "Pop Culture Mix Pack 1": "1,99 €",
+            "Generations 90s Mix Pack 1": "1,99 €",
+            "Pop Culture Mix Pack 2": "1,99 €",
+            "Mystery Mix Pack 18": "1,99 €",
+            "Generations 90s Mix Pack 2": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783806554521,
@@ -107899,14 +107928,22 @@
   "6471594918": {
     "name": "Just a Simple Image Converter",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784466984969,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784352341835,
