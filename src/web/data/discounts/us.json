@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1523633394,
+    "region": "us",
+    "timestamp": 1784516027314,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $10.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1523633394",
+    "trackName": "SpongeBob SquarePants",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1558052531,
+    "region": "us",
+    "timestamp": 1784516027314,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Official Model Library (Yearly)",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1558052531",
+    "trackName": "LandscapePhotographyHelper Pro",
+    "firstRecordedAt": 1757664952299
+  },
+  {
+    "trackId": 1604675493,
+    "region": "us",
+    "timestamp": 1784516027314,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $9.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1604675493",
+    "trackName": "Descenders",
+    "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 1642364007,
+    "region": "us",
+    "timestamp": 1784516027314,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642364007",
+    "trackName": "Altitude Compass",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6757846100,
+    "region": "us",
+    "timestamp": 1784516027314,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.49",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6757846100",
+    "trackName": "This Aint Even Poker, Ya Joker",
+    "firstRecordedAt": 1781993190082
+  },
+  {
     "trackId": 454679700,
     "region": "us",
     "timestamp": 1784466984969,
@@ -218,26 +318,6 @@
     "trackViewUrl": "https://apps.apple.com/us/app/id1077134281",
     "trackName": "Smart Metronome & Tuner +",
     "firstRecordedAt": 1748379732727
-  },
-  {
-    "trackId": 1642364007,
-    "region": "us",
-    "timestamp": 1784440356843,
-    "discounts": [
-      {
-        "type": "price",
-        "name": "Price",
-        "from": "$0.99",
-        "to": "Free",
-        "range": "[Free ~ $0.99]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "Free",
-    "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id1642364007",
-    "trackName": "Altitude Compass",
-    "firstRecordedAt": 1721960142187
   },
   {
     "trackId": 1551273147,
@@ -2802,7 +2882,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$8.99",
-        "range": "[$8.99 ~ $9.99]"
+        "range": "[$4.99 ~ $9.99]"
       }
     ],
     "price": 8.99,
@@ -2862,7 +2942,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$2.49",
-        "range": "[$2.49 ~ $2.99]"
+        "range": "[$1.99 ~ $2.99]"
       }
     ],
     "price": 2.49,
@@ -4056,7 +4136,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 1.99,
@@ -7475,7 +7555,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 1.99,
@@ -11768,7 +11848,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$1.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 1.99,
@@ -15609,7 +15689,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 4.99,
@@ -20106,7 +20186,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$0.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 0.99,
@@ -25341,7 +25421,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 4.99,
@@ -28493,7 +28573,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 4.99,
@@ -31624,7 +31704,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 4.99,
@@ -35127,7 +35207,7 @@
         "name": "Price",
         "from": "$9.99",
         "to": "$4.99",
-        "range": "[$0.99 ~ $10.99]"
+        "range": "[$0.49 ~ $10.99]"
       }
     ],
     "price": 4.99,
