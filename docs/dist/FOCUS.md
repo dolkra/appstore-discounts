@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2145` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2147` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2147|6474194438|Automatic|❌|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|
+|2146|6789323764|Automatic|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
 |2145|354897032|Automatic|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|Verbos em Francês (Mais)|
 |2144|385464568|Automatic|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|Verbos em Alemães (Mais)|
 |2143|523503182|Automatic|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Verbi Portoghese (Più)|
@@ -155,7 +157,7 @@ So far, we've covered `7` `Countries or Regions` and  `2145` `Apps` <br />Push n
 |2000|1558620021|Automatic|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|
 |1999|1043877923|Automatic|❌|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|Shoes Clothing Store Master|Shoes Clothing Store Master|Shoes Clothing Store Master|
 |1998|982717032|Automatic|生意记账DailySales - 进销存管理系统多仓库盘点|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|
-|1997|6745770352|Automatic|Not Dizzy 不晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|Not Dizzy 不晕车|
+|1997|6745770352|Automatic|Not Dizzy 不晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|声波防晕车|
 |1996|6756866511|Automatic|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|
 |1995|6748056918|Automatic|❌|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|
 |1994|6767835460|Automatic|❌|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|
