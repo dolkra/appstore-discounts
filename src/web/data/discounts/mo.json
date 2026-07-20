@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1551273147,
+    "region": "mo",
+    "timestamp": 1784547878072,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1551273147",
+    "trackName": "Otter - Food & Meal Diary",
+    "firstRecordedAt": 1750605098690
+  },
+  {
+    "trackId": 1592505377,
+    "region": "mo",
+    "timestamp": 1784547878072,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.79",
+        "to": "USD 0.39",
+        "range": "[USD 0.39 ~ USD 7.79]"
+      }
+    ],
+    "price": 0.39,
+    "formattedPrice": "USD 0.39",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1523633394,
     "region": "mo",
     "timestamp": 1784476657988,
@@ -329,7 +369,7 @@
         "name": "Price",
         "from": "USD 1.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 1.99]"
+        "range": "[免費 ~ USD 1.99]"
       }
     ],
     "price": 0.99,
@@ -2716,7 +2756,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 2.49,
@@ -6876,7 +6916,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 2.49,
@@ -10219,7 +10259,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 2.49,
@@ -14494,7 +14534,7 @@
         "name": "Price",
         "from": "USD 1.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 1.99]"
+        "range": "[免費 ~ USD 1.99]"
       }
     ],
     "price": 0.99,
@@ -14695,7 +14735,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.19",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 3.19,
@@ -17718,7 +17758,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 0.9,
@@ -21986,7 +22026,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 1.39,
@@ -26588,7 +26628,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.19",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 3.19,
@@ -28949,7 +28989,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.19",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 3.19,
@@ -32049,7 +32089,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 1.39,
@@ -35129,7 +35169,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.90 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 7.79]"
       }
     ],
     "price": 3.99,

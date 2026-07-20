@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1592505377,
+    "region": "pt",
+    "timestamp": 1784547878072,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 9,99 €]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "0,49 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1551273147,
     "region": "pt",
     "timestamp": 1784528281752,
@@ -2637,7 +2657,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "2,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 2.99,
@@ -6802,7 +6822,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "2,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 2.99,
@@ -10168,7 +10188,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "2,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 2.99,
@@ -14541,7 +14561,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "3,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 3.99,
@@ -17194,7 +17214,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 0.99,
@@ -21776,7 +21796,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "1,99 €",
-        "range": "[0,99 € ~ 9,99 €]"
+        "range": "[0,49 € ~ 9,99 €]"
       }
     ],
     "price": 1.99,
