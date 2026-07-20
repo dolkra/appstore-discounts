@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1551273147,
+    "region": "tr",
+    "timestamp": 1784528281752,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1551273147",
+    "trackName": "Otter - Food & Meal Diary",
+    "firstRecordedAt": 1750605098690
+  },
+  {
     "trackId": 1523633394,
     "region": "tr",
     "timestamp": 1784516027314,
@@ -356,7 +376,7 @@
         "name": "Price",
         "from": "₺99,99",
         "to": "₺49,99",
-        "range": "[₺39,99 ~ ₺99,99]"
+        "range": "[Free ~ ₺99,99]"
       }
     ],
     "price": 49.99,
@@ -15191,7 +15211,7 @@
         "name": "Price",
         "from": "₺99,99",
         "to": "₺49,99",
-        "range": "[₺39,99 ~ ₺99,99]"
+        "range": "[Free ~ ₺99,99]"
       }
     ],
     "price": 49.99,

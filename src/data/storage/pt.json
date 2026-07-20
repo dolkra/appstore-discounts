@@ -8745,6 +8745,23 @@
     "history": [
       [
         {
+          "timestamp": 1784528281752,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "3,99 €",
+            "Child Report - Full": "3,99 €",
+            "Predictive Report - Full": "3,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Birthday Report": "3,99 €",
+            "Gold Monthly": "8,99 €",
+            "Relationship Report": "3,99 €",
+            "Predictive Report - No Background": "2,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Astrolocality Maps": "29,99 €"
+          }
+        },
+        {
           "timestamp": 1784516027314,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -75820,10 +75837,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784528281752,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784428776416,
@@ -97654,6 +97679,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784528281752,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A319": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 737-900": "1,99 €",
+            "Boeing 777F": "1,99 €",
+            "The Aircraft Bundle": "24,99 €",
+            "Airbus A321": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784341580677,

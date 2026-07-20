@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1551273147,
+    "region": "pt",
+    "timestamp": 1784528281752,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1551273147",
+    "trackName": "Otter - Food & Meal Diary",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1523633394,
     "region": "pt",
     "timestamp": 1784497926240,
@@ -329,7 +349,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 1,99 €]"
+        "range": "[Gratuito ~ 1,99 €]"
       }
     ],
     "price": 0.99,
@@ -14320,7 +14340,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 1,99 €]"
+        "range": "[Gratuito ~ 1,99 €]"
       }
     ],
     "price": 0.99,
