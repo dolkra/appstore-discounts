@@ -157,7 +157,7 @@
 |2000|1558620021|自动|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|Munda Biddi Trail Guide|
 |1999|1043877923|自动|❌|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|服裝進銷存管理 ClothingStore - 生意記帳工具|Shoes Clothing Store Master|Shoes Clothing Store Master|Shoes Clothing Store Master|
 |1998|982717032|自动|生意记账DailySales - 进销存管理系统多仓库盘点|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|生意記帳Daily Sales - 進銷存管理系統多倉庫盤點|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|Daily Sales Tracker-Inventory|
-|1997|6745770352|自动|Not Dizzy 不晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|声波防晕车|
+|1997|6745770352|自动|声波防晕车|聲波防暈車|聲波防暈車|聲波防暈車|Not Dizzy: Motion Sickness|Not Dizzy: Motion Sickness|声波防晕车|
 |1996|6756866511|自动|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|IIWII|
 |1995|6748056918|自动|❌|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|Farming Simulator 26 Mobile|
 |1994|6767835460|自动|❌|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|Pompacı Simülatör|
