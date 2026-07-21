@@ -87113,6 +87113,27 @@
       ]
     ]
   },
+  "1625083646": {
+    "name": "Endling",
+    "maxPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "minPriceInfo": {
+      "price": 0.29,
+      "formattedPrice": "0,29 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784661653349,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1625289361": {
     "name": "AirBasketball - AuditoryAR",
     "maxPriceInfo": {
@@ -108593,6 +108614,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784661653349,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784476657988,
