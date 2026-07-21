@@ -192,7 +192,7 @@ So far, we've covered `7` `Countries or Regions` and  `2152` `Apps` <br />Push n
 |1970|6447488668|Automatic|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|
 |1969|6760114671|Automatic|❌|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|
 |1968|441142802|Automatic|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|
-|1967|6496282733|Automatic|❌|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|
+|1967|6496282733|Automatic|❌|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu|
 |1966|6747752407|Automatic|❌|Gambonanza|Gambonanza|Gambonanza|Gambonanza|Gambonanza|Gambonanza|
 |1965|6765511365|Automatic|许愿24小时：倒计时你的愿望|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|
 |1964|6760909640|Automatic|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|

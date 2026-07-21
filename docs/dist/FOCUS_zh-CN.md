@@ -192,7 +192,7 @@
 |1970|6447488668|自动|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|Basic Cantonese Phrases|
 |1969|6760114671|自动|❌|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|Internet Speed Limiter|
 |1968|441142802|自动|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|Bass Modes Symmetry School|
-|1967|6496282733|自动|❌|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|
+|1967|6496282733|自动|❌|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu - Watch Emulator|ArcEmu|
 |1966|6747752407|自动|❌|Gambonanza|Gambonanza|Gambonanza|Gambonanza|Gambonanza|Gambonanza|
 |1965|6765511365|自动|许愿24小时：倒计时你的愿望|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|24 Hour Wish: Reach Wish Timer|
 |1964|6760909640|自动|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|MultiDraw - Predict Anything|
