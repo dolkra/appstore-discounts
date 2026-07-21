@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1630887189,
+    "region": "mo",
+    "timestamp": 1784641710311,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 2.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "USD 2.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1630887189",
+    "trackName": "20 Minutes Till Dawn",
+    "firstRecordedAt": 1773607101601
+  },
+  {
+    "trackId": 6747655400,
+    "region": "mo",
+    "timestamp": 1784641710311,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 6.99",
+        "to": "USD 4.99",
+        "range": "[USD 4.99 ~ USD 6.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6747655400",
+    "trackName": "RPGEmu for RPG Maker MV/MZ/XP",
+    "firstRecordedAt": 1784632071349
+  },
+  {
     "trackId": 1642139491,
     "region": "mo",
     "timestamp": 1784622451151,
