@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2147` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2148` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2148|6779676299|Automatic|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|
 |2147|6474194438|Automatic|❌|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|
 |2146|6789323764|Automatic|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
 |2145|354897032|Automatic|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|Verbos em Francês (Mais)|
@@ -124,7 +125,7 @@ So far, we've covered `7` `Countries or Regions` and  `2147` `Apps` <br />Push n
 |2033|6745230519|Automatic|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
 |2032|6759642128|Automatic|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|
 |2031|6762921522|Automatic|计分器-多人对局|計分器-多人對局|計分器-多人對局|計分器-多人對局|Game Scorer Round Tracker|Game Scorer Round Tracker|计分器-多人对局|
-|2030|6751319443|Automatic|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|Poker Math: Odds & EV Trainer|
+|2030|6751319443|Automatic|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|
 |2029|1509500916|Automatic|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
 |2028|6482984389|Automatic|❌|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|Simple Match 3|
 |2027|6772549927|Automatic|❌|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|汉字拆字大师|
