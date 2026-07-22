@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6789630173,
+      "name": {
+        "tr": "Gece Taksisi"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 1625083646,
       "name": {
         "pt": "Endling"
