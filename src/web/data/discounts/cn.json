@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1446399911,
+    "region": "cn",
+    "timestamp": 1784737170828,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥3.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥3.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1446399911",
+    "trackName": "指尖轮盘 - 有趣的手指转盘决定器",
+    "firstRecordedAt": 1768688804391
+  },
+  {
     "trackId": 6747655400,
     "region": "cn",
     "timestamp": 1784641710311,
@@ -6485,7 +6505,7 @@
         "name": "Price",
         "from": "¥3.00",
         "to": "¥1.00",
-        "range": "[¥1.00 ~ ¥3.00]"
+        "range": "[免费 ~ ¥3.00]"
       }
     ],
     "price": 1,
