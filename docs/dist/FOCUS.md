@@ -1385,7 +1385,7 @@ So far, we've covered `7` `Countries or Regions` and  `2153` `Apps` <br />Push n
 |778|1448798374|Automatic|❌|CAR++|CAR++|CAR++|CAR++|CAR++|CAR++|
 |777|1450908177|Automatic|❌|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|Shadow Of Death: Premium Games|
 |776|1509817154|Automatic|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|某某宗女修修炼手札|
-|775|1513814705|Automatic|计算器键盘 - 快人一步|計算器鍵盤 - 快人一步|計算機鍵盤 - 快人一步|計算機鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|CalculatorKB|
+|775|1513814705|Automatic|计算器键盘 - 快人一步|計算機鍵盤 - 快人一步|計算機鍵盤 - 快人一步|計算機鍵盤 - 快人一步|Calculator Keyboard - Faster|Calculator Keyboard - Faster|CalculatorKB|
 |774|1543183092|Automatic|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|YKS Konu, Deneme, Soru Takibi|
 |773|6744311159|Automatic|魔王终局|❌|❌|❌|❌|❌|❌|
 |772|6740014272|Automatic|水果合成 - 手表游戏|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|Fruit Merge - Watch Game|
