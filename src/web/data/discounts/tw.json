@@ -1,5 +1,125 @@
 [
   {
+    "trackId": 983143183,
+    "region": "tw",
+    "timestamp": 1784728313823,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id983143183",
+    "trackName": "夢幻怪獸",
+    "firstRecordedAt": 1746847016133
+  },
+  {
+    "trackId": 994157520,
+    "region": "tw",
+    "timestamp": 1784728313823,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$33.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id994157520",
+    "trackName": "1942 Pacific Front Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1446399911,
+    "region": "tw",
+    "timestamp": 1784728313823,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$15.00",
+        "to": "免費",
+        "range": "[免費 ~ $20.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1446399911",
+    "trackName": "指尖輪盤 - 有趣的手指轉盤決定器",
+    "firstRecordedAt": 1768688804391
+  },
+  {
+    "trackId": 1571643809,
+    "region": "tw",
+    "timestamp": 1784728313823,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1571643809",
+    "trackName": "地城謎蹤",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 6748572801,
+    "region": "tw",
+    "timestamp": 1784728313823,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$60.00 ~ $190.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6748572801",
+    "trackName": "首爾驅魔人1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
+    "trackId": 6744179489,
+    "region": "tw",
+    "timestamp": 1784728313823,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $60.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6744179489",
+    "trackName": "Referee Simulator : Football",
+    "firstRecordedAt": 1770211011846
+  },
+  {
     "trackId": 6471594918,
     "region": "tw",
     "timestamp": 1784671382142,
@@ -11941,7 +12061,7 @@
         "name": "Price",
         "from": "$15.00",
         "to": "$10.00",
-        "range": "[$10.00 ~ $20.00]"
+        "range": "[免費 ~ $20.00]"
       }
     ],
     "price": 10,
@@ -12362,7 +12482,7 @@
         "name": "Price",
         "from": "$20.00",
         "to": "$15.00",
-        "range": "[$10.00 ~ $20.00]"
+        "range": "[免費 ~ $20.00]"
       }
     ],
     "price": 15,

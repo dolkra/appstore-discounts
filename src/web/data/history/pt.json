@@ -9131,6 +9131,25 @@
     "history": [
       [
         {
+          "timestamp": 1784728313823,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Gold Annual": "44,99 €",
+            "Gold Monthly": "8,99 €",
+            "Gold Level lifetime": "79,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Lunar Return Report": "3,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Astrolocality Maps": "29,99 €",
+            "The Big Three Report": "3,99 €",
+            "Relationship Report": "3,99 €",
+            "Predictive Report - Untimed": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784528281752,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -54075,6 +54094,25 @@
       "SF2SEPack15": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784728313823,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "SF2SEPack25": "29,99 €",
+            "SF2SEPack21": "22,99 €",
+            "SF2SEPack18": "19,99 €",
+            "SF2SEPack30": "34,99 €",
+            "SF2SEPack13": "14,99 €",
+            "SF2SEPack12": "12,99 €",
+            "SF2SEPack14": "14,99 €",
+            "SF2SEPack05": "0,49 €",
+            "SF2SEPack11": "11,99 €",
+            "SF2SEPack15": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783538681371,
@@ -118316,10 +118354,18 @@
       "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784728313823,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770211011846,
@@ -124579,6 +124625,29 @@
           "timestamp": 1784650975566,
           "price": 0.49,
           "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748762897": {
+    "trackId": 6748762897,
+    "trackName": "拍照躲猫猫",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784728313823,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]
