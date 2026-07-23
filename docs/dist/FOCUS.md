@@ -1006,7 +1006,7 @@ So far, we've covered `7` `Countries or Regions` and  `2156` `Apps` <br />Push n
 |1160|6449233549|Automatic|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
 |1159|6745474000|Automatic|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|
 |1158| ~~567533074~~ |Automatic| ~~❌~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~❌~~ |
-|1157|1661136258|Automatic|❌|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|
+|1157|1661136258|Automatic|❌|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|
 |1156|344919689|Automatic|❌|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|
 |1155|928407252|Automatic|粤语字典专业版|粵語字典專業版|粵語字典專業版|粵語字典專業版|Cantonese/Yuet Dictionary Pro|Cantonese/Yuet Dictionary Pro|粵語字典專業版|
 |1154|1039733201|Automatic|生命 - LIFE|生命 - LIFE|生命 - LIFE|生命 - LIFE|LIFE by THIX|LIFE by THIX|LIFE by THIX|

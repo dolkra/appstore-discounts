@@ -7819,6 +7819,25 @@
     "history": [
       [
         {
+          "timestamp": 1784786019188,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "7,99 €",
+            "Extreme Map Pack": "1,99 €",
+            "Crystal Ball": "0,99 €",
+            "Dreadnought": "0,99 €",
+            "Digital Amplification": "0,99 €",
+            "Frag Bombs": "0,99 €",
+            "Monkey Tycoon": "0,99 €",
+            "Double Ranga": "1,99 €",
+            "Explosive Darts": "1,99 €",
+            "Healthy Bananas": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782503258830,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -46516,6 +46535,23 @@
     "history": [
       [
         {
+          "timestamp": 1784786019188,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "0,99 €",
+            "Get tips about this mysterious stone": "0,99 €",
+            "Get tips about the diamond pyramid": "0,99 €",
+            "Purchase game": "0,99 €",
+            "Props Tip: Temple corner": "0,99 €",
+            "Props Tip: Pyramid": "0,99 €",
+            "Props Tip: flower": "0,99 €",
+            "Get tips on holographic camera": "0,99 €",
+            "Get tips about two weeks mesh box factory eye": "0,99 €",
+            "Get tips about the triangle blocks (1-6)": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1784774460939,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -53911,6 +53947,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1784786019188,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "9 Characters": "39,99 €",
+            "CAPSO": "9,99 €",
+            "ConneR": "9,99 €",
+            "Aroma": "9,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "9,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "9,99 €"
+          }
+        },
         {
           "timestamp": 1784774460939,
           "price": 1.99,
@@ -72777,10 +72830,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784786019188,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -89969,7 +90030,7 @@
     ]
   },
   "1661136258": {
-    "name": "Minifigures Tracker",
+    "name": "Minifigures Scan & Track",
     "maxPriceInfo": {
       "price": 2.99,
       "formattedPrice": "2,99 €",

@@ -1006,7 +1006,7 @@
 |1160|6449233549|自动|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
 |1159|6745474000|自动|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|
 |1158| ~~567533074~~ |自动| ~~❌~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~❌~~ |
-|1157|1661136258|自动|❌|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|
+|1157|1661136258|自动|❌|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|
 |1156|344919689|自动|❌|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|
 |1155|928407252|自动|粤语字典专业版|粵語字典專業版|粵語字典專業版|粵語字典專業版|Cantonese/Yuet Dictionary Pro|Cantonese/Yuet Dictionary Pro|粵語字典專業版|
 |1154|1039733201|自动|生命 - LIFE|生命 - LIFE|生命 - LIFE|生命 - LIFE|LIFE by THIX|LIFE by THIX|LIFE by THIX|
