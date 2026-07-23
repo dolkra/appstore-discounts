@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1330717186,
+    "region": "tr",
+    "timestamp": 1784844203152,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1330717186",
+    "trackName": "The Golf Tracer",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1672164496,
+    "region": "tr",
+    "timestamp": 1784844203152,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1672164496",
+    "trackName": "Roundguard",
+    "firstRecordedAt": 1766840013092
+  },
+  {
     "trackId": 730712409,
     "region": "tr",
     "timestamp": 1784834170602,

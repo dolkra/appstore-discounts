@@ -93499,6 +93499,14 @@
     "history": [
       [
         {
+          "timestamp": 1784844203152,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1781823364683,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -93733,7 +93741,8 @@
       "终身会员": "22,99 €",
       "Liftetime": "22,99 €",
       "年订阅": "9,99 €",
-      "月订阅": "6,99 €"
+      "月订阅": "6,99 €",
+      "Lifetime": "14,99 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -93741,9 +93750,23 @@
       "终身会员": "22,99 €",
       "Liftetime": "17,99 €",
       "年订阅": "5,99 €",
-      "月订阅": "6,99 €"
+      "月订阅": "6,99 €",
+      "Lifetime": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784844203152,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Lifetime": "14,99 €",
+            "Liftetime": "17,99 €",
+            "年订阅": "9,99 €",
+            "月订阅": "6,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781303116070,
@@ -124652,14 +124675,22 @@
     "trackName": "消防處投考全攻略",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "12,99 €"
+      "price": 17.99,
+      "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784844203152,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783824196340,
