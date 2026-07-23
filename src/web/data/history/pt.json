@@ -29208,8 +29208,8 @@
       "Time Lapse em 8K Max": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "9,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "ZERO: Captura direta do sensor": "0,00 €",
       "Vídeo em 4K Ultra HD": "5,99 €",
       "A Coleção Master": "1,99 €",
@@ -29221,6 +29221,24 @@
       "Time Lapse em 8K Max": "5,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784834170602,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "ZERO: Captura direta do sensor": "0,00 €",
+            "Vídeo em 4K Ultra HD": "5,99 €",
+            "A Coleção Master": "1,99 €",
+            "Time Lapse em 4K Ultra HD": "2,99 €",
+            "IA Espacial": "0,00 €",
+            "A Coleção Urbano": "0,99 €",
+            "A Coleção Elemental": "0,99 €",
+            "Ações para Conjuntos de Fotos": "0,00 €",
+            "Time Lapse em 8K Max": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -59105,13 +59123,25 @@
       "Golf Tracer Premium - Monthly": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Golf Tracer All Access": "5,99 €",
       "Golf Tracer Premium - Yearly": "5,99 €",
       "Golf Tracer Premium - Monthly": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784834170602,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Golf Tracer All Access": "5,99 €",
+            "Golf Tracer Premium - Yearly": "5,99 €",
+            "Golf Tracer Premium - Monthly": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768502871901,
@@ -78788,7 +78818,7 @@
   },
   "1551273147": {
     "trackId": 1551273147,
-    "trackName": "Otter - Food & Meal Diary",
+    "trackName": "Otter: Photo Food Diary",
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
