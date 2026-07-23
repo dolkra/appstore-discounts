@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2156` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2157` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2157|6785550835|自动|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|自动|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|
 |2155|6743408614|自动|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF Snap–Compress PDF|PDF Snap–Compress PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|
 |2154|6748762897|自动|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|
@@ -1006,7 +1007,7 @@
 |1160|6449233549|自动|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
 |1159|6745474000|自动|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|
 |1158| ~~567533074~~ |自动| ~~❌~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~❌~~ |
-|1157|1661136258|自动|❌|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|
+|1157|1661136258|自动|❌|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|
 |1156|344919689|自动|❌|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|
 |1155|928407252|自动|粤语字典专业版|粵語字典專業版|粵語字典專業版|粵語字典專業版|Cantonese/Yuet Dictionary Pro|Cantonese/Yuet Dictionary Pro|粵語字典專業版|
 |1154|1039733201|自动|生命 - LIFE|生命 - LIFE|生命 - LIFE|生命 - LIFE|LIFE by THIX|LIFE by THIX|LIFE by THIX|

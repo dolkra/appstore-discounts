@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2156` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2157` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2157|6785550835|Automatic|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|Automatic|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|
 |2155|6743408614|Automatic|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF Snap–Compress PDF|PDF Snap–Compress PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|
 |2154|6748762897|Automatic|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|
@@ -1006,7 +1007,7 @@ So far, we've covered `7` `Countries or Regions` and  `2156` `Apps` <br />Push n
 |1160|6449233549|Automatic|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
 |1159|6745474000|Automatic|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|
 |1158| ~~567533074~~ |Automatic| ~~❌~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~❌~~ |
-|1157|1661136258|Automatic|❌|Minifigures Tracker|Minifigures Tracker|Minifigures Tracker|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|
+|1157|1661136258|Automatic|❌|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|
 |1156|344919689|Automatic|❌|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|
 |1155|928407252|Automatic|粤语字典专业版|粵語字典專業版|粵語字典專業版|粵語字典專業版|Cantonese/Yuet Dictionary Pro|Cantonese/Yuet Dictionary Pro|粵語字典專業版|
 |1154|1039733201|Automatic|生命 - LIFE|生命 - LIFE|生命 - LIFE|生命 - LIFE|LIFE by THIX|LIFE by THIX|LIFE by THIX|
