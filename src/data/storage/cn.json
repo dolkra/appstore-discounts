@@ -197250,6 +197250,25 @@
     "history": [
       [
         {
+          "timestamp": 1784930640340,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "扩充章节 U": "¥28.00",
+            "限时挑战书  堕落回响": "¥21.00",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "里莫的秘密书房: 白金方案": "¥28.80",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "调律计划：PinocchioP精选辑": "¥28.00",
+            "扩充章节 X": "¥28.00",
+            "里莫的秘密书房: 基本方案": "¥4.80",
+            "扩充章节 Y": "¥28.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784881603460,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -212715,6 +212734,27 @@
           "timestamp": 1784860637377,
           "price": 3,
           "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6787737491": {
+    "name": "ProCam MK II - 专业摄影相机",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "¥68.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784930640340,
+          "price": 68,
+          "formattedPrice": "¥68.00",
           "inAppPurchases": {}
         }
       ]
