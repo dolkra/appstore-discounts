@@ -1,5 +1,121 @@
 [
   {
+    "trackId": 6550914957,
+    "region": "cn",
+    "timestamp": 1784860637377,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥9.00 ~ ¥18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：英雄对决",
+        "from": "¥8.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥8.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：怪物联盟",
+        "from": "¥12.00",
+        "to": "¥9.00",
+        "range": "[¥9.00 ~ ¥12.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：龙之神庙",
+        "from": "¥9.00",
+        "to": "¥7.00",
+        "range": "[¥7.00 ~ ¥9.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：贪婪洞窟",
+        "from": "¥6.00",
+        "to": "¥4.00",
+        "range": "[¥4.00 ~ ¥6.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：异界",
+        "from": "¥8.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥8.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：外星入侵",
+        "from": "¥8.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥8.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：魔法之镜",
+        "from": "¥5.00",
+        "to": "¥2.00",
+        "range": "[¥2.00 ~ ¥6.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "DLC：邪恶之心",
+        "from": "¥12.00",
+        "to": "¥9.00",
+        "range": "[¥9.00 ~ ¥12.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6550914957",
+    "trackName": "打造世界-经典沙盒建造",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6633427774,
+    "region": "cn",
+    "timestamp": 1784860637377,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥18.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥18.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6633427774",
+    "trackName": "为了吾王-多人联机策略跑团",
+    "firstRecordedAt": 1759133934950
+  },
+  {
+    "trackId": 6749369705,
+    "region": "cn",
+    "timestamp": 1784860637377,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥29.00",
+        "to": "¥26.00",
+        "range": "[¥24.00 ~ ¥36.00]"
+      }
+    ],
+    "price": 26,
+    "formattedPrice": "¥26.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6749369705",
+    "trackName": "沙石镇时光",
+    "firstRecordedAt": 1770345791146
+  },
+  {
     "trackId": 730712409,
     "region": "cn",
     "timestamp": 1784844203152,
@@ -1747,7 +1863,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥18.00]"
+        "range": "[¥12.00 ~ ¥18.00]"
       }
     ],
     "price": 15,
@@ -3884,7 +4000,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥18.00]"
+        "range": "[¥12.00 ~ ¥18.00]"
       }
     ],
     "price": 15,
@@ -6364,7 +6480,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥18.00]"
+        "range": "[¥12.00 ~ ¥18.00]"
       }
     ],
     "price": 15,
@@ -8068,7 +8184,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥18.00]"
+        "range": "[¥12.00 ~ ¥18.00]"
       }
     ],
     "price": 15,
@@ -9522,7 +9638,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥18.00]"
+        "range": "[¥12.00 ~ ¥18.00]"
       }
     ],
     "price": 15,
@@ -12042,7 +12158,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥18.00]"
+        "range": "[¥12.00 ~ ¥18.00]"
       }
     ],
     "price": 15,
@@ -12692,7 +12808,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥15.00",
-        "range": "[¥15.00 ~ ¥18.00]"
+        "range": "[¥12.00 ~ ¥18.00]"
       }
     ],
     "price": 15,
