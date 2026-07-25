@@ -215030,13 +215030,28 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 48,
-      "formattedPrice": "¥48.00"
+      "formattedPrice": "¥48.00",
+      "MZ Function": "¥0.00",
+      "XP Function": "¥0.00"
     },
     "minPriceInfo": {
       "price": 38,
-      "formattedPrice": "¥38.00"
+      "formattedPrice": "¥38.00",
+      "MZ Function": "¥0.00",
+      "XP Function": "¥0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784946927074,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "MZ Function": "¥0.00",
+            "XP Function": "¥0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784641710311,
@@ -215209,6 +215224,29 @@
           "timestamp": 1784930640340,
           "price": 68,
           "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792072690": {
+    "trackId": 6792072690,
+    "trackName": "班主任工作台",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 29.9,
+      "formattedPrice": "¥29.90"
+    },
+    "minPriceInfo": {
+      "price": 29.9,
+      "formattedPrice": "¥29.90"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784946927074,
+          "price": 29.9,
+          "formattedPrice": "¥29.90",
           "inAppPurchases": {}
         }
       ]

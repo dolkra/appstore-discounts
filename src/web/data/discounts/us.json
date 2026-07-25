@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "us",
+    "timestamp": 1784946927074,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.39 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 1644917705,
+    "region": "us",
+    "timestamp": 1784946927074,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1644917705",
+    "trackName": "Cyber Manhunt",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 6748885060,
     "region": "us",
     "timestamp": 1784900628957,

@@ -189719,13 +189719,28 @@
     "name": "RPGEmu for RPG Maker MV/MZ/XP",
     "maxPriceInfo": {
       "price": 6.99,
-      "formattedPrice": "USD 6.99"
+      "formattedPrice": "USD 6.99",
+      "XP Function": "USD 0.00",
+      "MZ Function": "USD 0.00"
     },
     "minPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "formattedPrice": "USD 4.99",
+      "XP Function": "USD 0.00",
+      "MZ Function": "USD 0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784946927074,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "XP Function": "USD 0.00",
+            "MZ Function": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784641710311,
