@@ -76991,6 +76991,27 @@
       ]
     ]
   },
+  "967376861": {
+    "name": "LeafSpy Pro",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "968820626": {
     "name": "Watch Tuner Lite",
     "maxPriceInfo": {
@@ -225105,6 +225126,25 @@
     "history": [
       [
         {
+          "timestamp": 1784995437022,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "120金磚": "HK$ 18.00",
+            "背包擴展": "HK$ 18.00",
+            "戰鬥獎勵雙倍": "HK$ 18.00",
+            "3280金磚": "HK$ 388.00",
+            "1280金磚": "HK$ 148.00",
+            "300金磚": "HK$ 38.00",
+            "980金磚": "HK$ 118.00",
+            "6480金磚": "HK$ 788.00",
+            "1980金磚": "HK$ 228.00",
+            "60金磚": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782935693344,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -264120,10 +264160,18 @@
       "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782051043626,
@@ -268142,6 +268190,14 @@
       "formattedPrice": "HK$ 32.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783796560187,

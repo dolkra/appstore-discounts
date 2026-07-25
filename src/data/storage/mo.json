@@ -31576,6 +31576,25 @@
     "history": [
       [
         {
+          "timestamp": 1784995437022,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Alien Chemistry": "USD 0.99",
+            "Atmospheric Interference": "USD 0.99",
+            "Void Signal": "USD 0.99",
+            "Brittle Lattice": "USD 0.99",
+            "Quantum Obfuscation": "USD 0.99",
+            "Synaptic Pulse": "USD 0.99",
+            "Lattice Shedding": "USD 0.99",
+            "Crystal Overclock": "USD 0.99",
+            "Magnetic Siphon": "USD 0.99",
+            "Harmonic Vibrations": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784881603460,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -61703,6 +61722,27 @@
             "Premium 6 months": "USD 2.49",
             "Premium 1 month": "USD 0.49"
           }
+        }
+      ]
+    ]
+  },
+  "967376861": {
+    "name": "LeafSpy Pro",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -132578,7 +132618,7 @@
     ]
   },
   "1551273147": {
-    "name": "Otter: Photo Food Diary",
+    "name": "Otter - 飲食日記",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
@@ -140674,6 +140714,25 @@
       "Retro Rammers Car Pack": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 0.39,
+          "formattedPrice": "USD 0.39",
+          "inAppPurchases": {
+            "Content Bundle 2": "USD 7.99",
+            "Reckless Car Pack": "USD 2.99",
+            "Off-Road Car Pack": "USD 2.99",
+            "Racing Heroes Car Pack": "USD 2.99",
+            "Steel & Wheels Pack": "USD 1.99",
+            "Goofy Roofs Pack": "USD 0.99",
+            "Getaway Car Pack": "USD 2.99",
+            "American All-Stars Car Pack": "USD 2.99",
+            "Rusty Rats Car Pack": "USD 2.99",
+            "Modified Monsters Car Pack": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784547878072,
@@ -180703,10 +180762,18 @@
       "formattedPrice": "USD 7.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782051043626,
@@ -184370,6 +184437,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783796560187,

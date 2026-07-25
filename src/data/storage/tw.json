@@ -2645,6 +2645,25 @@
     "history": [
       [
         {
+          "timestamp": 1784995437022,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "World Sweetener Pack": "$320.00",
+            "Steel Guitar Sweeteners": "$490.00",
+            "Orchestral Sweeteners": "$190.00",
+            "Misc Stringed Sweeteners": "$120.00",
+            "Keyboard Sweeteners": "$690.00",
+            "Harp Sweeteners": "$190.00",
+            "Harmonica Sweeteners": "$320.00",
+            "Guitar & Bass Sweeteners": "$190.00",
+            "Buzz Feiten Pack": "$190.00",
+            "Extended Frequency Modes": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1780459507532,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -77216,6 +77235,27 @@
             "Premium 12 months": "$140.00",
             "Premium 6 months": "$80.00"
           }
+        }
+      ]
+    ]
+  },
+  "967376861": {
+    "name": "LeafSpy Pro",
+    "maxPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "minPriceInfo": {
+      "price": 690,
+      "formattedPrice": "$690.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -178753,7 +178793,7 @@
     ]
   },
   "1551273147": {
-    "name": "Otter: Photo Food Diary",
+    "name": "Otter - 飲食日記",
     "maxPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"

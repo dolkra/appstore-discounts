@@ -82623,6 +82623,25 @@
     "history": [
       [
         {
+          "timestamp": 1784995437022,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "ThemeA0B0C1": "$0.00",
+            "ThemeA0B1C0": "$0.00",
+            "ThemeA1B0C0": "$0.00",
+            "ThemeA0B1C1": "$0.00",
+            "ThemeA1B0C1": "$0.00",
+            "ThemeA1B1C0": "$0.00",
+            "ThemeA2B0C0": "$0.00",
+            "主题大礼包": "$3.99",
+            "ThemeA2B0C1": "$3.99",
+            "ThemeA2B1C0": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783133544916,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -89626,6 +89645,27 @@
             "Mid donation": "$5.99",
             "Small donation": "$2.99"
           }
+        }
+      ]
+    ]
+  },
+  "967376861": {
+    "name": "LeafSpy Pro",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "$19.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -318262,6 +318302,25 @@
       "Underworld Pass 1": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Underworld Pass 1": "$2.99",
+            "Ark of Eternity": "$29.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Time Traveler": "$5.99",
+            "Essence of Transcendence": "$29.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Essence of the Abyss": "$19.99",
+            "Essence of Beginning": "$19.99",
+            "Beginning of the Abyss": "$9.99",
+            "Beginning of Growth": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784650975566,

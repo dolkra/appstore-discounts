@@ -48807,6 +48807,29 @@
       ]
     ]
   },
+  "967376861": {
+    "trackId": 967376861,
+    "trackName": "LeafSpy Pro",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "¥148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "968820626": {
     "trackId": 968820626,
     "trackName": "Watch Tuner Lite",
@@ -206023,10 +206046,18 @@
       "formattedPrice": "¥58.00"
     },
     "minPriceInfo": {
-      "price": 22,
-      "formattedPrice": "¥22.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782051043626,

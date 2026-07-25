@@ -4684,6 +4684,25 @@
     "history": [
       [
         {
+          "timestamp": 1784995437022,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro + Família": "29,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Haydn: String Quartets": "1,99 €",
+            "Christmas Carol Collection": "1,99 €",
+            "Bach: Cello Suites": "1,99 €",
+            "Vivaldi: The Four Seasons": "1,99 €",
+            "Mozart: Twelve Duets": "1,99 €",
+            "The Mutopia Piano Collection": "5,99 €",
+            "forScore Pro": "17,99 €",
+            "Voluntary Upgrade": "8,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782320664767,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -8931,6 +8950,25 @@
       "The Big Three Report": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Gold Annual": "44,99 €",
+            "Gold Monthly": "8,99 €",
+            "Gold Level lifetime": "79,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Lunar Return Report": "3,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Astrolocality Maps": "29,99 €",
+            "The Big Three Report": "3,99 €",
+            "Relationship Report": "3,99 €",
+            "Predictive Report - Untimed": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784737170828,
@@ -35856,6 +35894,27 @@
             "Premium 12 months": "4,49 €",
             "Premium 6 months": "2,49 €"
           }
+        }
+      ]
+    ]
+  },
+  "967376861": {
+    "name": "LeafSpy Pro",
+    "maxPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "minPriceInfo": {
+      "price": 22.99,
+      "formattedPrice": "22,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1784995437022,
+          "price": 22.99,
+          "formattedPrice": "22,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
