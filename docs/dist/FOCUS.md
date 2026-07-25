@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2162` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2163` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2163|680495664|Automatic|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|Clash of Warloads|策马三国志 - 寻找真三国英雄|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|
 |2162|967376861|Automatic|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
 |2161|6792072690|Automatic|班主任工作台|❌|❌|❌|❌|❌|❌|
 |2160|6787737491|Automatic|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
@@ -1002,7 +1003,7 @@ So far, we've covered `7` `Countries or Regions` and  `2162` `Apps` <br />Push n
 |1170|504494723|Automatic|分数计算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|Fraction Calculator PRO #1|Fraction Calculator PRO #1|Calculadora Fraction Plus: PRO|
 |1169|852197796|Automatic|❌|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|
 |1168|1086452026|Automatic|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|
-|1167|1551273147|Automatic|Otter - 饮食日记|Otter: Photo Food Diary|Otter - 飲食日記|Otter - 飲食日記|Otter: Photo Food Diary|Otter: Photo Food Diary|Otter: Photo Food Diary|
+|1167|1551273147|Automatic|Otter - 饮食日记|Otter - 飲食日記|Otter - 飲食日記|Otter - 飲食日記|Otter: Photo Food Diary|Otter: Photo Food Diary|Otter: Photo Food Diary|
 |1166|1146269500|Automatic|英语日常用语-学习英语口语基本对话句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|English Phrase Book Learn|English Phrase Book Learn|Frases em Inglês|
 |1165|474177077|Automatic|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|Oh! Edo Towns|
 |1164| ~~6479684285~~ |Automatic| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~❌~~ |

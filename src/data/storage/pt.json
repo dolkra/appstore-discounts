@@ -4684,6 +4684,23 @@
     "history": [
       [
         {
+          "timestamp": 1785006341118,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "forScore Pro": "17,99 €",
+            "forScore Pro 30-Day Pass": "2,99 €",
+            "Brahms: The Mutopia Collection": "0,00 €",
+            "Liszt: The Mutopia Collection": "0,00 €",
+            "Haydn: The Mutopia Collection": "0,00 €",
+            "Schumann: The Mutopia Collection": "0,00 €",
+            "Satie: The Mutopia Collection": "0,00 €",
+            "Tchaikovsky: The Mutopia Collection": "0,00 €",
+            "Händel: The Mutopia Collection": "0,00 €",
+            "Rameau: The Mutopia Collection": "0,00 €"
+          }
+        },
+        {
           "timestamp": 1784995437022,
           "price": 29.99,
           "formattedPrice": "29,99 €",
@@ -8951,6 +8968,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1785006341118,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "3,99 €",
+            "Predictive Report - Full": "3,99 €",
+            "Birthday Report": "3,99 €",
+            "Gold Level Free Trial": "0,00 €",
+            "Child Report - Full": "3,99 €",
+            "Gold Monthly": "8,99 €",
+            "Relationship Report": "3,99 €",
+            "7-day Trial Astrolocality": "0,00 €",
+            "Predictive Report - No Background": "2,99 €",
+            "Astrolocality Maps": "29,99 €"
+          }
+        },
         {
           "timestamp": 1784995437022,
           "price": 0,
@@ -27114,6 +27148,52 @@
           "price": 6.99,
           "formattedPrice": "6,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "680495664": {
+    "name": "策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "coin 3600": "69,99 €",
+      "advanced month card": "3,99 €",
+      "coin 1800": "34,99 €",
+      "coin 800": "17,99 €",
+      "coin 500": "9,99 €",
+      "coin 300": "6,99 €",
+      "coin 100": "2,99 €",
+      "coin 30": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "coin 3600": "69,99 €",
+      "advanced month card": "3,99 €",
+      "coin 1800": "34,99 €",
+      "coin 800": "17,99 €",
+      "coin 500": "9,99 €",
+      "coin 300": "6,99 €",
+      "coin 100": "2,99 €",
+      "coin 30": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785006341118,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "coin 3600": "69,99 €",
+            "advanced month card": "3,99 €",
+            "coin 1800": "34,99 €",
+            "coin 800": "17,99 €",
+            "coin 500": "9,99 €",
+            "coin 300": "6,99 €",
+            "coin 100": "2,99 €",
+            "coin 30": "0,99 €"
+          }
         }
       ]
     ]

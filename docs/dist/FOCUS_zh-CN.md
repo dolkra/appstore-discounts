@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2162` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2163` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2163|680495664|自动|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|策馬三國志 - 英雄無敵爭霸天下|Clash of Warloads|策马三国志 - 寻找真三国英雄|策马三国志之英雄无敌 - 单机战棋经典策略SLG手游戏|
 |2162|967376861|自动|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|LeafSpy Pro|
 |2161|6792072690|自动|班主任工作台|❌|❌|❌|❌|❌|❌|
 |2160|6787737491|自动|ProCam MK II - 专业摄影相机|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - 專業相機|ProCam MK II - Pro Camera|ProCam MK II - Pro Camera|ProCam MK II - Câmera Avançada|
@@ -1002,7 +1003,7 @@
 |1170|504494723|自动|分数计算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|Fraction Calculator PRO #1|Fraction Calculator PRO #1|Calculadora Fraction Plus: PRO|
 |1169|852197796|自动|❌|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|
 |1168|1086452026|自动|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|
-|1167|1551273147|自动|Otter - 饮食日记|Otter: Photo Food Diary|Otter - 飲食日記|Otter - 飲食日記|Otter: Photo Food Diary|Otter: Photo Food Diary|Otter: Photo Food Diary|
+|1167|1551273147|自动|Otter - 饮食日记|Otter - 飲食日記|Otter - 飲食日記|Otter - 飲食日記|Otter: Photo Food Diary|Otter: Photo Food Diary|Otter: Photo Food Diary|
 |1166|1146269500|自动|英语日常用语-学习英语口语基本对话句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|English Phrase Book Learn|English Phrase Book Learn|Frases em Inglês|
 |1165|474177077|自动|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|Oh! Edo Towns|
 |1164| ~~6479684285~~ |自动| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~❌~~ |
