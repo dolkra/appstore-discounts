@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/pt.xml</id>
     <title>App Store Discounts（PT）</title>
-    <updated>2026-07-24T23:34:11.018Z</updated>
+    <updated>2026-07-25T14:57:21.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:206907475259680768+userId:73658201673997312
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcomept</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-07-24T23:34:11.019Z</updated>
+        <updated>2026-07-25T14:57:21.144Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -29,9 +29,9 @@ feedId:206907475259680768+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[Statistical Data Report]]></title>
-        <id>rankingptFri, 24 Jul 2026 23:34:11 GMT</id>
+        <id>rankingptSat, 25 Jul 2026 14:57:21 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-07-24T23:34:11.019Z</updated>
+        <updated>2026-07-25T14:57:21.144Z</updated>
         <summary type="html"><![CDATA[Latest Statistics Data Report]]></summary>
         <content type="html"><![CDATA[<h2>Country or Region Tracked</h2><ol>
   <li>Mainland China(CN)</li><li>Hong Kong, China(HK)</li><li>Macao, China(MO)</li><li>Taiwan, China(TW)</li><li>United States(US)</li><li>Türkiye(TR)</li><li>
@@ -51,13 +51,13 @@ feedId:206907475259680768+userId:73658201673997312
     <tr>
       <td>All</td>
       <td>
-        <b>2160</b>
+        <b>2161</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>1959</b>
+        <b>1960</b>
       </td>
       <td>
         <b>100</b>
@@ -1885,6 +1885,23 @@ feedId:206907475259680768+userId:73658201673997312
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>
+        <b>102</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/pt/6760129507?lang=en">CPR Buddy</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>Total Times</span>：<b>1</b>
+          </li><li>
+            <span>Price</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table><h2>Disable Push Apps</h2><table>
   <thead>
@@ -2131,6 +2148,25 @@ feedId:206907475259680768+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPR Buddy]]></title>
+        <id>CPR Buddy-pt-1784985863850</id>
+        <link href="https://appstore-discounts.eyelly.me/pt/6760129507?lang=en"/>
+        <updated>2026-07-25T13:24:23.850Z</updated>
+        <summary type="html"><![CDATA[Price: 0,99 € → Gratuito]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6760129507?lang=en">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/d9/e7/ecd9e721-6a85-a43a-a475-e200615e16ef/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  Discount Information（Price：<span>0,99 €</span> → <b>
+  <strong>Gratuito</strong>
+</b><span>[Gratuito ~ 0,99 €]</span>）
+</h2><h2>All Price Information</h2><p>
+  Price：<b>Gratuito</b>
+</p><h2>Application Description</h2><p>
+  CPR Buddy is a real-time CPR timer that gives you a metronome and allows for logging events during CPR and later retrieve them for review.
+CPR Buddy é um temporizador de RCP em tempo real que fornece um metrónomo e permite registar eventos durante a reanimação, podendo posteriormente consultá-los para revisão.
+</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Cyber Manhunt]]></title>
@@ -2718,83 +2754,5 @@ Obrigado por jogares ‘1942 Pacific Front’!
 
 © HandyGames 2026
 </p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/e6/d7/e5/e6d7e595-e24e-b322-705b-028b166932ed/mzl.sxlozjgp.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/dc/bb/e7/dcbbe70c-e6a5-3840-de59-ef2a3c091956/mzl.zynapvlc.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/f8/a1/8f/f8a18f79-e4f0-c81f-fc39-d05acbf4ca32/mzl.ershnlxb.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/30/26/19/3026196a-b5d7-ff9e-580a-f6a5c2803de0/mzl.svugzuuw.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/27/61/e2/2761e264-3375-a30a-cada-d0427845983d/mzl.uwpvjqil.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/51/55/23/515523a2-220c-5cd9-0e9a-aed8d60aaf89/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/9b/79/36/9b793629-dfde-0cec-d1c7-d4275b096dde/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/bd/a9/cd/bda9cdbc-6f34-3a87-5940-d9640afdffc9/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/89/57/ee/8957ee17-c946-f2e3-1949-84f34e666cde/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/94/d2/31/94d23135-867e-5366-878e-2a55822b617a/pr_source.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Referee Simulator : Football]]></title>
-        <id>Referee Simulator : Football-pt-1784728313823</id>
-        <link href="https://appstore-discounts.eyelly.me/pt/6744179489?lang=en"/>
-        <updated>2026-07-22T13:51:53.823Z</updated>
-        <summary type="html"><![CDATA[Price: 1,99 € → 0,99 €]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/pt/6744179489?lang=en">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/7f/92/a47f922e-a84d-0588-85ad-d5fbbb8ac306/AppIcon-0-0-1x_U007epad-0-11-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>1,99 €</span> → <b>
-  <strong>0,99 €</strong>
-</b><span>[0,99 € ~ 1,99 €]</span>）
-</h2><h2>All Price Information</h2><p>
-  Price：<b>0,99 €</b>
-</p><h2>Application Description</h2><p>
-  CARREIRA DE ÁRBITRO: DECISOR DE FUTEBOL
-APITE, TOME A DECISÃO
-Vista as chuteiras de um árbitro profissional de futebol neste jogo único de simulação de carreira. Suas decisões moldam partidas, campeonatos e seu próprio caminho na carreira. Comece do início na hierarquia de árbitros e trabalhe seu caminho até o nível profissional de elite!
-
-Marque faltas, conceda pênaltis e mostre cartões
-Administre confrontos entre jogadores e mantenha o controle
-Utilize a tecnologia VAR para revisar momentos críticos
-Sincronize perfeitamente suas decisões para manter o fluxo da partida
-Experimente cenários únicos em cada jogo
-
-CARREIRA COMPLETA DE ÁRBITRO
-Inicie sua jornada nas divisões inferiores (Classe C) e suba até a prestigiada Classe Profissional:
-
-Classe C: Partidas amadoras, perfeitas para aprender o básico
-Classe B: Partidas semiprofissionais com expectativas crescentes
-Classe A: Partidas profissionais com intenso escrutínio
-Classe PRO: Partidas de elite com maior pressão e recompensas
-
-Seu desempenho determina quão rápido você avança nas categorias. Árbitros excepcionais podem acelerar suas carreiras!
-CONSEQUÊNCIAS PÓS-JOGO E REPUTAÇÃO
-Cada decisão que você toma afeta sua reputação no mundo do futebol:
-
-Veja avaliações detalhadas de desempenho pós-jogo
-Leia reações nas redes sociais sobre suas decisões mais controversas
-Observe como torcedores, jogadores e técnicos respondem às suas decisões
-
-IMPACTO NA TABELA E NO CAMPEONATO
-Suas decisões não afetam apenas jogos individuais - podem mudar campeonatos inteiros:
-
-Acesse tabelas para ver a classificação das equipes
-Entenda o que está em jogo em cada partida que você arbitra
-Equilibre a justiça com a atmosfera intensa de partidas cruciais
-
-DESENVOLVIMENTO E PERSONALIZAÇÃO DO ÁRBITRO
-Ganhe dinheiro em cada partida com base em seu desempenho e nível de divisão:
-
-Visite a Loja do Árbitro para comprar novos equipamentos
-
-EXPERIÊNCIA AUTÊNTICA DE FUTEBOL
-Mergulhe em um mundo realista de futebol:
-
-Simulações detalhadas de partidas baseadas em texto com movimentos dinâmicos dos jogadores
-Condições climáticas que afetam o fluxo do jogo e a visibilidade
-
-DOMÍNIO DA TECNOLOGIA VAR
-O futebol moderno depende da tecnologia de revisão em vídeo 2D - domine-a para se destacar:
-
-Tome a decisão final após análise cuidadosa
-Revise incidentes de múltiplos ângulos de câmera
-Tome a decisão final após análise cuidadosa
-
-SISTEMA REALISTA DE PROGRESSÃO
-Seu avanço na carreira depende de desempenho consistente:
-
-Complete objetivos da temporada para ganhar promoções
-Arrisque rebaixamento se seu desempenho cair abaixo dos padrões
-
-Experimente o belo jogo de uma perspectiva completamente nova! CARREIRA DE ÁRBITRO: SIMULADOR DE DECISÕES NO FUTEBOL coloca você no controle das decisões mais importantes do esporte. Sua jornada dos campos amadores aos estádios profissionais começa com um apito e um livro de regras. Você tem o que é preciso para chegar ao topo do mundo da arbitragem?
-Baixe agora e tome a decisão!
-
-https://www.akinaksoydev.com/frs-privacy
-</p>]]></content>
     </entry>
 </feed>

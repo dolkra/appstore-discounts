@@ -72070,6 +72070,23 @@
     "history": [
       [
         {
+          "timestamp": 1784985863850,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "₺149,99",
+            "Biomes Add-on": "₺99,99",
+            "Grottoes Add-on": "₺49,99",
+            "Abandoned Mines Add-on": "₺49,99",
+            "Invasion Add-on": "₺249,99",
+            "Bosses & Monsters Add-on": "₺399,99",
+            "Wonderwood Add-on": "₺499,99",
+            "Heroes Add-on": "₺199,99",
+            "Temples of 4 Elements Add-on": "₺199,99",
+            "Heart of Evil Add-on": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1784975206404,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -261768,10 +261785,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1784985863850,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780025731790,
