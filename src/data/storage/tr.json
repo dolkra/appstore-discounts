@@ -187767,6 +187767,25 @@
     "history": [
       [
         {
+          "timestamp": 1785033825283,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Daniel skin": "₺49,99",
+            "Reyna skin": "₺49,99",
+            "Jorge skin": "₺49,99",
+            "Gloria skin": "₺49,99",
+            "Purple menu color": "₺199,99",
+            "Red menu color": "₺99,99",
+            "Yellow menu color": "₺49,99",
+            "James character": "₺49,99",
+            "Lisa character": "₺0,00",
+            "Elsa character": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784528281752,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -253994,10 +254013,18 @@
       "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785033825283,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782080091315,
