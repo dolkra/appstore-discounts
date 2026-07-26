@@ -170407,6 +170407,25 @@
     "history": [
       [
         {
+          "timestamp": 1785072025219,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Spray kit": "₺199,99",
+            "Ascensio Kit": "₺249,99",
+            "Zenith Islands DLC Sale": "₺149,99",
+            "Prime Dimension DLC Sale": "₺149,99",
+            "Crystal Offer Sale": "₺499,99",
+            "Elite Offer Sale": "₺249,99",
+            "Fancy Apparel Offer Sale": "₺399,99",
+            "Starter Offer Sale": "₺99,99",
+            "Hunter Offer Sale": "₺249,99",
+            "Master Offer Sale": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784632071349,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -194382,6 +194401,25 @@
       "18000 Coins": "₺449,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785072025219,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "Monthly VIP Subscription": "₺99,99",
+            "Premium spin": "₺49,99",
+            "Yearly VIP Subscription": "₺999,99",
+            "Weekly VIP Subscription": "₺39,99",
+            "Become a VIP for lifetime": "₺12.999,99",
+            "Daily Offer": "₺49,99",
+            "Best Choice": "₺199,99",
+            "Popular Offer": "₺99,99",
+            "Best Choice Discount": "₺149,99",
+            "36000 Coins": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781295073577,
@@ -267907,6 +267945,29 @@
           "timestamp": 1784930640340,
           "price": 499.99,
           "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792675339": {
+    "trackId": 6792675339,
+    "trackName": "ACO 投考全攻略 ACOReady",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "minPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785072025219,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
           "inAppPurchases": {}
         }
       ]

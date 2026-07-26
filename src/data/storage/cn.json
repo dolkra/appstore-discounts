@@ -187440,6 +187440,23 @@
     "history": [
       [
         {
+          "timestamp": 1785072025219,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元礼包": "¥6.00",
+            "12元礼包": "¥12.00",
+            "30元礼包": "¥30.00",
+            "68元礼包": "¥68.00",
+            "128元礼包": "¥128.00",
+            "98元礼包": "¥98.00",
+            "1元礼包": "¥1.00",
+            "3元礼包": "¥3.00",
+            "18元礼包": "¥18.00",
+            "60元礼包": "¥60.00"
+          }
+        },
+        {
           "timestamp": 1785062661994,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -213039,6 +213056,27 @@
           "timestamp": 1784946927074,
           "price": 29.9,
           "formattedPrice": "¥29.90",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792675339": {
+    "name": "ACO 投考全攻略 ACOReady",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "¥88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785072025219,
+          "price": 88,
+          "formattedPrice": "¥88.00",
           "inAppPurchases": {}
         }
       ]
