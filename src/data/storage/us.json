@@ -161161,6 +161161,25 @@
     "history": [
       [
         {
+          "timestamp": 1785062661994,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Teammate Package#2": "$4.99",
+            "Bronze Decree": "$25.99",
+            "Heroic Package#3": "$49.99",
+            "Role Package III": "$9.99",
+            "Suit Package": "$29.99",
+            "Teammate Package": "$4.99",
+            "Role Package": "$2.99",
+            "Heroic Package#2": "$9.99",
+            "Heroic Package#1": "$9.99",
+            "Resource Package": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784872206455,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -206884,6 +206903,25 @@
       "Sports and Celebrity Bundle": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785062661994,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Welcome Offer": "$9.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Ready to Roast": "$6.49",
+            "Midnight Mix Pack 1": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784975206404,
@@ -310856,10 +310894,18 @@
       "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785062661994,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763627778858,
