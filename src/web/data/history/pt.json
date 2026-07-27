@@ -13641,6 +13641,25 @@
     "history": [
       [
         {
+          "timestamp": 1785154990397,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785103145572,
           "price": 7.99,
           "formattedPrice": "7,99 €",
@@ -126131,6 +126150,51 @@
           "price": 12.99,
           "formattedPrice": "12,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6770101449": {
+    "trackId": 6770101449,
+    "trackName": "五道門：文字江湖",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "宗師匣檔": "99,99 €",
+      "問道進階檔": "49,99 €",
+      "定向匣檔": "34,99 €",
+      "輕囊通寶": "2,99 €",
+      "進階材料檔": "17,99 €",
+      "小袋通寶": "0,99 €",
+      "珍品匣檔": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "宗師匣檔": "99,99 €",
+      "問道進階檔": "49,99 €",
+      "定向匣檔": "34,99 €",
+      "輕囊通寶": "2,99 €",
+      "進階材料檔": "17,99 €",
+      "小袋通寶": "0,99 €",
+      "珍品匣檔": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785154990397,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "宗師匣檔": "99,99 €",
+            "問道進階檔": "49,99 €",
+            "定向匣檔": "34,99 €",
+            "輕囊通寶": "2,99 €",
+            "進階材料檔": "17,99 €",
+            "小袋通寶": "0,99 €",
+            "珍品匣檔": "3,99 €"
+          }
         }
       ]
     ]
