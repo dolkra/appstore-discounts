@@ -104394,14 +104394,22 @@
   "1137257203": {
     "name": "Muslim Prayer Times Pro, Adhan",
     "maxPriceInfo": {
-      "price": 479.9,
-      "formattedPrice": "₺479,90"
+      "price": 489.9,
+      "formattedPrice": "₺489,90"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785189984689,
+          "price": 489.9,
+          "formattedPrice": "₺489,90",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784975206404,
@@ -226350,6 +226358,25 @@
     "history": [
       [
         {
+          "timestamp": 1785189984689,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 787-10": "₺99,99",
+            "Concorde": "₺99,99",
+            "UH-60": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785103145572,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -254414,6 +254441,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785189984689,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785033825283,
