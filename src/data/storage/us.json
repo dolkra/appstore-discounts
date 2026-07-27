@@ -11213,6 +11213,23 @@
     "history": [
       [
         {
+          "timestamp": 1785180382989,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "$0.99",
+            "Portland HipstaPak": "$0.99",
+            "Shibuya HipstaPak": "$0.99",
+            "Camden HipstaPak": "$0.99",
+            "Mission Hipstapak": "$0.99",
+            "Soho HipstaPak": "$0.99",
+            "Bondi HipstaPak": "$0.99",
+            "Wicker Park HipstaPak": "$0.99",
+            "RetroPak One": "$1.99",
+            "Dali GoodPak": "$0.99"
+          }
+        },
+        {
           "timestamp": 1785171429104,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -33375,6 +33392,25 @@
     "history": [
       [
         {
+          "timestamp": 1785180382989,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Creepy Starter Pack": "$9.99",
+            "Cuddly Starter Pack": "$5.99",
+            "Furniture Starter Pack": "$9.99",
+            "Structures Starter Pack": "$5.99",
+            "Scary Pack": "$9.99",
+            "Weapon Pack": "$5.99",
+            "Minecraft Pets Pack": "$9.99",
+            "Minecraft Morph Pack": "$5.99",
+            "Marketplace Pass Full": "$3.99",
+            "Marketplace Pass Trial": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1780773771362,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -43593,6 +43629,27 @@
           "timestamp": 1745328692670,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "521511036": {
+    "name": "中藥及方劑速查【加強版】",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "$7.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785180382989,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
           "inAppPurchases": {}
         }
       ]
@@ -185762,6 +185819,27 @@
           "timestamp": 1745328692670,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1491605477": {
+    "name": "foxok",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785180382989,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]
