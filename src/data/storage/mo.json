@@ -81306,6 +81306,18 @@
     "history": [
       [
         {
+          "timestamp": 1785237407822,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 4.99",
+            "Month": "USD 1.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784601435532,
           "price": 0,
           "formattedPrice": "免費",
@@ -182355,6 +182367,14 @@
     "history": [
       [
         {
+          "timestamp": 1785237407822,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1775137439039,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -190372,6 +190392,27 @@
             "小袋通寶": "USD 0.99",
             "珍品匣檔": "USD 3.99"
           }
+        }
+      ]
+    ]
+  },
+  "6764665158": {
+    "name": "Reelo - Media Hub",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785237407822,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -40950,6 +40950,25 @@
     "history": [
       [
         {
+          "timestamp": 1785237407822,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Mission 37 Gold": "HK$ 22.00",
+            "Mission 36 Gold": "HK$ 22.00",
+            "Mission 37 Demo": "HK$ 8.00",
+            "Mission 36 Demo": "HK$ 8.00",
+            "Mission 36 Skip": "HK$ 18.00",
+            "Mission 35 Skip": "HK$ 18.00",
+            "Mission 35 Gold": "HK$ 22.00",
+            "Mission 35 Demo": "HK$ 8.00",
+            "Mission 34 Skip": "HK$ 18.00",
+            "Mission 34 Gold": "HK$ 22.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784142596927,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -269516,6 +269535,14 @@
     "history": [
       [
         {
+          "timestamp": 1785237407822,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1775137439039,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -278550,6 +278577,29 @@
             "進階材料檔": "HK$ 118.00",
             "珍品匣檔": "HK$ 32.00"
           }
+        }
+      ]
+    ]
+  },
+  "6764665158": {
+    "trackId": 6764665158,
+    "trackName": "Reelo - Media Hub",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785237407822,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
         }
       ]
     ]
