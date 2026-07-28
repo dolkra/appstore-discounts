@@ -175019,7 +175019,8 @@
       "高級終身會員": "USD 29.99",
       "7-Day Pass": "USD 4.99",
       "3-Day Pass": "USD 1.99",
-      "24h Pass": "USD 0.99"
+      "24h Pass": "USD 0.99",
+      "24小時通行證": "USD 0.69"
     },
     "minPriceInfo": {
       "price": 0,
@@ -175030,9 +175031,26 @@
       "高級終身會員": "USD 7.99",
       "7-Day Pass": "USD 2.99",
       "3-Day Pass": "USD 0.99",
-      "24h Pass": "USD 0.49"
+      "24h Pass": "USD 0.49",
+      "24小時通行證": "USD 0.69"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785217559321,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "7-Day Pass": "USD 2.99",
+            "3-Day Pass": "USD 0.99",
+            "24小時通行證": "USD 0.69",
+            "高級終身會員": "USD 12.99",
+            "Pro – Lifetime": "USD 0.00",
+            "每週訂閱": "USD 1.49",
+            "年度訂閱": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784601435532,
