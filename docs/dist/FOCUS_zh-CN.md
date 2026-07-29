@@ -1009,7 +1009,7 @@
 |1170|504494723|自动|分数计算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|分數計算器 - PRO|Fraction Calculator PRO #1|Fraction Calculator PRO #1|Calculadora Fraction Plus: PRO|
 |1169|852197796|自动|❌|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|Red Ball 4|
 |1168|1086452026|自动|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|临床医学检验技士题库 2024最新|
-|1167|1551273147|自动|Otter - 饮食日记|Otter - 飲食日記|Otter - 飲食日記|Otter - 飲食日記|Otter - Food Diary|Otter - Food Diary|Otter - Food Diary|
+|1167| ~~1551273147~~ |自动| ~~Otter - 饮食日记~~ | ~~Otter - 飲食日記~~ | ~~Otter - 飲食日記~~ | ~~Otter - 飲食日記~~ | ~~Otter - Food Diary~~ | ~~Otter - Food Diary~~ | ~~Otter - Food Diary~~ |
 |1166|1146269500|自动|英语日常用语-学习英语口语基本对话句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|英語日常用語-學習英語口語基本對話句型|English Phrase Book Learn|English Phrase Book Learn|Frases em Inglês|
 |1165|474177077|自动|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|Oh! Edo Towns|
 |1164| ~~6479684285~~ |自动| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~❌~~ |
@@ -1234,7 +1234,7 @@
 |945|1439889483|自动|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|
 |944|1562555975|自动|D2助手(专业版) for 暗黑破坏神2重制版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2 Pal Pro for Diablo2|D2 Pal Pro for Diablo2|D2助手(专业版) for 暗黑破坏神2重制版|
 |943| ~~1567658979~~ |自动| ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~❌~~ |
-|942|6467822375|自动|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|
+|942|6467822375|自动|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|自动|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|自动|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
 |939|499470113|自动|FE文件管理器|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|
@@ -1796,7 +1796,7 @@
 |383|1441969889|自动|❌|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|Z.O.N.A Shadow of Lemansk|
 |382|1442776789|自动|❌|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|槍與香蕉 - Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|Pirates Outlaws|
 |381| ~~1444761746~~ |自动| ~~❌~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~RFS - Real Flight Simulator~~ | ~~❌~~ |
-|380|1449893235|自动|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|Earthquake Network|
+|380| ~~1449893235~~ |自动| ~~Earthquake Network~~ | ~~Earthquake Network~~ | ~~Earthquake Network~~ | ~~Earthquake Network~~ | ~~Earthquake Network~~ | ~~Earthquake Network~~ | ~~Earthquake Network~~ |
 |379|1450064785|自动|山林日志|山林日誌|山林日誌|山林日誌|Hiking Logger|❌|❌|
 |378|1450144092|自动|❌|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|三國志天下布武 - 單機戰棋策略遊戲|
 |377|1451873044|自动|❌|Papa's Wingeria To Go!|Papa's Wingeria To Go!|Papa's Wingeria To Go!|Papa's Wingeria To Go!|Papa's Wingeria To Go!|Papa's Wingeria To Go!|

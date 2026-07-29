@@ -1,5 +1,47 @@
 [
   {
+    "trackId": 1449893235,
+    "region": "pt",
+    "timestamp": 1785352482834,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Priority 10k for 1 year",
+        "from": "10,49 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 10,49 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1449893235",
+    "trackName": "Earthquake Network",
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 1551273147,
+    "region": "pt",
+    "timestamp": 1785352482834,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1551273147",
+    "trackName": "Otter - Food Diary",
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
+  },
+  {
     "trackId": 6749824842,
     "region": "pt",
     "timestamp": 1785227573591,
@@ -37,7 +79,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1551273147",
     "trackName": "Otter - Food Diary",
-    "firstRecordedAt": 1761797674362
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 6754461039,
@@ -457,7 +500,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1551273147",
     "trackName": "Otter - Food Diary",
-    "firstRecordedAt": 1761797674362
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 1523633394,
@@ -797,7 +841,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1551273147",
     "trackName": "Otter - Food Diary",
-    "firstRecordedAt": 1761797674362
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 6670190133,
@@ -1157,7 +1202,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -1551,7 +1596,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -1592,7 +1637,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1449893235",
     "trackName": "Earthquake Network",
-    "firstRecordedAt": 1761797674362
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 6467822375,
@@ -1625,7 +1671,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -10459,7 +10505,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -10977,7 +11023,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -12955,7 +13001,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -13142,7 +13188,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -13303,7 +13349,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Rechamada Auto",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -14788,7 +14834,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1551273147",
     "trackName": "Otter - Food Diary",
-    "firstRecordedAt": 1761797674362
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 931188326,

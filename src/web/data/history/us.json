@@ -176533,7 +176533,9 @@
       "Woodland Wonders Pack": "$4.99",
       "Seasonal Decorative Pack 2": "$4.99",
       "Asia Expansion": "$11.99",
-      "Bird Pack: British Birds": "$5.99"
+      "Bird Pack: British Birds": "$5.99",
+      "Bird Packs Season Pass": "$24.99",
+      "Bird Pack: Additional Asian Avians": "$5.99"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -176544,9 +176546,29 @@
       "Woodland Wonders Pack": "$4.99",
       "Seasonal Decorative Pack 2": "$4.99",
       "Asia Expansion": "$8.99",
-      "Bird Pack: British Birds": "$5.99"
+      "Bird Pack: British Birds": "$5.99",
+      "Bird Packs Season Pass": "$24.99",
+      "Bird Pack: Additional Asian Avians": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785352482834,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "European Expansion": "$9.99",
+            "Oceania Expansion": "$11.99",
+            "Asia Expansion": "$11.99",
+            "Bird Pack: British Birds": "$5.99",
+            "Seasonal Decorative Pack": "$4.99",
+            "Woodland Wonders Pack": "$4.99",
+            "Seasonal Decorative Pack 2": "$4.99",
+            "Bird Packs Season Pass": "$24.99",
+            "Bird Pack: Additional Asian Avians": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780653023145,
@@ -240924,6 +240946,25 @@
     "history": [
       [
         {
+          "timestamp": 1785352482834,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Neo Package": "$4.99",
+            "Wedding Pack": "$4.99",
+            "Nurse Pack": "$4.99",
+            "Character Pass": "$11.99",
+            "Uniform Pack": "$3.99",
+            "Corrupted Pack": "$6.99",
+            "Unlock Temperament": "$6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785120717041,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -299678,7 +299719,7 @@
   },
   "6467822375": {
     "trackId": 6467822375,
-    "trackName": "Auto Redial App",
+    "trackName": "Auto Redial - Phone Call Retry",
     "region": "us",
     "maxPriceInfo": {
       "price": 4.99,

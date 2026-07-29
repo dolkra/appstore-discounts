@@ -145238,7 +145238,9 @@
       "Seasonal Decorative Pack 2": "₺249,99",
       "Woodland Wonders Pack": "₺249,99",
       "Asia Expansion": "₺129,99",
-      "Bird Pack: British Birds": "₺189,00"
+      "Bird Pack: British Birds": "₺189,00",
+      "Bird Packs Season Pass": "₺799,99",
+      "Bird Pack: Additional Asian Avians": "₺189,00"
     },
     "minPriceInfo": {
       "price": 109.99,
@@ -145249,9 +145251,29 @@
       "Seasonal Decorative Pack 2": "₺229,99",
       "Woodland Wonders Pack": "₺229,99",
       "Asia Expansion": "₺99,99",
-      "Bird Pack: British Birds": "₺189,00"
+      "Bird Pack: British Birds": "₺189,00",
+      "Bird Packs Season Pass": "₺799,99",
+      "Bird Pack: Additional Asian Avians": "₺189,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785352482834,
+          "price": 109.99,
+          "formattedPrice": "₺109,99",
+          "inAppPurchases": {
+            "Oceania Expansion": "₺129,99",
+            "European Expansion": "₺114,99",
+            "Asia Expansion": "₺129,99",
+            "Bird Pack: British Birds": "₺189,00",
+            "Seasonal Decorative Pack": "₺249,99",
+            "Woodland Wonders Pack": "₺249,99",
+            "Seasonal Decorative Pack 2": "₺249,99",
+            "Bird Packs Season Pass": "₺799,99",
+            "Bird Pack: Additional Asian Avians": "₺189,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780653023145,
@@ -177180,6 +177202,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785352482834,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785266559948,
@@ -226861,6 +226891,25 @@
     "history": [
       [
         {
+          "timestamp": 1785352482834,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Concorde": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-800": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785266559948,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -243463,7 +243512,7 @@
     ]
   },
   "6467822375": {
-    "name": "Auto Redial App",
+    "name": "Auto Redial - Phone Call Retry",
     "maxPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99",
