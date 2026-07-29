@@ -1,5 +1,105 @@
 [
   {
+    "trackId": 1001096601,
+    "region": "mo",
+    "timestamp": 1785334112079,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.79,
+    "formattedPrice": "USD 0.79",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1389752090,
+    "region": "mo",
+    "timestamp": 1785334112079,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 8.99",
+        "to": "USD 4.99",
+        "range": "[USD 3.99 ~ USD 8.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1620883955,
+    "region": "mo",
+    "timestamp": 1785334112079,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 4.99",
+        "range": "[USD 2.99 ~ USD 7.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1620883955",
+    "trackName": "Little Nightmares",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 6738784092,
+    "region": "mo",
+    "timestamp": 1785334112079,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 1.49",
+        "range": "[USD 1.49 ~ USD 1.99]"
+      }
+    ],
+    "price": 1.49,
+    "formattedPrice": "USD 1.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6738784092",
+    "trackName": "A Little to the Left: Drawers",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6738784151,
+    "region": "mo",
+    "timestamp": 1785334112079,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 1.49",
+        "range": "[USD 1.49 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.49,
+    "formattedPrice": "USD 1.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6738784151",
+    "trackName": "A Little to the Left: Stars",
+    "firstRecordedAt": 1745355731152
+  },
+  {
     "trackId": 6749824842,
     "region": "mo",
     "timestamp": 1785237407822,
@@ -4660,7 +4760,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -7899,7 +7999,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -11774,7 +11874,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -15216,7 +15316,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -18069,7 +18169,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -22527,7 +22627,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -25332,7 +25432,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -27772,7 +27872,7 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 1.99",
-        "range": "[USD 1.99 ~ USD 2.99]"
+        "range": "[USD 1.49 ~ USD 2.99]"
       }
     ],
     "price": 1.99,
@@ -28115,7 +28215,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -30906,7 +31006,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
@@ -34073,7 +34173,7 @@
         "name": "Price",
         "from": "USD 2.49",
         "to": "USD 0.90",
-        "range": "[USD 0.90 ~ USD 2.99]"
+        "range": "[USD 0.79 ~ USD 2.99]"
       }
     ],
     "price": 0.9,
