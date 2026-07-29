@@ -1,5 +1,125 @@
 [
   {
+    "trackId": 1001096601,
+    "region": "tr",
+    "timestamp": 1785362447338,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺69,99",
+        "to": "₺19,99",
+        "range": "[₺5,00 ~ ₺69,99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "₺19,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1389752090,
+    "region": "tr",
+    "timestamp": 1785362447338,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺249,99",
+        "range": "[₺199,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1389752090",
+    "trackName": "Dead Cells",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 1620883955,
+    "region": "tr",
+    "timestamp": 1785362447338,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺249,99",
+        "range": "[₺129,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1620883955",
+    "trackName": "Little Nightmares",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6738784092,
+    "region": "tr",
+    "timestamp": 1785362447338,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺79,99",
+        "to": "₺55,99",
+        "range": "[₺55,99 ~ ₺79,99]"
+      }
+    ],
+    "price": 55.99,
+    "formattedPrice": "₺55,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6738784092",
+    "trackName": "A Little to the Left: Drawers",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6738784151,
+    "region": "tr",
+    "timestamp": 1785362447338,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺79,99",
+        "range": "[₺79,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 79.99,
+    "formattedPrice": "₺79,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6738784151",
+    "trackName": "A Little to the Left: Stars",
+    "firstRecordedAt": 1745355731152
+  },
+  {
+    "trackId": 6459581344,
+    "region": "tr",
+    "timestamp": 1785362447338,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺149,99",
+        "range": "[₺99,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6459581344",
+    "trackName": "Art of Rally",
+    "firstRecordedAt": 1754604817740
+  },
+  {
     "trackId": 1551273147,
     "region": "tr",
     "timestamp": 1785352482834,
@@ -29852,7 +29972,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺99,99",
-        "range": "[₺99,99 ~ ₺149,99]"
+        "range": "[₺79,99 ~ ₺149,99]"
       }
     ],
     "price": 99.99,

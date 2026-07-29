@@ -1234,7 +1234,7 @@ So far, we've covered `7` `Countries or Regions` and  `2169` `Apps` <br />Push n
 |945|1439889483|Automatic|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|
 |944|1562555975|Automatic|D2助手(专业版) for 暗黑破坏神2重制版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2 Pal Pro for Diablo2|D2 Pal Pro for Diablo2|D2助手(专业版) for 暗黑破坏神2重制版|
 |943| ~~1567658979~~ |Automatic| ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~❌~~ |
-|942|6467822375|Automatic|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
+|942|6467822375|Automatic|Auto Redial App|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|Automatic|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|Automatic|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
 |939|499470113|Automatic|FE文件管理器|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|
@@ -1365,7 +1365,7 @@ So far, we've covered `7` `Countries or Regions` and  `2169` `Apps` <br />Push n
 |814|6474207287|Automatic|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|Automatic|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|
 |812|1108935309|Automatic|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
-|811|1410053842|Automatic|小渔排班 - 倒班工作者的专属日历|小漁輪班|小漁輪班|小漁輪班|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|
+|811|1410053842|Automatic|小渔排班 - 倒班工作者的专属日历|小漁輪班|小漁輪班|小漁輪班|Selene: Shift Calendar|Selene: Shift Calendar|小渔排班 - 倒班工作者的专属日历|
 |810|1519508653|Automatic|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|Automatic|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|Automatic|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|

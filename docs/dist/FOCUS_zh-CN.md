@@ -1234,7 +1234,7 @@
 |945|1439889483|自动|❌|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|Construction Simulator 3|
 |944|1562555975|自动|D2助手(专业版) for 暗黑破坏神2重制版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2助手(專業版) for 暗黑破壞神2重製版|D2 Pal Pro for Diablo2|D2 Pal Pro for Diablo2|D2助手(专业版) for 暗黑破坏神2重制版|
 |943| ~~1567658979~~ |自动| ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~SkySafari 7 Pro~~ | ~~❌~~ |
-|942|6467822375|自动|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial App|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
+|942|6467822375|自动|Auto Redial App|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|自动|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|自动|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
 |939|499470113|自动|FE文件管理器|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|
@@ -1365,7 +1365,7 @@
 |814|6474207287|自动|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|自动|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|
 |812|1108935309|自动|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
-|811|1410053842|自动|小渔排班 - 倒班工作者的专属日历|小漁輪班|小漁輪班|小漁輪班|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|小渔排班 - 倒班工作者的专属日历|
+|811|1410053842|自动|小渔排班 - 倒班工作者的专属日历|小漁輪班|小漁輪班|小漁輪班|Selene: Shift Calendar|Selene: Shift Calendar|小渔排班 - 倒班工作者的专属日历|
 |810|1519508653|自动|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|自动|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|自动|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|
