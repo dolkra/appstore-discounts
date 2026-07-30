@@ -14373,7 +14373,8 @@
       "Apnea Trainer Pro – Yearly": "$590.00",
       "Training Plan – Loyalty · one-time": "$790.00",
       "Apnea Trainer Pro – Lifetime": "$1,290.00",
-      "Training Plan – Loyalty · yr.": "$390.00"
+      "Training Plan – Loyalty · yr.": "$390.00",
+      "Pro — Yearly (3-day trial)": "$790.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -14383,9 +14384,26 @@
       "Apnea Trainer Pro – Yearly": "$590.00",
       "Training Plan – Loyalty · one-time": "$320.00",
       "Apnea Trainer Pro – Lifetime": "$790.00",
-      "Training Plan – Loyalty · yr.": "$220.00"
+      "Training Plan – Loyalty · yr.": "$220.00",
+      "Pro — Yearly (3-day trial)": "$790.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro — Yearly (3-day trial)": "$790.00",
+            "Training Plan – Loyalty · mo.": "$150.00",
+            "Apnea Trainer Pro – Monthly": "$150.00",
+            "Apnea Trainer Pro – Yearly": "$590.00",
+            "Training Plan – Loyalty · one-time": "$790.00",
+            "Apnea Trainer Pro – Lifetime": "$1,290.00",
+            "Training Plan – Loyalty · yr.": "$390.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783267717033,
@@ -157518,6 +157536,34 @@
       ]
     ]
   },
+  "1462584573": {
+    "name": "Schumann Resonance",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Forum Access – 12 months": "$320.00",
+      "Schumann Forum": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "Forum Access – 12 months": "$320.00",
+      "Schumann Forum": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Forum Access – 12 months": "$320.00",
+            "Schumann Forum": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "1462805796": {
     "name": "Whipseey",
     "maxPriceInfo": {
@@ -285355,6 +285401,27 @@
           "timestamp": 1785237407822,
           "price": 60,
           "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6787897705": {
+    "name": "火山的女兒",
+    "maxPriceInfo": {
+      "price": 180,
+      "formattedPrice": "$180.00"
+    },
+    "minPriceInfo": {
+      "price": 180,
+      "formattedPrice": "$180.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 180,
+          "formattedPrice": "$180.00",
           "inAppPurchases": {}
         }
       ]

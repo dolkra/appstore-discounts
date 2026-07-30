@@ -1,12 +1,14 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2169` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2171` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2171|1462584573|Automatic|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|
+|2170|6787897705|Automatic|❌|火山的女兒|火山的女兒|火山的女兒|Volcano Princess|❌|Volcano Princess|
 |2169|1278650505|Automatic|像素天气 - 最萌像素风天气预报|像素天氣 - 最萌像素風天氣預報|像素天氣 - 最萌像素風天氣預報|像素天氣 - 最萌像素風天氣預報|Pixel Weather - Forecast|Pixel Weather - Forecast|Pixel Weather - Forecast|
 |2168|6764665158|Automatic|Reelo - Media Hub|Reelo - Media Hub|Reelo - Media Hub|Reelo - Media Hub|Reelo - Media Hub|Reelo - Media Hub|Reelo - Media Hub|
 |2167|521511036|Automatic|中药及方剂速查【加强版】|中藥及方劑速查【加強版】|中藥及方劑速查【加強版】|中藥及方劑速查【加強版】|中藥及方劑速查【加強版】|中藥及方劑速查【加強版】|中藥及方劑速查【加強版】|

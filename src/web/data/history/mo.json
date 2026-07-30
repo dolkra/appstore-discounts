@@ -11414,7 +11414,8 @@
       "Apnea Trainer Pro – Yearly": "USD 17.99",
       "Training Plan – Loyalty · one-time": "USD 24.99",
       "Apnea Trainer Pro – Lifetime": "USD 39.99",
-      "Training Plan – Loyalty · yr.": "USD 12.99"
+      "Training Plan – Loyalty · yr.": "USD 12.99",
+      "Pro — Yearly (3-day trial)": "USD 22.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -11424,9 +11425,26 @@
       "Apnea Trainer Pro – Yearly": "USD 17.99",
       "Training Plan – Loyalty · one-time": "USD 9.99",
       "Apnea Trainer Pro – Lifetime": "USD 24.99",
-      "Training Plan – Loyalty · yr.": "USD 6.99"
+      "Training Plan – Loyalty · yr.": "USD 6.99",
+      "Pro — Yearly (3-day trial)": "USD 22.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro — Yearly (3-day trial)": "USD 22.99",
+            "Training Plan – Loyalty · mo.": "USD 4.99",
+            "Apnea Trainer Pro – Monthly": "USD 4.99",
+            "Apnea Trainer Pro – Yearly": "USD 17.99",
+            "Training Plan – Loyalty · one-time": "USD 24.99",
+            "Apnea Trainer Pro – Lifetime": "USD 39.99",
+            "Training Plan – Loyalty · yr.": "USD 12.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783267717033,
@@ -118360,6 +118378,36 @@
       ]
     ]
   },
+  "1462584573": {
+    "trackId": 1462584573,
+    "trackName": "Schumann Resonance",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Forum Access – 12 months": "USD 9.99",
+      "Schumann Forum": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "Forum Access – 12 months": "USD 9.99",
+      "Schumann Forum": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Forum Access – 12 months": "USD 9.99",
+            "Schumann Forum": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
   "1462805796": {
     "trackId": 1462805796,
     "trackName": "Whipseey",
@@ -195089,6 +195137,29 @@
           "timestamp": 1785237407822,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6787897705": {
+    "trackId": 6787897705,
+    "trackName": "火山的女兒",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 10.99,
+      "formattedPrice": "USD 10.99"
+    },
+    "minPriceInfo": {
+      "price": 10.99,
+      "formattedPrice": "USD 10.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 10.99,
+          "formattedPrice": "USD 10.99",
           "inAppPurchases": {}
         }
       ]

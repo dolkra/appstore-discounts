@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1309638846,
+    "region": "pt",
+    "timestamp": 1785449095856,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1309638846",
+    "trackName": "Vintage Camera - Goodak",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1359652100,
+    "region": "pt",
+    "timestamp": 1785449095856,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1359652100",
+    "trackName": "Dungeon Maker : Dark Lord",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6504601501,
+    "region": "pt",
+    "timestamp": 1785449095856,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6504601501",
+    "trackName": "Bounty Of One: Premium",
+    "firstRecordedAt": 1766651826034
+  },
+  {
     "trackId": 6480058345,
     "region": "pt",
     "timestamp": 1785409675930,
@@ -1782,7 +1842,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "1,99 €",
-        "range": "[1,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 2,99 €]"
       }
     ],
     "price": 1.99,

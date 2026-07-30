@@ -15297,7 +15297,8 @@
       "Apnea Trainer Pro – Yearly": "HK$ 148.00",
       "Training Plan – Loyalty · one-time": "HK$ 188.00",
       "Apnea Trainer Pro – Lifetime": "HK$ 288.00",
-      "Training Plan – Loyalty · yr.": "HK$ 98.00"
+      "Training Plan – Loyalty · yr.": "HK$ 98.00",
+      "Pro — Yearly (3-day trial)": "HK$ 188.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -15307,9 +15308,26 @@
       "Apnea Trainer Pro – Yearly": "HK$ 148.00",
       "Training Plan – Loyalty · one-time": "HK$ 88.00",
       "Apnea Trainer Pro – Lifetime": "HK$ 188.00",
-      "Training Plan – Loyalty · yr.": "HK$ 58.00"
+      "Training Plan – Loyalty · yr.": "HK$ 58.00",
+      "Pro — Yearly (3-day trial)": "HK$ 188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro — Yearly (3-day trial)": "HK$ 188.00",
+            "Training Plan – Loyalty · mo.": "HK$ 38.00",
+            "Apnea Trainer Pro – Monthly": "HK$ 38.00",
+            "Apnea Trainer Pro – Yearly": "HK$ 148.00",
+            "Training Plan – Loyalty · one-time": "HK$ 188.00",
+            "Apnea Trainer Pro – Lifetime": "HK$ 288.00",
+            "Training Plan – Loyalty · yr.": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783267717033,
@@ -159510,6 +159528,36 @@
       ]
     ]
   },
+  "1462584573": {
+    "trackId": 1462584573,
+    "trackName": "Schumann Resonance",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Forum Access – 12 months": "HK$ 88.00",
+      "Schumann Forum": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00",
+      "Forum Access – 12 months": "HK$ 88.00",
+      "Schumann Forum": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Forum Access – 12 months": "HK$ 88.00",
+            "Schumann Forum": "HK$ 8.00"
+          }
+        }
+      ]
+    ]
+  },
   "1462805796": {
     "trackId": 1462805796,
     "trackName": "Whipseey",
@@ -182495,6 +182543,25 @@
       "Bird Blues Changes 12key": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 128,
+          "formattedPrice": "HK$ 128.00",
+          "inAppPurchases": {
+            "Minor Swing Ⅱ-Ⅴ-Ⅰ-Ⅵ 12key(L)": "HK$ 38.00",
+            "Antonio Carlos Jobim SongBookⅡ": "HK$ 48.00",
+            "Sing like Chet": "HK$ 58.00",
+            "Antonio Carlos Jobim Book Ⅰ.": "HK$ 48.00",
+            "Latin Jazz Song Book (Cuban)": "HK$ 48.00",
+            "Film Music Repertoire": "HK$ 38.00",
+            "Art Blakey&The Jazz Messengers": "HK$ 38.00",
+            "Benny Green Songbook": "HK$ 38.00",
+            "One Chord Funk (Dominant7th)": "HK$ 38.00",
+            "Essential Wayne Shorter": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784860637377,
@@ -279546,6 +279613,29 @@
           "timestamp": 1785237407822,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6787897705": {
+    "trackId": 6787897705,
+    "trackName": "火山的女兒",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 45,
+      "formattedPrice": "HK$ 45.00"
+    },
+    "minPriceInfo": {
+      "price": 45,
+      "formattedPrice": "HK$ 45.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785449095856,
+          "price": 45,
+          "formattedPrice": "HK$ 45.00",
           "inAppPurchases": {}
         }
       ]
