@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1411823462,
+    "region": "tw",
+    "timestamp": 1785506667031,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $150.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 6477535804,
+    "region": "tw",
+    "timestamp": 1785506667031,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $220.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6477535804",
+    "trackName": "虛空穹牢",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tw",
+    "timestamp": 1785506667031,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$60.00",
+        "to": "$20.00",
+        "range": "[$20.00 ~ $60.00]"
+      }
+    ],
+    "price": 20,
+    "formattedPrice": "$20.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6476342802",
+    "trackName": "Skel和Defense：地下城Roguelike防禦",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1160943124,
     "region": "tw",
     "timestamp": 1785478419325,
@@ -8107,7 +8167,7 @@
         "name": "Price",
         "from": "$220.00",
         "to": "$120.00",
-        "range": "[$120.00 ~ $220.00]"
+        "range": "[$90.00 ~ $220.00]"
       }
     ],
     "price": 120,

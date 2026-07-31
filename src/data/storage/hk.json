@@ -138747,6 +138747,14 @@
     "history": [
       [
         {
+          "timestamp": 1785506667031,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1782916477387,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -251047,12 +251055,23 @@
       "The Weaver": "HK$ 32.00"
     },
     "minPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "Developer Supporter Pack": "HK$ 22.00",
       "The Weaver": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785506667031,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "The Weaver": "HK$ 22.00",
+            "Developer Supporter Pack": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778425217397,
@@ -273160,6 +273179,19 @@
       "皮膚券 x3": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785506667031,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "經驗祝福": "HK$ 18.00",
+            "皮膚券 x8": "HK$ 22.00",
+            "皮膚券 x1": "HK$ 2.00",
+            "皮膚券 x3": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,
