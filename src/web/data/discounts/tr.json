@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 1410053842,
+    "region": "tr",
+    "timestamp": 1785535520140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "Free",
+        "range": "[Free ~ ₺149,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1410053842",
+    "trackName": "Selene: Shift Calendar",
+    "firstRecordedAt": 1745453324134
+  },
+  {
+    "trackId": 1411823462,
+    "region": "tr",
+    "timestamp": 1785535520140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺29,99",
+        "range": "[₺19,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1411823462",
+    "trackName": "7Days : Backer",
+    "firstRecordedAt": 1756379410498
+  },
+  {
+    "trackId": 6477535804,
+    "region": "tr",
+    "timestamp": 1785535520140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺399,99",
+        "to": "₺149,99",
+        "range": "[₺149,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6477535804",
+    "trackName": "Vault of the Void",
+    "firstRecordedAt": 1745560983791
+  },
+  {
+    "trackId": 6476342802,
+    "region": "tr",
+    "timestamp": 1785535520140,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "₺29,99",
+        "range": "[₺29,99 ~ ₺99,99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "₺29,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6476342802",
+    "trackName": "Skel and Defense",
+    "firstRecordedAt": 1778817905438
+  },
+  {
     "trackId": 1160943124,
     "region": "tr",
     "timestamp": 1785516330891,
@@ -8092,7 +8172,7 @@
         "name": "Price",
         "from": "₺399,99",
         "to": "₺199,99",
-        "range": "[₺199,99 ~ ₺399,99]"
+        "range": "[₺149,99 ~ ₺399,99]"
       }
     ],
     "price": 199.99,

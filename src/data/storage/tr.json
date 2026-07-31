@@ -4940,6 +4940,25 @@
     "history": [
       [
         {
+          "timestamp": 1785535520140,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "SPL Pro Module": "₺399,99",
+            "SPL Graph Module": "₺499,99",
+            "ETC Module": "₺299,99",
+            "SoundScope VR": "₺1.299,99",
+            "All-In Module Access": "₺449,99",
+            "Polarity Test Module": "₺199,99",
+            "VU Meter": "₺149,99",
+            "Speaker Distortion": "₺299,99",
+            "Phase Meter": "₺399,99",
+            "IR Module": "₺2.499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785525803841,
           "price": 999.99,
           "formattedPrice": "₺999,99",
@@ -104803,14 +104822,22 @@
   "1137257203": {
     "name": "Muslim Prayer Times Pro, Adhan",
     "maxPriceInfo": {
-      "price": 490,
-      "formattedPrice": "₺490,00"
+      "price": 499.9,
+      "formattedPrice": "₺499,90"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 499.9,
+          "formattedPrice": "₺499,90",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785334112079,
@@ -135353,10 +135380,18 @@
       "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784900628957,
@@ -135443,6 +135478,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782944237326,
@@ -141933,7 +141976,8 @@
       "Piggy Bank 5": "₺249,99",
       "Flash Sale Ultimate Essence 2": "₺499,99",
       "Double Exp Package 3": "₺199,99",
-      "Crystal Piggy Bank 5": "₺249,99"
+      "Crystal Piggy Bank 5": "₺249,99",
+      "Black Friday Chaos": "₺999,99"
     },
     "minPriceInfo": {
       "price": 39.99,
@@ -141971,9 +142015,29 @@
       "Piggy Bank 5": "₺229,99",
       "Flash Sale Ultimate Essence 2": "₺449,99",
       "Double Exp Package 3": "₺199,99",
-      "Crystal Piggy Bank 5": "₺249,99"
+      "Crystal Piggy Bank 5": "₺249,99",
+      "Black Friday Chaos": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Black Friday Chaos": "₺999,99",
+            "Flash Sale Ore Rune 2": "₺99,99",
+            "Flash Sale Star Rune 2": "₺99,99",
+            "First Purchase: Legendary Pack": "₺499,99",
+            "Piggy Bank": "₺149,99",
+            "Flash Sale Crystal 2": "₺149,99",
+            "Flash Sale Crystal 3": "₺99,99",
+            "Flash Sale Ore Rune 1": "₺149,99",
+            "Double Exp Package 1": "₺49,99",
+            "Piggy Bank 5": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782829258984,
@@ -243579,12 +243643,23 @@
       "The Weaver": "₺179,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99",
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
       "Developer Supporter Pack": "₺129,99",
       "The Weaver": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "The Weaver": "₺149,99",
+            "Developer Supporter Pack": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778453757552,
@@ -263248,6 +263323,19 @@
     "history": [
       [
         {
+          "timestamp": 1785535520140,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {
+            "Blessing of Experience": "₺99,99",
+            "Skin Ticket x1": "₺19,99",
+            "Skin Ticket x3": "₺49,99",
+            "Skin Ticket x8": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782944237326,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -265757,14 +265845,22 @@
   "6792675339": {
     "name": "ACO 投考全攻略 ACOReady",
     "maxPriceInfo": {
-      "price": 599.99,
-      "formattedPrice": "₺599,99"
+      "price": 799.99,
+      "formattedPrice": "₺799,99"
     },
     "minPriceInfo": {
       "price": 599.99,
       "formattedPrice": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785072025219,

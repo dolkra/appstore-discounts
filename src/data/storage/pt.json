@@ -19864,6 +19864,23 @@
     "history": [
       [
         {
+          "timestamp": 1785535520140,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Sandbox Unlock All Parts": "8,99 €",
+            "Sandbox Unlock Standard Parts": "8,99 €",
+            "Mission 16 Gold": "1,99 €",
+            "Nooleus X Parts Pack": "3,99 €",
+            "Transponder Module": "0,99 €",
+            "Mission 12 Skip": "0,99 €",
+            "Mission Free Unlock-All": "5,99 €",
+            "1000 Quick Launches": "3,99 €",
+            "Mission 15 Gold": "1,99 €",
+            "Mission 15 Skip": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1785525803841,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -53838,7 +53855,11 @@
       "SF2SEPack25": "29,99 €",
       "SF2SEPack30": "34,99 €",
       "SF2SEPack14": "14,99 €",
-      "SF2SEPack15": "17,99 €"
+      "SF2SEPack15": "17,99 €",
+      "SF2SEPack120": "129,99 €",
+      "SF2SEPack100": "99,99 €",
+      "SF2SEPack90": "99,99 €",
+      "SF2SEPack75": "79,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -53868,9 +53889,32 @@
       "SF2SEPack25": "29,99 €",
       "SF2SEPack30": "34,99 €",
       "SF2SEPack14": "14,99 €",
-      "SF2SEPack15": "17,99 €"
+      "SF2SEPack15": "17,99 €",
+      "SF2SEPack120": "129,99 €",
+      "SF2SEPack100": "99,99 €",
+      "SF2SEPack90": "99,99 €",
+      "SF2SEPack75": "79,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pilha de Gemas": "2,99 €",
+            "Baú de Gemas": "9,99 €",
+            "Pilha de Moedas": "0,99 €",
+            "Bolsa de Moedas": "5,99 €",
+            "Bolsa de Gemas": "22,99 €",
+            "Bau de Moedas": "22,99 €",
+            "SF2SEPack120": "129,99 €",
+            "SF2SEPack100": "99,99 €",
+            "SF2SEPack90": "99,99 €",
+            "SF2SEPack75": "79,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784872206455,
@@ -61719,10 +61763,18 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784900628957,
@@ -61801,6 +61853,14 @@
       "formattedPrice": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782944237326,
@@ -99075,12 +99135,23 @@
       "Developer Supporter Pack": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €",
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
       "The Weaver": "2,99 €",
       "Developer Supporter Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "The Weaver": "2,99 €",
+            "Developer Supporter Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778453757552,
@@ -100626,6 +100697,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1785535520140,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Airbus A321": "1,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 787-9": "3,99 €"
+          }
+        },
         {
           "timestamp": 1785478419325,
           "price": 3.99,
@@ -121320,6 +121408,19 @@
     "history": [
       [
         {
+          "timestamp": 1785535520140,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {
+            "Blessing of Experience": "1,99 €",
+            "Skin Ticket x1": "0,29 €",
+            "Skin Ticket x3": "0,99 €",
+            "Skin Ticket x8": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782944237326,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -123792,14 +123893,22 @@
   "6792675339": {
     "name": "ACO 投考全攻略 ACOReady",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "12,99 €"
+      "price": 17.99,
+      "formattedPrice": "17,99 €"
     },
     "minPriceInfo": {
       "price": 12.99,
       "formattedPrice": "12,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785535520140,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785072025219,
