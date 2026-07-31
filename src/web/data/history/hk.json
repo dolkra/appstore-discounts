@@ -301,6 +301,29 @@
       ]
     ]
   },
+  "299029654": {
+    "trackId": 299029654,
+    "trackName": "大辞林",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "299117180": {
     "trackId": 299117180,
     "trackName": "Airports",
@@ -149324,7 +149347,8 @@
       "Cirrus Cuts Sample Pack": "HK$ 22.00",
       "Analog Astronaut Samplepack": "HK$ 22.00",
       "Soon Come Dub Sample Pack": "HK$ 22.00",
-      "Solar Studies Samplepack": "HK$ 22.00"
+      "Solar Studies Samplepack": "HK$ 22.00",
+      "Ese-O's Sample Pack": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -149335,9 +149359,26 @@
       "Cirrus Cuts Sample Pack": "HK$ 22.00",
       "Analog Astronaut Samplepack": "HK$ 22.00",
       "Soon Come Dub Sample Pack": "HK$ 18.00",
-      "Solar Studies Samplepack": "HK$ 22.00"
+      "Solar Studies Samplepack": "HK$ 22.00",
+      "Ese-O's Sample Pack": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Samurai Edition": "HK$ 32.00",
+            "Mixer": "HK$ 38.00",
+            "Cirrus Cuts Sample Pack": "HK$ 22.00",
+            "Analog Astronaut Samplepack": "HK$ 22.00",
+            "Solar Studies Samplepack": "HK$ 22.00",
+            "Soon Come Dub Sample Pack": "HK$ 22.00",
+            "Ese-O's Sample Pack": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773348225075,
@@ -149711,6 +149752,25 @@
       "禮包1": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "68金玉": "HK$ 78.00",
+            "30金玉": "HK$ 38.00",
+            "6金玉": "HK$ 8.00",
+            "禮包2": "HK$ 8.00",
+            "198金玉": "HK$ 238.00",
+            "648金玉": "HK$ 788.00",
+            "一鍵買斷禮包": "HK$ 38.00",
+            "尊享月俸": "HK$ 38.00",
+            "328金玉": "HK$ 398.00",
+            "6元新手禮包​​": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784930640340,
@@ -182544,6 +182604,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1785465944906,
+          "price": 128,
+          "formattedPrice": "HK$ 128.00",
+          "inAppPurchases": {
+            "Swing Ⅱ-V-I-VI 12key (Long)": "HK$ 38.00",
+            "Major Jazz Blues 12 key": "HK$ 38.00",
+            "Minor Blues 12 key": "HK$ 38.00",
+            "Bossa Nova Blues 12key": "HK$ 22.00",
+            "Antonio Carlos Jobim Book Ⅰ.": "HK$ 48.00",
+            "Feel Like Makin love 12key": "HK$ 22.00",
+            "Bill Evans Repertoire": "HK$ 58.00",
+            "Rhythm Changes Reharmonization": "HK$ 22.00",
+            "Rhythm Change 12key": "HK$ 38.00",
+            "F.T.B (Robert Glasper) 12 key": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1785449095856,
           "price": 128,

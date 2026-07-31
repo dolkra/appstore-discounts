@@ -301,6 +301,29 @@
       ]
     ]
   },
+  "299029654": {
+    "trackId": 299029654,
+    "trackName": "大辞林",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 18.99,
+      "formattedPrice": "USD 18.99"
+    },
+    "minPriceInfo": {
+      "price": 18.99,
+      "formattedPrice": "USD 18.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 18.99,
+          "formattedPrice": "USD 18.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "299117180": {
     "trackId": 299117180,
     "trackName": "Airports",
@@ -113593,7 +113616,8 @@
       "Cirrus Cuts Sample Pack": "USD 2.99",
       "Analog Astronaut Samplepack": "USD 2.99",
       "Soon Come Dub Sample Pack": "USD 2.99",
-      "Solar Studies Samplepack": "USD 2.99"
+      "Solar Studies Samplepack": "USD 2.99",
+      "Ese-O's Sample Pack": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -113604,9 +113628,26 @@
       "Cirrus Cuts Sample Pack": "USD 2.99",
       "Analog Astronaut Samplepack": "USD 2.99",
       "Soon Come Dub Sample Pack": "USD 2.49",
-      "Solar Studies Samplepack": "USD 2.99"
+      "Solar Studies Samplepack": "USD 2.99",
+      "Ese-O's Sample Pack": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Mixer": "USD 4.99",
+            "Samurai Edition": "USD 3.99",
+            "Ese-O's Sample Pack": "USD 2.99",
+            "Solar Studies Samplepack": "USD 2.99",
+            "Cirrus Cuts Sample Pack": "USD 2.99",
+            "Analog Astronaut Samplepack": "USD 2.99",
+            "Soon Come Dub Sample Pack": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773342222334,

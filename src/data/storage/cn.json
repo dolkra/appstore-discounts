@@ -186,6 +186,27 @@
       ]
     ]
   },
+  "299029654": {
+    "name": "大辞林",
+    "maxPriceInfo": {
+      "price": 128,
+      "formattedPrice": "¥128.00"
+    },
+    "minPriceInfo": {
+      "price": 128,
+      "formattedPrice": "¥128.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 128,
+          "formattedPrice": "¥128.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "299117180": {
     "name": "Airports",
     "maxPriceInfo": {
@@ -92901,6 +92922,25 @@
     "history": [
       [
         {
+          "timestamp": 1785465944906,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "96钻石": "¥6.00",
+            "天天好礼6元礼包": "¥6.00",
+            "天天好礼12元礼包": "¥12.00",
+            "雷杰多礼包": "¥18.00",
+            "天天好礼18元礼包": "¥18.00",
+            "天天好礼3元礼包": "¥3.00",
+            "天天好礼25元礼包": "¥25.00",
+            "60星钻": "¥6.00",
+            "10金币": "¥6.00",
+            "30金币": "¥18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785390052339,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -108711,7 +108751,8 @@
       "Cirrus Cuts Sample Pack": "¥22.00",
       "Analog Astronaut Samplepack": "¥22.00",
       "Soon Come Dub Sample Pack": "¥22.00",
-      "Solar Studies Samplepack": "¥22.00"
+      "Solar Studies Samplepack": "¥22.00",
+      "Ese-O's Sample Pack": "¥22.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -108722,9 +108763,26 @@
       "Cirrus Cuts Sample Pack": "¥22.00",
       "Analog Astronaut Samplepack": "¥22.00",
       "Soon Come Dub Sample Pack": "¥18.00",
-      "Solar Studies Samplepack": "¥22.00"
+      "Solar Studies Samplepack": "¥22.00",
+      "Ese-O's Sample Pack": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Samurai Edition": "¥28.00",
+            "Mixer": "¥38.00",
+            "Cirrus Cuts Sample Pack": "¥22.00",
+            "Analog Astronaut Samplepack": "¥22.00",
+            "Solar Studies Samplepack": "¥22.00",
+            "Soon Come Dub Sample Pack": "¥22.00",
+            "Ese-O's Sample Pack": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773348225075,
@@ -171750,6 +171808,25 @@
       "月下追魂": "¥28.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 45,
+          "formattedPrice": "¥45.00",
+          "inAppPurchases": {
+            "自创武将": "¥18.00",
+            "战国七雄": "¥36.00",
+            "楚汉争霸": "¥36.00",
+            "群雄争霸": "¥18.00",
+            "自创地图": "¥24.00",
+            "无双战神": "¥36.00",
+            "重振汉室": "¥18.00",
+            "冠绝天下": "¥36.00",
+            "终身版": "¥45.00",
+            "自创武将朝代特色兵种补丁": "¥48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785419957270,

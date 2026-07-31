@@ -474,6 +474,27 @@
       ]
     ]
   },
+  "299029654": {
+    "name": "大辞林",
+    "maxPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "minPriceInfo": {
+      "price": 999.99,
+      "formattedPrice": "₺999,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "299117180": {
     "name": "Airports",
     "maxPriceInfo": {
@@ -141137,7 +141158,8 @@
       "Cirrus Cuts Sample Pack": "₺149,99",
       "Analog Astronaut Samplepack": "₺149,99",
       "Soon Come Dub Sample Pack": "₺149,99",
-      "Solar Studies Samplepack": "₺149,99"
+      "Solar Studies Samplepack": "₺149,99",
+      "Ese-O's Sample Pack": "₺149,99"
     },
     "minPriceInfo": {
       "price": 229.99,
@@ -141148,9 +141170,26 @@
       "Cirrus Cuts Sample Pack": "₺129,99",
       "Analog Astronaut Samplepack": "₺129,99",
       "Soon Come Dub Sample Pack": "₺99,99",
-      "Solar Studies Samplepack": "₺149,99"
+      "Solar Studies Samplepack": "₺149,99",
+      "Ese-O's Sample Pack": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Samurai Edition": "₺199,99",
+            "Mixer": "₺249,99",
+            "Analog Astronaut Samplepack": "₺149,99",
+            "Soon Come Dub Sample Pack": "₺149,99",
+            "Cirrus Cuts Sample Pack": "₺149,99",
+            "Solar Studies Samplepack": "₺149,99",
+            "Ese-O's Sample Pack": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773342222334,
@@ -152281,6 +152320,25 @@
       "Emerald Bundle": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Ruby Dragon Sale": "₺149,99",
+            "The Complete Collection": "₺1.999,99",
+            "Golden Dice": "₺249,99",
+            "Emberwing Token": "₺499,99",
+            "Champions Token Bundle": "₺799,99",
+            "Welcome Offer": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785304333084,
@@ -227259,6 +227317,25 @@
       "Airbus A321 XLR": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A350-1000": "₺199,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 787-10": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "UH-60": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785428765959,

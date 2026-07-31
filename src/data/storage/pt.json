@@ -309,6 +309,27 @@
       ]
     ]
   },
+  "299029654": {
+    "name": "大辞林",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "19,99 €"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "19,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 19.99,
+          "formattedPrice": "19,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "299117180": {
     "name": "Airports",
     "maxPriceInfo": {
@@ -64055,7 +64076,8 @@
       "Cirrus Cuts Sample Pack": "2,99 €",
       "Analog Astronaut Samplepack": "2,99 €",
       "Soon Come Dub Sample Pack": "2,99 €",
-      "Solar Studies Samplepack": "2,99 €"
+      "Solar Studies Samplepack": "2,99 €",
+      "Ese-O's Sample Pack": "2,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -64065,9 +64087,26 @@
       "Cirrus Cuts Sample Pack": "2,99 €",
       "Analog Astronaut Samplepack": "2,99 €",
       "Soon Come Dub Sample Pack": "2,99 €",
-      "Solar Studies Samplepack": "2,99 €"
+      "Solar Studies Samplepack": "2,99 €",
+      "Ese-O's Sample Pack": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Samurai Edition": "3,99 €",
+            "Mixer": "5,99 €",
+            "Solar Studies Samplepack": "2,99 €",
+            "Cirrus Cuts Sample Pack": "2,99 €",
+            "Analog Astronaut Samplepack": "2,99 €",
+            "Soon Come Dub Sample Pack": "2,99 €",
+            "Ese-O's Sample Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1773342222334,
@@ -67539,6 +67578,25 @@
       "The Unicorn": "3,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785465944906,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Stormwing Token": "9,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Golden Dice": "4,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785419957270,
