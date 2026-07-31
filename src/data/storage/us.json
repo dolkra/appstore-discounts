@@ -301514,6 +301514,25 @@
     "history": [
       [
         {
+          "timestamp": 1785497333507,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Kitchen Chaos Card Back": "$0.99",
+            "Slice of Heaven Outfit": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785390052339,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -324371,6 +324390,48 @@
           "timestamp": 1785449095856,
           "price": 10.99,
           "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753077755": {
+    "name": "How Many Dudes?",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785497333507,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785557805": {
+    "name": "Antizuck Smart Glasses Scanner",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785497333507,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]

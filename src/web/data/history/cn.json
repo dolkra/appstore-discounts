@@ -120097,6 +120097,25 @@
     "history": [
       [
         {
+          "timestamp": 1785497333507,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6金玉": "¥6.00",
+            "30金玉": "¥30.00",
+            "68金玉": "¥68.00",
+            "6元礼包": "¥6.00",
+            "198金玉": "¥198.00",
+            "高级月奉": "¥30.00",
+            "648金玉": "¥648.00",
+            "30元礼包": "¥30.00",
+            "328金玉": "¥328.00",
+            "68元礼包": "¥68.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785304333084,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -216791,6 +216810,29 @@
           "timestamp": 1785237407822,
           "price": 15,
           "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6785557805": {
+    "trackId": 6785557805,
+    "trackName": "Antizuck Smart Glasses Scanner",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "¥22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785497333507,
+          "price": 22,
+          "formattedPrice": "¥22.00",
           "inAppPurchases": {}
         }
       ]
