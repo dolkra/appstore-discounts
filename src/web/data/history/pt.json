@@ -20372,6 +20372,25 @@
     "history": [
       [
         {
+          "timestamp": 1785525803841,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Mission 37 Gold": "2,99 €",
+            "Mission 36 Gold": "2,99 €",
+            "Mission 37 Demo": "0,99 €",
+            "Mission 36 Demo": "0,99 €",
+            "Mission 36 Skip": "1,99 €",
+            "Mission 35 Skip": "1,99 €",
+            "Mission 35 Gold": "2,99 €",
+            "Mission 35 Demo": "0,99 €",
+            "Mission 34 Skip": "1,99 €",
+            "Mission 34 Gold": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1781945771294,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -114973,7 +114992,7 @@
   },
   "6476010032": {
     "trackId": 6476010032,
-    "trackName": "拦截猫-垃圾短信电话拦截",
+    "trackName": "拦截猫 - 骚扰电话与垃圾短信拦截",
     "region": "pt",
     "maxPriceInfo": {
       "price": 0,
