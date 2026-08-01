@@ -95025,8 +95025,8 @@
   "6746699177": {
     "name": "Lysoniq",
     "maxPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "14,99 €",
+      "price": 17.99,
+      "formattedPrice": "17,99 €",
       "LYNQ+ Monthly": "2,99 €"
     },
     "minPriceInfo": {
@@ -95035,6 +95035,16 @@
       "LYNQ+ Monthly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785572401820,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784352341835,

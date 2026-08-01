@@ -38301,6 +38301,25 @@
     "history": [
       [
         {
+          "timestamp": 1785572401820,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Alien Chemistry": "HK$ 8.00",
+            "Atmospheric Interference": "HK$ 8.00",
+            "Void Signal": "HK$ 8.00",
+            "Brittle Lattice": "HK$ 8.00",
+            "Quantum Obfuscation": "HK$ 8.00",
+            "Synaptic Pulse": "HK$ 8.00",
+            "Lattice Shedding": "HK$ 8.00",
+            "Crystal Overclock": "HK$ 8.00",
+            "Magnetic Siphon": "HK$ 8.00",
+            "Harmonic Vibrations": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785409675930,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -260325,8 +260344,8 @@
   "6746699177": {
     "name": "Lysoniq",
     "maxPriceInfo": {
-      "price": 98,
-      "formattedPrice": "HK$ 98.00",
+      "price": 118,
+      "formattedPrice": "HK$ 118.00",
       "LYNQ+ Monthly": "HK$ 18.00"
     },
     "minPriceInfo": {
@@ -260335,6 +260354,16 @@
       "LYNQ+ Monthly": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785572401820,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784352341835,

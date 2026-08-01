@@ -47086,6 +47086,23 @@
     "history": [
       [
         {
+          "timestamp": 1785572401820,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Skatepark: The Factory": "₺49,99",
+            "Skatepark: Inbound": "₺49,99",
+            "Skatepark: Schoolyard": "₺49,99",
+            "Skatepark: Mondo Ramp": "₺49,99",
+            "Unlimited Custom Images": "₺249,99",
+            "Slow Motion Mode": "₺49,99",
+            "Skatepark: Double Infinity": "₺49,99",
+            "Skatepark: The Warehouse": "₺49,99",
+            "Skatepark: The Valley": "₺49,99",
+            "SLS 2013: Kansas City": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1785563673975,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -254930,8 +254947,8 @@
     "trackName": "Lysoniq",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 699.99,
-      "formattedPrice": "₺699,99",
+      "price": 799.99,
+      "formattedPrice": "₺799,99",
       "LYNQ+ Monthly": "₺129,99"
     },
     "minPriceInfo": {
@@ -254940,6 +254957,16 @@
       "LYNQ+ Monthly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785572401820,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784352341835,

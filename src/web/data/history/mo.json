@@ -37785,6 +37785,25 @@
     "history": [
       [
         {
+          "timestamp": 1785572401820,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Classic Tack Tower Skin Sale": "USD 0.99",
+            "Classic Tack Tower Skin": "USD 1.99",
+            "Classic Super Monkey Skin Sale": "USD 0.99",
+            "Classic Super Monkey Skin": "USD 1.99",
+            "Classic Ice Tower Skin Sale": "USD 0.99",
+            "Classic Ice Tower Skin": "USD 1.99",
+            "Classic Bomb Tower Skin Sale": "USD 0.99",
+            "Classic Bomb Tower Skin": "USD 1.99",
+            "Classic Dart Monkey Skin Sale": "USD 0.99",
+            "Classic Dart Monkey Skin": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784804950499,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -180977,8 +180996,8 @@
     "trackName": "Lysoniq",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "USD 12.99",
+      "price": 14.99,
+      "formattedPrice": "USD 14.99",
       "LYNQ+ Monthly": "USD 2.49"
     },
     "minPriceInfo": {
@@ -180987,6 +181006,16 @@
       "LYNQ+ Monthly": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785572401820,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784352341835,
