@@ -86595,6 +86595,23 @@
     "history": [
       [
         {
+          "timestamp": 1785552251363,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "$0.99",
+            "金牛会员连续包月": "$0.99",
+            "金牛会员月版": "$2.99",
+            "手机Level-2包年服务": "$12.99",
+            "金牛会员尊享版连续包年": "$14.99",
+            "分时顶底连续包季": "$18.99",
+            "手机超级Level-2连续包半年": "$6.49",
+            "机构探测器连续包月": "$17.49",
+            "手机高级诊股连续包月": "$0.99",
+            "手机超级Level2两年版": "$22.99"
+          }
+        },
+        {
           "timestamp": 1785535520140,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -132727,7 +132744,10 @@
       "SF2SEPack12": "$11.99",
       "SF2SEPack14": "$13.99",
       "SF2SEPack11": "$10.99",
-      "SF2SEPack15": "$14.99"
+      "SF2SEPack15": "$14.99",
+      "SF2SEPack120": "$119.99",
+      "SF2SEPack100": "$99.99",
+      "SF2SEPack90": "$89.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -132754,9 +132774,31 @@
       "SF2SEPack12": "$11.99",
       "SF2SEPack14": "$13.99",
       "SF2SEPack11": "$10.99",
-      "SF2SEPack15": "$14.99"
+      "SF2SEPack15": "$14.99",
+      "SF2SEPack120": "$119.99",
+      "SF2SEPack100": "$99.99",
+      "SF2SEPack90": "$89.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785552251363,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99",
+            "SF2SEPack120": "$119.99",
+            "SF2SEPack100": "$99.99",
+            "SF2SEPack90": "$89.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779381692434,
@@ -156598,10 +156640,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785552251363,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784900628957,
@@ -156686,6 +156736,14 @@
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785552251363,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782963215579,
@@ -295200,12 +295258,23 @@
       "The Weaver": "$3.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "$3.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "Developer Supporter Pack": "$2.99",
       "The Weaver": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785552251363,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "The Weaver": "$2.99",
+            "Developer Supporter Pack": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778472537616,
@@ -325719,6 +325788,19 @@
     "history": [
       [
         {
+          "timestamp": 1785552251363,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {
+            "Blessing of Experience": "$1.99",
+            "Skin Ticket x3": "$0.99",
+            "Skin Ticket x8": "$2.99",
+            "Skin Ticket x1": "$0.29"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782963215579,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -328582,14 +328664,22 @@
     "trackName": "ACO 投考全攻略 ACOReady",
     "region": "us",
     "maxPriceInfo": {
-      "price": 11.99,
-      "formattedPrice": "$11.99"
+      "price": 14.99,
+      "formattedPrice": "$14.99"
     },
     "minPriceInfo": {
       "price": 11.99,
       "formattedPrice": "$11.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785552251363,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785072025219,
