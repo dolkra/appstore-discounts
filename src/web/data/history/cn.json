@@ -142853,6 +142853,25 @@
     "history": [
       [
         {
+          "timestamp": 1785600007091,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "6元满级武器礼包": "¥6.00",
+            "30元月卡": "¥30.00",
+            "18元每日系统经验礼包": "¥18.00",
+            "6元每日电量礼包": "¥6.00",
+            "98元永久通行证": "¥98.00",
+            "12元每日活跃数据礼包": "¥12.00",
+            "30元快递券礼包": "¥30.00",
+            "98元每月限时皮肤礼包": "¥98.00",
+            "108每月签名皮肤礼包": "¥108.00",
+            "98月度通行证": "¥98.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785478419325,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -208556,6 +208575,14 @@
     "history": [
       [
         {
+          "timestamp": 1785600007091,
+          "price": 68,
+          "formattedPrice": "¥68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785237407822,
           "price": 58,
           "formattedPrice": "¥58.00",
@@ -217123,6 +217150,29 @@
           "timestamp": 1785497333507,
           "price": 22,
           "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793964973": {
+    "trackId": 6793964973,
+    "trackName": "ForBand - Band Practice",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "minPriceInfo": {
+      "price": 28,
+      "formattedPrice": "¥28.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785600007091,
+          "price": 28,
+          "formattedPrice": "¥28.00",
           "inAppPurchases": {}
         }
       ]
