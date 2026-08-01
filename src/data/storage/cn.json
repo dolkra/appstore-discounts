@@ -191200,8 +191200,8 @@
   "6746699177": {
     "name": "Lysoniq",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "¥88.00",
+      "price": 98,
+      "formattedPrice": "¥98.00",
       "LYNQ+ Monthly": "¥18.00"
     },
     "minPriceInfo": {
@@ -191210,6 +191210,16 @@
       "LYNQ+ Monthly": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785580788615,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "LYNQ+ Monthly": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,
