@@ -52627,7 +52627,12 @@
       "Heads Up! - BYO Free Deck": "$0.00",
       "DIY Bundle": "$290.00",
       "Heads Up! - BYO Free Deck B": "$0.00",
-      "AAPI Month Bundle Sale": "$150.00"
+      "AAPI Month Bundle Sale": "$150.00",
+      "LifeTime Pass 50": "$1,490.00",
+      "LifeTime Pass 30": "$990.00",
+      "Love Island USA Fan Deck": "$0.00",
+      "Holiday Offer 4th of July 2026": "$690.00",
+      "DIY Bundle Sale": "$220.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -52742,9 +52747,33 @@
       "Heads Up! - BYO Free Deck": "$0.00",
       "DIY Bundle": "$290.00",
       "Heads Up! - BYO Free Deck B": "$0.00",
-      "AAPI Month Bundle Sale": "$150.00"
+      "AAPI Month Bundle Sale": "$150.00",
+      "LifeTime Pass 50": "$1,490.00",
+      "LifeTime Pass 30": "$990.00",
+      "Love Island USA Fan Deck": "$0.00",
+      "Holiday Offer 4th of July 2026": "$690.00",
+      "DIY Bundle Sale": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785563673975,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "LifeTime Pass 50": "$1,490.00",
+            "LifeTime Pass 30": "$990.00",
+            "Love Island USA Fan Deck": "$0.00",
+            "Holiday Offer 4th of July 2026": "$690.00",
+            "DIY Bundle Sale": "$220.00",
+            "Holiday Offer Spring 2026": "$690.00",
+            "AAPI Music Deck": "$60.00",
+            "AAPI Films Deck": "$60.00",
+            "AAPI Month Bundle": "$190.00",
+            "Heads Up! - BYO Free Deck": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779296234034,
@@ -171147,7 +171176,7 @@
     ]
   },
   "1494197457": {
-    "name": "白平衡计AI - KEV",
+    "name": "KEV色溫儀-白平衡測光表照度計",
     "maxPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
@@ -181709,7 +181738,8 @@
       "Catalyst Support Pack": "$150.00",
       "Infinitum Support Banner": "$120.00",
       "Buy the devs a coffee": "$150.00",
-      "Synthesis Support Pack": "$120.00"
+      "Synthesis Support Pack": "$120.00",
+      "Nexus of Nightmares": "$190.00"
     },
     "minPriceInfo": {
       "price": 60,
@@ -181726,9 +181756,29 @@
       "Catalyst Support Pack": "$150.00",
       "Infinitum Support Banner": "$120.00",
       "Buy the devs a coffee": "$150.00",
-      "Synthesis Support Pack": "$120.00"
+      "Synthesis Support Pack": "$120.00",
+      "Nexus of Nightmares": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785563673975,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Nexus of Nightmares": "$190.00",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Dawncaster Mega Bundle": "$390.00",
+            "Siege of Shadows": "$150.00",
+            "Infernal Invasions": "$190.00",
+            "Dawncaster Origins Bundle": "$150.00",
+            "Masks of Misery": "$150.00",
+            "Tribes of Twilight": "$150.00",
+            "Eclypse Supporter Pack": "$120.00",
+            "Death of Divinity": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782747962673,
@@ -285318,7 +285368,7 @@
     ]
   },
   "6762582312": {
-    "name": "破軍：三國 - 極致RTS策略手遊",
+    "name": "破軍：三國 - RTS策略手遊",
     "maxPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00"

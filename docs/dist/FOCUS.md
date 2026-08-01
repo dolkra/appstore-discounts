@@ -57,7 +57,7 @@ So far, we've covered `7` `Countries or Regions` and  `2174` `Apps` <br />Push n
 |2127|6756307024|Automatic|❌|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: Roguelike Tycoon|The Company: Roguelike Tycoon|The Company: Gestão Roguelike|
 |2126|607648590|Automatic|❌|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|
 |2125|6775108560|Automatic|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|
-|2124|6762582312|Automatic|❌|破軍：三國 - 極致RTS策略手遊|破軍：三國 - 極致RTS策略手遊|破軍：三國 - 極致RTS策略手遊|Po Jun: Three Kingdoms - RTS|Po Jun: Three Kingdoms - RTS|❌|
+|2124|6762582312|Automatic|❌|破軍：三國 - RTS策略手遊|破軍：三國 - RTS策略手遊|破軍：三國 - RTS策略手遊|Po Jun: Three Kingdoms - RTS|Po Jun: Three Kingdoms - RTS|❌|
 |2123|6785585993|Automatic|❌|Emlakçı|Emlakçı|Emlakçı|Emlakçı|Emlakçı|Emlakçı|
 |2122|1011806461|Automatic|❌|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|
 |2121|1576368371|Automatic|❌|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|
@@ -811,7 +811,7 @@ So far, we've covered `7` `Countries or Regions` and  `2174` `Apps` <br />Push n
 |1373|574423763|Automatic|雅调-最专业十二平均律调音器，吉他、尤克里里、小提琴校音器|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|雅調 - 最專業十二平均律調音器，吉他，尤克里裡，小提琴校音|Elegantune Pro Chromatic Tuner|Elegantune Pro Chromatic Tuner|Elegantune Pro Chromatic Tuner|
 |1372|1566827448|Automatic|❌|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|Forgotten Hill: First Steps|
 |1371|6751425710|Automatic|爱的课程|愛的課程|愛的課程|愛的課程|A Course of Love|A Course of Love|A Course of Love|
-|1370|1494197457|Automatic|白平衡AI - KEV|白平衡计AI - KEV|白平衡计AI - KEV|白平衡计AI - KEV|White Balance Meter AI - KEV|White Balance Meter AI - KEV|White Balance Meter AI - KEV|
+|1370|1494197457|Automatic|KEV色温仪-白平衡测光表照度计|KEV色溫儀-白平衡測光表照度計|KEV色溫儀-白平衡測光表照度計|KEV色溫儀-白平衡測光表照度計|White Balance Meter AI - KEV|KEV - AI White Balance Meter|White Balance Meter AI - KEV|
 |1369|1511788295|Automatic|❌|Crying Suns|Crying Suns|Crying Suns|Crying Suns|Crying Suns|Crying Suns|
 |1368|1494621456|Automatic|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|Buteyko Breathing Daily Log|
 |1367|1558052531|Automatic|风光摄影助手Pro:风光摄影计划好帮手|風光攝影助手Pro:風光攝影計劃好幫手|風光攝影助手Pro:風光攝影計劃好幫手|風光攝影助手Pro:風光攝影計劃好幫手|LandscapePhotographyHelper Pro|LandscapePhotographyHelper Pro|LandscapePhotographyHelper Pro|
