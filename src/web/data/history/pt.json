@@ -76085,8 +76085,8 @@
     "trackName": "TeleGuard",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €",
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
       "TeleGuard ID": "2,99 €",
       "5$": "5,99 €",
       "Advanced calls promo": "2,99 €",
@@ -76113,6 +76113,25 @@
       "Medium coffee": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785667244351,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "TeleGuard ID": "2,99 €",
+            "5$": "5,99 €",
+            "Advanced calls promo": "2,99 €",
+            "Channel": "8,00 €",
+            "Small coffee": "0,99 €",
+            "20$": "22,99 €",
+            "Big coffee": "5,99 €",
+            "Advanced calls": "3,99 €",
+            "100$": "99,99 €",
+            "Medium coffee": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -76900,6 +76919,29 @@
           "timestamp": 1761797674362,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1518917462": {
+    "trackId": 1518917462,
+    "trackName": "Python零基础入门篇",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "6,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785667244351,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
           "inAppPurchases": {}
         }
       ]

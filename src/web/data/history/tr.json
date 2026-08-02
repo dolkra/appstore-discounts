@@ -173336,8 +173336,8 @@
     "trackName": "TeleGuard",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 40.99,
-      "formattedPrice": "₺40,99",
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
       "5$": "₺249,99",
       "TeleGuard ID": "₺149,99",
       "Advanced calls": "₺199,99",
@@ -173364,6 +173364,25 @@
       "Small coffee": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785667244351,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "5$": "₺249,99",
+            "TeleGuard ID": "₺149,99",
+            "Advanced calls": "₺199,99",
+            "Advanced calls promo": "₺129,99",
+            "Channel": "₺399,99",
+            "100$": "₺4.999,99",
+            "20$": "₺999,99",
+            "Big coffee": "₺249,99",
+            "Medium coffee": "₺149,99",
+            "Small coffee": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -174867,6 +174886,29 @@
           "timestamp": 1745328692670,
           "price": 149.99,
           "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1518917462": {
+    "trackId": 1518917462,
+    "trackName": "Python零基础入门篇",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "minPriceInfo": {
+      "price": 299.99,
+      "formattedPrice": "₺299,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785667244351,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
           "inAppPurchases": {}
         }
       ]

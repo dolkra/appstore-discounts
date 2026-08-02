@@ -192573,8 +192573,8 @@
     "trackName": "TeleGuard",
     "region": "us",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99",
+      "price": 3.99,
+      "formattedPrice": "$3.99",
       "TeleGuard ID": "$2.99",
       "5$": "$4.99",
       "Channel": "$7.00",
@@ -192601,6 +192601,25 @@
       "Advanced calls": "$3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785667244351,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "TeleGuard ID": "$2.99",
+            "5$": "$4.99",
+            "Channel": "$7.00",
+            "20$": "$19.99",
+            "Advanced calls promo": "$2.49",
+            "Big coffee": "$4.99",
+            "Medium coffee": "$2.99",
+            "Small coffee": "$0.99",
+            "100$": "$99.99",
+            "Advanced calls": "$3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761104397968,
@@ -193893,6 +193912,29 @@
           "timestamp": 1745328692670,
           "price": 2.99,
           "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1518917462": {
+    "trackId": 1518917462,
+    "trackName": "Python零基础入门篇",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "$5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785667244351,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
           "inAppPurchases": {}
         }
       ]
@@ -282856,6 +282898,25 @@
       "Airbus A321 XLR": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785667244351,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785465944906,
