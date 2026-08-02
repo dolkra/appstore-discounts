@@ -1,5 +1,72 @@
 [
   {
+    "trackId": 1441532941,
+    "region": "pt",
+    "timestamp": 1785707760777,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "49,99 €",
+        "to": "14,99 €",
+        "range": "[9,99 € ~ 49,99 €]"
+      }
+    ],
+    "price": 14.99,
+    "formattedPrice": "14,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1441532941",
+    "trackName": "Divinity: Original Sin 2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1459520638,
+    "region": "pt",
+    "timestamp": 1785707760777,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Passe Temporada de Pacote de Aves",
+        "from": "24,99 €",
+        "to": "22,49 €",
+        "range": "[22,49 € ~ 24,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Aves Asiáticas Adicionais",
+        "from": "5,99 €",
+        "to": "5,39 €",
+        "range": "[5,39 € ~ 5,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6673906410,
+    "region": "pt",
+    "timestamp": 1785707760777,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6673906410",
+    "trackName": "Sea of Stars",
+    "firstRecordedAt": 1775569659553
+  },
+  {
     "trackId": 1410053842,
     "region": "pt",
     "timestamp": 1785535520140,
