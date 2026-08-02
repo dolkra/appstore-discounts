@@ -173310,8 +173310,8 @@
   "1505636751": {
     "name": "TeleGuard",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 120,
+      "formattedPrice": "$120.00",
       "Advanced calls": "$120.00",
       "Advanced calls promo": "$90.00",
       "Channel": "$220.00",
@@ -173338,6 +173338,25 @@
       "Small coffee": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785676735395,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Advanced calls": "$120.00",
+            "Advanced calls promo": "$90.00",
+            "Channel": "$220.00",
+            "100$": "$2,990.00",
+            "20$": "$690.00",
+            "5$": "$150.00",
+            "TeleGuard ID": "$90.00",
+            "Big coffee": "$150.00",
+            "Medium coffee": "$90.00",
+            "Small coffee": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1753971333008,

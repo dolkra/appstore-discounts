@@ -128728,8 +128728,8 @@
     "trackName": "TeleGuard",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0,
-      "formattedPrice": "免費",
+      "price": 3.99,
+      "formattedPrice": "USD 3.99",
       "Advanced calls": "USD 3.49",
       "Advanced calls promo": "USD 2.49",
       "Channel": "USD 7.00",
@@ -128756,6 +128756,25 @@
       "Small coffee": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785676735395,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Advanced calls": "USD 3.49",
+            "Advanced calls promo": "USD 2.49",
+            "Channel": "USD 7.00",
+            "100$": "USD 99.99",
+            "20$": "USD 19.99",
+            "5$": "USD 4.99",
+            "TeleGuard ID": "USD 2.99",
+            "Big coffee": "USD 4.99",
+            "Medium coffee": "USD 2.99",
+            "Small coffee": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
