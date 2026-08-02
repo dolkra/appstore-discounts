@@ -1,5 +1,72 @@
 [
   {
+    "trackId": 1441532941,
+    "region": "mo",
+    "timestamp": 1785686417506,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 44.99",
+        "to": "USD 12.99",
+        "range": "[USD 8.99 ~ USD 44.99]"
+      }
+    ],
+    "price": 12.99,
+    "formattedPrice": "USD 12.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1441532941",
+    "trackName": "神界：原罪2",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 1459520638,
+    "region": "mo",
+    "timestamp": 1785686417506,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "鳥類牌包季票",
+        "from": "USD 24.99",
+        "to": "USD 22.49",
+        "range": "[USD 22.49 ~ USD 24.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "《展翅翱翔》鳥類牌包：亞洲新增鳥類",
+        "from": "USD 5.99",
+        "to": "USD 5.39",
+        "range": "[USD 5.39 ~ USD 5.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 6673906410,
+    "region": "mo",
+    "timestamp": 1785686417506,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 9.99",
+        "to": "USD 5.99",
+        "range": "[USD 5.99 ~ USD 9.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "USD 5.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6673906410",
+    "trackName": "星之海",
+    "firstRecordedAt": 1775569659553
+  },
+  {
     "trackId": 1160943124,
     "region": "mo",
     "timestamp": 1785516330891,
