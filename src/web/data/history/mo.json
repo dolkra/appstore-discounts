@@ -36962,8 +36962,8 @@
       "中聲望包": "USD 8.99"
     },
     "minPriceInfo": {
-      "price": 0.9,
-      "formattedPrice": "USD 0.90",
+      "price": 0.79,
+      "formattedPrice": "USD 0.79",
       "無限的快進 !": "USD 2.99",
       "小型聲望包": "USD 1.59",
       "無限的雙倍 XP 值！": "USD 2.99",
@@ -36973,6 +36973,22 @@
       "中聲望包": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785759734208,
+          "price": 0.79,
+          "formattedPrice": "USD 0.79",
+          "inAppPurchases": {
+            "無限的快進 !": "USD 2.99",
+            "小型聲望包": "USD 1.59",
+            "無限的雙倍 XP 值！": "USD 2.99",
+            "很棒的聲望包": "USD 17.99",
+            "瘋狂的尊貴套餐": "USD 79.99",
+            "終極尊貴包": "USD 32.99",
+            "中聲望包": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782397971993,
@@ -81926,14 +81942,22 @@
     "trackName": "Namaz Vakti Pro (Reklamsız)",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 10.99,
-      "formattedPrice": "USD 10.99"
+      "price": 14.99,
+      "formattedPrice": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 2.99,
       "formattedPrice": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785759734208,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1766485902119,
@@ -106599,6 +106623,19 @@
     "history": [
       [
         {
+          "timestamp": 1785759734208,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "USD 3.99",
+            "Ragnarök DLC": "USD 3.99",
+            "Atlantis DLC": "USD 3.99",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782829258984,
           "price": 7.79,
           "formattedPrice": "USD 7.79",
@@ -125216,10 +125253,18 @@
       "formattedPrice": "USD 7.49"
     },
     "minPriceInfo": {
-      "price": 0.9,
-      "formattedPrice": "USD 0.90"
+      "price": 0.79,
+      "formattedPrice": "USD 0.79"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785759734208,
+          "price": 0.79,
+          "formattedPrice": "USD 0.79",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782397971993,
@@ -187247,6 +187292,14 @@
       "formattedPrice": "USD 2.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785759734208,
+          "price": 2.49,
+          "formattedPrice": "USD 2.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782397971993,

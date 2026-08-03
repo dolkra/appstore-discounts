@@ -48703,6 +48703,22 @@
     "history": [
       [
         {
+          "timestamp": 1785759734208,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Fast forward": "₺69,99",
+            "Small Prestige Pack": "₺29,99",
+            "XP Buff x2": "₺69,99",
+            "Medium Prestige Pack": "₺149,99",
+            "Awesome Prestige Pack": "₺349,99",
+            "Insane Prestige Package": "₺3.999,99",
+            "Ultimate Prestige Package": "₺619,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782397971993,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -104985,14 +105001,22 @@
   "1137257203": {
     "name": "Muslim Prayer Times Pro, Adhan",
     "maxPriceInfo": {
-      "price": 499.9,
-      "formattedPrice": "₺499,90"
+      "price": 549.9,
+      "formattedPrice": "₺549,90"
     },
     "minPriceInfo": {
       "price": 129.99,
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785759734208,
+          "price": 549.9,
+          "formattedPrice": "₺549,90",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785535520140,
@@ -136139,6 +136163,19 @@
     "history": [
       [
         {
+          "timestamp": 1785759734208,
+          "price": 17.99,
+          "formattedPrice": "₺17,99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "₺19,99",
+            "Ragnarök DLC": "₺19,99",
+            "Atlantis DLC": "₺19,99",
+            "Eternal Embers DLC": "₺19,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782857708407,
           "price": 69.99,
           "formattedPrice": "₺69,99",
@@ -167217,6 +167254,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785759734208,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782397971993,
@@ -258220,6 +258265,14 @@
       "formattedPrice": "₺17,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785759734208,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782397971993,

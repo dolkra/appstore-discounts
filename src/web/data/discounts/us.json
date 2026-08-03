@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 549432607,
+    "region": "us",
+    "timestamp": 1785759734208,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id549432607",
+    "trackName": "Townsmen Premium",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1424977227,
+    "region": "us",
+    "timestamp": 1785759734208,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$2.99",
+        "range": "[$0.99 ~ $9.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1424977227",
+    "trackName": "Titan Quest HD",
+    "firstRecordedAt": 1755861015760
+  },
+  {
+    "trackId": 1481181827,
+    "region": "us",
+    "timestamp": 1785759734208,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $8.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1481181827",
+    "trackName": "Aces of the Luftwaffe Squadron",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 6445992619,
+    "region": "us",
+    "timestamp": 1785759734208,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $10.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6445992619",
+    "trackName": "SpongeBob - The Cosmic Shake",
+    "firstRecordedAt": 1767364108321
+  },
+  {
     "trackId": 1441532941,
     "region": "us",
     "timestamp": 1785725049859,
