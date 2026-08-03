@@ -1,5 +1,92 @@
 [
   {
+    "trackId": 1441532941,
+    "region": "us",
+    "timestamp": 1785725049859,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$44.99",
+        "to": "$12.99",
+        "range": "[$8.99 ~ $44.99]"
+      }
+    ],
+    "price": 12.99,
+    "formattedPrice": "$12.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1441532941",
+    "trackName": "Divinity: Original Sin 2",
+    "firstRecordedAt": 1725636889563
+  },
+  {
+    "trackId": 1459520638,
+    "region": "us",
+    "timestamp": 1785725049859,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Bird Pack: Additional Asian Avians",
+        "from": "$5.99",
+        "to": "$5.39",
+        "range": "[$5.39 ~ $5.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Bird Packs Season Pass",
+        "from": "$24.99",
+        "to": "$22.49",
+        "range": "[$22.49 ~ $24.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 6508165149,
+    "region": "us",
+    "timestamp": 1785725049859,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $6.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6508165149",
+    "trackName": "Dungeon Clawler",
+    "firstRecordedAt": 1745604174662
+  },
+  {
+    "trackId": 6673906410,
+    "region": "us",
+    "timestamp": 1785725049859,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$5.99",
+        "range": "[$5.99 ~ $9.99]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "$5.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6673906410",
+    "trackName": "Sea of Stars",
+    "firstRecordedAt": 1775569659553
+  },
+  {
     "trackId": 1359652100,
     "region": "us",
     "timestamp": 1785638610705,
