@@ -179932,7 +179932,8 @@
       "Infinitum Support Banner": "₺199,99",
       "Catalyst Support Pack": "₺249,99",
       "Buy the devs a coffee": "₺229,99",
-      "Synthesis Support Pack": "₺199,99"
+      "Synthesis Support Pack": "₺199,99",
+      "Nexus of Nightmares": "₺299,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -179949,9 +179950,29 @@
       "Infinitum Support Banner": "₺179,99",
       "Catalyst Support Pack": "₺229,99",
       "Buy the devs a coffee": "₺229,99",
-      "Synthesis Support Pack": "₺179,99"
+      "Synthesis Support Pack": "₺179,99",
+      "Nexus of Nightmares": "₺299,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785738185111,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Nexus of Nightmares": "₺299,99",
+            "Vaul of the Void Promo Pack": "₺0,00",
+            "Siege of Shadows": "₺249,99",
+            "Dawncaster Mega Bundle": "₺699,99",
+            "Masks of Misery": "₺249,99",
+            "Infernal Invasions": "₺299,99",
+            "Death of Divinity": "₺249,99",
+            "Tribes of Twilight": "₺249,99",
+            "Dawncaster Origins Bundle": "₺249,99",
+            "Eclypse Supporter Pack": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784671382142,
@@ -266170,14 +266191,22 @@
   "6759556305": {
     "name": "Spend Gently - Mindful Budget",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
       "price": 29.99,
       "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785738185111,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784650975566,
