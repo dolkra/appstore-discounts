@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1459520638,
+    "region": "us",
+    "timestamp": 1785794911690,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Bird Packs Season Pass",
+        "from": "$22.49",
+        "to": "$11.90",
+        "range": "[$11.90 ~ $24.99]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "$9.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1745398953972
+  },
+  {
     "trackId": 549432607,
     "region": "us",
     "timestamp": 1785759734208,
@@ -116,7 +136,7 @@
         "name": "Bird Packs Season Pass",
         "from": "$24.99",
         "to": "$22.49",
-        "range": "[$22.49 ~ $24.99]"
+        "range": "[$11.90 ~ $24.99]"
       }
     ],
     "price": 9.99,
