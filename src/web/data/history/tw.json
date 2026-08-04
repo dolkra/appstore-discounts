@@ -241016,6 +241016,23 @@
     "history": [
       [
         {
+          "timestamp": 1785872185186,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Round the World Ticket": "$990.00",
+            "Ticket to Ride ChristmasBundle": "$120.00",
+            "Europe Expansion": "$320.00",
+            "Japan Expansion": "$220.00",
+            "Legendary Asia Expansion": "$220.00",
+            "Europe Map": "$290.00",
+            "Japan Map": "$190.00",
+            "Legendary Asia Map": "$190.00",
+            "1910 Ticket Pack": "$120.00",
+            "Nordic Expansion": "$220.00"
+          }
+        },
+        {
           "timestamp": 1785862248589,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -291053,6 +291070,29 @@
           "timestamp": 1785600007091,
           "price": 120,
           "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6797421987": {
+    "trackId": 6797421987,
+    "trackName": "竹知了 - 找回童年的快乐",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785872185186,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]
