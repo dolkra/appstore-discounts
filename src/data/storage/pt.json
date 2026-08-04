@@ -54069,7 +54069,13 @@
       "SF2SEPack120": "129,99 €",
       "SF2SEPack100": "99,99 €",
       "SF2SEPack90": "99,99 €",
-      "SF2SEPack75": "79,99 €"
+      "SF2SEPack75": "79,99 €",
+      "SF2SEPack70": "79,99 €",
+      "SF2SEPack55": "59,99 €",
+      "SF2SEPack40": "44,99 €",
+      "SF2SEPack38": "39,99 €",
+      "SF2SEPack23": "24,99 €",
+      "SF2SEPack9": "9,99 €"
     },
     "minPriceInfo": {
       "price": 5.99,
@@ -54103,9 +54109,34 @@
       "SF2SEPack120": "129,99 €",
       "SF2SEPack100": "99,99 €",
       "SF2SEPack90": "99,99 €",
-      "SF2SEPack75": "79,99 €"
+      "SF2SEPack75": "79,99 €",
+      "SF2SEPack70": "79,99 €",
+      "SF2SEPack55": "59,99 €",
+      "SF2SEPack40": "44,99 €",
+      "SF2SEPack38": "39,99 €",
+      "SF2SEPack23": "24,99 €",
+      "SF2SEPack9": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785852564271,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "SF2SEPack120": "129,99 €",
+            "SF2SEPack100": "99,99 €",
+            "SF2SEPack90": "99,99 €",
+            "SF2SEPack75": "79,99 €",
+            "SF2SEPack70": "79,99 €",
+            "SF2SEPack55": "59,99 €",
+            "SF2SEPack40": "44,99 €",
+            "SF2SEPack38": "39,99 €",
+            "SF2SEPack23": "24,99 €",
+            "SF2SEPack9": "9,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785535520140,
@@ -123030,6 +123061,14 @@
       "20 fuel to storage": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785852564271,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785133806166,
