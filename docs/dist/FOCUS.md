@@ -120,7 +120,7 @@ So far, we've covered `7` `Countries or Regions` and  `2178` `Apps` <br />Push n
 |2068|6443677513|Automatic|Keka •|Keka •|Keka •|Keka •|Keka|Keka|Keka|
 |2067|6759284932|Automatic|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|Voice Keyboard: ai keyboard.io|
 |2066|1182217891|Automatic|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|掌上洞箫-丁晓逵代言|
-|2065|6762279908|Automatic|DayGrid: 하루 계획표, 데일리스케줄, 시간표|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: Grid planner & Widget|DayGrid: Grid planner & Widget|DayGrid: 하루 계획표, 데일리스케줄|
+|2065|6762279908|Automatic|DayGrid: 하루 계획표, 데일리스케줄|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: 網格規劃工具、桌面小工具、行程管理|DayGrid: Grid planner & Widget|DayGrid: Grid planner & Widget|DayGrid: 하루 계획표, 데일리스케줄|
 |2064|6778099993|Automatic|Manager for KuKirin|Manager for KuKirin|Manager for KuKirin|Manager for KuKirin|Manager for KuKirin|Manager for KuKirin|Manager for KuKirin|
 |2063|1671507777|Automatic|❌|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|Isoland  : Pumpkin town|
 |2062|6777748394|Automatic|38-0|38-0|38-0|38-0|38-0|38-0|38-0|
