@@ -7183,6 +7183,23 @@
     "history": [
       [
         {
+          "timestamp": 1785896869249,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "HK$ 8.00",
+            "Shibuya HipstaPak": "HK$ 8.00",
+            "Portland HipstaPak": "HK$ 8.00",
+            "Camden HipstaPak": "HK$ 8.00",
+            "Mission Hipstapak": "HK$ 8.00",
+            "Soho HipstaPak": "HK$ 8.00",
+            "Bondi HipstaPak": "HK$ 8.00",
+            "Foodie SnapPak": "HK$ 8.00",
+            "Dali GoodPak": "HK$ 8.00",
+            "RetroPak One": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1785881474416,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -30712,6 +30729,23 @@
     "history": [
       [
         {
+          "timestamp": 1785896869249,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Chapter D": "HK$ 38.00",
+            "Chapter R": "HK$ 38.00",
+            "Chapter 0": "HK$ 38.00",
+            "Chapter L": "HK$ 88.00",
+            "Chapter N": "HK$ 32.00",
+            "Chapter K": "HK$ 38.00",
+            "Chapter T": "HK$ 38.00",
+            "Chapter S": "HK$ 38.00",
+            "Chapter 8": "HK$ 38.00",
+            "Chapter 6": "HK$ 38.00"
+          }
+        },
+        {
           "timestamp": 1785881474416,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -38409,6 +38443,25 @@
       "Harmonic Vibrations": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785896869249,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Alien Chemistry": "HK$ 8.00",
+            "Atmospheric Interference": "HK$ 8.00",
+            "Void Signal": "HK$ 8.00",
+            "Brittle Lattice": "HK$ 8.00",
+            "Quantum Obfuscation": "HK$ 8.00",
+            "Synaptic Pulse": "HK$ 8.00",
+            "Lattice Shedding": "HK$ 8.00",
+            "Crystal Overclock": "HK$ 8.00",
+            "Magnetic Siphon": "HK$ 8.00",
+            "Harmonic Vibrations": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785580788615,
@@ -276915,6 +276968,31 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744552136": {
+    "name": "xTune - Lyrion Remote & Player",
+    "maxPriceInfo": {
+      "price": 68,
+      "formattedPrice": "HK$ 68.00",
+      "xTune Built-in Player": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 68,
+      "formattedPrice": "HK$ 68.00",
+      "xTune Built-in Player": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785896869249,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "xTune Built-in Player": "HK$ 38.00"
+          }
         }
       ]
     ]

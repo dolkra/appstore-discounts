@@ -28688,7 +28688,7 @@
     "maxPriceInfo": {
       "price": 15.99,
       "formattedPrice": "$15.99",
-      "Premium Membership (Monthly plan)": "$2.99",
+      "Premium Membership (Monthly plan)": "$4.49",
       "Premium Membership (Yearly plan)": "$27.99"
     },
     "minPriceInfo": {
@@ -28698,6 +28698,17 @@
       "Premium Membership (Yearly plan)": "$27.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785896869249,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Premium Membership (Yearly plan)": "$27.99",
+            "Premium Membership (Monthly plan)": "$4.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782051043626,
@@ -50253,6 +50264,22 @@
       "Insane Prestige Package": "$79.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785896869249,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Small Prestige Pack": "$1.99",
+            "Medium Prestige Pack": "$9.99",
+            "Fast forward": "$3.99",
+            "XP Buff x2": "$3.99",
+            "Awesome Prestige Pack": "$21.99",
+            "Ultimate Prestige Package": "$44.99",
+            "Insane Prestige Package": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785759734208,
@@ -93482,6 +93509,20 @@
     "history": [
       [
         {
+          "timestamp": 1785896869249,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$10.99",
+            "25,000 Gold": "$5.99",
+            "125,000 Gold": "$21.99",
+            "325,000 Gold": "$54.99",
+            "700,000 Gold": "$89.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784774460939,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -118905,6 +118946,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1785896869249,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "98财富币": "$14.99",
+            "6财富币": "$0.99",
+            "68财富币": "$9.99",
+            "128财富币": "$19.99",
+            "88财富币": "$12.99",
+            "198财富币": "$29.99",
+            "168财富币": "$24.99",
+            "1998财富币": "$299.99",
+            "1598财富币": "$229.99",
+            "898财富币": "$129.99"
+          }
+        },
         {
           "timestamp": 1785881474416,
           "price": 3.99,
@@ -187811,6 +187869,14 @@
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785896869249,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785759734208,
@@ -330193,6 +330259,33 @@
           "price": 0.99,
           "formattedPrice": "$0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744552136": {
+    "trackId": 6744552136,
+    "trackName": "xTune - Lyrion Remote & Player",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99",
+      "xTune Built-in Player": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 8.99,
+      "formattedPrice": "$8.99",
+      "xTune Built-in Player": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1785896869249,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "xTune Built-in Player": "$4.99"
+          }
         }
       ]
     ]
