@@ -66141,7 +66141,8 @@
       "Pacote Maravilhas Silvestres": "5,99 €",
       "Pacote de Aves: Aves Britânicas": "5,99 €",
       "Passe Temporada de Pacote de Aves": "24,99 €",
-      "Aves Asiáticas Adicionais": "5,99 €"
+      "Aves Asiáticas Adicionais": "5,99 €",
+      "Europa + Oceania + Ásia": "32,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -66154,9 +66155,27 @@
       "Pacote Maravilhas Silvestres": "5,99 €",
       "Pacote de Aves: Aves Britânicas": "5,99 €",
       "Passe Temporada de Pacote de Aves": "22,49 €",
-      "Aves Asiáticas Adicionais": "5,39 €"
+      "Aves Asiáticas Adicionais": "5,39 €",
+      "Europa + Oceania + Ásia": "32,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785958124047,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Expansão Europa": "9,99 €",
+            "Pacote de Aves: Aves Britânicas": "5,99 €",
+            "Expansão Oceania": "11,99 €",
+            "Expansão da Ásia": "11,99 €",
+            "Pacote Decorativo Sazonal": "5,99 €",
+            "Europa + Oceania + Ásia": "32,99 €",
+            "Passe Temporada de Pacote de Aves": "22,49 €",
+            "Aves Asiáticas Adicionais": "5,39 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785785767021,
@@ -123509,7 +123528,7 @@
     ]
   },
   "6762279908": {
-    "name": "DayGrid: 하루 계획표, 데일리스케줄, 시간표",
+    "name": "DayGrid: 하루 계획표, 데일리스케줄",
     "maxPriceInfo": {
       "price": 0.49,
       "formattedPrice": "0,49 €"
