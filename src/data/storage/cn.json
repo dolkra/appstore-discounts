@@ -81866,6 +81866,25 @@
     "history": [
       [
         {
+          "timestamp": 1785938837508,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785552251363,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -97775,6 +97794,16 @@
       "蜡烛人完整版": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785938837508,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784390207966,
@@ -192250,7 +192279,7 @@
     ]
   },
   "6749840287": {
-    "name": "Conduit: OpenWebUI 客户端",
+    "name": "Conduit: Open WebUI 与 AI",
     "maxPriceInfo": {
       "price": 28,
       "formattedPrice": "¥28.00"

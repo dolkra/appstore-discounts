@@ -10362,6 +10362,23 @@
     "history": [
       [
         {
+          "timestamp": 1785938837508,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Voices": "0,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "PsyTrance": "2,99 €",
+            "Synth Lead": "1,99 €",
+            "Drumaxx": "1,99 €",
+            "Brazil Bass": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1785928829289,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -98051,7 +98068,7 @@
   },
   "6749840287": {
     "trackId": 6749840287,
-    "trackName": "Conduit: OpenWebUI Client",
+    "trackName": "Conduit: Open WebUI & AI",
     "region": "pt",
     "maxPriceInfo": {
       "price": 3.99,
