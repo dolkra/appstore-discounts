@@ -10,7 +10,7 @@
 |2180|6794760301|自动|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|
 |2179|6793864256|自动|❌|星夢快速查房幫手|❌|星夢快速查房幫手|❌|❌|❌|
 |2178|6744552136|自动|xTune|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|
-|2177|6797421987|自动|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|
+|2177|6797421987|自动|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了：赛博竹知了Bamboo Cicada|竹知了：赛博竹知了Bamboo Cicada|竹知了 - 找回童年的快乐|
 |2176|1518917462|自动|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|
 |2175|6793964973|自动|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|
 |2174|6753077755|自动|❌|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|

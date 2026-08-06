@@ -10,7 +10,7 @@ So far, we've covered `7` `Countries or Regions` and  `2180` `Apps` <br />Push n
 |2180|6794760301|Automatic|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|
 |2179|6793864256|Automatic|❌|星夢快速查房幫手|❌|星夢快速查房幫手|❌|❌|❌|
 |2178|6744552136|Automatic|xTune|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|
-|2177|6797421987|Automatic|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|
+|2177|6797421987|Automatic|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了：赛博竹知了Bamboo Cicada|竹知了：赛博竹知了Bamboo Cicada|竹知了 - 找回童年的快乐|
 |2176|1518917462|Automatic|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|
 |2175|6793964973|Automatic|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|
 |2174|6753077755|Automatic|❌|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|
