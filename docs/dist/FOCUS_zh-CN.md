@@ -2072,7 +2072,7 @@
 |116|703265535|手动|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|❌|
 |115|6479307181|手动|灵体侦测器: 能量、超自然现象幽灵探测器|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|Ghost Detector: Haunted Radar|Ghost Detector: Haunted Radar|Detector Fantasmas: Radar EMF|
 |114| ~~488674899~~ |手动| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~RAIN RADAR °- sky weather NOAA~~ | ~~RAIN RADAR ° live weather maps~~ | ~~❌~~ |
-|113|1636719674|手动|锁屏启动 - 应用秒开，万能桌面锁屏小组件灵动岛相机控制中心|鎖屏啟動 - 應用秒開，萬能桌面鎖屏小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌面鎖屏小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌面鎖屏小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|
+|113|1636719674|手动|锁屏启动 - 应用秒开，万能锁屏桌面小组件灵动岛相机控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|
 |112|1543163106|手动|末剑二|❌|❌|❌|❌|❌|❌|
 |111|6443812780|手动|我的水世界求生|❌|❌|❌|❌|❌|❌|
 |110|1344655035|手动|蜡烛人|❌|❌|❌|❌|❌|❌|
