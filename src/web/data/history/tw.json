@@ -21870,6 +21870,33 @@
       ]
     ]
   },
+  "433579249": {
+    "trackId": 433579249,
+    "trackName": "ソソカメラ",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Remove ADs": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "Remove ADs": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Remove ADs": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "433596395": {
     "trackId": 433596395,
     "trackName": "ZOOKEEPER DX",
@@ -57048,6 +57075,14 @@
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1770043842951,
@@ -127548,6 +127583,25 @@
     "history": [
       [
         {
+          "timestamp": 1786025220529,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Rate": "$0.00",
+            "Info": "$0.00",
+            "Tuner": "$0.00",
+            "Chromakey": "$0.00",
+            "Unlock All": "$290.00",
+            "Paint": "$0.00",
+            "Erase": "$30.00",
+            "Blend": "$30.00",
+            "Distortion": "$0.00",
+            "Magnifier": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785535520140,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -129562,6 +129616,25 @@
       "原版怪獸卡牌包": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC \"卡牌遊戲\"": "$120.00",
+            "原版怪獸繼承卡牌包": "$590.00",
+            "怪獸繼承": "$150.00",
+            "原版魔王權能卡牌包": "$590.00",
+            "原版魔王完整卡牌包": "$890.00",
+            "覺醒魔王完整卡牌包": "$890.00",
+            "原版設施卡牌包": "$290.00",
+            "原版魔王加速卡牌包": "$290.00",
+            "覺醒魔王卡牌包": "$590.00",
+            "原版地宮卡牌包": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785419957270,
@@ -139204,6 +139277,19 @@
       "Return to Castlevania": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "The Bad Seed": "$120.00",
+            "Fatal Falls": "$120.00",
+            "The Queen and the Sea": "$120.00",
+            "Return to Castlevania": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785334112079,
@@ -165858,7 +165944,17 @@
       "Emerald Cockerel Token": "$120.00",
       "Emerald Car Token": "$120.00",
       "Emerald King Kong Token": "$120.00",
-      "Emerald Bundle": "$390.00"
+      "Emerald Bundle": "$390.00",
+      "Jello Posiden": "$120.00",
+      "Jello Dolphin": "$120.00",
+      "Jello Shoe": "$120.00",
+      "Jello Heart": "$120.00",
+      "Jello Burger": "$120.00",
+      "Pink Jello Dice": "$150.00",
+      "Purple Jello Dice": "$150.00",
+      "Yellow Jello Dice": "$150.00",
+      "Jello Red Dice": "$150.00",
+      "White Samurai Token": "$320.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -166042,9 +166138,38 @@
       "Emerald Cockerel Token": "$120.00",
       "Emerald Car Token": "$120.00",
       "Emerald King Kong Token": "$120.00",
-      "Emerald Bundle": "$390.00"
+      "Emerald Bundle": "$390.00",
+      "Jello Posiden": "$120.00",
+      "Jello Dolphin": "$120.00",
+      "Jello Shoe": "$120.00",
+      "Jello Heart": "$120.00",
+      "Jello Burger": "$120.00",
+      "Pink Jello Dice": "$150.00",
+      "Purple Jello Dice": "$150.00",
+      "Yellow Jello Dice": "$150.00",
+      "Jello Red Dice": "$150.00",
+      "White Samurai Token": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Jello Posiden": "$120.00",
+            "Jello Dolphin": "$120.00",
+            "Jello Shoe": "$120.00",
+            "Jello Heart": "$120.00",
+            "Jello Burger": "$120.00",
+            "Pink Jello Dice": "$150.00",
+            "Purple Jello Dice": "$150.00",
+            "Yellow Jello Dice": "$150.00",
+            "Jello Red Dice": "$150.00",
+            "White Samurai Token": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785478419325,
@@ -192080,6 +192205,14 @@
     "history": [
       [
         {
+          "timestamp": 1786025220529,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785600007091,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -203180,6 +203313,14 @@
     "history": [
       [
         {
+          "timestamp": 1786025220529,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785334112079,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -209361,6 +209502,25 @@
       "Mecha Pack": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Autonomy": "$90.00",
+            "Time Flow": "$90.00",
+            "賽季通行證": "$220.00",
+            "角色通行證": "$390.00",
+            "勇者研究": "$190.00",
+            "尼奧禮包": "$150.00",
+            "婚禮禮包": "$150.00",
+            "解鎖性質": "$220.00",
+            "賽季０戰鬥通行證": "$60.00",
+            "鍛造禮包": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784985863850,
@@ -263176,6 +263336,17 @@
     "history": [
       [
         {
+          "timestamp": 1786025220529,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "The Weaver": "$90.00",
+            "Developer Supporter Pack": "$90.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785506667031,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -291539,10 +291710,18 @@
       "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 20,
+      "formattedPrice": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785872185186,
@@ -291621,6 +291800,29 @@
           "timestamp": 1786005279085,
           "price": 100,
           "formattedPrice": "$100.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760764479": {
+    "trackId": 6760764479,
+    "trackName": "Alpin Quest PRO – Outdoor GPS",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "minPriceInfo": {
+      "price": 320,
+      "formattedPrice": "$320.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 320,
+          "formattedPrice": "$320.00",
           "inAppPurchases": {}
         }
       ]

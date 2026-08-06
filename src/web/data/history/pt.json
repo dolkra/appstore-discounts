@@ -11595,6 +11595,33 @@
       ]
     ]
   },
+  "433579249": {
+    "trackId": 433579249,
+    "trackName": "ソソカメラ",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Remove ADs": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Remove ADs": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Remove ADs": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "433596395": {
     "trackId": 433596395,
     "trackName": "ZOOKEEPER DX",
@@ -28504,6 +28531,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781608243291,
@@ -127066,6 +127101,14 @@
     "history": [
       [
         {
+          "timestamp": 1786025220529,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785852564271,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -128756,10 +128799,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0.49,
+      "formattedPrice": "0,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0.49,
+          "formattedPrice": "0,49 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785872185186,
@@ -128815,6 +128866,29 @@
           "timestamp": 1786005279085,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760764479": {
+    "trackId": 6760764479,
+    "trackName": "Alpin Quest PRO – Outdoor GPS",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 675049147,
+    "region": "us",
+    "timestamp": 1786025220529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "Free",
+        "range": "[Free ~ $9.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id675049147",
+    "trackName": "SmallFish Chess for Stockfish",
+    "firstRecordedAt": 1748358156844
+  },
+  {
+    "trackId": 6797421987,
+    "region": "us",
+    "timestamp": 1786025220529,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $0.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6797421987",
+    "trackName": "竹知了：赛博竹知了Bamboo Cicada",
+    "firstRecordedAt": 1785872185186
+  },
+  {
     "trackId": 998834675,
     "region": "us",
     "timestamp": 1785995307165,

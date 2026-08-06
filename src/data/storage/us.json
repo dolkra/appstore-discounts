@@ -28118,6 +28118,31 @@
       ]
     ]
   },
+  "433579249": {
+    "name": "SoSoCamera Beauty",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Remove ADs": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "Remove ADs": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Remove ADs": "$0.99"
+          }
+        }
+      ]
+    ]
+  },
   "433596395": {
     "name": "ZOOKEEPER DX",
     "maxPriceInfo": {
@@ -35438,6 +35463,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786025220529,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Chapter D": "$4.99",
+            "Chapter R": "$4.99",
+            "Chapter 0": "$4.99",
+            "Chapter L": "$9.99",
+            "Chapter T": "$4.99",
+            "Chapter K": "$4.99",
+            "Chapter N": "$3.99",
+            "Chapter S": "$4.99",
+            "Chapter 8": "$4.99",
+            "Chapter 10": "$4.99"
+          }
+        },
         {
           "timestamp": 1786015343725,
           "price": 1.99,
@@ -61764,6 +61806,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781608243291,
@@ -325077,6 +325127,14 @@
     "history": [
       [
         {
+          "timestamp": 1786025220529,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785852564271,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -326711,10 +326769,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0.49,
+      "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0.49,
+          "formattedPrice": "$0.49",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785872185186,
@@ -326766,6 +326832,27 @@
           "timestamp": 1786005279085,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760764479": {
+    "name": "Alpin Quest PRO – Outdoor GPS",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "$9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
           "inAppPurchases": {}
         }
       ]

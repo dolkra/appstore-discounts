@@ -24753,6 +24753,33 @@
       ]
     ]
   },
+  "433579249": {
+    "trackId": 433579249,
+    "trackName": "SoSoCamera Beauty",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Remove ADs": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Remove ADs": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Remove ADs": "₺49,99"
+          }
+        }
+      ]
+    ]
+  },
   "433596395": {
     "trackId": 433596395,
     "trackName": "ZOOKEEPER DX",
@@ -61112,6 +61139,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781608243291,
@@ -269983,6 +270018,14 @@
     "history": [
       [
         {
+          "timestamp": 1786025220529,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784304900498,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -271727,10 +271770,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785872185186,
@@ -271786,6 +271837,29 @@
           "timestamp": 1786005279085,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760764479": {
+    "trackId": 6760764479,
+    "trackName": "Alpin Quest PRO – Outdoor GPS",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "minPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786025220529,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
           "inAppPurchases": {}
         }
       ]
