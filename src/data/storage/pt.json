@@ -6874,7 +6874,7 @@
     ]
   },
   "391269557": {
-    "name": "Apnea Trainer",
+    "name": "Apnea Trainer: Freitauchen",
     "maxPriceInfo": {
       "price": 34.99,
       "formattedPrice": "34,99 €",
@@ -68144,7 +68144,8 @@
       "Emerald Car Token": "3,49 €",
       "Emerald King Kong Token": "3,49 €",
       "Emerald Bundle": "11,99 €",
-      "The Unicorn": "3,49 €"
+      "The Unicorn": "3,49 €",
+      "Blazin' Blue the Monster Truck": "9,99 €"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -68313,9 +68314,29 @@
       "Emerald Car Token": "3,49 €",
       "Emerald King Kong Token": "3,49 €",
       "Emerald Bundle": "11,99 €",
-      "The Unicorn": "3,49 €"
+      "The Unicorn": "3,49 €",
+      "Blazin' Blue the Monster Truck": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1785995307165,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "Blazin' Blue the Monster Truck": "9,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €",
+            "The Dragon": "3,49 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785810483430,
@@ -71738,7 +71759,7 @@
     ]
   },
   "1479608271": {
-    "name": "Arcadia - Watch Games",
+    "name": "Arcadia",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"

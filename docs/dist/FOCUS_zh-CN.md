@@ -767,7 +767,7 @@
 |1421|663068211|自动|❌|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|
 |1420|1588558691|自动|❌|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master Cross Math IQ TEST|Math Master Mental Maths QUIZ|Math Master Mathcross QI QUIZ|
 |1419|6738239220|自动|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|
-|1418|391269557|自动|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|
+|1418|391269557|自动|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freedive|Apnea Trainer: Freedive|Apnea Trainer: Freitauchen|
 |1417|6749466141|自动|❌|❌|❌|❌|Red Dot - ICE Activity Alerts|❌|❌|
 |1416|495937600|自动|❌|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|
 |1415|6753017460|自动|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|
@@ -1819,7 +1819,7 @@
 |369|1477854253|自动|大家的日本语 初级 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|
 |368|1477966166|自动|❌|MONOPOLY|MONOPOLY|MONOPOLY|MONOPOLY: The Board Game|MONOPOLY|MONOPOLY|
 |367|1477991646|自动|❌|王國：兩個皇冠|王國：兩個皇冠|王國：兩個皇冠|Kingdom Two Crowns|Kingdom Two Crowns|Kingdom Two Crowns|
-|366|1479608271|自动|❌|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|
+|366|1479608271|自动|❌|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia|
 |365|1480844881|自动|❌|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|
 |364|1481006495|自动|倒计时应用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|Countdown App|Countdown App|A Hora Da Sua Morte|
 |363|1482339363|自动|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|

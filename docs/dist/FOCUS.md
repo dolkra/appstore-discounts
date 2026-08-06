@@ -767,7 +767,7 @@ So far, we've covered `7` `Countries or Regions` and  `2178` `Apps` <br />Push n
 |1421|663068211|Automatic|❌|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|SimpleRockets|
 |1420|1588558691|Automatic|❌|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master | 數學遊戲 火柴拼圖 | 交叉数学|Math Master Cross Math IQ TEST|Math Master Mental Maths QUIZ|Math Master Mathcross QI QUIZ|
 |1419|6738239220|Automatic|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|电工证考试题库-2024最新电工考试题库|
-|1418|391269557|Automatic|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|Apnea Trainer|
+|1418|391269557|Automatic|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freitauchen|Apnea Trainer: Freedive|Apnea Trainer: Freedive|Apnea Trainer: Freitauchen|
 |1417|6749466141|Automatic|❌|❌|❌|❌|Red Dot - ICE Activity Alerts|❌|❌|
 |1416|495937600|Automatic|❌|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|The Tiny Bang Story|
 |1415|6753017460|Automatic|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|TL Assistant|
@@ -1819,7 +1819,7 @@ So far, we've covered `7` `Countries or Regions` and  `2178` `Apps` <br />Push n
 |369|1477854253|Automatic|大家的日本语 初级 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|大家的日本語 初級 第二版|
 |368|1477966166|Automatic|❌|MONOPOLY|MONOPOLY|MONOPOLY|MONOPOLY: The Board Game|MONOPOLY|MONOPOLY|
 |367|1477991646|Automatic|❌|王國：兩個皇冠|王國：兩個皇冠|王國：兩個皇冠|Kingdom Two Crowns|Kingdom Two Crowns|Kingdom Two Crowns|
-|366|1479608271|Automatic|❌|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|
+|366|1479608271|Automatic|❌|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia - Watch Games|Arcadia|
 |365|1480844881|Automatic|❌|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|Mini Chess on Watch|
 |364|1481006495|Automatic|倒计时应用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|倒計時應用 Countdown App|Countdown App|Countdown App|A Hora Da Sua Morte|
 |363|1482339363|Automatic|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|iScore5 APHG|
