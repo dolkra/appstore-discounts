@@ -113283,6 +113283,18 @@
     "history": [
       [
         {
+          "timestamp": 1786005279085,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {
+            "迎新禮包": "$320.00",
+            "促銷折扣": "$320.00",
+            "寶石包": "$320.00",
+            "$99.99美元籌碼": "$2,990.00",
+            "$29.99美元籌碼": "$990.00"
+          }
+        },
+        {
           "timestamp": 1785995307165,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -291564,6 +291576,52 @@
           "inAppPurchases": {
             "xTune Built-in Player": "$150.00"
           }
+        }
+      ]
+    ]
+  },
+  "6794760301": {
+    "trackId": 6794760301,
+    "trackName": "FileFlip: Convert Files",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786005279085,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793864256": {
+    "trackId": 6793864256,
+    "trackName": "星夢快速查房幫手",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 100,
+      "formattedPrice": "$100.00"
+    },
+    "minPriceInfo": {
+      "price": 100,
+      "formattedPrice": "$100.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786005279085,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {}
         }
       ]
     ]

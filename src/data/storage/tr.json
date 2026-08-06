@@ -15430,6 +15430,23 @@
     "history": [
       [
         {
+          "timestamp": 1786005279085,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "₺399,99",
+            "Extreme Map Pack": "₺99,99",
+            "Double Cash": "₺149,99",
+            "Explosive Darts": "₺99,99",
+            "Rank Up +2 Ranks": "₺49,99",
+            "Dreadnought": "₺49,99",
+            "Healthy Bananas": "₺99,99",
+            "Double Ranga": "₺99,99",
+            "Monkey Tycoon": "₺49,99",
+            "Frag Bombs": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1785995307165,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -267709,6 +267726,27 @@
           "inAppPurchases": {
             "xTune Built-in Player": "₺249,99"
           }
+        }
+      ]
+    ]
+  },
+  "6794760301": {
+    "name": "FileFlip: Convert Files",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786005279085,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
         }
       ]
     ]
