@@ -36,7 +36,7 @@
 |2158|625477515|自动|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|
 |2157|6785550835|自动|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|自动|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|
-|2155|6743408614|自动|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF Snap–Compress PDF|PDF Snap–Compress PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|
+|2155|6743408614|自动|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF Snap：壓縮、合併與分割|PDF Snap：壓縮、合併與分割|PDF Snap: Compress & Merge|PDF Snap: Compress & Merge|PDF Snap：压缩、合并与分割|
 |2154|6748762897|自动|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|
 |2153|6789630173|自动|❌|❌|❌|❌|❌|Gece Taksisi|❌|
 |2152|1625083646|自动|❌|Endling|Endling|Endling|Endling|Endling|Endling|

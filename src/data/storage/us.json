@@ -164723,6 +164723,25 @@
     "history": [
       [
         {
+          "timestamp": 1786118118903,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "68金玉": "$9.99",
+            "禮包6": "$9.99",
+            "648金玉": "$99.99",
+            "198金玉": "$29.99",
+            "328金玉": "$49.99",
+            "30金玉": "$4.99",
+            "6金玉": "$0.99",
+            "禮包8": "$19.99",
+            "禮包2": "$0.99",
+            "禮包5": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785478419325,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -189131,6 +189150,25 @@
       "Ascensio Kit": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786118118903,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Spray kit": "$3.99",
+            "Ascensio Kit": "$4.99",
+            "Zenith Islands DLC Sale": "$2.99",
+            "Prime Dimension DLC Sale": "$2.99",
+            "Crystal Offer Sale": "$9.99",
+            "Elite Offer Sale": "$4.99",
+            "Fancy Apparel Offer Sale": "$6.99",
+            "Starter Offer Sale": "$1.99",
+            "Hunter Offer Sale": "$4.99",
+            "Master Offer Sale": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785995307165,
@@ -281227,6 +281265,25 @@
     "history": [
       [
         {
+          "timestamp": 1786118118903,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "$3.99",
+            "Boeing 787-9": "$3.99",
+            "Airbus A320neo": "$3.99",
+            "Me 262": "$1.99",
+            "Boeing 737-800": "$2.99",
+            "Airbus A350-1000": "$3.99",
+            "Robin DR400": "$0.99",
+            "Boeing 777F": "$1.99",
+            "Airbus A319": "$1.99",
+            "Antares 21E": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786060670333,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -324402,7 +324459,8 @@
       "SENSI iPhone 15 a 17 Pro Max": "$1.99",
       "SENSI iPhone 13 a 14 Pro Max": "$1.99",
       "SENSI APOSTADO/X1 iPhone 3 a 8 Plus": "$1.99",
-      "SENSI iPhone X a 12 Pro Max": "$1.99"
+      "SENSI iPhone X a 12 Pro Max": "$1.99",
+      "Clone Sensi – 3 Clonagens": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -324420,9 +324478,29 @@
       "SENSI iPhone 15 a 17 Pro Max": "$1.99",
       "SENSI iPhone 13 a 14 Pro Max": "$1.99",
       "SENSI APOSTADO/X1 iPhone 3 a 8 Plus": "$1.99",
-      "SENSI iPhone X a 12 Pro Max": "$1.99"
+      "SENSI iPhone X a 12 Pro Max": "$1.99",
+      "Clone Sensi – 3 Clonagens": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786118118903,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Clone Sensi – 3 Clonagens": "$1.99",
+            "Pro Mensal": "$1.99",
+            "Elite Annual": "$7.99",
+            "1 Token Coach IA": "$0.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "3 Tokens Coach IA": "$1.99",
+            "10 Tokens Coach IA": "$4.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785324367282,
@@ -326813,7 +326891,7 @@
     ]
   },
   "6743408614": {
-    "name": "PDF Snap–Compress PDF",
+    "name": "PDF Snap: Compress & Merge",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
