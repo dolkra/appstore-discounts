@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1459520638,
+    "region": "pt",
+    "timestamp": 1786128919939,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Passe Temporada de Pacote de Aves",
+        "from": "22,49 €",
+        "to": "11,90 €",
+        "range": "[11,90 € ~ 24,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1160943124,
     "region": "pt",
     "timestamp": 1786086830502,
@@ -449,7 +469,7 @@
         "name": "Passe Temporada de Pacote de Aves",
         "from": "24,99 €",
         "to": "22,49 €",
-        "range": "[22,49 € ~ 24,99 €]"
+        "range": "[11,90 € ~ 24,99 €]"
       },
       {
         "type": "inAppPurchase",

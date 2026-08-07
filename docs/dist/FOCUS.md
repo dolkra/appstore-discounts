@@ -36,7 +36,7 @@ So far, we've covered `7` `Countries or Regions` and  `2184` `Apps` <br />Push n
 |2158|625477515|Automatic|❌|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|Fast Flash -Browser and Player|❌|
 |2157|6785550835|Automatic|LomoHi|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi 菲林相機|LomoHi|LomoHi|LomoHi|
 |2156|6754602459|Automatic|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|希腊神话百科|
-|2155|6743408614|Automatic|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF SNAP-手机压缩PDF/图片合成PDF&分割PDF|PDF Snap：壓縮、合併與分割|PDF Snap：壓縮、合併與分割|PDF Snap: Compress & Merge|PDF Snap: Compress & Merge|PDF Snap：压缩、合并与分割|
+|2155|6743408614|Automatic|PDF Snap：压缩、合并与分割|PDF Snap：壓縮、合併與分割|PDF Snap：壓縮、合併與分割|PDF Snap：壓縮、合併與分割|PDF Snap: Compress & Merge|PDF Snap: Compress & Merge|PDF Snap：压缩、合并与分割|
 |2154|6748762897|Automatic|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|拍照躲猫猫|
 |2153|6789630173|Automatic|❌|❌|❌|❌|❌|Gece Taksisi|❌|
 |2152|1625083646|Automatic|❌|Endling|Endling|Endling|Endling|Endling|Endling|

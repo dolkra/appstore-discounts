@@ -15581,6 +15581,25 @@
     "history": [
       [
         {
+          "timestamp": 1786128919939,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Chapter N": "3,99 €",
+            "Chapter D": "5,99 €",
+            "Chapter L": "9,99 €",
+            "Chapter T": "5,99 €",
+            "Chapter R": "5,99 €",
+            "Chapter 0": "5,99 €",
+            "Chapter K": "5,99 €",
+            "Chapter 10": "5,99 €",
+            "Chapter 9": "5,99 €",
+            "Chapter S": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785352482834,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -66297,7 +66316,9 @@
       "Pacote de Aves: Aves Britânicas": "5,99 €",
       "Passe Temporada de Pacote de Aves": "24,99 €",
       "Aves Asiáticas Adicionais": "5,99 €",
-      "Europa + Oceania + Ásia": "32,99 €"
+      "Europa + Oceania + Ásia": "32,99 €",
+      "Expansões + Pacotes Decorativos": "44,99 €",
+      "Conjunto de Pacotes Decorativos": "13,49 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -66309,11 +66330,31 @@
       "Pacote Decorativo Sazonal 2": "5,99 €",
       "Pacote Maravilhas Silvestres": "5,99 €",
       "Pacote de Aves: Aves Britânicas": "5,99 €",
-      "Passe Temporada de Pacote de Aves": "22,49 €",
+      "Passe Temporada de Pacote de Aves": "11,90 €",
       "Aves Asiáticas Adicionais": "5,39 €",
-      "Europa + Oceania + Ásia": "32,99 €"
+      "Europa + Oceania + Ásia": "32,99 €",
+      "Expansões + Pacotes Decorativos": "44,99 €",
+      "Conjunto de Pacotes Decorativos": "13,49 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786128919939,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Expansão Europa": "9,99 €",
+            "Pacote de Aves: Aves Britânicas": "5,99 €",
+            "Expansão Oceania": "11,99 €",
+            "Expansão da Ásia": "11,99 €",
+            "Pacote Decorativo Sazonal": "5,99 €",
+            "Europa + Oceania + Ásia": "32,99 €",
+            "Expansões + Pacotes Decorativos": "44,99 €",
+            "Conjunto de Pacotes Decorativos": "13,49 €",
+            "Passe Temporada de Pacote de Aves": "11,90 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785958124047,
@@ -79939,6 +79980,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786128919939,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "0,00 €",
+            "Dawncaster Origins Bundle": "5,99 €",
+            "Dawncaster Mega Bundle": "14,99 €",
+            "Siege of Shadows": "5,99 €",
+            "Infernal Invasions": "6,99 €",
+            "Masks of Misery": "5,99 €",
+            "Tribes of Twilight": "5,99 €",
+            "Death of Divinity": "5,99 €",
+            "Nexus of Nightmares": "6,99 €",
+            "Synthesis Support Pack": "4,99 €"
+          }
+        },
         {
           "timestamp": 1786118118903,
           "price": 5.99,
@@ -125007,14 +125065,22 @@
   "6785090016": {
     "name": "Alpine Quest Nav PRO",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €"
+      "price": 8.99,
+      "formattedPrice": "8,99 €"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "0,29 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786128919939,
+          "price": 8.99,
+          "formattedPrice": "8,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784860637377,

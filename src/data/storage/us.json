@@ -189152,6 +189152,23 @@
     "history": [
       [
         {
+          "timestamp": 1786128919939,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Starter Package": "$2.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        },
+        {
           "timestamp": 1786118118903,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -281265,6 +281282,23 @@
     "history": [
       [
         {
+          "timestamp": 1786128919939,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        },
+        {
           "timestamp": 1786118118903,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -326956,14 +326990,22 @@
   "6785090016": {
     "name": "Alpine Quest Nav PRO",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29"
+      "price": 7.99,
+      "formattedPrice": "$7.99"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786128919939,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784860637377,
