@@ -208394,6 +208394,17 @@
     "history": [
       [
         {
+          "timestamp": 1786138670823,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Raider Mk. 1": "¥38.00",
+            "Raider Mk. 2": "¥38.00",
+            "Raider Mk. 3": "¥68.00",
+            "Raider Weekly": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1786128919939,
           "price": 0,
           "formattedPrice": "免费",
@@ -218385,14 +218396,22 @@
     "trackName": "Alpine Quest Nav PRO",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 3,
-      "formattedPrice": "¥3.00"
+      "price": 58,
+      "formattedPrice": "¥58.00"
     },
     "minPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786138670823,
+          "price": 58,
+          "formattedPrice": "¥58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784860637377,

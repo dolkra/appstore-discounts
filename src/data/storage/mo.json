@@ -192591,14 +192591,22 @@
   "6785090016": {
     "name": "Alpine Quest Nav PRO",
     "maxPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29"
+      "price": 7.99,
+      "formattedPrice": "USD 7.99"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786138670823,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784860637377,
