@@ -75372,6 +75372,14 @@
     "history": [
       [
         {
+          "timestamp": 1786071210952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783288885792,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -271947,7 +271955,7 @@
   },
   "6793964973": {
     "trackId": 6793964973,
-    "trackName": "ForBand - Band Practice",
+    "trackName": "ForBand - Band Practice Player",
     "region": "tr",
     "maxPriceInfo": {
       "price": 199.99,
@@ -272035,10 +272043,18 @@
       "formattedPrice": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786071210952,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786005279085,

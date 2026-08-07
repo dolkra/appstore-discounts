@@ -15,7 +15,7 @@
 |2178|6744552136|自动|xTune|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|
 |2177|6797421987|自动|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了：赛博竹知了Bamboo Cicada|竹知了：赛博竹知了Bamboo Cicada|竹知了 - 找回童年的快乐|
 |2176|1518917462|自动|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|
-|2175|6793964973|自动|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|ForBand - Band Practice|
+|2175|6793964973|自动|ForBand - 乐队排练全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - Band Practice Player|ForBand - Band Practice Player|ForBand - Tudo para sua banda|
 |2174|6753077755|自动|❌|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|
 |2173|6785557805|自动|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|
 |2172|299029654|自动|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|

@@ -69990,6 +69990,23 @@
     "history": [
       [
         {
+          "timestamp": 1786071210952,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "$290.00",
+            "第01課教學影片": "$30.00",
+            "第03課教學影片": "$30.00",
+            "第12課教學影片": "$30.00",
+            "第08課教學影片": "$30.00",
+            "第07課教學影片": "$30.00",
+            "第09課教學影片": "$30.00",
+            "第11課教學影片": "$30.00",
+            "第02課教學影片": "$30.00",
+            "第06課教學影片": "$30.00"
+          }
+        },
+        {
           "timestamp": 1786060670333,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -70488,6 +70505,14 @@
     "history": [
       [
         {
+          "timestamp": 1786071210952,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783258698084,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -70883,6 +70908,25 @@
       "Rat": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786071210952,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Free Checkpoints": "$30.00",
+            "Large Coin Pack": "$90.00",
+            "Medium Coin Pack": "$60.00",
+            "Small Coin Pack": "$30.00",
+            "Pig": "$30.00",
+            "Dog": "$30.00",
+            "Rooster": "$30.00",
+            "Monkey": "$30.00",
+            "Goat": "$30.00",
+            "Horse": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783835883421,
@@ -291794,7 +291838,7 @@
   },
   "6793964973": {
     "trackId": 6793964973,
-    "trackName": "ForBand - Band Practice",
+    "trackName": "ForBand - 樂團練習全能助手",
     "region": "tw",
     "maxPriceInfo": {
       "price": 120,
@@ -291882,10 +291926,18 @@
       "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786071210952,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786005279085,

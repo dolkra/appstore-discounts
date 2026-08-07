@@ -35322,6 +35322,14 @@
     "history": [
       [
         {
+          "timestamp": 1786071210952,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783288885792,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -128878,7 +128886,7 @@
   },
   "6793964973": {
     "trackId": 6793964973,
-    "trackName": "ForBand - Band Practice",
+    "trackName": "ForBand - Tudo para sua banda",
     "region": "pt",
     "maxPriceInfo": {
       "price": 3.99,
@@ -128966,10 +128974,18 @@
       "formattedPrice": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786071210952,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786005279085,

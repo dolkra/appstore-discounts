@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 931188326,
+    "region": "us",
+    "timestamp": 1786071210952,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "Free",
+        "range": "[Free ~ $2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1580067723,
+    "region": "us",
+    "timestamp": 1786071210952,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.39 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 1642733080,
+    "region": "us",
+    "timestamp": 1786071210952,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6794760301,
+    "region": "us",
+    "timestamp": 1786071210952,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6794760301",
+    "trackName": "FileFlip: Convert Files",
+    "firstRecordedAt": 1786005279085
+  },
+  {
     "trackId": 675049147,
     "region": "us",
     "timestamp": 1786025220529,
