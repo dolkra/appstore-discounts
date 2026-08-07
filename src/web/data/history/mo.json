@@ -1916,6 +1916,25 @@
     "history": [
       [
         {
+          "timestamp": 1786060670333,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "1000 coins": "USD 0.99",
+            "10,000 coins": "USD 1.99",
+            "100,000 coins": "USD 3.99",
+            "15000 eggs": "USD 2.99",
+            "10000 candies": "USD 2.99",
+            "1000 candies": "USD 0.99",
+            "30,000 coins": "USD 2.99",
+            "Soccer coins": "USD 0.99",
+            "300,000 gold": "USD 2.99",
+            "100,000 gold": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786025220529,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -68908,7 +68927,10 @@
       "擴充章節P": "USD 3.99",
       "擴充章節O": "USD 3.99",
       "擴充章節 R": "USD 3.99",
-      "限時挑戰書 Camellia Selection": "USD 3.99"
+      "限時挑戰書 Camellia Selection": "USD 3.99",
+      "調律計畫：PinocchioP 精選輯": "USD 3.99",
+      "調律計畫：散落回聲1": "USD 3.99",
+      "限時挑戰書 Fallen Resonance": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -68949,9 +68971,31 @@
       "擴充章節P": "USD 3.99",
       "擴充章節O": "USD 3.99",
       "擴充章節 R": "USD 3.99",
-      "限時挑戰書 Camellia Selection": "USD 3.99"
+      "限時挑戰書 Camellia Selection": "USD 3.99",
+      "調律計畫：PinocchioP 精選輯": "USD 3.99",
+      "調律計畫：散落回聲1": "USD 3.99",
+      "限時挑戰書 Fallen Resonance": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786060670333,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "調律計畫：PinocchioP 精選輯": "USD 3.99",
+            "調律計畫：散落回聲1": "USD 3.99",
+            "限時挑戰書 Fallen Resonance": "USD 2.99",
+            "限時挑戰書 Camellia Selection": "USD 3.99",
+            "限時挑戰書 technoplanet Selection": "USD 2.99",
+            "限時挑戰書 Retro Fantasia": "USD 2.99",
+            "限時挑戰書 Phantasm Feast": "USD 2.99",
+            "擴充章節 Z": "USD 3.99",
+            "限時挑戰書 Speedcore Overload": "USD 2.99",
+            "限時挑戰書": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784476657988,
@@ -83173,6 +83217,29 @@
             "118元": "USD 17.99",
             "50元": "USD 7.99"
           }
+        }
+      ]
+    ]
+  },
+  "1154832936": {
+    "trackId": 1154832936,
+    "trackName": "Call Ranger: 海量來電封鎖器",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "USD 4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786060670333,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -182342,6 +182409,14 @@
     "history": [
       [
         {
+          "timestamp": 1786060670333,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1781445729568,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -196493,14 +196568,22 @@
     "trackName": "ProCam MK II - 專業相機",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "USD 9.99"
+      "price": 19.99,
+      "formattedPrice": "USD 19.99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786060670333,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784930640340,
