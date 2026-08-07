@@ -73490,6 +73490,25 @@
     "history": [
       [
         {
+          "timestamp": 1786078453943,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "$2.79",
+            "1 Mo. Global Texting": "$3.99",
+            "$5 Credit": "$5.49",
+            "3 Mo. CAN Texting": "$5.49",
+            "3 Mo. Global Texting": "$8.49",
+            "6 Mo. CAN Texting": "$9.99",
+            "1 Mo. Fongo Plus": "$9.99",
+            "6 Mo. Global Texting": "$14.99",
+            "$20 Credit": "$19.99",
+            "12 Mo. CAN Texting": "$17.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785958124047,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -135052,6 +135071,25 @@
       "Kizuna AI Extend 2026": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786078453943,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786060670333,
@@ -323007,6 +323045,25 @@
     "history": [
       [
         {
+          "timestamp": 1786078453943,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "ROBO FISH 02": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "GHOST LUMINOUS": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "ROBO FISH 01": "$1.99",
+            "SKELETON FISH": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785948110758,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -331182,6 +331239,29 @@
           "timestamp": 1786025220529,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6773620703": {
+    "trackId": 6773620703,
+    "trackName": "安尼姆的无尽旅途",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786078453943,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
