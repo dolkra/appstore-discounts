@@ -7,7 +7,7 @@
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|2185|6786316806|自动|❌|❌|❌|❌|❌|❌|❌|
+|2185|6786316806|自动|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|Wildwood: Follow the Crows|
 |2184|6773620703|自动|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|安尼姆的无尽旅途|
 |2183|1154832936|自动|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Mass Call Blocker|Call Ranger: Mass Call Blocker|Call Ranger: Bloqueio Massa|
 |2182|433579249|自动|飕飕相机美颜版|ソソカメラ|ソソカメラ|ソソカメラ|SoSoCamera Beauty|SoSoCamera Beauty|ソソカメラ|
@@ -528,7 +528,7 @@
 |1667|474121500|自动|❌|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian - Dream of Little Star -|planetarian - Dream of Little Star -|planetarian 〜ちいさなほしのゆめ〜|
 |1666|1528744354|自动|❌|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|
 |1665|6745099872|自动|死了么 - 官方正版|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|
-|1664|6754641661|自动|婚启|婚启|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|
+|1664|6754641661|自动|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|
 |1663|1163338854|自动|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|Calories to kilojoules and kJ to Cal converter|Calories to kilojoules and kJ to Cal converter|Quilocalorias em quilojoules e kJ em kcal|
 |1662|6754453691|自动|❌|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|
 |1661|589779009|自动|❌|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|

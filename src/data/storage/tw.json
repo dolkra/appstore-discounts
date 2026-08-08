@@ -158452,6 +158452,23 @@
     "history": [
       [
         {
+          "timestamp": 1786171903334,
+          "price": 225,
+          "formattedPrice": "$225.00",
+          "inAppPurchases": {
+            "欧洲篇": "$225.00",
+            "大洋洲篇": "$249.00",
+            "《亞洲擴展》": "$249.00",
+            "季節性裝飾包": "$150.00",
+            "鳥類牌包：英國鳥類": "$115.00",
+            "林地奇觀裝飾包": "$150.00",
+            "季節性裝飾包2": "$150.00",
+            "欧洲篇 + 大洋洲篇 + 亞洲篇": "$690.00",
+            "擴展包 + 裝飾包": "$1,020.00",
+            "裝飾包合集": "$375.00"
+          }
+        },
+        {
           "timestamp": 1786152558597,
           "price": 225,
           "formattedPrice": "$225.00",
@@ -172737,6 +172754,25 @@
       "Ascensio Kit": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786171903334,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Starter Package": "$90.00",
+            "Tamer Kit": "$30.00",
+            "Master Package": "$690.00",
+            "Evoker Kit": "$30.00",
+            "Prime Gemma 1200": "$320.00",
+            "Hunter Package": "$320.00",
+            "Prime Gemma 2500": "$690.00",
+            "Evoker Package": "$320.00",
+            "Prime Gemma 5000": "$1,290.00",
+            "Prime Gemma 500": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785016532474,
@@ -288139,6 +288175,14 @@
     "history": [
       [
         {
+          "timestamp": 1786171903334,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786071210952,
           "price": 0,
           "formattedPrice": "免費",
@@ -288213,6 +288257,27 @@
           "timestamp": 1786078453943,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6786316806": {
+    "name": "Wildwood: Follow the Crows",
+    "maxPriceInfo": {
+      "price": 50,
+      "formattedPrice": "$50.00"
+    },
+    "minPriceInfo": {
+      "price": 50,
+      "formattedPrice": "$50.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786171903334,
+          "price": 50,
+          "formattedPrice": "$50.00",
           "inAppPurchases": {}
         }
       ]
