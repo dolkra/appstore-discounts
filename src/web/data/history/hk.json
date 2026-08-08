@@ -39128,6 +39128,25 @@
     "history": [
       [
         {
+          "timestamp": 1786224545219,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Alien Chemistry": "HK$ 8.00",
+            "Atmospheric Interference": "HK$ 8.00",
+            "Void Signal": "HK$ 8.00",
+            "Brittle Lattice": "HK$ 8.00",
+            "Quantum Obfuscation": "HK$ 8.00",
+            "Synaptic Pulse": "HK$ 8.00",
+            "Lattice Shedding": "HK$ 8.00",
+            "Crystal Overclock": "HK$ 8.00",
+            "Magnetic Siphon": "HK$ 8.00",
+            "Harmonic Vibrations": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786060670333,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -75311,10 +75330,18 @@
       "formattedPrice": "HK$ 22.00"
     },
     "minPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786224545219,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764433856253,
@@ -99269,6 +99296,25 @@
       "He-Man Prestige Pack": "HK$ 128.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786224545219,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "一堆猴幣促銷": "HK$ 22.00",
+            "全塔解鎖": "HK$ 38.00",
+            "猴幣": "HK$ 18.00",
+            "塔XP": "HK$ 8.00",
+            "一堆猴幣": "HK$ 38.00",
+            "10個知識點": "HK$ 58.00",
+            "知識點": "HK$ 8.00",
+            "一保險庫的猴幣促銷": "HK$ 88.00",
+            "雙現金模式": "HK$ 148.00",
+            "完全解鎖防禦塔和典範": "HK$ 88.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785227573591,
@@ -151057,6 +151103,25 @@
       "禮包1": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786224545219,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "超值好禮3_648": "HK$ 788.00",
+            "超值好禮2_648": "HK$ 788.00",
+            "超值好禮1_648": "HK$ 788.00",
+            "超值好禮3_328": "HK$ 398.00",
+            "超值好禮2_328": "HK$ 398.00",
+            "超值好禮1_328": "HK$ 398.00",
+            "超值好禮2_198": "HK$ 238.00",
+            "超值好禮3_198": "HK$ 238.00",
+            "超值好禮1_198": "HK$ 238.00",
+            "超值好禮3_128": "HK$ 150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785563673975,
@@ -282558,6 +282623,29 @@
           "timestamp": 1786193160488,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6751758741": {
+    "trackId": 6751758741,
+    "trackName": "AutoFill – Flash Checkout",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786224545219,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]

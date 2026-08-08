@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 944118456,
+    "region": "cn",
+    "timestamp": 1786224545219,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id944118456",
+    "trackName": "Exif Viewer by Fluntro",
+    "firstRecordedAt": 1759940107332
+  },
+  {
     "trackId": 6797421987,
     "region": "cn",
     "timestamp": 1786152558597,
@@ -11897,7 +11917,7 @@
         "name": "Price",
         "from": "¥22.00",
         "to": "¥8.00",
-        "range": "[¥8.00 ~ ¥22.00]"
+        "range": "[免费 ~ ¥22.00]"
       }
     ],
     "price": 8,

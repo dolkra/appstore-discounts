@@ -68259,7 +68259,7 @@
       "Golden Dice": "4,99 €",
       "The Sports Car": "3,49 €",
       "Victorian London Theme": "4,99 €",
-      "Atlantis Obsidian Token Bundle": "9,99 €",
+      "Atlantis Obsidian Token Bundle": "11,99 €",
       "The Posiden Token": "2,99 €",
       "The Werewolf": "2,99 €",
       "Mega Bundle": "19,99 €",
@@ -68569,6 +68569,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786224545219,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "Atlantis Obsidian Token Bundle": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "The Sports Car": "3,49 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Blazin' Blue the Monster Truck": "9,99 €"
+          }
+        },
         {
           "timestamp": 1786171903334,
           "price": 4.99,
@@ -125680,6 +125697,27 @@
           "timestamp": 1786193160488,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6751758741": {
+    "name": "AutoFill – Flash Checkout",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786224545219,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
