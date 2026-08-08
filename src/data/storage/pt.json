@@ -15392,6 +15392,23 @@
     "history": [
       [
         {
+          "timestamp": 1786214168760,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Pack of 3 Super Cops": "0,99 €",
+            "Unlock All Vehicles": "9,99 €",
+            "Autobahn paint job for all vehicles": "0,99 €",
+            "The Met paint job for all vehicles": "0,99 €",
+            "Donut Finder": "2,99 €",
+            "Unlock All": "17,99 €",
+            "Pack of 10 Super Cops": "2,99 €",
+            "Pack of 50 Super Cops": "14,99 €",
+            "East Side paint job for all vehicles": "0,99 €",
+            "Hot Chrome paint job for all vehicles": "2,99 €"
+          }
+        },
+        {
           "timestamp": 1786202940203,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -35868,10 +35885,18 @@
       "formattedPrice": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786214168760,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764469234125,
@@ -91782,7 +91807,7 @@
     ]
   },
   "1642364007": {
-    "name": "海拔指南针-水印相机",
+    "name": "海拔指南针-经纬度水印相机",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",

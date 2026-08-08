@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 944118456,
+    "region": "tw",
+    "timestamp": 1786214168760,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id944118456",
+    "trackName": "Exif Viewer by Fluntro",
+    "firstRecordedAt": 1759940107332
+  },
+  {
     "trackId": 6448352407,
     "region": "tw",
     "timestamp": 1786202940203,
@@ -1933,7 +1953,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1642364007",
-    "trackName": "海拔指南针-水印相机",
+    "trackName": "海拔指南针-经纬度水印相机",
     "firstRecordedAt": 1721960142187
   },
   {
@@ -9387,7 +9407,7 @@
     "formattedPrice": "免費",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1642364007",
-    "trackName": "海拔指南针-水印相机",
+    "trackName": "海拔指南针-经纬度水印相机",
     "firstRecordedAt": 1721960142187
   },
   {
@@ -22053,7 +22073,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 30,

@@ -85254,10 +85254,18 @@
       "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786214168760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1764477491832,
@@ -89620,6 +89628,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786214168760,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "纯净模式1个月": "$0.99",
+            "金紫会员1个月": "$1.99",
+            "纯净模式12个月": "$7.49",
+            "纯净模式永久": "$29.99",
+            "永久金紫会员": "$39.99",
+            "金紫会员12个月": "$11.99",
+            "纯净模式6个月": "$4.49",
+            "金紫会员永久": "$39.99",
+            "金紫会员6个月": "$6.99",
+            "下载包8": "$0.99"
+          }
+        },
         {
           "timestamp": 1786202940203,
           "price": 0,
@@ -121651,6 +121676,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786214168760,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Feature Package": "$3.99",
+            "Automatic Package": "$15.99",
+            "300 Rubies": "$3.99",
+            "Total Package": "$15.99",
+            "660 Rubies": "$8.99",
+            "180 Rubies": "$2.99",
+            "1100 Rebirth Stones": "$3.99",
+            "2400 Rebirth Stones": "$8.99",
+            "Magic Package": "$8.99",
+            "Ring Package": "$24.99"
+          }
+        },
         {
           "timestamp": 1786202940203,
           "price": 0.99,

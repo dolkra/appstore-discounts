@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 944118456,
+    "region": "pt",
+    "timestamp": 1786214168760,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id944118456",
+    "trackName": "EXIF Viewer by Fluntro",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1453875289,
     "region": "pt",
     "timestamp": 1786193160488,
@@ -1507,7 +1527,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1642364007",
-    "trackName": "海拔指南针-水印相机",
+    "trackName": "海拔指南针-经纬度水印相机",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -9049,7 +9069,7 @@
     "formattedPrice": "Gratuito",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id1642364007",
-    "trackName": "海拔指南针-水印相机",
+    "trackName": "海拔指南针-经纬度水印相机",
     "firstRecordedAt": 1761797674362
   },
   {
@@ -21065,7 +21085,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[Gratuito ~ 2,99 €]"
       }
     ],
     "price": 0.99,
