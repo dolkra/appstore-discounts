@@ -527,7 +527,7 @@ So far, we've covered `7` `Countries or Regions` and  `2184` `Apps` <br />Push n
 |1667|474121500|Automatic|❌|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian 〜ちいさなほしのゆめ〜|planetarian - Dream of Little Star -|planetarian - Dream of Little Star -|planetarian 〜ちいさなほしのゆめ〜|
 |1666|1528744354|Automatic|❌|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|Insaquarium: Tap Aquarium|
 |1665|6745099872|Automatic|死了么 - 官方正版|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|Demumu: Are You Dead?|
-|1664|6754641661|Automatic|婚启|婚启|婚启|婚启|婚启|婚启|婚启|
+|1664|6754641661|Automatic|婚启|婚启|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|婚启 - 情侣协同备婚助手|
 |1663|1163338854|Automatic|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|千卡到千焦轉換器 - 千焦到千卡轉換器 - 换算|Calories to kilojoules and kJ to Cal converter|Calories to kilojoules and kJ to Cal converter|Quilocalorias em quilojoules e kJ em kcal|
 |1662|6754453691|Automatic|❌|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|Knight & Dragon IV|
 |1661|589779009|Automatic|❌|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|METAL SLUG 2|

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-08-07T20:29:06.049Z</updated>
+    <updated>2026-08-08T02:40:16.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-08-07T20:29:06.051Z</updated>
+        <updated>2026-08-08T02:40:16.500Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnFri, 07 Aug 2026 20:29:06 GMT</id>
+        <id>rankingcnSat, 08 Aug 2026 02:40:16 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-08-07T20:29:06.051Z</updated>
+        <updated>2026-08-08T02:40:16.500Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -120,6 +120,23 @@ feedId:157007849019630592+userId:73658201673997312
         <b>2</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6797421987?lang=zh-CN">竹知了 - 找回童年的快乐</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/cn/931188326?lang=zh-CN">DayCost</a>
       </td>
       <td>
@@ -134,7 +151,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>3</b>
+        <b>4</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1160943124?lang=zh-CN">听写文本：语音识别</a>
@@ -151,7 +168,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>4</b>
+        <b>5</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1344655035?lang=zh-CN">蜡烛人</a>
@@ -174,7 +191,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>5</b>
+        <b>6</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">汉末霸业</a>
@@ -207,27 +224,10 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>6</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6473332700?lang=zh-CN">逐鹿 - 历史沙盘战棋</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
         <b>7</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6797421987?lang=zh-CN">竹知了 - 找回童年的快乐</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/6473332700?lang=zh-CN">逐鹿 - 历史沙盘战棋</a>
       </td>
       <td>
         <ul>
@@ -859,6 +859,34 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
   </tbody>
 </table>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[竹知了 - 找回童年的快乐]]></title>
+        <id>竹知了 - 找回童年的快乐-cn-1786152558597</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6797421987?lang=zh-CN"/>
+        <updated>2026-08-08T01:29:18.597Z</updated>
+        <summary type="html"><![CDATA[价格: ¥3.00 → ¥1.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6797421987?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/4d/9a/cb4d9a86-e528-f732-261e-739b55ca169d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥3.00</span> → <b>
+  <strong>¥1.00</strong>
+</b><span>[¥1.00 ~ ¥6.00]</span>）
+</h2><h2>全部价格信息</h2><p>
+  价格：<b>¥1.00</b>
+</p><h2>应用描述</h2><p>
+  轻轻点击或晃动 iPhone、Apple Watch，让竹知了沿着绳索旋转并发出独特鸣响。晃得越有力，旋转越快、声音越响；完整旋转一圈，功德 +1。
+
+竹知了是一款以传统民间发声玩具为灵感制作的互动 App。
+真实的竹知了通过挥动手柄，让玩具沿绳索旋转并发出独特鸣响。现在，你可以在 iPhone 和 Apple Watch 上重新体验这份简单、有趣的童年快乐。
+主要玩法：
+• 点击屏幕或晃动设备，让竹知了开始旋转 • 连续点击或持续晃动，可以不断加速 • 晃动力度越大，旋转速度和声音强度越高 • 停止操作后，竹知了会自然减速，并在重力作用下回到绳子最低处 • 支持顺时针与逆时针旋转 • 每完整旋转一圈，功德 +1 • 功德数字保存在设备本地，可以持续累计
+支持 Apple Watch：
+iPhone 与 Apple Watch 均可独立运行。即使不打开手机，也可以直接在手表上点击或晃动，感受竹知了旋转和发声。
+简单而纯粹：
+• 无广告 • 无需注册账号 • 无用户追踪 • 无需联网，随时可以游玩 • iPhone 与 Apple Watch 的功德分别保存在各自设备上
+晃一晃，让熟悉的竹声再次响起。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ed/29/83/ed2983d0-4822-7fb5-e37c-857c4a76d14e/3.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/0f/fa/950ffad7-7fe1-4dc9-be4a-2120f3e89508/1.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cd/cb/73/cdcb735b-8b8a-e8f5-53cb-3a2a515e3010/4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/ca/88/b6ca884a-1bf4-a17e-728a-74bd2ffb0f0f/2.png/320x480bb.jpg" />]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Raiders Map]]></title>
