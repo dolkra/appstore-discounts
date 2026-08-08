@@ -67841,6 +67841,14 @@
     "history": [
       [
         {
+          "timestamp": 1786193160488,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785449095856,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -129379,6 +129387,29 @@
           "timestamp": 1786171903334,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761228817": {
+    "trackId": 6761228817,
+    "trackName": "TileGrid - Carpet Planner",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786193160488,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

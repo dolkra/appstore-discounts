@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 6755290585,
+    "region": "mo",
+    "timestamp": 1786193160488,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 2",
+        "from": "USD 17.99",
+        "to": "USD 5.99",
+        "range": "[USD 5.99 ~ USD 17.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 3",
+        "from": "USD 29.99",
+        "to": "USD 9.99",
+        "range": "[USD 9.99 ~ USD 29.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 1",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6755290585",
+    "trackName": "Raiders Map",
+    "firstRecordedAt": 1763517683797
+  },
+  {
     "trackId": 6466296603,
     "region": "mo",
     "timestamp": 1786118118903,
