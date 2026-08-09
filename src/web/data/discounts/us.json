@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6448352407,
+    "region": "us",
+    "timestamp": 1786249047526,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6448352407",
+    "trackName": "Unboxing the Cryptic Killer",
+    "firstRecordedAt": 1766931982733
+  },
+  {
+    "trackId": 6477541914,
+    "region": "us",
+    "timestamp": 1786249047526,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $6.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6477541914",
+    "trackName": "Parallel Experiment",
+    "firstRecordedAt": 1770951187599
+  },
+  {
     "trackId": 944118456,
     "region": "us",
     "timestamp": 1786214168760,
