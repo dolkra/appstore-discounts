@@ -73015,6 +73015,23 @@
     "history": [
       [
         {
+          "timestamp": 1786279688892,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Biomes Add-on": "₺99,99",
+            "DLC Sisters in Arms": "₺149,99",
+            "Grottoes Add-on": "₺49,99",
+            "Abandoned Mines Add-on": "₺49,99",
+            "Invasion Add-on": "₺249,99",
+            "Bosses & Monsters Add-on": "₺399,99",
+            "Wonderwood Add-on": "₺499,99",
+            "Heroes Add-on": "₺199,99",
+            "Temples of 4 Elements Add-on": "₺199,99",
+            "Heart of Evil Add-on": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1786268302111,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -268753,6 +268770,58 @@
           "price": 99.99,
           "formattedPrice": "₺99,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6740197039": {
+    "name": "Shambles: Sons of Apocalypse",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "Green Abyss": "₺249,99",
+      "Patron Character": "₺29,99",
+      "Power Suit": "₺49,99",
+      "Patron Season Pass": "₺29,99",
+      "Patron Skill & Equipment": "₺29,99",
+      "Berserker": "₺49,99",
+      "Saint of Sanmagica": "₺149,99",
+      "Honor of the Knights": "₺99,99",
+      "Altruist": "₺149,99",
+      "The Arena": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "Green Abyss": "₺249,99",
+      "Patron Character": "₺29,99",
+      "Power Suit": "₺49,99",
+      "Patron Season Pass": "₺29,99",
+      "Patron Skill & Equipment": "₺29,99",
+      "Berserker": "₺49,99",
+      "Saint of Sanmagica": "₺149,99",
+      "Honor of the Knights": "₺99,99",
+      "Altruist": "₺149,99",
+      "The Arena": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786279688892,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Green Abyss": "₺249,99",
+            "Patron Character": "₺29,99",
+            "Power Suit": "₺49,99",
+            "Patron Season Pass": "₺29,99",
+            "Patron Skill & Equipment": "₺29,99",
+            "Berserker": "₺49,99",
+            "Saint of Sanmagica": "₺149,99",
+            "Honor of the Knights": "₺99,99",
+            "Altruist": "₺149,99",
+            "The Arena": "₺99,99"
+          }
         }
       ]
     ]
