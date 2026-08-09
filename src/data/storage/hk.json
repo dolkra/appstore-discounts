@@ -70856,7 +70856,9 @@
       "Snake": "HK$ 8.00",
       "Rabbit": "HK$ 8.00",
       "Rat": "HK$ 8.00",
-      "B.I.G.": "HK$ 8.00"
+      "B.I.G.": "HK$ 8.00",
+      "Shaw": "HK$ 8.00",
+      "Chloe": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -70881,9 +70883,30 @@
       "Snake": "HK$ 8.00",
       "Rabbit": "HK$ 8.00",
       "Rat": "HK$ 8.00",
-      "B.I.G.": "HK$ 8.00"
+      "B.I.G.": "HK$ 8.00",
+      "Shaw": "HK$ 8.00",
+      "Chloe": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786311076106,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Shaw": "HK$ 8.00",
+            "Chloe": "HK$ 8.00",
+            "Free Checkpoints": "HK$ 8.00",
+            "Small Coin Pack": "HK$ 8.00",
+            "Large Coin Pack": "HK$ 22.00",
+            "Unlock all stages": "HK$ 8.00",
+            "Medium Coin Pack": "HK$ 18.00",
+            "Atom": "HK$ 8.00",
+            "Dragon": "HK$ 8.00",
+            "Pig": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786214168760,
