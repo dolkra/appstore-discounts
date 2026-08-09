@@ -2,6 +2,13 @@
   "$schema": "apps.json-schema.json",
   "appConfig": [
     {
+      "id": 6781532982,
+      "name": {
+        "cn": "孤岛猎神"
+      },
+      "addType": "auto"
+    },
+    {
       "id": 6740197039,
       "name": {
         "mo": "廢土之歌"
@@ -6480,7 +6487,8 @@
       "name": {
         "tr": "Mayor Card: City Management"
       },
-      "addType": "auto"
+      "addType": "auto",
+      "allowNotification": false
     },
     {
       "id": 1499318054,

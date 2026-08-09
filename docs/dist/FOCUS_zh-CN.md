@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2188` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2189` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2189|6781532982|自动|孤岛猎神|❌|❌|❌|❌|❌|❌|
 |2188|6740197039|自动|❌|廢土之歌|廢土之歌|❌|Shambles: Sons of Apocalypse|Shambles: Sons of Apocalypse|샴블즈 : 종말의 후손들|
 |2187|6751758741|自动|AutoFill – 新品抢购助手|AutoFill – Flash Checkout|AutoFill – Flash Checkout|AutoFill – Flash Checkout|AutoFill – Flash Checkout|AutoFill – Flash Checkout|AutoFill – Flash Checkout|
 |2186|6761228817|自动|TileGrid 地毯设计|TileGrid カーペット|TileGrid カーペット|TileGrid カーペット|TileGrid - Carpet Planner|TileGrid - Carpet Planner|TileGrid - Carpet Planner|
@@ -925,7 +926,7 @@
 |1273|6459581344|自动|❌|Art of Rally|Art of Rally|Art of Rally|Art of Rally|Art of Rally|Art of Rally|
 |1272|1415709055|自动|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|ABRSM Music Theory Trainer|
 |1271|6448106860|自动|Private LLM - 本地AI聊天|Private LLM - Local AI Chat|Private LLM - Local AI Chat|Private LLM - Local AI Chat|Private LLM - Local AI Chat|Private LLM - Local AI Chat|Private LLM - Local AI Chat|
-|1270|6746746394|自动|❌|Mayor Card: City Management|Mayor Card: City Management|Mayor Card: City Management|Mayor Card: City Management|Mayor Card: City Management|Mayor Card: City Management|
+|1270| ~~6746746394~~ |自动| ~~❌~~ | ~~Mayor Card: City Management~~ | ~~Mayor Card: City Management~~ | ~~Mayor Card: City Management~~ | ~~Mayor Card: City Management~~ | ~~Mayor Card: City Management~~ | ~~Mayor Card: City Management~~ |
 |1269|1499318054|自动|❌|南瓜先生2：九龍城寨|南瓜先生2：九龍城寨|❌|Mr Pumpkin 2: Walls of Kowloon|Mr Pumpkin 2: Walls of Kowloon|Mr Pumpkin 2: Walls of Kowloon|
 |1268|1555184523|自动|❌|波西亞時光|波西亞時光|波西亞時光|My Time at Portia|My Time at Portia|Minha Vida em Portia|
 |1267|6612033628|自动|❌|模擬山羊3：大鬧多元宇宙|模擬山羊3：大鬧多元宇宙|模擬山羊3：大鬧多元宇宙|Goat Simulator 3 - Multiverse|Goat Simulator 3 - Multiverse|Goat Simulator 3 - Multiverse|
