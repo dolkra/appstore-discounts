@@ -233041,6 +233041,23 @@
     "history": [
       [
         {
+          "timestamp": 1786377546675,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Concorde": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 787-10": "₺99,99",
+            "UH-60": "₺49,99",
+            "EC135": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1786347576782,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -262857,6 +262874,23 @@
     "history": [
       [
         {
+          "timestamp": 1786377546675,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "passatb8": "₺49,99",
+            "porches": "₺49,99",
+            "15 ticket": "₺29,99",
+            "15 gold": "₺29,99",
+            "25 gold": "₺49,99",
+            "30 ticket": "₺49,99",
+            "10 ticket": "₺29,99",
+            "30000 money": "₺19,99"
+          }
+        },
+        {
           "timestamp": 1786336645189,
           "price": 0,
           "formattedPrice": "Free",
@@ -273115,6 +273149,14 @@
     "history": [
       [
         {
+          "timestamp": 1786377546675,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786171903334,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -273304,6 +273346,29 @@
             "Altruist": "₺149,99",
             "The Arena": "₺99,99"
           }
+        }
+      ]
+    ]
+  },
+  "6744579956": {
+    "trackId": 6744579956,
+    "trackName": "Illusion Bowling",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786377546675,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
         }
       ]
     ]

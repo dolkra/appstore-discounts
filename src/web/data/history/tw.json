@@ -27813,6 +27813,23 @@
     "history": [
       [
         {
+          "timestamp": 1786377546675,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$59.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$175.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$89.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$299.00",
+            "Minecraft Store Item 4": "$120.00",
+            "Minecraft Store Item 5": "$150.00",
+            "Minecraft Store Item 1": "$29.00"
+          }
+        },
+        {
           "timestamp": 1786336645189,
           "price": 95,
           "formattedPrice": "$95.00",
@@ -121018,6 +121035,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786377546675,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785776916428,
@@ -245384,6 +245409,25 @@
     "history": [
       [
         {
+          "timestamp": 1786377546675,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "$90.00",
+            "200'000 Coins": "$30.00",
+            "John Deere 8R 410": "$60.00",
+            "Amazone CITAN 15001-C": "$30.00",
+            "500'000 Coins": "$60.00",
+            "Mack Trucks Black Anthem 6x4": "$60.00",
+            "ClaasLexion8900+ConvioFlex1380": "$90.00",
+            "Krone BiG Pack 1290 HDP VC": "$30.00",
+            "KINZE 3665 Blue Drive": "$30.00",
+            "Case IH Speed-Tiller": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786224545219,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -289050,6 +289094,25 @@
     "history": [
       [
         {
+          "timestamp": 1786377546675,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "深淵開拓者": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "超越精華": "$990.00",
+            "隱月造型套裝": "$320.00",
+            "永恆方舟": "$990.00",
+            "魔界通行證1": "$90.00",
+            "時間旅行者": "$190.00",
+            "起始精華": "$690.00",
+            "成長之始": "$320.00",
+            "深淵精華": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784449011192,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -293187,6 +293250,29 @@
           "timestamp": 1786224545219,
           "price": 60,
           "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6744579956": {
+    "trackId": 6744579956,
+    "trackName": "Illusion Bowling",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "minPriceInfo": {
+      "price": 120,
+      "formattedPrice": "$120.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786377546675,
+          "price": 120,
+          "formattedPrice": "$120.00",
           "inAppPurchases": {}
         }
       ]
