@@ -69260,7 +69260,7 @@
   },
   "729067952": {
     "trackId": 729067952,
-    "trackName": "Purgatory",
+    "trackName": "Purgatory Prayers",
     "region": "us",
     "maxPriceInfo": {
       "price": 1.99,
@@ -86887,6 +86887,25 @@
       "Magnetic Stars 10": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786388186899,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Ultra Punch 30": "$4.99",
+            "Ultra Punch 5": "$0.99",
+            "Magnetic Stars 60": "$4.99",
+            "Ultra Punch Unlimited": "$19.99",
+            "Ultra Punch 10": "$1.99",
+            "Magnetic Stars Unlimited": "$14.99",
+            "Magnetic Stars 20": "$1.99",
+            "Magnetic Stars 10": "$0.99",
+            "Unlock Rollman Coin": "$1.99",
+            "Unlock Rollf Coin": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1776718634618,
@@ -179946,6 +179965,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786388186899,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "2年联合VIP会员": "$29.99",
+            "每日外刊": "$8.49",
+            "VIP连续包季": "$7.99",
+            "一年联合VIP会员": "$19.99",
+            "VIP连续包月": "$3.99",
+            "大学英语_外刊精读 | 2025年度TOP100精选": "$29.99",
+            "肖维青英文原著精读课-纳尼亚传奇篇": "$29.99",
+            "大学英语_外刊精读 | 2021年度TOP100精选": "$29.99",
+            "大学英语_外刊精读 | 2022年度TOP100精选": "$29.99"
+          }
+        },
         {
           "timestamp": 1786377546675,
           "price": 0.99,
@@ -332430,6 +332465,14 @@
     "history": [
       [
         {
+          "timestamp": 1786388186899,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786171903334,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -332639,6 +332682,29 @@
           "timestamp": 1786377546675,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793951574": {
+    "trackId": 6793951574,
+    "trackName": "Great Migration: Farm Life",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786388186899,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

@@ -33645,6 +33645,25 @@
     "history": [
       [
         {
+          "timestamp": 1786388186899,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "大正晝夜譚組合包": "HK$ 8.00",
+            "遺跡探險組合包": "HK$ 8.00",
+            "大富翁 4 fun 天使帝國組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 夢幻精靈島組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 古文明組合包": "HK$ 8.00",
+            "大富翁 4 Fun Paid 妖怪村組合包": "HK$ 8.00",
+            "大富翁 4 fun 海底世界組合包": "HK$ 8.00",
+            "大富翁 4 fun 寶藏島組合包": "HK$ 8.00",
+            "大富翁 4 fun 水上世界組合包": "HK$ 8.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785600007091,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -60254,7 +60273,7 @@
     ]
   },
   "729067952": {
-    "name": "Purgatory",
+    "name": "Purgatory Prayers",
     "maxPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00"
@@ -279185,6 +279204,27 @@
           "timestamp": 1786377546675,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6793951574": {
+    "name": "Büyük Göç: Köy Hayatı",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786388186899,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]
