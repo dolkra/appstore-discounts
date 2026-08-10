@@ -85845,6 +85845,23 @@
     "history": [
       [
         {
+          "timestamp": 1786398028074,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Ultra Punch 5": "$0.99",
+            "Unlock Strawberry Candy": "$1.99",
+            "Unlock Rolly Coin": "$0.99",
+            "Unlock Mint Candy": "$1.99",
+            "Unlock Chocolate Candy": "$1.99",
+            "Ultra Punch 10": "$1.99",
+            "Unlock Rollman Coin": "$1.99",
+            "Ultra Punch Unlimited": "$19.99",
+            "Unlock Rollf Coin": "$1.99",
+            "Magnetic Stars Unlimited": "$14.99"
+          }
+        },
+        {
           "timestamp": 1786388186899,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -328639,6 +328656,27 @@
           "timestamp": 1786388186899,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6777035530": {
+    "name": "Gecko Guide",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786398028074,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

@@ -153097,6 +153097,23 @@
     "history": [
       [
         {
+          "timestamp": 1786398028074,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "All Unit Groups": "USD 12.99",
+            "All Heroes": "USD 14.99",
+            "Hero Dragon Kosmos": "USD 6.99",
+            "Hero Gauntlet": "USD 4.99",
+            "pack 21": "USD 7.99",
+            "Special Daily Pack20": "USD 2.99",
+            "Special Daily Pack19": "USD 1.99",
+            "Special Daily Pack18": "USD 3.99",
+            "Special Daily Pack17": "USD 3.99",
+            "Special Daily Pack16": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1786388186899,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -197882,6 +197899,29 @@
           "timestamp": 1786388186899,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6777035530": {
+    "trackId": 6777035530,
+    "trackName": "守宫图鉴-爬宠饲养资料基因计算器",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786398028074,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

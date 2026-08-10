@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2191` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2192` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2192|6777035530|Automatic|守宫图鉴-爬宠饲养资料基因计算器|守宫图鉴-爬宠饲养资料基因计算器|守宫图鉴-爬宠饲养资料基因计算器|守宫图鉴-爬宠饲养资料基因计算器|Gecko Guide|Gecko Guide|守宫图鉴-爬宠饲养资料基因计算器|
 |2191|6793951574|Automatic|❌|Büyük Göç: Köy Hayatı|Büyük Göç: Köy Hayatı|Büyük Göç: Köy Hayatı|Great Migration: Farm Life|Great Migration: Farm Life|Büyük Göç: Köy Hayatı|
 |2190|6744579956|Automatic|❌|Illusion Bowling|Illusion Bowling|Illusion Bowling|Illusion Bowling|Illusion Bowling|Bowling Ilusão|
 |2189|6781532982|Automatic|孤岛猎神|❌|❌|❌|❌|❌|❌|
@@ -49,7 +50,7 @@ So far, we've covered `7` `Countries or Regions` and  `2191` `Apps` <br />Push n
 |2152|1625083646|Automatic|❌|Endling|Endling|Endling|Endling|Endling|Endling|
 |2151|6759556305|Automatic|轻松省钱 - 记账预算|輕鬆省錢 - 記帳預算|輕鬆省錢 - 記帳預算|輕鬆省錢 - 記帳預算|Spend Gently - Mindful Budget|Spend Gently - Mindful Budget|Gaste Leve - Orçamento|
 |2150|6754986970|Automatic|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|
-|2149|6747655400|Automatic|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
+|2149|6747655400|Automatic|RPGEmu - RPG Maker视觉小说们|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
 |2148|6779676299|Automatic|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|
 |2147|6474194438|Automatic|❌|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|
 |2146|6789323764|Automatic|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
