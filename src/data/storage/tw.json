@@ -108645,6 +108645,23 @@
     "history": [
       [
         {
+          "timestamp": 1786474865372,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "功能禮包": "$120.00",
+            "綜合禮包": "$490.00",
+            "自動禮包": "$490.00",
+            "戒指禮包": "$790.00",
+            "寶石300個": "$120.00",
+            "寶石660個": "$290.00",
+            "魔法禮包": "$290.00",
+            "魅魔禮包": "$1,290.00",
+            "寶石180個": "$90.00",
+            "覺醒禮包": "$1,290.00"
+          }
+        },
+        {
           "timestamp": 1786464021561,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -117999,7 +118016,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Remove ADs": "$60.00",
-      "Remove Ads": "$60.00",
+      "Remove Ads": "$150.00",
       "Barista Special": "$320.00",
       "Large Coffee": "$150.00",
       "Medium Coffee": "$90.00",
@@ -118016,6 +118033,20 @@
       "Small Coffee": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Remove Ads": "$150.00",
+            "Barista Special": "$320.00",
+            "Large Coffee": "$150.00",
+            "Medium Coffee": "$90.00",
+            "Small Coffee": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758788188347,
@@ -165003,6 +165034,22 @@
     "history": [
       [
         {
+          "timestamp": 1786474865372,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "The Complete Collection": "$1,190.00",
+            "Explorer Pack": "$390.00",
+            "The Ultimate Edition Welcome Offer": "$790.00",
+            "Welcome Offer": "$690.00",
+            "New York 2121 Board": "$220.00",
+            "Cherry Blossom Tokyo Board": "$220.00",
+            "Promotion": "$590.00",
+            "New York 2121": "$490.00",
+            "Theme Collection": "$690.00"
+          }
+        },
+        {
           "timestamp": 1786464021561,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -211733,6 +211780,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786474865372,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Filtr": "$790.00",
+            "Tip": "$150.00",
+            "Yearly Recurring Tip": "$320.00",
+            "Monthly Recurring Tip": "$60.00",
+            "Mega Tip": "$690.00"
+          }
+        },
         {
           "timestamp": 1786464021561,
           "price": 150,
@@ -286459,7 +286518,8 @@
       "WRC Secto Rally Finland 2026": "$120.00",
       "ERC 82nd Rally Poland 2026": "$120.00",
       "WRC Rally Estonia 2026": "$120.00",
-      "Kihelkonna Rahvaralli 2026": "$60.00"
+      "Kihelkonna Rahvaralli 2026": "$60.00",
+      "SM Ralli Kitee 2026": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -286487,9 +286547,29 @@
       "WRC Secto Rally Finland 2026": "$120.00",
       "ERC 82nd Rally Poland 2026": "$120.00",
       "WRC Rally Estonia 2026": "$120.00",
-      "Kihelkonna Rahvaralli 2026": "$60.00"
+      "Kihelkonna Rahvaralli 2026": "$60.00",
+      "SM Ralli Kitee 2026": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SM Ralli Kitee 2026": "$90.00",
+            "Kihelkonna Rahvaralli 2026": "$60.00",
+            "WRC Secto Rally Finland 2026": "$120.00",
+            "ERC 82nd Rally Poland 2026": "$120.00",
+            "WRC Rally Estonia 2026": "$120.00",
+            "ERC Rally di Roma Capitale 2026": "$60.00",
+            "D1 Ardeca Ypres Rally 2026": "$90.00",
+            "Lõuna-Eesti Ralli 2026": "$90.00",
+            "WRC Eko Acropolis Rally Greece 2026": "$90.00",
+            "NEO Rally Žemaitija 2026": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783626347383,

@@ -118714,7 +118714,7 @@
       "price": 8,
       "formattedPrice": "HK$ 8.00",
       "Remove ADs": "HK$ 18.00",
-      "Remove Ads": "HK$ 18.00",
+      "Remove Ads": "HK$ 38.00",
       "Barista Special": "HK$ 88.00",
       "Large Coffee": "HK$ 38.00",
       "Medium Coffee": "HK$ 22.00",
@@ -118731,6 +118731,20 @@
       "Small Coffee": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Remove Ads": "HK$ 38.00",
+            "Barista Special": "HK$ 88.00",
+            "Large Coffee": "HK$ 38.00",
+            "Medium Coffee": "HK$ 22.00",
+            "Small Coffee": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -279878,8 +279892,8 @@
     "trackName": "阿福出境管家（原签证大师）",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
       "基础月会员": "HK$ 8.00",
       "黄金会员月度": "HK$ 18.00",
       "拒签分析报告解锁": "HK$ 32.00",
@@ -279906,6 +279920,24 @@
       "普通": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "基础月会员": "HK$ 8.00",
+            "黄金会员月度": "HK$ 18.00",
+            "拒签分析报告解锁": "HK$ 32.00",
+            "黄金会员月": "HK$ 18.00",
+            "普通会员买断": "HK$ 188.00",
+            "黄金会员买断": "HK$ 288.00",
+            "黄金年会员": "HK$ 228.00",
+            "黄金月会员": "HK$ 32.00",
+            "黄金会员": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779896486654,
@@ -280126,7 +280158,8 @@
       "WRC Secto Rally Finland 2026": "HK$ 32.00",
       "ERC 82nd Rally Poland 2026": "HK$ 32.00",
       "WRC Rally Estonia 2026": "HK$ 32.00",
-      "Kihelkonna Rahvaralli 2026": "HK$ 18.00"
+      "Kihelkonna Rahvaralli 2026": "HK$ 18.00",
+      "SM Ralli Kitee 2026": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -280154,9 +280187,29 @@
       "WRC Secto Rally Finland 2026": "HK$ 32.00",
       "ERC 82nd Rally Poland 2026": "HK$ 32.00",
       "WRC Rally Estonia 2026": "HK$ 32.00",
-      "Kihelkonna Rahvaralli 2026": "HK$ 18.00"
+      "Kihelkonna Rahvaralli 2026": "HK$ 18.00",
+      "SM Ralli Kitee 2026": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SM Ralli Kitee 2026": "HK$ 22.00",
+            "Kihelkonna Rahvaralli 2026": "HK$ 18.00",
+            "WRC Secto Rally Finland 2026": "HK$ 32.00",
+            "ERC 82nd Rally Poland 2026": "HK$ 32.00",
+            "WRC Rally Estonia 2026": "HK$ 32.00",
+            "ERC Rally di Roma Capitale 2026": "HK$ 18.00",
+            "D1 Ardeca Ypres Rally 2026": "HK$ 22.00",
+            "Lõuna-Eesti Ralli 2026": "HK$ 22.00",
+            "WRC Eko Acropolis Rally Greece 2026": "HK$ 22.00",
+            "NEO Rally Žemaitija 2026": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783626347383,

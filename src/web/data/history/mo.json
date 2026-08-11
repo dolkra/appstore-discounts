@@ -92469,7 +92469,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Remove ADs": "USD 1.99",
-      "Remove Ads": "USD 1.99",
+      "Remove Ads": "USD 4.99",
       "Barista Special": "USD 9.99",
       "Large Coffee": "USD 4.99",
       "Medium Coffee": "USD 2.99",
@@ -92486,6 +92486,20 @@
       "Small Coffee": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Barista Special": "USD 9.99",
+            "Large Coffee": "USD 4.99",
+            "Medium Coffee": "USD 2.99",
+            "Small Coffee": "USD 1.99",
+            "Remove Ads": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -114920,6 +114934,25 @@
       "Silver Decree": "USD 49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "7200 gems": "USD 99.99",
+            "60 gems": "USD 0.99",
+            "310 gems": "USD 4.99",
+            "2080 gems": "USD 29.99",
+            "Gold Decree": "USD 89.99",
+            "Silver Decree": "USD 49.99",
+            "Resource Package": "USD 2.99",
+            "Heroic Package#1": "USD 9.99",
+            "英雄礼包II": "USD 9.99",
+            "Role Package": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -194478,8 +194511,8 @@
     "trackName": "阿福出境管家（原签证大师）",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99",
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
       "黄金会员月度": "USD 1.99",
       "黄金会员月": "USD 1.99",
       "普通会员买断": "USD 22.99",
@@ -194504,6 +194537,24 @@
       "普通": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "黄金会员月度": "USD 1.99",
+            "黄金会员月": "USD 1.99",
+            "普通会员买断": "USD 22.99",
+            "黄金会员买断": "USD 39.99",
+            "黄金年会员": "USD 29.99",
+            "黄金月会员": "USD 3.99",
+            "基础月会员": "USD 0.99",
+            "黄金会员": "USD 3.99",
+            "普通": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779525017362,
@@ -194596,7 +194647,8 @@
       "WRC Secto Rally Finland 2026": "USD 3.99",
       "ERC 82nd Rally Poland 2026": "USD 3.99",
       "WRC Rally Estonia 2026": "USD 3.99",
-      "Kihelkonna Rahvaralli 2026": "USD 1.99"
+      "Kihelkonna Rahvaralli 2026": "USD 1.99",
+      "SM Ralli Kitee 2026": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -194630,9 +194682,29 @@
       "WRC Secto Rally Finland 2026": "USD 3.99",
       "ERC 82nd Rally Poland 2026": "USD 3.99",
       "WRC Rally Estonia 2026": "USD 3.99",
-      "Kihelkonna Rahvaralli 2026": "USD 1.99"
+      "Kihelkonna Rahvaralli 2026": "USD 1.99",
+      "SM Ralli Kitee 2026": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786474865372,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "SM Ralli Kitee 2026": "USD 2.99",
+            "Kihelkonna Rahvaralli 2026": "USD 1.99",
+            "WRC Secto Rally Finland 2026": "USD 3.99",
+            "ERC 82nd Rally Poland 2026": "USD 3.99",
+            "WRC Rally Estonia 2026": "USD 3.99",
+            "ERC Rally di Roma Capitale 2026": "USD 1.95",
+            "D1 Ardeca Ypres Rally 2026": "USD 2.99",
+            "Lõuna-Eesti Ralli 2026": "USD 2.99",
+            "WRC Eko Acropolis Rally Greece 2026": "USD 2.99",
+            "NEO Rally Žemaitija 2026": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783626347383,
