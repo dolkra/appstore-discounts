@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6760948683,
+    "region": "us",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6760948683",
+    "trackName": "Digline: Cozy Mining",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 1575364575,
     "region": "us",
     "timestamp": 1786442412467,
@@ -7788,7 +7808,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "Free",
-        "range": "[Free ~ $0.99]"
+        "range": "[Free ~ $2.99]"
       }
     ],
     "price": 0,

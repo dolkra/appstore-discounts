@@ -1,5 +1,99 @@
 [
   {
+    "trackId": 1459520638,
+    "region": "mo",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "欧洲篇 + 大洋洲篇 + 亞洲篇",
+        "from": "USD 32.99",
+        "to": "USD 29.99",
+        "range": "[USD 29.99 ~ USD 32.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴展包 + 裝飾包",
+        "from": "USD 44.99",
+        "to": "USD 39.99",
+        "range": "[USD 39.99 ~ USD 44.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "裝飾包合集",
+        "from": "USD 13.49",
+        "to": "USD 11.99",
+        "range": "[USD 11.99 ~ USD 13.49]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "USD 9.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 1473749002,
+    "region": "mo",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 34.99",
+        "to": "USD 29.99",
+        "range": "[USD 12.99 ~ USD 34.99]"
+      }
+    ],
+    "price": 29.99,
+    "formattedPrice": "USD 29.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1473749002",
+    "trackName": "Vergi Akademisi Pro",
+    "firstRecordedAt": 1745604174662
+  },
+  {
+    "trackId": 1499001662,
+    "region": "mo",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[免費 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1620202676,
+    "region": "mo",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1620202676",
+    "trackName": "鋼鐵戰隊",
+    "firstRecordedAt": 1771447813830
+  },
+  {
     "trackId": 1575364575,
     "region": "mo",
     "timestamp": 1786442412467,

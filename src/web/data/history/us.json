@@ -51088,6 +51088,29 @@
       ]
     ]
   },
+  "562183957": {
+    "trackId": 562183957,
+    "trackName": "Pocket Clothier",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786464021561,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "562989701": {
     "trackId": 562989701,
     "trackName": "Vector Classic",
@@ -97841,6 +97864,24 @@
       "Project Tuning: Scattered Echoes 1": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786464021561,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "PinocchioP Selection": "$3.99",
+            "Project Tuning: Scattered Echoes 1": "$3.99",
+            "Challenge Pass \"Fallen Resonance\"": "$2.99",
+            "Challenge Pass \"Camellia Selection\"": "$3.99",
+            "Challenge Pass": "$2.99",
+            "Challenge Pass \"Retro Fantasia\"": "$2.99",
+            "Challenge Pass \"Phantasm Feast\"": "$2.99",
+            "Expansion Ch. Z": "$3.99",
+            "Challenge Pass \"Speedcore Overload\"": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785650252788,
@@ -213135,6 +213176,25 @@
     "history": [
       [
         {
+          "timestamp": 1786464021561,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Welcome Offer": "$9.99",
+            "Ready to Roast": "$6.49",
+            "Midnight Mix Pack 1": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785227573591,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -229781,6 +229841,25 @@
       "French Audio": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786464021561,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Spanish Audio": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00",
+            "Russian Audio": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782849460401,
@@ -328850,8 +328929,8 @@
     "trackName": "阿福出境管家（原签证大师）",
     "region": "us",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 2.99,
+      "formattedPrice": "$2.99",
       "基础月会员": "$0.99",
       "解锁报告": "$2.99",
       "黄金会员月度": "$1.99",
@@ -328878,6 +328957,24 @@
       "普通": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786464021561,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "基础月会员": "$0.99",
+            "黄金会员月度": "$1.99",
+            "解锁报告": "$2.99",
+            "黄金会员月": "$1.99",
+            "普通会员买断": "$22.99",
+            "黄金会员买断": "$39.99",
+            "黄金年会员": "$29.99",
+            "黄金月会员": "$3.99",
+            "黄金会员": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1780433363654,
@@ -330840,6 +330937,14 @@
     "history": [
       [
         {
+          "timestamp": 1786464021561,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786025220529,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -330936,7 +331041,7 @@
   },
   "6754315964": {
     "trackId": 6754315964,
-    "trackName": "Plezy for Plex & Jellyfin",
+    "trackName": "Plezy: Media Server Client",
     "region": "us",
     "maxPriceInfo": {
       "price": 5.99,

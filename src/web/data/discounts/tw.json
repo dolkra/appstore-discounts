@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 1459520638,
+    "region": "tw",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "欧洲篇 + 大洋洲篇 + 亞洲篇",
+        "from": "$690.00",
+        "to": "$620.00",
+        "range": "[$620.00 ~ $690.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "擴展包 + 裝飾包",
+        "from": "$1,020.00",
+        "to": "$910.00",
+        "range": "[$910.00 ~ $1,020.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "裝飾包合集",
+        "from": "$375.00",
+        "to": "$335.00",
+        "range": "[$335.00 ~ $375.00]"
+      }
+    ],
+    "price": 225,
+    "formattedPrice": "$225.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1745398953972
+  },
+  {
+    "trackId": 1473749002,
+    "region": "tw",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1,190.00",
+        "to": "$990.00",
+        "range": "[$390.00 ~ $1,190.00]"
+      }
+    ],
+    "price": 990,
+    "formattedPrice": "$990.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1473749002",
+    "trackName": "Vergi Akademisi Pro",
+    "firstRecordedAt": 1745604174662
+  },
+  {
+    "trackId": 1499001662,
+    "region": "tw",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$30.00",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer Game",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1620202676,
+    "region": "tw",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1620202676",
+    "trackName": "鋼鐵戰隊",
+    "firstRecordedAt": 1771447813830
+  },
+  {
+    "trackId": 1662217862,
+    "region": "tw",
+    "timestamp": 1786464021561,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Filtr",
+        "from": "$790.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $790.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1662217862",
+    "trackName": "Wipr 2",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1575364575,
     "region": "tw",
     "timestamp": 1786442412467,
@@ -7832,7 +7946,7 @@
         "name": "Price",
         "from": "$30.00",
         "to": "免費",
-        "range": "[免費 ~ $30.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 0,
