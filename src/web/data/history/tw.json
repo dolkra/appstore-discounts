@@ -149317,6 +149317,23 @@
     "history": [
       [
         {
+          "timestamp": 1786442412467,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "68金玉": "$330.00",
+            "30金玉": "$170.00",
+            "6金玉": "$33.00",
+            "198金玉": "$990.00",
+            "尊享月俸": "$170.00",
+            "648金玉": "$3,290.00",
+            "一鍵買斷禮包": "$150.00",
+            "328金玉": "$1,690.00",
+            "禮包2": "$33.00",
+            "6元新手禮包​​": "$33.00"
+          }
+        },
+        {
           "timestamp": 1786431967519,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -192122,10 +192139,18 @@
       "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 20,
+      "formattedPrice": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786442412467,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1769193880424,
