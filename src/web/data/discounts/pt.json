@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 1459520638,
+    "region": "pt",
+    "timestamp": 1786484699249,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Europa + Oceania + Ásia",
+        "from": "32,99 €",
+        "to": "29,99 €",
+        "range": "[29,99 € ~ 32,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Expansões + Pacotes Decorativos",
+        "from": "44,99 €",
+        "to": "39,99 €",
+        "range": "[39,99 € ~ 44,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Conjunto de Pacotes Decorativos",
+        "from": "13,49 €",
+        "to": "11,99 €",
+        "range": "[11,99 € ~ 13,49 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1459520638",
+    "trackName": "Wingspan: The Board Game",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1575364575,
     "region": "pt",
     "timestamp": 1786442412467,

@@ -99730,13 +99730,31 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "formattedPrice": "₺499,99",
+      "All Access Yearly": "₺1.499,99",
+      "Early Access Weekly": "₺99,99",
+      "All Access Weekly": "₺249,99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "All Access Yearly": "₺1.499,99",
+      "Early Access Weekly": "₺99,99",
+      "All Access Weekly": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786484699249,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "All Access Yearly": "₺1.499,99",
+            "Early Access Weekly": "₺99,99",
+            "All Access Weekly": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772333804667,
@@ -228314,6 +228332,25 @@
       "Krone BiG M 450": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786484699249,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "John Deere 8R 410": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786464021561,

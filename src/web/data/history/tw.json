@@ -98890,13 +98890,31 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 290,
-      "formattedPrice": "$290.00"
+      "formattedPrice": "$290.00",
+      "All Access Yearly": "$990.00",
+      "Early Access Weekly": "$60.00",
+      "All Access Weekly": "$150.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "All Access Yearly": "$990.00",
+      "Early Access Weekly": "$60.00",
+      "All Access Weekly": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786484699249,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "All Access Yearly": "$990.00",
+            "Early Access Weekly": "$60.00",
+            "All Access Weekly": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766658617562,
@@ -210793,6 +210811,25 @@
     "history": [
       [
         {
+          "timestamp": 1786484699249,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "護士禮包": "$150.00",
+            "解鎖旁觀者": "$90.00",
+            "解鎖九尾狐": "$90.00",
+            "賽季3戰鬥通行證": "$60.00",
+            "制服禮包": "$120.00",
+            "解鎖巴弗滅": "$90.00",
+            "賽季2戰鬥通行證": "$60.00",
+            "怪物禮包2": "$990.00",
+            "信息禮包": "$390.00",
+            "鍛造禮包": "$220.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786214168760,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -289618,6 +289655,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786484699249,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "深淵開拓者": "$320.00",
+            "魔界擴充通行證": "$190.00",
+            "超越精華": "$990.00",
+            "隱月造型套裝": "$320.00",
+            "永恆方舟": "$990.00",
+            "魔界通行證1": "$90.00",
+            "時間旅行者": "$190.00",
+            "成長之始": "$320.00",
+            "深淵精華": "$690.00",
+            "深淵之始": "$320.00"
+          }
+        },
         {
           "timestamp": 1786464021561,
           "price": 190,

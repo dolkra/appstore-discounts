@@ -109693,13 +109693,31 @@
     "name": "Hear My Baby Heartbeat App 2.0",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "$9.99"
+      "formattedPrice": "$9.99",
+      "All Access Yearly": "$29.99",
+      "Early Access Weekly": "$1.99",
+      "All Access Weekly": "$4.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "All Access Yearly": "$29.99",
+      "Early Access Weekly": "$1.99",
+      "All Access Weekly": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786484699249,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "All Access Yearly": "$29.99",
+            "Early Access Weekly": "$1.99",
+            "All Access Weekly": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772333804667,

@@ -77480,13 +77480,31 @@
     "name": "Hear My Baby Heartbeat App 2.0",
     "maxPriceInfo": {
       "price": 7.99,
-      "formattedPrice": "USD 7.99"
+      "formattedPrice": "USD 7.99",
+      "All Access Yearly": "USD 29.99",
+      "Early Access Weekly": "USD 1.99",
+      "All Access Weekly": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "All Access Yearly": "USD 29.99",
+      "Early Access Weekly": "USD 1.99",
+      "All Access Weekly": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786484699249,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "All Access Yearly": "USD 29.99",
+            "Early Access Weekly": "USD 1.99",
+            "All Access Weekly": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766667355096,
@@ -112999,6 +113017,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786484699249,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Teammate Package#2": "USD 4.99",
+            "Bronze Decree": "USD 25.99",
+            "Heroic Package#3": "USD 49.99",
+            "Role Package III": "USD 9.99",
+            "Suit Package": "USD 29.99",
+            "Teammate Package": "USD 4.99",
+            "Role Package": "USD 2.99",
+            "英雄礼包II": "USD 9.99",
+            "Heroic Package#1": "USD 9.99",
+            "Resource Package": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1786474865372,
           "price": 0.99,
@@ -170849,6 +170884,25 @@
       "Airbus A321 XLR": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786484699249,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Airbus A320neo": "USD 3.99",
+            "Global scenery - 1 month": "USD 4.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "Airbus A380": "USD 1.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Boeing 787-9": "USD 3.99",
+            "Airbus A321": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784872206455,
