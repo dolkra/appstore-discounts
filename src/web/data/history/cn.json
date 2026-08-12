@@ -74799,6 +74799,23 @@
     "history": [
       [
         {
+          "timestamp": 1786571006662,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "周卡": "¥12.00",
+            "少量信用点": "¥6.00",
+            "大月卡": "¥45.00",
+            "小月卡": "¥25.00",
+            "中等信用点": "¥12.00",
+            "福利升级": "¥6.00",
+            "超多信用点": "¥50.00",
+            "海量信用点": "¥108.00",
+            "大量信用点": "¥25.00",
+            "超级多信用点": "¥258.00"
+          }
+        },
+        {
           "timestamp": 1786561258693,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -142092,6 +142109,29 @@
           "timestamp": 1781525626784,
           "price": 48,
           "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1599230728": {
+    "trackId": 1599230728,
+    "trackName": "Solar Snap",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "minPriceInfo": {
+      "price": 15,
+      "formattedPrice": "¥15.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 15,
+          "formattedPrice": "¥15.00",
           "inAppPurchases": {}
         }
       ]
@@ -217384,7 +217424,9 @@
       "ERC 82nd Rally Poland 2026": "¥28.00",
       "WRC Rally Estonia 2026": "¥28.00",
       "Kihelkonna Rahvaralli 2026": "¥15.00",
-      "SM Ralli Kitee 2026": "¥22.00"
+      "SM Ralli Kitee 2026": "¥22.00",
+      "Paide Rally 2026": "¥22.00",
+      "ERC Barum Czech Rally Zlin 2026": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -217419,9 +217461,30 @@
       "ERC 82nd Rally Poland 2026": "¥28.00",
       "WRC Rally Estonia 2026": "¥28.00",
       "Kihelkonna Rahvaralli 2026": "¥15.00",
-      "SM Ralli Kitee 2026": "¥22.00"
+      "SM Ralli Kitee 2026": "¥22.00",
+      "Paide Rally 2026": "¥22.00",
+      "ERC Barum Czech Rally Zlin 2026": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Paide Rally 2026": "¥22.00",
+            "ERC Barum Czech Rally Zlin 2026": "¥22.00",
+            "SM Ralli Kitee 2026": "¥22.00",
+            "Kihelkonna Rahvaralli 2026": "¥15.00",
+            "WRC Secto Rally Finland 2026": "¥28.00",
+            "ERC 82nd Rally Poland 2026": "¥28.00",
+            "WRC Rally Estonia 2026": "¥28.00",
+            "ERC Rally di Roma Capitale 2026": "¥15.00",
+            "D1 Ardeca Ypres Rally 2026": "¥22.00",
+            "Lõuna-Eesti Ralli 2026": "¥22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786474865372,
@@ -219004,13 +219067,28 @@
     "region": "cn",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "¥22.00"
+      "formattedPrice": "¥22.00",
+      "Pro 年度": "¥38.00",
+      "Pro 月度": "¥8.00"
     },
     "minPriceInfo": {
       "price": 22,
-      "formattedPrice": "¥22.00"
+      "formattedPrice": "¥22.00",
+      "Pro 年度": "¥38.00",
+      "Pro 月度": "¥8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Pro 年度": "¥38.00",
+            "Pro 月度": "¥8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,

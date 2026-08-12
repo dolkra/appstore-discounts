@@ -99812,6 +99812,18 @@
     "history": [
       [
         {
+          "timestamp": 1786571006662,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Access Yearly": "₺1.499,99",
+            "Early Access Weekly": "₺99,99",
+            "All Access Weekly": "₺249,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786484699249,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -203278,6 +203290,29 @@
           "timestamp": 1745658131479,
           "price": 179.99,
           "formattedPrice": "₺179,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1599230728": {
+    "trackId": 1599230728,
+    "trackName": "Solar Snap",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]

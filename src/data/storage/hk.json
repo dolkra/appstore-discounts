@@ -10182,6 +10182,25 @@
     "history": [
       [
         {
+          "timestamp": 1786571006662,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "forScore Pro": "HK$ 118.00",
+            "Brahms: The Mutopia Collection": "HK$ 0.00",
+            "forScore Pro 30-Day Pass": "HK$ 22.00",
+            "Liszt: The Mutopia Collection": "HK$ 0.00",
+            "Tchaikovsky: The Mutopia Collection": "HK$ 0.00",
+            "Satie: The Mutopia Collection": "HK$ 0.00",
+            "Schumann: The Mutopia Collection": "HK$ 0.00",
+            "Haydn: The Mutopia Collection": "HK$ 0.00",
+            "Burgmüller: The Mutopia Collection": "HK$ 0.00",
+            "Händel: The Mutopia Collection": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786412471476,
           "price": 188,
           "formattedPrice": "HK$ 188.00",
@@ -97856,7 +97875,7 @@
     ]
   },
   "1111420122": {
-    "name": "Hear My Baby Heartbeat App 2.0",
+    "name": "Hear My Baby Heartbeat App",
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00",
@@ -200035,6 +200054,27 @@
       ]
     ]
   },
+  "1599230728": {
+    "name": "Solar Snap",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1599393574": {
     "name": "Peace, Death! 2",
     "maxPriceInfo": {
@@ -276637,7 +276677,9 @@
       "ERC 82nd Rally Poland 2026": "HK$ 32.00",
       "WRC Rally Estonia 2026": "HK$ 32.00",
       "Kihelkonna Rahvaralli 2026": "HK$ 18.00",
-      "SM Ralli Kitee 2026": "HK$ 22.00"
+      "SM Ralli Kitee 2026": "HK$ 22.00",
+      "Paide Rally 2026": "HK$ 22.00",
+      "ERC Barum Czech Rally Zlin 2026": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -276666,9 +276708,30 @@
       "ERC 82nd Rally Poland 2026": "HK$ 32.00",
       "WRC Rally Estonia 2026": "HK$ 32.00",
       "Kihelkonna Rahvaralli 2026": "HK$ 18.00",
-      "SM Ralli Kitee 2026": "HK$ 22.00"
+      "SM Ralli Kitee 2026": "HK$ 22.00",
+      "Paide Rally 2026": "HK$ 22.00",
+      "ERC Barum Czech Rally Zlin 2026": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Paide Rally 2026": "HK$ 22.00",
+            "ERC Barum Czech Rally Zlin 2026": "HK$ 22.00",
+            "SM Ralli Kitee 2026": "HK$ 22.00",
+            "Kihelkonna Rahvaralli 2026": "HK$ 18.00",
+            "WRC Secto Rally Finland 2026": "HK$ 32.00",
+            "ERC 82nd Rally Poland 2026": "HK$ 32.00",
+            "WRC Rally Estonia 2026": "HK$ 32.00",
+            "ERC Rally di Roma Capitale 2026": "HK$ 18.00",
+            "D1 Ardeca Ypres Rally 2026": "HK$ 22.00",
+            "Lõuna-Eesti Ralli 2026": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786474865372,
@@ -278602,13 +278665,28 @@
     "name": "Heedam Filter",
     "maxPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "Pro 年費": "HK$ 48.00",
+      "Pro 月費": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 22,
-      "formattedPrice": "HK$ 22.00"
+      "formattedPrice": "HK$ 22.00",
+      "Pro 年費": "HK$ 48.00",
+      "Pro 月費": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Pro 年費": "HK$ 48.00",
+            "Pro 月費": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,

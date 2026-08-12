@@ -32421,6 +32421,25 @@
     "history": [
       [
         {
+          "timestamp": 1786571006662,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "大富翁4 Fun 美國地圖": "$30.00",
+            "「日本香港組合包」": "$30.00",
+            "大富翁 4 fun 仙劍仙靈島組合包": "$30.00",
+            "大富翁 4 fun 韓國地圖組合包": "$30.00",
+            "大富翁 4 fun 軒轅劍太山組合包": "$30.00",
+            "大富翁 4 FUN  巴黎倫敦組合包": "$30.00",
+            "大富翁 4 fun 樂園組合包": "$30.00",
+            "仙五地圖包": "$30.00",
+            "大富翁4 Fun夏日組合包": "$30.00",
+            "小包元寶": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784872206455,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -200523,6 +200542,29 @@
       ]
     ]
   },
+  "1599230728": {
+    "trackId": 1599230728,
+    "trackName": "Solar Snap",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1599393574": {
     "trackId": 1599393574,
     "trackName": "Peace, Death! 2",
@@ -290812,7 +290854,9 @@
       "ERC 82nd Rally Poland 2026": "$120.00",
       "WRC Rally Estonia 2026": "$120.00",
       "Kihelkonna Rahvaralli 2026": "$60.00",
-      "SM Ralli Kitee 2026": "$90.00"
+      "SM Ralli Kitee 2026": "$90.00",
+      "Paide Rally 2026": "$90.00",
+      "ERC Barum Czech Rally Zlin 2026": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -290841,9 +290885,30 @@
       "ERC 82nd Rally Poland 2026": "$120.00",
       "WRC Rally Estonia 2026": "$120.00",
       "Kihelkonna Rahvaralli 2026": "$60.00",
-      "SM Ralli Kitee 2026": "$90.00"
+      "SM Ralli Kitee 2026": "$90.00",
+      "Paide Rally 2026": "$90.00",
+      "ERC Barum Czech Rally Zlin 2026": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Paide Rally 2026": "$90.00",
+            "ERC Barum Czech Rally Zlin 2026": "$90.00",
+            "SM Ralli Kitee 2026": "$90.00",
+            "Kihelkonna Rahvaralli 2026": "$60.00",
+            "WRC Secto Rally Finland 2026": "$120.00",
+            "ERC 82nd Rally Poland 2026": "$120.00",
+            "WRC Rally Estonia 2026": "$120.00",
+            "ERC Rally di Roma Capitale 2026": "$60.00",
+            "D1 Ardeca Ypres Rally 2026": "$90.00",
+            "Lõuna-Eesti Ralli 2026": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786474865372,
@@ -292904,13 +292969,28 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "Pro 年費": "$190.00",
+      "Pro 月費": "$30.00"
     },
     "minPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "Pro 年費": "$190.00",
+      "Pro 月費": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Pro 年費": "$190.00",
+            "Pro 月費": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,

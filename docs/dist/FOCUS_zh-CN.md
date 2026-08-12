@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2196` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2197` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2197|1599230728|自动|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|
 |2196|6748751735|自动|❌|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|
 |2195|6795031582|自动|❌|水蚤：生態觀察遊戲|水蚤：生態觀察遊戲|水蚤：生態觀察遊戲|Daphnia: Ecosystem Simulator|Daphnia: Ecosystem Simulator|Daphnia: Ecosystem Simulator|
 |2194|562183957|自动|❌|時尚洋品店物語|時尚洋品店物語|時尚洋品店物語|Pocket Clothier|Pocket Clothier|Pocket Clothier|
@@ -1769,7 +1770,7 @@
 |437|1099088440|自动|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|❌|
 |436|1108479411|自动|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|Driving Zone 2: Carros Jogos|
 |435|1110646984|自动|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|❌|
-|434|1111420122|自动|❌|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App|Hear My Baby Batimento|
+|434|1111420122|自动|❌|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App|Hear My Baby Batimento|
 |433|1112429079|自动|物种起源|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|
 |432|1113736426|自动|❌|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|
 |431|1118115766|自动|❌|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|

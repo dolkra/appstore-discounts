@@ -46279,13 +46279,25 @@
       "Early Access Weekly": "1,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "All Access Yearly": "34,99 €",
       "All Access Weekly": "5,99 €",
       "Early Access Weekly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "All Access Yearly": "34,99 €",
+            "Early Access Weekly": "1,99 €",
+            "All Access Weekly": "5,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786484699249,
@@ -91341,6 +91353,29 @@
           "timestamp": 1761797674362,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1599230728": {
+    "trackId": 1599230728,
+    "trackName": "Solar Snap",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786571006662,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
