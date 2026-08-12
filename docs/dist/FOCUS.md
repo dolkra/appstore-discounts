@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2195` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2196` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2196|6748751735|Automatic|❌|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|
 |2195|6795031582|Automatic|❌|水蚤：生態觀察遊戲|水蚤：生態觀察遊戲|水蚤：生態觀察遊戲|Daphnia: Ecosystem Simulator|Daphnia: Ecosystem Simulator|Daphnia: Ecosystem Simulator|
 |2194|562183957|Automatic|❌|時尚洋品店物語|時尚洋品店物語|時尚洋品店物語|Pocket Clothier|Pocket Clothier|Pocket Clothier|
 |2193|1554805547|Automatic|❌|Lets Get Lit|Lets Get Lit|Lets Get Lit|Lets Get Lit|Lets Get Lit|Lets Get Lit|
@@ -1768,7 +1769,7 @@ So far, we've covered `7` `Countries or Regions` and  `2195` `Apps` <br />Push n
 |437|1099088440|Automatic|火柴人联盟2|火柴人联盟2|火柴人联盟2|火柴人联盟2|❌|❌|❌|
 |436|1108479411|Automatic|❌|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Car Racing|Driving Zone 2: Racing Games|Driving Zone 2: Carros Jogos|
 |435|1110646984|Automatic|地下城堡2: 黑暗觉醒|❌|❌|❌|❌|❌|❌|
-|434|1111420122|Automatic|❌|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Fetal Monitor|
+|434|1111420122|Automatic|❌|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App|Hear My Baby Heartbeat App 2.0|Hear My Baby Heartbeat App|Hear My Baby Batimento|
 |433|1112429079|Automatic|物种起源|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|Origin - The Big Bang|
 |432|1113736426|Automatic|❌|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|RollerCoaster Tycoon® Classic|
 |431|1118115766|Automatic|❌|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|Bloons TD 6|

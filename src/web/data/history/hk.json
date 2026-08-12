@@ -64538,6 +64538,25 @@
     "history": [
       [
         {
+          "timestamp": 1786561258693,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "$20 Credit": "HK$ 148.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "6 Mo. Global Texting": "HK$ 118.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785822374637,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -284098,6 +284117,29 @@
           "timestamp": 1786550320034,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748751735": {
+    "trackId": 6748751735,
+    "trackName": "Servant of the Lake",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786561258693,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
           "inAppPurchases": {}
         }
       ]

@@ -46269,7 +46269,7 @@
   },
   "1111420122": {
     "trackId": 1111420122,
-    "trackName": "Hear My Baby Fetal Monitor",
+    "trackName": "Hear My Baby Batimento",
     "region": "pt",
     "maxPriceInfo": {
       "price": 9.99,
@@ -127416,7 +127416,9 @@
       "ERC 82nd Rally Poland 2026": "3,99 €",
       "WRC Rally Estonia 2026": "3,99 €",
       "Kihelkonna Rahvaralli 2026": "1,99 €",
-      "SM Ralli Kitee 2026": "3,89 €"
+      "SM Ralli Kitee 2026": "3,89 €",
+      "Paide Rally 2026": "3,89 €",
+      "ERC Barum Czech Rally Zlin 2026": "3,89 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -127445,9 +127447,30 @@
       "ERC 82nd Rally Poland 2026": "3,99 €",
       "WRC Rally Estonia 2026": "3,99 €",
       "Kihelkonna Rahvaralli 2026": "1,99 €",
-      "SM Ralli Kitee 2026": "3,89 €"
+      "SM Ralli Kitee 2026": "3,89 €",
+      "Paide Rally 2026": "3,89 €",
+      "ERC Barum Czech Rally Zlin 2026": "3,89 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786561258693,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "WRC Vodafone Rally de Portugal 2026": "3,89 €",
+            "WRC Central European Rally": "4,69 €",
+            "Paide Rally 2026": "3,89 €",
+            "ERC Barum Czech Rally Zlin 2026": "3,89 €",
+            "SM Ralli Kitee 2026": "3,89 €",
+            "Kihelkonna Rahvaralli 2026": "1,99 €",
+            "WRC Secto Rally Finland 2026": "3,99 €",
+            "ERC 82nd Rally Poland 2026": "3,99 €",
+            "WRC Rally Estonia 2026": "3,99 €",
+            "ERC Rally di Roma Capitale 2026": "1,95 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786464021561,
@@ -129709,13 +129732,28 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Pro Yearly": "7,00 €",
+      "Pro Monthly": "1,00 €"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Pro Yearly": "7,00 €",
+      "Pro Monthly": "1,00 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786561258693,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "Pro Yearly": "7,00 €",
+            "Pro Monthly": "1,00 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,
@@ -131147,6 +131185,21 @@
           "timestamp": 1786550320034,
           "price": 3.99,
           "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748751735": {
+    "trackId": 6748751735,
+    "trackName": "Servant of the Lake",
+    "region": "pt",
+    "maxPriceInfo": {},
+    "minPriceInfo": {},
+    "history": [
+      [
+        {
+          "timestamp": 1786561258693,
           "inAppPurchases": {}
         }
       ]
