@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6762970009,
+    "region": "tr",
+    "timestamp": 1786540034446,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺9,99",
+        "to": "₺2,99",
+        "range": "[₺2,99 ~ ₺19,99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "₺2,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6762970009",
+    "trackName": "Otoparkçı",
+    "firstRecordedAt": 1777371742983
+  },
+  {
+    "trackId": 6772053026,
+    "region": "tr",
+    "timestamp": 1786540034446,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺9,99",
+        "to": "₺2,99",
+        "range": "[₺2,99 ~ ₺9,99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "₺2,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6772053026",
+    "trackName": "Halı Saha Patronu",
+    "firstRecordedAt": 1780147750910
+  },
+  {
     "trackId": 834315918,
     "region": "tr",
     "timestamp": 1786529003459,
@@ -3524,7 +3564,7 @@
         "name": "Price",
         "from": "₺9,99",
         "to": "₺5,99",
-        "range": "[₺4,99 ~ ₺19,99]"
+        "range": "[₺2,99 ~ ₺19,99]"
       }
     ],
     "price": 5.99,
@@ -5244,7 +5284,7 @@
         "name": "Price",
         "from": "₺9,99",
         "to": "₺4,99",
-        "range": "[₺4,99 ~ ₺19,99]"
+        "range": "[₺2,99 ~ ₺19,99]"
       }
     ],
     "price": 4.99,
