@@ -207559,6 +207559,23 @@
     "history": [
       [
         {
+          "timestamp": 1786550320034,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Sandrock Deputy": "$0.99",
+            "Country Passion": "$0.99",
+            "Leisure Breeze": "$0.99",
+            "Stripy Neatness": "$0.99",
+            "Blue Elegance": "$0.99",
+            "Futurewave": "$0.99",
+            "Charming Spirit": "$0.99",
+            "Wandering Heart": "$0.99",
+            "Extra Drippy": "$0.99",
+            "Comfy Jamjams": "$0.99"
+          }
+        },
+        {
           "timestamp": 1786540034446,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -333508,6 +333525,29 @@
           "timestamp": 1786398028074,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6795031582": {
+    "trackId": 6795031582,
+    "trackName": "Daphnia: Ecosystem Simulator",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "$3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786550320034,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
           "inAppPurchases": {}
         }
       ]
