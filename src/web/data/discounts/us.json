@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 834315918,
+    "region": "us",
+    "timestamp": 1786529003459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id834315918",
+    "trackName": "Space Marshals",
+    "firstRecordedAt": 1775646414015
+  },
+  {
+    "trackId": 1072737282,
+    "region": "us",
+    "timestamp": 1786529003459,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1072737282",
+    "trackName": "Space Marshals 2",
+    "firstRecordedAt": 1775926064010
+  },
+  {
     "trackId": 1473749002,
     "region": "us",
     "timestamp": 1786509981459,
