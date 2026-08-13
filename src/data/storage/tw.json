@@ -97677,6 +97677,18 @@
     "history": [
       [
         {
+          "timestamp": 1786586105806,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "All Access Yearly": "$990.00",
+            "Early Access Weekly": "$60.00",
+            "All Access Weekly": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786484699249,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -145438,6 +145450,31 @@
       ]
     ]
   },
+  "1445813795": {
+    "name": "Eclipse Guide：地圖與時間",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "日食 - 高級功能": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00",
+      "日食 - 高級功能": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786586105806,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "日食 - 高級功能": "$30.00"
+          }
+        }
+      ]
+    ]
+  },
   "1446215054": {
     "name": "差異檢查",
     "maxPriceInfo": {
@@ -160003,6 +160040,25 @@
       "Opposing Fronts - Spanish": "$0.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786586105806,
+          "price": 430,
+          "formattedPrice": "$430.00",
+          "inAppPurchases": {
+            "Tales of Valor - Spanish": "$0.00",
+            "Tales of Valor - German": "$0.00",
+            "Tales of Valor - Russian": "$0.00",
+            "Tales of Valor - French": "$0.00",
+            "《Tales of Valor》": "$130.00",
+            "Opposing Fronts - French": "$0.00",
+            "Opposing Fronts - German": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "Opposing Fronts - Spanish": "$0.00",
+            "《Opposing Fronts》火線對決": "$130.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785072025219,
@@ -290297,6 +290353,27 @@
           "timestamp": 1786561258693,
           "price": 150,
           "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449100612": {
+    "name": "Paranormal Inc.",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786586105806,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

@@ -78911,6 +78911,18 @@
     "history": [
       [
         {
+          "timestamp": 1786586105806,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "All Access Yearly": "USD 29.99",
+            "Early Access Weekly": "USD 1.99",
+            "All Access Weekly": "USD 4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786484699249,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -114849,6 +114861,33 @@
           "price": 9.99,
           "formattedPrice": "USD 9.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1445813795": {
+    "trackId": 1445813795,
+    "trackName": "Eclipse Guide：地圖與時間",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "日食 - 高級功能": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99",
+      "日食 - 高級功能": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786586105806,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "日食 - 高級功能": "USD 0.99"
+          }
         }
       ]
     ]
@@ -198658,6 +198697,29 @@
           "timestamp": 1786561258693,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6449100612": {
+    "trackId": 6449100612,
+    "trackName": "Paranormal Inc.",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786586105806,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]
