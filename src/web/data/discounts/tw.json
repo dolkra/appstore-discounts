@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 675049147,
+    "region": "tw",
+    "timestamp": 1786596608395,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "免費",
+        "range": "[免費 ~ $150.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id675049147",
+    "trackName": "SmallFish Chess for Stockfish",
+    "firstRecordedAt": 1748358156844
+  },
+  {
+    "trackId": 6749132733,
+    "region": "tw",
+    "timestamp": 1786596608395,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "媚娘篇",
+        "from": "$165.00",
+        "to": "$135.00",
+        "range": "[$135.00 ~ $165.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6749132733",
+    "trackName": "女王的遊戲-盛世天下",
+    "firstRecordedAt": 1757420731302
+  },
+  {
     "trackId": 1111420122,
     "region": "tw",
     "timestamp": 1786586105806,
