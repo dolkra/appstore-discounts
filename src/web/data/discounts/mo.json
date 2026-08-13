@@ -1,5 +1,145 @@
 [
   {
+    "trackId": 1271620263,
+    "region": "mo",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1271620263",
+    "trackName": "ICEY",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1380582804,
+    "region": "mo",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1380582804",
+    "trackName": "手機帝國",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1587860402,
+    "region": "mo",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1587860402",
+    "trackName": "籠中窺夢",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1611723264,
+    "region": "mo",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1611723264",
+    "trackName": "人類跌落夢境",
+    "firstRecordedAt": 1746356524165
+  },
+  {
+    "trackId": 1614795077,
+    "region": "mo",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1614795077",
+    "trackName": "Otaku's Adventure",
+    "firstRecordedAt": 1745676122075
+  },
+  {
+    "trackId": 6743115658,
+    "region": "mo",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6743115658",
+    "trackName": "TABS Pocket Edition",
+    "firstRecordedAt": 1754651512534
+  },
+  {
+    "trackId": 6443875944,
+    "region": "mo",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 3.49",
+        "range": "[USD 3.49 ~ USD 4.99]"
+      }
+    ],
+    "price": 3.49,
+    "formattedPrice": "USD 3.49",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6443875944",
+    "trackName": "Sands of Salzaar",
+    "firstRecordedAt": 1759807531910
+  },
+  {
     "trackId": 6480058345,
     "region": "mo",
     "timestamp": 1786626497675,
@@ -271,7 +411,8 @@
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 1473749002,
@@ -1212,7 +1353,8 @@
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6673906410,
@@ -5589,7 +5731,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 4.99]"
+        "range": "[USD 3.49 ~ USD 4.99]"
       }
     ],
     "price": 3.99,
@@ -10628,7 +10770,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 4.99]"
+        "range": "[USD 3.49 ~ USD 4.99]"
       }
     ],
     "price": 3.99,
@@ -12480,7 +12622,8 @@
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6754641661,
@@ -13251,7 +13394,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 4.99]"
+        "range": "[USD 3.49 ~ USD 4.99]"
       }
     ],
     "price": 3.99,
@@ -15965,7 +16108,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 4.99]"
+        "range": "[USD 3.49 ~ USD 4.99]"
       }
     ],
     "price": 3.99,
@@ -20942,7 +21085,7 @@
         "name": "Price",
         "from": "USD 4.99",
         "to": "USD 3.99",
-        "range": "[USD 3.99 ~ USD 4.99]"
+        "range": "[USD 3.49 ~ USD 4.99]"
       }
     ],
     "price": 3.99,

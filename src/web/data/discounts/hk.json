@@ -1,5 +1,165 @@
 [
   {
+    "trackId": 1271620263,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1271620263",
+    "trackName": "ICEY",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1380582804,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1380582804",
+    "trackName": "手機帝國",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1587860402,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1587860402",
+    "trackName": "籠中窺夢",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1611723264,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 32,
+    "formattedPrice": "HK$ 32.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1611723264",
+    "trackName": "人類跌落夢境",
+    "firstRecordedAt": 1746356524165
+  },
+  {
+    "trackId": 1614795077,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1614795077",
+    "trackName": "Otaku's Adventure",
+    "firstRecordedAt": 1745676122075
+  },
+  {
+    "trackId": 6480058345,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6480058345",
+    "trackName": "怪獸大進擊 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
+    "trackId": 6743115658,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 32.00",
+        "to": "HK$ 25.00",
+        "range": "[HK$ 25.00 ~ HK$ 32.00]"
+      }
+    ],
+    "price": 25,
+    "formattedPrice": "HK$ 25.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6743115658",
+    "trackName": "TABS Pocket Edition",
+    "firstRecordedAt": 1754651512534
+  },
+  {
+    "trackId": 6443875944,
+    "region": "hk",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 38.00",
+        "to": "HK$ 28.00",
+        "range": "[HK$ 28.00 ~ HK$ 38.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "HK$ 28.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6443875944",
+    "trackName": "Sands of Salzaar",
+    "firstRecordedAt": 1759807531910
+  },
+  {
     "trackId": 6757699360,
     "region": "hk",
     "timestamp": 1786626497675,
@@ -237,7 +397,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 1473749002,
@@ -897,7 +1058,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6444660338,
@@ -1184,7 +1346,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6673906410,
@@ -5497,7 +5660,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+        "range": "[HK$ 28.00 ~ HK$ 38.00]"
       }
     ],
     "price": 32,
@@ -10586,7 +10749,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+        "range": "[HK$ 28.00 ~ HK$ 38.00]"
       }
     ],
     "price": 32,
@@ -12408,7 +12571,8 @@
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 1537362903,
@@ -13253,7 +13417,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+        "range": "[HK$ 28.00 ~ HK$ 38.00]"
       }
     ],
     "price": 32,
@@ -15842,7 +16006,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+        "range": "[HK$ 28.00 ~ HK$ 38.00]"
       }
     ],
     "price": 32,
@@ -20928,7 +21092,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+        "range": "[HK$ 28.00 ~ HK$ 38.00]"
       }
     ],
     "price": 32,
@@ -25058,7 +25222,7 @@
         "name": "Price",
         "from": "HK$ 38.00",
         "to": "HK$ 32.00",
-        "range": "[HK$ 32.00 ~ HK$ 38.00]"
+        "range": "[HK$ 28.00 ~ HK$ 38.00]"
       }
     ],
     "price": 32,

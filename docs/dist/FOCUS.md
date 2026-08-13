@@ -1465,7 +1465,7 @@ So far, we've covered `7` `Countries or Regions` and  `2199` `Apps` <br />Push n
 |744|1397002811|Automatic|Catholic Hymn|Catholic Hymn|Catholic Hymn|Catholic Hymn|Catholic Hymn|Catholic Hymn|Catholic Hymn|
 |743|1447509164|Automatic|Freya • Surge Timer|Freya • Surge Timer|Freya • Surge Timer|Freya • Surge Timer|Freya • Surge Timer|Freya • Surge Timer|Freya • Surge Timer|
 |742|1456714022|Automatic|RFECU Performance 2.0|RFECU Performance 2.0|RFECU Performance 2.0|RFECU Performance 2.0|RFECU Performance 2.0|RFECU Performance 2.0|RFECU Performance 2.0|
-|741|1459520638|Automatic|❌|Wingspan: The Board Game|Wingspan: The Board Game|Wingspan: The Board Game|Wingspan: The Board Game|Wingspan: The Board Game|Wingspan: The Board Game|
+|741| ~~1459520638~~ |Automatic| ~~❌~~ | ~~Wingspan: The Board Game~~ | ~~Wingspan: The Board Game~~ | ~~Wingspan: The Board Game~~ | ~~Wingspan: The Board Game~~ | ~~Wingspan: The Board Game~~ | ~~Wingspan: The Board Game~~ |
 |740|1463480017|Automatic|❌|韭菜投資公司|韭菜投資公司|韭菜投資公司|Leek Inc.|Leek Inc.|韭菜投资公司-人性最贪婪|
 |739|1466120520|Automatic|❌|iVerify Basic|iVerify Basic|iVerify Basic|iVerify Basic|iVerify Basic|iVerify Basic|
 |738|1499085878|Automatic|CNC Lathe Simulator|CNC Lathe Simulator|CNC Lathe Simulator|CNC Lathe Simulator|CNC Lathe Simulator|CNC Lathe Simulator|CNC Lathe Simulator|

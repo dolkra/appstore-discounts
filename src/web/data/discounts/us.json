@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6785557805,
+    "region": "us",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6785557805",
+    "trackName": "Antizuck Smart Glasses Scanner",
+    "firstRecordedAt": 1785497333507
+  },
+  {
     "trackId": 6480058345,
     "region": "us",
     "timestamp": 1786626497675,
@@ -337,7 +357,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6794760301,
@@ -1137,7 +1158,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 549432607,
@@ -1264,7 +1286,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6508165149,
@@ -12611,7 +12634,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 1537362903,

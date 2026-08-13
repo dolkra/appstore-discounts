@@ -1,5 +1,145 @@
 [
   {
+    "trackId": 1271620263,
+    "region": "tw",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1271620263",
+    "trackName": "ICEY",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1380582804,
+    "region": "tw",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1380582804",
+    "trackName": "手機帝國",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 1587860402,
+    "region": "tw",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1587860402",
+    "trackName": "籠中窺夢",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1611723264,
+    "region": "tw",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1611723264",
+    "trackName": "人類跌落夢境",
+    "firstRecordedAt": 1746356524165
+  },
+  {
+    "trackId": 1614795077,
+    "region": "tw",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1614795077",
+    "trackName": "Otaku's Adventure",
+    "firstRecordedAt": 1745676122075
+  },
+  {
+    "trackId": 6743115658,
+    "region": "tw",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$100.00",
+        "to": "$80.00",
+        "range": "[$80.00 ~ $100.00]"
+      }
+    ],
+    "price": 80,
+    "formattedPrice": "$80.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6743115658",
+    "trackName": "TABS Pocket Edition",
+    "firstRecordedAt": 1754651512534
+  },
+  {
+    "trackId": 6443875944,
+    "region": "tw",
+    "timestamp": 1786636713567,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$150.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $150.00]"
+      }
+    ],
+    "price": 120,
+    "formattedPrice": "$120.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6443875944",
+    "trackName": "Sands of Salzaar",
+    "firstRecordedAt": 1759807531910
+  },
+  {
     "trackId": 6480058345,
     "region": "tw",
     "timestamp": 1786626497675,
@@ -311,7 +451,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 1473749002,
@@ -971,7 +1112,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6444660338,
@@ -1298,7 +1440,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 6673906410,
@@ -12799,7 +12942,8 @@
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id1459520638",
     "trackName": "Wingspan: The Board Game",
-    "firstRecordedAt": 1745398953972
+    "firstRecordedAt": 1745398953972,
+    "notificationDisabled": true
   },
   {
     "trackId": 1537362903,

@@ -156577,6 +156577,23 @@
     "history": [
       [
         {
+          "timestamp": 1786636713567,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Transylvania Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "Victorian London Board": "₺399,99",
+            "Golden Dice": "₺249,99",
+            "Diamond Bundle": "₺699,99",
+            "The Sports Car": "₺199,99"
+          }
+        },
+        {
           "timestamp": 1786596608395,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -274144,10 +274161,18 @@
       "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786636713567,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785497333507,
