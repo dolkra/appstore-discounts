@@ -107915,8 +107915,8 @@
     "trackName": "Titan Quest HD",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 7.79,
-      "formattedPrice": "USD 7.79",
+      "price": 8.99,
+      "formattedPrice": "USD 8.99",
       "Immortal Throne DLC": "USD 3.99",
       "Ragnarök DLC": "USD 3.99",
       "Atlantis DLC": "USD 3.99",
@@ -107931,6 +107931,19 @@
       "Eternal Embers DLC": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786615484339,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "USD 3.99",
+            "Ragnarök DLC": "USD 3.99",
+            "Atlantis DLC": "USD 3.99",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786464021561,
@@ -155276,14 +155289,22 @@
     "trackName": "Endling",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 7.79,
-      "formattedPrice": "USD 7.79"
+      "price": 8.99,
+      "formattedPrice": "USD 8.99"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "USD 0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786615484339,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785334112079,

@@ -143054,10 +143054,10 @@
     "maxPriceInfo": {
       "price": 68,
       "formattedPrice": "HK$ 68.00",
-      "Immortal Throne DLC": "HK$ 36.00",
-      "Ragnarök DLC": "HK$ 36.00",
+      "Immortal Throne DLC": "HK$ 38.00",
+      "Ragnarök DLC": "HK$ 38.00",
       "Atlantis DLC": "HK$ 36.00",
-      "Eternal Embers DLC": "HK$ 36.00"
+      "Eternal Embers DLC": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -143068,6 +143068,19 @@
       "Eternal Embers DLC": "HK$ 36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786615484339,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "HK$ 38.00",
+            "Ragnarök DLC": "HK$ 38.00",
+            "Atlantis DLC": "HK$ 36.00",
+            "Eternal Embers DLC": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786464021561,

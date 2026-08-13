@@ -4648,6 +4648,25 @@
     "history": [
       [
         {
+          "timestamp": 1786615484339,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "World Sweetener Pack": "$9.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Misc Stringed Sweeteners": "$3.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Harp Sweeteners": "$5.99",
+            "Harmonica Sweeteners": "$9.99",
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Buzz Feiten Pack": "$5.99",
+            "Extended Frequency Modes": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784516027314,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -113534,6 +113553,23 @@
     "history": [
       [
         {
+          "timestamp": 1786615484339,
+          "price": 4.89,
+          "formattedPrice": "$4.89",
+          "inAppPurchases": {
+            "Pile O Monkey Money Sale": "$2.99",
+            "Monkey Money": "$1.99",
+            "Full Tower Unlock": "$4.99",
+            "Pile O Monkey Money": "$4.99",
+            "(5,000) Monkey XP": "$0.99",
+            "Vault O Monkey Money Sale": "$11.99",
+            "Tier 4 Insta Monkeys Pack Sale": "$3.99",
+            "Paragon Unlock": "$4.99",
+            "10 Knowledge Points": "$7.99",
+            "Knowledge Point": "$0.99"
+          }
+        },
+        {
           "timestamp": 1786605942451,
           "price": 4.89,
           "formattedPrice": "$4.89",
@@ -158999,12 +159035,12 @@
     "trackName": "Titan Quest HD",
     "region": "us",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99",
-      "Immortal Throne DLC": "$4.99",
-      "Ragnarök DLC": "$4.99",
-      "Atlantis DLC": "$4.99",
-      "Eternal Embers DLC": "$4.99"
+      "price": 10.99,
+      "formattedPrice": "$10.99",
+      "Immortal Throne DLC": "$5.99",
+      "Ragnarök DLC": "$5.99",
+      "Atlantis DLC": "$5.99",
+      "Eternal Embers DLC": "$5.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -159015,6 +159051,19 @@
       "Eternal Embers DLC": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786615484339,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$5.99",
+            "Ragnarök DLC": "$5.99",
+            "Atlantis DLC": "$5.99",
+            "Eternal Embers DLC": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786509981459,
@@ -241795,14 +241844,22 @@
     "trackName": "Endling",
     "region": "us",
     "maxPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "$9.99"
+      "price": 10.99,
+      "formattedPrice": "$10.99"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786615484339,
+          "price": 10.99,
+          "formattedPrice": "$10.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785378113769,

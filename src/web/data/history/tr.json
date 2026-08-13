@@ -139432,12 +139432,12 @@
     "trackName": "Titan Quest HD",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 69.99,
-      "formattedPrice": "₺69,99",
-      "Immortal Throne DLC": "₺19,99",
-      "Ragnarök DLC": "₺19,99",
-      "Atlantis DLC": "₺19,99",
-      "Eternal Embers DLC": "₺19,99"
+      "price": 169.99,
+      "formattedPrice": "₺169,99",
+      "Immortal Throne DLC": "₺89,99",
+      "Ragnarök DLC": "₺89,99",
+      "Atlantis DLC": "₺89,99",
+      "Eternal Embers DLC": "₺89,99"
     },
     "minPriceInfo": {
       "price": 5,
@@ -139448,6 +139448,19 @@
       "Eternal Embers DLC": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786615484339,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "₺89,99",
+            "Ragnarök DLC": "₺89,99",
+            "Atlantis DLC": "₺89,99",
+            "Eternal Embers DLC": "₺89,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786499534255,
@@ -209078,14 +209091,22 @@
     "trackName": "Endling",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 69.99,
-      "formattedPrice": "₺69,99"
+      "price": 169.99,
+      "formattedPrice": "₺169,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786615484339,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785362447338,
