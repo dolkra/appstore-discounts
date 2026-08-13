@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6480058345,
+    "region": "mo",
+    "timestamp": 1786626497675,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6480058345",
+    "trackName": "怪獸大進擊 2",
+    "firstRecordedAt": 1747083730281
+  },
+  {
+    "trackId": 6757699360,
+    "region": "mo",
+    "timestamp": 1786626497675,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "USD 0.29",
+        "range": "[USD 0.29 ~ USD 0.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "USD 0.29",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6757699360",
+    "trackName": "Border Checkpoint Officer",
+    "firstRecordedAt": 1769835909588
+  },
+  {
     "trackId": 675049147,
     "region": "mo",
     "timestamp": 1786596608395,

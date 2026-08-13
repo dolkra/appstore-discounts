@@ -224226,6 +224226,23 @@
     "history": [
       [
         {
+          "timestamp": 1786626497675,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "無雙戰神": "$190.00",
+            "楚漢爭霸": "$190.00",
+            "群雄爭霸": "$90.00",
+            "江山美人": "$90.00",
+            "冠絕天下": "$190.00",
+            "自創寶物": "$60.00",
+            "終身版": "$220.00"
+          }
+        },
+        {
           "timestamp": 1786615484339,
           "price": 220,
           "formattedPrice": "$220.00",
@@ -272535,6 +272552,14 @@
     "history": [
       [
         {
+          "timestamp": 1786626497675,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785686417506,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -286005,10 +286030,18 @@
       "formattedPrice": "$30.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 10,
+      "formattedPrice": "$10.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786626497675,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1769835909588,
