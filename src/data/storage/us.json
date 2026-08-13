@@ -132737,6 +132737,25 @@
     "history": [
       [
         {
+          "timestamp": 1786647728077,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack120": "$119.99",
+            "SF2SEPack100": "$99.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785552251363,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -329658,8 +329677,8 @@
   "6785557805": {
     "name": "Antizuck Smart Glasses Scanner",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -329667,6 +329686,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786647728077,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1786636713567,
           "price": 0.99,
@@ -329770,6 +329795,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786647728077,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786421952117,

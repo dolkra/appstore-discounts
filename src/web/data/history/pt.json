@@ -131064,8 +131064,8 @@
     "trackName": "Antizuck Smart Glasses Scanner",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -131073,6 +131073,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786647728077,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1786636713567,
           "price": 0.99,
@@ -131184,6 +131190,14 @@
       "formattedPrice": "Gratuito"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786647728077,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786453362099,
