@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6747655400,
+    "region": "cn",
+    "timestamp": 1786672326876,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥18.00",
+        "range": "[¥18.00 ~ ¥48.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "¥18.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6747655400",
+    "trackName": "RPGEmu - RPG Maker视觉小说们",
+    "firstRecordedAt": 1784632071349
+  },
+  {
     "trackId": 6794760301,
     "region": "cn",
     "timestamp": 1786647728077,
@@ -848,7 +868,7 @@
         "name": "Price",
         "from": "¥48.00",
         "to": "¥38.00",
-        "range": "[¥38.00 ~ ¥48.00]"
+        "range": "[¥18.00 ~ ¥48.00]"
       }
     ],
     "price": 38,
@@ -1124,7 +1144,7 @@
         "name": "Price",
         "from": "¥48.00",
         "to": "¥38.00",
-        "range": "[¥38.00 ~ ¥48.00]"
+        "range": "[¥18.00 ~ ¥48.00]"
       }
     ],
     "price": 38,
