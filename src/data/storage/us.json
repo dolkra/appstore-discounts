@@ -44539,6 +44539,23 @@
     "history": [
       [
         {
+          "timestamp": 1786828797992,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Necroa Virus Expansion Pack": "$1.99",
+            "Unlock 7 Standard Plagues": "$2.99",
+            "Neurax Worm Expansion Pack": "$1.99",
+            "Unlock All Genes": "$7.99",
+            "Unlock Cheats": "$9.99",
+            "Plague Pack": "$12.99",
+            "Scenario Pack": "$2.99",
+            "Simian Flu Expansion Pack": "$1.99",
+            "Shadow Plague Expansion Pack": "$1.99",
+            "Unlock Virus": "$0.99"
+          }
+        },
+        {
           "timestamp": 1786818467935,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -132933,7 +132950,8 @@
       "SF2SEPack15": "$14.99",
       "SF2SEPack120": "$119.99",
       "SF2SEPack100": "$99.99",
-      "SF2SEPack90": "$89.99"
+      "SF2SEPack90": "$89.99",
+      "SF2SEPack20": "$19.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -132963,9 +132981,29 @@
       "SF2SEPack15": "$14.99",
       "SF2SEPack120": "$119.99",
       "SF2SEPack100": "$99.99",
-      "SF2SEPack90": "$89.99"
+      "SF2SEPack90": "$89.99",
+      "SF2SEPack20": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786828797992,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack10": "$9.99",
+            "SF2SEPack20": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786742633726,
