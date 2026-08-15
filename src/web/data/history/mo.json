@@ -74850,6 +74850,20 @@
     "history": [
       [
         {
+          "timestamp": 1786818467935,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "USD 79.99",
+            "Parallels Desktop for Mac #4": "USD 79.99",
+            "Parallels Desktop for Mac #3": "USD 79.99",
+            "Parallels Desktop for Mac": "USD 79.99",
+            "Parallels Desktop for Mac #2": "USD 79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785958124047,
           "price": 0,
           "formattedPrice": "免費",
@@ -139865,15 +139879,32 @@
       "price": 9.99,
       "formattedPrice": "USD 9.99",
       "官方模型庫（年度）": "USD 3.99",
-      "官方模型庫（月度）": "USD 0.99"
+      "官方模型庫（月度）": "USD 0.99",
+      "共享 AR 機位（年度）": "USD 14.99",
+      "共享 AR 機位（月度）": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "USD 6.99",
       "官方模型庫（年度）": "USD 0.99",
-      "官方模型庫（月度）": "USD 0.99"
+      "官方模型庫（月度）": "USD 0.99",
+      "共享 AR 機位（年度）": "USD 14.99",
+      "共享 AR 機位（月度）": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786818467935,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "共享 AR 機位（年度）": "USD 14.99",
+            "共享 AR 機位（月度）": "USD 1.99",
+            "官方模型庫（年度）": "USD 0.99",
+            "官方模型庫（月度）": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784476657988,

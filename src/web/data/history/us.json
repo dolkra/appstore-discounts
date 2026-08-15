@@ -45083,6 +45083,25 @@
     "history": [
       [
         {
+          "timestamp": 1786818467935,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Alien Chemistry": "$0.99",
+            "Atmospheric Interference": "$0.99",
+            "Void Signal": "$0.99",
+            "Brittle Lattice": "$0.99",
+            "Quantum Obfuscation": "$0.99",
+            "Synaptic Pulse": "$0.99",
+            "Lattice Shedding": "$0.99",
+            "Crystal Overclock": "$0.99",
+            "Magnetic Siphon": "$0.99",
+            "Harmonic Vibrations": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784804950499,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -212915,15 +212934,32 @@
       "price": 9.99,
       "formattedPrice": "$9.99",
       "Official Model Library (Yearly)": "$3.99",
-      "Official Model Library (Monthly)": "$0.99"
+      "Official Model Library (Monthly)": "$0.99",
+      "Shared AR Stations Yearly": "$14.99",
+      "Shared AR Stations Monthly": "$1.99"
     },
     "minPriceInfo": {
       "price": 6.99,
       "formattedPrice": "$6.99",
       "Official Model Library (Yearly)": "$0.99",
-      "Official Model Library (Monthly)": "$0.99"
+      "Official Model Library (Monthly)": "$0.99",
+      "Shared AR Stations Yearly": "$14.99",
+      "Shared AR Stations Monthly": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786818467935,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Shared AR Stations Yearly": "$14.99",
+            "Shared AR Stations Monthly": "$1.99",
+            "Official Model Library (Yearly)": "$0.99",
+            "Official Model Library (Monthly)": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784516027314,

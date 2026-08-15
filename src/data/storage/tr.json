@@ -183945,15 +183945,32 @@
       "price": 499.99,
       "formattedPrice": "₺499,99",
       "Official Model Library (Yearly)": "₺199,99",
-      "Official Model Library (Monthly)": "₺39,99"
+      "Official Model Library (Monthly)": "₺39,99",
+      "Shared AR Stations Yearly": "₺799,99",
+      "Shared AR Stations Monthly": "₺99,99"
     },
     "minPriceInfo": {
       "price": 299.99,
       "formattedPrice": "₺299,99",
       "Official Model Library (Yearly)": "₺49,99",
-      "Official Model Library (Monthly)": "₺4,99"
+      "Official Model Library (Monthly)": "₺4,99",
+      "Shared AR Stations Yearly": "₺799,99",
+      "Shared AR Stations Monthly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786818467935,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Shared AR Stations Yearly": "₺799,99",
+            "Shared AR Stations Monthly": "₺99,99",
+            "Official Model Library (Yearly)": "₺49,99",
+            "Official Model Library (Monthly)": "₺4,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784516027314,
@@ -213141,6 +213158,20 @@
       "Filtr": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786818467935,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Filtr": "₺29,99",
+            "Tip": "₺249,99",
+            "Yearly Recurring Tip": "₺399,99",
+            "Monthly Recurring Tip": "₺79,99",
+            "Mega Tip": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786733571452,
