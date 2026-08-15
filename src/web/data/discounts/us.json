@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6761328517,
+    "region": "us",
+    "timestamp": 1786765069582,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $5.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6761328517",
+    "trackName": "Dungeon Within",
+    "firstRecordedAt": 1777123247350
+  },
+  {
     "trackId": 1271620263,
     "region": "us",
     "timestamp": 1786682840855,
@@ -3520,7 +3540,7 @@
         "name": "Price",
         "from": "$5.99",
         "to": "$4.99",
-        "range": "[$4.99 ~ $5.99]"
+        "range": "[$2.99 ~ $5.99]"
       }
     ],
     "price": 4.99,
