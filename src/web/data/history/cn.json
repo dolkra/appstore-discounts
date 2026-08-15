@@ -45114,6 +45114,25 @@
     "history": [
       [
         {
+          "timestamp": 1786807169008,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "金牛会员尊享版连续包月": "¥8.00",
+            "金牛会员连续包月": "¥6.00",
+            "手机高级诊股连续包月": "¥8.00",
+            "手机超级Level-2连续包半年": "¥48.00",
+            "手机Level-2包年服务": "¥88.00",
+            "金牛会员尊享版连续包年": "¥98.00",
+            "金牛会员月版": "¥18.00",
+            "手机超级Level2两年版": "¥158.00",
+            "主力密码连续包月": "¥118.00",
+            "机构探测器连续包月": "¥118.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786519407160,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -115592,6 +115611,14 @@
       "formattedPrice": "¥88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786807169008,
+          "price": 228,
+          "formattedPrice": "¥228.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786464021561,
@@ -203481,7 +203508,8 @@
       "调律计划 wowaka 精选辑": "¥28.00",
       "Lanota 8周年：下午六点的幻想茶会": "¥27.00",
       "限时挑战书  堕落回响": "¥21.00",
-      "限时挑战书 Rotaeno Collaboration": "¥21.00"
+      "限时挑战书 Rotaeno Collaboration": "¥21.00",
+      "十周年纪念章节 重逢之音 Phase I": "¥35.00"
     },
     "minPriceInfo": {
       "price": 6,
@@ -203530,9 +203558,29 @@
       "调律计划 wowaka 精选辑": "¥28.00",
       "Lanota 8周年：下午六点的幻想茶会": "¥27.00",
       "限时挑战书  堕落回响": "¥21.00",
-      "限时挑战书 Rotaeno Collaboration": "¥21.00"
+      "限时挑战书 Rotaeno Collaboration": "¥21.00",
+      "十周年纪念章节 重逢之音 Phase I": "¥35.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786807169008,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "主线第八章：生命音矿之心": "¥48.00",
+            "限时挑战书 Rotaeno Collaboration": "¥21.00",
+            "十周年纪念章节 重逢之音 Phase I": "¥35.00",
+            "扩充章节 U": "¥28.00",
+            "里莫的秘密书房: 白金方案": "¥28.80",
+            "里莫的秘密书房: 白金方案（三个月）": "¥68.80",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "扩充章节 X": "¥28.00",
+            "扩充章节 W": "¥28.00",
+            "调律计划：PinocchioP精选辑": "¥28.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786540034446,
@@ -219948,8 +219996,8 @@
     "trackName": "劫后公司",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 12,
-      "formattedPrice": "¥12.00",
+      "price": 16,
+      "formattedPrice": "¥16.00",
       "终极套装折扣": "¥30.00",
       "第一季套装折扣": "¥18.00",
       "生存指南": "¥21.00",
@@ -219966,6 +220014,20 @@
       "第一季套装": "¥138.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786807169008,
+          "price": 16,
+          "formattedPrice": "¥16.00",
+          "inAppPurchases": {
+            "终极套装折扣": "¥30.00",
+            "第一季套装折扣": "¥18.00",
+            "生存指南": "¥21.00",
+            "终极套装": "¥420.00",
+            "第一季套装": "¥138.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784189532599,
@@ -220825,6 +220887,29 @@
           "timestamp": 1786398028074,
           "price": 12,
           "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6797726611": {
+    "trackId": 6797726611,
+    "trackName": "KeyCam",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "minPriceInfo": {
+      "price": 38,
+      "formattedPrice": "¥38.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786807169008,
+          "price": 38,
+          "formattedPrice": "¥38.00",
           "inAppPurchases": {}
         }
       ]

@@ -45411,6 +45411,14 @@
     "history": [
       [
         {
+          "timestamp": 1786807169008,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786596608395,
           "price": 0,
           "formattedPrice": "免費",
@@ -121452,6 +121460,14 @@
     "history": [
       [
         {
+          "timestamp": 1786807169008,
+          "price": 34.99,
+          "formattedPrice": "USD 34.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786464021561,
           "price": 29.99,
           "formattedPrice": "USD 29.99",
@@ -137252,6 +137268,17 @@
       "內容包1": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786807169008,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Rallycross Circuits": "USD 2.99",
+            "內容包1": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786289443290,
@@ -195115,6 +195142,27 @@
           "timestamp": 1786733571452,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6797726611": {
+    "name": "KeyCam",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786807169008,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
           "inAppPurchases": {}
         }
       ]
