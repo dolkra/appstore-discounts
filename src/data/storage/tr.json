@@ -248176,6 +248176,14 @@
     "history": [
       [
         {
+          "timestamp": 1786756271234,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786152558597,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -266843,8 +266851,8 @@
       "Underworld Pass 1": "₺149,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 149.99,
+      "formattedPrice": "₺149,99",
       "Ark of Eternity": "₺1.499,99",
       "Pioneer of the Abyss": "₺499,99",
       "Time Traveler": "₺299,99",
@@ -266858,6 +266866,25 @@
       "Underworld Pass 1": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786756271234,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Pioneer of the Abyss": "₺499,99",
+            "Essence of Transcendence": "₺1.499,99",
+            "Underworld Expansion Pass": "₺299,99",
+            "Underworld Pass 1": "₺149,99",
+            "Ark of Eternity": "₺1.499,99",
+            "Time Traveler": "₺299,99",
+            "Essence of the Abyss": "₺999,99",
+            "Essence of Beginning": "₺999,99",
+            "Beginning of the Abyss": "₺499,99",
+            "Beginning of Growth": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783996054730,
