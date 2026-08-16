@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6785090016,
+    "region": "cn",
+    "timestamp": 1786904841254,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥58.00",
+        "to": "¥28.00",
+        "range": "[¥3.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6785090016",
+    "trackName": "Alpine Quest Nav PRO",
+    "firstRecordedAt": 1784860637377
+  },
+  {
     "trackId": 6749369705,
     "region": "cn",
     "timestamp": 1786883807150,
@@ -116,7 +136,7 @@
         "name": "Price",
         "from": "¥8.00",
         "to": "免费",
-        "range": "[免费 ~ ¥15.00]"
+        "range": "[免费 ~ ¥28.00]"
       }
     ],
     "price": 0,
@@ -496,7 +516,7 @@
         "name": "Price",
         "from": "¥8.00",
         "to": "免费",
-        "range": "[免费 ~ ¥15.00]"
+        "range": "[免费 ~ ¥28.00]"
       }
     ],
     "price": 0,

@@ -1,6 +1,213 @@
 {
   "cn": [
     {
+      "isGameCenterEnabled": false,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/27/f5/8a27f5f5-dc45-0e20-02c4-df84a2e05a44/revize_01.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/8d/94518dee-7813-eed0-0902-ca29440f2292/revize_02.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/6d/e4/cf6de4ae-3440-141a-3bb5-88c40a0c82a3/revize_03.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/04/8f/34048f80-336d-1ba7-8e99-8e11d8406b13/revize_04.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/55/33/cd553384-b229-efab-3334-fa003bcd3a62/revize_05.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/73/30/4073302f-e3ed-8490-346e-bc35d5ba1ed0/revize_06.jpg.jpeg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/da/a9/86daa9e6-245b-49fe-1d26-ff13a7b3a84a/app-store-tablet_01.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/11/74/85117476-f2a9-3daf-9430-cdd58105ade3/app-store-tablet_02.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a0/9f/1fa09fec-750b-1f13-44d9-c83af9c71993/app-store-tablet_03.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/84/73/9b8473fb-3823-423b-7e5f-cd7ec8e7db7b/app-store-tablet_05.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/d5/aaaed5a0-dec8-f679-bde3-9b2d2cc24dc2/app-store-tablet_06.jpg.jpeg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
+      "supportedDevices": [
+        "iPhone5s-iPhone5s",
+        "iPadAir-iPadAir",
+        "iPadAirCellular-iPadAirCellular",
+        "iPadMiniRetina-iPadMiniRetina",
+        "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
+        "iPhone6-iPhone6",
+        "iPhone6Plus-iPhone6Plus",
+        "iPadAir2-iPadAir2",
+        "iPadAir2Cellular-iPadAir2Cellular",
+        "iPadMini3-iPadMini3",
+        "iPadMini3Cellular-iPadMini3Cellular",
+        "iPodTouchSixthGen-iPodTouchSixthGen",
+        "iPhone6s-iPhone6s",
+        "iPhone6sPlus-iPhone6sPlus",
+        "iPadMini4-iPadMini4",
+        "iPadMini4Cellular-iPadMini4Cellular",
+        "iPadPro-iPadPro",
+        "iPadProCellular-iPadProCellular",
+        "iPadPro97-iPadPro97",
+        "iPadPro97Cellular-iPadPro97Cellular",
+        "iPhoneSE-iPhoneSE",
+        "iPhone7-iPhone7",
+        "iPhone7Plus-iPhone7Plus",
+        "iPad611-iPad611",
+        "iPad612-iPad612",
+        "iPad71-iPad71",
+        "iPad72-iPad72",
+        "iPad73-iPad73",
+        "iPad74-iPad74",
+        "iPhone8-iPhone8",
+        "iPhone8Plus-iPhone8Plus",
+        "iPhoneX-iPhoneX",
+        "iPad75-iPad75",
+        "iPad76-iPad76",
+        "iPhoneXS-iPhoneXS",
+        "iPhoneXSMax-iPhoneXSMax",
+        "iPhoneXR-iPhoneXR",
+        "iPad812-iPad812",
+        "iPad834-iPad834",
+        "iPad856-iPad856",
+        "iPad878-iPad878",
+        "iPadMini5-iPadMini5",
+        "iPadMini5Cellular-iPadMini5Cellular",
+        "iPadAir3-iPadAir3",
+        "iPadAir3Cellular-iPadAir3Cellular",
+        "iPodTouchSeventhGen-iPodTouchSeventhGen",
+        "iPhone11-iPhone11",
+        "iPhone11Pro-iPhone11Pro",
+        "iPadSeventhGen-iPadSeventhGen",
+        "iPadSeventhGenCellular-iPadSeventhGenCellular",
+        "iPhone11ProMax-iPhone11ProMax",
+        "iPhoneSESecondGen-iPhoneSESecondGen",
+        "iPadProSecondGen-iPadProSecondGen",
+        "iPadProSecondGenCellular-iPadProSecondGenCellular",
+        "iPadProFourthGen-iPadProFourthGen",
+        "iPadProFourthGenCellular-iPadProFourthGenCellular",
+        "iPhone12Mini-iPhone12Mini",
+        "iPhone12-iPhone12",
+        "iPhone12Pro-iPhone12Pro",
+        "iPhone12ProMax-iPhone12ProMax",
+        "iPadAir4-iPadAir4",
+        "iPadAir4Cellular-iPadAir4Cellular",
+        "iPadEighthGen-iPadEighthGen",
+        "iPadEighthGenCellular-iPadEighthGenCellular",
+        "iPadProThirdGen-iPadProThirdGen",
+        "iPadProThirdGenCellular-iPadProThirdGenCellular",
+        "iPadProFifthGen-iPadProFifthGen",
+        "iPadProFifthGenCellular-iPadProFifthGenCellular",
+        "iPhone13Pro-iPhone13Pro",
+        "iPhone13ProMax-iPhone13ProMax",
+        "iPhone13Mini-iPhone13Mini",
+        "iPhone13-iPhone13",
+        "iPadMiniSixthGen-iPadMiniSixthGen",
+        "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
+        "iPadNinthGen-iPadNinthGen",
+        "iPadNinthGenCellular-iPadNinthGenCellular",
+        "iPhoneSEThirdGen-iPhoneSEThirdGen",
+        "iPadAirFifthGen-iPadAirFifthGen",
+        "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
+        "iPhone14-iPhone14",
+        "iPhone14Plus-iPhone14Plus",
+        "iPhone14Pro-iPhone14Pro",
+        "iPhone14ProMax-iPhone14ProMax",
+        "iPadTenthGen-iPadTenthGen",
+        "iPadTenthGenCellular-iPadTenthGenCellular",
+        "iPadPro11FourthGen-iPadPro11FourthGen",
+        "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
+        "iPadProSixthGen-iPadProSixthGen",
+        "iPadProSixthGenCellular-iPadProSixthGenCellular",
+        "iPhone15-iPhone15",
+        "iPhone15Plus-iPhone15Plus",
+        "iPhone15Pro-iPhone15Pro",
+        "iPhone15ProMax-iPhone15ProMax",
+        "iPadAir11M2-iPadAir11M2",
+        "iPadAir11M2Cellular-iPadAir11M2Cellular",
+        "iPadAir13M2-iPadAir13M2",
+        "iPadAir13M2Cellular-iPadAir13M2Cellular",
+        "iPadPro11M4-iPadPro11M4",
+        "iPadPro11M4Cellular-iPadPro11M4Cellular",
+        "iPadPro13M4-iPadPro13M4",
+        "iPadPro13M4Cellular-iPadPro13M4Cellular",
+        "iPhone16-iPhone16",
+        "iPhone16Plus-iPhone16Plus",
+        "iPhone16Pro-iPhone16Pro",
+        "iPhone16ProMax-iPhone16ProMax",
+        "iPadMiniA17Pro-iPadMiniA17Pro",
+        "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
+        "iPhone16e-iPhone16e",
+        "iPadA16-iPadA16",
+        "iPadA16Cellular-iPadA16Cellular",
+        "iPadAir11M3-iPadAir11M3",
+        "iPadAir11M3Cellular-iPadAir11M3Cellular",
+        "iPadAir13M3-iPadAir13M3",
+        "iPadAir13M3Cellular-iPadAir13M3Cellular",
+        "iPhone17Pro-iPhone17Pro",
+        "iPhone17ProMax-iPhone17ProMax",
+        "iPhone17-iPhone17",
+        "iPhoneAir-iPhoneAir",
+        "iPadPro11M5-iPadPro11M5",
+        "iPadPro11M5Cellular-iPadPro11M5Cellular",
+        "iPadPro13M5-iPadPro13M5",
+        "iPadPro13M5Cellular-iPadPro13M5Cellular",
+        "iPhone17e-iPhone17e",
+        "iPadAir11M4-iPadAir11M4",
+        "iPadAir11M4Cellular-iPadAir11M4Cellular",
+        "iPadAir13M4-iPadAir13M4",
+        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+      ],
+      "advisories": [],
+      "kind": "software",
+      "artistViewUrl": "https://apps.apple.com/cn/developer/dogukan-erdagi/id1817708993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "15.0",
+      "languageCodesISO2A": [
+        "TR"
+      ],
+      "averageUserRatingForCurrentVersion": 0,
+      "fileSizeBytes": "124622848",
+      "formattedPrice": "¥28.00",
+      "trackContentRating": "4+",
+      "artistId": 1817708993,
+      "artistName": "Dogukan ERDAGI",
+      "genres": [
+        "导航"
+      ],
+      "price": 28,
+      "userRatingCountForCurrentVersion": 0,
+      "bundleId": "com.alpine.nav.app",
+      "genreIds": [
+        "6010"
+      ],
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "trackId": 6785090016,
+      "sellerName": "Dogukan ERDAGI",
+      "trackName": "Alpine Quest Nav PRO",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "currentVersionReleaseDate": "2026-08-12T13:33:40Z",
+      "releaseNotes": "Redesigned User Interface: The app's design has been completely renewed to provide a more modern, intuitive, and efficient experience during field operations.\n\nEnhanced Map Experience: The map page has been updated for better situational awareness, clearer details, and smoother navigation.\n\nTeam Room Activated: You can now create teams! Team members can view each other's real-time locations and battery levels (with consent), send direct messages, and trigger emergency notifications. You also have the option to share field packs with your team.\n\nMaximum Performance & Speed: Extensive under-the-hood optimizations have been applied. Alpin Quest Navigation PRO is now significantly faster, more fluid, and highly stable.\n\nNew Features Added: We've introduced new tools and capabilities to further support your tactical, search-and-rescue, and navigation needs.\n\nBug Fixes & Improvements: All reported bugs have been squashed and system improvements have been made to ensure a flawless and reliable offline experience.",
+      "version": "1.1.5",
+      "wrapperType": "software",
+      "currency": "CNY",
+      "description": "AlpinePRO is an advanced outdoor navigation, terrain analysis, route planning, and team coordination application designed for hiking, exploration, field operations, search activities, and professional outdoor use.\n\nNavigate with detailed 2D maps, interactive 3D terrain, precise coordinate tools, offline map support, targets, routes, tracks, and real-time team features.\n\n2D AND 3D MAPS\n\n• Explore detailed 2D maps and realistic 3D terrain  \n• View elevation and analyze mountains, valleys, and surrounding landforms  \n• Use satellite, hybrid, topographic, relief, trail, tactical, and other supported layers  \n• Display MGRS grid lines with real 1 × 1 km squares  \n• Preserve the selected map position between screens and fullscreen mode  \n\nOFFLINE MAPS\n\n• Automatically cache viewed map areas  \n• Download supported 3D regions for offline use  \n• Select 5 km, 10 km, 25 km, or 50 km download areas  \n• Monitor download progress and storage usage  \n• Import supported offline maps, including MBTiles  \n\nCOORDINATE TOOLS\n\n• View MGRS, UTM, latitude/longitude, DMS, DDM, and other formats  \n• Search by entering coordinates  \n• Copy, share, and convert coordinates  \n• Select exact positions using the map-center marker  \n\nTARGETS, ROUTES, AND TRACKS\n\n• Create named targets and map markers  \n• Add numbered route points from the map center  \n• Organize targets and route points into groups  \n• Build routes by connecting multiple points  \n• Add names and notes to route points  \n• Record GPS tracks and review distance, duration, speed, elevation, and points  \n• Export supported geographic data formats  \n\nNAVIGATION AND COMPASS\n\n• Navigate to targets, route points, and team members  \n• View heading, bearing, distance, speed, and estimated arrival time  \n• Use integrated compass and map navigation modes  \n• Receive configurable destination-distance alerts  \n• Access augmented reality navigation on supported devices  \n\nTEAM ROOM\n\n• Create a private team or join using a session code  \n• Share your live location when you choose  \n• View participating members on the map with individual colors and names  \n• View shared battery status and location information  \n• Send messages, images, and supported field packages  \n• Assign roles and manage members as the team owner  \n• Temporarily mute team notifications  \n\nTEAM NOTIFICATIONS\n\nSend notifications to members of the active team:\n\n• Emergency Help  \n• Attention  \n• Order  \n• Under Attack  \n• Custom Notification  \n\nLocation sharing and team communication require the appropriate permissions and an internet connection.\n\nFIELD PACKAGES\n\n• Create and share AlpinePRO field packages  \n• Store targets, routes, route points, notes, and supported content in an .aqpmap file  \n• Preview package contents before importing  \n• Merge imported information with existing data  \n• Share prepared field information with other AlpinePRO users  \n\nADDITIONAL TOOLS\n\n• GPS photo geotagging  \n• Distance and area calculations  \n• Sun and moon information  \n• Elevation and terrain information  \n• Measurement, drawing, and marked-area tools  \n• Light, dark, and tactical themes  \n• Multiple language support  \n\nPRIVACY\n\nLive location sharing remains disabled until the user enables it and can be stopped at any time. Team information is available only within the active team according to its access controls.\n\nIMPORTANT NOTICE\n\nAlpinePRO is a navigation and planning aid. GPS, compass, map, elevation, weather, coordinate, and arrival-time information may be affected by device sensors, environmental conditions, third-party data, or network availability. Verify critical information using official sources and appropriate professional equipment.\n\nAlpinePRO does not replace official emergency services. Contact the appropriate local emergency authority in an emergency whenever possible.",
+      "trackCensoredName": "Alpine Quest Nav PRO",
+      "trackViewUrl": "https://apps.apple.com/cn/app/alpine-quest-nav-pro/id6785090016?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "sellerUrl": "https://jspspratik.com",
+      "userRatingCount": 0,
+      "inAppPurchases": {},
+      "inAppPurchasesTimes": 1,
+      "timestamp": 1786904841254,
+      "discounts": [
+        {
+          "type": "price",
+          "name": "价格",
+          "from": "¥58.00",
+          "to": "¥28.00",
+          "range": "[¥3.00 ~ ¥58.00]"
+        }
+      ]
+    },
+    {
       "features": [
         "iosUniversal"
       ],
@@ -1402,24 +1609,14 @@
           "range": "[¥18.00 ~ ¥48.00]"
         }
       ]
-    },
+    }
+  ],
+  "hk": [
     {
-      "features": [],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/karan-kohli/id1896505451?uo=4",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/1d/c2/4a1dc27f-60bc-89b3-5aa2-3f01772b7013/01-hero.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/61/a0/1361a0ab-9d31-0b89-0839-2b6a88ceaef0/04-done.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d2/38/74d23857-a371-8e85-3d75-7279b3d7a745/03-formats.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/3d/bc/923dbcca-8559-b171-e08f-290b52aec4b4/05-history.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/e8/5d/5ae85d27-3924-7f9e-8440-99efd7ad99d4/06-privacy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/79/18/e07918b0-3e86-580d-2e40-9426bbddb4b5/02-pick.png/320x480bb.jpg"
-      ],
       "isGameCenterEnabled": false,
+      "artistViewUrl": "https://apps.apple.com/hk/developer/dogukan-erdagi/id1817708993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -1551,59 +1748,77 @@
       ],
       "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 5,
-      "bundleId": "com.karankohli.fileflip",
-      "averageUserRating": 5,
-      "minimumOsVersion": "17.0",
-      "trackCensoredName": "FileFlip: Convert Files",
-      "languageCodesISO2A": [
-        "EN"
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/27/f5/8a27f5f5-dc45-0e20-02c4-df84a2e05a44/revize_01.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/8d/94518dee-7813-eed0-0902-ca29440f2292/revize_02.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/6d/e4/cf6de4ae-3440-141a-3bb5-88c40a0c82a3/revize_03.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/04/8f/34048f80-336d-1ba7-8e99-8e11d8406b13/revize_04.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/55/33/cd553384-b229-efab-3334-fa003bcd3a62/revize_05.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/73/30/4073302f-e3ed-8490-346e-bc35d5ba1ed0/revize_06.jpg.jpeg/320x480bb.jpg"
       ],
-      "fileSizeBytes": "1125376",
-      "formattedPrice": "免费",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/da/a9/86daa9e6-245b-49fe-1d26-ff13a7b3a84a/app-store-tablet_01.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/11/74/85117476-f2a9-3daf-9430-cdd58105ade3/app-store-tablet_02.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a0/9f/1fa09fec-750b-1f13-44d9-c83af9c71993/app-store-tablet_03.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/84/73/9b8473fb-3823-423b-7e5f-cd7ec8e7db7b/app-store-tablet_05.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/d5/aaaed5a0-dec8-f679-bde3-9b2d2cc24dc2/app-store-tablet_06.jpg.jpeg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "features": [
+        "iosUniversal"
+      ],
       "contentAdvisoryRating": "4+",
-      "userRatingCountForCurrentVersion": 1,
-      "trackViewUrl": "https://apps.apple.com/cn/app/fileflip-convert-files/id6794760301?uo=4",
-      "trackContentRating": "4+",
-      "artistName": "Karan Kohli",
+      "averageUserRating": 0,
+      "trackCensoredName": "Alpine Quest Nav PRO",
+      "trackViewUrl": "https://apps.apple.com/hk/app/alpine-quest-nav-pro/id6785090016?uo=4",
       "genres": [
-        "工具",
-        "效率"
+        "導航"
       ],
-      "artistId": 1896505451,
-      "price": 0,
-      "sellerName": "Karan Kohli",
-      "isVppDeviceBasedLicensingEnabled": true,
+      "price": 32,
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "trackName": "Alpine Quest Nav PRO",
+      "trackId": 6785090016,
       "genreIds": [
-        "6002",
-        "6007"
+        "6010"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackId": 6794760301,
-      "trackName": "FileFlip: Convert Files",
-      "currentVersionReleaseDate": "2026-07-31T21:37:50Z",
-      "version": "1.0",
+      "sellerName": "Dogukan ERDAGI",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "currentVersionReleaseDate": "2026-08-12T13:33:40Z",
+      "releaseNotes": "Redesigned User Interface: The app's design has been completely renewed to provide a more modern, intuitive, and efficient experience during field operations.\n\nEnhanced Map Experience: The map page has been updated for better situational awareness, clearer details, and smoother navigation.\n\nTeam Room Activated: You can now create teams! Team members can view each other's real-time locations and battery levels (with consent), send direct messages, and trigger emergency notifications. You also have the option to share field packs with your team.\n\nMaximum Performance & Speed: Extensive under-the-hood optimizations have been applied. Alpin Quest Navigation PRO is now significantly faster, more fluid, and highly stable.\n\nNew Features Added: We've introduced new tools and capabilities to further support your tactical, search-and-rescue, and navigation needs.\n\nBug Fixes & Improvements: All reported bugs have been squashed and system improvements have been made to ensure a flawless and reliable offline experience.",
+      "version": "1.1.5",
       "wrapperType": "software",
-      "currency": "CNY",
-      "description": "FileFlip is the fastest way to convert a file on your iPhone: choose any file, and FileFlip detects what it is and shows you every format it can become. Pick one from the dropdown, tap Convert, and share or save the result. That's the whole app.\n\nWHAT IT CONVERTS\n— Images: PNG, JPEG, HEIC, TIFF, GIF, BMP and WebP → PNG, JPEG, HEIC, TIFF or PDF\n— PDFs → crisp page images (PNG or JPEG) or extracted plain text\n— Audio: MP3, M4A, WAV, AIFF, CAF, FLAC → M4A, WAV, AIFF or CAF\n— Video: MOV, MP4, M4V → MP4, MOV or audio-only M4A\n— Documents: TXT, Markdown, RTF, HTML → polished PDF, TXT, RTF or HTML\n— Data: CSV ↔ JSON, both directions\n\nPRIVATE BY DESIGN\nEvery conversion runs 100% on your device using Apple's own frameworks. Your files are never uploaded anywhere — FileFlip makes no network connections at all. No account, no ads, no tracking, no subscription.\n\nBUILT-IN HISTORY\nEverything you convert is kept in the History tab for one-tap re-sharing, and also appears in the Files app under On My iPhone › FileFlip, so your converted files are always yours.\n\nMulti-page PDFs export every page as its own image. HEIC photos become shareable JPEGs in two taps. Voice memos become WAVs for editing. Camera clips become MP4s that play anywhere.\n\n— Pay once. Own it forever.\n— 100% offline. Your files never leave your phone.",
-      "releaseDate": "2026-07-31T07:00:00Z",
-      "userRatingCount": 1,
+      "currency": "HKD",
+      "description": "AlpinePRO is an advanced outdoor navigation, terrain analysis, route planning, and team coordination application designed for hiking, exploration, field operations, search activities, and professional outdoor use.\n\nNavigate with detailed 2D maps, interactive 3D terrain, precise coordinate tools, offline map support, targets, routes, tracks, and real-time team features.\n\n2D AND 3D MAPS\n\n• Explore detailed 2D maps and realistic 3D terrain  \n• View elevation and analyze mountains, valleys, and surrounding landforms  \n• Use satellite, hybrid, topographic, relief, trail, tactical, and other supported layers  \n• Display MGRS grid lines with real 1 × 1 km squares  \n• Preserve the selected map position between screens and fullscreen mode  \n\nOFFLINE MAPS\n\n• Automatically cache viewed map areas  \n• Download supported 3D regions for offline use  \n• Select 5 km, 10 km, 25 km, or 50 km download areas  \n• Monitor download progress and storage usage  \n• Import supported offline maps, including MBTiles  \n\nCOORDINATE TOOLS\n\n• View MGRS, UTM, latitude/longitude, DMS, DDM, and other formats  \n• Search by entering coordinates  \n• Copy, share, and convert coordinates  \n• Select exact positions using the map-center marker  \n\nTARGETS, ROUTES, AND TRACKS\n\n• Create named targets and map markers  \n• Add numbered route points from the map center  \n• Organize targets and route points into groups  \n• Build routes by connecting multiple points  \n• Add names and notes to route points  \n• Record GPS tracks and review distance, duration, speed, elevation, and points  \n• Export supported geographic data formats  \n\nNAVIGATION AND COMPASS\n\n• Navigate to targets, route points, and team members  \n• View heading, bearing, distance, speed, and estimated arrival time  \n• Use integrated compass and map navigation modes  \n• Receive configurable destination-distance alerts  \n• Access augmented reality navigation on supported devices  \n\nTEAM ROOM\n\n• Create a private team or join using a session code  \n• Share your live location when you choose  \n• View participating members on the map with individual colors and names  \n• View shared battery status and location information  \n• Send messages, images, and supported field packages  \n• Assign roles and manage members as the team owner  \n• Temporarily mute team notifications  \n\nTEAM NOTIFICATIONS\n\nSend notifications to members of the active team:\n\n• Emergency Help  \n• Attention  \n• Order  \n• Under Attack  \n• Custom Notification  \n\nLocation sharing and team communication require the appropriate permissions and an internet connection.\n\nFIELD PACKAGES\n\n• Create and share AlpinePRO field packages  \n• Store targets, routes, route points, notes, and supported content in an .aqpmap file  \n• Preview package contents before importing  \n• Merge imported information with existing data  \n• Share prepared field information with other AlpinePRO users  \n\nADDITIONAL TOOLS\n\n• GPS photo geotagging  \n• Distance and area calculations  \n• Sun and moon information  \n• Elevation and terrain information  \n• Measurement, drawing, and marked-area tools  \n• Light, dark, and tactical themes  \n• Multiple language support  \n\nPRIVACY\n\nLive location sharing remains disabled until the user enables it and can be stopped at any time. Team information is available only within the active team according to its access controls.\n\nIMPORTANT NOTICE\n\nAlpinePRO is a navigation and planning aid. GPS, compass, map, elevation, weather, coordinate, and arrival-time information may be affected by device sensors, environmental conditions, third-party data, or network availability. Verify critical information using official sources and appropriate professional equipment.\n\nAlpinePRO does not replace official emergency services. Contact the appropriate local emergency authority in an emergency whenever possible.",
+      "sellerUrl": "https://jspspratik.com",
+      "languageCodesISO2A": [
+        "TR"
+      ],
+      "fileSizeBytes": "124622848",
+      "formattedPrice": "HK$ 32.00",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 0,
+      "bundleId": "com.alpine.nav.app",
+      "minimumOsVersion": "15.0",
+      "artistId": 1817708993,
+      "artistName": "Dogukan ERDAGI",
+      "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1786647728077,
+      "timestamp": 1786904841254,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "¥8.00",
-          "to": "免费",
-          "range": "[免费 ~ ¥8.00]"
+          "from": "HK$ 58.00",
+          "to": "HK$ 32.00",
+          "range": "[HK$ 2.00 ~ HK$ 58.00]"
         }
       ]
-    }
-  ],
-  "hk": [
+    },
     {
       "artistViewUrl": "https://apps.apple.com/hk/developer/ming-shiuan-yu/id1400669211?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/37/2b/c4/372bc437-cdcc-4d28-769c-734bca372000/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
@@ -2541,26 +2756,14 @@
           "range": "[HK$ 22.00 ~ HK$ 48.00]"
         }
       ]
-    },
+    }
+  ],
+  "mo": [
     {
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/1d/c2/4a1dc27f-60bc-89b3-5aa2-3f01772b7013/01-hero.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/61/a0/1361a0ab-9d31-0b89-0839-2b6a88ceaef0/04-done.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d2/38/74d23857-a371-8e85-3d75-7279b3d7a745/03-formats.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/3d/bc/923dbcca-8559-b171-e08f-290b52aec4b4/05-history.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/e8/5d/5ae85d27-3924-7f9e-8440-99efd7ad99d4/06-privacy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/79/18/e07918b0-3e86-580d-2e40-9426bbddb4b5/02-pick.png/320x480bb.jpg"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/hk/developer/karan-kohli/id1896505451?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "features": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -2690,59 +2893,79 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "minimumOsVersion": "17.0",
-      "artistId": 1896505451,
-      "artistName": "Karan Kohli",
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/27/f5/8a27f5f5-dc45-0e20-02c4-df84a2e05a44/revize_01.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/8d/94518dee-7813-eed0-0902-ca29440f2292/revize_02.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/6d/e4/cf6de4ae-3440-141a-3bb5-88c40a0c82a3/revize_03.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/04/8f/34048f80-336d-1ba7-8e99-8e11d8406b13/revize_04.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/55/33/cd553384-b229-efab-3334-fa003bcd3a62/revize_05.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/73/30/4073302f-e3ed-8490-346e-bc35d5ba1ed0/revize_06.jpg.jpeg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/da/a9/86daa9e6-245b-49fe-1d26-ff13a7b3a84a/app-store-tablet_01.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/11/74/85117476-f2a9-3daf-9430-cdd58105ade3/app-store-tablet_02.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a0/9f/1fa09fec-750b-1f13-44d9-c83af9c71993/app-store-tablet_03.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/84/73/9b8473fb-3823-423b-7e5f-cd7ec8e7db7b/app-store-tablet_05.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/d5/aaaed5a0-dec8-f679-bde3-9b2d2cc24dc2/app-store-tablet_06.jpg.jpeg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/mo/developer/dogukan-erdagi/id1817708993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistId": 1817708993,
+      "artistName": "Dogukan ERDAGI",
       "genres": [
-        "工具程式",
-        "生產力"
+        "導航"
       ],
-      "price": 0,
-      "sellerName": "Karan Kohli",
+      "price": 3.99,
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "bundleId": "com.alpine.nav.app",
       "genreIds": [
-        "6002",
-        "6007"
+        "6010"
       ],
+      "trackId": 6785090016,
+      "trackName": "Alpine Quest Nav PRO",
+      "sellerName": "Dogukan ERDAGI",
       "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "trackName": "FileFlip: Convert Files",
-      "trackId": 6794760301,
-      "releaseDate": "2026-07-31T07:00:00Z",
-      "currentVersionReleaseDate": "2026-07-31T21:37:50Z",
-      "version": "1.0",
+      "currentVersionReleaseDate": "2026-08-12T13:33:40Z",
+      "releaseNotes": "Redesigned User Interface: The app's design has been completely renewed to provide a more modern, intuitive, and efficient experience during field operations.\n\nEnhanced Map Experience: The map page has been updated for better situational awareness, clearer details, and smoother navigation.\n\nTeam Room Activated: You can now create teams! Team members can view each other's real-time locations and battery levels (with consent), send direct messages, and trigger emergency notifications. You also have the option to share field packs with your team.\n\nMaximum Performance & Speed: Extensive under-the-hood optimizations have been applied. Alpin Quest Navigation PRO is now significantly faster, more fluid, and highly stable.\n\nNew Features Added: We've introduced new tools and capabilities to further support your tactical, search-and-rescue, and navigation needs.\n\nBug Fixes & Improvements: All reported bugs have been squashed and system improvements have been made to ensure a flawless and reliable offline experience.",
+      "version": "1.1.5",
       "wrapperType": "software",
-      "currency": "HKD",
-      "description": "FileFlip is the fastest way to convert a file on your iPhone: choose any file, and FileFlip detects what it is and shows you every format it can become. Pick one from the dropdown, tap Convert, and share or save the result. That's the whole app.\n\nWHAT IT CONVERTS\n— Images: PNG, JPEG, HEIC, TIFF, GIF, BMP and WebP → PNG, JPEG, HEIC, TIFF or PDF\n— PDFs → crisp page images (PNG or JPEG) or extracted plain text\n— Audio: MP3, M4A, WAV, AIFF, CAF, FLAC → M4A, WAV, AIFF or CAF\n— Video: MOV, MP4, M4V → MP4, MOV or audio-only M4A\n— Documents: TXT, Markdown, RTF, HTML → polished PDF, TXT, RTF or HTML\n— Data: CSV ↔ JSON, both directions\n\nPRIVATE BY DESIGN\nEvery conversion runs 100% on your device using Apple's own frameworks. Your files are never uploaded anywhere — FileFlip makes no network connections at all. No account, no ads, no tracking, no subscription.\n\nBUILT-IN HISTORY\nEverything you convert is kept in the History tab for one-tap re-sharing, and also appears in the Files app under On My iPhone › FileFlip, so your converted files are always yours.\n\nMulti-page PDFs export every page as its own image. HEIC photos become shareable JPEGs in two taps. Voice memos become WAVs for editing. Camera clips become MP4s that play anywhere.\n\n— Pay once. Own it forever.\n— 100% offline. Your files never leave your phone.",
-      "averageUserRating": 0,
-      "trackCensoredName": "FileFlip: Convert Files",
-      "trackViewUrl": "https://apps.apple.com/hk/app/fileflip-convert-files/id6794760301?uo=4",
-      "contentAdvisoryRating": "4+",
+      "currency": "USD",
+      "description": "AlpinePRO is an advanced outdoor navigation, terrain analysis, route planning, and team coordination application designed for hiking, exploration, field operations, search activities, and professional outdoor use.\n\nNavigate with detailed 2D maps, interactive 3D terrain, precise coordinate tools, offline map support, targets, routes, tracks, and real-time team features.\n\n2D AND 3D MAPS\n\n• Explore detailed 2D maps and realistic 3D terrain  \n• View elevation and analyze mountains, valleys, and surrounding landforms  \n• Use satellite, hybrid, topographic, relief, trail, tactical, and other supported layers  \n• Display MGRS grid lines with real 1 × 1 km squares  \n• Preserve the selected map position between screens and fullscreen mode  \n\nOFFLINE MAPS\n\n• Automatically cache viewed map areas  \n• Download supported 3D regions for offline use  \n• Select 5 km, 10 km, 25 km, or 50 km download areas  \n• Monitor download progress and storage usage  \n• Import supported offline maps, including MBTiles  \n\nCOORDINATE TOOLS\n\n• View MGRS, UTM, latitude/longitude, DMS, DDM, and other formats  \n• Search by entering coordinates  \n• Copy, share, and convert coordinates  \n• Select exact positions using the map-center marker  \n\nTARGETS, ROUTES, AND TRACKS\n\n• Create named targets and map markers  \n• Add numbered route points from the map center  \n• Organize targets and route points into groups  \n• Build routes by connecting multiple points  \n• Add names and notes to route points  \n• Record GPS tracks and review distance, duration, speed, elevation, and points  \n• Export supported geographic data formats  \n\nNAVIGATION AND COMPASS\n\n• Navigate to targets, route points, and team members  \n• View heading, bearing, distance, speed, and estimated arrival time  \n• Use integrated compass and map navigation modes  \n• Receive configurable destination-distance alerts  \n• Access augmented reality navigation on supported devices  \n\nTEAM ROOM\n\n• Create a private team or join using a session code  \n• Share your live location when you choose  \n• View participating members on the map with individual colors and names  \n• View shared battery status and location information  \n• Send messages, images, and supported field packages  \n• Assign roles and manage members as the team owner  \n• Temporarily mute team notifications  \n\nTEAM NOTIFICATIONS\n\nSend notifications to members of the active team:\n\n• Emergency Help  \n• Attention  \n• Order  \n• Under Attack  \n• Custom Notification  \n\nLocation sharing and team communication require the appropriate permissions and an internet connection.\n\nFIELD PACKAGES\n\n• Create and share AlpinePRO field packages  \n• Store targets, routes, route points, notes, and supported content in an .aqpmap file  \n• Preview package contents before importing  \n• Merge imported information with existing data  \n• Share prepared field information with other AlpinePRO users  \n\nADDITIONAL TOOLS\n\n• GPS photo geotagging  \n• Distance and area calculations  \n• Sun and moon information  \n• Elevation and terrain information  \n• Measurement, drawing, and marked-area tools  \n• Light, dark, and tactical themes  \n• Multiple language support  \n\nPRIVACY\n\nLive location sharing remains disabled until the user enables it and can be stopped at any time. Team information is available only within the active team according to its access controls.\n\nIMPORTANT NOTICE\n\nAlpinePRO is a navigation and planning aid. GPS, compass, map, elevation, weather, coordinate, and arrival-time information may be affected by device sensors, environmental conditions, third-party data, or network availability. Verify critical information using official sources and appropriate professional equipment.\n\nAlpinePRO does not replace official emergency services. Contact the appropriate local emergency authority in an emergency whenever possible.",
       "languageCodesISO2A": [
-        "EN"
+        "TR"
       ],
-      "fileSizeBytes": "1125376",
-      "formattedPrice": "免費",
+      "fileSizeBytes": "124622848",
+      "formattedPrice": "USD 3.99",
+      "averageUserRatingForCurrentVersion": 0,
+      "sellerUrl": "https://jspspratik.com",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "bundleId": "com.karankohli.fileflip",
+      "trackCensoredName": "Alpine Quest Nav PRO",
+      "trackViewUrl": "https://apps.apple.com/mo/app/alpine-quest-nav-pro/id6785090016?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "minimumOsVersion": "15.0",
+      "releaseDate": "2026-07-17T07:00:00Z",
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1786647728077,
+      "timestamp": 1786904841254,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "HK$ 8.00",
-          "to": "免費",
-          "range": "[免費 ~ HK$ 8.00]"
+          "from": "USD 7.99",
+          "to": "USD 3.99",
+          "range": "[USD 0.29 ~ USD 7.99]"
         }
       ]
-    }
-  ],
-  "mo": [
+    },
     {
       "features": [
         "iosUniversal"
@@ -3680,26 +3903,14 @@
           "range": "[USD 2.99 ~ USD 5.99]"
         }
       ]
-    },
+    }
+  ],
+  "tw": [
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/1d/c2/4a1dc27f-60bc-89b3-5aa2-3f01772b7013/01-hero.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/61/a0/1361a0ab-9d31-0b89-0839-2b6a88ceaef0/04-done.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d2/38/74d23857-a371-8e85-3d75-7279b3d7a745/03-formats.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/3d/bc/923dbcca-8559-b171-e08f-290b52aec4b4/05-history.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/e8/5d/5ae85d27-3924-7f9e-8440-99efd7ad99d4/06-privacy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/79/18/e07918b0-3e86-580d-2e40-9426bbddb4b5/02-pick.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/mo/developer/karan-kohli/id1896505451?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
-      "kind": "software",
-      "features": [],
+      "artistViewUrl": "https://apps.apple.com/tw/developer/dogukan-erdagi/id1817708993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -3829,59 +4040,79 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "trackCensoredName": "FileFlip: Convert Files",
-      "trackViewUrl": "https://apps.apple.com/mo/app/fileflip-convert-files/id6794760301?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "languageCodesISO2A": [
-        "EN"
+      "features": [
+        "iosUniversal"
       ],
-      "fileSizeBytes": "1125376",
-      "formattedPrice": "免費",
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/27/f5/8a27f5f5-dc45-0e20-02c4-df84a2e05a44/revize_01.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/8d/94518dee-7813-eed0-0902-ca29440f2292/revize_02.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/6d/e4/cf6de4ae-3440-141a-3bb5-88c40a0c82a3/revize_03.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/04/8f/34048f80-336d-1ba7-8e99-8e11d8406b13/revize_04.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/55/33/cd553384-b229-efab-3334-fa003bcd3a62/revize_05.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/73/30/4073302f-e3ed-8490-346e-bc35d5ba1ed0/revize_06.jpg.jpeg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/da/a9/86daa9e6-245b-49fe-1d26-ff13a7b3a84a/app-store-tablet_01.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/11/74/85117476-f2a9-3daf-9430-cdd58105ade3/app-store-tablet_02.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a0/9f/1fa09fec-750b-1f13-44d9-c83af9c71993/app-store-tablet_03.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/84/73/9b8473fb-3823-423b-7e5f-cd7ec8e7db7b/app-store-tablet_05.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/d5/aaaed5a0-dec8-f679-bde3-9b2d2cc24dc2/app-store-tablet_06.jpg.jpeg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "minimumOsVersion": "15.0",
+      "releaseNotes": "Redesigned User Interface: The app's design has been completely renewed to provide a more modern, intuitive, and efficient experience during field operations.\n\nEnhanced Map Experience: The map page has been updated for better situational awareness, clearer details, and smoother navigation.\n\nTeam Room Activated: You can now create teams! Team members can view each other's real-time locations and battery levels (with consent), send direct messages, and trigger emergency notifications. You also have the option to share field packs with your team.\n\nMaximum Performance & Speed: Extensive under-the-hood optimizations have been applied. Alpin Quest Navigation PRO is now significantly faster, more fluid, and highly stable.\n\nNew Features Added: We've introduced new tools and capabilities to further support your tactical, search-and-rescue, and navigation needs.\n\nBug Fixes & Improvements: All reported bugs have been squashed and system improvements have been made to ensure a flawless and reliable offline experience.",
+      "averageUserRating": 0,
+      "trackCensoredName": "Alpine Quest Nav PRO",
+      "trackViewUrl": "https://apps.apple.com/tw/app/alpine-quest-nav-pro/id6785090016?uo=4",
+      "contentAdvisoryRating": "4+",
+      "artistId": 1817708993,
+      "artistName": "Dogukan ERDAGI",
+      "genres": [
+        "導航"
+      ],
+      "price": 120,
+      "trackId": 6785090016,
+      "bundleId": "com.alpine.nav.app",
+      "genreIds": [
+        "6010"
+      ],
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "sellerName": "Dogukan ERDAGI",
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "trackName": "Alpine Quest Nav PRO",
+      "currentVersionReleaseDate": "2026-08-12T13:33:40Z",
+      "version": "1.1.5",
+      "wrapperType": "software",
+      "currency": "TWD",
+      "description": "AlpinePRO is an advanced outdoor navigation, terrain analysis, route planning, and team coordination application designed for hiking, exploration, field operations, search activities, and professional outdoor use.\n\nNavigate with detailed 2D maps, interactive 3D terrain, precise coordinate tools, offline map support, targets, routes, tracks, and real-time team features.\n\n2D AND 3D MAPS\n\n• Explore detailed 2D maps and realistic 3D terrain  \n• View elevation and analyze mountains, valleys, and surrounding landforms  \n• Use satellite, hybrid, topographic, relief, trail, tactical, and other supported layers  \n• Display MGRS grid lines with real 1 × 1 km squares  \n• Preserve the selected map position between screens and fullscreen mode  \n\nOFFLINE MAPS\n\n• Automatically cache viewed map areas  \n• Download supported 3D regions for offline use  \n• Select 5 km, 10 km, 25 km, or 50 km download areas  \n• Monitor download progress and storage usage  \n• Import supported offline maps, including MBTiles  \n\nCOORDINATE TOOLS\n\n• View MGRS, UTM, latitude/longitude, DMS, DDM, and other formats  \n• Search by entering coordinates  \n• Copy, share, and convert coordinates  \n• Select exact positions using the map-center marker  \n\nTARGETS, ROUTES, AND TRACKS\n\n• Create named targets and map markers  \n• Add numbered route points from the map center  \n• Organize targets and route points into groups  \n• Build routes by connecting multiple points  \n• Add names and notes to route points  \n• Record GPS tracks and review distance, duration, speed, elevation, and points  \n• Export supported geographic data formats  \n\nNAVIGATION AND COMPASS\n\n• Navigate to targets, route points, and team members  \n• View heading, bearing, distance, speed, and estimated arrival time  \n• Use integrated compass and map navigation modes  \n• Receive configurable destination-distance alerts  \n• Access augmented reality navigation on supported devices  \n\nTEAM ROOM\n\n• Create a private team or join using a session code  \n• Share your live location when you choose  \n• View participating members on the map with individual colors and names  \n• View shared battery status and location information  \n• Send messages, images, and supported field packages  \n• Assign roles and manage members as the team owner  \n• Temporarily mute team notifications  \n\nTEAM NOTIFICATIONS\n\nSend notifications to members of the active team:\n\n• Emergency Help  \n• Attention  \n• Order  \n• Under Attack  \n• Custom Notification  \n\nLocation sharing and team communication require the appropriate permissions and an internet connection.\n\nFIELD PACKAGES\n\n• Create and share AlpinePRO field packages  \n• Store targets, routes, route points, notes, and supported content in an .aqpmap file  \n• Preview package contents before importing  \n• Merge imported information with existing data  \n• Share prepared field information with other AlpinePRO users  \n\nADDITIONAL TOOLS\n\n• GPS photo geotagging  \n• Distance and area calculations  \n• Sun and moon information  \n• Elevation and terrain information  \n• Measurement, drawing, and marked-area tools  \n• Light, dark, and tactical themes  \n• Multiple language support  \n\nPRIVACY\n\nLive location sharing remains disabled until the user enables it and can be stopped at any time. Team information is available only within the active team according to its access controls.\n\nIMPORTANT NOTICE\n\nAlpinePRO is a navigation and planning aid. GPS, compass, map, elevation, weather, coordinate, and arrival-time information may be affected by device sensors, environmental conditions, third-party data, or network availability. Verify critical information using official sources and appropriate professional equipment.\n\nAlpinePRO does not replace official emergency services. Contact the appropriate local emergency authority in an emergency whenever possible.",
+      "sellerUrl": "https://jspspratik.com",
+      "languageCodesISO2A": [
+        "TR"
+      ],
+      "fileSizeBytes": "124622848",
+      "formattedPrice": "$120.00",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRating": 0,
-      "minimumOsVersion": "17.0",
-      "genres": [
-        "工具程式",
-        "生產力"
-      ],
-      "artistId": 1896505451,
-      "artistName": "Karan Kohli",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "releaseDate": "2026-07-31T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Karan Kohli",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-31T21:37:50Z",
-      "version": "1.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "FileFlip is the fastest way to convert a file on your iPhone: choose any file, and FileFlip detects what it is and shows you every format it can become. Pick one from the dropdown, tap Convert, and share or save the result. That's the whole app.\n\nWHAT IT CONVERTS\n— Images: PNG, JPEG, HEIC, TIFF, GIF, BMP and WebP → PNG, JPEG, HEIC, TIFF or PDF\n— PDFs → crisp page images (PNG or JPEG) or extracted plain text\n— Audio: MP3, M4A, WAV, AIFF, CAF, FLAC → M4A, WAV, AIFF or CAF\n— Video: MOV, MP4, M4V → MP4, MOV or audio-only M4A\n— Documents: TXT, Markdown, RTF, HTML → polished PDF, TXT, RTF or HTML\n— Data: CSV ↔ JSON, both directions\n\nPRIVATE BY DESIGN\nEvery conversion runs 100% on your device using Apple's own frameworks. Your files are never uploaded anywhere — FileFlip makes no network connections at all. No account, no ads, no tracking, no subscription.\n\nBUILT-IN HISTORY\nEverything you convert is kept in the History tab for one-tap re-sharing, and also appears in the Files app under On My iPhone › FileFlip, so your converted files are always yours.\n\nMulti-page PDFs export every page as its own image. HEIC photos become shareable JPEGs in two taps. Voice memos become WAVs for editing. Camera clips become MP4s that play anywhere.\n\n— Pay once. Own it forever.\n— 100% offline. Your files never leave your phone.",
-      "bundleId": "com.karankohli.fileflip",
-      "trackId": 6794760301,
-      "trackName": "FileFlip: Convert Files",
-      "price": 0,
+      "averageUserRatingForCurrentVersion": 0,
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1786647728077,
+      "timestamp": 1786904841254,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "USD 0.99",
-          "to": "免費",
-          "range": "[免費 ~ USD 0.99]"
+          "from": "$290.00",
+          "to": "$120.00",
+          "range": "[$10.00 ~ $290.00]"
         }
       ]
-    }
-  ],
-  "tw": [
+    },
     {
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/37/2b/c4/372bc437-cdcc-4d28-769c-734bca372000/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg",
       "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/37/2b/c4/372bc437-cdcc-4d28-769c-734bca372000/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/100x100bb.jpg",
@@ -5031,14 +5262,31 @@
           "range": "[$150.00 ~ $790.00]"
         }
       ]
-    },
+    }
+  ],
+  "us": [
     {
-      "artistViewUrl": "https://apps.apple.com/tw/developer/karan-kohli/id1896505451?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/27/f5/8a27f5f5-dc45-0e20-02c4-df84a2e05a44/revize_01.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/8d/94518dee-7813-eed0-0902-ca29440f2292/revize_02.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/6d/e4/cf6de4ae-3440-141a-3bb5-88c40a0c82a3/revize_03.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/04/8f/34048f80-336d-1ba7-8e99-8e11d8406b13/revize_04.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/55/33/cd553384-b229-efab-3334-fa003bcd3a62/revize_05.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/73/30/4073302f-e3ed-8490-346e-bc35d5ba1ed0/revize_06.jpg.jpeg/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/da/a9/86daa9e6-245b-49fe-1d26-ff13a7b3a84a/app-store-tablet_01.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/11/74/85117476-f2a9-3daf-9430-cdd58105ade3/app-store-tablet_02.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a0/9f/1fa09fec-750b-1f13-44d9-c83af9c71993/app-store-tablet_03.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/84/73/9b8473fb-3823-423b-7e5f-cd7ec8e7db7b/app-store-tablet_05.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/d5/aaaed5a0-dec8-f679-bde3-9b2d2cc24dc2/app-store-tablet_06.jpg.jpeg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/dogukan-erdagi/id1817708993?uo=4",
       "isGameCenterEnabled": false,
-      "features": [],
-      "advisories": [],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -5168,71 +5416,62 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
+      "advisories": [],
       "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/1d/c2/4a1dc27f-60bc-89b3-5aa2-3f01772b7013/01-hero.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/61/a0/1361a0ab-9d31-0b89-0839-2b6a88ceaef0/04-done.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d2/38/74d23857-a371-8e85-3d75-7279b3d7a745/03-formats.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/3d/bc/923dbcca-8559-b171-e08f-290b52aec4b4/05-history.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/e8/5d/5ae85d27-3924-7f9e-8440-99efd7ad99d4/06-privacy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/79/18/e07918b0-3e86-580d-2e40-9426bbddb4b5/02-pick.png/320x480bb.jpg"
+      "features": [
+        "iosUniversal"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "contentAdvisoryRating": "4+",
+      "sellerUrl": "https://jspspratik.com",
       "averageUserRating": 0,
-      "trackCensoredName": "FileFlip: Convert Files",
-      "trackViewUrl": "https://apps.apple.com/tw/app/fileflip-convert-files/id6794760301?uo=4",
-      "minimumOsVersion": "17.0",
-      "artistId": 1896505451,
-      "artistName": "Karan Kohli",
-      "bundleId": "com.karankohli.fileflip",
-      "releaseDate": "2026-07-31T07:00:00Z",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "trackId": 6794760301,
-      "trackName": "FileFlip: Convert Files",
-      "sellerName": "Karan Kohli",
-      "currentVersionReleaseDate": "2026-07-31T21:37:50Z",
-      "version": "1.0",
-      "wrapperType": "software",
-      "currency": "TWD",
-      "description": "FileFlip is the fastest way to convert a file on your iPhone: choose any file, and FileFlip detects what it is and shows you every format it can become. Pick one from the dropdown, tap Convert, and share or save the result. That's the whole app.\n\nWHAT IT CONVERTS\n— Images: PNG, JPEG, HEIC, TIFF, GIF, BMP and WebP → PNG, JPEG, HEIC, TIFF or PDF\n— PDFs → crisp page images (PNG or JPEG) or extracted plain text\n— Audio: MP3, M4A, WAV, AIFF, CAF, FLAC → M4A, WAV, AIFF or CAF\n— Video: MOV, MP4, M4V → MP4, MOV or audio-only M4A\n— Documents: TXT, Markdown, RTF, HTML → polished PDF, TXT, RTF or HTML\n— Data: CSV ↔ JSON, both directions\n\nPRIVATE BY DESIGN\nEvery conversion runs 100% on your device using Apple's own frameworks. Your files are never uploaded anywhere — FileFlip makes no network connections at all. No account, no ads, no tracking, no subscription.\n\nBUILT-IN HISTORY\nEverything you convert is kept in the History tab for one-tap re-sharing, and also appears in the Files app under On My iPhone › FileFlip, so your converted files are always yours.\n\nMulti-page PDFs export every page as its own image. HEIC photos become shareable JPEGs in two taps. Voice memos become WAVs for editing. Camera clips become MP4s that play anywhere.\n\n— Pay once. Own it forever.\n— 100% offline. Your files never leave your phone.",
-      "fileSizeBytes": "1125376",
-      "formattedPrice": "免費",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
+      "trackCensoredName": "Alpine Quest Nav PRO",
       "languageCodesISO2A": [
-        "EN"
+        "TR"
       ],
+      "fileSizeBytes": "124622848",
+      "formattedPrice": "$3.99",
+      "contentAdvisoryRating": "4+",
+      "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/us/app/alpine-quest-nav-pro/id6785090016?uo=4",
+      "trackContentRating": "4+",
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 0,
+      "artistId": 1817708993,
+      "artistName": "Dogukan ERDAGI",
       "genres": [
-        "工具程式",
-        "生產力工具"
+        "Navigation"
       ],
-      "price": 0,
+      "price": 3.99,
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "trackId": 6785090016,
+      "trackName": "Alpine Quest Nav PRO",
+      "genreIds": [
+        "6010"
+      ],
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "sellerName": "Dogukan ERDAGI",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-08-12T13:33:40Z",
+      "releaseNotes": "Redesigned User Interface: The app's design has been completely renewed to provide a more modern, intuitive, and efficient experience during field operations.\n\nEnhanced Map Experience: The map page has been updated for better situational awareness, clearer details, and smoother navigation.\n\nTeam Room Activated: You can now create teams! Team members can view each other's real-time locations and battery levels (with consent), send direct messages, and trigger emergency notifications. You also have the option to share field packs with your team.\n\nMaximum Performance & Speed: Extensive under-the-hood optimizations have been applied. Alpin Quest Navigation PRO is now significantly faster, more fluid, and highly stable.\n\nNew Features Added: We've introduced new tools and capabilities to further support your tactical, search-and-rescue, and navigation needs.\n\nBug Fixes & Improvements: All reported bugs have been squashed and system improvements have been made to ensure a flawless and reliable offline experience.",
+      "version": "1.1.5",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "AlpinePRO is an advanced outdoor navigation, terrain analysis, route planning, and team coordination application designed for hiking, exploration, field operations, search activities, and professional outdoor use.\n\nNavigate with detailed 2D maps, interactive 3D terrain, precise coordinate tools, offline map support, targets, routes, tracks, and real-time team features.\n\n2D AND 3D MAPS\n\n• Explore detailed 2D maps and realistic 3D terrain  \n• View elevation and analyze mountains, valleys, and surrounding landforms  \n• Use satellite, hybrid, topographic, relief, trail, tactical, and other supported layers  \n• Display MGRS grid lines with real 1 × 1 km squares  \n• Preserve the selected map position between screens and fullscreen mode  \n\nOFFLINE MAPS\n\n• Automatically cache viewed map areas  \n• Download supported 3D regions for offline use  \n• Select 5 km, 10 km, 25 km, or 50 km download areas  \n• Monitor download progress and storage usage  \n• Import supported offline maps, including MBTiles  \n\nCOORDINATE TOOLS\n\n• View MGRS, UTM, latitude/longitude, DMS, DDM, and other formats  \n• Search by entering coordinates  \n• Copy, share, and convert coordinates  \n• Select exact positions using the map-center marker  \n\nTARGETS, ROUTES, AND TRACKS\n\n• Create named targets and map markers  \n• Add numbered route points from the map center  \n• Organize targets and route points into groups  \n• Build routes by connecting multiple points  \n• Add names and notes to route points  \n• Record GPS tracks and review distance, duration, speed, elevation, and points  \n• Export supported geographic data formats  \n\nNAVIGATION AND COMPASS\n\n• Navigate to targets, route points, and team members  \n• View heading, bearing, distance, speed, and estimated arrival time  \n• Use integrated compass and map navigation modes  \n• Receive configurable destination-distance alerts  \n• Access augmented reality navigation on supported devices  \n\nTEAM ROOM\n\n• Create a private team or join using a session code  \n• Share your live location when you choose  \n• View participating members on the map with individual colors and names  \n• View shared battery status and location information  \n• Send messages, images, and supported field packages  \n• Assign roles and manage members as the team owner  \n• Temporarily mute team notifications  \n\nTEAM NOTIFICATIONS\n\nSend notifications to members of the active team:\n\n• Emergency Help  \n• Attention  \n• Order  \n• Under Attack  \n• Custom Notification  \n\nLocation sharing and team communication require the appropriate permissions and an internet connection.\n\nFIELD PACKAGES\n\n• Create and share AlpinePRO field packages  \n• Store targets, routes, route points, notes, and supported content in an .aqpmap file  \n• Preview package contents before importing  \n• Merge imported information with existing data  \n• Share prepared field information with other AlpinePRO users  \n\nADDITIONAL TOOLS\n\n• GPS photo geotagging  \n• Distance and area calculations  \n• Sun and moon information  \n• Elevation and terrain information  \n• Measurement, drawing, and marked-area tools  \n• Light, dark, and tactical themes  \n• Multiple language support  \n\nPRIVACY\n\nLive location sharing remains disabled until the user enables it and can be stopped at any time. Team information is available only within the active team according to its access controls.\n\nIMPORTANT NOTICE\n\nAlpinePRO is a navigation and planning aid. GPS, compass, map, elevation, weather, coordinate, and arrival-time information may be affected by device sensors, environmental conditions, third-party data, or network availability. Verify critical information using official sources and appropriate professional equipment.\n\nAlpinePRO does not replace official emergency services. Contact the appropriate local emergency authority in an emergency whenever possible.",
+      "bundleId": "com.alpine.nav.app",
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1786647728077,
+      "timestamp": 1786904841254,
       "discounts": [
         {
           "type": "price",
-          "name": "价格",
-          "from": "$30.00",
-          "to": "免費",
-          "range": "[免費 ~ $30.00]"
+          "name": "Price",
+          "from": "$7.99",
+          "to": "$3.99",
+          "range": "[$0.29 ~ $7.99]"
         }
       ]
-    }
-  ],
-  "us": [
+    },
     {
       "isGameCenterEnabled": false,
       "advisories": [],
@@ -8155,22 +8394,23 @@
           "range": "[$3.99 ~ $4.99]"
         }
       ]
-    },
+    }
+  ],
+  "tr": [
     {
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/1d/c2/4a1dc27f-60bc-89b3-5aa2-3f01772b7013/01-hero.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/61/a0/1361a0ab-9d31-0b89-0839-2b6a88ceaef0/04-done.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d2/38/74d23857-a371-8e85-3d75-7279b3d7a745/03-formats.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/3d/bc/923dbcca-8559-b171-e08f-290b52aec4b4/05-history.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/e8/5d/5ae85d27-3924-7f9e-8440-99efd7ad99d4/06-privacy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/79/18/e07918b0-3e86-580d-2e40-9426bbddb4b5/02-pick.png/320x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/27/f5/8a27f5f5-dc45-0e20-02c4-df84a2e05a44/revize_01.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/8d/94518dee-7813-eed0-0902-ca29440f2292/revize_02.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/6d/e4/cf6de4ae-3440-141a-3bb5-88c40a0c82a3/revize_03.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/04/8f/34048f80-336d-1ba7-8e99-8e11d8406b13/revize_04.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/55/33/cd553384-b229-efab-3334-fa003bcd3a62/revize_05.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/73/30/4073302f-e3ed-8490-346e-bc35d5ba1ed0/revize_06.jpg.jpeg/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/karan-kohli/id1896505451?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/tr/developer/dogukan-erdagi/id1817708993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -8300,63 +8540,70 @@
         "iPadAir13M4-iPadAir13M4",
         "iPadAir13M4Cellular-iPadAir13M4Cellular"
       ],
-      "features": [],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
-      "averageUserRatingForCurrentVersion": 5,
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/da/a9/86daa9e6-245b-49fe-1d26-ff13a7b3a84a/app-store-tablet_01.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/11/74/85117476-f2a9-3daf-9430-cdd58105ade3/app-store-tablet_02.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a0/9f/1fa09fec-750b-1f13-44d9-c83af9c71993/app-store-tablet_03.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/84/73/9b8473fb-3823-423b-7e5f-cd7ec8e7db7b/app-store-tablet_05.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/d5/aaaed5a0-dec8-f679-bde3-9b2d2cc24dc2/app-store-tablet_06.jpg.jpeg/360x480bb.jpg"
+      ],
+      "appletvScreenshotUrls": [],
+      "features": [
+        "iosUniversal"
+      ],
+      "minimumOsVersion": "15.0",
       "languageCodesISO2A": [
-        "EN"
+        "TR"
       ],
-      "fileSizeBytes": "1125376",
-      "formattedPrice": "Free",
-      "userRatingCountForCurrentVersion": 1,
+      "fileSizeBytes": "124622848",
+      "formattedPrice": "₺199,99",
       "trackContentRating": "4+",
-      "averageUserRating": 5,
-      "trackCensoredName": "FileFlip: Convert Files",
-      "trackViewUrl": "https://apps.apple.com/us/app/fileflip-convert-files/id6794760301?uo=4",
+      "averageUserRatingForCurrentVersion": 4.7541,
+      "userRatingCountForCurrentVersion": 61,
+      "sellerUrl": "https://jspspratik.com",
+      "trackCensoredName": "Alpine Quest Nav PRO",
+      "trackViewUrl": "https://apps.apple.com/tr/app/alpine-quest-nav-pro/id6785090016?uo=4",
       "contentAdvisoryRating": "4+",
-      "minimumOsVersion": "17.0",
-      "currentVersionReleaseDate": "2026-07-31T21:37:50Z",
-      "artistId": 1896505451,
-      "artistName": "Karan Kohli",
       "genres": [
-        "Utilities",
-        "Productivity"
+        "Navigation"
       ],
-      "price": 0,
-      "bundleId": "com.karankohli.fileflip",
-      "releaseDate": "2026-07-31T07:00:00Z",
-      "trackId": 6794760301,
-      "trackName": "FileFlip: Convert Files",
+      "price": 199.99,
+      "bundleId": "com.alpine.nav.app",
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "sellerName": "Dogukan ERDAGI",
       "genreIds": [
-        "6002",
-        "6007"
+        "6010"
       ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Karan Kohli",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "trackId": 6785090016,
+      "trackName": "Alpine Quest Nav PRO",
       "isVppDeviceBasedLicensingEnabled": true,
-      "version": "1.0",
+      "currentVersionReleaseDate": "2026-08-12T13:33:40Z",
+      "releaseNotes": "Redesigned User Interface: The app's design has been completely renewed to provide a more modern, intuitive, and efficient experience during field operations.\n\nEnhanced Map Experience: The map page has been updated for better situational awareness, clearer details, and smoother navigation.\n\nTeam Room Activated: You can now create teams! Team members can view each other's real-time locations and battery levels (with consent), send direct messages, and trigger emergency notifications. You also have the option to share field packs with your team.\n\nMaximum Performance & Speed: Extensive under-the-hood optimizations have been applied. Alpin Quest Navigation PRO is now significantly faster, more fluid, and highly stable.\n\nNew Features Added: We've introduced new tools and capabilities to further support your tactical, search-and-rescue, and navigation needs.\n\nBug Fixes & Improvements: All reported bugs have been squashed and system improvements have been made to ensure a flawless and reliable offline experience.",
+      "version": "1.1.5",
       "wrapperType": "software",
-      "currency": "USD",
-      "description": "FileFlip is the fastest way to convert a file on your iPhone: choose any file, and FileFlip detects what it is and shows you every format it can become. Pick one from the dropdown, tap Convert, and share or save the result. That's the whole app.\n\nWHAT IT CONVERTS\n— Images: PNG, JPEG, HEIC, TIFF, GIF, BMP and WebP → PNG, JPEG, HEIC, TIFF or PDF\n— PDFs → crisp page images (PNG or JPEG) or extracted plain text\n— Audio: MP3, M4A, WAV, AIFF, CAF, FLAC → M4A, WAV, AIFF or CAF\n— Video: MOV, MP4, M4V → MP4, MOV or audio-only M4A\n— Documents: TXT, Markdown, RTF, HTML → polished PDF, TXT, RTF or HTML\n— Data: CSV ↔ JSON, both directions\n\nPRIVATE BY DESIGN\nEvery conversion runs 100% on your device using Apple's own frameworks. Your files are never uploaded anywhere — FileFlip makes no network connections at all. No account, no ads, no tracking, no subscription.\n\nBUILT-IN HISTORY\nEverything you convert is kept in the History tab for one-tap re-sharing, and also appears in the Files app under On My iPhone › FileFlip, so your converted files are always yours.\n\nMulti-page PDFs export every page as its own image. HEIC photos become shareable JPEGs in two taps. Voice memos become WAVs for editing. Camera clips become MP4s that play anywhere.\n\n— Pay once. Own it forever.\n— 100% offline. Your files never leave your phone.",
-      "userRatingCount": 1,
+      "currency": "TRY",
+      "description": "AlpinePRO is an advanced outdoor navigation, terrain analysis, route planning, and team coordination application designed for hiking, exploration, field operations, search activities, and professional outdoor use.\n\nNavigate with detailed 2D maps, interactive 3D terrain, precise coordinate tools, offline map support, targets, routes, tracks, and real-time team features.\n\n2D AND 3D MAPS\n\n• Explore detailed 2D maps and realistic 3D terrain  \n• View elevation and analyze mountains, valleys, and surrounding landforms  \n• Use satellite, hybrid, topographic, relief, trail, tactical, and other supported layers  \n• Display MGRS grid lines with real 1 × 1 km squares  \n• Preserve the selected map position between screens and fullscreen mode  \n\nOFFLINE MAPS\n\n• Automatically cache viewed map areas  \n• Download supported 3D regions for offline use  \n• Select 5 km, 10 km, 25 km, or 50 km download areas  \n• Monitor download progress and storage usage  \n• Import supported offline maps, including MBTiles  \n\nCOORDINATE TOOLS\n\n• View MGRS, UTM, latitude/longitude, DMS, DDM, and other formats  \n• Search by entering coordinates  \n• Copy, share, and convert coordinates  \n• Select exact positions using the map-center marker  \n\nTARGETS, ROUTES, AND TRACKS\n\n• Create named targets and map markers  \n• Add numbered route points from the map center  \n• Organize targets and route points into groups  \n• Build routes by connecting multiple points  \n• Add names and notes to route points  \n• Record GPS tracks and review distance, duration, speed, elevation, and points  \n• Export supported geographic data formats  \n\nNAVIGATION AND COMPASS\n\n• Navigate to targets, route points, and team members  \n• View heading, bearing, distance, speed, and estimated arrival time  \n• Use integrated compass and map navigation modes  \n• Receive configurable destination-distance alerts  \n• Access augmented reality navigation on supported devices  \n\nTEAM ROOM\n\n• Create a private team or join using a session code  \n• Share your live location when you choose  \n• View participating members on the map with individual colors and names  \n• View shared battery status and location information  \n• Send messages, images, and supported field packages  \n• Assign roles and manage members as the team owner  \n• Temporarily mute team notifications  \n\nTEAM NOTIFICATIONS\n\nSend notifications to members of the active team:\n\n• Emergency Help  \n• Attention  \n• Order  \n• Under Attack  \n• Custom Notification  \n\nLocation sharing and team communication require the appropriate permissions and an internet connection.\n\nFIELD PACKAGES\n\n• Create and share AlpinePRO field packages  \n• Store targets, routes, route points, notes, and supported content in an .aqpmap file  \n• Preview package contents before importing  \n• Merge imported information with existing data  \n• Share prepared field information with other AlpinePRO users  \n\nADDITIONAL TOOLS\n\n• GPS photo geotagging  \n• Distance and area calculations  \n• Sun and moon information  \n• Elevation and terrain information  \n• Measurement, drawing, and marked-area tools  \n• Light, dark, and tactical themes  \n• Multiple language support  \n\nPRIVACY\n\nLive location sharing remains disabled until the user enables it and can be stopped at any time. Team information is available only within the active team according to its access controls.\n\nIMPORTANT NOTICE\n\nAlpinePRO is a navigation and planning aid. GPS, compass, map, elevation, weather, coordinate, and arrival-time information may be affected by device sensors, environmental conditions, third-party data, or network availability. Verify critical information using official sources and appropriate professional equipment.\n\nAlpinePRO does not replace official emergency services. Contact the appropriate local emergency authority in an emergency whenever possible.",
+      "averageUserRating": 4.7541,
+      "artistId": 1817708993,
+      "artistName": "Dogukan ERDAGI",
+      "userRatingCount": 61,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1786647728077,
+      "timestamp": 1786904841254,
       "discounts": [
         {
           "type": "price",
           "name": "Price",
-          "from": "$0.99",
-          "to": "Free",
-          "range": "[Free ~ $0.99]"
+          "from": "₺399,99",
+          "to": "₺199,99",
+          "range": "[₺19,99 ~ ₺399,99]"
         }
       ]
-    }
-  ],
-  "tr": [
+    },
     {
       "isGameCenterEnabled": false,
       "artistViewUrl": "https://apps.apple.com/tr/developer/incpt-mobis/id445261166?uo=4",
@@ -10823,20 +11070,34 @@
           "range": "[₺149,99 ~ ₺249,99]"
         }
       ]
-    },
+    }
+  ],
+  "pt": [
     {
-      "isGameCenterEnabled": false,
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/1d/c2/4a1dc27f-60bc-89b3-5aa2-3f01772b7013/01-hero.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/61/a0/1361a0ab-9d31-0b89-0839-2b6a88ceaef0/04-done.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d2/38/74d23857-a371-8e85-3d75-7279b3d7a745/03-formats.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/3d/bc/923dbcca-8559-b171-e08f-290b52aec4b4/05-history.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/e8/5d/5ae85d27-3924-7f9e-8440-99efd7ad99d4/06-privacy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/79/18/e07918b0-3e86-580d-2e40-9426bbddb4b5/02-pick.png/320x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8a/27/f5/8a27f5f5-dc45-0e20-02c4-df84a2e05a44/revize_01.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/94/51/8d/94518dee-7813-eed0-0902-ca29440f2292/revize_02.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/6d/e4/cf6de4ae-3440-141a-3bb5-88c40a0c82a3/revize_03.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/04/8f/34048f80-336d-1ba7-8e99-8e11d8406b13/revize_04.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cd/55/33/cd553384-b229-efab-3334-fa003bcd3a62/revize_05.jpg.jpeg/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/40/73/30/4073302f-e3ed-8490-346e-bc35d5ba1ed0/revize_06.jpg.jpeg/320x480bb.jpg"
       ],
-      "ipadScreenshotUrls": [],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/86/da/a9/86daa9e6-245b-49fe-1d26-ff13a7b3a84a/app-store-tablet_01.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/85/11/74/85117476-f2a9-3daf-9430-cdd58105ade3/app-store-tablet_02.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/a0/9f/1fa09fec-750b-1f13-44d9-c83af9c71993/app-store-tablet_03.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9b/84/73/9b8473fb-3823-423b-7e5f-cd7ec8e7db7b/app-store-tablet_05.jpg.jpeg/360x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/aa/ae/d5/aaaed5a0-dec8-f679-bde3-9b2d2cc24dc2/app-store-tablet_06.jpg.jpeg/360x480bb.jpg"
+      ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/pt/developer/dogukan-erdagi/id1817708993?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/01/21/49/0121493e-4458-6586-f1ba-94028066051d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
@@ -10968,63 +11229,57 @@
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/tr/developer/karan-kohli/id1896505451?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "features": [],
       "languageCodesISO2A": [
-        "EN"
+        "TR"
       ],
-      "fileSizeBytes": "1125376",
-      "formattedPrice": "Free",
+      "fileSizeBytes": "124622848",
+      "formattedPrice": "3,99 €",
+      "sellerUrl": "https://jspspratik.com",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "artistId": 1896505451,
-      "artistName": "Karan Kohli",
-      "genres": [
-        "Utilities",
-        "Productivity"
-      ],
-      "price": 0,
-      "releaseDate": "2026-07-31T07:00:00Z",
-      "trackId": 6794760301,
-      "trackName": "FileFlip: Convert Files",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Karan Kohli",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-31T21:37:50Z",
-      "version": "1.0",
-      "wrapperType": "software",
-      "currency": "TRY",
-      "description": "FileFlip is the fastest way to convert a file on your iPhone: choose any file, and FileFlip detects what it is and shows you every format it can become. Pick one from the dropdown, tap Convert, and share or save the result. That's the whole app.\n\nWHAT IT CONVERTS\n— Images: PNG, JPEG, HEIC, TIFF, GIF, BMP and WebP → PNG, JPEG, HEIC, TIFF or PDF\n— PDFs → crisp page images (PNG or JPEG) or extracted plain text\n— Audio: MP3, M4A, WAV, AIFF, CAF, FLAC → M4A, WAV, AIFF or CAF\n— Video: MOV, MP4, M4V → MP4, MOV or audio-only M4A\n— Documents: TXT, Markdown, RTF, HTML → polished PDF, TXT, RTF or HTML\n— Data: CSV ↔ JSON, both directions\n\nPRIVATE BY DESIGN\nEvery conversion runs 100% on your device using Apple's own frameworks. Your files are never uploaded anywhere — FileFlip makes no network connections at all. No account, no ads, no tracking, no subscription.\n\nBUILT-IN HISTORY\nEverything you convert is kept in the History tab for one-tap re-sharing, and also appears in the Files app under On My iPhone › FileFlip, so your converted files are always yours.\n\nMulti-page PDFs export every page as its own image. HEIC photos become shareable JPEGs in two taps. Voice memos become WAVs for editing. Camera clips become MP4s that play anywhere.\n\n— Pay once. Own it forever.\n— 100% offline. Your files never leave your phone.",
-      "averageUserRating": 0,
-      "trackCensoredName": "FileFlip: Convert Files",
-      "trackViewUrl": "https://apps.apple.com/tr/app/fileflip-convert-files/id6794760301?uo=4",
-      "minimumOsVersion": "17.0",
+      "trackCensoredName": "Alpine Quest Nav PRO",
+      "trackViewUrl": "https://apps.apple.com/pt/app/alpine-quest-nav-pro/id6785090016?uo=4",
       "contentAdvisoryRating": "4+",
-      "bundleId": "com.karankohli.fileflip",
+      "averageUserRating": 0,
+      "releaseNotes": "Redesigned User Interface: The app's design has been completely renewed to provide a more modern, intuitive, and efficient experience during field operations.\n\nEnhanced Map Experience: The map page has been updated for better situational awareness, clearer details, and smoother navigation.\n\nTeam Room Activated: You can now create teams! Team members can view each other's real-time locations and battery levels (with consent), send direct messages, and trigger emergency notifications. You also have the option to share field packs with your team.\n\nMaximum Performance & Speed: Extensive under-the-hood optimizations have been applied. Alpin Quest Navigation PRO is now significantly faster, more fluid, and highly stable.\n\nNew Features Added: We've introduced new tools and capabilities to further support your tactical, search-and-rescue, and navigation needs.\n\nBug Fixes & Improvements: All reported bugs have been squashed and system improvements have been made to ensure a flawless and reliable offline experience.",
+      "price": 3.99,
+      "artistId": 1817708993,
+      "artistName": "Dogukan ERDAGI",
+      "genres": [
+        "Navegação"
+      ],
+      "sellerName": "Dogukan ERDAGI",
+      "genreIds": [
+        "6010"
+      ],
+      "bundleId": "com.alpine.nav.app",
+      "trackId": 6785090016,
+      "trackName": "Alpine Quest Nav PRO",
+      "currentVersionReleaseDate": "2026-08-12T13:33:40Z",
+      "version": "1.1.5",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "AlpinePRO is an advanced outdoor navigation, terrain analysis, route planning, and team coordination application designed for hiking, exploration, field operations, search activities, and professional outdoor use.\n\nNavigate with detailed 2D maps, interactive 3D terrain, precise coordinate tools, offline map support, targets, routes, tracks, and real-time team features.\n\n2D AND 3D MAPS\n\n• Explore detailed 2D maps and realistic 3D terrain  \n• View elevation and analyze mountains, valleys, and surrounding landforms  \n• Use satellite, hybrid, topographic, relief, trail, tactical, and other supported layers  \n• Display MGRS grid lines with real 1 × 1 km squares  \n• Preserve the selected map position between screens and fullscreen mode  \n\nOFFLINE MAPS\n\n• Automatically cache viewed map areas  \n• Download supported 3D regions for offline use  \n• Select 5 km, 10 km, 25 km, or 50 km download areas  \n• Monitor download progress and storage usage  \n• Import supported offline maps, including MBTiles  \n\nCOORDINATE TOOLS\n\n• View MGRS, UTM, latitude/longitude, DMS, DDM, and other formats  \n• Search by entering coordinates  \n• Copy, share, and convert coordinates  \n• Select exact positions using the map-center marker  \n\nTARGETS, ROUTES, AND TRACKS\n\n• Create named targets and map markers  \n• Add numbered route points from the map center  \n• Organize targets and route points into groups  \n• Build routes by connecting multiple points  \n• Add names and notes to route points  \n• Record GPS tracks and review distance, duration, speed, elevation, and points  \n• Export supported geographic data formats  \n\nNAVIGATION AND COMPASS\n\n• Navigate to targets, route points, and team members  \n• View heading, bearing, distance, speed, and estimated arrival time  \n• Use integrated compass and map navigation modes  \n• Receive configurable destination-distance alerts  \n• Access augmented reality navigation on supported devices  \n\nTEAM ROOM\n\n• Create a private team or join using a session code  \n• Share your live location when you choose  \n• View participating members on the map with individual colors and names  \n• View shared battery status and location information  \n• Send messages, images, and supported field packages  \n• Assign roles and manage members as the team owner  \n• Temporarily mute team notifications  \n\nTEAM NOTIFICATIONS\n\nSend notifications to members of the active team:\n\n• Emergency Help  \n• Attention  \n• Order  \n• Under Attack  \n• Custom Notification  \n\nLocation sharing and team communication require the appropriate permissions and an internet connection.\n\nFIELD PACKAGES\n\n• Create and share AlpinePRO field packages  \n• Store targets, routes, route points, notes, and supported content in an .aqpmap file  \n• Preview package contents before importing  \n• Merge imported information with existing data  \n• Share prepared field information with other AlpinePRO users  \n\nADDITIONAL TOOLS\n\n• GPS photo geotagging  \n• Distance and area calculations  \n• Sun and moon information  \n• Elevation and terrain information  \n• Measurement, drawing, and marked-area tools  \n• Light, dark, and tactical themes  \n• Multiple language support  \n\nPRIVACY\n\nLive location sharing remains disabled until the user enables it and can be stopped at any time. Team information is available only within the active team according to its access controls.\n\nIMPORTANT NOTICE\n\nAlpinePRO is a navigation and planning aid. GPS, compass, map, elevation, weather, coordinate, and arrival-time information may be affected by device sensors, environmental conditions, third-party data, or network availability. Verify critical information using official sources and appropriate professional equipment.\n\nAlpinePRO does not replace official emergency services. Contact the appropriate local emergency authority in an emergency whenever possible.",
+      "minimumOsVersion": "15.0",
+      "averageUserRatingForCurrentVersion": 0,
+      "releaseDate": "2026-07-17T07:00:00Z",
+      "primaryGenreName": "Navigation",
+      "primaryGenreId": 6010,
+      "isVppDeviceBasedLicensingEnabled": true,
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1786647728077,
+      "timestamp": 1786904841254,
       "discounts": [
         {
           "type": "price",
           "name": "Price",
-          "from": "₺49,99",
-          "to": "Free",
-          "range": "[Free ~ ₺49,99]"
+          "from": "8,99 €",
+          "to": "3,99 €",
+          "range": "[0,29 € ~ 8,99 €]"
         }
       ]
-    }
-  ],
-  "pt": [
+    },
     {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/23/dc/44/23dc4471-80fc-39fd-3281-3762ec7f2db3/ceab93b3-ad15-464a-86a7-ccb041e36178_IP8_Export_PORTUGUESE_01.jpg/392x696bb.jpg",
@@ -13279,205 +13534,6 @@
           "from": "5,99 €",
           "to": "3,99 €",
           "range": "[3,99 € ~ 5,99 €]"
-        }
-      ]
-    },
-    {
-      "isGameCenterEnabled": false,
-      "artistViewUrl": "https://apps.apple.com/pt/developer/karan-kohli/id1896505451?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/100x100bb.jpg",
-      "features": [],
-      "supportedDevices": [
-        "iPhone5s-iPhone5s",
-        "iPadAir-iPadAir",
-        "iPadAirCellular-iPadAirCellular",
-        "iPadMiniRetina-iPadMiniRetina",
-        "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
-        "iPhone6-iPhone6",
-        "iPhone6Plus-iPhone6Plus",
-        "iPadAir2-iPadAir2",
-        "iPadAir2Cellular-iPadAir2Cellular",
-        "iPadMini3-iPadMini3",
-        "iPadMini3Cellular-iPadMini3Cellular",
-        "iPodTouchSixthGen-iPodTouchSixthGen",
-        "iPhone6s-iPhone6s",
-        "iPhone6sPlus-iPhone6sPlus",
-        "iPadMini4-iPadMini4",
-        "iPadMini4Cellular-iPadMini4Cellular",
-        "iPadPro-iPadPro",
-        "iPadProCellular-iPadProCellular",
-        "iPadPro97-iPadPro97",
-        "iPadPro97Cellular-iPadPro97Cellular",
-        "iPhoneSE-iPhoneSE",
-        "iPhone7-iPhone7",
-        "iPhone7Plus-iPhone7Plus",
-        "iPad611-iPad611",
-        "iPad612-iPad612",
-        "iPad71-iPad71",
-        "iPad72-iPad72",
-        "iPad73-iPad73",
-        "iPad74-iPad74",
-        "iPhone8-iPhone8",
-        "iPhone8Plus-iPhone8Plus",
-        "iPhoneX-iPhoneX",
-        "iPad75-iPad75",
-        "iPad76-iPad76",
-        "iPhoneXS-iPhoneXS",
-        "iPhoneXSMax-iPhoneXSMax",
-        "iPhoneXR-iPhoneXR",
-        "iPad812-iPad812",
-        "iPad834-iPad834",
-        "iPad856-iPad856",
-        "iPad878-iPad878",
-        "iPadMini5-iPadMini5",
-        "iPadMini5Cellular-iPadMini5Cellular",
-        "iPadAir3-iPadAir3",
-        "iPadAir3Cellular-iPadAir3Cellular",
-        "iPodTouchSeventhGen-iPodTouchSeventhGen",
-        "iPhone11-iPhone11",
-        "iPhone11Pro-iPhone11Pro",
-        "iPadSeventhGen-iPadSeventhGen",
-        "iPadSeventhGenCellular-iPadSeventhGenCellular",
-        "iPhone11ProMax-iPhone11ProMax",
-        "iPhoneSESecondGen-iPhoneSESecondGen",
-        "iPadProSecondGen-iPadProSecondGen",
-        "iPadProSecondGenCellular-iPadProSecondGenCellular",
-        "iPadProFourthGen-iPadProFourthGen",
-        "iPadProFourthGenCellular-iPadProFourthGenCellular",
-        "iPhone12Mini-iPhone12Mini",
-        "iPhone12-iPhone12",
-        "iPhone12Pro-iPhone12Pro",
-        "iPhone12ProMax-iPhone12ProMax",
-        "iPadAir4-iPadAir4",
-        "iPadAir4Cellular-iPadAir4Cellular",
-        "iPadEighthGen-iPadEighthGen",
-        "iPadEighthGenCellular-iPadEighthGenCellular",
-        "iPadProThirdGen-iPadProThirdGen",
-        "iPadProThirdGenCellular-iPadProThirdGenCellular",
-        "iPadProFifthGen-iPadProFifthGen",
-        "iPadProFifthGenCellular-iPadProFifthGenCellular",
-        "iPhone13Pro-iPhone13Pro",
-        "iPhone13ProMax-iPhone13ProMax",
-        "iPhone13Mini-iPhone13Mini",
-        "iPhone13-iPhone13",
-        "iPadMiniSixthGen-iPadMiniSixthGen",
-        "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
-        "iPadNinthGen-iPadNinthGen",
-        "iPadNinthGenCellular-iPadNinthGenCellular",
-        "iPhoneSEThirdGen-iPhoneSEThirdGen",
-        "iPadAirFifthGen-iPadAirFifthGen",
-        "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
-        "iPhone14-iPhone14",
-        "iPhone14Plus-iPhone14Plus",
-        "iPhone14Pro-iPhone14Pro",
-        "iPhone14ProMax-iPhone14ProMax",
-        "iPadTenthGen-iPadTenthGen",
-        "iPadTenthGenCellular-iPadTenthGenCellular",
-        "iPadPro11FourthGen-iPadPro11FourthGen",
-        "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
-        "iPadProSixthGen-iPadProSixthGen",
-        "iPadProSixthGenCellular-iPadProSixthGenCellular",
-        "iPhone15-iPhone15",
-        "iPhone15Plus-iPhone15Plus",
-        "iPhone15Pro-iPhone15Pro",
-        "iPhone15ProMax-iPhone15ProMax",
-        "iPadAir11M2-iPadAir11M2",
-        "iPadAir11M2Cellular-iPadAir11M2Cellular",
-        "iPadAir13M2-iPadAir13M2",
-        "iPadAir13M2Cellular-iPadAir13M2Cellular",
-        "iPadPro11M4-iPadPro11M4",
-        "iPadPro11M4Cellular-iPadPro11M4Cellular",
-        "iPadPro13M4-iPadPro13M4",
-        "iPadPro13M4Cellular-iPadPro13M4Cellular",
-        "iPhone16-iPhone16",
-        "iPhone16Plus-iPhone16Plus",
-        "iPhone16Pro-iPhone16Pro",
-        "iPhone16ProMax-iPhone16ProMax",
-        "iPadMiniA17Pro-iPadMiniA17Pro",
-        "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
-        "iPhone16e-iPhone16e",
-        "iPadA16-iPadA16",
-        "iPadA16Cellular-iPadA16Cellular",
-        "iPadAir11M3-iPadAir11M3",
-        "iPadAir11M3Cellular-iPadAir11M3Cellular",
-        "iPadAir13M3-iPadAir13M3",
-        "iPadAir13M3Cellular-iPadAir13M3Cellular",
-        "iPhone17Pro-iPhone17Pro",
-        "iPhone17ProMax-iPhone17ProMax",
-        "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir",
-        "iPadPro11M5-iPadPro11M5",
-        "iPadPro11M5Cellular-iPadPro11M5Cellular",
-        "iPadPro13M5-iPadPro13M5",
-        "iPadPro13M5Cellular-iPadPro13M5Cellular",
-        "iPhone17e-iPhone17e",
-        "iPadAir11M4-iPadAir11M4",
-        "iPadAir11M4Cellular-iPadAir11M4Cellular",
-        "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/1d/c2/4a1dc27f-60bc-89b3-5aa2-3f01772b7013/01-hero.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/61/a0/1361a0ab-9d31-0b89-0839-2b6a88ceaef0/04-done.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/74/d2/38/74d23857-a371-8e85-3d75-7279b3d7a745/03-formats.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/3d/bc/923dbcca-8559-b171-e08f-290b52aec4b4/05-history.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5a/e8/5d/5ae85d27-3924-7f9e-8440-99efd7ad99d4/06-privacy.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/79/18/e07918b0-3e86-580d-2e40-9426bbddb4b5/02-pick.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f6/fb/67/f6fb67c9-3a76-8715-0c25-368b7ef17417/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
-      "minimumOsVersion": "17.0",
-      "averageUserRating": 0,
-      "trackCensoredName": "FileFlip: Convert Files",
-      "trackViewUrl": "https://apps.apple.com/pt/app/fileflip-convert-files/id6794760301?uo=4",
-      "contentAdvisoryRating": "4+",
-      "artistId": 1896505451,
-      "artistName": "Karan Kohli",
-      "price": 0,
-      "bundleId": "com.karankohli.fileflip",
-      "genreIds": [
-        "6002",
-        "6007"
-      ],
-      "releaseDate": "2026-07-31T07:00:00Z",
-      "trackId": 6794760301,
-      "trackName": "FileFlip: Convert Files",
-      "primaryGenreName": "Utilities",
-      "primaryGenreId": 6002,
-      "sellerName": "Karan Kohli",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2026-07-31T21:37:50Z",
-      "version": "1.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "FileFlip is the fastest way to convert a file on your iPhone: choose any file, and FileFlip detects what it is and shows you every format it can become. Pick one from the dropdown, tap Convert, and share or save the result. That's the whole app.\n\nWHAT IT CONVERTS\n— Images: PNG, JPEG, HEIC, TIFF, GIF, BMP and WebP → PNG, JPEG, HEIC, TIFF or PDF\n— PDFs → crisp page images (PNG or JPEG) or extracted plain text\n— Audio: MP3, M4A, WAV, AIFF, CAF, FLAC → M4A, WAV, AIFF or CAF\n— Video: MOV, MP4, M4V → MP4, MOV or audio-only M4A\n— Documents: TXT, Markdown, RTF, HTML → polished PDF, TXT, RTF or HTML\n— Data: CSV ↔ JSON, both directions\n\nPRIVATE BY DESIGN\nEvery conversion runs 100% on your device using Apple's own frameworks. Your files are never uploaded anywhere — FileFlip makes no network connections at all. No account, no ads, no tracking, no subscription.\n\nBUILT-IN HISTORY\nEverything you convert is kept in the History tab for one-tap re-sharing, and also appears in the Files app under On My iPhone › FileFlip, so your converted files are always yours.\n\nMulti-page PDFs export every page as its own image. HEIC photos become shareable JPEGs in two taps. Voice memos become WAVs for editing. Camera clips become MP4s that play anywhere.\n\n— Pay once. Own it forever.\n— 100% offline. Your files never leave your phone.",
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "1125376",
-      "formattedPrice": "Gratuito",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "genres": [
-        "Utilitários",
-        "Produtividade"
-      ],
-      "userRatingCount": 0,
-      "inAppPurchases": {},
-      "inAppPurchasesTimes": 1,
-      "timestamp": 1786647728077,
-      "discounts": [
-        {
-          "type": "price",
-          "name": "Price",
-          "from": "0,99 €",
-          "to": "Gratuito",
-          "range": "[Gratuito ~ 0,99 €]"
         }
       ]
     }

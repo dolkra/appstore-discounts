@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6785090016,
+    "region": "mo",
+    "timestamp": 1786904841254,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 3.99",
+        "range": "[USD 0.29 ~ USD 7.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "USD 3.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6785090016",
+    "trackName": "Alpine Quest Nav PRO",
+    "firstRecordedAt": 1784860637377
+  },
+  {
     "trackId": 1571643809,
     "region": "mo",
     "timestamp": 1786893646311,
@@ -89,7 +109,7 @@
         "name": "Price",
         "from": "USD 0.99",
         "to": "免費",
-        "range": "[免費 ~ USD 1.99]"
+        "range": "[免費 ~ USD 3.99]"
       }
     ],
     "price": 0,
@@ -1058,7 +1078,7 @@
         "name": "Price",
         "from": "USD 0.99",
         "to": "免費",
-        "range": "[免費 ~ USD 1.99]"
+        "range": "[免費 ~ USD 3.99]"
       }
     ],
     "price": 0,

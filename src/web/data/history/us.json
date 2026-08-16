@@ -43,6 +43,16 @@
     "history": [
       [
         {
+          "timestamp": 1786904841254,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 1": "$9.99",
+            "Pro Tier 2": "$99.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        },
+        {
           "timestamp": 1786893646311,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -334320,6 +334330,14 @@
     "history": [
       [
         {
+          "timestamp": 1786904841254,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786128919939,
           "price": 7.99,
           "formattedPrice": "$7.99",
@@ -334659,8 +334677,8 @@
     "trackName": "FileFlip: Convert Files",
     "region": "us",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -334668,6 +334686,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786904841254,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1786862304530,
           "price": 1.99,

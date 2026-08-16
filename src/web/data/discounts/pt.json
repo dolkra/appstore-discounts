@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6785090016,
+    "region": "pt",
+    "timestamp": 1786904841254,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "8,99 €",
+        "to": "3,99 €",
+        "range": "[0,29 € ~ 8,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6785090016",
+    "trackName": "Alpine Quest Nav PRO",
+    "firstRecordedAt": 1784860637377
+  },
+  {
     "trackId": 458535809,
     "region": "pt",
     "timestamp": 1786872342143,
@@ -189,7 +209,7 @@
         "name": "Price",
         "from": "0,99 €",
         "to": "Gratuito",
-        "range": "[Gratuito ~ 1,99 €]"
+        "range": "[Gratuito ~ 3,99 €]"
       }
     ],
     "price": 0,
@@ -1065,7 +1085,7 @@
         "name": "Price",
         "from": "0,99 €",
         "to": "Gratuito",
-        "range": "[Gratuito ~ 1,99 €]"
+        "range": "[Gratuito ~ 3,99 €]"
       }
     ],
     "price": 0,

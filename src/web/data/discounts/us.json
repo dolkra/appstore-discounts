@@ -1,23 +1,23 @@
 [
   {
-    "trackId": 288419283,
+    "trackId": 6785090016,
     "region": "us",
-    "timestamp": 1786893646311,
+    "timestamp": 1786904841254,
     "discounts": [
       {
-        "type": "inAppPurchase",
-        "name": "Pro Tier 2",
-        "from": "$99.99",
-        "to": "$14.99",
-        "range": "[$14.99 ~ $99.99]"
+        "type": "price",
+        "name": "Price",
+        "from": "$7.99",
+        "to": "$3.99",
+        "range": "[$0.29 ~ $7.99]"
       }
     ],
-    "price": 9.99,
-    "formattedPrice": "$9.99",
+    "price": 3.99,
+    "formattedPrice": "$3.99",
     "currency": "USD",
-    "trackViewUrl": "https://apps.apple.com/us/app/id288419283",
-    "trackName": "RadarScope",
-    "firstRecordedAt": 1745328692670
+    "trackViewUrl": "https://apps.apple.com/us/app/id6785090016",
+    "trackName": "Alpine Quest Nav PRO",
+    "firstRecordedAt": 1784860637377
   },
   {
     "trackId": 458535809,
@@ -229,7 +229,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "Free",
-        "range": "[Free ~ $1.99]"
+        "range": "[Free ~ $3.99]"
       }
     ],
     "price": 0,
@@ -590,7 +590,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "Free",
-        "range": "[Free ~ $1.99]"
+        "range": "[Free ~ $3.99]"
       }
     ],
     "price": 0,
@@ -1130,7 +1130,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "Free",
-        "range": "[Free ~ $1.99]"
+        "range": "[Free ~ $3.99]"
       }
     ],
     "price": 0,

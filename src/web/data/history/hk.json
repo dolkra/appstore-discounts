@@ -4304,7 +4304,8 @@
       "LARSA": "HK$ 228.00",
       "STIPA Basic": "HK$ 388.00",
       "THD+n Module": "HK$ 88.00",
-      "Reference Files Module": "HK$ 118.00"
+      "Reference Files Module": "HK$ 118.00",
+      "Max Subwoofer SPL": "HK$ 228.00"
     },
     "minPriceInfo": {
       "price": 88,
@@ -4336,9 +4337,29 @@
       "LARSA": "HK$ 228.00",
       "STIPA Basic": "HK$ 388.00",
       "THD+n Module": "HK$ 88.00",
-      "Reference Files Module": "HK$ 118.00"
+      "Reference Files Module": "HK$ 118.00",
+      "Max Subwoofer SPL": "HK$ 228.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786904841254,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "HK$ 228.00",
+            "LUFS Meter": "HK$ 88.00",
+            "HAA CinemaTools with HAA Link": "HK$ 1,188.00",
+            "HAA Link": "HK$ 88.00",
+            "HAA Pro Module": "HK$ 148.00",
+            "SPL Enhance": "HK$ 288.00",
+            "All-In Module Access": "HK$ 88.00",
+            "HAA Upgrade to Pro": "HK$ 2,888.00",
+            "HAA Pro Installer Calibration": "HK$ 3,888.00",
+            "HAA Home Theater": "HK$ 788.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785995307165,
@@ -284572,6 +284593,14 @@
     "history": [
       [
         {
+          "timestamp": 1786904841254,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786138670823,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -284889,14 +284918,22 @@
     "trackName": "FileFlip: Convert Files",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "HK$ 18.00"
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786904841254,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786862304530,
