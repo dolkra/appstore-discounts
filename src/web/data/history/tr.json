@@ -29541,14 +29541,27 @@
       "Unlimited OCR/Writing 1 Month": "₺23,99"
     },
     "minPriceInfo": {
-      "price": 299.99,
-      "formattedPrice": "₺299,99",
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
       "400 AI Recognition & Queries": "₺49,99",
       "900 AI Recognition & Queries": "₺99,99",
       "Unlimited OCR/Writing 3 Months": "₺60,99",
       "Unlimited OCR/Writing 1 Month": "₺23,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786872342143,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "400 AI Recognition & Queries": "₺49,99",
+            "900 AI Recognition & Queries": "₺99,99",
+            "Unlimited OCR/Writing 3 Months": "₺60,99",
+            "Unlimited OCR/Writing 1 Month": "₺23,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779006546104,
@@ -216146,6 +216159,20 @@
       "Filtr": "₺29,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786872342143,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Filtr": "₺149,99",
+            "Tip": "₺249,99",
+            "Yearly Recurring Tip": "₺399,99",
+            "Monthly Recurring Tip": "₺79,99",
+            "Mega Tip": "₺999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786818467935,

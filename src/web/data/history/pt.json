@@ -13386,14 +13386,27 @@
       "400 Reconhecimentos, Consultas": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 6.99,
-      "formattedPrice": "6,99 €",
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
       "Unlimited OCR/Writing 3 Months": "9,99 €",
       "Unlimited OCR/Writing 1 Month": "3,99 €",
       "900 Reconhecimentos, Consultas": "1,99 €",
       "400 Reconhecimentos, Consultas": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786872342143,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unlimited OCR/Writing 3 Months": "9,99 €",
+            "Unlimited OCR/Writing 1 Month": "3,99 €",
+            "900 Reconhecimentos, Consultas": "1,99 €",
+            "400 Reconhecimentos, Consultas": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779006546104,
@@ -91280,6 +91293,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786872342143,
+          "price": 14.49,
+          "formattedPrice": "14,49 €",
+          "inAppPurchases": {
+            "All Content": "0,00 €",
+            "Opposing Fronts": "0,00 €",
+            "Tales of Valor": "0,00 €",
+            "Invasion of Normandy 2-5": "0,00 €",
+            "1 vs 1 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 6-10": "0,00 €",
+            "3 vs 3 Skirmish Maps": "0,00 €",
+            "2 vs 2 Skirmish Maps": "0,00 €",
+            "Invasion of Normandy 11-15": "0,00 €",
+            "4 vs 4 Skirmish Maps": "0,00 €"
+          }
+        },
         {
           "timestamp": 1786862304530,
           "price": 14.49,

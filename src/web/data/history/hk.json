@@ -27253,14 +27253,27 @@
       "900次AI識別與查詢": "HK$ 18.00"
     },
     "minPriceInfo": {
-      "price": 48,
-      "formattedPrice": "HK$ 48.00",
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
       "Unlimited OCR/Writing 3 Months": "HK$ 73.00",
       "Unlimited OCR/Writing 1 Month": "HK$ 28.00",
       "400次AI識別與查詢": "HK$ 8.00",
       "900次AI識別與查詢": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786872342143,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Unlimited OCR/Writing 3 Months": "HK$ 73.00",
+            "Unlimited OCR/Writing 1 Month": "HK$ 28.00",
+            "400次AI識別與查詢": "HK$ 8.00",
+            "900次AI識別與查詢": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779006546104,
@@ -150529,6 +150542,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1786872342143,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Resource Package": "HK$ 22.00",
+            "60 gems": "HK$ 8.00",
+            "Role Package III": "HK$ 88.00",
+            "Teammate Package": "HK$ 38.00",
+            "Heroic Package#1": "HK$ 88.00",
+            "Gold Decree": "HK$ 688.00",
+            "Bronze Decree": "HK$ 188.00",
+            "7200 gems": "HK$ 788.00",
+            "Heroic Package#3": "HK$ 388.00",
+            "Teammate Package#2": "HK$ 38.00"
+          }
+        },
         {
           "timestamp": 1786862304530,
           "price": 8,
