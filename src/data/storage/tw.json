@@ -272343,6 +272343,23 @@
     "history": [
       [
         {
+          "timestamp": 1786915137049,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$290.00",
+            "Kitchen Chaos Pack": "$120.00",
+            "Santa Claws Card Back": "$30.00",
+            "Santa Claws Pack": "$120.00",
+            "Under the Tree location": "$60.00",
+            "Santa Claws Emoji Pack": "$30.00",
+            "All Wrapped Up outfit": "$60.00",
+            "Snow Globe Outfit": "$60.00",
+            "Mystic Mayhem Location": "$30.00",
+            "MysticMayhem Cauldron Creature": "$60.00"
+          }
+        },
+        {
           "timestamp": 1786904841254,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -280575,12 +280592,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Raider Mk. 3": "$320.00",
+      "Raider Mk. 3": "$220.00",
       "Raider Mk. 2": "$190.00",
       "Raider Mk. 1": "$30.00",
       "Raider Weekly": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786915137049,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 2": "$190.00",
+            "Raider Mk. 3": "$220.00",
+            "Raider Mk. 1": "$30.00",
+            "Raider Weekly": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1770822099656,

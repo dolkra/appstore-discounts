@@ -120636,12 +120636,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "Raider Mk. 3": "9,99 €",
+      "Raider Mk. 3": "7,99 €",
       "Raider Mk. 2": "6,99 €",
       "Raider Mk. 1": "0,99 €",
       "Raider Weekly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786915137049,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 1": "5,99 €",
+            "Raider Mk. 2": "6,99 €",
+            "Raider Mk. 3": "7,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785205787025,

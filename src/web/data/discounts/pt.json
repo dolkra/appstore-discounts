@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6755290585,
+    "region": "pt",
+    "timestamp": 1786915137049,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 3",
+        "from": "9,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 34,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6755290585",
+    "trackName": "Raiders Map",
+    "firstRecordedAt": 1763517683797
+  },
+  {
     "trackId": 6785090016,
     "region": "pt",
     "timestamp": 1786904841254,
@@ -17141,7 +17161,7 @@
         "name": "Raider Mk. 3",
         "from": "34,99 €",
         "to": "9,99 €",
-        "range": "[9,99 € ~ 34,99 €]"
+        "range": "[7,99 € ~ 34,99 €]"
       }
     ],
     "price": 0,
@@ -22985,7 +23005,7 @@
         "name": "Raider Mk. 3",
         "from": "17,99 €",
         "to": "9,99 €",
-        "range": "[9,99 € ~ 34,99 €]"
+        "range": "[7,99 € ~ 34,99 €]"
       }
     ],
     "price": 0,

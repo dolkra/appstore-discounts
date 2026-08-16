@@ -4343,6 +4343,23 @@
     "history": [
       [
         {
+          "timestamp": 1786915137049,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "SPL Pro Module": "HK$ 58.00",
+            "ETC Module": "HK$ 48.00",
+            "SPL Graph Module": "HK$ 88.00",
+            "Polarity Test Module": "HK$ 32.00",
+            "SoundScope VR": "HK$ 188.00",
+            "IR Module": "HK$ 388.00",
+            "Reference Files Module": "HK$ 118.00",
+            "Speaker Distortion": "HK$ 48.00",
+            "VU Meter": "HK$ 22.00",
+            "SPL Traffic Light": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1786904841254,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -273516,11 +273533,24 @@
       "price": 0,
       "formattedPrice": "免費",
       "Raider Mk. 2": "HK$ 48.00",
-      "Raider Mk. 3": "HK$ 88.00",
+      "Raider Mk. 3": "HK$ 58.00",
       "Raider Mk. 1": "HK$ 8.00",
       "Raider Weekly": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786915137049,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 1": "HK$ 38.00",
+            "Raider Mk. 2": "HK$ 48.00",
+            "Raider Mk. 3": "HK$ 58.00",
+            "Raider Weekly": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782129250725,
