@@ -261097,6 +261097,23 @@
     "history": [
       [
         {
+          "timestamp": 1786862304530,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "15 gold": "₺29,99",
+            "mega paket": "₺99,99",
+            "15 ticket": "₺29,99",
+            "30000 money": "₺19,99",
+            "porches": "₺49,99",
+            "30 ticket": "₺49,99",
+            "25 gold": "₺49,99"
+          }
+        },
+        {
           "timestamp": 1786852048726,
           "price": 0,
           "formattedPrice": "Free",
@@ -271171,14 +271188,22 @@
   "6794760301": {
     "name": "FileFlip: Convert Files",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786862304530,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786647728077,

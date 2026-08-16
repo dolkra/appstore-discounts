@@ -194838,14 +194838,22 @@
   "6794760301": {
     "name": "FileFlip: Convert Files",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786862304530,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786647728077,
