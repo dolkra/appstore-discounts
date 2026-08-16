@@ -1418,7 +1418,7 @@
 |795| ~~1038014543~~ |自动| ~~❌~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium~~ | ~~❌~~ |
 |794|1084793426|自动|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|
 |793|1596863467|自动|❌|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice|LoveChoice|LoveChoice|
-|792|1602403259|自动|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|
+|792|1602403259|自动|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|
 |791|1622064157|自动|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|
 |790|6447606411|自动|❌|創意咖啡店物語|創意咖啡店物語|創意咖啡店物語|Cafe Master Story|Cafe Master Story|Cafe Master Story|
 |789|6449046261|自动|❌|水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲|水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲|水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲|Crystania Wars 2-Roguelike TD|Crystania Wars 2-Roguelike TD|Crystania Wars 2-Roguelike TD|

@@ -1418,7 +1418,7 @@ So far, we've covered `7` `Countries or Regions` and  `2203` `Apps` <br />Push n
 |795| ~~1038014543~~ |Automatic| ~~❌~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium: last world war~~ | ~~Day R Premium~~ | ~~❌~~ |
 |794|1084793426|Automatic|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|Instant USGS Earthquake Pro|
 |793|1596863467|Automatic|❌|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice 揀愛|LoveChoice|LoveChoice|LoveChoice|
-|792|1602403259|Automatic|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|Webmail App|
+|792|1602403259|Automatic|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|Webmail App: IMAP Email Client|
 |791|1622064157|Automatic|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|Sismo: Vibration Meter & Alert|
 |790|6447606411|Automatic|❌|創意咖啡店物語|創意咖啡店物語|創意咖啡店物語|Cafe Master Story|Cafe Master Story|Cafe Master Story|
 |789|6449046261|Automatic|❌|水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲|水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲|水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲|Crystania Wars 2-Roguelike TD|Crystania Wars 2-Roguelike TD|Crystania Wars 2-Roguelike TD|

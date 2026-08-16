@@ -43,6 +43,18 @@
     "history": [
       [
         {
+          "timestamp": 1786893646311,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Pro Tier 2": "$14.99",
+            "Pro Tier 1": "$9.99",
+            "RadarScope Pro Subscription": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778307742001,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -234209,7 +234221,7 @@
   },
   "1602403259": {
     "trackId": 1602403259,
-    "trackName": "Webmail App",
+    "trackName": "Webmail App: IMAP Email Client",
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,
