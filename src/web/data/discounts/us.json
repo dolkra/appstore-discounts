@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1074661768,
+    "region": "us",
+    "timestamp": 1786938586892,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$12.99",
+        "to": "$11.99",
+        "range": "[$11.99 ~ $12.99]"
+      }
+    ],
+    "price": 11.99,
+    "formattedPrice": "$11.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1074661768",
+    "trackName": "出行訣飛星萬年曆",
+    "firstRecordedAt": 1769951154203
+  },
+  {
+    "trackId": 1571643809,
+    "region": "us",
+    "timestamp": 1786938586892,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1751962698117
+  },
+  {
     "trackId": 458535809,
     "region": "us",
     "timestamp": 1786929139377,
