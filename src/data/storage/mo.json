@@ -195480,5 +195480,30 @@
         }
       ]
     ]
+  },
+  "6761129391": {
+    "name": "No. 10: Full Confidence",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Special Advisor Pack": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99",
+      "Special Advisor Pack": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786949612773,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Special Advisor Pack": "USD 1.99"
+          }
+        }
+      ]
+    ]
   }
 }

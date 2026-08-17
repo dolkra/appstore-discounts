@@ -252394,6 +252394,25 @@
     "history": [
       [
         {
+          "timestamp": 1786949612773,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A321": "$60.00",
+            "UH-60": "$30.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786464021561,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -292132,6 +292151,31 @@
           "price": 190,
           "formattedPrice": "$190.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761129391": {
+    "name": "No. 10: Full Confidence",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Special Advisor Pack": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00",
+      "Special Advisor Pack": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1786949612773,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Special Advisor Pack": "$60.00"
+          }
         }
       ]
     ]
