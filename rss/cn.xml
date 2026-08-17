@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-08-17T05:21:13.603Z</updated>
+    <updated>2026-08-17T20:09:11.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-08-17T05:21:13.604Z</updated>
+        <updated>2026-08-17T20:09:11.073Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 17 Aug 2026 05:21:13 GMT</id>
+        <id>rankingcnMon, 17 Aug 2026 20:09:11 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-08-17T05:21:13.605Z</updated>
+        <updated>2026-08-17T20:09:11.074Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2204</b>
+        <b>2205</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>2003</b>
+        <b>2004</b>
       </td>
       <td>
         <b>104</b>
@@ -102,15 +102,19 @@ feedId:157007849019630592+userId:73658201673997312
       <td>
         <ul>
           <li>
-            <span>总次数</span>：<b>3</b>
+            <span>总次数</span>：<b>4</b>
           </li><li>
             <span>价格</span>：<b>0</b>
           </li><li>
             <span>App内购买</span><ol>
               <li>
-                <i>Raider Mk. 1</i>：<b>2</b>
+                <i>Raider Mk. 1</i>：<b>3</b>
               </li><li>
                 <i>Raider Mk. 3</i>：<b>1</b>
+              </li><li>
+                <i>Raider Mk. 2</i>：<b>1</b>
+              </li><li>
+                <i>Raider Weekly</i>：<b>1</b>
               </li>
             </ol>
           </li>
@@ -1245,6 +1249,65 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Raiders Map]]></title>
+        <id>Raiders Map-cn-1786991874784</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN"/>
+        <updated>2026-08-17T18:37:54.784Z</updated>
+        <summary type="html"><![CDATA[Raider Mk. 1: ¥38.00 → ¥22.00<br/>Raider Mk. 2: ¥38.00 → ¥28.00<br/>Raider Weekly: ¥15.00 → ¥8.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6755290585?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0d/44/24/0d442499-9db8-4956-611c-1ed2a311277d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>Raider Mk. 1：</strong><span>¥38.00</span> → <b>
+  <strong>¥22.00</strong>
+</b><span>[¥8.00 ~ ¥38.00]</span>
+  </li><li>
+    <strong>Raider Mk. 2：</strong><span>¥38.00</span> → <b>
+  <strong>¥28.00</strong>
+</b><span>[¥28.00 ~ ¥128.00]</span>
+  </li><li>
+    <strong>Raider Weekly：</strong><span>¥15.00</span> → <b>
+  <strong>¥8.00</strong>
+</b><span>[¥8.00 ~ ¥15.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Raider Mk. 1：<b>¥22.00</b>
+  </li><li>
+    Raider Mk. 2：<b>¥28.00</b>
+  </li><li>
+    Raider Mk. 3：<b>¥48.00</b>
+  </li><li>
+    Raider Weekly：<b>¥8.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Raiders Map is the all-in-one companion for Arc Raiders: interactive maps, loot locations, event timers, material and recycling breakdowns, enemy drop lists, and full quest-line guides.
+
+INTERACTIVE MAPS
+Every extraction point, boss lair, loot cache and quest marker on fully zoomable maps — now with high-detail tiled maps and buttery-smooth rendering, even with 1,000+ markers on screen. Filter by category, search any marker, and jump straight to it.
+
+LIVE EVENT TRACKING
+See every active and upcoming map event at a glance with real-time countdowns. Turn on notifications and get alerted the moment a hot zone goes live.
+
+LOADOUT TOOLS
+Compare weapon stats side by side across tiers and levels, check what's safe to recycle before you scrap it, and plan your skill tree build before you drop.
+
+GUIDES & TRIALS
+Quest walkthroughs, XP guides and trial objectives — everything you need to progress faster.
+
+ENEMY DATABASE
+Every enemy with its full loot drop table, so you always know what's worth the fight.
+
+Raiders Map is the best tool for easy access to everything, along with world class support. You can reach me directly on X for help or to report any issues: All4nDev, or through Discord.
+
+Not affiliated with Embark. Raiders Map is independently owned and managed.
+
+Apple standard EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/e1/b9/c8e1b9ea-18d3-c1ae-30a6-492bf2bc6e55/02_home.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/47/67/a0/4767a0d6-68e5-25a1-1d74-2d2490bc531c/01_map.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/5d/ff/505dff29-b74f-3031-1119-fea04c25ba32/03_search.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c4/2c/61/c42c6107-1bde-86bf-b95d-6df6b0159b16/07_guides.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c6/02/a0/c602a0e8-2c86-b0ab-ae82-6bea2b87bed9/06_skilltree.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/c4/25/9cc42566-c3ad-4d6a-faa2-c85d8551756f/04_weapons.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/09/af/b2/09afb22f-01f4-f09a-5e61-cc6558c7885e/05_materials.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/cf/c6/77cfc686-f909-5b7f-79fb-37a44e94b6bb/IMG_0416.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8c/41/0b/8c410b8b-6502-c9fd-02ba-2772083a1314/IMG_0418.PNG/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bf/8a/d0/bf8ad090-f8b6-943d-b797-fca71251d3f6/IMG_0417.PNG/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[出行訣飛星萬年曆]]></title>
         <id>出行訣飛星萬年曆-cn-1786938586892</id>
         <link href="https://appstore-discounts.eyelly.me/cn/1074661768?lang=zh-CN"/>
@@ -1779,73 +1842,5 @@ https://voiceovermaker.com/privacypolicy
 请发送电子邮件以获取任何建议/反馈
 voiceovermakerz@gmail.com
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/25/9c/a2259cd3-bd59-1ebe-94c5-5d0466ed69e0/mzl.vmygkyjz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/75/0d/bc750d10-602f-4205-6297-6a2b32a884b6/f9ecb161-b28d-46a0-9a25-00809fc51d99_SpeechText1@z2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/3d/ec/f4/3decf434-9544-7c87-b72b-facdfe595127/af36c918-b65f-4d95-b6ec-8a5d95f3a491_SpeechText_iphone5pt5_3@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/d4/fa/15/d4fa1546-8b5a-b688-abd7-3d7d9f28305e/52b0a797-e88d-417a-a69d-a3afae3d7c01_SpeechText5@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/8d/99/54/8d9954ed-3074-ff5e-cce5-f128a342560d/97a05ad0-b470-4890-b048-a8a5e4240987_Speechtext2@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/43/ec/a8/43eca89e-58da-c527-ee7a-33114291f379/756f491f-13c7-47e8-85ea-8a28b9548484_SpeechText8@2x.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3d/bc/d0/3dbcd094-b683-377c-aa2a-c90cad921927/bb6d4598-81ef-4e64-86f5-d3a7d7c89b7a_SpeechText9@2x.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/da/f6/90/daf690d6-07db-431b-51cd-dd23af8e8216/ff96eba5-6233-423d-94b2-4de07ed6c814_SpeechtextiPad1@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/5a/43/375a43c9-7c1e-e0dc-eebd-86d9593a0856/38618a72-0ca3-450f-9024-86c3f9b0df05_SpeechtextiPad4@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/40/4f/93/404f937c-f31c-3aa2-96f5-33c673156463/d953665e-2a03-4615-9de8-2b019db242d5_SpeechtextiPad5@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ba/e2/ac/bae2aca4-d671-e4bd-5070-a38099520477/7265fb5a-c6fd-43f0-be8b-ecca4cd897cc_SpeechtextiPad7@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/59/e4/7d/59e47d7c-849f-efd9-8b06-f9598bb88804/947b0610-f965-4baf-af99-92fb0049fb33_SpeechtextiPad10@1x.jpg/576x768bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b4/2c/a2/b42ca2c1-be22-9e73-199b-ab6b71a0d51f/8a293e78-3a88-41ae-bd2e-4ff9ed3e6227_SpeechtextiPadold2.jpg/576x768bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[盛世天下：女王的游戏]]></title>
-        <id>盛世天下：女王的游戏-cn-1786701637597</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/6743148949?lang=zh-CN"/>
-        <updated>2026-08-14T10:00:37.597Z</updated>
-        <summary type="html"><![CDATA[女帝篇: ¥59.00 → ¥53.00<br/>媚娘篇: ¥39.00 → ¥33.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6743148949?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/75/b9/fd75b994-7bc0-5403-5ffb-eb2d52d3452d/AppIcon-1x_U007emarketing-0-8-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
-  <li>
-    <strong>女帝篇：</strong><span>¥59.00</span> → <b>
-  <strong>¥53.00</strong>
-</b><span>[¥53.00 ~ ¥59.00]</span>
-  </li><li>
-    <strong>媚娘篇：</strong><span>¥39.00</span> → <b>
-  <strong>¥33.00</strong>
-</b><span>[¥33.00 ~ ¥39.00]</span>
-  </li>
-</ul><h2>全部价格信息</h2><p>
-  价格：<b>¥6.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    盛世全集：<b>¥82.00</b>
-  </li><li>
-    女帝篇：<b>¥53.00</b>
-  </li><li>
-    媚娘篇：<b>¥33.00</b>
-  </li><li>
-    328000个踩蛋：<b>¥328.00</b>
-  </li><li>
-    648000个踩蛋：<b>¥648.00</b>
-  </li><li>
-    128000个踩蛋：<b>¥128.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  本作品需全程联网。媚娘篇内容共为十六集，女帝篇内容共为三十二集，均含免费体验章节。
-
-● 能互动的爽剧，活下来就登基！百万销量口碑新篇《盛世天下》女帝篇正式上线
-
-全球百万销量、斩获多项年度大奖的《盛世天下》媚娘篇新篇现已全球多平台正式上线！
-立即体验这场惊心动魄的朝堂博弈，共同踏上女帝传奇登顶之路！你的每一个选择，都在塑造独一无二的剧情体验。
-
-《盛世天下》女帝篇开启全新剧情与抉择：
-——约1000分钟超长真人实拍篇章（较媚娘篇剧情扩容超2倍）
-——4K电影级画面质感，沉浸体验盛世风华
-——全新深度交互玩法：批奏折、颁圣旨，亲手执掌朝堂格局
-——升级版专属人格测试：在故事的最后遇见真实的自己
-
-● 4K电影级质感，极致东方宫廷盛宴
-全程真人演绎、实景搭建，以4K电影的光影调度，匠心复刻东方宫阙的磅礴气象。从锦缎华服、非遗道具的细腻肌理，到古韵悠扬、震撼人心的国风配乐，全方位展现极致的东方古典美学。
-由官鸿、黄羿、姚弛、林小宅等知名演员倾情出演。更具真实惊险刺激的体验、更恢弘的场景、更细腻的人物刻画，让盛世不止存在于荧幕之中，而真实铺展于眼前。你将亲身体验“君临天下”的东方美学盛宴！
-
-● 从默默无闻少女到传奇女帝，你的剧本你来写！
-想冲破命运的裹挟？在本作中，你将体验到最惊心动魄的宫廷权谋博弈！从默默无闻的少女，到在多方势力的掣肘中破局，最终登顶权力巅峰。感受运筹帷幄、制衡朝野的帝王智慧，这条逆天改命的登基之路，由你亲手开创！
-
-● 约1500分钟真人演绎内容，沉浸体验帝王人生
-匠心打磨的媚娘篇与女帝篇共约1500分钟实拍篇章，为你铺陈开一幅波澜壮阔的盛世画卷。面对波谲云诡的朝堂局势，你的每一次落子、每一个抉择，都将引发蝴蝶效应。高燃反转、重重悬疑……在步步惊心中执掌乾坤，亲手改写王朝命运！
-为你情有独钟或爱恨交织的角色打榜助力，谁能问鼎全球人气榜首，全在你的掌控之中。
-
-● 告别旁观，真正体验执掌天下
-摒弃枯燥的点击对话，体验深度交互玩法！权力不再是一句单薄的台词，而是你指尖实打实的朝堂制衡 ：
-【批阅奏折】：指尖轻点，趣解百态民生。面对层出不穷的新奇提案与市井趣事，看你如何妙笔生花、巧思破局，以奇招惠及万民。
-【颁布圣旨】：御笔轻悬，执掌群臣荣辱。看你如何恩威并施、论功行赏，通过封赏、发落与追贬，尽显女帝知人善用的御人之道。
-
-● 你是什么类型的帝王？专属人格测试报告升级
-在故事的终点，你还将获得一份升级版专属帝王测试报告！深度剖析你的权谋风格、危机决策与御人手段。究竟是权情兼收、八面玲珑的“绝命鹤顶红”，至情至性、赴汤蹈火的“风月曼陀罗”，还是心狠手辣、一心问鼎的“卷王见手青”？在故事的终点，看见最真实的自己，生成你的专属人格图鉴分享给全世界！
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/08/b6/5d/08b65dd9-acbc-fc5f-ca77-cf36823d0661/IOS-2688_U00d71242-01_U00281_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/6b/ff/0c6bffca-2cb8-045f-8e98-78a678855202/IOS-2688_U00d71242-01_U00282_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/41/d3/ca/41d3ca2a-8585-c7a1-79b2-adecc1e71d8e/IOS-2688_U00d71242-02_U00281_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/a9/c4/7ca9c4dd-f286-d816-a0ed-3baf580f8172/IOS-2688_U00d71242-03.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ec/b2/d2/ecb2d204-7732-a799-35d7-59ff888b4a88/IOS-2688_U00d71242-04.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ee/45/18/ee4518b8-cb86-1167-cb40-65148f857e1d/IOS-2688_U00d71242-05.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/91/72/a1/9172a14f-e52d-7199-3fb3-16b68c760b31/IOS-2732_U00d72048-01_U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/56/a3/ba/56a3ba48-8d1c-9087-3aec-3dff4f38ec48/IOS-2732_U00d72048-01_U00283_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a1/a6/bf/a1a6bf81-f9de-2fee-c150-a74feb0f4ac2/IOS-2732_U00d72048-02_U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f4/ab/f1/f4abf15f-41cd-3dff-4191-585abcc8fb20/IOS-2732_U00d72048-03.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/76/c7/3a76c717-0f31-bffe-8145-6a057da6743f/IOS-2732_U00d72048-04.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/f7/52/1ff75230-398d-cfcb-c256-cb266474fca7/IOS-2732_U00d72048-05.jpg/360x480bb.jpg" />]]></content>
     </entry>
 </feed>

@@ -19158,6 +19158,25 @@
     "history": [
       [
         {
+          "timestamp": 1786991874784,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "PowerLevel_5up": "USD 3.99",
+            "Called Shot 50": "USD 9.99",
+            "Called Shot 4": "USD 0.99",
+            "GOLD BAT": "USD 14.99",
+            "AllLevel_5up": "USD 9.99",
+            "AllLevel_1up": "USD 2.99",
+            "EyeLevel_5up": "USD 3.99",
+            "EyeLevel_1up": "USD 0.99",
+            "ContactLevel_5up": "USD 3.99",
+            "ContactLevel_1up": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784352341835,
           "price": 0.29,
           "formattedPrice": "USD 0.29",
@@ -172403,7 +172422,8 @@
       "Lumberjack Carriage": "USD 1.99",
       "Oil Baron carriage": "USD 1.99",
       "Dolomite Dynamite": "USD 1.99",
-      "Ticket to Ride Sale Offer": "USD 27.99"
+      "Ticket to Ride Sale Offer": "USD 27.99",
+      "The Spooktacular Halloween Bundle": "USD 7.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -172453,9 +172473,29 @@
       "Lumberjack Carriage": "USD 1.99",
       "Oil Baron carriage": "USD 1.99",
       "Dolomite Dynamite": "USD 1.99",
-      "Ticket to Ride Sale Offer": "USD 27.99"
+      "Ticket to Ride Sale Offer": "USD 27.99",
+      "The Spooktacular Halloween Bundle": "USD 7.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786991874784,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Spooktacular Halloween Bundle": "USD 7.99",
+            "Ticket to Ride Sale Offer": "USD 27.99",
+            "Welcome Offer": "USD 28.99",
+            "Poland Character Bundle": "USD 2.99",
+            "Kujawiak": "USD 1.99",
+            "Polonaise": "USD 1.99",
+            "The Copernicus": "USD 1.99",
+            "Orbiting Greatness": "USD 1.99",
+            "Regina Kamińska": "USD 1.99",
+            "Kacper Pawlak": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785881474416,
@@ -188405,12 +188445,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Raider Mk. 2": "USD 5.99",
+      "Raider Mk. 2": "USD 4.19",
       "Raider Mk. 3": "USD 6.99",
       "Raider Mk. 1": "USD 0.99",
-      "Raider Weekly": "USD 1.99"
+      "Raider Weekly": "USD 1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786991874784,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 2": "USD 4.19",
+            "Raider Mk. 3": "USD 6.99",
+            "Raider Mk. 1": "USD 0.99",
+            "Raider Weekly": "USD 1.39"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786915137049,
@@ -198269,7 +198322,7 @@
   },
   "6762582312": {
     "trackId": 6762582312,
-    "trackName": "破軍：三國 - RTS策略手遊",
+    "trackName": "破軍：三國 - RTS+MOBA策略手遊",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,

@@ -2,6 +2,40 @@
   {
     "trackId": 6755290585,
     "region": "cn",
+    "timestamp": 1786991874784,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 1",
+        "from": "¥38.00",
+        "to": "¥22.00",
+        "range": "[¥8.00 ~ ¥38.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 2",
+        "from": "¥38.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥128.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Weekly",
+        "from": "¥15.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥15.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6755290585",
+    "trackName": "Raiders Map",
+    "firstRecordedAt": 1763517683797
+  },
+  {
+    "trackId": 6755290585,
+    "region": "cn",
     "timestamp": 1786915137049,
     "discounts": [
       {
@@ -9212,7 +9246,7 @@
         "name": "Raider Mk. 2",
         "from": "¥58.00",
         "to": "¥38.00",
-        "range": "[¥38.00 ~ ¥128.00]"
+        "range": "[¥28.00 ~ ¥128.00]"
       }
     ],
     "price": 0,
@@ -9373,7 +9407,7 @@
         "name": "Raider Mk. 2",
         "from": "¥128.00",
         "to": "¥58.00",
-        "range": "[¥38.00 ~ ¥128.00]"
+        "range": "[¥28.00 ~ ¥128.00]"
       },
       {
         "type": "inAppPurchase",
@@ -9715,7 +9749,7 @@
         "name": "Raider Mk. 2",
         "from": "¥128.00",
         "to": "¥58.00",
-        "range": "[¥38.00 ~ ¥128.00]"
+        "range": "[¥28.00 ~ ¥128.00]"
       },
       {
         "type": "inAppPurchase",
@@ -12992,7 +13026,7 @@
         "name": "Raider Mk. 2",
         "from": "¥88.00",
         "to": "¥58.00",
-        "range": "[¥38.00 ~ ¥128.00]"
+        "range": "[¥28.00 ~ ¥128.00]"
       }
     ],
     "price": 0,

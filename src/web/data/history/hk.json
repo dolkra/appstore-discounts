@@ -25335,6 +25335,25 @@
     "history": [
       [
         {
+          "timestamp": 1786991874784,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "PowerLevel_5up": "HK$ 32.00",
+            "AllLevel_5up": "HK$ 88.00",
+            "PowerLevel_1Up": "HK$ 8.00",
+            "ContactLevel_5up": "HK$ 32.00",
+            "ContactLevel_1up": "HK$ 8.00",
+            "AllLevel_1up": "HK$ 22.00",
+            "EyeLevel_5up": "HK$ 32.00",
+            "EyeLevel_1up": "HK$ 8.00",
+            "GOLD BAT": "HK$ 118.00",
+            "Called Shot 50": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784352341835,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -76723,6 +76742,25 @@
       "涨停助手年版": "HK$ 1,188.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786991874784,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "问财专业版连续包月": "HK$ 188.00",
+            "问财进阶版连续包月": "HK$ 88.00",
+            "598花币": "HK$ 688.00",
+            "299花币": "HK$ 288.00",
+            "早盘选股宝连续包月": "HK$ 288.00",
+            "机构探测器连续包月": "HK$ 133.00",
+            "金牛情报连续包月": "HK$ 83.00",
+            "分时顶底连续包季": "HK$ 148.00",
+            "波段雷达连续包季": "HK$ 333.00",
+            "主力密码连续包月": "HK$ 138.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786785908853,
@@ -273723,12 +273761,25 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "Raider Mk. 2": "HK$ 48.00",
+      "Raider Mk. 2": "HK$ 32.00",
       "Raider Mk. 3": "HK$ 58.00",
       "Raider Mk. 1": "HK$ 8.00",
-      "Raider Weekly": "HK$ 18.00"
+      "Raider Weekly": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786991874784,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 1": "HK$ 28.00",
+            "Raider Mk. 2": "HK$ 32.00",
+            "Raider Mk. 3": "HK$ 58.00",
+            "Raider Weekly": "HK$ 12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786915137049,
@@ -284244,7 +284295,7 @@
   },
   "6762582312": {
     "trackId": 6762582312,
-    "trackName": "破軍：三國 - RTS策略手遊",
+    "trackName": "破軍：三國 - RTS+MOBA策略手遊",
     "region": "hk",
     "maxPriceInfo": {
       "price": 38,

@@ -27489,6 +27489,25 @@
     "history": [
       [
         {
+          "timestamp": 1786991874784,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "PowerLevel_5up": "₺199,99",
+            "AllLevel_5up": "₺499,99",
+            "PowerLevel_1Up": "₺49,99",
+            "ContactLevel_5up": "₺199,99",
+            "EyeLevel_5up": "₺199,99",
+            "ContactLevel_1up": "₺49,99",
+            "AllLevel_1up": "₺149,99",
+            "EyeLevel_1up": "₺49,99",
+            "GOLD BAT": "₺799,99",
+            "Called Shot 50": "₺499,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784411449494,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -273738,13 +273757,21 @@
       "20 fuel to storage": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99",
+      "price": 29.99,
+      "formattedPrice": "₺29,99",
       "+200 fuel to storage": "₺249,99",
       "+75 fuel to storage": "₺149,99",
       "20 fuel to storage": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786991874784,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786025220529,

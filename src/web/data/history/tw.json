@@ -24519,6 +24519,25 @@
     "history": [
       [
         {
+          "timestamp": 1786991874784,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "PowerLevel_5up": "$120.00",
+            "PowerLevel_1Up": "$30.00",
+            "AllLevel_5up": "$320.00",
+            "ContactLevel_5up": "$120.00",
+            "ContactLevel_1up": "$30.00",
+            "AllLevel_1up": "$90.00",
+            "EyeLevel_5up": "$120.00",
+            "EyeLevel_1up": "$30.00",
+            "GOLD BAT": "$490.00",
+            "Called Shot 50": "$320.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784352341835,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -237032,6 +237051,25 @@
     "history": [
       [
         {
+          "timestamp": 1786991874784,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "水畔": "$30.00",
+            "夜色微醺": "$30.00",
+            "星降之夜": "$30.00",
+            "萬聖派對": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "新年日出": "$30.00",
+            "紅葉漫步": "$30.00",
+            "花火大會": "$30.00",
+            "夏威夷海灘": "$20.00",
+            "夏日庭院": "$20.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786938586892,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -255562,6 +255600,25 @@
       "Airbus A321 XLR": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786991874784,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Airbus A380": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 777-300ER": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737-800": "$90.00",
+            "Airbus A321": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786949612773,
@@ -284288,11 +284345,24 @@
       "price": 0,
       "formattedPrice": "免費",
       "Raider Mk. 3": "$220.00",
-      "Raider Mk. 2": "$190.00",
+      "Raider Mk. 2": "$150.00",
       "Raider Mk. 1": "$30.00",
-      "Raider Weekly": "$60.00"
+      "Raider Weekly": "$50.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1786991874784,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Raider Mk. 2": "$150.00",
+            "Raider Mk. 3": "$220.00",
+            "Raider Mk. 1": "$30.00",
+            "Raider Weekly": "$50.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786915137049,
@@ -294069,6 +294139,14 @@
     "history": [
       [
         {
+          "timestamp": 1786991874784,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784304900498,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -295062,7 +295140,7 @@
   },
   "6762582312": {
     "trackId": 6762582312,
-    "trackName": "破軍：三國 - RTS策略手遊",
+    "trackName": "破軍：三國 - RTS+MOBA策略手遊",
     "region": "tw",
     "maxPriceInfo": {
       "price": 150,

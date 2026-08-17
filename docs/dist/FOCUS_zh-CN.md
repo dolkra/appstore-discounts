@@ -88,7 +88,7 @@
 |2127|6756307024|自动|❌|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: Roguelike Tycoon|The Company: Roguelike Tycoon|The Company: Gestão Roguelike|
 |2126|607648590|自动|❌|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|
 |2125|6775108560|自动|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|
-|2124|6762582312|自动|❌|破軍：三國 - RTS策略手遊|破軍：三國 - RTS策略手遊|破軍：三國 - RTS策略手遊|Po Jun: Three Kingdoms - RTS|Po Jun: Three Kingdoms - RTS|❌|
+|2124|6762582312|自动|❌|破軍：三國 - RTS+MOBA策略手遊|破軍：三國 - RTS+MOBA策略手遊|破軍：三國 - RTS+MOBA策略手遊|Po Jun: Three Kingdoms - RTS|Po Jun: Three Kingdoms - RTS|❌|
 |2123|6785585993|自动|❌|Emlakçı|Emlakçı|Emlakçı|Emlakçı|Emlakçı|Emlakçı|
 |2122|1011806461|自动|❌|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|
 |2121|1576368371|自动|❌|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|

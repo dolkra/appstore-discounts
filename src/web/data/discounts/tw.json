@@ -2,6 +2,33 @@
   {
     "trackId": 6755290585,
     "region": "tw",
+    "timestamp": 1786991874784,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 2",
+        "from": "$190.00",
+        "to": "$150.00",
+        "range": "[$150.00 ~ $390.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Weekly",
+        "from": "$60.00",
+        "to": "$50.00",
+        "range": "[$50.00 ~ $60.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6755290585",
+    "trackName": "Raiders Map",
+    "firstRecordedAt": 1763517683797
+  },
+  {
+    "trackId": 6755290585,
+    "region": "tw",
     "timestamp": 1786915137049,
     "discounts": [
       {
@@ -16621,7 +16648,7 @@
         "name": "Raider Mk. 2",
         "from": "$290.00",
         "to": "$190.00",
-        "range": "[$190.00 ~ $390.00]"
+        "range": "[$150.00 ~ $390.00]"
       }
     ],
     "price": 0,
@@ -24035,7 +24062,7 @@
         "name": "Raider Mk. 2",
         "from": "$390.00",
         "to": "$290.00",
-        "range": "[$190.00 ~ $390.00]"
+        "range": "[$150.00 ~ $390.00]"
       }
     ],
     "price": 0,

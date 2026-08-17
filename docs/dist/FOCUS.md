@@ -88,7 +88,7 @@ So far, we've covered `7` `Countries or Regions` and  `2205` `Apps` <br />Push n
 |2127|6756307024|Automatic|❌|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: Roguelike Tycoon|The Company: Roguelike Tycoon|The Company: Gestão Roguelike|
 |2126|607648590|Automatic|❌|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|
 |2125|6775108560|Automatic|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|消防處投考全攻略|
-|2124|6762582312|Automatic|❌|破軍：三國 - RTS策略手遊|破軍：三國 - RTS策略手遊|破軍：三國 - RTS策略手遊|Po Jun: Three Kingdoms - RTS|Po Jun: Three Kingdoms - RTS|❌|
+|2124|6762582312|Automatic|❌|破軍：三國 - RTS+MOBA策略手遊|破軍：三國 - RTS+MOBA策略手遊|破軍：三國 - RTS+MOBA策略手遊|Po Jun: Three Kingdoms - RTS|Po Jun: Three Kingdoms - RTS|❌|
 |2123|6785585993|Automatic|❌|Emlakçı|Emlakçı|Emlakçı|Emlakçı|Emlakçı|Emlakçı|
 |2122|1011806461|Automatic|❌|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星戀愛】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|【明星恋爱】偶像之路TIME TO STAR|
 |2121|1576368371|Automatic|❌|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|FOOTSIES Rollback Edition|
