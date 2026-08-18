@@ -31067,6 +31067,23 @@
     "history": [
       [
         {
+          "timestamp": 1787024592016,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "PowerLevel_5up": "$3.99",
+            "AllLevel_5up": "$9.99",
+            "ContactLevel_5up": "$3.99",
+            "PowerLevel_1Up": "$0.99",
+            "ContactLevel_1up": "$0.99",
+            "EyeLevel_5up": "$3.99",
+            "AllLevel_1up": "$2.99",
+            "GOLD BAT": "$14.99",
+            "Called Shot 4": "$0.99",
+            "EyeLevel_1up": "$0.99"
+          }
+        },
+        {
           "timestamp": 1786991874784,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -134755,7 +134772,8 @@
       "SF2SEPack120": "$119.99",
       "SF2SEPack100": "$99.99",
       "SF2SEPack90": "$89.99",
-      "SF2SEPack20": "$19.99"
+      "SF2SEPack20": "$19.99",
+      "SF2SEPack5": "$4.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -134786,9 +134804,29 @@
       "SF2SEPack120": "$119.99",
       "SF2SEPack100": "$99.99",
       "SF2SEPack90": "$89.99",
-      "SF2SEPack20": "$19.99"
+      "SF2SEPack20": "$19.99",
+      "SF2SEPack5": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787024592016,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "Chest of Coins": "$19.99",
+            "Chest of Gems": "$49.99",
+            "SF2SEPack3": "$2.99",
+            "SF2SEPack10": "$9.99",
+            "SF2SEPack5": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786828797992,
@@ -136522,6 +136560,25 @@
       "Kizuna AI Extend 2026": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787024592016,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Miku": "$9.99",
+            "CAPSO": "$9.99",
+            "ConneR": "$9.99",
+            "Xenon": "$9.99",
+            "9 Characters": "$34.99",
+            "Cherry": "$9.99",
+            "Kizuna AI": "$9.99",
+            "Nora": "$9.99",
+            "Neko": "$9.99",
+            "Marvelous Mix vol. 1": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786596608395,
@@ -321464,9 +321521,22 @@
       "Raider Mk. 3": "$9.99",
       "Raider Mk. 2": "$5.99",
       "Raider Mk. 1": "$0.99",
-      "Raider Weekly": "$1.99"
+      "Raider Weekly": "$1.39"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787024592016,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Raider Mk. 1": "$3.49",
+            "Raider Mk. 3": "$20.99",
+            "Raider Weekly": "$1.39",
+            "Raider Mk. 2": "$12.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786915137049,
@@ -330861,6 +330931,24 @@
       "普通": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787024592016,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "黄金会员月度": "$1.99",
+            "黄金会员月": "$1.99",
+            "普通会员买断": "$22.99",
+            "黄金会员买断": "$39.99",
+            "黄金年会员": "$29.99",
+            "黄金月会员": "$3.99",
+            "基础月会员": "$0.99",
+            "黄金会员": "$3.99",
+            "普通": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786499534255,
