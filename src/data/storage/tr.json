@@ -231883,6 +231883,23 @@
     "history": [
       [
         {
+          "timestamp": 1787045539992,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Concorde": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 737-800": "₺149,99",
+            "EC135": "₺49,99",
+            "The Aircraft Bundle": "₺1.299,99"
+          }
+        },
+        {
           "timestamp": 1787035263700,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -248106,6 +248123,19 @@
       "Buy me a coffee": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787045539992,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Buy me a few coffees": "₺399,99",
+            "Buy me couple coffees": "₺199,99",
+            "I adore the game": "₺699,99",
+            "Buy me a coffee": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784930640340,
