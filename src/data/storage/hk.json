@@ -18225,6 +18225,23 @@
     "history": [
       [
         {
+          "timestamp": 1787088190881,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "HK$ 32.00",
+            "Predictive Report - Full": "HK$ 32.00",
+            "Relationship Report": "HK$ 32.00",
+            "Astrolocality Maps": "HK$ 188.00",
+            "7-day Trial Astrolocality": "HK$ 0.00",
+            "Gold Level Free Trial": "HK$ 0.00",
+            "Birthday Report": "HK$ 32.00",
+            "Predictive Report - No Background": "HK$ 22.00",
+            "Gold Level lifetime": "HK$ 588.00",
+            "Child Report - Full": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1787078197937,
           "price": 0,
           "formattedPrice": "免費",
@@ -85046,7 +85063,8 @@
       "擴充章節N": "HK$ 32.00",
       "限時挑戰書 Fallen Resonance": "HK$ 22.00",
       "調律計畫：PinocchioP 精選輯": "HK$ 32.00",
-      "調律計畫：散落回聲1": "HK$ 32.00"
+      "調律計畫：散落回聲1": "HK$ 32.00",
+      "十週年紀念章節：重逢之音 Phase I": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -85091,10 +85109,28 @@
       "擴充章節N": "HK$ 32.00",
       "限時挑戰書 Fallen Resonance": "HK$ 22.00",
       "調律計畫：PinocchioP 精選輯": "HK$ 32.00",
-      "調律計畫：散落回聲1": "HK$ 32.00"
+      "調律計畫：散落回聲1": "HK$ 32.00",
+      "十週年紀念章節：重逢之音 Phase I": "HK$ 38.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1787088190881,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "白金方案（每月續訂）": "HK$ 48.00",
+            "白金方案（每三個月續訂）": "HK$ 118.00",
+            "擴充章節 U": "HK$ 32.00",
+            "十週年紀念章節：重逢之音 Phase I": "HK$ 38.00",
+            "支線第一章": "HK$ 32.00",
+            "擴充章節H": "HK$ 32.00",
+            "擴充章節B": "HK$ 32.00",
+            "擴充章節 I": "HK$ 32.00",
+            "擴充章節 R": "HK$ 32.00",
+            "一瓶迴響之核": "HK$ 40.00"
+          }
+        },
         {
           "timestamp": 1787078197937,
           "price": 18,
@@ -98848,6 +98884,27 @@
           "timestamp": 1783806554521,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1115415865": {
+    "name": "摩天大樓 - Tinybop出品",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787088190881,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
         }
       ]

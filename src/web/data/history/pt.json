@@ -10421,6 +10421,25 @@
     "history": [
       [
         {
+          "timestamp": 1787088190881,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Chill-Lo-Fi Mobile": "1,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Voices": "0,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Synth Lead": "1,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Sliced Beats": "0,99 €",
+            "Synth Plucks": "1,99 €",
+            "PsyTrance": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786596608395,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -11851,6 +11870,14 @@
       "formattedPrice": "14,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787088190881,
+          "price": 14.99,
+          "formattedPrice": "14,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785449095856,
@@ -47071,6 +47098,29 @@
           "timestamp": 1783806554521,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1115415865": {
+    "trackId": 1115415865,
+    "trackName": "Arranha-céus por Tinybop",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787088190881,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
