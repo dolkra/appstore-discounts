@@ -27099,6 +27099,23 @@
     "history": [
       [
         {
+          "timestamp": 1787078197937,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "PowerLevel_5up": "₺199,99",
+            "AllLevel_5up": "₺499,99",
+            "PowerLevel_1Up": "₺49,99",
+            "ContactLevel_5up": "₺199,99",
+            "EyeLevel_5up": "₺199,99",
+            "ContactLevel_1up": "₺49,99",
+            "AllLevel_1up": "₺149,99",
+            "EyeLevel_1up": "₺49,99",
+            "GOLD BAT": "₺799,99",
+            "Called Shot 50": "₺499,99"
+          }
+        },
+        {
           "timestamp": 1787024592016,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -46282,7 +46299,8 @@
       "Mission 35 Demo": "₺49,99",
       "Mission 34 Skip": "₺99,99",
       "Mission 34 Gold": "₺149,99",
-      "Mission 06 Skip": "₺49,99"
+      "Mission 06 Skip": "₺49,99",
+      "Mission 04 Skip": "₺49,99"
     },
     "minPriceInfo": {
       "price": 99.99,
@@ -46307,9 +46325,29 @@
       "Mission 35 Demo": "₺39,99",
       "Mission 34 Skip": "₺99,99",
       "Mission 34 Gold": "₺129,99",
-      "Mission 06 Skip": "₺39,99"
+      "Mission 06 Skip": "₺39,99",
+      "Mission 04 Skip": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787078197937,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Sandbox Unlock Standard Parts": "₺399,99",
+            "Mission 04 Skip": "₺49,99",
+            "Sandbox Unlock All Parts": "₺399,99",
+            "Nooleus X Parts Pack": "₺199,99",
+            "Mission 12 Skip": "₺49,99",
+            "Mission Free Unlock-All": "₺249,99",
+            "Mission 15 Skip": "₺49,99",
+            "1000 Quick Launches": "₺199,99",
+            "50 Quick Launches": "₺99,99",
+            "Mission 16 Skip": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782935693344,
