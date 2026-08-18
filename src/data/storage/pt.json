@@ -25476,14 +25476,22 @@
   "583922375": {
     "name": "myLightMeter PRO",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €"
+      "price": 4.99,
+      "formattedPrice": "4,99 €"
     },
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787056977965,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -104063,6 +104071,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787056977965,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Global scenery - 3 months": "8,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 737-900": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Airbus A321 XLR": "3,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Airbus A350-1000": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786991874784,
