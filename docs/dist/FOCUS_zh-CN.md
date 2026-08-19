@@ -165,7 +165,7 @@
 |2054|6777231093|自动|❌|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|Patrol Officer|
 |2053|1464501334|自动|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|24 Hours of Le Mans|
 |2052|1529092958|自动|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|Awesomatix Toolbox|
-|2051|6760948683|自动|❌|Digline：療癒挖礦|Digline：療癒挖礦|Digline：療癒挖礦|Digline: Cozy Mining|Digline: Cozy Mining|Digline: Mineração Relaxante|
+|2051|6760948683|自动|❌|Digline：療癒挖礦|Digline：療癒挖礦|Digline：療癒挖礦|Digline: Cozy Mining|Digline: Cosy Mining|Digline: Mineração Relaxante|
 |2050|6754315964|自动|Plezy: Media Server Client|Plezy: Media Server Client|Plezy: Media Server Client|Plezy: Media Server Client|Plezy: Media Server Client|Plezy: Media Server Client|Plezy: Media Server Client|
 |2049|6759248276|自动|SIMHub|esimSubscription|esimSubscription|esimSubscription|esimSubscription|esimSubscription|SIMHub|
 |2048|6777329542|自动|❌|强势股雷达学院|强势股雷达学院|强势股雷达学院|Stock Radar Academy|Stock Radar Academy|强势股雷达学院|
