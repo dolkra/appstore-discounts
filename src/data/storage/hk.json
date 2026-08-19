@@ -4255,6 +4255,25 @@
     "history": [
       [
         {
+          "timestamp": 1787174648454,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Max Subwoofer SPL": "HK$ 228.00",
+            "LUFS Meter": "HK$ 88.00",
+            "HAA CinemaTools with HAA Link": "HK$ 1,188.00",
+            "HAA Link": "HK$ 88.00",
+            "HAA Pro Module": "HK$ 148.00",
+            "SPL Enhance": "HK$ 288.00",
+            "All-In Module Access": "HK$ 88.00",
+            "HAA Upgrade to Pro": "HK$ 2,888.00",
+            "HAA Pro Installer Calibration": "HK$ 3,888.00",
+            "HAA Home Theater": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786915137049,
           "price": 148,
           "formattedPrice": "HK$ 148.00",
@@ -282274,6 +282293,27 @@
           "timestamp": 1787164435633,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6795388510": {
+    "name": "90s Internet Cafe",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787174648454,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
         }
       ]
