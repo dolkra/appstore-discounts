@@ -262034,6 +262034,23 @@
     "history": [
       [
         {
+          "timestamp": 1787164435633,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 gold": "₺19,99",
+            "5 ticket": "₺19,99",
+            "15 gold": "₺29,99",
+            "15 ticket": "₺29,99",
+            "20 ticket": "₺39,99",
+            "25 gold": "₺49,99",
+            "30000 money": "₺19,99",
+            "30 ticket": "₺49,99",
+            "10 ticket": "₺29,99"
+          }
+        },
+        {
           "timestamp": 1787088190881,
           "price": 0,
           "formattedPrice": "Free",
@@ -272749,6 +272766,27 @@
           "timestamp": 1787131983558,
           "price": 199.99,
           "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758857094": {
+    "name": "The Girl in the Window",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787164435633,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]

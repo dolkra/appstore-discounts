@@ -21622,6 +21622,23 @@
     "history": [
       [
         {
+          "timestamp": 1787164435633,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Shooting Stars - Bubble Bust World 2": "$0.99",
+            "Struck by Lightning - Bubble Bust World 3": "$1.99",
+            "Pack of 15 Bumpers": "$1.99",
+            "World 2 - Level Pack 2": "$0.99",
+            "Pack of 30 Fireballs": "$1.99",
+            "Pack of 5 Bumpers": "$0.99",
+            "Pack of 10 Fireballs": "$0.99",
+            "MEGA Bubble Popper Pack": "$7.99",
+            "World 3 - Level Pack 2": "$0.99",
+            "Pack of 500 Tokens": "$0.99"
+          }
+        },
+        {
           "timestamp": 1787153393547,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -330790,7 +330807,8 @@
       "Essence of Beginning": "$19.99",
       "Beginning of the Abyss": "$9.99",
       "Underworld Pass 1": "$2.99",
-      "Neo Behemoth": "$1.99"
+      "Neo Behemoth": "$1.99",
+      "Memory of Training": "$17.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -330806,10 +330824,28 @@
       "Essence of Beginning": "$19.99",
       "Beginning of the Abyss": "$9.99",
       "Underworld Pass 1": "$2.99",
-      "Neo Behemoth": "$1.99"
+      "Neo Behemoth": "$1.99",
+      "Memory of Training": "$17.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1787164435633,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Neo Behemoth": "$1.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Moonveil Skin Set": "$9.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Essence of Transcendence": "$29.99",
+            "Memory of Training": "$17.99",
+            "Time Traveler": "$5.99",
+            "Ark of Eternity": "$29.99",
+            "Underworld Pass 1": "$2.99",
+            "Beginning of Growth": "$9.99"
+          }
+        },
         {
           "timestamp": 1787131983558,
           "price": 5.99,
@@ -336152,6 +336188,29 @@
           "timestamp": 1787131983558,
           "price": 3.99,
           "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6758857094": {
+    "trackId": 6758857094,
+    "trackName": "The Girl in the Window",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787164435633,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]
