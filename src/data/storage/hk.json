@@ -27058,6 +27058,19 @@
     "history": [
       [
         {
+          "timestamp": 1787131983558,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Unlimited OCR/Writing 3 Months": "HK$ 73.00",
+            "Unlimited OCR/Writing 1 Month": "HK$ 28.00",
+            "400次AI識別與查詢": "HK$ 8.00",
+            "900次AI識別與查詢": "HK$ 18.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786929139377,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -245169,6 +245182,14 @@
     "history": [
       [
         {
+          "timestamp": 1787131983558,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778233563611,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -282013,6 +282034,27 @@
           "timestamp": 1787121698880,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762803589": {
+    "name": "Slots & Daggers",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787131983558,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
           "inAppPurchases": {}
         }
       ]

@@ -8020,6 +8020,23 @@
     "history": [
       [
         {
+          "timestamp": 1787131983558,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "forScore Pro": "USD 14.99",
+            "Brahms: The Mutopia Collection": "USD 0.00",
+            "Liszt: The Mutopia Collection": "USD 0.00",
+            "Tchaikovsky: The Mutopia Collection": "USD 0.00",
+            "Satie: The Mutopia Collection": "USD 0.00",
+            "Haydn: The Mutopia Collection": "USD 0.00",
+            "Schumann: The Mutopia Collection": "USD 0.00",
+            "Burgmüller: The Mutopia Collection": "USD 0.00",
+            "Sousa: The Mutopia Collection": "USD 0.00",
+            "Schubert: The Mutopia Collection": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1787121698880,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
@@ -20347,6 +20364,19 @@
       "400次AI識別與查詢": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787131983558,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Unlimited OCR/Writing 3 Months": "USD 8.99",
+            "Unlimited OCR/Writing 1 Month": "USD 3.49",
+            "900次AI識別與查詢": "USD 1.99",
+            "400次AI識別與查詢": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786929139377,
@@ -65461,6 +65491,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787131983558,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "1 Gem": "USD 0.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "48 Gems": "USD 28.99",
+            "150 Gems": "USD 79.99",
+            "28 Gems": "USD 14.99",
+            "74 Gems": "USD 40.99"
+          }
+        },
         {
           "timestamp": 1787121698880,
           "price": 0.99,
@@ -174142,6 +174186,14 @@
     "history": [
       [
         {
+          "timestamp": 1787131983558,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778233563611,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -200150,6 +200202,29 @@
           "timestamp": 1787121698880,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762803589": {
+    "trackId": 6762803589,
+    "trackName": "Slots & Daggers",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787131983558,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]

@@ -13173,6 +13173,19 @@
     "history": [
       [
         {
+          "timestamp": 1787131983558,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Unlimited OCR/Writing 3 Months": "9,99 €",
+            "Unlimited OCR/Writing 1 Month": "3,99 €",
+            "900 Reconhecimentos, Consultas": "1,99 €",
+            "400 Reconhecimentos, Consultas": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786929139377,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -109163,6 +109176,14 @@
     "history": [
       [
         {
+          "timestamp": 1787131983558,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1778233563611,
           "price": 15.99,
           "formattedPrice": "15,99 €",
@@ -129203,6 +129224,27 @@
           "timestamp": 1787121698880,
           "price": 2.99,
           "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762803589": {
+    "name": "Slots & Daggers",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787131983558,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
           "inAppPurchases": {}
         }
       ]
