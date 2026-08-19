@@ -2117,7 +2117,7 @@
 |99|1455055663|手动|皮皮虾专业版|❌|❌|❌|❌|❌|❌|
 |98|1595901138|手动|NES 模拟器 - 吞食天地|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|
 |97|1163515895|手动|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账本Pro-管家理财必备工具|鲨鱼记账Pro-3秒钟快速记账|
-|96|754105884|手动|NightCap相机|NightCap相機|NightCap相機|NightCap相機|NightCap Camera|NightCap Camera|NightCap Câmera|
+|96|754105884|手动|NightCap 相机：长曝光|NightCap 相機：長曝光大師|NightCap 相機：長曝光大師|NightCap 相機：長曝光大師|NightCap Camera: Long Exposure|NightCap Camera: Long Exposure|Câmera NightCap|
 |95|1642364007|手动|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|海拔指南针-经纬度水印相机|Altitude Compass|Altitude Compass|海拔指南针-经纬度水印相机|
 |94|1522215205|手动|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|拒之-骚扰电话批量拦截助手|
 |93|1484181693|手动|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|截图超人 - 微商专用的营销助手截图神器|

@@ -28877,6 +28877,14 @@
     "history": [
       [
         {
+          "timestamp": 1787101864398,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785465944906,
           "price": 16.99,
           "formattedPrice": "$16.99",
@@ -71222,7 +71230,7 @@
   },
   "754105884": {
     "trackId": 754105884,
-    "trackName": "NightCap Camera",
+    "trackName": "NightCap Camera: Long Exposure",
     "region": "us",
     "maxPriceInfo": {
       "price": 2.99,
@@ -237036,6 +237044,25 @@
       "Unit Group Planterras": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787101864398,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Unit Groups": "$12.99",
+            "All Heroes": "$14.99",
+            "Hero Dragon Kosmos": "$6.99",
+            "Unit Group Jaegers": "$6.99",
+            "Unit Group Rebooted Ascendii": "$2.99",
+            "Hero Red Dragon": "$5.99",
+            "Starter Pack": "$4.99",
+            "Hero Red Dragon On Sale": "$3.99",
+            "Hero Zhara": "$4.99",
+            "Unit Group Ascendii On Sale": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786852048726,
