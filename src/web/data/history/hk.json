@@ -25414,6 +25414,23 @@
     "history": [
       [
         {
+          "timestamp": 1787111112140,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "PowerLevel_5up": "HK$ 32.00",
+            "AllLevel_5up": "HK$ 88.00",
+            "PowerLevel_1Up": "HK$ 8.00",
+            "ContactLevel_5up": "HK$ 32.00",
+            "ContactLevel_1up": "HK$ 8.00",
+            "AllLevel_1up": "HK$ 22.00",
+            "EyeLevel_5up": "HK$ 32.00",
+            "EyeLevel_1up": "HK$ 8.00",
+            "GOLD BAT": "HK$ 118.00",
+            "Called Shot 50": "HK$ 88.00"
+          }
+        },
+        {
           "timestamp": 1787078197937,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -286078,6 +286095,29 @@
           "inAppPurchases": {
             "Special Advisor Pack": "HK$ 18.00"
           }
+        }
+      ]
+    ]
+  },
+  "6757541297": {
+    "trackId": 6757541297,
+    "trackName": "Sally Face",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787111112140,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
         }
       ]
     ]
