@@ -7848,6 +7848,25 @@
     "history": [
       [
         {
+          "timestamp": 1787121698880,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {
+            "forScore Pro + 家人共享": "USD 24.99",
+            "forScore Pro 30-Day Pass": "USD 2.99",
+            "Haydn: String Quartets": "USD 1.99",
+            "Christmas Carol Collection": "USD 1.99",
+            "Bach: Cello Suites": "USD 1.99",
+            "Vivaldi: The Four Seasons": "USD 1.99",
+            "Mozart: Twelve Duets": "USD 1.99",
+            "The Mutopia Piano Collection": "USD 4.99",
+            "forScore Pro": "USD 14.99",
+            "Voluntary Upgrade": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785896869249,
           "price": 24.99,
           "formattedPrice": "USD 24.99",
@@ -18813,6 +18832,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787121698880,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "PowerLevel_5up": "USD 3.99",
+            "Called Shot 50": "USD 9.99",
+            "Called Shot 4": "USD 0.99",
+            "GOLD BAT": "USD 14.99",
+            "AllLevel_5up": "USD 9.99",
+            "AllLevel_1up": "USD 2.99",
+            "EyeLevel_5up": "USD 3.99",
+            "EyeLevel_1up": "USD 0.99",
+            "ContactLevel_5up": "USD 3.99",
+            "ContactLevel_1up": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1787111112140,
           "price": 0.39,
@@ -64314,6 +64350,23 @@
       "119 Gems": "USD 59.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787121698880,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "150 Gems": "USD 79.99",
+            "74 Gems": "USD 40.99",
+            "119 Gems": "USD 59.99",
+            "48 Gems": "USD 28.99",
+            "28 Gems": "USD 14.99",
+            "13 Gems": "USD 7.99",
+            "6 Gems": "USD 3.99",
+            "1 Gem": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786214168760,
@@ -191582,7 +191635,8 @@
       "成長之始": "USD 9.99",
       "隱月造型套裝": "USD 9.99",
       "魔界通行證1": "USD 2.99",
-      "尼奧貝希摩斯": "USD 1.99"
+      "尼奧貝希摩斯": "USD 1.99",
+      "訓練記憶": "USD 17.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -191598,10 +191652,28 @@
       "成長之始": "USD 9.99",
       "隱月造型套裝": "USD 5.99",
       "魔界通行證1": "USD 2.99",
-      "尼奧貝希摩斯": "USD 1.99"
+      "尼奧貝希摩斯": "USD 1.99",
+      "訓練記憶": "USD 17.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1787121698880,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "深淵開拓者": "USD 9.99",
+            "超越精華": "USD 29.99",
+            "魔界擴充通行證": "USD 5.99",
+            "魔界通行證1": "USD 2.99",
+            "時間旅行者": "USD 5.99",
+            "隱月造型套裝": "USD 9.99",
+            "訓練記憶": "USD 17.99",
+            "尼奧貝希摩斯": "USD 1.99",
+            "永恆方舟": "USD 29.99",
+            "深淵精華": "USD 19.99"
+          }
+        },
         {
           "timestamp": 1787111112140,
           "price": 5.99,
@@ -195929,6 +196001,27 @@
           "timestamp": 1787111112140,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6762286865": {
+    "name": "Reigns: Beyond™",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787121698880,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
