@@ -1,5 +1,85 @@
 [
   {
+    "trackId": 385902072,
+    "region": "us",
+    "timestamp": 1787197548448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.49",
+        "range": "[$0.49 ~ $2.99]"
+      }
+    ],
+    "price": 0.49,
+    "formattedPrice": "$0.49",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id385902072",
+    "trackName": "Guns'n'Glory Premium",
+    "firstRecordedAt": 1779638471104
+  },
+  {
+    "trackId": 1074661768,
+    "region": "us",
+    "timestamp": 1787197548448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$11.99",
+        "to": "Free",
+        "range": "[Free ~ $12.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1074661768",
+    "trackName": "出行訣飛星萬年曆",
+    "firstRecordedAt": 1769951154203
+  },
+  {
+    "trackId": 1537060891,
+    "region": "us",
+    "timestamp": 1787197548448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$19.99",
+        "to": "$7.99",
+        "range": "[$7.99 ~ $19.99]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "$7.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1537060891",
+    "trackName": "Titan Quest: Legendary Edition",
+    "firstRecordedAt": 1765910485546
+  },
+  {
+    "trackId": 6761328517,
+    "region": "us",
+    "timestamp": 1787197548448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$2.99",
+        "range": "[$2.99 ~ $5.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6761328517",
+    "trackName": "Dungeon Within",
+    "firstRecordedAt": 1777123247350
+  },
+  {
     "trackId": 6479512734,
     "region": "us",
     "timestamp": 1787131983558,
@@ -263,7 +343,7 @@
         "name": "Price",
         "from": "$12.99",
         "to": "$11.99",
-        "range": "[$11.99 ~ $12.99]"
+        "range": "[Free ~ $12.99]"
       }
     ],
     "price": 11.99,

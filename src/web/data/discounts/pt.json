@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 966489322,
+    "region": "pt",
+    "timestamp": 1787197548448,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "生辰-季度会员",
+        "from": "14,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 14,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "永久会员",
+        "from": "17,99 €",
+        "to": "14,99 €",
+        "range": "[14,99 € ~ 17,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id966489322",
+    "trackName": "生辰 — 桌面时间小组件",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1074661768,
+    "region": "pt",
+    "timestamp": 1787197548448,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "12,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 14,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1074661768",
+    "trackName": "出行訣飛星萬年曆",
+    "firstRecordedAt": 1769951154203
+  },
+  {
     "trackId": 385902072,
     "region": "pt",
     "timestamp": 1787188251891,
@@ -236,7 +283,7 @@
         "name": "Price",
         "from": "14,99 €",
         "to": "12,99 €",
-        "range": "[12,99 € ~ 14,99 €]"
+        "range": "[Gratuito ~ 14,99 €]"
       }
     ],
     "price": 12.99,

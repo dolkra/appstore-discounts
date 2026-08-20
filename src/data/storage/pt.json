@@ -37749,13 +37749,27 @@
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "永久会员": "17,99 €",
+      "永久会员": "14,99 €",
       "生辰-年度会员": "14,99 €",
-      "生辰-季度会员": "14,99 €",
+      "生辰-季度会员": "2,99 €",
       "生辰年度会员": "9,99 €",
       "月度会员": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787197548448,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "生辰-季度会员": "2,99 €",
+            "月度会员": "1,99 €",
+            "生辰年度会员": "9,99 €",
+            "生辰-年度会员": "14,99 €",
+            "永久会员": "14,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -43417,13 +43431,25 @@
     "name": "出行訣飛星萬年曆",
     "maxPriceInfo": {
       "price": 14.99,
-      "formattedPrice": "14,99 €"
+      "formattedPrice": "14,99 €",
+      "無使用限期": "12,99 €"
     },
     "minPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "12,99 €"
+      "price": 0,
+      "formattedPrice": "Gratuito",
+      "無使用限期": "12,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787197548448,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "無使用限期": "12,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786938586892,
@@ -70175,6 +70201,25 @@
       "Diamondhoof Token": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787197548448,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Complete Collection": "39,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "Gorilla Token": "2,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121": "14,99 €",
+            "Diamondhoof Token": "9,99 €",
+            "Welcome Offer": "19,99 €",
+            "Promotion": "19,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787024592016,
