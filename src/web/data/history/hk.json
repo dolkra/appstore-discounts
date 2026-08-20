@@ -174223,6 +174223,29 @@
       ]
     ]
   },
+  "1478882185": {
+    "trackId": 1478882185,
+    "trackName": "Forvo Travel",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1479608271": {
     "trackId": 1479608271,
     "trackName": "Arcadia - Watch Games",
@@ -184700,11 +184723,11 @@
     "trackName": "Titan Quest: Legendary Edition",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 133,
-      "formattedPrice": "HK$ 133.00",
+      "price": 158,
+      "formattedPrice": "HK$ 158.00",
       "Ragnarök for free download": "HK$ 0.00",
       "Atlantis for free download": "HK$ 0.00",
-      "Eternal Embers DLC": "HK$ 36.00"
+      "Eternal Embers DLC": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 55,
@@ -184714,6 +184737,18 @@
       "Eternal Embers DLC": "HK$ 36.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 158,
+          "formattedPrice": "HK$ 158.00",
+          "inAppPurchases": {
+            "Ragnarök for free download": "HK$ 0.00",
+            "Atlantis for free download": "HK$ 0.00",
+            "Eternal Embers DLC": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787153393547,
@@ -184865,14 +184900,22 @@
     "trackName": "Neighbours back From Hell",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 36,
-      "formattedPrice": "HK$ 36.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787067055994,
@@ -226589,6 +226632,25 @@
       "劇本存檔": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "自創武將": "HK$ 22.00",
+            "群雄爭霸": "HK$ 22.00",
+            "戰國七雄": "HK$ 48.00",
+            "自創武將朝代特色兵種補丁": "HK$ 58.00",
+            "楚漢爭霸": "HK$ 48.00",
+            "無雙戰神": "HK$ 48.00",
+            "自創地圖": "HK$ 32.00",
+            "鎮海神威": "HK$ 22.00",
+            "重振漢室": "HK$ 22.00",
+            "巾幗綻芳華": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786596608395,

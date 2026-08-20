@@ -1953,6 +1953,23 @@
     "history": [
       [
         {
+          "timestamp": 1787218428552,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "1000 coins": "USD 0.99",
+            "10,000 coins": "USD 1.99",
+            "100,000 coins": "USD 3.99",
+            "15000 eggs": "USD 2.99",
+            "10000 candies": "USD 2.99",
+            "1000 candies": "USD 0.99",
+            "30,000 coins": "USD 2.99",
+            "Soccer coins": "USD 0.99",
+            "300,000 gold": "USD 2.99",
+            "100,000 gold": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1787208204073,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -127453,6 +127470,29 @@
       ]
     ]
   },
+  "1478882185": {
+    "trackId": 1478882185,
+    "trackName": "Forvo Travel",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1479608271": {
     "trackId": 1479608271,
     "trackName": "Arcadia - Watch Games",
@@ -136769,8 +136809,8 @@
     "trackName": "Titan Quest: Legendary Edition",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 15.99,
-      "formattedPrice": "USD 15.99",
+      "price": 17.99,
+      "formattedPrice": "USD 17.99",
       "Atlantis for free download": "USD 0.00",
       "Ragnarök for free download": "USD 0.00",
       "Eternal Embers DLC": "USD 3.99"
@@ -136783,6 +136823,18 @@
       "Eternal Embers DLC": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 17.99,
+          "formattedPrice": "USD 17.99",
+          "inAppPurchases": {
+            "Atlantis for free download": "USD 0.00",
+            "Ragnarök for free download": "USD 0.00",
+            "Eternal Embers DLC": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787153393547,
@@ -167113,6 +167165,25 @@
       "劇本存檔": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "終身版": "USD 6.99",
+            "自創武將": "USD 2.99",
+            "自創寶物": "USD 1.99",
+            "地圖存檔": "USD 1.99",
+            "劇本存檔": "USD 1.99",
+            "月下追魂": "USD 5.99",
+            "斜谷殘陽": "USD 5.99",
+            "冠絕天下": "USD 5.99",
+            "西涼悍將": "USD 5.99",
+            "江山美人": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784747877705,

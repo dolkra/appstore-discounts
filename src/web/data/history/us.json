@@ -190309,6 +190309,29 @@
       ]
     ]
   },
+  "1478882185": {
+    "trackId": 1478882185,
+    "trackName": "Forvo Travel",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1479608271": {
     "trackId": 1479608271,
     "trackName": "Arcadia - Watch Games",
@@ -203950,11 +203973,11 @@
     "trackName": "Titan Quest: Legendary Edition",
     "region": "us",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "$19.99",
+      "price": 21.99,
+      "formattedPrice": "$21.99",
       "Ragnarök for free download": "$0.00",
       "Atlantis for free download": "$0.00",
-      "Eternal Embers DLC": "$4.99"
+      "Eternal Embers DLC": "$5.99"
     },
     "minPriceInfo": {
       "price": 7.99,
@@ -203964,6 +203987,18 @@
       "Eternal Embers DLC": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 21.99,
+          "formattedPrice": "$21.99",
+          "inAppPurchases": {
+            "Ragnarök for free download": "$0.00",
+            "Atlantis for free download": "$0.00",
+            "Eternal Embers DLC": "$5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787197548448,
@@ -204115,14 +204150,22 @@
     "trackName": "Neighbours back From Hell",
     "region": "us",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 5.99,
+      "formattedPrice": "$5.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787111112140,
@@ -259612,6 +259655,25 @@
       "劇本存檔": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "戰國七雄": "$5.99",
+            "自創武將朝代服裝發飾素材補丁": "$3.99",
+            "楚漢爭霸": "$5.99",
+            "終身版": "$6.99",
+            "自創武將": "$2.99",
+            "自創地圖": "$3.99",
+            "群雄爭霸": "$2.99",
+            "自創寶物": "$1.99",
+            "自創武將朝代特色兵種補丁": "$7.99",
+            "江山美人": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787121698880,

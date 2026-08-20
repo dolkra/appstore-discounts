@@ -169940,6 +169940,27 @@
       ]
     ]
   },
+  "1478882185": {
+    "name": "Forvo Travel",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1479608271": {
     "name": "Arcadia - Watch Games",
     "maxPriceInfo": {
@@ -179280,11 +179301,11 @@
   "1537060891": {
     "name": "Titan Quest: Legendary Edition",
     "maxPriceInfo": {
-      "price": 119.99,
-      "formattedPrice": "₺119,99",
+      "price": 349.99,
+      "formattedPrice": "₺349,99",
       "Ragnarök for free download": "₺0,00",
       "Atlantis for free download": "₺0,00",
-      "Eternal Embers DLC": "₺19,99"
+      "Eternal Embers DLC": "₺89,99"
     },
     "minPriceInfo": {
       "price": 54.99,
@@ -179295,6 +179316,16 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787218428552,
+          "price": 349.99,
+          "formattedPrice": "₺349,99",
+          "inAppPurchases": {
+            "Eternal Embers DLC": "₺89,99",
+            "Ragnarök for free download": "₺0,00",
+            "Atlantis for free download": "₺0,00"
+          }
+        },
         {
           "timestamp": 1787188251891,
           "price": 54.99,
@@ -179443,14 +179474,22 @@
   "1537362903": {
     "name": "Neighbours back From Hell",
     "maxPriceInfo": {
-      "price": 29.99,
-      "formattedPrice": "₺29,99"
+      "price": 89.99,
+      "formattedPrice": "₺89,99"
     },
     "minPriceInfo": {
       "price": 5,
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 89.99,
+          "formattedPrice": "₺89,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787101864398,
@@ -219262,6 +219301,25 @@
       "劇本存檔": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787218428552,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "地圖存檔": "₺99,99",
+            "劇本存檔": "₺99,99",
+            "月下追魂": "₺299,99",
+            "斜谷殘陽": "₺299,99",
+            "自創寶物": "₺99,99",
+            "冠絕天下": "₺299,99",
+            "西涼悍將": "₺299,99",
+            "江山美人": "₺149,99",
+            "終身版": "₺399,99",
+            "尊享版": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784747877705,
