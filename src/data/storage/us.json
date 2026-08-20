@@ -28669,14 +28669,22 @@
   "441683476": {
     "name": "Weple Money Pro",
     "maxPriceInfo": {
-      "price": 11.49,
-      "formattedPrice": "$11.49"
+      "price": 22.99,
+      "formattedPrice": "$22.99"
     },
     "minPriceInfo": {
       "price": 11.49,
       "formattedPrice": "$11.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787239953273,
+          "price": 22.99,
+          "formattedPrice": "$22.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768193724140,
@@ -35641,6 +35649,25 @@
       "Pack of 50 Super Cops": "$12.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787239953273,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Hot Chrome paint job for all vehicles": "$2.99",
+            "Seoul Rider paint job for all vehicles": "$0.99",
+            "Autobahn paint job for all vehicles": "$0.99",
+            "The Met paint job for all vehicles": "$0.99",
+            "East Side paint job for all vehicles": "$0.99",
+            "Donut Finder": "$2.99",
+            "Pack of 50 Super Cops": "$12.99",
+            "Pack of 10 Super Cops": "$2.99",
+            "Pack of 3 Super Cops": "$0.99",
+            "Unlock All Vehicles": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1778817905438,
@@ -281779,13 +281806,28 @@
     "name": "Goblin Tools",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "Goblin Tools Pro - Yearly": "$39.99",
+      "Goblin Tools Pro - Monthly": "$3.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Goblin Tools Pro - Yearly": "$39.99",
+      "Goblin Tools Pro - Monthly": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787239953273,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "$39.99",
+            "Goblin Tools Pro - Monthly": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764102625154,

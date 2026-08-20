@@ -1182,6 +1182,25 @@
     "history": [
       [
         {
+          "timestamp": 1787239953273,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "World Sweetener Pack": "9,99 €",
+            "Steel Guitar Sweeteners": "17,99 €",
+            "Orchestral Sweeteners": "6,99 €",
+            "Misc Stringed Sweeteners": "3,99 €",
+            "Keyboard Sweeteners": "22,99 €",
+            "Harp Sweeteners": "6,99 €",
+            "Harmonica Sweeteners": "9,99 €",
+            "Guitar & Bass Sweeteners": "6,99 €",
+            "Buzz Feiten Pack": "6,99 €",
+            "Extended Frequency Modes": "5,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786672326876,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -11683,14 +11702,22 @@
   "441683476": {
     "name": "Weple Money Pro",
     "maxPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "12,99 €"
+      "price": 24.99,
+      "formattedPrice": "24,99 €"
     },
     "minPriceInfo": {
       "price": 12.99,
       "formattedPrice": "12,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787239953273,
+          "price": 24.99,
+          "formattedPrice": "24,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768193724140,
@@ -113372,13 +113399,28 @@
     "name": "Goblin Tools",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "2,99 €"
+      "formattedPrice": "2,99 €",
+      "Goblin Tools Pro - Yearly": "39,99 €",
+      "Goblin Tools Pro - Monthly": "3,99 €"
     },
     "minPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "Goblin Tools Pro - Yearly": "39,99 €",
+      "Goblin Tools Pro - Monthly": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787239953273,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "39,99 €",
+            "Goblin Tools Pro - Monthly": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764102625154,

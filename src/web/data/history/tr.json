@@ -25330,14 +25330,22 @@
     "trackName": "Weple Money Pro",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 599.99,
-      "formattedPrice": "₺599,99"
+      "price": 1199.99,
+      "formattedPrice": "₺1.199,99"
     },
     "minPriceInfo": {
       "price": 599.99,
       "formattedPrice": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787239953273,
+          "price": 1199.99,
+          "formattedPrice": "₺1.199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1768193724140,
@@ -230019,13 +230027,28 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 149.99,
-      "formattedPrice": "₺149,99"
+      "formattedPrice": "₺149,99",
+      "Goblin Tools Pro - Yearly": "₺1.999,99",
+      "Goblin Tools Pro - Monthly": "₺199,99"
     },
     "minPriceInfo": {
       "price": 39.99,
-      "formattedPrice": "₺39,99"
+      "formattedPrice": "₺39,99",
+      "Goblin Tools Pro - Yearly": "₺1.999,99",
+      "Goblin Tools Pro - Monthly": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787239953273,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "₺1.999,99",
+            "Goblin Tools Pro - Monthly": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1764102625154,
@@ -265847,6 +265870,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787239953273,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "passatb8": "₺49,99",
+            "5 ticket": "₺19,99",
+            "5 gold": "₺19,99",
+            "15 gold": "₺29,99",
+            "15 ticket": "₺29,99",
+            "10 ticket": "₺29,99",
+            "20 ticket": "₺39,99",
+            "25 gold": "₺49,99",
+            "büyük paket": "₺59,99",
+            "30000 money": "₺19,99"
+          }
+        },
         {
           "timestamp": 1787208204073,
           "price": 0,
