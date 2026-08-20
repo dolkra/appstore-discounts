@@ -94213,14 +94213,24 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 98,
-      "formattedPrice": "HK$ 98.00"
+      "formattedPrice": "HK$ 98.00",
+      "無使用限期": "HK$ 98.00"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "免費"
+      "formattedPrice": "免費",
+      "無使用限期": "HK$ 98.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1787208204073,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "無使用限期": "HK$ 98.00"
+          }
+        },
         {
           "timestamp": 1787197548448,
           "price": 0,
