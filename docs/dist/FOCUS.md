@@ -1515,7 +1515,7 @@ So far, we've covered `7` `Countries or Regions` and  `2216` `Apps` <br />Push n
 |711|1508108761|Automatic|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|EasyQuit Pro - Stop Smoking|Pare de fumar - EasyQuit Pro|
 |710|1550721625|Automatic|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|JAMMATES|
 |709|1582355047|Automatic|❌|❌|❌|❌|❌|Hacker Başlangıç|❌|
-|708|1610305853|Automatic|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Trajeto solar|
+|708|1610305853|Automatic|SunOnTrack：太阳路径|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Sun Path & Shadows|SunOnTrack: Trajeto solar|
 |707|1616391834|Automatic|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|合成游戏合集：含合成大西瓜、2048和合成神龙经典游戏|❌|❌|❌|
 |706|1668418644|Automatic|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|大事記帳 - 阻止你花過多的錢|❌|
 |705|6477756843|Automatic|❌|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|Final Girl Companion|
