@@ -204908,6 +204908,25 @@
     "history": [
       [
         {
+          "timestamp": 1787370034929,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {
+            "十周年纪念章节 重逢之音 Phase I": "¥35.00",
+            "限时挑战书  堕落回响": "¥21.00",
+            "调律计划 wowaka 精选辑": "¥28.00",
+            "限时挑战书  Camellia精选辑": "¥27.00",
+            "限时挑战书  technoplanet精选辑": "¥21.00",
+            "限时挑战书 复古幻想曲": "¥21.00",
+            "限时挑战书  噬梦狂宴": "¥21.00",
+            "扩充章节 Z": "¥28.00",
+            "限时挑战书 Speedcore Overload": "¥21.00",
+            "限时挑战书  Satella Selection": "¥21.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787294633281,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -219229,14 +219248,22 @@
     "trackName": "电视直播-手机电视节目表、电视导航",
     "region": "cn",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 148,
+      "formattedPrice": "¥148.00"
     },
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787370034929,
+          "price": 148,
+          "formattedPrice": "¥148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782465994454,

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1453875289,
+    "region": "us",
+    "timestamp": 1787370034929,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1453875289",
+    "trackName": "Hyper Light Drifter",
+    "firstRecordedAt": 1745470938782
+  },
+  {
+    "trackId": 6754453691,
+    "region": "us",
+    "timestamp": 1787370034929,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $3.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6754453691",
+    "trackName": "Knight & Dragon IV",
+    "firstRecordedAt": 1767824910231
+  },
+  {
     "trackId": 510249014,
     "region": "us",
     "timestamp": 1787284187290,
