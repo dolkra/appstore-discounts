@@ -56862,6 +56862,46 @@
       ]
     ]
   },
+  "683706778": {
+    "name": "Farm Frenzy 3: Russian Village",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Piggybank of Coins": "HK$ 8.00",
+      "Piggybank of Stars": "HK$ 18.00",
+      "Big Chest of Stars": "HK$ 88.00",
+      "Sack of Stars": "HK$ 38.00",
+      "Big Chest of Coins": "HK$ 38.00",
+      "Sack of Coins": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00",
+      "Piggybank of Coins": "HK$ 8.00",
+      "Piggybank of Stars": "HK$ 18.00",
+      "Big Chest of Stars": "HK$ 88.00",
+      "Sack of Stars": "HK$ 38.00",
+      "Big Chest of Coins": "HK$ 38.00",
+      "Sack of Coins": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787402209195,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Piggybank of Coins": "HK$ 8.00",
+            "Piggybank of Stars": "HK$ 18.00",
+            "Big Chest of Stars": "HK$ 88.00",
+            "Sack of Stars": "HK$ 38.00",
+            "Big Chest of Coins": "HK$ 38.00",
+            "Sack of Coins": "HK$ 22.00"
+          }
+        }
+      ]
+    ]
+  },
   "686923970": {
     "name": "HRV4Training",
     "maxPriceInfo": {
@@ -99416,7 +99456,9 @@
       "He-Man Booster Pack Sale": "HK$ 18.00",
       "He-Man Prestige Pack Sale": "HK$ 68.00",
       "He-Man Booster Pack": "HK$ 32.00",
-      "He-Man Prestige Pack": "HK$ 128.00"
+      "He-Man Prestige Pack": "HK$ 128.00",
+      "Portable Lake Pro": "HK$ 32.00",
+      "Skywarden Unlock Pack": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 32,
@@ -99459,9 +99501,28 @@
       "He-Man Booster Pack Sale": "HK$ 18.00",
       "He-Man Prestige Pack Sale": "HK$ 68.00",
       "He-Man Booster Pack": "HK$ 32.00",
-      "He-Man Prestige Pack": "HK$ 128.00"
+      "He-Man Prestige Pack": "HK$ 128.00",
+      "Portable Lake Pro": "HK$ 32.00",
+      "Skywarden Unlock Pack": "HK$ 58.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787402209195,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Portable Lake Pro": "HK$ 32.00",
+            "Skywarden Unlock Pack": "HK$ 58.00",
+            "Masters of the Universe Mega Pack": "HK$ 388.00",
+            "Masters of the Universe Booster": "HK$ 88.00",
+            "He-Man Booster Pack Sale": "HK$ 18.00",
+            "He-Man Prestige Pack Sale": "HK$ 68.00",
+            "He-Man Booster Pack": "HK$ 32.00",
+            "He-Man Prestige Pack": "HK$ 128.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786682840855,
@@ -283218,6 +283279,88 @@
           "price": 188,
           "formattedPrice": "HK$ 188.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760122905": {
+    "name": "江城创业记",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787402209195,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6798830578": {
+    "name": "PDF2MD: PDF to Markdown",
+    "maxPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "minPriceInfo": {
+      "price": 22,
+      "formattedPrice": "HK$ 22.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787402209195,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6759970821": {
+    "name": "地牢合併!（Dungeon Merge!）",
+    "maxPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "120 Diamonds": "HK$ 32.00",
+      "Starter Pack 1": "HK$ 18.00",
+      "4000 Diamonds": "HK$ 788.00",
+      "50 Diamonds": "HK$ 18.00",
+      "16 Base Heroes Unlock Pack": "HK$ 288.00",
+      "700 Diamonds": "HK$ 148.00"
+    },
+    "minPriceInfo": {
+      "price": 2,
+      "formattedPrice": "HK$ 2.00",
+      "120 Diamonds": "HK$ 32.00",
+      "Starter Pack 1": "HK$ 18.00",
+      "4000 Diamonds": "HK$ 788.00",
+      "50 Diamonds": "HK$ 18.00",
+      "16 Base Heroes Unlock Pack": "HK$ 288.00",
+      "700 Diamonds": "HK$ 148.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787402209195,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "120 Diamonds": "HK$ 32.00",
+            "Starter Pack 1": "HK$ 18.00",
+            "4000 Diamonds": "HK$ 788.00",
+            "50 Diamonds": "HK$ 18.00",
+            "16 Base Heroes Unlock Pack": "HK$ 288.00",
+            "700 Diamonds": "HK$ 148.00"
+          }
         }
       ]
     ]

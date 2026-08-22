@@ -1,12 +1,16 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2216` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2220` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2220|683706778|自动|❌|Farm Frenzy 3: Russian Village|Farm Frenzy 3: Russian Village|Farm Frenzy 3: Russian Village|Farm Frenzy 3: Russian Village|Farm Frenzy 3: Russian Village|Farm Frenzy 3: Russian Village|
+|2219|6760122905|自动|江城创业记|江城创业记|江城创业记|江城创业记|江城创业记|江城创业记|江城创业记|
+|2218|6798830578|自动|PDF2MD: PDF to Markdown|PDF2MD: PDF to Markdown|PDF2MD: PDF to Markdown|PDF2MD: PDF to Markdown|PDF2MD: PDF to Markdown|PDF2MD: PDF to Markdown|PDF2MD: PDF to Markdown|
+|2217|6759970821|自动|❌|地牢合併!（Dungeon Merge!）|地牢合併!（Dungeon Merge!）|地牢合併!（Dungeon Merge!）|Dungeon Merge!|Dungeon Merge!|Dungeon Merge!|
 |2216|645797558|自动|❌|Hero Emblems|Hero Emblems|Hero Emblems|Hero Emblems|Hero Emblems|Hero Emblems|
 |2215|455826958|自动|❌|Pinball Arcade Plus|Pinball Arcade Plus|Pinball Arcade Plus|Pinball Arcade Plus|Pinball Arcade Plus|Pinball Arcade Plus|
 |2214|1225490847|自动|电子相册大师(专业版)|電子相冊大師(專業版)|電子相冊大師(專業版)|電子相冊大師(專業版)|Slideshow Master Pro - Maker|Slideshow Master Pro - Maker|Slideshow Master Pro - Maker|
