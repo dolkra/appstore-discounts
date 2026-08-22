@@ -47,7 +47,7 @@
 |2183|1154832936|自动|Call Ranger: 海量来电拦截器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: 海量來電封鎖器|Call Ranger: Mass Call Blocker|Call Ranger: Mass Call Blocker|Call Ranger: Bloqueio Massa|
 |2182|433579249|自动|飕飕相机美颜版|ソソカメラ|ソソカメラ|ソソカメラ|SoSoCamera Beauty|SoSoCamera Beauty|ソソカメラ|
 |2181|6760764479|自动|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|Alpin Quest PRO – Outdoor GPS|
-|2180|6794760301|自动|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|FileFlip: Convert Files|
+|2180| ~~6794760301~~ |自动| ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ | ~~FileFlip: Convert Files~~ |
 |2179|6793864256|自动|❌|星夢快速查房幫手|❌|星夢快速查房幫手|❌|❌|❌|
 |2178|6744552136|自动|xTune|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|xTune - Lyrion Remote & Player|
 |2177|6797421987|自动|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了 - 找回童年的快乐|竹知了：赛博竹知了Bamboo Cicada|竹知了：赛博竹知了Bamboo Cicada|竹知了 - 找回童年的快乐|
@@ -1068,7 +1068,7 @@
 |1162|547000247|自动|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|
 |1161|1332586660|自动|搜索 互联网 文本 URL 浏览器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|Search Web Text on URL Browser|Search Web Text on URL Browser|Search Web Text on URL Browser|
 |1160|6449233549|自动|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
-|1159|6745474000|自动|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|
+|1159|6745474000|自动|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|BiuGun: Gun Simulator|BiuGun: Gun Simulator|空气枪BiuGun|
 |1158| ~~567533074~~ |自动| ~~❌~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~Sonic Jump™~~ | ~~❌~~ |
 |1157|1661136258|自动|❌|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|Minifigures Scan & Track|
 |1156|344919689|自动|❌|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|HOOP i for Basketball Scores|

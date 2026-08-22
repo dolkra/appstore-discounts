@@ -140130,6 +140130,22 @@
     "history": [
       [
         {
+          "timestamp": 1787423346326,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Power Builder (weekly)": "$0.99",
+            "Power Builder (monthly)": "$2.99",
+            "Micro Tip": "$0.99",
+            "Medium Tip": "$1.99",
+            "Mega Tip": "$5.99",
+            "Power Builder (yearly)": "$25.49",
+            "Super Mega Tip": "$9.99",
+            "Super Tip": "$4.99",
+            "Small Tip": "$0.99"
+          }
+        },
+        {
           "timestamp": 1787411997217,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -191880,6 +191896,25 @@
       "Ascensio Kit": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787423346326,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Master Package": "$19.99",
+            "Tamer Kit": "$0.99",
+            "Starter Package": "$2.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Kit": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787284187290,
@@ -252396,6 +252431,25 @@
     "history": [
       [
         {
+          "timestamp": 1787423346326,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Weapon Upgrade Ticket x3 (D)": "$6.99",
+            "Weapon Upgrade Ticket x3 (C)": "$6.99",
+            "Weapon Upgrade Ticket x1 (F)": "$2.99",
+            "Weapon Upgrade Ticket x1 (E)": "$2.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Weapon Upgrade Ticket x1 (C)": "$2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787078197937,
           "price": 0,
           "formattedPrice": "Free",
@@ -307083,7 +307137,7 @@
     ]
   },
   "6745474000": {
-    "name": "空气枪BiuGun",
+    "name": "BiuGun: Gun Simulator",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
@@ -332544,6 +332598,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787423346326,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786904841254,

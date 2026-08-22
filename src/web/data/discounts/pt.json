@@ -1,5 +1,26 @@
 [
   {
+    "trackId": 6794760301,
+    "region": "pt",
+    "timestamp": 1787423346326,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 3,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6794760301",
+    "trackName": "FileFlip: Convert Files",
+    "firstRecordedAt": 1786005279085,
+    "notificationDisabled": true
+  },
+  {
     "trackId": 355460798,
     "region": "pt",
     "timestamp": 1787411997217,
@@ -684,7 +705,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6794760301",
     "trackName": "FileFlip: Convert Files",
-    "firstRecordedAt": 1786005279085
+    "firstRecordedAt": 1786005279085,
+    "notificationDisabled": true
   },
   {
     "trackId": 6480058345,
@@ -1560,7 +1582,8 @@
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id6794760301",
     "trackName": "FileFlip: Convert Files",
-    "firstRecordedAt": 1786005279085
+    "firstRecordedAt": 1786005279085,
+    "notificationDisabled": true
   },
   {
     "trackId": 1642733080,
