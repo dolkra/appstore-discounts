@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 355460798,
+    "region": "mo",
+    "timestamp": 1787411997217,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 19.99",
+        "to": "USD 4.99",
+        "range": "[USD 1.99 ~ USD 19.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id355460798",
+    "trackName": "Inspire Pro",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 495937600,
+    "region": "mo",
+    "timestamp": 1787411997217,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 0.99",
+        "range": "[USD 0.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id495937600",
+    "trackName": "The Tiny Bang Story",
+    "firstRecordedAt": 1759327934089
+  },
+  {
     "trackId": 6754453691,
     "region": "mo",
     "timestamp": 1787370034929,

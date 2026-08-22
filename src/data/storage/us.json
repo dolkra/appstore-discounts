@@ -14275,6 +14275,14 @@
     "history": [
       [
         {
+          "timestamp": 1787411997217,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785081658492,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -140120,6 +140128,24 @@
       "Large Tip": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787411997217,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Power Builder (monthly)": "$2.99",
+            "Power Builder (yearly)": "$25.49",
+            "Power Builder (weekly)": "$0.99",
+            "The Ultimate Tip": "$54.99",
+            "Super Mega Smashing Tip": "$30.99",
+            "Super Smashing Tip": "$16.99",
+            "Super Mega Tip": "$9.99",
+            "Mega Tip": "$5.99",
+            "Super Tip": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781972283153,
