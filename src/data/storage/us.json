@@ -319433,14 +319433,22 @@
   "6754461039": {
     "name": "Mihon Manga",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 2.99,
+      "formattedPrice": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787361040120,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785062661994,

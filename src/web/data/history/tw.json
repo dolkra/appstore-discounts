@@ -103959,6 +103959,23 @@
     "history": [
       [
         {
+          "timestamp": 1787361040120,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Open the box to get the rocket": "$30.00",
+            "Get coffin password": "$30.00",
+            "Get the main entrance lighthouse passcode": "$30.00",
+            "Pyramid obtain dial pointer display mode": "$30.00",
+            "Props Tip: Pyramid": "$30.00",
+            "Props Tip: Temple corner": "$30.00",
+            "Props Tip: flower": "$30.00",
+            "Get inside the temple door password": "$30.00",
+            "Rockets get the door unlocking": "$30.00",
+            "Get the factory door unlock": "$30.00"
+          }
+        },
+        {
           "timestamp": 1787347395199,
           "price": 30,
           "formattedPrice": "$30.00",
@@ -285769,14 +285786,22 @@
     "trackName": "Mihon Manga",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787361040120,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785062661994,

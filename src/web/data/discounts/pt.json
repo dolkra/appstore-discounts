@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1453875289,
+    "region": "pt",
+    "timestamp": 1787361040120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1453875289",
+    "trackName": "Hyper Light Drifter",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6754453691,
+    "region": "pt",
+    "timestamp": 1787361040120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "3,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 3,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6754453691",
+    "trackName": "Knight & Dragon IV",
+    "firstRecordedAt": 1767824910231
+  },
+  {
+    "trackId": 6743021613,
+    "region": "pt",
+    "timestamp": 1787361040120,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6743021613",
+    "trackName": "电视直播-手机电视节目表、电视导航",
+    "firstRecordedAt": 1777050395660
+  },
+  {
     "trackId": 510249014,
     "region": "pt",
     "timestamp": 1787274850915,
@@ -2403,7 +2463,7 @@
         "name": "Price",
         "from": "1,99 €",
         "to": "Gratuito",
-        "range": "[Gratuito ~ 1,99 €]"
+        "range": "[Gratuito ~ 2,99 €]"
       }
     ],
     "price": 0,
