@@ -215275,7 +215275,8 @@
       "LOW POLY CALICO": "¥15.00",
       "LOW POLY RED": "¥15.00",
       "LOW POLY BLACK": "¥15.00",
-      "LOW POLY GRAY": "¥15.00"
+      "LOW POLY GRAY": "¥15.00",
+      "GHOST BRIDE": "¥15.00"
     },
     "minPriceInfo": {
       "price": 12,
@@ -215305,9 +215306,29 @@
       "LOW POLY CALICO": "¥15.00",
       "LOW POLY RED": "¥15.00",
       "LOW POLY BLACK": "¥15.00",
-      "LOW POLY GRAY": "¥15.00"
+      "LOW POLY GRAY": "¥15.00",
+      "GHOST BRIDE": "¥15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787509693774,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "GHOST BRIDE": "¥15.00",
+            "RED-WHITE RYUKIN": "¥15.00",
+            "RED RYUKIN": "¥15.00",
+            "ORANGE & WHITE KITTY FISH": "¥15.00",
+            "CALICO RED/WHITE/BLACK": "¥15.00",
+            "ORANGE/WHITE": "¥15.00",
+            "BLACK KITTY FISH": "¥15.00",
+            "PANDA TELESCOPE": "¥15.00",
+            "ROBO FISH 02": "¥15.00",
+            "CALICO KITTY FISH": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,
@@ -217466,6 +217487,25 @@
       "普通会员买断": "¥158.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787509693774,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "基础月会员": "¥9.90",
+            "黄金会员月度": "¥15.80",
+            "黄金会员买断": "¥268.00",
+            "专业版报告解锁": "¥29.90",
+            "解锁报告": "¥19.90",
+            "基础版报告解锁": "¥19.90",
+            "黄金会员": "¥29.90",
+            "普通": "¥19.90",
+            "AI 签证顾问": "¥99.00",
+            "拒签分析报告解锁": "¥29.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787153393547,
@@ -219734,14 +219774,22 @@
   "6779676299": {
     "name": "警務處投考全攻略",
     "maxPriceInfo": {
-      "price": 68,
-      "formattedPrice": "¥68.00"
+      "price": 98,
+      "formattedPrice": "¥98.00"
     },
     "minPriceInfo": {
       "price": 68,
       "formattedPrice": "¥68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787509693774,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784622451151,
