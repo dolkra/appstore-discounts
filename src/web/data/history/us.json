@@ -93810,6 +93810,22 @@
     "history": [
       [
         {
+          "timestamp": 1787467149531,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "13 Gems": "$7.99",
+            "6 Gems": "$3.99",
+            "1 Gem": "$0.99",
+            "48 Gems": "$28.99",
+            "150 Gems": "$79.99",
+            "74 Gems": "$40.99",
+            "28 Gems": "$14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787457009710,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -228723,6 +228739,25 @@
     "history": [
       [
         {
+          "timestamp": 1787467149531,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Remove Ads": "$9.99",
+            "Coins Package 1": "$0.99",
+            "Monthly VIP Subscription": "$2.99",
+            "Premium spin": "$0.99",
+            "Yearly VIP Subscription": "$29.99",
+            "Weekly VIP Subscription": "$0.99",
+            "Become a VIP for lifetime": "$249.99",
+            "Daily Offer": "$0.99",
+            "Best Choice": "$3.99",
+            "Popular Offer": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787457009710,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -337505,6 +337540,52 @@
             "16 Base Heroes Unlock Pack": "$39.99",
             "700 Diamonds": "$19.99"
           }
+        }
+      ]
+    ]
+  },
+  "6802547078": {
+    "trackId": 6802547078,
+    "trackName": "社署投考全攻略 SWDReady",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    },
+    "minPriceInfo": {
+      "price": 14.99,
+      "formattedPrice": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787467149531,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6770045184": {
+    "trackId": 6770045184,
+    "trackName": "Rouge Pro",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "$59.99"
+    },
+    "minPriceInfo": {
+      "price": 59.99,
+      "formattedPrice": "$59.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787467149531,
+          "price": 59.99,
+          "formattedPrice": "$59.99",
+          "inAppPurchases": {}
         }
       ]
     ]
