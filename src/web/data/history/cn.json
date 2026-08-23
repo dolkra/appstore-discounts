@@ -122066,6 +122066,29 @@
       ]
     ]
   },
+  "1512938504": {
+    "trackId": 1512938504,
+    "trackName": "Code App",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "¥48.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787447765759,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1513506417": {
     "trackId": 1513506417,
     "trackName": "轻历 - 清新日历",
@@ -158076,9 +158099,23 @@
       "Monthly Recurring Tip": "¥15.00",
       "Mega Tip": "¥148.00",
       "Tip": "¥38.00",
-      "Filtr": "¥168.00"
+      "Filtr": "¥38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787447765759,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Filtr": "¥38.00",
+            "Yearly Recurring Tip": "¥68.00",
+            "Monthly Recurring Tip": "¥15.00",
+            "Mega Tip": "¥148.00",
+            "Tip": "¥38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779525017362,

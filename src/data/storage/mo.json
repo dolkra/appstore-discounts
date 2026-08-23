@@ -488,6 +488,22 @@
     "history": [
       [
         {
+          "timestamp": 1787447765759,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Tyrannosaurus Rex Skin Pack": "USD 0.99",
+            "Dance Pack Too": "USD 0.99",
+            "Medieval Pack": "USD 0.99",
+            "Alien Pack": "USD 0.99",
+            "Holiday Skin Pack": "USD 0.99",
+            "Shark Pack": "USD 0.99",
+            "The Pimp Pack": "USD 0.99",
+            "Japanese Skin Pack": "USD 0.99",
+            "Mafia Pack": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1787433629188,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -15102,6 +15118,22 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787447765759,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "Drumaxx": "USD 1.99",
+            "FL Cloud Mobile": "USD 4.99",
+            "Ferrous Mobile": "USD 2.99",
+            "Hyper-Pop Mobile": "USD 2.99",
+            "Chip-Tune Mobile": "USD 2.99",
+            "Essential Winds": "USD 1.99",
+            "Essential Strings": "USD 1.99",
+            "DubTechno": "USD 1.99",
+            "Chill-Lo-Fi Mobile": "USD 1.99"
+          }
+        },
         {
           "timestamp": 1787433629188,
           "price": 14.99,
@@ -130474,6 +130506,27 @@
           "timestamp": 1722784406759,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1512938504": {
+    "name": "Code App",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787447765759,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
           "inAppPurchases": {}
         }
       ]

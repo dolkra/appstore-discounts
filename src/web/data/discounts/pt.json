@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 495937600,
+    "region": "pt",
+    "timestamp": 1787447765759,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id495937600",
+    "trackName": "The Tiny Bang Story",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6785557805,
+    "region": "pt",
+    "timestamp": 1787447765759,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6785557805",
+    "trackName": "Antizuck Smart Glasses Scanner",
+    "firstRecordedAt": 1785497333507
+  },
+  {
     "trackId": 6794760301,
     "region": "pt",
     "timestamp": 1787423346326,

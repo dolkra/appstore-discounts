@@ -7312,6 +7312,23 @@
     "history": [
       [
         {
+          "timestamp": 1787447765759,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Williamsburg Starter HipstaPak": "HK$ 8.00",
+            "Shibuya HipstaPak": "HK$ 8.00",
+            "Portland HipstaPak": "HK$ 8.00",
+            "Camden HipstaPak": "HK$ 8.00",
+            "Mission Hipstapak": "HK$ 8.00",
+            "Soho HipstaPak": "HK$ 8.00",
+            "Bondi HipstaPak": "HK$ 8.00",
+            "Foodie SnapPak": "HK$ 8.00",
+            "Dali GoodPak": "HK$ 8.00",
+            "RetroPak One": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1787433629188,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -177991,6 +178008,27 @@
           "timestamp": 1722784406759,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1512938504": {
+    "name": "Code App",
+    "maxPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "minPriceInfo": {
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787447765759,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
           "inAppPurchases": {}
         }
       ]
