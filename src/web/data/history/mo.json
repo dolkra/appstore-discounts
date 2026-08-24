@@ -201680,5 +201680,44 @@
         }
       ]
     ]
+  },
+  "6798409280": {
+    "trackId": 6798409280,
+    "trackName": "Rent A Car Simülatör",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "1000 Elmas": "USD 7.99",
+      "500 Elmas": "USD 5.99",
+      "250 Elmas": "USD 3.99",
+      "100 Elmas": "USD 1.99",
+      "50 Elmas": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "1000 Elmas": "USD 7.99",
+      "500 Elmas": "USD 5.99",
+      "250 Elmas": "USD 3.99",
+      "100 Elmas": "USD 1.99",
+      "50 Elmas": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787534044681,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "1000 Elmas": "USD 7.99",
+            "500 Elmas": "USD 5.99",
+            "250 Elmas": "USD 3.99",
+            "100 Elmas": "USD 1.99",
+            "50 Elmas": "USD 0.99"
+          }
+        }
+      ]
+    ]
   }
 }
