@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1350599517,
+    "region": "us",
+    "timestamp": 1787543626335,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1350599517",
+    "trackName": "FoodyLife : The Food Diary App",
+    "firstRecordedAt": 1757528218999
+  },
+  {
+    "trackId": 1465288147,
+    "region": "us",
+    "timestamp": 1787543626335,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$2.99 ~ $9.99]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "$3.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1465288147",
+    "trackName": "ATOM RPG",
+    "firstRecordedAt": 1768725301023
+  },
+  {
+    "trackId": 1539778232,
+    "region": "us",
+    "timestamp": 1787543626335,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $6.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1539778232",
+    "trackName": "Afterplace",
+    "firstRecordedAt": 1756303912105
+  },
+  {
     "trackId": 1524418421,
     "region": "us",
     "timestamp": 1787477195040,
