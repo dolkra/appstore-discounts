@@ -22500,6 +22500,25 @@
     "history": [
       [
         {
+          "timestamp": 1787620330936,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "$3.99",
+            "Predictive Report - Full": "$3.99",
+            "Relationship Report": "$3.99",
+            "Birthday Report": "$3.99",
+            "Gold Level Free Trial": "$0.00",
+            "Gold Monthly": "$7.99",
+            "Child Report - Full": "$3.99",
+            "Predictive Report - No Background": "$2.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Gold Level lifetime": "$69.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1785862248589,
           "price": 0,
           "formattedPrice": "Free",
@@ -191604,6 +191623,25 @@
     "history": [
       [
         {
+          "timestamp": 1787620330936,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "3880元宝": "$59.99",
+            "月卡VIP": "$3.99",
+            "880元宝": "$12.99",
+            "终身卡VIP": "$59.99",
+            "1680元宝": "$24.99",
+            "2980元宝": "$39.99",
+            "250元宝": "$3.99",
+            "60元宝": "$0.99",
+            "年卡VIP": "$34.99",
+            "终身VIP": "$59.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784189532599,
           "price": 0,
           "formattedPrice": "Free",
@@ -242919,6 +242957,46 @@
       ]
     ]
   },
+  "1632719015": {
+    "name": "Guardian OL2",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "A small bag of precious stones": "$4.99",
+      "A small box of gemstones": "$9.99",
+      "A large box of gemstones": "$19.99",
+      "a small handful of gem": "$0.99",
+      "One house gem": "$99.99",
+      "A mine car gem": "$49.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "A small bag of precious stones": "$4.99",
+      "A small box of gemstones": "$9.99",
+      "A large box of gemstones": "$19.99",
+      "a small handful of gem": "$0.99",
+      "One house gem": "$99.99",
+      "A mine car gem": "$49.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787620330936,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "A small bag of precious stones": "$4.99",
+            "A small box of gemstones": "$9.99",
+            "A large box of gemstones": "$19.99",
+            "a small handful of gem": "$0.99",
+            "One house gem": "$99.99",
+            "A mine car gem": "$49.99"
+          }
+        }
+      ]
+    ]
+  },
   "1632953327": {
     "name": "Tivimax IPTV Player (Premium)",
     "maxPriceInfo": {
@@ -286043,7 +286121,8 @@
       "Me 262": "$1.99",
       "Boeing 787-9": "$3.99",
       "Airbus A320neo": "$3.99",
-      "Airbus A321 XLR": "$3.99"
+      "Airbus A321 XLR": "$3.99",
+      "CRJ900": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -286075,9 +286154,29 @@
       "Me 262": "$1.99",
       "Boeing 787-9": "$3.99",
       "Airbus A320neo": "$3.99",
-      "Airbus A321 XLR": "$3.99"
+      "Airbus A321 XLR": "$3.99",
+      "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787620330936,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Boeing 777-300ER": "$1.99",
+            "Airbus A380": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A350-1000": "$3.99",
+            "CRJ900": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786181792801,

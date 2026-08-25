@@ -77731,6 +77731,25 @@
     "history": [
       [
         {
+          "timestamp": 1787620330936,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "终身卡VIP": "69,99 €",
+            "终身VIP": "69,99 €",
+            "年卡VIP": "39,99 €",
+            "月卡VIP": "3,99 €",
+            "880元宝": "14,99 €",
+            "250元宝": "3,99 €",
+            "3880元宝": "69,99 €",
+            "2980元宝": "44,99 €",
+            "1680元宝": "29,99 €",
+            "60元宝": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784189532599,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -96807,6 +96826,48 @@
           "price": 6.99,
           "formattedPrice": "6,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1632719015": {
+    "trackId": 1632719015,
+    "trackName": "守護者 OL2",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "One house gem": "99,99 €",
+      "A mine car gem": "59,99 €",
+      "A large box of gemstones": "22,99 €",
+      "A small box of gemstones": "9,99 €",
+      "A small bag of precious stones": "5,99 €",
+      "a small handful of gem": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "One house gem": "99,99 €",
+      "A mine car gem": "59,99 €",
+      "A large box of gemstones": "22,99 €",
+      "A small box of gemstones": "9,99 €",
+      "A small bag of precious stones": "5,99 €",
+      "a small handful of gem": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787620330936,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "One house gem": "99,99 €",
+            "A mine car gem": "59,99 €",
+            "A large box of gemstones": "22,99 €",
+            "A small box of gemstones": "9,99 €",
+            "A small bag of precious stones": "5,99 €",
+            "a small handful of gem": "0,99 €"
+          }
         }
       ]
     ]

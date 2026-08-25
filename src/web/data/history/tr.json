@@ -174922,6 +174922,25 @@
     "history": [
       [
         {
+          "timestamp": 1787620330936,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "终身卡VIP": "₺2.999,99",
+            "终身VIP": "₺2.999,99",
+            "年卡VIP": "₺1.999,99",
+            "月卡VIP": "₺199,99",
+            "880元宝": "₺699,99",
+            "250元宝": "₺199,99",
+            "3880元宝": "₺2.999,99",
+            "2980元宝": "₺1.999,99",
+            "1680元宝": "₺1.299,99",
+            "60元宝": "₺39,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784189532599,
           "price": 0,
           "formattedPrice": "Free",
@@ -213089,6 +213108,48 @@
           "price": 249.99,
           "formattedPrice": "₺249,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1632719015": {
+    "trackId": 1632719015,
+    "trackName": "Guardian OL2",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "One house gem": "₺4.999,99",
+      "A mine car gem": "₺2.499,99",
+      "A large box of gemstones": "₺999,99",
+      "A small box of gemstones": "₺499,99",
+      "A small bag of precious stones": "₺249,99",
+      "a small handful of gem": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "One house gem": "₺4.999,99",
+      "A mine car gem": "₺2.499,99",
+      "A large box of gemstones": "₺999,99",
+      "A small box of gemstones": "₺499,99",
+      "A small bag of precious stones": "₺249,99",
+      "a small handful of gem": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787620330936,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "One house gem": "₺4.999,99",
+            "A mine car gem": "₺2.499,99",
+            "A large box of gemstones": "₺999,99",
+            "A small box of gemstones": "₺499,99",
+            "A small bag of precious stones": "₺249,99",
+            "a small handful of gem": "₺49,99"
+          }
         }
       ]
     ]
