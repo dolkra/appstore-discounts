@@ -65,7 +65,7 @@ So far, we've covered `7` `Countries or Regions` and  `2231` `Apps` <br />Push n
 |2176|1518917462|Automatic|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|Python零基础入门篇|
 |2175|6793964973|Automatic|ForBand - 乐队排练全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - 樂團練習全能助手|ForBand - Band Practice Player|ForBand - Band Practice Player|ForBand - Tudo para sua banda|
 |2174|6753077755|Automatic|❌|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|How Many Dudes?|
-|2173|6785557805|Automatic|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|Antizuck Smart Glasses Scanner|
+|2173| ~~6785557805~~ |Automatic| ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ | ~~Antizuck Smart Glasses Scanner~~ |
 |2172|299029654|Automatic|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|大辞林|
 |2171|1462584573|Automatic|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|Schumann Resonance|
 |2170|6787897705|Automatic|❌|火山的女兒|火山的女兒|火山的女兒|Volcano Princess|❌|Volcano Princess|
