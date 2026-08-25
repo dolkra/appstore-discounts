@@ -22500,6 +22500,25 @@
     "history": [
       [
         {
+          "timestamp": 1787672459010,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Birth Chart Report - Full": "$3.99",
+            "Predictive Report - Full": "$3.99",
+            "Relationship Report": "$3.99",
+            "Birthday Report": "$3.99",
+            "Gold Level Free Trial": "$0.00",
+            "Gold Monthly": "$7.99",
+            "Child Report - Full": "$3.99",
+            "7-day Trial Astrolocality": "$0.00",
+            "Predictive Report - No Background": "$2.99",
+            "Gold Level lifetime": "$69.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787629669182,
           "price": 0,
           "formattedPrice": "Free",
@@ -194402,10 +194421,18 @@
       "formattedPrice": "$0.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787672459010,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1757858973793,
