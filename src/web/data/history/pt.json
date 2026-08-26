@@ -13026,6 +13026,23 @@
     "history": [
       [
         {
+          "timestamp": 1787773587954,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "PowerLevel_5up": "3,99 €",
+            "AllLevel_5up": "9,99 €",
+            "PowerLevel_1Up": "0,99 €",
+            "ContactLevel_5up": "3,99 €",
+            "Called Shot 50": "9,99 €",
+            "Called Shot 4": "0,99 €",
+            "GOLD BAT": "17,99 €",
+            "AllLevel_1up": "2,99 €",
+            "EyeLevel_5up": "3,99 €",
+            "EyeLevel_1up": "0,99 €"
+          }
+        },
+        {
           "timestamp": 1787761021464,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -13664,7 +13681,17 @@
       "Black Hole™ Pinball Table": "1,99 €",
       "Elvira and the Party Monsters™ + No Good Gofers™": "5,99 €",
       "Taxi™ + Harley-Davidson® 3rd Edition": "5,99 €",
-      "Pack de três mesas de lançamento": "1,99 €"
+      "Pack de três mesas de lançamento": "1,99 €",
+      "Stern Pack 1": "5,99 €",
+      "Big Buck Hunter Single Table": "9,99 €",
+      "Whoa Nellie Single Table": "9,99 €",
+      "Stern Pack 3": "17,99 €",
+      "Star Trek Single Table": "5,99 €",
+      "Mustang Single Table": "9,99 €",
+      "Ghostbusters Single Table": "9,99 €",
+      "Dr. Who Master of Time": "5,99 €",
+      "Farsight Ball Pack": "1,99 €",
+      "Stern Ball Pack 1": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -13678,9 +13705,38 @@
       "Black Hole™ Pinball Table": "1,99 €",
       "Elvira and the Party Monsters™ + No Good Gofers™": "5,99 €",
       "Taxi™ + Harley-Davidson® 3rd Edition": "5,99 €",
-      "Pack de três mesas de lançamento": "1,99 €"
+      "Pack de três mesas de lançamento": "1,99 €",
+      "Stern Pack 1": "5,99 €",
+      "Big Buck Hunter Single Table": "9,99 €",
+      "Whoa Nellie Single Table": "9,99 €",
+      "Stern Pack 3": "17,99 €",
+      "Star Trek Single Table": "5,99 €",
+      "Mustang Single Table": "9,99 €",
+      "Ghostbusters Single Table": "9,99 €",
+      "Dr. Who Master of Time": "5,99 €",
+      "Farsight Ball Pack": "1,99 €",
+      "Stern Ball Pack 1": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787773587954,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Stern Pack 1": "5,99 €",
+            "Big Buck Hunter Single Table": "9,99 €",
+            "Whoa Nellie Single Table": "9,99 €",
+            "Stern Pack 3": "17,99 €",
+            "Star Trek Single Table": "5,99 €",
+            "Mustang Single Table": "9,99 €",
+            "Ghostbusters Single Table": "9,99 €",
+            "Dr. Who Master of Time": "5,99 €",
+            "Farsight Ball Pack": "1,99 €",
+            "Stern Ball Pack 1": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787251071801,
@@ -68730,7 +68786,7 @@
   },
   "1445813795": {
     "trackId": 1445813795,
-    "trackName": "Eclipse Guide: mapa e horários",
+    "trackName": "Eclipse Guide: Lua de sangue",
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
@@ -84018,6 +84074,16 @@
       "Sokoban Level Solution": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787773587954,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Sokoban Level Solution": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1772995549170,

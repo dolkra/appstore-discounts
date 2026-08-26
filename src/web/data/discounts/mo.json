@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1546106967,
+    "region": "mo",
+    "timestamp": 1787773587954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 7.99",
+        "to": "USD 4.99",
+        "range": "[USD 3.99 ~ USD 7.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1546106967",
+    "trackName": "Sokoban (Boxman) Classic",
+    "firstRecordedAt": 1757848081925
+  },
+  {
+    "trackId": 6633412890,
+    "region": "mo",
+    "timestamp": 1787773587954,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 1.99",
+        "to": "USD 1.09",
+        "range": "[USD 1.09 ~ USD 1.99]"
+      }
+    ],
+    "price": 1.09,
+    "formattedPrice": "USD 1.09",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6633412890",
+    "trackName": "Tiny Terraces",
+    "firstRecordedAt": 1769087164675
+  },
+  {
     "trackId": 1435461053,
     "region": "mo",
     "timestamp": 1787761021464,
@@ -4887,7 +4927,7 @@
         "name": "Price",
         "from": "USD 1.99",
         "to": "USD 1.19",
-        "range": "[USD 1.19 ~ USD 1.99]"
+        "range": "[USD 1.09 ~ USD 1.99]"
       }
     ],
     "price": 1.19,
@@ -16703,7 +16743,7 @@
         "name": "Price",
         "from": "USD 1.99",
         "to": "USD 1.29",
-        "range": "[USD 1.19 ~ USD 1.99]"
+        "range": "[USD 1.09 ~ USD 1.99]"
       }
     ],
     "price": 1.29,

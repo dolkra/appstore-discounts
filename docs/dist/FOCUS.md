@@ -42,7 +42,7 @@ So far, we've covered `7` `Countries or Regions` and  `2234` `Apps` <br />Push n
 |2202|811397653|Automatic|❌|你必須造一艘船|你必須造一艘船|你必須造一艘船|You Must Build A Boat|You Must Build A Boat|Você Deve Construir Um Barco|
 |2201|1601016809|Automatic|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|Batch Videos Edit|
 |2200|6797458927|Automatic|❌|塔台|塔台|塔台|塔台|塔台|塔台|
-|2199|1445813795|Automatic|Eclipse Guide：地图与时间|Eclipse Guide：地圖與時間|Eclipse Guide：地圖與時間|Eclipse Guide：地圖與時間|Solar Eclipse Guide: August 12|Solar Eclipse Guide: 12 August|Eclipse Guide: mapa e horários|
+|2199|1445813795|Automatic|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Eclipse Guide：8月28日月偏食|Lunar Eclipse Guide: Aug 27–28|Lunar Eclipse Guide: 28 August|Eclipse Guide: Lua de sangue|
 |2198|6449100612|Automatic|❌|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|Paranormal Inc.|
 |2197|1599230728|Automatic|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|Solar Snap|
 |2196|6748751735|Automatic|❌|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|Servant of the Lake|
