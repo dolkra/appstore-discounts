@@ -212578,6 +212578,25 @@
     "history": [
       [
         {
+          "timestamp": 1787761021464,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Nurse Pack": "₺249,99",
+            "Unlock Beholder": "₺149,99",
+            "Unlock Gumiho": "₺149,99",
+            "Season 3 Battle Pass": "₺99,99",
+            "Uniform Pack": "₺199,99",
+            "Unlock Baphomet": "₺149,99",
+            "Season 2 Battle Pass": "₺99,99",
+            "Monster Pack 2": "₺1.499,99",
+            "Info Pack": "₺699,99",
+            "Smelting Pack": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786672326876,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -275215,6 +275234,27 @@
           "timestamp": 1787726851258,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6802565793": {
+    "name": "我不想当班主任",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787761021464,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
           "inAppPurchases": {}
         }
       ]
