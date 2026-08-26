@@ -41159,6 +41159,54 @@
       ]
     ]
   },
+  "579940279": {
+    "trackId": 579940279,
+    "trackName": "Basketball Stat Tracker",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "Club Subscription - 12 Months": "USD 76.99",
+      "Club Subscription - 1 Month": "USD 6.99",
+      "League Subscription - 12 Month": "USD 129.99",
+      "League Subscription - 1 Month": "USD 11.99",
+      "StatTracker.com 6-Months": "USD 14.99",
+      "StatTracker.com 1-Month": "USD 2.99",
+      "StatTracker.com 12-Months": "USD 24.99",
+      "Multi-Device Stat Tracking": "USD 9.99"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
+      "Club Subscription - 12 Months": "USD 76.99",
+      "Club Subscription - 1 Month": "USD 6.99",
+      "League Subscription - 12 Month": "USD 129.99",
+      "League Subscription - 1 Month": "USD 11.99",
+      "StatTracker.com 6-Months": "USD 14.99",
+      "StatTracker.com 1-Month": "USD 2.99",
+      "StatTracker.com 12-Months": "USD 24.99",
+      "Multi-Device Stat Tracking": "USD 9.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787737196607,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "Club Subscription - 12 Months": "USD 76.99",
+            "Club Subscription - 1 Month": "USD 6.99",
+            "League Subscription - 12 Month": "USD 129.99",
+            "League Subscription - 1 Month": "USD 11.99",
+            "StatTracker.com 6-Months": "USD 14.99",
+            "StatTracker.com 1-Month": "USD 2.99",
+            "StatTracker.com 12-Months": "USD 24.99",
+            "Multi-Device Stat Tracking": "USD 9.99"
+          }
+        }
+      ]
+    ]
+  },
   "580008932": {
     "trackId": 580008932,
     "trackName": "Real Badminton",
@@ -85526,6 +85574,18 @@
       "Month": "USD 1.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787737196607,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 4.99",
+            "Month": "USD 1.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786938586892,
@@ -175519,6 +175579,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787737196607,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787131983558,

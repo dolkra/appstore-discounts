@@ -522,6 +522,25 @@
     "history": [
       [
         {
+          "timestamp": 1787737196607,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "HK$ 8.00",
+            "Grimm Skin Pack": "HK$ 8.00",
+            "Zombie Skin Pack": "HK$ 8.00",
+            "Monster Pack": "HK$ 8.00",
+            "Dance Pack Three": "HK$ 8.00",
+            "Mondo Pack": "HK$ 8.00",
+            "Superbowl Skin Pack": "HK$ 8.00",
+            "Candy Land Pack": "HK$ 8.00",
+            "Underwater World Pack": "HK$ 8.00",
+            "Mafia Pack": "HK$ 8.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783824196340,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -49433,6 +49452,54 @@
           "price": 48,
           "formattedPrice": "HK$ 48.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "579940279": {
+    "trackId": 579940279,
+    "trackName": "Basketball Stat Tracker",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00",
+      "Club Subscription - 12 Months": "HK$ 608.00",
+      "Club Subscription - 1 Month": "HK$ 53.00",
+      "League Subscription - 12 Month": "HK$ 998.00",
+      "League Subscription - 1 Month": "HK$ 93.00",
+      "StatTracker.com 6-Months": "HK$ 118.00",
+      "StatTracker.com 1-Month": "HK$ 22.00",
+      "StatTracker.com 12-Months": "HK$ 188.00",
+      "Multi-Device Stat Tracking": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 48,
+      "formattedPrice": "HK$ 48.00",
+      "Club Subscription - 12 Months": "HK$ 608.00",
+      "Club Subscription - 1 Month": "HK$ 53.00",
+      "League Subscription - 12 Month": "HK$ 998.00",
+      "League Subscription - 1 Month": "HK$ 93.00",
+      "StatTracker.com 6-Months": "HK$ 118.00",
+      "StatTracker.com 1-Month": "HK$ 22.00",
+      "StatTracker.com 12-Months": "HK$ 188.00",
+      "Multi-Device Stat Tracking": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787737196607,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {
+            "Club Subscription - 12 Months": "HK$ 608.00",
+            "Club Subscription - 1 Month": "HK$ 53.00",
+            "League Subscription - 12 Month": "HK$ 998.00",
+            "League Subscription - 1 Month": "HK$ 93.00",
+            "StatTracker.com 6-Months": "HK$ 118.00",
+            "StatTracker.com 1-Month": "HK$ 22.00",
+            "StatTracker.com 12-Months": "HK$ 188.00",
+            "Multi-Device Stat Tracking": "HK$ 88.00"
+          }
         }
       ]
     ]
@@ -108588,6 +108655,18 @@
       "Month": "HK$ 12.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787737196607,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Year": "HK$ 88.00",
+            "6 Months": "HK$ 38.00",
+            "Month": "HK$ 12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786938586892,
