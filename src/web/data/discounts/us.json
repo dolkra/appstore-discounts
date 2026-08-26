@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1160943124,
+    "region": "us",
+    "timestamp": 1787726851258,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1160943124",
+    "trackName": "Speech to Text : Voice to Text",
+    "firstRecordedAt": 1752329477829
+  },
+  {
     "trackId": 1504024081,
     "region": "us",
     "timestamp": 1787672459010,
@@ -5559,7 +5579,7 @@
         "name": "Price",
         "from": "$0.99",
         "to": "$0.49",
-        "range": "[$0.29 ~ $2.99]"
+        "range": "[$0.29 ~ $9.99]"
       }
     ],
     "price": 0.49,
@@ -7116,7 +7136,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.99",
-        "range": "[$0.29 ~ $2.99]"
+        "range": "[$0.29 ~ $9.99]"
       }
     ],
     "price": 0.99,
@@ -9588,7 +9608,7 @@
         "name": "Price",
         "from": "$2.99",
         "to": "$0.49",
-        "range": "[$0.29 ~ $2.99]"
+        "range": "[$0.29 ~ $9.99]"
       }
     ],
     "price": 0.49,
@@ -12015,7 +12035,7 @@
         "name": "Price",
         "from": "$1.99",
         "to": "$0.99",
-        "range": "[$0.29 ~ $2.99]"
+        "range": "[$0.29 ~ $9.99]"
       }
     ],
     "price": 0.99,
@@ -16400,7 +16420,7 @@
         "name": "Price",
         "from": "$0.39",
         "to": "$0.29",
-        "range": "[$0.29 ~ $2.99]"
+        "range": "[$0.29 ~ $9.99]"
       }
     ],
     "price": 0.29,

@@ -105841,6 +105841,18 @@
     "history": [
       [
         {
+          "timestamp": 1787726851258,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Month": "$50.00",
+            "Year": "$390.00",
+            "6 Months": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786938586892,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -295523,6 +295535,27 @@
             "100 Elmas": "$60.00",
             "50 Elmas": "$30.00"
           }
+        }
+      ]
+    ]
+  },
+  "6760577332": {
+    "name": "麻將戰績",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787726851258,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
         }
       ]
     ]

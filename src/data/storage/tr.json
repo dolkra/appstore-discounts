@@ -108516,6 +108516,18 @@
     "history": [
       [
         {
+          "timestamp": 1787726851258,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "₺99,99",
+            "Year": "₺499,99",
+            "6 Months": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786938586892,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -275048,6 +275060,27 @@
             "500 Elmas": "₺79,99",
             "250 Elmas": "₺39,99"
           }
+        }
+      ]
+    ]
+  },
+  "6760577332": {
+    "name": "麻將戰績",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787726851258,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
         }
       ]
     ]

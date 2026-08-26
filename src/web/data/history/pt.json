@@ -52902,6 +52902,18 @@
     "history": [
       [
         {
+          "timestamp": 1787726851258,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Year": "12,99 €",
+            "6 Months": "5,99 €",
+            "Month": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786938586892,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -135050,6 +135062,29 @@
             "100 Elmas": "1,99 €",
             "50 Elmas": "0,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "6760577332": {
+    "trackId": 6760577332,
+    "trackName": "麻將戰績",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787726851258,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]

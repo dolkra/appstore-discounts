@@ -120920,6 +120920,18 @@
     "history": [
       [
         {
+          "timestamp": 1787726851258,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "$1.99",
+            "Year": "$11.99",
+            "6 Months": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786938586892,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -247112,14 +247124,22 @@
     "trackName": "Tokyo Train!",
     "region": "us",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "$2.99"
+      "price": 9.99,
+      "formattedPrice": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.29,
       "formattedPrice": "$0.29"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787726851258,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786938586892,
@@ -337069,14 +337089,22 @@
     "trackName": "Tokyo Shipping!",
     "region": "us",
     "maxPriceInfo": {
-      "price": 1.49,
-      "formattedPrice": "$1.49"
+      "price": 4.99,
+      "formattedPrice": "$4.99"
     },
     "minPriceInfo": {
       "price": 0.49,
       "formattedPrice": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787726851258,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786938586892,
@@ -338626,6 +338654,29 @@
             "100 Elmas": "$1.99",
             "50 Elmas": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6760577332": {
+    "trackId": 6760577332,
+    "trackName": "麻將戰績",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787726851258,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
