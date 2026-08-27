@@ -1,12 +1,15 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2234` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2237` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2237|484090401|Automatic|❌|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|
+|2236|1443533088|Automatic|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|
+|2235|6786115854|Automatic|❌|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|
 |2234|6802565793|Automatic|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|
 |2233|579940279|Automatic|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|
 |2232|6760577332|Automatic|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|
@@ -252,7 +255,7 @@ So far, we've covered `7` `Countries or Regions` and  `2234` `Apps` <br />Push n
 |1992|458535809|Automatic|Calculator ∞ - 科学计算器|Calculator ∞ - 科學計算器|Calculator ∞ - 科學計算器|Calculator ∞ - 科學計算器|Calculator ∞|Calculator ∞|Calculator ∞ - Calculadora|
 |1991|6766166468|Automatic|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|Real Sensi FF - PRO|
 |1990|1497379822|Automatic|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Hike & Bike|GPX Viewer PRO: Trilha e Bike|
-|1989|6753721284|Automatic|BikeControl|BikeControl|BikeControl|BikeControl|BikeControl|BikeControl|BikeControl|
+|1989|6753721284|Automatic|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|BikeControl: Virtual Shifting|
 |1988|672878122|Automatic|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|CoPE Paediatric Emergency|
 |1987|1615288664|Automatic|法环地图艾尔登冒险指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|法環地圖 - 艾爾登冒險指南|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|Elden Ring Map: Game Companion|
 |1986|6476342802|Automatic|❌|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel和Defense：地下城Roguelike防禦|Skel and Defense|Skel and Defense|Skel and Defense|
@@ -261,7 +264,7 @@ So far, we've covered `7` `Countries or Regions` and  `2234` `Apps` <br />Push n
 |1983|1304231334|Automatic|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS海拔表-实时高度测量仪专业版|GPS Altitude Pro-海拔仪|GPS Altitude Pro-海拔仪|GPS海拔表-实时高度测量仪专业版|
 |1982|376302649|Automatic|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|Animated Knots by Grog|
 |1981|943391942|Automatic|Wild Berries and Herbs 2 PRO|Wild Berries and Herbs 2 PRO|Wild Berries and Herbs 2 PRO|Wild Berries and Herbs 2 PRO|Wild Berries and Herbs 2 PRO|Wild Berries and Herbs 2 PRO|Wild Berries and Herbs 2 PRO|
-|1980|323662975|Automatic|PFMA E6B|PFMA E6B|PFMA E6B|PFMA E6B|PFMA E6B|PFMA E6B|❌|
+|1980|323662975|Automatic|PFMA E6B|PFMA E6B|PFMA E6B|PFMA E6B|PFMA E6B|PFMA E6B|PFMA E6B|
 |1979|1549126927|Automatic|Posture up|Posture up|Posture up|Posture up|Posture up|Posture up|Posture up|
 |1978|480956504|Automatic|❌|Smash Cops|Smash Cops|Smash Cops|Smash Cops|Smash Cops|Smash Cops|
 |1977|6476567182|Automatic|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|RallyPin|

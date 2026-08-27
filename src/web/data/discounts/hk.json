@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 479516143,
+    "region": "hk",
+    "timestamp": 1787838577561,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Minecraft Store Item 2",
+        "from": "HK$ 18.00",
+        "to": "HK$ 16.00",
+        "range": "[HK$ 16.00 ~ HK$ 18.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Minecraft Store Item 10",
+        "from": "HK$ 88.00",
+        "to": "HK$ 82.00",
+        "range": "[HK$ 82.00 ~ HK$ 88.00]"
+      }
+    ],
+    "price": 56,
+    "formattedPrice": "HK$ 56.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id479516143",
+    "trackName": "Minecraft",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 1546106967,
     "region": "hk",
     "timestamp": 1787773587954,
@@ -6405,7 +6432,7 @@
     "formattedPrice": "免費",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id6753721284",
-    "trackName": "BikeControl",
+    "trackName": "BikeControl: Virtual Shifting",
     "firstRecordedAt": 1778874489166
   },
   {

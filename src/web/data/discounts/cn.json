@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6746777407,
+    "region": "cn",
+    "timestamp": 1787838577561,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "皮肤合集",
+        "from": "¥15.00",
+        "to": "¥14.00",
+        "range": "[¥14.00 ~ ¥15.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "凉爽夏日",
+        "from": "¥6.00",
+        "to": "¥4.80",
+        "range": "[¥4.80 ~ ¥6.00]"
+      }
+    ],
+    "price": 25,
+    "formattedPrice": "¥25.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6746777407",
+    "trackName": "魔法工艺",
+    "firstRecordedAt": 1766399434346
+  },
+  {
     "trackId": 1160943124,
     "region": "cn",
     "timestamp": 1787737196607,
@@ -3003,7 +3030,7 @@
     "formattedPrice": "免费",
     "currency": "CNY",
     "trackViewUrl": "https://apps.apple.com/cn/app/id6753721284",
-    "trackName": "BikeControl",
+    "trackName": "BikeControl: Virtual Shifting",
     "firstRecordedAt": 1778874489166
   },
   {

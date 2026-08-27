@@ -2277,6 +2277,29 @@
       ]
     ]
   },
+  "323662975": {
+    "trackId": 323662975,
+    "trackName": "PFMA E6B",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "minPriceInfo": {
+      "price": 7.99,
+      "formattedPrice": "7,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 7.99,
+          "formattedPrice": "7,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "325307477": {
     "trackId": 325307477,
     "trackName": "AudioTools, dB, Sound & Audio",
@@ -16697,6 +16720,57 @@
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "484090401": {
+    "trackId": 484090401,
+    "trackName": "Akinator VIP",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "11.250 Geniz": "0,99 €",
+      "115 000 Geniz (58 750 GRÁTIS)": "5,99 €",
+      "Pacote de 5 créditos": "0,99 €",
+      "80 000 Geniz (35 000 GRÁTIS)": "3,99 €",
+      "50 000 Geniz (16 250 GRÁTIS)": "2,99 €",
+      "30.000 Geniz (7.500 GRÁTIS)": "1,99 €",
+      "Pacote de 65 créditos": "2,99 €",
+      "Pacote de 40 créditos": "3,99 €",
+      "Pacote de 15 créditos": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "3,99 €",
+      "11.250 Geniz": "0,99 €",
+      "115 000 Geniz (58 750 GRÁTIS)": "5,99 €",
+      "Pacote de 5 créditos": "0,99 €",
+      "80 000 Geniz (35 000 GRÁTIS)": "3,99 €",
+      "50 000 Geniz (16 250 GRÁTIS)": "2,99 €",
+      "30.000 Geniz (7.500 GRÁTIS)": "1,99 €",
+      "Pacote de 65 créditos": "2,99 €",
+      "Pacote de 40 créditos": "3,99 €",
+      "Pacote de 15 créditos": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "11.250 Geniz": "0,99 €",
+            "115 000 Geniz (58 750 GRÁTIS)": "5,99 €",
+            "Pacote de 5 créditos": "0,99 €",
+            "80 000 Geniz (35 000 GRÁTIS)": "3,99 €",
+            "50 000 Geniz (16 250 GRÁTIS)": "2,99 €",
+            "30.000 Geniz (7.500 GRÁTIS)": "1,99 €",
+            "Pacote de 65 créditos": "2,99 €",
+            "Pacote de 40 créditos": "3,99 €",
+            "Pacote de 15 créditos": "1,99 €"
+          }
         }
       ]
     ]
@@ -62107,13 +62181,28 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Yearly": "22,99 €",
+      "Monthly": "1,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Yearly": "22,99 €",
+      "Monthly": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Yearly": "22,99 €",
+            "Monthly": "1,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767385796108,
@@ -68709,6 +68798,29 @@
             "10000Golds": "5,99 €",
             "3500Golds": "1,99 €"
           }
+        }
+      ]
+    ]
+  },
+  "1443533088": {
+    "trackId": 1443533088,
+    "trackName": "搜韵",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -103070,6 +103182,12 @@
     "history": [
       [
         {
+          "timestamp": 1787838577561,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1787790526948,
           "price": 19.99,
           "formattedPrice": "19,99 €",
@@ -108976,6 +109094,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Airbus A320neo": "3,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "The Aircraft Bundle": "24,99 €",
+            "Airbus A350-1000": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787706883067,
@@ -131613,7 +131750,7 @@
   },
   "6753721284": {
     "trackId": 6753721284,
-    "trackName": "BikeControl",
+    "trackName": "BikeControl: Virtual Shifting",
     "region": "pt",
     "maxPriceInfo": {
       "price": 5.99,
@@ -135483,6 +135620,29 @@
           "timestamp": 1787761021464,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6786115854": {
+    "trackId": 6786115854,
+    "trackName": "No More Slimes!!: Idle Action",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
           "inAppPurchases": {}
         }
       ]

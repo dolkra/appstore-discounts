@@ -29692,13 +29692,13 @@
     "minPriceInfo": {
       "price": 48,
       "formattedPrice": "HK$ 48.00",
-      "Minecraft Store Item 2": "HK$ 18.00",
+      "Minecraft Store Item 2": "HK$ 16.00",
       "Realms Plus:10 Friends w/trial": "HK$ 58.00",
       "Minecraft Store Item 6": "HK$ 48.00",
       "Realms Monthly Subscription: You + 2 Friends": "HK$ 28.00",
       "Minecraft Store Item 3": "HK$ 22.00",
       "Minecraft Store Item 4": "HK$ 32.00",
-      "Minecraft Store Item 10": "HK$ 88.00",
+      "Minecraft Store Item 10": "HK$ 82.00",
       "Minecraft Store Item 5": "HK$ 38.00",
       "Realms Plus: You + 10 Friends": "HK$ 58.00",
       "Minecraft Store Item 1": "HK$ 8.00",
@@ -29727,6 +29727,25 @@
       "Cuddly Starter Pack": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 56,
+          "formattedPrice": "HK$ 56.00",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "HK$ 58.00",
+            "Minecraft Store Item 2": "HK$ 16.00",
+            "Realms Monthly Subscription: You + 2 Friends": "HK$ 28.00",
+            "Minecraft Store Item 6": "HK$ 48.00",
+            "Minecraft Store Item 3": "HK$ 22.00",
+            "Realms Plus: You + 10 Friends": "HK$ 58.00",
+            "Minecraft Store Item 4": "HK$ 32.00",
+            "Minecraft Store Item 5": "HK$ 38.00",
+            "Minecraft Store Item 10": "HK$ 82.00",
+            "Minecraft Store Item 1": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787509693774,
@@ -32118,6 +32137,54 @@
           "price": 22,
           "formattedPrice": "HK$ 22.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "484090401": {
+    "trackId": 484090401,
+    "trackName": "Akinator VIP",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "11,250 Geniz": "HK$ 8.00",
+      "115,000 Geniz (58,750 FREE)": "HK$ 38.00",
+      "50,000 Geniz (16,250 FREE)": "HK$ 22.00",
+      "80,000 Geniz (35,000 FREE)": "HK$ 32.00",
+      "30,000 Geniz (7,500 FREE)": "HK$ 18.00",
+      "礼包65币": "HK$ 22.00",
+      "礼包40币": "HK$ 18.00",
+      "礼包15币": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 32,
+      "formattedPrice": "HK$ 32.00",
+      "11,250 Geniz": "HK$ 8.00",
+      "115,000 Geniz (58,750 FREE)": "HK$ 38.00",
+      "50,000 Geniz (16,250 FREE)": "HK$ 22.00",
+      "80,000 Geniz (35,000 FREE)": "HK$ 32.00",
+      "30,000 Geniz (7,500 FREE)": "HK$ 18.00",
+      "礼包65币": "HK$ 22.00",
+      "礼包40币": "HK$ 18.00",
+      "礼包15币": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "11,250 Geniz": "HK$ 8.00",
+            "115,000 Geniz (58,750 FREE)": "HK$ 38.00",
+            "50,000 Geniz (16,250 FREE)": "HK$ 22.00",
+            "80,000 Geniz (35,000 FREE)": "HK$ 32.00",
+            "30,000 Geniz (7,500 FREE)": "HK$ 18.00",
+            "礼包65币": "HK$ 22.00",
+            "礼包40币": "HK$ 18.00",
+            "礼包15币": "HK$ 18.00"
+          }
         }
       ]
     ]
@@ -65699,6 +65766,25 @@
       "6 Mo. Global Texting": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "HK$ 22.00",
+            "1 Mo. Global Texting": "HK$ 32.00",
+            "$5 Credit": "HK$ 42.00",
+            "3 Mo. CAN Texting": "HK$ 42.00",
+            "1 Mo. Fongo Plus": "HK$ 88.00",
+            "1 Mo. Remove Ads": "HK$ 22.00",
+            "12 Mo. CAN Texting": "HK$ 148.00",
+            "6 Mo. CAN Texting": "HK$ 88.00",
+            "$20 Credit": "HK$ 148.00",
+            "3 Mo. Global Texting": "HK$ 68.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787650446455,
@@ -127844,13 +127930,28 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "年訂閱": "HK$ 148.00",
+      "月訂閱": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "formattedPrice": "HK$ 88.00",
+      "年訂閱": "HK$ 148.00",
+      "月訂閱": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "年訂閱": "HK$ 148.00",
+            "月訂閱": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767385796108,
@@ -148604,6 +148705,29 @@
             "10000金幣": "HK$ 38.00",
             "3500金幣": "HK$ 18.00"
           }
+        }
+      ]
+    ]
+  },
+  "1443533088": {
+    "trackId": 1443533088,
+    "trackName": "搜韵",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
         }
       ]
     ]
@@ -285520,7 +285644,7 @@
   },
   "6753721284": {
     "trackId": 6753721284,
-    "trackName": "BikeControl",
+    "trackName": "BikeControl: Virtual Shifting",
     "region": "hk",
     "maxPriceInfo": {
       "price": 38,
@@ -289336,6 +289460,29 @@
           "timestamp": 1787761021464,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6786115854": {
+    "trackId": 6786115854,
+    "trackName": "No More Slimes!!: Idle Action",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "minPriceInfo": {
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
           "inAppPurchases": {}
         }
       ]

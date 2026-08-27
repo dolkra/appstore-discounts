@@ -745,6 +745,25 @@
     "history": [
       [
         {
+          "timestamp": 1787838577561,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Adult Swim Customization Pack": "₺49,99",
+            "Grimm Skin Pack": "₺49,99",
+            "Zombie Skin Pack": "₺49,99",
+            "Monster Pack": "₺49,99",
+            "Dance Pack Three": "₺49,99",
+            "Mondo Pack": "₺49,99",
+            "Superbowl Skin Pack": "₺49,99",
+            "Candy Land Pack": "₺49,99",
+            "Underwater World Pack": "₺49,99",
+            "Mafia Pack": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1782654340451,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -36449,6 +36468,51 @@
           "price": 149.99,
           "formattedPrice": "₺149,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "484090401": {
+    "trackId": 484090401,
+    "trackName": "Akinator VIP",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "11,250 Geniz": "₺49,99",
+      "115,000 Geniz (58,750 FREE)": "₺249,99",
+      "30,000 Geniz (7,500 FREE)": "₺99,99",
+      "50,000 Geniz (16,250 FREE)": "₺149,99",
+      "Pack 15 credits": "₺49,99",
+      "Pack 10 credits": "₺49,99",
+      "Pack 5 credits": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 199.99,
+      "formattedPrice": "₺199,99",
+      "11,250 Geniz": "₺49,99",
+      "115,000 Geniz (58,750 FREE)": "₺249,99",
+      "30,000 Geniz (7,500 FREE)": "₺99,99",
+      "50,000 Geniz (16,250 FREE)": "₺149,99",
+      "Pack 15 credits": "₺49,99",
+      "Pack 10 credits": "₺49,99",
+      "Pack 5 credits": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "11,250 Geniz": "₺49,99",
+            "115,000 Geniz (58,750 FREE)": "₺249,99",
+            "30,000 Geniz (7,500 FREE)": "₺99,99",
+            "50,000 Geniz (16,250 FREE)": "₺149,99",
+            "Pack 15 credits": "₺49,99",
+            "Pack 10 credits": "₺49,99",
+            "Pack 5 credits": "₺99,99"
+          }
         }
       ]
     ]
@@ -131014,13 +131078,28 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "formattedPrice": "₺499,99",
+      "Yearly": "₺999,99",
+      "Monthly": "₺99,99"
     },
     "minPriceInfo": {
       "price": 499.99,
-      "formattedPrice": "₺499,99"
+      "formattedPrice": "₺499,99",
+      "Yearly": "₺999,99",
+      "Monthly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "Yearly": "₺999,99",
+            "Monthly": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767385796108,
@@ -144903,6 +144982,29 @@
       ]
     ]
   },
+  "1443533088": {
+    "trackId": 1443533088,
+    "trackName": "搜韵",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1443988620": {
     "trackId": 1443988620,
     "trackName": "Quantumult X",
@@ -147431,6 +147533,25 @@
       "Black Friday Chaos": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Dynasty Hero Set": "₺999,99",
+            "Dynasty Pet": "₺799,99",
+            "Ultimate Amulet": "₺299,99",
+            "Ultimate Ring": "₺299,99",
+            "Ultimate Pet": "₺299,99",
+            "Ultimate Ancient": "₺699,99",
+            "Royal Rune": "₺149,99",
+            "Norths Warden Pet Pack": "₺799,99",
+            "Norths Warden Set": "₺999,99",
+            "Black Friday Combo Items": "₺1.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786682840855,
@@ -157874,7 +157995,7 @@
       "Golden Dice": "₺249,99",
       "Lava Dice": "₺249,99",
       "Hamburger Token": "₺129,99",
-      "L.A. Monstropolis Dice": "₺229,99",
+      "L.A. Monstropolis Dice": "₺249,99",
       "Bald Eagle Token": "₺129,99",
       "Cherry Blossom Tokyo Board": "₺399,99",
       "Transylvania Board": "₺399,99",
@@ -158358,6 +158479,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787838577561,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Lava Bundle": "₺599,99",
+            "Victorian London Board": "₺399,99",
+            "L.A. Monstropolis Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "Transylvania Board": "₺399,99",
+            "Monstropolis Board": "₺399,99"
+          }
+        },
         {
           "timestamp": 1787790526948,
           "price": 249.99,
@@ -275661,7 +275799,7 @@
   },
   "6753721284": {
     "trackId": 6753721284,
-    "trackName": "BikeControl",
+    "trackName": "BikeControl: Virtual Shifting",
     "region": "tr",
     "maxPriceInfo": {
       "price": 249.99,
@@ -279566,6 +279704,29 @@
           "timestamp": 1787761021464,
           "price": 4.99,
           "formattedPrice": "₺4,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6786115854": {
+    "trackId": 6786115854,
+    "trackName": "No More Slimes!!: Idle Action",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "minPriceInfo": {
+      "price": 499.99,
+      "formattedPrice": "₺499,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787838577561,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
           "inAppPurchases": {}
         }
       ]

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1435461053,
+    "region": "us",
+    "timestamp": 1787838577561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$8.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $8.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1435461053",
+    "trackName": "This Is the Police",
+    "firstRecordedAt": 1745375383677
+  },
+  {
+    "trackId": 6633412890,
+    "region": "us",
+    "timestamp": 1787838577561,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "$1.09",
+        "range": "[$1.09 ~ $1.99]"
+      }
+    ],
+    "price": 1.09,
+    "formattedPrice": "$1.09",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6633412890",
+    "trackName": "Tiny Terraces",
+    "firstRecordedAt": 1769087164675
+  },
+  {
     "trackId": 1546106967,
     "region": "us",
     "timestamp": 1787773587954,
@@ -4880,7 +4920,7 @@
         "name": "Price",
         "from": "$1.99",
         "to": "$1.19",
-        "range": "[$1.19 ~ $1.99]"
+        "range": "[$1.09 ~ $1.99]"
       }
     ],
     "price": 1.19,
@@ -6529,7 +6569,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6753721284",
-    "trackName": "BikeControl",
+    "trackName": "BikeControl: Virtual Shifting",
     "firstRecordedAt": 1778874489166
   },
   {
@@ -17067,7 +17107,7 @@
         "name": "Price",
         "from": "$1.99",
         "to": "$1.29",
-        "range": "[$1.19 ~ $1.99]"
+        "range": "[$1.09 ~ $1.99]"
       }
     ],
     "price": 1.29,
