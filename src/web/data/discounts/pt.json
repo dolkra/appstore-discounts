@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1435461053,
+    "region": "pt",
+    "timestamp": 1787790526948,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1435461053",
+    "trackName": "This is the Police",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6633412890,
+    "region": "pt",
+    "timestamp": 1787790526948,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6633412890",
+    "trackName": "Tiny Terraces",
+    "firstRecordedAt": 1769087164675
+  },
+  {
     "trackId": 1546106967,
     "region": "pt",
     "timestamp": 1787773587954,
