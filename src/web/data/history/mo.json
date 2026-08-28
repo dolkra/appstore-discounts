@@ -100201,6 +100201,25 @@
     "history": [
       [
         {
+          "timestamp": 1787928940020,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787498460547,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -101288,6 +101307,60 @@
           "price": 3.99,
           "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1322914367": {
+    "trackId": 1322914367,
+    "trackName": "心動回憶",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "60心动包": "USD 0.99",
+      "红包": "USD 0.99",
+      "300心动包": "USD 3.99",
+      "680心动包": "USD 9.99",
+      "超值金币x1440": "USD 0.99",
+      "便捷礼包": "USD 2.99",
+      "180心动包": "USD 2.99",
+      "超凡礼包": "USD 29.99",
+      "超值月卡": "USD 3.99",
+      "120心动包": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "60心动包": "USD 0.99",
+      "红包": "USD 0.99",
+      "300心动包": "USD 3.99",
+      "680心动包": "USD 9.99",
+      "超值金币x1440": "USD 0.99",
+      "便捷礼包": "USD 2.99",
+      "180心动包": "USD 2.99",
+      "超凡礼包": "USD 29.99",
+      "超值月卡": "USD 3.99",
+      "120心动包": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "60心动包": "USD 0.99",
+            "红包": "USD 0.99",
+            "300心动包": "USD 3.99",
+            "680心动包": "USD 9.99",
+            "超值金币x1440": "USD 0.99",
+            "便捷礼包": "USD 2.99",
+            "180心动包": "USD 2.99",
+            "超凡礼包": "USD 29.99",
+            "超值月卡": "USD 3.99",
+            "120心动包": "USD 1.99"
+          }
         }
       ]
     ]
@@ -120447,10 +120520,18 @@
       "formattedPrice": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787520021461,
@@ -175699,6 +175780,17 @@
     "history": [
       [
         {
+          "timestamp": 1787928940020,
+          "price": 3.49,
+          "formattedPrice": "USD 3.49",
+          "inAppPurchases": {
+            "The Boglands DLC": "USD 2.99",
+            "Supporter Pack": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784556269920,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -184728,6 +184820,14 @@
     "history": [
       [
         {
+          "timestamp": 1787928940020,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1767285341831,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -188767,6 +188867,18 @@
       "DLC - The Tournament": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "USD 1.99",
+            "DLC - The Ember Saga": "USD 1.99",
+            "DLC - The Tournament": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786636713567,
@@ -198922,7 +199034,7 @@
       "formattedPrice": "USD 4.99",
       "BikeControl Pro": "USD 24.99",
       "BikeControl Pro - Yearly": "USD 22.99",
-      "Full Version Unlock": "USD 3.99"
+      "Full Version Unlock": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -198932,6 +199044,18 @@
       "Full Version Unlock": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "BikeControl Pro": "USD 1.99",
+            "BikeControl Pro - Yearly": "USD 22.99",
+            "Full Version Unlock": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782207512200,
@@ -200911,13 +201035,52 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "formattedPrice": "USD 4.99",
+      "16888 永恆威望包": "USD 199.00",
+      "49888 帝王神話禮": "USD 499.00",
+      "108 新手禮包": "USD 2.99",
+      "9888 豪華至尊禮": "USD 127.99",
+      "798 進階禮盒": "USD 14.99",
+      "6888 至尊禮": "USD 99.99",
+      "498 暢玩禮包": "USD 9.99",
+      "2888 豪華禮": "USD 44.99",
+      "1888 高級禮盒": "USD 31.90",
+      "198 體驗禮包": "USD 4.99"
     },
     "minPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 0,
+      "formattedPrice": "免費",
+      "16888 永恆威望包": "USD 199.00",
+      "49888 帝王神話禮": "USD 499.00",
+      "108 新手禮包": "USD 2.99",
+      "9888 豪華至尊禮": "USD 127.99",
+      "798 進階禮盒": "USD 14.99",
+      "6888 至尊禮": "USD 99.99",
+      "498 暢玩禮包": "USD 9.99",
+      "2888 豪華禮": "USD 44.99",
+      "1888 高級禮盒": "USD 31.90",
+      "198 體驗禮包": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "16888 永恆威望包": "USD 199.00",
+            "49888 帝王神話禮": "USD 499.00",
+            "108 新手禮包": "USD 2.99",
+            "9888 豪華至尊禮": "USD 127.99",
+            "798 進階禮盒": "USD 14.99",
+            "6888 至尊禮": "USD 99.99",
+            "498 暢玩禮包": "USD 9.99",
+            "2888 豪華禮": "USD 44.99",
+            "1888 高級禮盒": "USD 31.90",
+            "198 體驗禮包": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784390207966,

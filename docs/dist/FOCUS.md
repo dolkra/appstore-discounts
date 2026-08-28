@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2238` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2239` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2239|1322914367|Automatic|心动回忆 - 男生超爱的真人视频恋爱游戏|心動回憶|心動回憶|心動回憶|心動回憶|心動回憶|心动回忆 - 男生超爱的真人视频恋爱游戏|
 |2238|673017568|Automatic|❌|幼兒學聲音123|幼兒學聲音123|幼兒學聲音123|Toddler Sound 123|Toddler Sound 123|Sons para os Pequenos 123|
 |2237|484090401|Automatic|❌|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|
 |2236|1443533088|Automatic|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|

@@ -68813,6 +68813,23 @@
     "history": [
       [
         {
+          "timestamp": 1787928940020,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "1 Mo. CAN Texting": "₺149,99",
+            "$5 Credit": "₺299,99",
+            "1 Mo. Global Texting": "₺199,99",
+            "12 Mo. CAN Texting": "₺999,99",
+            "6 Mo. CAN Texting": "₺499,99",
+            "12 Mo. Remove Ads": "₺999,99",
+            "3 Mo. CAN Texting": "₺299,99",
+            "$20 Credit": "₺999,99",
+            "1 Mo. Fongo Plus": "₺499,99",
+            "$50 Credit": "₺2.499,99"
+          }
+        },
+        {
           "timestamp": 1787876097640,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -130410,6 +130427,58 @@
       ]
     ]
   },
+  "1322914367": {
+    "name": "心動回憶",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
+      "6480心动包": "₺4.999,99",
+      "3280心动包": "₺2.499,99",
+      "1980心动包": "₺1.499,99",
+      "1280心动包": "₺999,99",
+      "980心动包": "₺799,99",
+      "680心动包": "₺499,99",
+      "300心动包": "₺199,99",
+      "180心动包": "₺149,99",
+      "60心动包": "₺39,99",
+      "120心动包": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
+      "6480心动包": "₺4.999,99",
+      "3280心动包": "₺2.499,99",
+      "1980心动包": "₺1.499,99",
+      "1280心动包": "₺999,99",
+      "980心动包": "₺799,99",
+      "680心动包": "₺499,99",
+      "300心动包": "₺199,99",
+      "180心动包": "₺149,99",
+      "60心动包": "₺39,99",
+      "120心动包": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "6480心动包": "₺4.999,99",
+            "3280心动包": "₺2.499,99",
+            "1980心动包": "₺1.499,99",
+            "1280心动包": "₺999,99",
+            "980心动包": "₺799,99",
+            "680心动包": "₺499,99",
+            "300心动包": "₺199,99",
+            "180心动包": "₺149,99",
+            "60心动包": "₺39,99",
+            "120心动包": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
   "1324815218": {
     "name": "Roll for the Galaxy",
     "maxPriceInfo": {
@@ -156492,6 +156561,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1787928940020,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Golden Dice": "₺249,99",
+            "Lava Bundle": "₺599,99",
+            "The Complete Collection": "₺1.999,99",
+            "Victorian London Board": "₺399,99",
+            "Monstropolis Board": "₺399,99",
+            "Transylvania Board": "₺399,99"
+          }
+        },
         {
           "timestamp": 1787876097640,
           "price": 249.99,
@@ -234203,6 +234289,23 @@
     "history": [
       [
         {
+          "timestamp": 1787928940020,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "EC135": "₺49,99",
+            "Boeing 737-800": "₺149,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Concorde": "₺99,99",
+            "Boeing 737-900": "₺99,99",
+            "Global scenery - 3 months": "₺399,99"
+          }
+        },
+        {
           "timestamp": 1787876097640,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -272162,7 +272265,7 @@
       "formattedPrice": "₺249,99",
       "BikeControl Pro": "₺99,99",
       "BikeControl Pro - Yearly": "₺1.199,99",
-      "Full Version Unlock": "₺199,99"
+      "Full Version Unlock": "₺249,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -272172,6 +272275,18 @@
       "Full Version Unlock": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "BikeControl Pro": "₺99,99",
+            "Full Version Unlock": "₺249,99",
+            "BikeControl Pro - Yearly": "₺1.199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781864761375,
@@ -274067,10 +274182,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787928940020,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783756500773,

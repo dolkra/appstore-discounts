@@ -1,5 +1,72 @@
 [
   {
+    "trackId": 1309638846,
+    "region": "cn",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥22.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1309638846",
+    "trackName": "Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜",
+    "firstRecordedAt": 1722784406759
+  },
+  {
+    "trackId": 6746777407,
+    "region": "cn",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "万圣节主题套装",
+        "from": "¥6.00",
+        "to": "¥4.00",
+        "range": "[¥4.00 ~ ¥6.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "马年新春",
+        "from": "¥6.00",
+        "to": "¥4.00",
+        "range": "[¥4.00 ~ ¥6.00]"
+      }
+    ],
+    "price": 25,
+    "formattedPrice": "¥25.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6746777407",
+    "trackName": "魔法工艺",
+    "firstRecordedAt": 1766399434346
+  },
+  {
+    "trackId": 6753721284,
+    "region": "cn",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "BikeControl Pro",
+        "from": "¥168.00",
+        "to": "¥15.00",
+        "range": "[¥15.00 ~ ¥168.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6753721284",
+    "trackName": "BikeControl: Virtual Shifting",
+    "firstRecordedAt": 1778874489166
+  },
+  {
     "trackId": 1312534841,
     "region": "cn",
     "timestamp": 1787876097640,
@@ -58,33 +125,6 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6504854196",
     "trackName": "下一站江湖Ⅱ",
     "firstRecordedAt": 1756239208453
-  },
-  {
-    "trackId": 6746777407,
-    "region": "cn",
-    "timestamp": 1787876097640,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "万圣节主题套装",
-        "from": "¥6.00",
-        "to": "¥4.00",
-        "range": "[¥4.00 ~ ¥6.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "马年新春",
-        "from": "¥6.00",
-        "to": "¥4.00",
-        "range": "[¥4.00 ~ ¥6.00]"
-      }
-    ],
-    "price": 25,
-    "formattedPrice": "¥25.00",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id6746777407",
-    "trackName": "魔法工艺",
-    "firstRecordedAt": 1766399434346
   },
   {
     "trackId": 6746777407,

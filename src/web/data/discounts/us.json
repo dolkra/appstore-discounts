@@ -1,5 +1,125 @@
 [
   {
+    "trackId": 459189186,
+    "region": "us",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $9.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id459189186",
+    "trackName": "Machinarium",
+    "firstRecordedAt": 1745362938822
+  },
+  {
+    "trackId": 1490100895,
+    "region": "us",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $6.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1490100895",
+    "trackName": "Happy Game :)",
+    "firstRecordedAt": 1769480796092
+  },
+  {
+    "trackId": 1580067723,
+    "region": "us",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.39 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 1630887189,
+    "region": "us",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$2.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1630887189",
+    "trackName": "20 Minutes Till Dawn:Premium",
+    "firstRecordedAt": 1773607101601
+  },
+  {
+    "trackId": 6740349855,
+    "region": "us",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6740349855",
+    "trackName": "Backyard Football '99",
+    "firstRecordedAt": 1757409218377
+  },
+  {
+    "trackId": 6762582312,
+    "region": "us",
+    "timestamp": 1787928940020,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "Free",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6762582312",
+    "trackName": "Po Jun: Three Kingdoms - RTS",
+    "firstRecordedAt": 1783756500773
+  },
+  {
     "trackId": 6747138769,
     "region": "us",
     "timestamp": 1787876097640,
