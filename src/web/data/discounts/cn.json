@@ -1,5 +1,92 @@
 [
   {
+    "trackId": 1312534841,
+    "region": "cn",
+    "timestamp": 1787876097640,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "¥3.00",
+        "range": "[¥3.00 ~ ¥8.00]"
+      }
+    ],
+    "price": 3,
+    "formattedPrice": "¥3.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1312534841",
+    "trackName": "MyText Widget",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6747138769,
+    "region": "cn",
+    "timestamp": 1787876097640,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥128.00",
+        "to": "¥98.00",
+        "range": "[¥38.00 ~ ¥128.00]"
+      }
+    ],
+    "price": 98,
+    "formattedPrice": "¥98.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6747138769",
+    "trackName": "Easy Text to Speech Reader Pro",
+    "firstRecordedAt": 1755066012809
+  },
+  {
+    "trackId": 6504854196,
+    "region": "cn",
+    "timestamp": 1787876097640,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "¥9.90",
+        "range": "[¥9.90 ~ ¥36.00]"
+      }
+    ],
+    "price": 9.9,
+    "formattedPrice": "¥9.90",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6504854196",
+    "trackName": "下一站江湖Ⅱ",
+    "firstRecordedAt": 1756239208453
+  },
+  {
+    "trackId": 6746777407,
+    "region": "cn",
+    "timestamp": 1787876097640,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "万圣节主题套装",
+        "from": "¥6.00",
+        "to": "¥4.00",
+        "range": "[¥4.00 ~ ¥6.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "马年新春",
+        "from": "¥6.00",
+        "to": "¥4.00",
+        "range": "[¥4.00 ~ ¥6.00]"
+      }
+    ],
+    "price": 25,
+    "formattedPrice": "¥25.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6746777407",
+    "trackName": "魔法工艺",
+    "firstRecordedAt": 1766399434346
+  },
+  {
     "trackId": 6746777407,
     "region": "cn",
     "timestamp": 1787838577561,
@@ -1823,7 +1910,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥12.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 12,
@@ -2502,7 +2589,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥12.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 12,
@@ -3083,7 +3170,7 @@
         "name": "Price",
         "from": "¥18.00",
         "to": "¥12.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 12,
@@ -5972,7 +6059,7 @@
         "name": "Price",
         "from": "¥24.00",
         "to": "¥18.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 18,
@@ -7208,7 +7295,7 @@
         "name": "Price",
         "from": "¥24.00",
         "to": "¥18.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 18,
@@ -8428,7 +8515,7 @@
         "name": "Price",
         "from": "¥24.00",
         "to": "¥18.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 18,
@@ -10087,7 +10174,7 @@
         "name": "Price",
         "from": "¥24.00",
         "to": "¥18.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 18,
@@ -10514,7 +10601,7 @@
         "name": "Price",
         "from": "¥24.00",
         "to": "¥18.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 18,
@@ -11429,7 +11516,7 @@
         "name": "Price",
         "from": "¥28.00",
         "to": "¥18.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 18,
@@ -15578,7 +15665,7 @@
         "name": "Price",
         "from": "¥36.00",
         "to": "¥28.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 28,
@@ -17184,7 +17271,7 @@
         "name": "Price",
         "from": "¥36.00",
         "to": "¥28.00",
-        "range": "[¥12.00 ~ ¥36.00]"
+        "range": "[¥9.90 ~ ¥36.00]"
       }
     ],
     "price": 28,

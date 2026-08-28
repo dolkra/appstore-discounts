@@ -46940,6 +46940,29 @@
       ]
     ]
   },
+  "673017568": {
+    "trackId": 673017568,
+    "trackName": "幼兒學聲音123",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787876097640,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "674064590": {
     "trackId": 674064590,
     "trackName": "Stickers for WeChat",
@@ -174445,7 +174468,7 @@
       "Orbiting Greatness": "USD 1.99",
       "Regina Kamińska": "USD 1.99",
       "Kacper Pawlak": "USD 1.99",
-      "Welcome Offer": "USD 28.99",
+      "Welcome Offer": "USD 29.99",
       "Europe Character Bundle": "USD 2.99",
       "Bertie Hawkes": "USD 1.99",
       "Rocket Locomotive": "USD 1.99",
@@ -174456,11 +174479,13 @@
       "Lumberjack Carriage": "USD 1.99",
       "Oil Baron carriage": "USD 1.99",
       "Dolomite Dynamite": "USD 1.99",
-      "Ticket to Ride Sale Offer": "USD 27.99",
+      "Ticket to Ride Sale Offer": "USD 29.99",
       "The Spooktacular Halloween Bundle": "USD 7.99",
       "Spooktacular Vampire Character": "USD 1.99",
       "Spooktacular Orange Player Colour": "USD 4.99",
-      "Spooktacular Pumpkin Carriage": "USD 1.99"
+      "Spooktacular Pumpkin Carriage": "USD 1.99",
+      "Winter Wonderland Purple Colour": "USD 4.99",
+      "Winter Wonderland Teal Colour": "USD 4.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -174514,9 +174539,30 @@
       "The Spooktacular Halloween Bundle": "USD 7.99",
       "Spooktacular Vampire Character": "USD 1.99",
       "Spooktacular Orange Player Colour": "USD 4.99",
-      "Spooktacular Pumpkin Carriage": "USD 1.99"
+      "Spooktacular Pumpkin Carriage": "USD 1.99",
+      "Winter Wonderland Purple Colour": "USD 4.99",
+      "Winter Wonderland Teal Colour": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787876097640,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Winter Wonderland Purple Colour": "USD 4.99",
+            "Winter Wonderland Teal Colour": "USD 4.99",
+            "Spooktacular Pumpkin Carriage": "USD 1.99",
+            "Spooktacular Vampire Character": "USD 1.99",
+            "Spooktacular Orange Player Colour": "USD 4.99",
+            "The Spooktacular Halloween Bundle": "USD 7.99",
+            "Ticket to Ride Sale Offer": "USD 29.99",
+            "Welcome Offer": "USD 29.99",
+            "Poland Character Bundle": "USD 2.99",
+            "Kujawiak": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787337297898,
@@ -186300,6 +186346,14 @@
       "formattedPrice": "USD 5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787876097640,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787790526948,
@@ -200124,7 +200178,7 @@
   },
   "6778099993": {
     "trackId": 6778099993,
-    "trackName": "Manager for KuKirin",
+    "trackName": "Manager for Scooters",
     "region": "mo",
     "maxPriceInfo": {
       "price": 0.99,
