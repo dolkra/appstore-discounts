@@ -1,12 +1,14 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2240` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2242` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2242|1382755469|自动|X Air Controller|X Air Controller|X Air Controller|X Air Controller|X Air Controller|X Air Controller|❌|
+|2241|6747186679|自动|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|
 |2240|6760446039|自动|般若心灯|般若心灯|般若心灯|般若心灯|般若心灯|般若心灯|般若心灯|
 |2239|1322914367|自动|心动回忆 - 男生超爱的真人视频恋爱游戏|心動回憶|心動回憶|心動回憶|心動回憶|心動回憶|心动回忆 - 男生超爱的真人视频恋爱游戏|
 |2238|673017568|自动|❌|幼兒學聲音123|幼兒學聲音123|幼兒學聲音123|Toddler Sound 123|Toddler Sound 123|Sons para os Pequenos 123|
@@ -1845,7 +1847,7 @@
 |405|1291429551|自动|❌|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|
 |404|1291730054|自动|❌|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|
 |403|1296085645|自动|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|
-|402|1298544927|自动|❌|❌|❌|❌|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|
+|402|1298544927|自动|❌|❌|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|
 |401|1303222868|自动|Paprika食谱管理3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Gestor de Receitas Paprika 3|
 |400|1312534841|自动|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|
 |399|1329434099|自动|乱斗堂3|❌|❌|❌|❌|❌|❌|

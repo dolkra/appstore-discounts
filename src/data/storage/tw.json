@@ -9988,6 +9988,25 @@
     "history": [
       [
         {
+          "timestamp": 1788006103133,
+          "price": 790,
+          "formattedPrice": "$790.00",
+          "inAppPurchases": {
+            "forScore Pro": "$490.00",
+            "Brahms: The Mutopia Collection": "$0.00",
+            "Liszt: The Mutopia Collection": "$0.00",
+            "forScore Pro 30-Day Pass": "$90.00",
+            "Schumann: The Mutopia Collection": "$0.00",
+            "Burgmüller: The Mutopia Collection": "$0.00",
+            "Satie: The Mutopia Collection": "$0.00",
+            "Tchaikovsky: The Mutopia Collection": "$0.00",
+            "Haydn: The Mutopia Collection": "$0.00",
+            "Rameau: The Mutopia Collection": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786959618959,
           "price": 790,
           "formattedPrice": "$790.00",
@@ -126364,6 +126383,27 @@
       ]
     ]
   },
+  "1298544927": {
+    "name": "My Child Lebensborn",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1299784324": {
     "name": "怪獸迷你遊戲豪華版",
     "maxPriceInfo": {
@@ -140727,6 +140767,27 @@
           "timestamp": 1722784406759,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1382755469": {
+    "name": "X Air Controller",
+    "maxPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "minPriceInfo": {
+      "price": 150,
+      "formattedPrice": "$150.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 150,
+          "formattedPrice": "$150.00",
           "inAppPurchases": {}
         }
       ]
@@ -296030,14 +296091,22 @@
   "6751758741": {
     "name": "AutoFill – Flash Checkout",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786224545219,
@@ -296623,6 +296692,27 @@
           "timestamp": 1787961173466,
           "price": 60,
           "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747186679": {
+    "name": "女巫的毒药",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 30,
+          "formattedPrice": "$30.00",
           "inAppPurchases": {}
         }
       ]

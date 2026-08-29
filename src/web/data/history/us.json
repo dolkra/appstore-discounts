@@ -159361,6 +159361,29 @@
       ]
     ]
   },
+  "1382755469": {
+    "trackId": 1382755469,
+    "trackName": "X Air Controller",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1384164285": {
     "trackId": 1384164285,
     "trackName": "AR鲁班尺",
@@ -216505,6 +216528,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788006103133,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Midnight Deck": "$9.99",
+            "Unlock Taboo Premium": "$2.99",
+            "Word Bonanza Bundle": "$19.99",
+            "Generations Gen Z Pack": "$1.99",
+            "Midnight Night Out Pack": "$2.99",
+            "Midnight Bedroom Pack": "$2.99",
+            "Mystery Mix Pack 1": "$1.99",
+            "Welcome Offer": "$9.99",
+            "Ready to Roast": "$6.49",
+            "Sports and Games Pack": "$7.99"
+          }
+        },
         {
           "timestamp": 1787982522265,
           "price": 1.99,
@@ -329785,6 +329825,23 @@
     "history": [
       [
         {
+          "timestamp": 1788006103133,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "ROBO FISH 01": "$1.99",
+            "GHOST BRIDE": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "ORANGE/WHITE": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "YELLOW GOLD RYUKIN": "$1.99",
+            "PANDA TELESCOPE": "$1.99",
+            "BAT FISH": "$1.99",
+            "GHOST LUMINOUS": "$1.99"
+          }
+        },
+        {
           "timestamp": 1787982522265,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -339279,14 +339336,22 @@
     "trackName": "AutoFill – Flash Checkout",
     "region": "us",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 3.99,
+      "formattedPrice": "$3.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786224545219,
@@ -339995,6 +340060,29 @@
           "timestamp": 1787961173466,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747186679": {
+    "trackId": 6747186679,
+    "trackName": "女巫的毒药",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

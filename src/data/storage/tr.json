@@ -137589,6 +137589,27 @@
       ]
     ]
   },
+  "1382755469": {
+    "name": "X Air Controller",
+    "maxPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "minPriceInfo": {
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1384164285": {
     "name": "AR鲁班尺",
     "maxPriceInfo": {
@@ -275479,14 +275500,22 @@
   "6751758741": {
     "name": "AutoFill – Flash Checkout",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 199.99,
+      "formattedPrice": "₺199,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1786224545219,
@@ -276164,6 +276193,27 @@
           "timestamp": 1787961173466,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747186679": {
+    "name": "女巫的毒药",
+    "maxPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "minPriceInfo": {
+      "price": 19.99,
+      "formattedPrice": "₺19,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788006103133,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
           "inAppPurchases": {}
         }
       ]
