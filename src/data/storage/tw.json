@@ -28083,6 +28083,25 @@
     "history": [
       [
         {
+          "timestamp": 1787961173466,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787928940020,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -36712,7 +36731,7 @@
     ]
   },
   "499470113": {
-    "name": "FE File Explorer Pro",
+    "name": "FE File Explorer",
     "maxPriceInfo": {
       "price": 150,
       "formattedPrice": "$150.00"
@@ -293928,6 +293947,14 @@
     "history": [
       [
         {
+          "timestamp": 1787961173466,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786991874784,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -296531,6 +296558,27 @@
           "timestamp": 1787838577561,
           "price": 320,
           "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760446039": {
+    "name": "般若心灯",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

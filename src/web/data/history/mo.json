@@ -22553,6 +22553,25 @@
     "history": [
       [
         {
+          "timestamp": 1787961173466,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Creepy Starter Pack": "USD 9.99",
+            "Cuddly Starter Pack": "USD 5.99",
+            "Furniture Starter Pack": "USD 9.99",
+            "Structures Starter Pack": "USD 5.99",
+            "Scary Pack": "USD 9.99",
+            "Weapon Pack": "USD 5.99",
+            "Minecraft Pets Pack": "USD 9.99",
+            "Minecraft Morph Pack": "USD 5.99",
+            "Marketplace Pass Full": "USD 3.99",
+            "Marketplace Pass Trial": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786193160488,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -30154,7 +30173,7 @@
   },
   "499470113": {
     "trackId": 499470113,
-    "trackName": "FE File Explorer Pro",
+    "trackName": "FE File Explorer",
     "region": "mo",
     "maxPriceInfo": {
       "price": 4.99,
@@ -202963,6 +202982,29 @@
           "timestamp": 1787838577561,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760446039": {
+    "trackId": 6760446039,
+    "trackName": "般若心灯",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
           "inAppPurchases": {}
         }
       ]

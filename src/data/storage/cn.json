@@ -134221,6 +134221,25 @@
     "history": [
       [
         {
+          "timestamp": 1787961173466,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "战斗奖励双倍": "¥12.00",
+            "60金砖": "¥6.00",
+            "300金砖": "¥30.00",
+            "680金砖": "¥68.00",
+            "120金砖": "¥12.00",
+            "月卡": "¥30.00",
+            "深度高级特训": "¥98.00",
+            "高级特训": "¥68.00",
+            "980金砖": "¥98.00",
+            "1280金砖": "¥128.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787928940020,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -221970,6 +221989,27 @@
           "timestamp": 1787761021464,
           "price": 1,
           "formattedPrice": "¥1.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760446039": {
+    "name": "般若心灯",
+    "maxPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "minPriceInfo": {
+      "price": 6,
+      "formattedPrice": "¥6.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 6,
+          "formattedPrice": "¥6.00",
           "inAppPurchases": {}
         }
       ]

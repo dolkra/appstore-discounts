@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2239` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2240` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2240|6760446039|Automatic|般若心灯|般若心灯|般若心灯|般若心灯|般若心灯|般若心灯|般若心灯|
 |2239|1322914367|Automatic|心动回忆 - 男生超爱的真人视频恋爱游戏|心動回憶|心動回憶|心動回憶|心動回憶|心動回憶|心动回忆 - 男生超爱的真人视频恋爱游戏|
 |2238|673017568|Automatic|❌|幼兒學聲音123|幼兒學聲音123|幼兒學聲音123|Toddler Sound 123|Toddler Sound 123|Sons para os Pequenos 123|
 |2237|484090401|Automatic|❌|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|
@@ -1307,7 +1308,7 @@ So far, we've covered `7` `Countries or Regions` and  `2239` `Apps` <br />Push n
 |942|6467822375|Automatic|Auto Redial App|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|Automatic|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|Automatic|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
-|939|499470113|Automatic|FE文件管理器|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|FE File Explorer Pro|
+|939|499470113|Automatic|FE文件管理器|FE File Explorer Pro|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|
 |938|666508823|Automatic|❌|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|
 |937|792638268|Automatic|❌|合戰忍者村物語|合戰忍者村物語|合戰忍者村物語|Ninja Village|Ninja Village|Ninja Village|
 |936|1095883970|Automatic|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|

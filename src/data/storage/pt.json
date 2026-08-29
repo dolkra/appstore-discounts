@@ -17500,7 +17500,7 @@
     ]
   },
   "499470113": {
-    "name": "FE File Explorer Pro",
+    "name": "FE File Explorer",
     "maxPriceInfo": {
       "price": 5.99,
       "formattedPrice": "5,99 €"
@@ -60724,6 +60724,25 @@
     "history": [
       [
         {
+          "timestamp": 1787961173466,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "6,99 €",
+            "Design Frame Package": "0,99 €",
+            "Social Frame Package": "0,99 €",
+            "Magazine Frame Package": "0,99 €",
+            "Black Frame Pack": "0,99 €",
+            "Geometric Frame Pack": "0,99 €",
+            "Stamp Frame Pack": "0,99 €",
+            "Retro Frame Pack": "0,99 €",
+            "Stroke Frame Pack": "0,99 €",
+            "Color Frame Pack": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787534044681,
           "price": 2.99,
           "formattedPrice": "2,99 €",
@@ -68449,10 +68468,18 @@
       "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787520021461,
@@ -98634,6 +98661,18 @@
     "history": [
       [
         {
+          "timestamp": 1787961173466,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "DLC - Land of the Eclipse": "1,99 €",
+            "DLC - The Ember Saga": "1,99 €",
+            "DLC - The Tournament": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786672326876,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -101493,6 +101532,14 @@
       "formattedPrice": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767320023055,
@@ -106226,6 +106273,25 @@
       "Dr.1": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A380": "1,99 €",
+            "Boeing 737-800": "2,99 €",
+            "EC135": "0,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737": "0,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Airbus A320neo": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -110985,6 +111051,17 @@
       "The Boglands DLC": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Supporter Pack": "0,99 €",
+            "The Boglands DLC": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784584753338,
@@ -131935,6 +132012,27 @@
           "timestamp": 1787838577561,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760446039": {
+    "name": "般若心灯",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1787961173466,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]
