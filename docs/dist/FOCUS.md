@@ -1847,7 +1847,7 @@ So far, we've covered `7` `Countries or Regions` and  `2242` `Apps` <br />Push n
 |405|1291429551|Automatic|❌|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|60 Parsecs!|
 |404|1291730054|Automatic|❌|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|Lowriders Comeback 2: Cruising|
 |403|1296085645|Automatic|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|aRacerSmart|
-|402|1298544927|Automatic|❌|❌|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|
+|402|1298544927|Automatic|❌|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|My Child Lebensborn|
 |401|1303222868|Automatic|Paprika食谱管理3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Paprika Recipe Manager 3|Gestor de Receitas Paprika 3|
 |400|1312534841|Automatic|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|MyText Widget|
 |399|1329434099|Automatic|乱斗堂3|❌|❌|❌|❌|❌|❌|

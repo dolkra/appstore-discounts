@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 904280696,
+    "region": "tw",
+    "timestamp": 1788027077652,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1,490.00",
+        "to": "$1,040.00",
+        "range": "[$1,040.00 ~ $1,490.00]"
+      }
+    ],
+    "price": 1040,
+    "formattedPrice": "$1,040.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id904280696",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 983143183,
+    "region": "tw",
+    "timestamp": 1788027077652,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id983143183",
+    "trackName": "夢幻怪獸",
+    "firstRecordedAt": 1746847016133
+  },
+  {
     "trackId": 1410053842,
     "region": "tw",
     "timestamp": 1787982522265,
