@@ -1308,7 +1308,7 @@
 |942|6467822375|自动|Auto Redial App|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|自动|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|自动|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
-|939|499470113|自动|FE文件管理器|FE File Explorer Pro|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|
+|939|499470113|自动|FE文件管理器|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|
 |938|666508823|自动|❌|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|
 |937|792638268|自动|❌|合戰忍者村物語|合戰忍者村物語|合戰忍者村物語|Ninja Village|Ninja Village|Ninja Village|
 |936|1095883970|自动|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|

@@ -1308,7 +1308,7 @@ So far, we've covered `7` `Countries or Regions` and  `2240` `Apps` <br />Push n
 |942|6467822375|Automatic|Auto Redial App|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - 自動重撥|Auto Redial - Phone Call Retry|Auto Redial - Phone Call Retry|Auto Redial - Rechamada Auto|
 |941|329772936|Automatic|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|iDeco Pro|
 |940|394057299|Automatic|❌|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|Battleheart|
-|939|499470113|Automatic|FE文件管理器|FE File Explorer Pro|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|
+|939|499470113|Automatic|FE文件管理器|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|FE File Explorer|
 |938|666508823|Automatic|❌|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|Battleheart Legacy|
 |937|792638268|Automatic|❌|合戰忍者村物語|合戰忍者村物語|合戰忍者村物語|Ninja Village|Ninja Village|Ninja Village|
 |936|1095883970|Automatic|芳香乐活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|芳香樂活|
