@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 904280696,
+    "region": "us",
+    "timestamp": 1788061946937,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$49.99",
+        "to": "$34.99",
+        "range": "[$34.99 ~ $49.99]"
+      }
+    ],
+    "price": 34.99,
+    "formattedPrice": "$34.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id904280696",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 983143183,
+    "region": "us",
+    "timestamp": 1788061946937,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id983143183",
+    "trackName": "Neo Monsters",
+    "firstRecordedAt": 1746847016133
+  },
+  {
     "trackId": 1309638846,
     "region": "us",
     "timestamp": 1787982522265,
