@@ -22117,6 +22117,25 @@
     "history": [
       [
         {
+          "timestamp": 1788088833295,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "Realms Plus:10 Friends w/trial": "USD 7.99",
+            "Minecraft Store Item 6": "USD 5.99",
+            "Minecraft Store Item 2": "USD 1.99",
+            "Realms Monthly Subscription: You + 2 Friends": "USD 3.99",
+            "Minecraft Store Item 10": "USD 9.99",
+            "Minecraft Store Item 5": "USD 4.99",
+            "Minecraft Store Item 4": "USD 3.99",
+            "Minecraft Store Item 3": "USD 2.99",
+            "Realms Plus: You + 10 Friends": "USD 7.99",
+            "Minecraft Store Item 8": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787982522265,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -90843,6 +90862,58 @@
             "Massive Tip": "USD 9.99",
             "Very Generous Tip": "USD 4.99",
             "Tip": "USD 0.99"
+          }
+        }
+      ]
+    ]
+  },
+  "1242654932": {
+    "name": "放置江湖：隐世门派现武林",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "江湖名士": "USD 3.99",
+      "60元礼包二": "USD 8.99",
+      "30元礼包": "USD 3.99",
+      "60元礼包": "USD 8.99",
+      "30元礼包四": "USD 3.99",
+      "60元礼包三": "USD 8.99",
+      "鳌拜的私房钱": "USD 8.99",
+      "6元礼包": "USD 0.99",
+      "168元礼包": "USD 24.99",
+      "秦王的宝藏": "USD 24.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "江湖名士": "USD 3.99",
+      "60元礼包二": "USD 8.99",
+      "30元礼包": "USD 3.99",
+      "60元礼包": "USD 8.99",
+      "30元礼包四": "USD 3.99",
+      "60元礼包三": "USD 8.99",
+      "鳌拜的私房钱": "USD 8.99",
+      "6元礼包": "USD 0.99",
+      "168元礼包": "USD 24.99",
+      "秦王的宝藏": "USD 24.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788088833295,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "江湖名士": "USD 3.99",
+            "60元礼包二": "USD 8.99",
+            "30元礼包": "USD 3.99",
+            "60元礼包": "USD 8.99",
+            "30元礼包四": "USD 3.99",
+            "60元礼包三": "USD 8.99",
+            "鳌拜的私房钱": "USD 8.99",
+            "6元礼包": "USD 0.99",
+            "168元礼包": "USD 24.99",
+            "秦王的宝藏": "USD 24.99"
           }
         }
       ]
