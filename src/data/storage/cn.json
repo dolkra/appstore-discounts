@@ -154448,6 +154448,17 @@
     "history": [
       [
         {
+          "timestamp": 1788106055024,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1784911300077,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -218365,10 +218376,18 @@
       "formattedPrice": "¥88.00"
     },
     "minPriceInfo": {
-      "price": 78,
-      "formattedPrice": "¥78.00"
+      "price": 48,
+      "formattedPrice": "¥48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788106055024,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1777570722951,
@@ -220103,6 +220122,25 @@
       "华夏九州-水浒英雄传": "¥18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788106055024,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {
+            "宝物编辑器": "¥6.00",
+            "美术升级包": "¥28.00",
+            "群英荟": "¥28.00",
+            "苍天之志": "¥18.00",
+            "华夏九州-水浒英雄传": "¥25.00",
+            "出类拔萃": "¥28.00",
+            "英雄的黎明": "¥28.00",
+            "山河归一": "¥28.00",
+            "【苍天之志】番外篇之魏传": "¥12.00",
+            "【苍天之志】番外篇之吴传": "¥12.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785725049859,

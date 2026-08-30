@@ -25421,6 +25421,25 @@
     "history": [
       [
         {
+          "timestamp": 1788106055024,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "PowerLevel_5up": "HK$ 32.00",
+            "AllLevel_5up": "HK$ 88.00",
+            "PowerLevel_1Up": "HK$ 8.00",
+            "ContactLevel_5up": "HK$ 32.00",
+            "ContactLevel_1up": "HK$ 8.00",
+            "AllLevel_1up": "HK$ 22.00",
+            "EyeLevel_5up": "HK$ 32.00",
+            "EyeLevel_1up": "HK$ 8.00",
+            "GOLD BAT": "HK$ 118.00",
+            "Called Shot 50": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787111112140,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -213540,8 +213559,8 @@
   "1632719015": {
     "name": "守護者 OL2",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00",
+      "price": 38,
+      "formattedPrice": "HK$ 38.00",
       "一把寶石": "HK$ 8.00",
       "一屋子寶石": "HK$ 788.00",
       "一礦車寶石": "HK$ 388.00",
@@ -213560,6 +213579,21 @@
       "一小袋寶石": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788106055024,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "一把寶石": "HK$ 8.00",
+            "一屋子寶石": "HK$ 788.00",
+            "一礦車寶石": "HK$ 388.00",
+            "一大箱寶石": "HK$ 148.00",
+            "一小箱寶石": "HK$ 88.00",
+            "一小袋寶石": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787620330936,
@@ -218259,6 +218293,17 @@
       "Hello World!": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788106055024,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784911300077,
@@ -242443,7 +242488,9 @@
       "Spooktacular Pumpkin Carriage": "HK$ 18.00",
       "Spooktacular Vampire Character": "HK$ 18.00",
       "Spooktacular Orange Player Colour": "HK$ 38.00",
-      "The Spooktacular Halloween Bundle": "HK$ 58.00"
+      "The Spooktacular Halloween Bundle": "HK$ 58.00",
+      "Winter Wonderland Purple Colour": "HK$ 38.00",
+      "Winter Wonderland Teal Colour": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 22,
@@ -242494,9 +242541,30 @@
       "Spooktacular Pumpkin Carriage": "HK$ 18.00",
       "Spooktacular Vampire Character": "HK$ 18.00",
       "Spooktacular Orange Player Colour": "HK$ 38.00",
-      "The Spooktacular Halloween Bundle": "HK$ 58.00"
+      "The Spooktacular Halloween Bundle": "HK$ 58.00",
+      "Winter Wonderland Purple Colour": "HK$ 38.00",
+      "Winter Wonderland Teal Colour": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788106055024,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Winter Wonderland Purple Colour": "HK$ 38.00",
+            "Winter Wonderland Teal Colour": "HK$ 38.00",
+            "Spooktacular Pumpkin Carriage": "HK$ 18.00",
+            "Spooktacular Vampire Character": "HK$ 18.00",
+            "Spooktacular Orange Player Colour": "HK$ 38.00",
+            "The Spooktacular Halloween Bundle": "HK$ 58.00",
+            "Ticket to Ride Sale Offer": "HK$ 228.00",
+            "Welcome Offer": "HK$ 228.00",
+            "Poland Character Bundle": "HK$ 22.00",
+            "Kujawiak": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787596725792,
@@ -276355,6 +276423,14 @@
     "history": [
       [
         {
+          "timestamp": 1788106055024,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787370034929,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -280325,10 +280401,18 @@
       "formattedPrice": "HK$ 88.00"
     },
     "minPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 68,
+      "formattedPrice": "HK$ 68.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788106055024,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1775656195976,
