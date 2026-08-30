@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 904280696,
+    "region": "tr",
+    "timestamp": 1788044387896,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺2.499,99",
+        "to": "₺1.749,99",
+        "range": "[₺1.299,99 ~ ₺2.499,99]"
+      }
+    ],
+    "price": 1749.99,
+    "formattedPrice": "₺1.749,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id904280696",
+    "trackName": "Things 3",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 983143183,
+    "region": "tr",
+    "timestamp": 1788044387896,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id983143183",
+    "trackName": "Neo Monsters",
+    "firstRecordedAt": 1746847016133
+  },
+  {
     "trackId": 1410053842,
     "region": "tr",
     "timestamp": 1787982522265,
