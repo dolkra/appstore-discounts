@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2243` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2244` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2244|1669418935|Automatic|❌|如何  釣魚  模擬器|如何  釣魚  模擬器|如何  釣魚  模擬器|How To Catch A Fish Simulator|How To Catch a Fish Simulator|How to Catch a Fish Simulator|
 |2243|1242654932|Automatic|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|
 |2242|1382755469|Automatic|X Air Controller|X Air Controller|X Air Controller|X Air Controller|X Air Controller|X Air Controller|❌|
 |2241|6747186679|Automatic|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|
@@ -16,7 +17,7 @@ So far, we've covered `7` `Countries or Regions` and  `2243` `Apps` <br />Push n
 |2237|484090401|Automatic|❌|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|
 |2236|1443533088|Automatic|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|
 |2235|6786115854|Automatic|❌|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|
-|2234|6802565793|Automatic|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|
+|2234|6802565793|Automatic|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|
 |2233|579940279|Automatic|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|
 |2232|6760577332|Automatic|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|
 |2231|665745944|Automatic|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|

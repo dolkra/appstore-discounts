@@ -134577,6 +134577,24 @@
     "history": [
       [
         {
+          "timestamp": 1788122280956,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "Chest of Coins": "$19.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Gems": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787838577561,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -252503,6 +252521,27 @@
       ]
     ]
   },
+  "1669418935": {
+    "name": "How To Catch A Fish Simulator",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788122280956,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1669877091": {
     "name": "Bright Memory: Infinite",
     "maxPriceInfo": {
@@ -336163,7 +336202,7 @@
     ]
   },
   "6802565793": {
-    "name": "我不想当班主任",
+    "name": "我不想当班主任-班主任工作台&教师工作台&班级管理",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"

@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2243` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2244` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2244|1669418935|自动|❌|如何  釣魚  模擬器|如何  釣魚  模擬器|如何  釣魚  模擬器|How To Catch A Fish Simulator|How To Catch a Fish Simulator|How to Catch a Fish Simulator|
 |2243|1242654932|自动|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|放置江湖：隐世门派现武林|
 |2242|1382755469|自动|X Air Controller|X Air Controller|X Air Controller|X Air Controller|X Air Controller|X Air Controller|❌|
 |2241|6747186679|自动|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|女巫的毒药|
@@ -16,7 +17,7 @@
 |2237|484090401|自动|❌|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|Akinator VIP|
 |2236|1443533088|自动|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|搜韵|
 |2235|6786115854|自动|❌|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|No More Slimes!!: Idle Action|
-|2234|6802565793|自动|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|我不想当班主任|
+|2234|6802565793|自动|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|我不想当班主任-班主任工作台&教师工作台&班级管理|
 |2233|579940279|自动|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|
 |2232|6760577332|自动|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|
 |2231|665745944|自动|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|

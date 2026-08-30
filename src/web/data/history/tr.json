@@ -219831,6 +219831,29 @@
       ]
     ]
   },
+  "1669418935": {
+    "trackId": 1669418935,
+    "trackName": "How To Catch a Fish Simulator",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788122280956,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1669877091": {
     "trackId": 1669877091,
     "trackName": "Bright Memory: Infinite",
@@ -237832,6 +237855,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788122280956,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Boeing 747-400": "₺99,99",
+            "Concorde": "₺99,99",
+            "EC135": "₺49,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 737-900": "₺99,99",
+            "UH-60": "₺49,99"
+          }
+        },
         {
           "timestamp": 1788106055024,
           "price": 199.99,
@@ -280612,7 +280652,7 @@
   },
   "6802565793": {
     "trackId": 6802565793,
-    "trackName": "我不想当班主任",
+    "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
     "region": "tr",
     "maxPriceInfo": {
       "price": 4.99,
