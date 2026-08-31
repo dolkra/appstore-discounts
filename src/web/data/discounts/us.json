@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1477203766,
+    "region": "us",
+    "timestamp": 1788148503316,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$14.99",
+        "to": "$11.99",
+        "range": "[$11.99 ~ $14.99]"
+      }
+    ],
+    "price": 11.99,
+    "formattedPrice": "$11.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1477203766",
+    "trackName": "Total War: MEDIEVAL II",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1642139491,
+    "region": "us",
+    "timestamp": 1788148503316,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$9.99",
+        "to": "$6.99",
+        "range": "[$0.29 ~ $9.99]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "$6.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1756860878460
+  },
+  {
     "trackId": 904280696,
     "region": "us",
     "timestamp": 1788061946937,
