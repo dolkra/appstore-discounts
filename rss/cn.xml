@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-08-31T14:04:04.213Z</updated>
+    <updated>2026-08-31T22:26:18.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-08-31T14:04:04.215Z</updated>
+        <updated>2026-08-31T22:26:18.681Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnMon, 31 Aug 2026 14:04:04 GMT</id>
+        <id>rankingcnMon, 31 Aug 2026 22:26:18 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-08-31T14:04:04.215Z</updated>
+        <updated>2026-08-31T22:26:18.681Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -481,14 +481,20 @@ feedId:157007849019630592+userId:73658201673997312
         <b>21</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1271620263?lang=zh-CN">艾希 - ICEY</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1164523253?lang=zh-CN">Artemis Director's Viewfinder</a>
       </td>
       <td>
         <ul>
           <li>
             <span>总次数</span>：<b>1</b>
           </li><li>
-            <span>价格</span>：<b>1</b>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>External Camera Mode</i>：<b>1</b>
+              </li>
+            </ol>
           </li>
         </ul>
       </td>
@@ -498,7 +504,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>22</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1304822713?lang=zh-CN">无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1271620263?lang=zh-CN">艾希 - ICEY</a>
       </td>
       <td>
         <ul>
@@ -515,7 +521,7 @@ feedId:157007849019630592+userId:73658201673997312
         <b>23</b>
       </td>
       <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/1312534841?lang=zh-CN">MyText Widget</a>
+        <a href="https://appstore-discounts.eyelly.me/cn/1304822713?lang=zh-CN">无尽坦克大战 - 八位元单机王者 完美模拟穿越旧经典电视手游</a>
       </td>
       <td>
         <ul>
@@ -530,6 +536,23 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>
         <b>24</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1312534841?lang=zh-CN">MyText Widget</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>1</b>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1344655035?lang=zh-CN">蜡烛人</a>
@@ -552,7 +575,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1350599517?lang=zh-CN">FoodyLife: The Food Diary App</a>
@@ -569,7 +592,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1380582804?lang=zh-CN">手机帝国</a>
@@ -586,7 +609,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1410053842?lang=zh-CN">小渔排班 - 倒班工作者的专属日历</a>
@@ -603,7 +626,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1458460469?lang=zh-CN">人类跌落梦境</a>
@@ -620,7 +643,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1473749002?lang=zh-CN">Vergi Akademisi Pro</a>
@@ -637,7 +660,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1504024081?lang=zh-CN">Fast Forward Videos -Boomerang</a>
@@ -654,7 +677,30 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
+      </td>
+      <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/1523446532?lang=zh-CN">重生细胞</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>1</b>
+          </li><li>
+            <span>价格</span>：<b>0</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>解锁《致命坠落》DLC</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1524418421?lang=zh-CN">SessionBand Jazz Fusion</a>
@@ -671,7 +717,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1534488108?lang=zh-CN">SessionBand Jazz 4</a>
@@ -688,7 +734,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1538124245?lang=zh-CN">哪里哪里</a>
@@ -705,7 +751,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1561849298?lang=zh-CN">SessionBand Soul Jazz Funk 3</a>
@@ -722,7 +768,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1575364575?lang=zh-CN">Rassel - Pocket shaker</a>
@@ -739,7 +785,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1584313012?lang=zh-CN">笼中窥梦</a>
@@ -756,7 +802,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1587674627?lang=zh-CN">绯色终章:异界幻想 少女养成放置卡牌-爱琳诗篇</a>
@@ -773,7 +819,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1614200925?lang=zh-CN">部落与弯刀</a>
@@ -790,7 +836,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>41</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1662217862?lang=zh-CN">Wipr 2</a>
@@ -813,7 +859,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>40</b>
+        <b>42</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">汉末霸业</a>
@@ -846,7 +892,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>41</b>
+        <b>43</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6755228041?lang=zh-CN">潜水员戴夫</a>
@@ -863,7 +909,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>42</b>
+        <b>44</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6759556305?lang=zh-CN">轻松省钱 - 记账预算</a>
@@ -880,7 +926,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>43</b>
+        <b>45</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6746649752?lang=zh-CN">MagicKit Pro：AI智能工具箱</a>
@@ -897,7 +943,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>44</b>
+        <b>46</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6502489827?lang=zh-CN">大侠立志传</a>
@@ -914,7 +960,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>45</b>
+        <b>47</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6751309563?lang=zh-CN">火山的女儿：再度重逢</a>
@@ -931,7 +977,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>46</b>
+        <b>48</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6444396120?lang=zh-CN">挺进地牢</a>
@@ -948,7 +994,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>47</b>
+        <b>49</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6443786927?lang=zh-CN">全面憨憨战争模拟器</a>
@@ -965,7 +1011,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>48</b>
+        <b>50</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6747655400?lang=zh-CN">RPGEmu - RPG Maker视觉小说们</a>
@@ -982,7 +1028,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>49</b>
+        <b>51</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6749369705?lang=zh-CN">沙石镇时光</a>
@@ -999,7 +1045,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>50</b>
+        <b>52</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6785090016?lang=zh-CN">Alpine Quest Nav PRO</a>
@@ -1016,7 +1062,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>51</b>
+        <b>53</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6738571698?lang=zh-CN">心灵渡船-灵魂摆渡人正版移植手游</a>
@@ -1033,7 +1079,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>52</b>
+        <b>54</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6757729278?lang=zh-CN">劫后公司</a>
@@ -1050,7 +1096,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>53</b>
+        <b>55</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6466390901?lang=zh-CN">旋转音律 Rotaeno</a>
@@ -1067,7 +1113,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>54</b>
+        <b>56</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6744430250?lang=zh-CN">Python 學習計劃</a>
@@ -1084,7 +1130,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>55</b>
+        <b>57</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6449003064?lang=zh-CN">Goblin Tools</a>
@@ -1101,7 +1147,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>56</b>
+        <b>58</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6504854196?lang=zh-CN">下一站江湖Ⅱ</a>
@@ -1118,7 +1164,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>57</b>
+        <b>59</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6747138769?lang=zh-CN">Easy Text to Speech Reader Pro</a>
@@ -1135,7 +1181,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>58</b>
+        <b>60</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6759071028?lang=zh-CN">A32X Tools · A320 ECAM Resets</a>
@@ -1731,6 +1777,161 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Artemis Director's Viewfinder]]></title>
+        <id>Artemis Director's Viewfinder-cn-1788208825680</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1164523253?lang=zh-CN"/>
+        <updated>2026-08-31T20:40:25.680Z</updated>
+        <summary type="html"><![CDATA[External Camera Mode: ¥148.00 → ¥68.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1164523253?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5b/76/05/5b7605db-0c3d-139d-25f2-ef3c057a9882/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>External Camera Mode：</strong><span>¥148.00</span> → <b>
+  <strong>¥68.00</strong>
+</b><span>[¥68.00 ~ ¥148.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>免费</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    Monthly：<b>¥28.00</b>
+  </li><li>
+    Core License：<b>¥198.00</b>
+  </li><li>
+    Annual：<b>¥118.00</b>
+  </li><li>
+    Helios View：<b>¥68.00</b>
+  </li><li>
+    External Camera Mode：<b>¥68.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  Artemis offers a comprehensive database of professional motion picture cameras and lenses, with the facility to add any custom camera format. 
+
+Hear from our users:
+
+Roger Deakins ASC, BSC: Cinematographer (Two Academy Awards wins, 16 nominations)
+Blade Runner 2049, Sicario, James Bond: Skyfall, The Shawshank Redemption
+- “It’s great having Artemis on my iPhone. Since I always have my phone with me, I always have a viewfinder at hand. Not only convenient but extremely accurate.”
+
+
+Claudio Miranda ASC: Cinematographer
+Top Gun: Maverick, F1, Life of Pi, Benjamin Button, Oblivion
+- “I've been using Artemis from the very beginning. I love that it's a shared tool. First between the director and myself. Then once we approve shots, the images from Artemis get shared with the crew.”
+
+
+Kate Dennis DGA: Director
+The Handmaid’s Tale, Glow, The Serpent Queen
+- "Artemis has streamlined my communication with cinematographers, VFX supervisors and other Heads of Department. Now we all know that we are talking about the exact same frame!"
+
+
+Linus Sandgren FSF: Cinematographer
+Saltburn, La La Land, Babylon, Joy, American Hustle
+- "Artemis is an amazing Swiss army knife style lens kit that has helped me frame up countless shots in any format in an instant.”
+
+
+Matthew Libatique ASC: Cinematographer
+Maestro, A Star is Born, Black Swan, Requiem for a Dream, The Fountain
+- "Not only do I frame every shot with Artemis , I use it to record blocking  rehearsals and as part of my process when debating lens and format choices as I work with a director and production designer while location scouting.”
+
+
+Nicolas Winding Refn: Director
+Too Old to Die Young, The Neon Demon, Only God Forgives, Pusher
+- "Artemis Pro has tapped into the way of the future by taking full advantage of the digital revolution.  The app quickly became an essential tool to capturing my vision.”
+
+
+Mandy Walker ASC, ACS: Cinematographer
+Elvis, Mulan,, Hidden Figures, Truth, Australia
+- "Both Artemis & Artemis Prime are essential tool when scouting locations, allowing accurate information to pass from the director and DP to the crew"
+
+
+Barry Ackroyd BSC: Cinematographer
+Jason Bourne, The Big Short, Captain Phillips, Hurt Locker
+- "Artemis makes me feel smarter than I was without it. It’s the sharpest tool on my iPhone.”
+
+
+Toby Oliver ACS Cinematographer
+Get Out, M3GAN 2.0, Happy Death Day, Insidious IV, Wolf Creek 2
+- "Artemis Pro is so well thought out. You can precisely choose the camera package and lenses you have to hand to obtain exact ideas of shot angles and sizes on the location survey.”
+
+
+Darius Khondji ASC, AFC, ACS: Cinematographer
+Bardo, Okja, The Lost City of Z, Delicatessen, Se7en
+- "Artemis is the best cinematic tool of modern times. I started using Artemis in 2010 and have loved it ever since. It is so accurate with up to date lenses, cameras and formats. It is always with us on scouts and during shoots. Artemis allows the director and I to share how we see things with each other and with the rest of the crew.”
+
+
+Robert McLachlan ASC, CSC: Director / Cinematographer
+Landman, Yellowstone, Game of Thrones, Westworld
+- “On Game of Thrones we scouted locations months in advance. Artemis allowed me to communicate our needs to the VFX and art departments. It was critical in planning the Dance of Dragons sequence.”
+
+
+Artemis also offers:
+- Virtual Stand-Ins, to assist in blocking actors
+- Custom Frame-lines
+- Share camera & lens setups with other Artemis users
+- Record Images & Videos
+- Gallery for sorting and planning
+- Export of Shot-lists & Storyboards
+- Export of detailed Shot-Plans with sun position data (if paired with the Helios app)
+
+
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/fc/63/cefc632a-3dd8-e261-2a70-491e10a7ecc9/screenshot-1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7a/a0/9e/7aa09e69-8880-e93c-becf-08a40ae79aa0/screenshot-2.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/36/97/76/369776f0-00bd-af15-1010-85ad9a59ec49/screenshot-3.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/cf/d8/0f/cfd80f26-9827-a5ce-05d3-4c01444beb91/3D118D7D-E306-462B-8046-EE3656F7D357-screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/0a/5e/ff0a5e39-8063-4b8d-6153-b9bcaa6eb527/6A0AB6CF-2DD9-4EC1-A417-C5B35379C77A-screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/8b/27/528b27ed-92d8-3efe-d3e7-23c55c5f559e/ECC79B45-F553-4636-868B-F813ED52A614-screenshot-4.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/cc/72/41cc7240-2252-a407-5be9-fbf254456094/835BA861-ACEE-4290-91E1-215479DCA6C6-screenshot-5.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c0/15/96/c0159682-67a7-ee2e-f1d9-da3aed4b24a4/9A743C7A-9CA6-4016-BC49-FAF6684AA633-screenshot-6.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a4/a1/bb/a4a1bb89-8285-4ce8-d5c2-1d5b30ada094/376105F7-3819-4B34-B81C-2A1455BFBF7A-screenshot-7.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/ea/3d/ebea3dad-5bed-34bf-7e45-8c3788577ae4/465412D4-D488-4FCF-9872-D271679CE99E-ipad-screenshot-2.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/db/30/70db303d-6fd1-2fe9-fd3a-61b12e9fb14a/02CE93AF-73EA-40F5-91D2-2854D593DC54-ipad-screenshot-3.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/d5/4f/3ad54fe6-a2ce-2912-d6e3-5707bf2ebb1c/BCC11318-A8D1-4FCF-B9E8-7B2486ABFA3A-ipad-screenshot-8.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/57/8e/19/578e19d4-a59c-4075-8f91-3e23434e0226/06761ED4-199D-47D2-A7DD-421014279961-ipad-screenshot-9.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/01/d1/d3/01d1d3ea-514e-6570-e951-6f3af4b35f06/87AB19AD-5072-47C7-8770-1614CB96E77E-ipad-screenshot-6.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/00/9b/4f/009b4fe7-9f83-88e3-a49e-c92baa9f67ad/F920ADC8-A0B3-46AB-B21A-82BAEC41A9B2-ipad-screenshot-7.png/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[重生细胞]]></title>
+        <id>重生细胞-cn-1788208825680</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/1523446532?lang=zh-CN"/>
+        <updated>2026-08-31T20:40:25.680Z</updated>
+        <summary type="html"><![CDATA[解锁《致命坠落》DLC: ¥8.00 → ¥6.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1523446532?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/8c/d8/9c8cd813-604c-b180-f1df-88570a252295/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>解锁《致命坠落》DLC：</strong><span>¥8.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥6.00 ~ ¥8.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥30.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    解锁《坏种》DLC：<b>¥8.00</b>
+  </li><li>
+    解锁《致命坠落》DLC：<b>¥6.00</b>
+  </li><li>
+    解锁《王后与海》DLC：<b>¥8.00</b>
+  </li><li>
+    解锁《重返恶魔城》DLC：<b>¥16.00</b>
+  </li><li>
+    解锁《一路向海》DLC捆绑包：<b>¥18.00</b>
+  </li><li>
+    解锁《新一路向海》DLC捆绑包：<b>¥34.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  死亡并非永眠。
+
+操作炼金实验失败的产物，在杀戮与重生的反复轮回中探索一座房间不断变化的巨大城堡，解开这座阴暗孤岛上的秘密…!
+当然，前提是你能战胜镇守其中的诸多守卫。
+
+重生细胞是一款RogueVania类型的平台动作游戏。你需要在一次一次战斗中锤炼战斗技巧，精通拥有独特使用方式的各种武器，并且将翻滚和闪避等走位操作视为本能，以逃过那些出其不意出现的怪潮侵袭，迎战强横凶残的守卫和Boss。
+
+鏖战、死亡、重生、再战
+
+继PC与主机平台之后，《重生细胞》准备在移动平台开启战斗！
+
+【主要特色】
+• RogueVania: 逐步攻略经过悉心设计的相连关卡，体验rogue-lite类型的重复可玩性，直面肾上腺素激增的凶险场面。
+• 凌厉爽快的2D动作体验：洞悉敌人的出手套路灵活走位，否则你将止步于半途，无缘城堡中隐藏的更多秘密。
+• 非线性进程：在反复的死亡中突破难关，根据自己的游玩风格或心情自由选择装备与技能搭配。厌倦了臭气熏天的下水道？攀上城头呼吸新鲜的空气吧！
+• 随心所欲的游玩：探索城堡的边边角角和隐秘通道，发现深藏在城堡深处的迷人景观，抑或是直冲终点？一切由你。
+
+【针对移动平台进行的悉心优化】
+• 两种攻击模式：传统与移动版新加入的自动攻击系统。
+• 定制键位与触屏操作：根据你的喜好调整按钮位置及大小，通过触屏滑动来进行闪避走位…
+• MFi设备以及主机控制器蓝牙连接特性支持。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3c/23/ff/3c23ff70-36c0-d0e8-de5b-aea6a45b46fa/2688x1242.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7d/25/32/7d2532e6-c93e-b4fe-bf4b-32d313d9598b/1.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/78/56/cd/7856cd07-9584-46b0-8866-d6cdbeae9e2c/_U6a2a2688-1242_2_U00281_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/13/dc/b5/13dcb576-d966-0197-b55b-0a2f6325377f/_U6a2a2688-1242_3_U00281_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/38/58/48/385848d1-145a-df45-b173-10fffd459c77/_U6a2a2688-1242_4_U00281_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/df/93/bf/df93bf5e-1298-ad5e-8f61-28b37549abc9/_U6a2a2688-1242_5_U00281_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/59/08/76/5908763f-0321-a5a3-7304-5c0ec8199855/6.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c8/03/b0/c803b023-916e-22a2-f9e6-8c514522abfa/2688-1242-01_U00281_U0029.jpg/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cb/0d/85/cb0d85cd-7736-d4de-ed23-c37307161d5a/2688-1242-02_U00281_U0029.jpg/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/86/a9/5a86a919-01f4-e95b-0c0b-23f7179d2446/2732x2048.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/c0/49/84c04962-49a5-3245-4fb6-8fe26cbc992e/1.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/92/2f/a0/922fa0e9-0233-51d9-2887-3ee56e1a4ef4/_U6a2a2752-2064_2_U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5d/17/a8/5d17a8e1-cf86-0a7d-d6bd-72b0cda43ea6/_U6a2a2752-2064_3_U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/95/9d/8d/959d8d37-9ee7-2920-c7a3-c6aaa5e9baf3/_U6a2a2752-2064_4_U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/76/8f/6b/768f6b67-363d-65be-840d-74fb99f6b07b/_U6a2a2752-2064_5_U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f2/e7/9af2e7c4-cf16-a6e6-d1c0-55e6191d83d5/6.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/a3/61/d1a361ad-06ff-0275-4933-6e16824410be/2752-2064-01_U00281_U0029.jpg/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a4/c8/55/a4c8556a-06e6-516b-8b27-932c58d9bb6c/2752-2064-02_U00281_U0029.jpg/360x480bb.jpg" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[绯色终章:异界幻想 少女养成放置卡牌-爱琳诗篇]]></title>
         <id>绯色终章:异界幻想 少女养成放置卡牌-爱琳诗篇-cn-1788180556070</id>
         <link href="https://appstore-discounts.eyelly.me/cn/1587674627?lang=zh-CN"/>
@@ -2008,72 +2209,5 @@ Things 因其出色的设计而获得许多赞誉，包括两次获得苹果设�
 
 在此感谢各位对独立开发者的支持！非常感谢。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/f3/05/a8/f305a881-0179-b23e-b1a0-edd0dcef3141/mzl.nopwdnaz.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/3c/e6/2d/3ce62d86-6607-ec89-ddef-9a37b749be7d/mzl.xjmrtkco.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e7/94/0f/e7940f78-188c-49c7-6890-55811c7ac58b/mzl.cpnadorm.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4b/a5/64/4ba56435-ac18-5c32-af97-13e2b77f5564/mzl.oqhxcudi.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/2c/32/1f/2c321f64-e4cc-ac33-104a-5fd599905c2a/mzl.tejhartb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/52/e5/00/52e50011-8981-fde1-69fc-f91bc8d69d9f/mzl.dnpnkdxf.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c4/6f/69/c46f69b6-01a2-7836-3247-c831347ce08d/mzl.piqkwibi.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/42/0f/19/420f19d2-69e4-ef3b-9848-eed17374031d/pr_source.png/392x696bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜]]></title>
-        <id>Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜-cn-1787928940020</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN"/>
-        <updated>2026-08-28T14:55:40.020Z</updated>
-        <summary type="html"><![CDATA[价格: ¥22.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥22.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥8.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Upgrade Deluxe Edition：<b>¥38.00</b>
-  </li><li>
-    Color Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Retro Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Stamp Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Stroke Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Purple Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Blue Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Black Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Red Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Green Cam Film Pack：<b>¥8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  世界的美好很多，只是容易擦肩而过。
-有些事物之所以美好，是因为只出现在我们的回忆里。
-现在您可以使用 Goodak 拍立得胶片相机来重温旧梦。
-让您的每一张照片独一无二，充满韵味与感动。
-
-—
-尽情体验，层次满点的胶卷相机
-
-+ 拍立得胶片相机，重温旧梦
-+ 无需久候，即拍即冲免等待
-+ 尽情拍摄，无底片数量限制
-+ 相册模式，可翻拍手机照片
-+ 自定义日期格式，重温旧梦
-+ 取景器缩放切换，大小皆宜
-+ 拍立得相纸模式，文青最爱
-+ 多款相机，多样底片与水印
-+ 黑白摄影底片机，层次满点
-+ 自动保存模式，存档免烦恼
-+ 随机底片，独一无二的美感
-
-—
-错过也好，留下也罢，都是我们生命中最美的风景
-疲倦的生活里，总要有些温柔的梦想
-世界太复杂，我们用简单的方式纪录它
-
-Goodak 复古胶片相机 - 极简复古滤镜，摄影拍立得
-感谢您的使用！我们正在开发新功能，并不断努力改善您的体验！
-联系我们：https://goodak.weebly.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/72/7d/e1727d7b-2dc6-1d43-51b9-28de209d15cd/mzl.uaudkfnw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/0f/0c/da0f0cb6-9071-5e7c-1a1f-4ae42bdd1c11/mzl.tnvgrvvz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/da/5c/89da5c30-8802-df12-d633-1837ba29813f/mzl.zflmcguf.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/77/c5/af77c577-7e9f-ee4f-74a1-f62d119a8f8b/mzl.wrrlcrce.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/1e/d4/221ed4bb-75f6-202c-cb8c-9dcdf0e1c2fc/mzl.grotjgtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ce/f5/55cef5d2-3354-b366-f691-80c40df804d4/mzl.iwvgubsv.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

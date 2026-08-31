@@ -1,5 +1,46 @@
 [
   {
+    "trackId": 454086751,
+    "region": "us",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "$0.29",
+        "range": "[$0.29 ~ $0.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "$0.29",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id454086751",
+    "trackName": "Flick Home Run !",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 1164523253,
+    "region": "us",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "External Camera Mode",
+        "from": "$19.99",
+        "to": "$9.99",
+        "range": "[$9.99 ~ $19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1164523253",
+    "trackName": "Artemis Director's Viewfinder",
+    "firstRecordedAt": 1773897908459
+  },
+  {
     "trackId": 1477203766,
     "region": "us",
     "timestamp": 1788148503316,
@@ -1000,7 +1041,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id454086751",
     "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 454086751,
@@ -1020,7 +1062,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id454086751",
     "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 1466120520,
@@ -4177,7 +4220,8 @@
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id454086751",
     "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 1576521142,

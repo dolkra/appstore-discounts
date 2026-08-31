@@ -1,5 +1,46 @@
 [
   {
+    "trackId": 454086751,
+    "region": "tr",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "₺19,99",
+        "range": "[₺19,99 ~ ₺49,99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "₺19,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id454086751",
+    "trackName": "Flick Home Run !",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 1164523253,
+    "region": "tr",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "External Camera Mode",
+        "from": "₺999,99",
+        "to": "₺499,99",
+        "range": "[₺499,99 ~ ₺999,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1164523253",
+    "trackName": "Artemis Director's Viewfinder",
+    "firstRecordedAt": 1773897908459
+  },
+  {
     "trackId": 904280696,
     "region": "tr",
     "timestamp": 1788044387896,
@@ -3952,7 +3993,8 @@
     "currency": "TRY",
     "trackViewUrl": "https://apps.apple.com/tr/app/id454086751",
     "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 6670190133,

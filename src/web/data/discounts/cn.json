@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1164523253,
+    "region": "cn",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "External Camera Mode",
+        "from": "¥148.00",
+        "to": "¥68.00",
+        "range": "[¥68.00 ~ ¥148.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1164523253",
+    "trackName": "Artemis Director's Viewfinder",
+    "firstRecordedAt": 1773897908459
+  },
+  {
+    "trackId": 1523446532,
+    "region": "cn",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "解锁《致命坠落》DLC",
+        "from": "¥8.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥8.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "¥30.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1523446532",
+    "trackName": "重生细胞",
+    "firstRecordedAt": 1721960142187
+  },
+  {
     "trackId": 1587674627,
     "region": "cn",
     "timestamp": 1788180556070,

@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1164523253,
+    "region": "hk",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "External Camera Mode",
+        "from": "HK$ 148.00",
+        "to": "HK$ 88.00",
+        "range": "[HK$ 88.00 ~ HK$ 148.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1164523253",
+    "trackName": "Artemis Director's Viewfinder",
+    "firstRecordedAt": 1773897908459
+  },
+  {
+    "trackId": 1298544927,
+    "region": "hk",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 18,
+    "formattedPrice": "HK$ 18.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1298544927",
+    "trackName": "My Child Lebensborn",
+    "firstRecordedAt": 1788027077652
+  },
+  {
+    "trackId": 1435752659,
+    "region": "hk",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 228.00",
+        "to": "HK$ 148.00",
+        "range": "[HK$ 148.00 ~ HK$ 268.00]"
+      }
+    ],
+    "price": 148,
+    "formattedPrice": "HK$ 148.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1747123391708
+  },
+  {
     "trackId": 6759071028,
     "region": "hk",
     "timestamp": 1788106055024,
@@ -1065,8 +1125,9 @@
     "formattedPrice": "HK$ 2.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id454086751",
-    "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 441142802,
@@ -3974,8 +4035,9 @@
     "formattedPrice": "HK$ 2.00",
     "currency": "HKD",
     "trackViewUrl": "https://apps.apple.com/hk/app/id454086751",
-    "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 6471594918,
@@ -4502,7 +4564,7 @@
         "name": "Price",
         "from": "HK$ 268.00",
         "to": "HK$ 228.00",
-        "range": "[HK$ 228.00 ~ HK$ 268.00]"
+        "range": "[HK$ 148.00 ~ HK$ 268.00]"
       }
     ],
     "price": 228,
@@ -6245,7 +6307,7 @@
         "name": "Price",
         "from": "HK$ 28.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 28.00]"
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
       }
     ],
     "price": 18,
@@ -13429,7 +13491,7 @@
         "name": "Price",
         "from": "HK$ 28.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 28.00]"
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
       }
     ],
     "price": 18,
@@ -20319,7 +20381,7 @@
         "name": "Price",
         "from": "HK$ 28.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 28.00]"
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
       }
     ],
     "price": 18,
@@ -30200,7 +30262,7 @@
         "name": "Price",
         "from": "HK$ 28.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 28.00]"
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
       }
     ],
     "price": 18,
@@ -38657,7 +38719,7 @@
         "name": "Price",
         "from": "HK$ 28.00",
         "to": "HK$ 18.00",
-        "range": "[HK$ 18.00 ~ HK$ 28.00]"
+        "range": "[HK$ 18.00 ~ HK$ 32.00]"
       }
     ],
     "price": 18,

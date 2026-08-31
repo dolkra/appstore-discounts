@@ -19146,7 +19146,7 @@
     ]
   },
   "454086751": {
-    "name": "Flick Home Run !",
+    "name": "彈指全壘打！",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
@@ -19176,6 +19176,25 @@
       "ContactLevel_1up": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 0.29,
+          "formattedPrice": "USD 0.29",
+          "inAppPurchases": {
+            "PowerLevel_5up": "USD 3.99",
+            "Called Shot 50": "USD 9.99",
+            "Called Shot 4": "USD 0.99",
+            "GOLD BAT": "USD 14.99",
+            "AllLevel_5up": "USD 9.99",
+            "AllLevel_1up": "USD 2.99",
+            "EyeLevel_5up": "USD 3.99",
+            "EyeLevel_1up": "USD 0.99",
+            "ContactLevel_5up": "USD 3.99",
+            "ContactLevel_1up": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788106055024,
@@ -84998,10 +85017,24 @@
       "Monthly": "USD 2.99",
       "Annual": "USD 16.99",
       "Core License": "USD 29.99",
-      "External Camera Mode": "USD 19.99",
+      "External Camera Mode": "USD 9.99",
       "Helios View": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Helios View": "USD 9.99",
+            "External Camera Mode": "USD 9.99",
+            "Monthly": "USD 3.99",
+            "Annual": "USD 16.99",
+            "Core License": "USD 29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783376009178,
@@ -98224,10 +98257,18 @@
       "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788006103133,
@@ -108794,6 +108835,14 @@
       "formattedPrice": "USD 19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1784082315610,

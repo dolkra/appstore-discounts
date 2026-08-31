@@ -1,5 +1,86 @@
 [
   {
+    "trackId": 454086751,
+    "region": "mo",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "USD 0.29",
+        "range": "[USD 0.29 ~ USD 0.99]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "USD 0.29",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id454086751",
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 1164523253,
+    "region": "mo",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "External Camera Mode",
+        "from": "USD 19.99",
+        "to": "USD 9.99",
+        "range": "[USD 9.99 ~ USD 19.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1164523253",
+    "trackName": "Artemis Director's Viewfinder",
+    "firstRecordedAt": 1773897908459
+  },
+  {
+    "trackId": 1298544927,
+    "region": "mo",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1298544927",
+    "trackName": "My Child Lebensborn",
+    "firstRecordedAt": 1788006103133
+  },
+  {
+    "trackId": 1435752659,
+    "region": "mo",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 29.99",
+        "to": "USD 19.99",
+        "range": "[USD 19.99 ~ USD 32.99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "USD 19.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1747123391708
+  },
+  {
     "trackId": 6759071028,
     "region": "mo",
     "timestamp": 1788106055024,
@@ -1038,8 +1119,9 @@
     "formattedPrice": "USD 0.29",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id454086751",
-    "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 441142802,
@@ -4062,8 +4144,9 @@
     "formattedPrice": "USD 0.29",
     "currency": "MOP",
     "trackViewUrl": "https://apps.apple.com/mo/app/id454086751",
-    "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 6471594918,

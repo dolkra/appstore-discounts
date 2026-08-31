@@ -1720,7 +1720,7 @@ So far, we've covered `7` `Countries or Regions` and  `2244` `Apps` <br />Push n
 |534|449735650|Automatic|❌|鱷魚小頑皮愛洗澡|鱷魚小頑皮愛洗澡|鱷魚小頑皮愛洗澡|Where's My Water?|Where's My Water?|Where's My Water?|
 |533|450542233|Automatic|❌|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|Cut the Rope: Experiments GOLD|
 |532|452990487|Automatic|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|RushPlayer|
-|531|454086751|Automatic|❌|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|Flick Home Run !|
+|531| ~~454086751~~ |Automatic| ~~❌~~ | ~~彈指全壘打！~~ | ~~彈指全壘打！~~ | ~~彈指全壘打！~~ | ~~Flick Home Run !~~ | ~~Flick Home Run !~~ | ~~Home Run com um Toque!~~ |
 |530|469343554|Automatic|❌|洛克人X|洛克人X|洛克人X|❌|❌|❌|
 |529|479516143|Automatic|❌|Minecraft|Minecraft|Minecraft|Minecraft: Play with Friends!|Minecraft: Dream it, Build it!|Minecraft|
 |528|479662730|Automatic|❌|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto III|Grand Theft Auto 3|Grand Theft Auto III|

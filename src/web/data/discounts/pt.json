@@ -1,5 +1,46 @@
 [
   {
+    "trackId": 454086751,
+    "region": "pt",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "0,29 €",
+        "range": "[0,29 € ~ 0,99 €]"
+      }
+    ],
+    "price": 0.29,
+    "formattedPrice": "0,29 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id454086751",
+    "trackName": "Home Run com um Toque!",
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 1164523253,
+    "region": "pt",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "External Camera Mode",
+        "from": "22,99 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1164523253",
+    "trackName": "Artemis Director's Viewfinder",
+    "firstRecordedAt": 1773897908459
+  },
+  {
     "trackId": 904280696,
     "region": "pt",
     "timestamp": 1788044387896,
@@ -3875,8 +3916,9 @@
     "formattedPrice": "0,29 €",
     "currency": "EUR",
     "trackViewUrl": "https://apps.apple.com/pt/app/id454086751",
-    "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1761797674362
+    "trackName": "Home Run com um Toque!",
+    "firstRecordedAt": 1761797674362,
+    "notificationDisabled": true
   },
   {
     "trackId": 1576521142,

@@ -1,5 +1,86 @@
 [
   {
+    "trackId": 454086751,
+    "region": "tw",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "$10.00",
+        "range": "[$10.00 ~ $30.00]"
+      }
+    ],
+    "price": 10,
+    "formattedPrice": "$10.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id454086751",
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
+  },
+  {
+    "trackId": 1164523253,
+    "region": "tw",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "External Camera Mode",
+        "from": "$690.00",
+        "to": "$320.00",
+        "range": "[$320.00 ~ $690.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1164523253",
+    "trackName": "Artemis Director's Viewfinder",
+    "firstRecordedAt": 1773897908459
+  },
+  {
+    "trackId": 1298544927,
+    "region": "tw",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1298544927",
+    "trackName": "My Child Lebensborn",
+    "firstRecordedAt": 1788006103133
+  },
+  {
+    "trackId": 1435752659,
+    "region": "tw",
+    "timestamp": 1788208825680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$990.00",
+        "to": "$690.00",
+        "range": "[$690.00 ~ $990.00]"
+      }
+    ],
+    "price": 690,
+    "formattedPrice": "$690.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1747123391708
+  },
+  {
     "trackId": 6759071028,
     "region": "tw",
     "timestamp": 1788106055024,
@@ -1018,8 +1099,9 @@
     "formattedPrice": "$10.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id454086751",
-    "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 441142802,
@@ -4162,8 +4244,9 @@
     "formattedPrice": "$10.00",
     "currency": "TWD",
     "trackViewUrl": "https://apps.apple.com/tw/app/id454086751",
-    "trackName": "Flick Home Run !",
-    "firstRecordedAt": 1745328692670
+    "trackName": "彈指全壘打！",
+    "firstRecordedAt": 1745328692670,
+    "notificationDisabled": true
   },
   {
     "trackId": 6471594918,
@@ -6546,7 +6629,7 @@
         "name": "Price",
         "from": "$100.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $100.00]"
+        "range": "[$60.00 ~ $120.00]"
       }
     ],
     "price": 60,
@@ -13766,7 +13849,7 @@
         "name": "Price",
         "from": "$100.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $100.00]"
+        "range": "[$60.00 ~ $120.00]"
       }
     ],
     "price": 60,
@@ -20587,7 +20670,7 @@
         "name": "Price",
         "from": "$100.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $100.00]"
+        "range": "[$60.00 ~ $120.00]"
       }
     ],
     "price": 60,
@@ -31087,7 +31170,7 @@
         "name": "Price",
         "from": "$100.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $100.00]"
+        "range": "[$60.00 ~ $120.00]"
       }
     ],
     "price": 60,
@@ -39730,7 +39813,7 @@
         "name": "Price",
         "from": "$100.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $100.00]"
+        "range": "[$60.00 ~ $120.00]"
       }
     ],
     "price": 60,

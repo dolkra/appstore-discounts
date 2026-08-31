@@ -24364,7 +24364,7 @@
     ]
   },
   "454086751": {
-    "name": "Flick Home Run !",
+    "name": "彈指全壘打！",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
@@ -24396,6 +24396,25 @@
       "Called Shot 4": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "PowerLevel_5up": "$120.00",
+            "PowerLevel_1Up": "$30.00",
+            "AllLevel_5up": "$320.00",
+            "ContactLevel_5up": "$120.00",
+            "ContactLevel_1up": "$30.00",
+            "AllLevel_1up": "$90.00",
+            "EyeLevel_5up": "$120.00",
+            "EyeLevel_1up": "$30.00",
+            "GOLD BAT": "$490.00",
+            "Called Shot 50": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788106055024,
@@ -107945,10 +107964,24 @@
       "Monthly": "$90.00",
       "Annual": "$590.00",
       "Core License": "$990.00",
-      "External Camera Mode": "$690.00",
+      "External Camera Mode": "$320.00",
       "Helios View": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Core License": "$990.00",
+            "Helios View": "$320.00",
+            "External Camera Mode": "$320.00",
+            "Monthly": "$120.00",
+            "Annual": "$590.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783376009178,
@@ -126539,10 +126572,18 @@
       "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788006103133,
@@ -143248,10 +143289,18 @@
       "formattedPrice": "$990.00"
     },
     "minPriceInfo": {
-      "price": 990,
-      "formattedPrice": "$990.00"
+      "price": 690,
+      "formattedPrice": "$690.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747123391708,
@@ -165482,14 +165531,22 @@
   "1474716211": {
     "name": "60 Seconds! Reatomized",
     "maxPriceInfo": {
-      "price": 100,
-      "formattedPrice": "$100.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,
@@ -205072,6 +205129,25 @@
       "HeroBounty Hunter": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788208825680,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "pack 21": "$290.00",
+            "Special Daily Pack20": "$90.00",
+            "Special Daily Pack19": "$60.00",
+            "Special Daily Pack18": "$120.00",
+            "Special Daily Pack17": "$120.00",
+            "Special Daily Pack16": "$90.00",
+            "Special Daily Pack15": "$60.00",
+            "Special Daily Pack14": "$90.00",
+            "Special Daily Pack12": "$90.00",
+            "Special Daily Pack11": "$120.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788122280956,
