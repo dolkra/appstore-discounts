@@ -7430,13 +7430,28 @@
     "name": "Tour Tempo",
     "maxPriceInfo": {
       "price": 1299.99,
-      "formattedPrice": "₺1.299,99"
+      "formattedPrice": "₺1.299,99",
+      "Yearly Subscription": "₺1.299,99",
+      "Lifetime Subscription": "₺2.499,99"
     },
     "minPriceInfo": {
       "price": 1299.99,
-      "formattedPrice": "₺1.299,99"
+      "formattedPrice": "₺1.299,99",
+      "Yearly Subscription": "₺1.299,99",
+      "Lifetime Subscription": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 1299.99,
+          "formattedPrice": "₺1.299,99",
+          "inAppPurchases": {
+            "Yearly Subscription": "₺1.299,99",
+            "Lifetime Subscription": "₺2.499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768688804391,
@@ -234804,6 +234819,23 @@
     "history": [
       [
         {
+          "timestamp": 1788180556070,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 737-800": "₺149,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 747-400": "₺99,99",
+            "UH-60": "₺49,99",
+            "Concorde": "₺99,99"
+          }
+        },
+        {
           "timestamp": 1788148503316,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -276614,14 +276646,22 @@
   "6802565793": {
     "name": "我不想当班主任-班主任工作台&教师工作台&班级管理",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "₺4,99"
+      "price": 249.99,
+      "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787761021464,

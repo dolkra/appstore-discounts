@@ -3445,13 +3445,28 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 29.99,
-      "formattedPrice": "29,99 €"
+      "formattedPrice": "29,99 €",
+      "Yearly Subscription": "29,99 €",
+      "Lifetime Subscription": "59,99 €"
     },
     "minPriceInfo": {
       "price": 29.99,
-      "formattedPrice": "29,99 €"
+      "formattedPrice": "29,99 €",
+      "Yearly Subscription": "29,99 €",
+      "Lifetime Subscription": "59,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 29.99,
+          "formattedPrice": "29,99 €",
+          "inAppPurchases": {
+            "Yearly Subscription": "29,99 €",
+            "Lifetime Subscription": "59,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768688804391,
@@ -136185,14 +136200,22 @@
     "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787761021464,

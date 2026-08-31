@@ -1938,6 +1938,23 @@
     "history": [
       [
         {
+          "timestamp": 1788180556070,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "10,000 coins": "HK$ 18.00",
+            "30,000 coins": "HK$ 22.00",
+            "1000 coins": "HK$ 8.00",
+            "10000 candies": "HK$ 22.00",
+            "500 eggs": "HK$ 8.00",
+            "5000 eggs": "HK$ 18.00",
+            "1000 candies": "HK$ 8.00",
+            "100,000 coins": "HK$ 32.00",
+            "100,000 gold": "HK$ 18.00",
+            "10,000 gold": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1788148503316,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -7066,13 +7083,28 @@
     "region": "hk",
     "maxPriceInfo": {
       "price": 188,
-      "formattedPrice": "HK$ 188.00"
+      "formattedPrice": "HK$ 188.00",
+      "Yearly Subscription": "HK$ 188.00",
+      "Lifetime Subscription": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 188,
-      "formattedPrice": "HK$ 188.00"
+      "formattedPrice": "HK$ 188.00",
+      "Yearly Subscription": "HK$ 188.00",
+      "Lifetime Subscription": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 188,
+          "formattedPrice": "HK$ 188.00",
+          "inAppPurchases": {
+            "Yearly Subscription": "HK$ 188.00",
+            "Lifetime Subscription": "HK$ 388.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1768688804391,
@@ -38110,6 +38142,25 @@
       "All Plane Models": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Boeing 747 Jumbo Jet": "HK$ 22.00",
+            "RC Transformer": "HK$ 22.00",
+            "Race Car": "HK$ 22.00",
+            "Lego Car": "HK$ 22.00",
+            "XB-70 Valkirie": "HK$ 22.00",
+            "BVM King Cat": "HK$ 22.00",
+            "B17 Flying Fortress": "HK$ 22.00",
+            "A6M Zero": "HK$ 22.00",
+            "P-47 Thunderbolt": "HK$ 22.00",
+            "Curtiss P-40 Warhawk": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785428765959,
@@ -80911,6 +80962,20 @@
       "永久会员": "HK$ 98.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生辰-年度会员": "HK$ 98.00",
+            "永久会员": "HK$ 118.00",
+            "生辰年度会员": "HK$ 88.00",
+            "月度会员": "HK$ 18.00",
+            "生辰-季度会员": "HK$ 98.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786970504907,
@@ -290353,14 +290418,22 @@
     "trackName": "我不想当班主任-班主任工作台&教师工作台&班级管理",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 38,
+      "formattedPrice": "HK$ 38.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788180556070,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787761021464,
