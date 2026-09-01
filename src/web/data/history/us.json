@@ -121734,6 +121734,29 @@
       ]
     ]
   },
+  "1162580001": {
+    "trackId": 1162580001,
+    "trackName": "Game Dev Tycoon",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788271031879,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "1163105252": {
     "trackId": 1163105252,
     "trackName": "FRAMED 2",
@@ -195611,6 +195634,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788271031879,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Starter Package": "$2.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Prime Dimension DLC": "$6.99"
+          }
+        },
         {
           "timestamp": 1788250806888,
           "price": 4.99,
@@ -340986,6 +341026,29 @@
           "timestamp": 1788006103133,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6478526459": {
+    "trackId": 6478526459,
+    "trackName": "The Catechism",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 4.99,
+      "formattedPrice": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788271031879,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
           "inAppPurchases": {}
         }
       ]

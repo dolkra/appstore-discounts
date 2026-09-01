@@ -698,6 +698,23 @@
     "history": [
       [
         {
+          "timestamp": 1788271031879,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "10,000 coins": "1,99 €",
+            "1000 coins": "0,99 €",
+            "1000 candies": "0,99 €",
+            "30,000 coins": "2,99 €",
+            "15000 eggs": "2,99 €",
+            "10000 candies": "2,99 €",
+            "Soccer coins": "0,99 €",
+            "300,000 gold": "2,99 €",
+            "100,000 coins": "3,99 €",
+            "100,000 gold": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1788250806888,
           "price": 1.99,
           "formattedPrice": "1,99 €",
@@ -30343,6 +30360,16 @@
     "history": [
       [
         {
+          "timestamp": 1788271031879,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Comprar o sistema urogenital": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1761797674362,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -40362,8 +40389,8 @@
       "Package I": "0,99 €"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "0,29 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Package Ⅵ": "99,99 €",
       "Package Ⅴ": "44,99 €",
       "Package Ⅳ": "22,99 €",
@@ -40373,6 +40400,22 @@
       "Package I": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788271031879,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Package Ⅵ": "99,99 €",
+            "Package Ⅴ": "44,99 €",
+            "Package Ⅳ": "22,99 €",
+            "Package Ⅲ": "9,99 €",
+            "Package Ⅱ": "5,99 €",
+            "Package Ⅱ-other": "1,99 €",
+            "Package I": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787737196607,
@@ -53738,6 +53781,29 @@
           "timestamp": 1766580981452,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1162580001": {
+    "trackId": 1162580001,
+    "trackName": "Game Dev Tycoon",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788271031879,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
@@ -136708,6 +136774,29 @@
           "timestamp": 1788006103133,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6478526459": {
+    "trackId": 6478526459,
+    "trackName": "The Catechism",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788271031879,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
           "inAppPurchases": {}
         }
       ]
