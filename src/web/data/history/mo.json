@@ -47393,6 +47393,16 @@
     "history": [
       [
         {
+          "timestamp": 1788286205846,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "購買泌尿生殖系統": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1765824087672,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -66290,8 +66300,8 @@
       "雙倍積分包": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "USD 0.29",
+      "price": 0,
+      "formattedPrice": "免費",
       "積分包 Ⅱ": "USD 4.99",
       "積分包 I": "USD 0.99",
       "積分包 Ⅵ": "USD 99.99",
@@ -66301,6 +66311,22 @@
       "雙倍積分包": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "積分包 Ⅱ": "USD 4.99",
+            "積分包 I": "USD 0.99",
+            "積分包 Ⅵ": "USD 99.99",
+            "積分包 Ⅴ": "USD 39.99",
+            "積分包 Ⅳ": "USD 19.99",
+            "積分包 Ⅲ": "USD 9.99",
+            "雙倍積分包": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -159270,8 +159296,8 @@
     "trackName": "守護者 OL2",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
       "一屋子寶石": "USD 99.99",
       "一礦車寶石": "USD 49.99",
       "一大箱寶石": "USD 19.99",
@@ -159290,6 +159316,21 @@
       "一把寶石": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "一屋子寶石": "USD 99.99",
+            "一礦車寶石": "USD 49.99",
+            "一大箱寶石": "USD 19.99",
+            "一小箱寶石": "USD 9.99",
+            "一小袋寶石": "USD 4.99",
+            "一把寶石": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788106055024,
@@ -175152,7 +175193,9 @@
       "Spooktacular Orange Player Colour": "USD 4.99",
       "Spooktacular Pumpkin Carriage": "USD 1.99",
       "Winter Wonderland Purple Colour": "USD 4.99",
-      "Winter Wonderland Teal Colour": "USD 4.99"
+      "Winter Wonderland Teal Colour": "USD 4.99",
+      "Christmas Sleigh Carriage": "USD 2.99",
+      "Tree-livery Carriage": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -175208,9 +175251,30 @@
       "Spooktacular Orange Player Colour": "USD 4.99",
       "Spooktacular Pumpkin Carriage": "USD 1.99",
       "Winter Wonderland Purple Colour": "USD 4.99",
-      "Winter Wonderland Teal Colour": "USD 4.99"
+      "Winter Wonderland Teal Colour": "USD 4.99",
+      "Christmas Sleigh Carriage": "USD 2.99",
+      "Tree-livery Carriage": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Christmas Sleigh Carriage": "USD 2.99",
+            "Tree-livery Carriage": "USD 2.99",
+            "Winter Wonderland Purple Colour": "USD 4.99",
+            "Winter Wonderland Teal Colour": "USD 4.99",
+            "Spooktacular Pumpkin Carriage": "USD 1.99",
+            "Spooktacular Vampire Character": "USD 1.99",
+            "Spooktacular Orange Player Colour": "USD 4.99",
+            "The Spooktacular Halloween Bundle": "USD 7.99",
+            "Ticket to Ride Sale Offer": "USD 29.99",
+            "Welcome Offer": "USD 29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787876097640,
@@ -202454,8 +202518,8 @@
     "trackName": "五道門：文字江湖",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99",
+      "price": 5.99,
+      "formattedPrice": "USD 5.99",
       "宗師匣檔": "USD 99.99",
       "問道進階檔": "USD 44.99",
       "定向匣檔": "USD 29.99",
@@ -202476,6 +202540,22 @@
       "珍品匣檔": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "宗師匣檔": "USD 99.99",
+            "問道進階檔": "USD 44.99",
+            "定向匣檔": "USD 29.99",
+            "輕囊通寶": "USD 2.99",
+            "進階材料檔": "USD 14.99",
+            "小袋通寶": "USD 0.99",
+            "珍品匣檔": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787326331736,

@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 982457990,
+    "region": "tr",
+    "timestamp": 1788286205846,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺19,99",
+        "to": "Free",
+        "range": "[Free ~ ₺19,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id982457990",
+    "trackName": "Cross Infinity: Eschaton Rifts",
+    "firstRecordedAt": 1787737196607
+  },
+  {
     "trackId": 6748572801,
     "region": "tr",
     "timestamp": 1788250806888,
@@ -1566,7 +1586,7 @@
         "name": "Price",
         "from": "₺249,99",
         "to": "₺49,99",
-        "range": "[₺49,99 ~ ₺249,99]"
+        "range": "[₺49,99 ~ ₺299,99]"
       }
     ],
     "price": 49.99,

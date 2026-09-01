@@ -62612,6 +62612,16 @@
     "history": [
       [
         {
+          "timestamp": 1788286205846,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "The Urogenital System": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1763345024209,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -85591,8 +85601,8 @@
       "Package I": "₺49,99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Package Ⅵ": "₺4.999,99",
       "Package Ⅴ": "₺1.999,99",
       "Package Ⅳ": "₺999,99",
@@ -85602,6 +85612,22 @@
       "Package I": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Package Ⅵ": "₺4.999,99",
+            "Package Ⅴ": "₺1.999,99",
+            "Package Ⅳ": "₺999,99",
+            "Package Ⅲ": "₺499,99",
+            "Package Ⅱ": "₺249,99",
+            "Package Ⅱ-other": "₺99,99",
+            "Package I": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787737196607,
@@ -181657,6 +181683,14 @@
     "history": [
       [
         {
+          "timestamp": 1788286205846,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787477195040,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -183451,6 +183485,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787477195040,
@@ -190132,6 +190174,14 @@
       "formattedPrice": "₺129,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787477195040,
@@ -214584,8 +214634,8 @@
     "trackName": "Guardian OL2",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
       "One house gem": "₺4.999,99",
       "A mine car gem": "₺2.499,99",
       "A large box of gemstones": "₺999,99",
@@ -214604,6 +214654,21 @@
       "a small handful of gem": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "One house gem": "₺4.999,99",
+            "A mine car gem": "₺2.499,99",
+            "A large box of gemstones": "₺999,99",
+            "A small box of gemstones": "₺499,99",
+            "A small bag of precious stones": "₺249,99",
+            "a small handful of gem": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788148503316,
@@ -233029,6 +233094,25 @@
     "history": [
       [
         {
+          "timestamp": 1788286205846,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "John Deere 8R 410": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787347395199,
           "price": 229,
           "formattedPrice": "₺229,00",
@@ -238224,6 +238308,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788286205846,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 747-400": "₺99,99",
+            "Boeing 737-800": "₺149,99",
+            "Boeing 737": "₺49,99",
+            "Boeing 787-10": "₺99,99"
+          }
+        },
         {
           "timestamp": 1788271031879,
           "price": 199.99,
@@ -269072,7 +269173,8 @@
       "25 gold": "₺49,99",
       "porches": "₺49,99",
       "30 ticket": "₺49,99",
-      "75000 money": "₺29,99"
+      "75000 money": "₺29,99",
+      "30 gold": "₺49,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -269099,9 +269201,29 @@
       "25 gold": "₺49,99",
       "porches": "₺49,99",
       "30 ticket": "₺49,99",
-      "75000 money": "₺29,99"
+      "75000 money": "₺29,99",
+      "30 gold": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 ticket": "₺19,99",
+            "sonsuz paket": "₺149,99",
+            "5 gold": "₺19,99",
+            "passatb8": "₺49,99",
+            "15 gold": "₺29,99",
+            "10 ticket": "₺29,99",
+            "porches": "₺49,99",
+            "30000 money": "₺19,99",
+            "10 gold": "₺29,99",
+            "30 gold": "₺49,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787876097640,
@@ -280052,8 +280174,8 @@
     "trackName": "五道門：文字江湖",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99",
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
       "宗師匣檔": "₺4.999,99",
       "問道進階檔": "₺2.499,99",
       "定向匣檔": "₺1.499,99",
@@ -280074,6 +280196,22 @@
       "珍品匣檔": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "宗師匣檔": "₺4.999,99",
+            "問道進階檔": "₺2.499,99",
+            "定向匣檔": "₺1.499,99",
+            "輕囊通寶": "₺149,99",
+            "進階材料檔": "₺799,99",
+            "小袋通寶": "₺49,99",
+            "珍品匣檔": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787361040120,

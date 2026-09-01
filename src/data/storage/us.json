@@ -63502,6 +63502,16 @@
     "history": [
       [
         {
+          "timestamp": 1788286205846,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "The Urogenital System": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1745658131479,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -93361,8 +93371,8 @@
       "Package Ⅱ-other": "$1.99"
     },
     "minPriceInfo": {
-      "price": 0.29,
-      "formattedPrice": "$0.29",
+      "price": 0,
+      "formattedPrice": "Free",
       "积分包 Ⅱ": "$4.99",
       "积分包 I": "$0.99",
       "积分包 Ⅴ": "$39.99",
@@ -93379,6 +93389,22 @@
       "Package Ⅱ-other": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Package Ⅱ": "$4.99",
+            "Package I": "$0.99",
+            "Package Ⅴ": "$39.99",
+            "Package Ⅲ": "$9.99",
+            "Package Ⅳ": "$19.99",
+            "Package Ⅵ": "$99.99",
+            "Package Ⅱ-other": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787737196607,
@@ -198340,6 +198366,14 @@
     "history": [
       [
         {
+          "timestamp": 1788286205846,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787477195040,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -203474,6 +203508,14 @@
       "formattedPrice": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787477195040,
@@ -243502,7 +243544,8 @@
       "Survival Guide": "$2.99",
       "Ultimate Pack (big discount)": "$4.99",
       "Season 1 Pack (full)": "$19.99",
-      "Shadows of the Past": "$6.99"
+      "Shadows of the Past": "$6.99",
+      "Season 2 Pass": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -243518,9 +243561,29 @@
       "Survival Guide": "$2.99",
       "Ultimate Pack (big discount)": "$4.99",
       "Season 1 Pack (full)": "$19.99",
-      "Shadows of the Past": "$6.99"
+      "Shadows of the Past": "$6.99",
+      "Season 2 Pass": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Beyond the Bunkers": "$6.99",
+            "Critical Mass": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99",
+            "Survival Guide": "$2.99",
+            "Season 2 Pass": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782465994454,
@@ -244470,8 +244533,8 @@
   "1632719015": {
     "name": "Guardian OL2",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 5.99,
+      "formattedPrice": "$5.99",
       "A small bag of precious stones": "$4.99",
       "A small box of gemstones": "$9.99",
       "A large box of gemstones": "$19.99",
@@ -244490,6 +244553,21 @@
       "A mine car gem": "$49.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "A small bag of precious stones": "$4.99",
+            "A small box of gemstones": "$9.99",
+            "A large box of gemstones": "$19.99",
+            "a small handful of gem": "$0.99",
+            "One house gem": "$99.99",
+            "A mine car gem": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788148503316,
@@ -335666,8 +335744,8 @@
   "6770101449": {
     "name": "五道門：文字江湖",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99",
+      "price": 5.99,
+      "formattedPrice": "$5.99",
       "宗師匣檔": "$99.99",
       "問道進階檔": "$44.99",
       "定向匣檔": "$29.99",
@@ -335688,6 +335766,22 @@
       "珍品匣檔": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788286205846,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "宗師匣檔": "$99.99",
+            "問道進階檔": "$44.99",
+            "定向匣檔": "$29.99",
+            "輕囊通寶": "$2.99",
+            "進階材料檔": "$14.99",
+            "小袋通寶": "$0.99",
+            "珍品匣檔": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787370034929,
