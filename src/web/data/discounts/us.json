@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1298544927,
+    "region": "us",
+    "timestamp": 1788250806888,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1298544927",
+    "trackName": "My Child Lebensborn",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 1435752659,
+    "region": "us",
+    "timestamp": 1788250806888,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$29.99",
+        "to": "$19.99",
+        "range": "[$19.99 ~ $32.99]"
+      }
+    ],
+    "price": 19.99,
+    "formattedPrice": "$19.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1747123391708
+  },
+  {
+    "trackId": 6748572801,
+    "region": "us",
+    "timestamp": 1788250806888,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6748572801",
+    "trackName": "Seoul Exorcist 1111: Roguelite",
+    "firstRecordedAt": 1758529063330
+  },
+  {
     "trackId": 6747307749,
     "region": "us",
     "timestamp": 1788222226853,
@@ -4588,7 +4648,7 @@
         "name": "Price",
         "from": "$32.99",
         "to": "$29.99",
-        "range": "[$29.99 ~ $32.99]"
+        "range": "[$19.99 ~ $32.99]"
       }
     ],
     "price": 29.99,
