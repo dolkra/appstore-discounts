@@ -1971,7 +1971,7 @@ So far, we've covered `7` `Countries or Regions` and  `2244` `Apps` <br />Push n
 |283|6742129099|Automatic|群英打三国-超休闲国风放置卡牌巅峰巨作|❌|❌|❌|❌|❌|❌|
 |282|6443916065|Automatic|WiFi万能钥匙专业版-无线热点密码安全万能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|WiFi萬能鑰匙專業版-無線熱點密碼安全萬能wi-fi管家|❌|❌|❌|
 |281|6737512463|Automatic|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|怦然心动的瞬间-轻科幻真人互动恋爱影游|
-|280|6462190343|Automatic|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|
+|280|6462190343|Automatic|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|药王谷女修修炼手札|A Cultivator’s Journal|A Cultivator’s Journal|药王谷女修修炼手札|
 |279| ~~6444782083~~ |Automatic| ~~王国保卫战4~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ | ~~❌~~ |
 |278|6450148077|Automatic|SnapFriends|干中学！偷偷|干中学！偷偷|干中学！偷偷|❌|干中学！偷偷|❌|
 |277|6449766387|Automatic|合成大西瓜 : 专为手表设计的合成类休闲解压小游戏|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|Merge Watermelon 4 Watch|

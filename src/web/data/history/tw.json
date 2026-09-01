@@ -207907,6 +207907,23 @@
     "history": [
       [
         {
+          "timestamp": 1788222226853,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Unit Group Jaegers": "$220.00",
+            "Starter Pack": "$150.00",
+            "Special Daily Pack7": "$60.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00",
+            "Hero Red Dragon": "$190.00",
+            "Special Daily Pack 1": "$150.00"
+          }
+        },
+        {
           "timestamp": 1788208825680,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -259233,6 +259250,25 @@
     "history": [
       [
         {
+          "timestamp": 1788222226853,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Airbus A350-1000": "$120.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Airbus A321": "$60.00",
+            "Boeing 787-9": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788106055024,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -271740,6 +271776,22 @@
       "24小時通行證": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788222226853,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "每週訂閱": "$50.00",
+            "3-Day Pass": "$30.00",
+            "7-Day Pass": "$150.00",
+            "高級終身會員": "$690.00",
+            "24小時通行證": "$20.00",
+            "Pro – Lifetime": "$0.00",
+            "年度訂閱": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785217559321,
@@ -285694,13 +285746,34 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 60,
-      "formattedPrice": "$60.00"
+      "formattedPrice": "$60.00",
+      "CHAKK PRO Anual": "$590.00",
+      "CHAKK PRO Monthly": "$60.00",
+      "CHAKK PRO Monthly Special Offer": "$30.00",
+      "CHAKK PRO Annual Special Offer": "$220.00"
     },
     "minPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 0,
+      "formattedPrice": "免費",
+      "CHAKK PRO Anual": "$590.00",
+      "CHAKK PRO Monthly": "$60.00",
+      "CHAKK PRO Monthly Special Offer": "$30.00",
+      "CHAKK PRO Annual Special Offer": "$220.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788222226853,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "CHAKK PRO Anual": "$590.00",
+            "CHAKK PRO Monthly": "$60.00",
+            "CHAKK PRO Monthly Special Offer": "$30.00",
+            "CHAKK PRO Annual Special Offer": "$220.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758118320419,
@@ -301291,7 +301364,8 @@
       "500 Elmas": "$190.00",
       "250 Elmas": "$120.00",
       "100 Elmas": "$60.00",
-      "50 Elmas": "$30.00"
+      "50 Elmas": "$30.00",
+      "50 Elmas Al": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -301300,9 +301374,25 @@
       "500 Elmas": "$190.00",
       "250 Elmas": "$120.00",
       "100 Elmas": "$60.00",
-      "50 Elmas": "$30.00"
+      "50 Elmas": "$30.00",
+      "50 Elmas Al": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788222226853,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "1000 Elmas": "$290.00",
+            "500 Elmas": "$190.00",
+            "250 Elmas": "$120.00",
+            "100 Elmas": "$60.00",
+            "50 Elmas Al": "$30.00",
+            "50 Elmas": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787534044681,

@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1435752659,
+    "region": "tr",
+    "timestamp": 1788222226853,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺1.499,99",
+        "to": "₺999,99",
+        "range": "[₺999,99 ~ ₺1.799,99]"
+      }
+    ],
+    "price": 999.99,
+    "formattedPrice": "₺999,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1747123391708
+  },
+  {
+    "trackId": 6747307749,
+    "region": "tr",
+    "timestamp": 1788222226853,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6747307749",
+    "trackName": "CHAKK - 인스타 스토리 꾸미는 재미, 챡!",
+    "firstRecordedAt": 1758118320419
+  },
+  {
     "trackId": 454086751,
     "region": "tr",
     "timestamp": 1788208825680,
@@ -4460,7 +4500,7 @@
         "name": "Price",
         "from": "₺1.799,99",
         "to": "₺1.499,99",
-        "range": "[₺1.499,99 ~ ₺1.799,99]"
+        "range": "[₺999,99 ~ ₺1.799,99]"
       }
     ],
     "price": 1499.99,

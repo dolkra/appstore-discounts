@@ -263002,7 +263002,7 @@
     ]
   },
   "6462190343": {
-    "name": "药王谷女修修炼手札",
+    "name": "A Cultivator’s Journal",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
@@ -263012,7 +263012,14 @@
       "60个灵玉": "$3.99",
       "800个灵玉": "$39.99",
       "140个灵玉": "$9.99",
-      "2000个灵玉": "$69.99"
+      "2000个灵玉": "$69.99",
+      "100 Jade + 6 Pills": "$3.99",
+      "10 Jades": "$0.99",
+      "140 Jades": "$9.99",
+      "300 Jades": "$19.99",
+      "60 Jades": "$3.99",
+      "800 Jades": "$39.99",
+      "2000 Jades": "$69.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -263023,9 +263030,32 @@
       "60个灵玉": "$3.99",
       "800个灵玉": "$39.99",
       "140个灵玉": "$9.99",
-      "2000个灵玉": "$69.99"
+      "2000个灵玉": "$69.99",
+      "100 Jade + 6 Pills": "$3.99",
+      "10 Jades": "$0.99",
+      "140 Jades": "$9.99",
+      "300 Jades": "$19.99",
+      "60 Jades": "$3.99",
+      "800 Jades": "$39.99",
+      "2000 Jades": "$69.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788222226853,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "100 Jade + 6 Pills": "$3.99",
+            "10 Jades": "$0.99",
+            "140 Jades": "$9.99",
+            "300 Jades": "$19.99",
+            "60 Jades": "$3.99",
+            "800 Jades": "$39.99",
+            "2000 Jades": "$69.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,
@@ -319621,13 +319651,34 @@
     "name": "CHAKK - 인스타 스토리 꾸미는 재미, 챡!",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "$1.99"
+      "formattedPrice": "$1.99",
+      "CHAKK PRO Anual": "$17.99",
+      "CHAKK PRO Monthly": "$1.99",
+      "CHAKK PRO Monthly Special Offer": "$0.99",
+      "CHAKK PRO Annual Special Offer": "$6.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "CHAKK PRO Anual": "$17.99",
+      "CHAKK PRO Monthly": "$1.99",
+      "CHAKK PRO Monthly Special Offer": "$0.99",
+      "CHAKK PRO Annual Special Offer": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788222226853,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "CHAKK PRO Anual": "$17.99",
+            "CHAKK PRO Monthly": "$1.99",
+            "CHAKK PRO Monthly Special Offer": "$0.99",
+            "CHAKK PRO Annual Special Offer": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1758118320419,
@@ -336445,7 +336496,8 @@
       "500 Elmas": "$5.99",
       "250 Elmas": "$3.99",
       "100 Elmas": "$1.99",
-      "50 Elmas": "$0.99"
+      "50 Elmas": "$0.99",
+      "50 Elmas Al": "$0.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -336454,9 +336506,25 @@
       "500 Elmas": "$5.99",
       "250 Elmas": "$3.99",
       "100 Elmas": "$1.99",
-      "50 Elmas": "$0.99"
+      "50 Elmas": "$0.99",
+      "50 Elmas Al": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788222226853,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "1000 Elmas": "$7.99",
+            "500 Elmas": "$5.99",
+            "250 Elmas": "$3.99",
+            "100 Elmas": "$1.99",
+            "50 Elmas Al": "$0.99",
+            "50 Elmas": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787534044681,

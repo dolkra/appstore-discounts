@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1298544927,
+    "region": "pt",
+    "timestamp": 1788222226853,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1298544927",
+    "trackName": "My Child Lebensborn",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1435752659,
+    "region": "pt",
+    "timestamp": 1788222226853,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "34,99 €",
+        "to": "22,99 €",
+        "range": "[22,99 € ~ 39,99 €]"
+      }
+    ],
+    "price": 22.99,
+    "formattedPrice": "22,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1435752659",
+    "trackName": "駕考王 - 澳門駕考駕照筆試模擬考試題庫",
+    "firstRecordedAt": 1771160811393
+  },
+  {
+    "trackId": 6747307749,
+    "region": "pt",
+    "timestamp": 1788222226853,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "1,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 1,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6747307749",
+    "trackName": "CHAKK - 인스타 스토리 꾸미는 재미, 챡!",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 454086751,
     "region": "pt",
     "timestamp": 1788208825680,
@@ -4331,7 +4391,7 @@
         "name": "Price",
         "from": "39,99 €",
         "to": "34,99 €",
-        "range": "[34,99 € ~ 39,99 €]"
+        "range": "[22,99 € ~ 39,99 €]"
       }
     ],
     "price": 34.99,
