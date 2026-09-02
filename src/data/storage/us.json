@@ -332216,7 +332216,8 @@
       "SM Ralli Kitee 2026": "$2.99",
       "Paide Rally 2026": "$2.99",
       "ERC Barum Czech Rally Zlin 2026": "$2.99",
-      "WRC Ueno Rally del Paraguay 2026": "$2.99"
+      "WRC Ueno Rally del Paraguay 2026": "$2.99",
+      "ERC Rali Ceredigion 2026": "$2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -332250,9 +332251,29 @@
       "SM Ralli Kitee 2026": "$2.99",
       "Paide Rally 2026": "$2.99",
       "ERC Barum Czech Rally Zlin 2026": "$2.99",
-      "WRC Ueno Rally del Paraguay 2026": "$2.99"
+      "WRC Ueno Rally del Paraguay 2026": "$2.99",
+      "ERC Rali Ceredigion 2026": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788364904788,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "WRC Central European Rally": "$3.99",
+            "ERC Rally di Roma Capitale 2026": "$1.95",
+            "ERC Rally Di Roma Capitale": "$3.95",
+            "ERC Rali Ceredigion 2026": "$2.99",
+            "WRC Ueno Rally del Paraguay 2026": "$2.99",
+            "Paide Rally 2026": "$2.99",
+            "ERC Barum Czech Rally Zlin 2026": "$2.99",
+            "SM Ralli Kitee 2026": "$2.99",
+            "Kihelkonna Rahvaralli 2026": "$1.99",
+            "WRC Secto Rally Finland 2026": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787982522265,
@@ -336887,8 +336908,8 @@
       "700 Diamonds": "$19.99"
     },
     "minPriceInfo": {
-      "price": 0.39,
-      "formattedPrice": "$0.39",
+      "price": 0.29,
+      "formattedPrice": "$0.29",
       "Starter Pack 1": "$1.99",
       "120 Diamonds": "$3.99",
       "4000 Diamonds": "$99.99",
@@ -336897,6 +336918,21 @@
       "700 Diamonds": "$19.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788364904788,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Starter Pack 1": "$1.99",
+            "120 Diamonds": "$3.99",
+            "4000 Diamonds": "$99.99",
+            "50 Diamonds": "$1.99",
+            "16 Base Heroes Unlock Pack": "$39.99",
+            "700 Diamonds": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788250806888,
