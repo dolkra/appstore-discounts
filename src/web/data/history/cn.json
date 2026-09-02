@@ -151814,6 +151814,22 @@
     "history": [
       [
         {
+          "timestamp": 1788381215116,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "心愿礼包": "¥45.00",
+            "聚财盆": "¥18.00",
+            "超值月卡": "¥30.00",
+            "豪华月卡": "¥68.00",
+            "一碟包子": "¥6.00",
+            "SP武将碎片": "¥298.00",
+            "新手成长礼包": "¥6.00",
+            "竞赛VIP赛季卡": "¥30.00",
+            "犒赏令": "¥68.00"
+          }
+        },
+        {
           "timestamp": 1788364904788,
           "price": 1,
           "formattedPrice": "¥1.00",
@@ -219646,6 +219662,23 @@
     "history": [
       [
         {
+          "timestamp": 1788381215116,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "RED-WHITE RYUKIN": "¥15.00",
+            "GHOST BRIDE": "¥15.00",
+            "RED RYUKIN": "¥15.00",
+            "ORANGE & WHITE KITTY FISH": "¥15.00",
+            "CALICO RED/WHITE/BLACK": "¥15.00",
+            "ORANGE/WHITE": "¥15.00",
+            "BLACK KITTY FISH": "¥15.00",
+            "PANDA TELESCOPE": "¥15.00",
+            "ROBO FISH 02": "¥15.00",
+            "CALICO KITTY FISH": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1788364904788,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -222310,7 +222343,8 @@
       "SM Ralli Kitee 2026": "¥22.00",
       "Paide Rally 2026": "¥22.00",
       "ERC Barum Czech Rally Zlin 2026": "¥22.00",
-      "WRC Ueno Rally del Paraguay 2026": "¥22.00"
+      "WRC Ueno Rally del Paraguay 2026": "¥22.00",
+      "ERC Rali Ceredigion 2026": "¥22.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -222348,9 +222382,29 @@
       "SM Ralli Kitee 2026": "¥22.00",
       "Paide Rally 2026": "¥22.00",
       "ERC Barum Czech Rally Zlin 2026": "¥22.00",
-      "WRC Ueno Rally del Paraguay 2026": "¥22.00"
+      "WRC Ueno Rally del Paraguay 2026": "¥22.00",
+      "ERC Rali Ceredigion 2026": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788381215116,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "ERC Rali Ceredigion 2026": "¥22.00",
+            "WRC Ueno Rally del Paraguay 2026": "¥22.00",
+            "Paide Rally 2026": "¥22.00",
+            "ERC Barum Czech Rally Zlin 2026": "¥22.00",
+            "SM Ralli Kitee 2026": "¥22.00",
+            "Kihelkonna Rahvaralli 2026": "¥15.00",
+            "WRC Secto Rally Finland 2026": "¥28.00",
+            "ERC 82nd Rally Poland 2026": "¥28.00",
+            "WRC Rally Estonia 2026": "¥28.00",
+            "ERC Rally di Roma Capitale 2026": "¥15.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787683072548,
@@ -225449,6 +225503,29 @@
           "timestamp": 1788345787844,
           "price": 8,
           "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760777178": {
+    "trackId": 6760777178,
+    "trackName": "Film Light",
+    "region": "cn",
+    "maxPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "minPriceInfo": {
+      "price": 12,
+      "formattedPrice": "¥12.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788381215116,
+          "price": 12,
+          "formattedPrice": "¥12.00",
           "inAppPurchases": {}
         }
       ]

@@ -297646,7 +297646,8 @@
       "SM Ralli Kitee 2026": "$90.00",
       "Paide Rally 2026": "$90.00",
       "ERC Barum Czech Rally Zlin 2026": "$90.00",
-      "WRC Ueno Rally del Paraguay 2026": "$90.00"
+      "WRC Ueno Rally del Paraguay 2026": "$90.00",
+      "ERC Rali Ceredigion 2026": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -297678,9 +297679,29 @@
       "SM Ralli Kitee 2026": "$90.00",
       "Paide Rally 2026": "$90.00",
       "ERC Barum Czech Rally Zlin 2026": "$90.00",
-      "WRC Ueno Rally del Paraguay 2026": "$90.00"
+      "WRC Ueno Rally del Paraguay 2026": "$90.00",
+      "ERC Rali Ceredigion 2026": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788381215116,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ERC Rali Ceredigion 2026": "$90.00",
+            "WRC Ueno Rally del Paraguay 2026": "$90.00",
+            "Paide Rally 2026": "$90.00",
+            "ERC Barum Czech Rally Zlin 2026": "$90.00",
+            "SM Ralli Kitee 2026": "$90.00",
+            "Kihelkonna Rahvaralli 2026": "$60.00",
+            "WRC Secto Rally Finland 2026": "$120.00",
+            "ERC 82nd Rally Poland 2026": "$120.00",
+            "WRC Rally Estonia 2026": "$120.00",
+            "ERC Rally di Roma Capitale 2026": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787683072548,
@@ -302076,6 +302097,29 @@
           "timestamp": 1788345787844,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760777178": {
+    "trackId": 6760777178,
+    "trackName": "Film Light",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "minPriceInfo": {
+      "price": 60,
+      "formattedPrice": "$60.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788381215116,
+          "price": 60,
+          "formattedPrice": "$60.00",
           "inAppPurchases": {}
         }
       ]

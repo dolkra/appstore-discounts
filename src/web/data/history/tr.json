@@ -132954,6 +132954,23 @@
     "history": [
       [
         {
+          "timestamp": 1788381215116,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Crop": "₺0,00",
+            "Magnifier": "₺0,00",
+            "Distortion": "₺0,00",
+            "Paint": "₺0,00",
+            "Rotate": "₺0,00",
+            "Rate": "₺0,00",
+            "Splice": "₺0,00",
+            "Chromakey": "₺0,00",
+            "Info": "₺0,00",
+            "Sticker": "₺0,00"
+          }
+        },
+        {
           "timestamp": 1788364904788,
           "price": 4.99,
           "formattedPrice": "₺4,99",
@@ -281692,6 +281709,29 @@
           "timestamp": 1788345787844,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760777178": {
+    "trackId": 6760777178,
+    "trackName": "Film Light",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788381215116,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]

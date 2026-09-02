@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2249` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2250` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2250|6760777178|自动|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|Film Light|
 |2249|6752662508|自动|时光轨迹 · GPS足迹路线记录仪|時光軌跡 · GPS足跡路線記錄儀|時光軌跡 · GPS足跡路線記錄儀|時光軌跡 · GPS足跡路線記錄儀|TimeTrails: GPS Route Tracker|TimeTrails: GPS Route Tracker|TimeTrails: Rastreador GPS|
 |2248|6804442508|自动|❌|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|Muhtar: Neighbourhood Voice|
 |2247|1162580001|自动|❌|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|Game Dev Tycoon|
