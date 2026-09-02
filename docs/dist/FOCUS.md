@@ -608,7 +608,7 @@ So far, we've covered `7` `Countries or Regions` and  `2248` `Apps` <br />Push n
 |1650|430157565|Automatic|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|智能風水羅庚(專業版)|
 |1649|6740422479|Automatic|ælbum|ælbum|ælbum|ælbum|ælbum|ælbum|ælbum|
 |1648| ~~6447306697~~ |Automatic| ~~❌~~ | ~~Cluedo~~ | ~~Cluedo~~ | ~~Cluedo~~ | ~~❌~~ | ~~Cluedo~~ | ~~Cluedo~~ |
-|1647|1308097969|Automatic|我的记帐本 - MyAsset理财版 V2|我的記帳本 - MyAsset理財版 V2|我的記帳本 - MyAsset理財版 V2|我的記帳本 - MyAsset理財版 V2|Accounting Book - MyAsset V2|Accounting Book - MyAsset V2|Accounting Book - MyAsset V2|
+|1647|1308097969|Automatic|MyAsset 理财版 V3|MyAsset 理財版 V3|MyAsset 理財版 V3|MyAsset 理財版 V3|MyAsset Finance V3|MyAsset Finance V3|MyAsset Finance V3|
 |1646|6749609393|Automatic|Computer Basics: PC Guide|電腦基礎知識：PC 指南|電腦基礎知識：PC 指南|電腦基礎知識：PC 指南|Computer Basics: PC Guide|Computer Basics: PC Guide|Básico de PC: Guia rápido|
 |1645|6445992619|Automatic|❌|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|SpongeBob - The Cosmic Shake|
 |1644|6444348444|Automatic|安全摄像头 - Security WiFi Camera|安全攝影機 - Security WiFi Camera|安全攝影機 - Security WiFi Camera|安全攝影機 - Security WiFi Camera|Security Camera - Home Monitor|Security Camera - Home Monitor|Câmara De Segurança Para Casa|
