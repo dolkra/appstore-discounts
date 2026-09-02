@@ -13754,6 +13754,18 @@
     "history": [
       [
         {
+          "timestamp": 1788303769766,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Dakota Map Pack": "₺49,99",
+            "Alaska Map Pack": "₺49,99",
+            "Unlock Everything": "₺139,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787188251891,
           "price": 14.99,
           "formattedPrice": "₺14,99",
@@ -155315,6 +155327,16 @@
     "history": [
       [
         {
+          "timestamp": 1788303769766,
+          "price": 499.99,
+          "formattedPrice": "₺499,99",
+          "inAppPurchases": {
+            "ATOM RPG - Supporter Pack": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787534044681,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -158618,10 +158640,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788303769766,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782636678148,
@@ -238309,6 +238339,25 @@
     "history": [
       [
         {
+          "timestamp": 1788303769766,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "Global scenery - 3 months": "₺399,99",
+            "UH-60": "₺49,99",
+            "Global scenery - 12 months": "₺999,99",
+            "Boeing 747-400": "₺99,99",
+            "EC135": "₺49,99",
+            "Boeing 737-800": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788286205846,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -263899,6 +263948,14 @@
     "history": [
       [
         {
+          "timestamp": 1788303769766,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785908741192,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -281479,6 +281536,29 @@
           "timestamp": 1788271031879,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6804442508": {
+    "trackId": 6804442508,
+    "trackName": "Muhtar: Neighbourhood Voice",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788303769766,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
           "inAppPurchases": {}
         }
       ]
