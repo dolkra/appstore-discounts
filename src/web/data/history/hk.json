@@ -21600,6 +21600,25 @@
     "history": [
       [
         {
+          "timestamp": 1788345787844,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "HK$ 8.00",
+            "Amped Guitar & Bass": "HK$ 22.00",
+            "Voices": "HK$ 8.00",
+            "Varazdin Orchestral Mobile": "HK$ 32.00",
+            "Acoustic Guitars": "HK$ 8.00",
+            "Synth Lead": "HK$ 18.00",
+            "Chill-Lo-Fi Mobile": "HK$ 18.00",
+            "Synth Plucks": "HK$ 18.00",
+            "Sliced Beats": "HK$ 8.00",
+            "Groove Machine Synth": "HK$ 0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787596725792,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -145319,7 +145338,7 @@
   },
   "1410053842": {
     "trackId": 1410053842,
-    "trackName": "小漁輪班",
+    "trackName": "小漁輪班：值班排班日曆",
     "region": "hk",
     "maxPriceInfo": {
       "price": 22,
@@ -290987,6 +291006,29 @@
       [
         {
           "timestamp": 1788303769766,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752662508": {
+    "trackId": 6752662508,
+    "trackName": "時光軌跡 · GPS足跡路線記錄儀",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788345787844,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}

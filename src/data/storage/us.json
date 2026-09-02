@@ -243627,7 +243627,8 @@
       "Ultimate Pack (big discount)": "$4.99",
       "Season 1 Pack (full)": "$19.99",
       "Shadows of the Past": "$6.99",
-      "Season 2 Pass": "$9.99"
+      "Season 2 Pass": "$9.99",
+      "Season 2 Pass (Discount)": "$6.99"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -243644,9 +243645,29 @@
       "Ultimate Pack (big discount)": "$4.99",
       "Season 1 Pack (full)": "$19.99",
       "Shadows of the Past": "$6.99",
-      "Season 2 Pass": "$9.99"
+      "Season 2 Pass": "$9.99",
+      "Season 2 Pass (Discount)": "$6.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788345787844,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Ultimate Pack": "$14.99",
+            "Season 1 Pack": "$9.99",
+            "Ultimate Pack (discount)": "$11.99",
+            "Beyond the Bunkers": "$6.99",
+            "Season 2 Pass": "$9.99",
+            "Critical Mass": "$6.99",
+            "Cheats & Punishment": "$4.99",
+            "Season 2 Pass (Discount)": "$6.99",
+            "New Leaders": "$4.99",
+            "Season 1 Pack (discount)": "$6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -246457,6 +246478,25 @@
       "Mecha Jormungand": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788345787844,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Season Pass": "$6.99",
+            "Autonomy": "$2.99",
+            "Time Flow": "$2.99",
+            "Wedding Pack": "$4.99",
+            "Neo Package": "$4.99",
+            "Character Pass": "$11.99",
+            "Nurse Pack": "$4.99",
+            "Uniform Pack": "$3.99",
+            "Mecha Pack": "$4.99",
+            "Monster Pack": "$19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788148503316,
@@ -332928,6 +332968,25 @@
     "history": [
       [
         {
+          "timestamp": 1788345787844,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Pro Mensal": "$1.99",
+            "1 Token Coach IA": "$0.99",
+            "Elite Annual": "$7.99",
+            "Clone de Sensi": "$0.99",
+            "Clone Sensi – 3 Clonagens": "$1.99",
+            "SENSI iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 13 a 14 Pro Max": "$1.99",
+            "SENSI RANKED iPhone 15 a 17 Pro Max": "$1.99",
+            "SENSI RANKED iPhone X a 12 Pro Max": "$1.99",
+            "SENSI iPhone 13 a 14 Pro Max": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788318324161,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -337114,6 +337173,27 @@
       [
         {
           "timestamp": 1788303769766,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6752662508": {
+    "name": "TimeTrails: GPS Route Tracker",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788345787844,
           "price": 0.99,
           "formattedPrice": "$0.99",
           "inAppPurchases": {}
