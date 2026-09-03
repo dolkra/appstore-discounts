@@ -259571,6 +259571,25 @@
     "history": [
       [
         {
+          "timestamp": 1788389988743,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Airbus A380": "$60.00",
+            "Boeing 747-400": "$60.00",
+            "Boeing 737-800": "$90.00",
+            "Global scenery - 3 months": "$290.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788345787844,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -278372,14 +278391,22 @@
     "trackName": "Pixel Paws - Virtual Pet Toy",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 90,
-      "formattedPrice": "$90.00"
+      "price": 120,
+      "formattedPrice": "$120.00"
     },
     "minPriceInfo": {
       "price": 90,
       "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788389988743,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1747602126913,
