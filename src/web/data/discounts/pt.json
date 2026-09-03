@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "pt",
+    "timestamp": 1788404920760,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "4,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Lifetime",
+        "from": "24,99 €",
+        "to": "19,99 €",
+        "range": "[8,99 € ~ 34,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6467822375",
+    "trackName": "Auto Redial - Rechamada Auto",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 549432607,
     "region": "pt",
     "timestamp": 1788389988743,
