@@ -72826,6 +72826,14 @@
     "history": [
       [
         {
+          "timestamp": 1788450692170,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786289443290,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -85616,6 +85624,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788450692170,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1788364904788,
           "price": 0,
@@ -122824,7 +122838,14 @@
       "SF2SEPack15": "$490.00",
       "SF2SEPack120": "$3,990.00",
       "SF2SEPack100": "$2,990.00",
-      "SF2SEPack90": "$2,990.00"
+      "SF2SEPack90": "$2,990.00",
+      "SF2SEPack75": "$2,490.00",
+      "SF2SEPack70": "$2,290.00",
+      "SF2SEPack55": "$1,990.00",
+      "SF2SEPack40": "$1,290.00",
+      "SF2SEPack38": "$1,290.00",
+      "SF2SEPack23": "$790.00",
+      "SF2SEPack9": "$290.00"
     },
     "minPriceInfo": {
       "price": 150,
@@ -122857,9 +122878,35 @@
       "SF2SEPack15": "$490.00",
       "SF2SEPack120": "$3,990.00",
       "SF2SEPack100": "$2,990.00",
-      "SF2SEPack90": "$2,990.00"
+      "SF2SEPack90": "$2,990.00",
+      "SF2SEPack75": "$2,490.00",
+      "SF2SEPack70": "$2,290.00",
+      "SF2SEPack55": "$1,990.00",
+      "SF2SEPack40": "$1,290.00",
+      "SF2SEPack38": "$1,290.00",
+      "SF2SEPack23": "$790.00",
+      "SF2SEPack9": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788450692170,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "SF2SEPack120": "$3,990.00",
+            "SF2SEPack100": "$2,990.00",
+            "SF2SEPack90": "$2,990.00",
+            "SF2SEPack75": "$2,490.00",
+            "SF2SEPack70": "$2,290.00",
+            "SF2SEPack55": "$1,990.00",
+            "SF2SEPack40": "$1,290.00",
+            "SF2SEPack38": "$1,290.00",
+            "SF2SEPack23": "$790.00",
+            "SF2SEPack9": "$290.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787928940020,
@@ -186833,6 +186880,18 @@
     "history": [
       [
         {
+          "timestamp": 1788450692170,
+          "price": 630,
+          "formattedPrice": "$630.00",
+          "inAppPurchases": {
+            "Ragnarök for free download": "$0.00",
+            "Atlantis for free download": "$0.00",
+            "Eternal Embers DLC": "$170.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787239953273,
           "price": 270,
           "formattedPrice": "$270.00",
@@ -190391,6 +190450,25 @@
       "Nexus of Nightmares": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788450692170,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Nexus of Nightmares": "$190.00",
+            "Synthesis Support Pack": "$120.00",
+            "Infernal Invasions": "$190.00",
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Eclypse Supporter Pack": "$120.00",
+            "Dawncaster Origins Bundle": "$150.00",
+            "Dawncaster Mega Bundle": "$390.00",
+            "Siege of Shadows": "$150.00",
+            "Catalyst Support Pack": "$150.00",
+            "Masks of Misery": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786852048726,
