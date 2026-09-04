@@ -28868,15 +28868,41 @@
       "price": 15.99,
       "formattedPrice": "$15.99",
       "Premium Membership (Monthly plan)": "$4.49",
-      "Premium Membership (Yearly plan)": "$27.99"
+      "Premium Membership (Yearly plan)": "$27.99",
+      "Smart Credit 10,000pt": "$79.99",
+      "Smart Credit 5,000pt": "$44.99",
+      "Smart Credit 2,500pt": "$23.99",
+      "Smart Credit 900pt": "$8.99",
+      "Smart Credit 300pt": "$2.99"
     },
     "minPriceInfo": {
       "price": 15.99,
       "formattedPrice": "$15.99",
       "Premium Membership (Monthly plan)": "$2.99",
-      "Premium Membership (Yearly plan)": "$27.99"
+      "Premium Membership (Yearly plan)": "$27.99",
+      "Smart Credit 10,000pt": "$79.99",
+      "Smart Credit 5,000pt": "$44.99",
+      "Smart Credit 2,500pt": "$23.99",
+      "Smart Credit 900pt": "$8.99",
+      "Smart Credit 300pt": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788553195173,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "Premium Membership (Monthly plan)": "$4.49",
+            "Premium Membership (Yearly plan)": "$27.99",
+            "Smart Credit 10,000pt": "$79.99",
+            "Smart Credit 5,000pt": "$44.99",
+            "Smart Credit 2,500pt": "$23.99",
+            "Smart Credit 900pt": "$8.99",
+            "Smart Credit 300pt": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785896869249,
@@ -87553,6 +87579,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1788553195173,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Ultra Punch 5": "$0.99",
+            "Unlock Strawberry Candy": "$1.99",
+            "Unlock Rolly Coin": "$0.99",
+            "Unlock Mint Candy": "$1.99",
+            "Unlock Chocolate Candy": "$1.99",
+            "Ultra Punch 10": "$1.99",
+            "Unlock Rollman Coin": "$1.99",
+            "Ultra Punch Unlimited": "$19.99",
+            "Unlock Rollf Coin": "$1.99",
+            "Magnetic Stars Unlimited": "$14.99"
+          }
+        },
         {
           "timestamp": 1788536982894,
           "price": 0.99,
@@ -210639,6 +210682,23 @@
     "history": [
       [
         {
+          "timestamp": 1788553195173,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "$0.00",
+            "Siege of Shadows": "$4.99",
+            "Dawncaster Mega Bundle": "$12.99",
+            "Tribes of Twilight": "$4.99",
+            "Masks of Misery": "$4.99",
+            "Infernal Invasions": "$5.99",
+            "Death of Divinity": "$4.99",
+            "Nexus of Nightmares": "$5.99",
+            "Dawncaster Origins Bundle": "$4.99",
+            "Eclypse Supporter Pack": "$3.99"
+          }
+        },
+        {
           "timestamp": 1788536982894,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -331703,6 +331763,23 @@
     "history": [
       [
         {
+          "timestamp": 1788553195173,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Neo Behemoth": "$1.99",
+            "Underworld Expansion Pass": "$5.99",
+            "Moonveil Skin Set": "$9.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Memory of Training": "$17.99",
+            "Underworld Pass 1": "$2.99",
+            "Essence of Transcendence": "$29.99",
+            "Time Traveler": "$5.99",
+            "Ark of Eternity": "$29.99",
+            "Essence of the Abyss": "$19.99"
+          }
+        },
+        {
           "timestamp": 1788518474386,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -338017,6 +338094,27 @@
             "100 Elmas": "$1.99",
             "50 Elmas": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6755822636": {
+    "name": "GIKA - Vintage Phone Cam",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788553195173,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2254` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2255` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2255|6755822636|Automatic|GIKA - 老旧手机复古相机|GIKA - 老舊手機復古質感相機|GIKA - 老舊手機復古質感相機|GIKA - 老舊手機復古質感相機|GIKA - Vintage Phone Cam|GIKA - Vintage Phone Cam|GIKA - Vintage Phone Cam|
 |2254|6790439017|Automatic|❌|Galerici|Galerici|Galerici|Galerici|Galerici|Galerici|
 |2253|773532397|Automatic|乘法表 12x12|乘法表 12x12|乘法表 12x12|乘法表 12x12|Multiplication Tables 12x12|Multiplication Tables 12x12|Tabelas de Multiplicação 12x12|
 |2252|6748895212|Automatic|蓝牙调试工具箱 - 蓝牙调试助手、蓝牙助手、蓝牙调试、BLE|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手|Bluetooth Toolbox-BLE Debugger|Bluetooth Toolbox-BLE Debugger|Caixa Bluetooth-Depurador BLE|

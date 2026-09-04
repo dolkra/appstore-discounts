@@ -17373,15 +17373,41 @@
       "price": 9.99,
       "formattedPrice": "USD 9.99",
       "高級會員 (年費方案)": "USD 27.99",
-      "高級會員 (月費方案)": "USD 2.99"
+      "高級會員 (月費方案)": "USD 2.99",
+      "智慧點數 10,000pt": "USD 79.99",
+      "智慧點數 5,000pt": "USD 44.99",
+      "智慧點數 2,500pt": "USD 23.99",
+      "智慧點數 900pt": "USD 8.99",
+      "智慧點數 300pt": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 9.99,
       "formattedPrice": "USD 9.99",
       "高級會員 (年費方案)": "USD 27.99",
-      "高級會員 (月費方案)": "USD 2.99"
+      "高級會員 (月費方案)": "USD 2.99",
+      "智慧點數 10,000pt": "USD 79.99",
+      "智慧點數 5,000pt": "USD 44.99",
+      "智慧點數 2,500pt": "USD 23.99",
+      "智慧點數 900pt": "USD 8.99",
+      "智慧點數 300pt": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788553195173,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "智慧點數 10,000pt": "USD 79.99",
+            "智慧點數 5,000pt": "USD 44.99",
+            "智慧點數 2,500pt": "USD 23.99",
+            "智慧點數 900pt": "USD 8.99",
+            "智慧點數 300pt": "USD 2.99",
+            "高級會員 (年費方案)": "USD 27.99",
+            "高級會員 (月費方案)": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1782051043626,
@@ -204444,6 +204470,29 @@
             "100 Elmas": "USD 1.99",
             "50 Elmas": "USD 0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6755822636": {
+    "trackId": 6755822636,
+    "trackName": "GIKA - 老舊手機復古質感相機",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788553195173,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

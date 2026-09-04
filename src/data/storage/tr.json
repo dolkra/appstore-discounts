@@ -25289,15 +25289,41 @@
       "price": 899.99,
       "formattedPrice": "₺899,99",
       "Premium Membership (Monthly plan)": "₺149,99",
-      "Premium Membership (Yearly plan)": "₺1.499,99"
+      "Premium Membership (Yearly plan)": "₺1.499,99",
+      "Smart Credit 10,000pt": "₺3.999,99",
+      "Smart Credit 5,000pt": "₺2.499,99",
+      "Smart Credit 2,500pt": "₺1.299,99",
+      "Smart Credit 900pt": "₺499,99",
+      "Smart Credit 300pt": "₺149,99"
     },
     "minPriceInfo": {
       "price": 399.99,
       "formattedPrice": "₺399,99",
       "Premium Membership (Monthly plan)": "₺14,99",
-      "Premium Membership (Yearly plan)": "₺144,99"
+      "Premium Membership (Yearly plan)": "₺144,99",
+      "Smart Credit 10,000pt": "₺3.999,99",
+      "Smart Credit 5,000pt": "₺2.499,99",
+      "Smart Credit 2,500pt": "₺1.299,99",
+      "Smart Credit 900pt": "₺499,99",
+      "Smart Credit 300pt": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788553195173,
+          "price": 899.99,
+          "formattedPrice": "₺899,99",
+          "inAppPurchases": {
+            "Premium Membership (Monthly plan)": "₺149,99",
+            "Premium Membership (Yearly plan)": "₺1.499,99",
+            "Smart Credit 10,000pt": "₺3.999,99",
+            "Smart Credit 5,000pt": "₺2.499,99",
+            "Smart Credit 2,500pt": "₺1.299,99",
+            "Smart Credit 900pt": "₺499,99",
+            "Smart Credit 300pt": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785881474416,
@@ -278178,6 +278204,27 @@
             "100 Elmas": "₺19,99",
             "50 Elmas": "₺9,99"
           }
+        }
+      ]
+    ]
+  },
+  "6755822636": {
+    "name": "GIKA - Vintage Phone Cam",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788553195173,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
         }
       ]
     ]
