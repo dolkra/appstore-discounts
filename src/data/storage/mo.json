@@ -21593,6 +21593,21 @@
     "history": [
       [
         {
+          "timestamp": 1788518474386,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "Complete Set": "USD 3.99",
+            "Full Armor": "USD 1.99",
+            "All Health Boosts": "USD 0.99",
+            "Arranged BGMs": "USD 2.99",
+            "All Weapons": "USD 1.99",
+            "All Subtanks": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787554569290,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -51585,6 +51600,27 @@
           "timestamp": 1745384546601,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "773532397": {
+    "name": "乘法表 12x12",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788518474386,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
@@ -90865,6 +90901,14 @@
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788518474386,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787554569290,
@@ -155208,6 +155252,14 @@
     "history": [
       [
         {
+          "timestamp": 1788518474386,
+          "price": 24.99,
+          "formattedPrice": "USD 24.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787554569290,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -177655,6 +177707,14 @@
     "history": [
       [
         {
+          "timestamp": 1788518474386,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787554569290,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -200059,6 +200119,48 @@
           "timestamp": 1788381215116,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6748895212": {
+    "name": "藍牙調試工具箱 - 藍牙調試助手、藍牙快連助手",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788518474386,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6794812402": {
+    "name": "City Hospital: Chief Doctor",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788518474386,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
         }
       ]
