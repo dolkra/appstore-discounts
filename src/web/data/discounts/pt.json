@@ -1,21 +1,55 @@
 [
   {
+    "trackId": 931188326,
+    "region": "pt",
+    "timestamp": 1788476366977,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id931188326",
+    "trackName": "DayCost Pro - Personal Finance",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6467822375,
     "region": "pt",
-    "timestamp": 1788404920760,
+    "timestamp": 1788476366977,
     "discounts": [
       {
         "type": "inAppPurchase",
         "name": "7-Day Pass",
         "from": "4,99 €",
-        "to": "3,99 €",
+        "to": "2,99 €",
         "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "3-Day Pass",
+        "from": "1,49 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 1,49 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Passe de 24 horas",
+        "from": "0,99 €",
+        "to": "0,49 €",
+        "range": "[0,49 € ~ 0,99 €]"
       },
       {
         "type": "inAppPurchase",
         "name": "Premium Lifetime",
         "from": "24,99 €",
-        "to": "19,99 €",
+        "to": "17,99 €",
         "range": "[8,99 € ~ 34,99 €]"
       }
     ],

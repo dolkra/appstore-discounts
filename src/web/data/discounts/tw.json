@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "tw",
+    "timestamp": 1788476366977,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "$150.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "高級終身會員",
+        "from": "$690.00",
+        "to": "$390.00",
+        "range": "[$290.00 ~ $990.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6467822375",
+    "trackName": "Auto Redial - 自動重撥",
+    "firstRecordedAt": 1745593334191
+  },
+  {
     "trackId": 931188326,
     "region": "tw",
     "timestamp": 1788450692170,
