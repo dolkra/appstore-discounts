@@ -1,5 +1,87 @@
 [
   {
+    "trackId": 1160943124,
+    "region": "cn",
+    "timestamp": 1788536982894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥12.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥15.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1160943124",
+    "trackName": "听写文本：语音识别",
+    "firstRecordedAt": 1752329477829
+  },
+  {
+    "trackId": 6444508254,
+    "region": "cn",
+    "timestamp": 1788536982894,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥88.00",
+        "to": "¥28.00",
+        "range": "[¥1.00 ~ ¥88.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "宝物编辑器",
+        "from": "¥6.00",
+        "to": "¥3.00",
+        "range": "[¥2.00 ~ ¥6.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "美术升级包",
+        "from": "¥28.00",
+        "to": "¥14.00",
+        "range": "[¥9.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "群英荟",
+        "from": "¥28.00",
+        "to": "¥14.00",
+        "range": "[¥10.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "出类拔萃",
+        "from": "¥28.00",
+        "to": "¥14.00",
+        "range": "[¥10.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "英雄的黎明",
+        "from": "¥28.00",
+        "to": "¥14.00",
+        "range": "[¥9.00 ~ ¥28.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "山河归一",
+        "from": "¥28.00",
+        "to": "¥18.00",
+        "range": "[¥18.00 ~ ¥28.00]"
+      }
+    ],
+    "price": 28,
+    "formattedPrice": "¥28.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6444508254",
+    "trackName": "汉末霸业",
+    "firstRecordedAt": 1779826154618
+  },
+  {
     "trackId": 931188326,
     "region": "cn",
     "timestamp": 1788450692170,

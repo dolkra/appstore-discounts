@@ -109278,6 +109278,18 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Year": "HK$ 88.00",
+            "6 Months": "HK$ 38.00",
+            "Month": "HK$ 12.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788148503316,
           "price": 12,
           "formattedPrice": "HK$ 12.00",
@@ -253059,6 +253071,14 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 118,
+          "formattedPrice": "HK$ 118.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784401365596,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -291513,6 +291533,48 @@
           "price": 8,
           "formattedPrice": "HK$ 8.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6790439017": {
+    "trackId": 6790439017,
+    "trackName": "Galerici",
+    "region": "hk",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "2000 Elmas": "HK$ 268.00",
+      "1000 Elmas": "HK$ 128.00",
+      "500 Elmas": "HK$ 58.00",
+      "250 Elmas": "HK$ 32.00",
+      "100 Elmas": "HK$ 18.00",
+      "50 Elmas": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00",
+      "2000 Elmas": "HK$ 268.00",
+      "1000 Elmas": "HK$ 128.00",
+      "500 Elmas": "HK$ 58.00",
+      "250 Elmas": "HK$ 32.00",
+      "100 Elmas": "HK$ 18.00",
+      "50 Elmas": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788536982894,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "2000 Elmas": "HK$ 268.00",
+            "1000 Elmas": "HK$ 128.00",
+            "500 Elmas": "HK$ 58.00",
+            "250 Elmas": "HK$ 32.00",
+            "100 Elmas": "HK$ 18.00",
+            "50 Elmas": "HK$ 8.00"
+          }
         }
       ]
     ]

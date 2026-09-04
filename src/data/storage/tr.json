@@ -109175,6 +109175,18 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Month": "₺99,99",
+            "Year": "₺499,99",
+            "6 Months": "₺229,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788148503316,
           "price": 99.99,
           "formattedPrice": "₺99,99",
@@ -157285,6 +157297,25 @@
       "Lava Bundle": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788536982894,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Golden Dice": "₺249,99",
+            "Speed Die": "₺799,99",
+            "The Complete Collection": "₺1.999,99",
+            "Paris, La Belle Epoque Board": "₺399,99",
+            "The Ultimate Edition Sale": "₺1.299,99",
+            "Victorian London Board": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788404920760,
@@ -273061,6 +273092,14 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786626497675,
           "price": 9.99,
           "formattedPrice": "₺9,99",
@@ -277613,10 +277652,18 @@
       "formattedPrice": "₺9,99"
     },
     "minPriceInfo": {
-      "price": 9.99,
-      "formattedPrice": "₺9,99"
+      "price": 2.99,
+      "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788536982894,
+          "price": 2.99,
+          "formattedPrice": "₺2,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787174648454,
@@ -278091,6 +278138,46 @@
           "price": 9.99,
           "formattedPrice": "₺9,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6790439017": {
+    "name": "Galerici",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99",
+      "2000 Elmas": "₺319,99",
+      "1000 Elmas": "₺159,99",
+      "500 Elmas": "₺79,99",
+      "250 Elmas": "₺39,99",
+      "100 Elmas": "₺19,99",
+      "50 Elmas": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99",
+      "2000 Elmas": "₺319,99",
+      "1000 Elmas": "₺159,99",
+      "500 Elmas": "₺79,99",
+      "250 Elmas": "₺39,99",
+      "100 Elmas": "₺19,99",
+      "50 Elmas": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788536982894,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {
+            "2000 Elmas": "₺319,99",
+            "1000 Elmas": "₺159,99",
+            "500 Elmas": "₺79,99",
+            "250 Elmas": "₺39,99",
+            "100 Elmas": "₺19,99",
+            "50 Elmas": "₺9,99"
+          }
         }
       ]
     ]

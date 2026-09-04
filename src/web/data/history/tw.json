@@ -107992,6 +107992,18 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Month": "$50.00",
+            "Year": "$390.00",
+            "6 Months": "$150.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788148503316,
           "price": 50,
           "formattedPrice": "$50.00",
@@ -259758,6 +259770,14 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784401365596,
           "price": 320,
           "formattedPrice": "$320.00",
@@ -302630,6 +302650,48 @@
           "price": 30,
           "formattedPrice": "$30.00",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6790439017": {
+    "trackId": 6790439017,
+    "trackName": "Galerici",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "2000 Elmas": "$990.00",
+      "1000 Elmas": "$490.00",
+      "500 Elmas": "$290.00",
+      "250 Elmas": "$120.00",
+      "100 Elmas": "$60.00",
+      "50 Elmas": "$30.00"
+    },
+    "minPriceInfo": {
+      "price": 30,
+      "formattedPrice": "$30.00",
+      "2000 Elmas": "$990.00",
+      "1000 Elmas": "$490.00",
+      "500 Elmas": "$290.00",
+      "250 Elmas": "$120.00",
+      "100 Elmas": "$60.00",
+      "50 Elmas": "$30.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788536982894,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "2000 Elmas": "$990.00",
+            "1000 Elmas": "$490.00",
+            "500 Elmas": "$290.00",
+            "250 Elmas": "$120.00",
+            "100 Elmas": "$60.00",
+            "50 Elmas": "$30.00"
+          }
         }
       ]
     ]

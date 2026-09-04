@@ -86029,6 +86029,18 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Year": "USD 11.99",
+            "6 Months": "USD 4.99",
+            "Month": "USD 1.49"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788148503316,
           "price": 1.59,
           "formattedPrice": "USD 1.59",
@@ -177988,6 +178000,14 @@
     "history": [
       [
         {
+          "timestamp": 1788536982894,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784401365596,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -204382,6 +204402,48 @@
           "price": 0.99,
           "formattedPrice": "USD 0.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6790439017": {
+    "trackId": 6790439017,
+    "trackName": "Galerici",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "2000 Elmas": "USD 31.99",
+      "1000 Elmas": "USD 15.99",
+      "500 Elmas": "USD 7.99",
+      "250 Elmas": "USD 3.99",
+      "100 Elmas": "USD 1.99",
+      "50 Elmas": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99",
+      "2000 Elmas": "USD 31.99",
+      "1000 Elmas": "USD 15.99",
+      "500 Elmas": "USD 7.99",
+      "250 Elmas": "USD 3.99",
+      "100 Elmas": "USD 1.99",
+      "50 Elmas": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788536982894,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "2000 Elmas": "USD 31.99",
+            "1000 Elmas": "USD 15.99",
+            "500 Elmas": "USD 7.99",
+            "250 Elmas": "USD 3.99",
+            "100 Elmas": "USD 1.99",
+            "50 Elmas": "USD 0.99"
+          }
         }
       ]
     ]
