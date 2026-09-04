@@ -327,7 +327,7 @@ So far, we've covered `7` `Countries or Regions` and  `2250` `Apps` <br />Push n
 |1933|404553553|Automatic|❌|Bloons TD 4|Bloons TD 4|Bloons TD 4|Bloons TD 4|Bloons TD 4|Bloons TD 4|
 |1932|6444766451|Automatic|中医舌诊宝典|中医舌诊宝典|中医舌诊宝典|中医舌诊宝典|中医舌诊宝典|中医舌诊宝典|中医舌诊宝典|
 |1931|6761034567|Automatic|❌|影格工坊 Go|影格工坊 Go|影格工坊 Go|FrameForge Go|FrameForge Go|FrameForge Go|
-|1930|6756928654|Automatic|无恙时光记|无恙时光记|无恙时光记|无恙时光记|无恙时光记|无恙时光记|无恙时光记|
+|1930|6756928654|Automatic|无恙时光记|無恙時光記|無恙時光記|無恙時光記|无恙时光记|无恙时光记|无恙时光记|
 |1929| ~~330247123~~ |Automatic| ~~Sun Seeker - Tracker & Compass~~ | ~~Sun Seeker - Tracker & Compass~~ | ~~Sun Seeker - Tracker & Compass~~ | ~~Sun Seeker - Tracker & Compass~~ | ~~Sun Seeker - Sunlight Tracker~~ | ~~Sun Seeker - Tracker & Compass~~ | ~~Sun Seeker - Tracker & Compass~~ |
 |1928|6761488276|Automatic|❌|CreateDun：冒險|CreateDun：冒險|CreateDun：冒險|CreateDun : Tower Defense|CreateDun : Tower Defense|CreateDun : Tower Defense|
 |1927|1072737282|Automatic|❌|Space Marshals 2|Space Marshals 2|Space Marshals 2|Space Marshals 2|Space Marshals 2|Space Marshals 2|

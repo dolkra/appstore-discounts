@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6467822375,
+    "region": "mo",
+    "timestamp": 1788491191696,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "7-Day Pass",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 4.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "24小時通行證",
+        "from": "USD 0.69",
+        "to": "USD 0.59",
+        "range": "[USD 0.59 ~ USD 0.69]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6467822375",
+    "trackName": "Auto Redial - 自動重撥",
+    "firstRecordedAt": 1745593334191
+  },
+  {
     "trackId": 931188326,
     "region": "mo",
     "timestamp": 1788450692170,
@@ -4538,7 +4565,7 @@
         "name": "7-Day Pass",
         "from": "USD 4.99",
         "to": "USD 2.99",
-        "range": "[USD 2.99 ~ USD 4.99]"
+        "range": "[USD 2.49 ~ USD 4.99]"
       },
       {
         "type": "inAppPurchase",
