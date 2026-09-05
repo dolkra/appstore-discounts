@@ -30716,6 +30716,23 @@
     "history": [
       [
         {
+          "timestamp": 1788602462583,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Race Pass": "5,99 €",
+            "700 Aces": "9,99 €",
+            "300 Aces": "5,99 €",
+            "5000 Aces": "44,99 €",
+            "15000 Aces": "99,99 €",
+            "300 Aces Limited Time Offer": "0,99 €",
+            "700 Aces Limited Time Offer": "5,99 €",
+            "Racing Prodigy Kart TKM TR (T)": "6,99 €",
+            "Racing Prodigy Small Tyre Pack": "2,99 €",
+            "Racing Prodigy X30 La Conca L4": "17,99 €"
+          }
+        },
+        {
           "timestamp": 1788577720920,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -34371,6 +34388,49 @@
           "price": 0.99,
           "formattedPrice": "0,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "882362024": {
+    "name": "Ace Attorney: Dual Destinies",
+    "maxPriceInfo": {
+      "price": 1.19,
+      "formattedPrice": "1,19 €",
+      "Main Story Set": "17,99 €",
+      "Special Episode": "3,49 €",
+      "Costume Set": "1,19 €",
+      "Episode 5": "5,99 €",
+      "Episode 4": "5,99 €",
+      "Episode 2": "5,99 €",
+      "Episode 3": "5,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.19,
+      "formattedPrice": "1,19 €",
+      "Main Story Set": "17,99 €",
+      "Special Episode": "3,49 €",
+      "Costume Set": "1,19 €",
+      "Episode 5": "5,99 €",
+      "Episode 4": "5,99 €",
+      "Episode 2": "5,99 €",
+      "Episode 3": "5,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1788602462583,
+          "price": 1.19,
+          "formattedPrice": "1,19 €",
+          "inAppPurchases": {
+            "Main Story Set": "17,99 €",
+            "Special Episode": "3,49 €",
+            "Costume Set": "1,19 €",
+            "Episode 5": "5,99 €",
+            "Episode 4": "5,99 €",
+            "Episode 2": "5,99 €",
+            "Episode 3": "5,99 €"
+          }
         }
       ]
     ]
@@ -116547,12 +116607,23 @@
       "Goblin Tools Pro - Monthly": "3,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "Goblin Tools Pro - Yearly": "39,99 €",
       "Goblin Tools Pro - Monthly": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788602462583,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "39,99 €",
+            "Goblin Tools Pro - Monthly": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787239953273,
