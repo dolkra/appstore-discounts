@@ -159463,6 +159463,25 @@
     "history": [
       [
         {
+          "timestamp": 1788577720920,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Orient Express": "₺199,99",
+            "Explorer Pack": "₺599,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Golden Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "Speed Die": "₺799,99",
+            "Paris, La Belle Epoque Board": "₺399,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788536982894,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -233558,6 +233577,25 @@
     "history": [
       [
         {
+          "timestamp": 1788577720920,
+          "price": 229,
+          "formattedPrice": "₺229,00",
+          "inAppPurchases": {
+            "1'000'000 Coins": "₺149,99",
+            "200'000 Coins": "₺49,99",
+            "500'000 Coins": "₺99,99",
+            "Amazone CITAN 15001-C": "₺49,99",
+            "New Holland T8.435 Genesis": "₺99,99",
+            "Krone BiG Pack 1290 HDP VC": "₺49,99",
+            "ClaasLexion8900+ConvioFlex1380": "₺149,99",
+            "Case IH Speed-Tiller": "₺49,99",
+            "KINZE 3665 Blue Drive": "₺49,99",
+            "John Deere 8R 410": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788318324161,
           "price": 229,
           "formattedPrice": "₺229,00",
@@ -259985,14 +260023,26 @@
     "maxPriceInfo": {
       "price": 39.99,
       "formattedPrice": "₺39,99",
-      "PRO版武器": "₺39,99"
+      "PRO版武器": "₺39,99",
+      "PRO Weapons": "₺39,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "PRO版武器": "₺39,99"
+      "PRO版武器": "₺39,99",
+      "PRO Weapons": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788577720920,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO Weapons": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752592342378,

@@ -136616,6 +136616,24 @@
     "history": [
       [
         {
+          "timestamp": 1788577720920,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Pile of Gems": "$2.99",
+            "Casket of Gems": "$9.99",
+            "Pile of Coins": "$0.99",
+            "Bag of Coins": "$4.99",
+            "Bag of Gems": "$19.99",
+            "SF2SEPack3": "$2.99",
+            "Chest of Coins": "$19.99",
+            "SF2SEPack10": "$9.99",
+            "Chest of Gems": "$49.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788404920760,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -267235,6 +267253,23 @@
     "history": [
       [
         {
+          "timestamp": 1788577720920,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {
+            "Double Combat Rewards": "$1.99",
+            "300 Gold": "$4.99",
+            "680 Gold": "$9.99",
+            "60 Gold": "$0.99",
+            "Monthly Card": "$4.99",
+            "Professional Training": "$14.99",
+            "980 Gold": "$14.99",
+            "120 Gold": "$1.99",
+            "Backpack Expansion": "$1.99",
+            "Special Training": "$9.99"
+          }
+        },
+        {
           "timestamp": 1788518474386,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -291819,6 +291854,14 @@
     "history": [
       [
         {
+          "timestamp": 1788577720920,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1784401365596,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -291961,6 +292004,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788577720920,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Concorde": "$1.99",
+            "Boeing 747-400": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788450692170,
@@ -313938,14 +314000,26 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
-      "PRO版武器": "$0.99"
+      "PRO版武器": "$0.99",
+      "PRO Weapons": "$0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "PRO版武器": "$0.99"
+      "PRO版武器": "$0.99",
+      "PRO Weapons": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788577720920,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "PRO Weapons": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1752592342378,

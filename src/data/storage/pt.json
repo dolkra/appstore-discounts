@@ -30716,6 +30716,25 @@
     "history": [
       [
         {
+          "timestamp": 1788577720920,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Racing Prodigy X30 La Conca L4": "17,99 €",
+            "Racing Prodigy X30 Atlanta": "17,99 €",
+            "Racing Prodigy X30 Kart Dubai": "17,99 €",
+            "Racing Prodigy X30 B. Vegas": "17,99 €",
+            "Racing Prodigy 50 Quali Tyres": "5,99 €",
+            "10 Pack Qualifying Tyres": "0,99 €",
+            "Figo 100 Octane Fuel Pack - 20": "3,99 €",
+            "Le Cont Hards - 40 Tyre Pack": "3,99 €",
+            "Le Cont Mediums - 40 Tyre Pack": "3,99 €",
+            "Le Cont Softs - 40 Tyres Pack": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787534044681,
           "price": 5.99,
           "formattedPrice": "5,99 €",
@@ -103839,14 +103858,26 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "PRO版武器": "0,99 €"
+      "PRO版武器": "0,99 €",
+      "PRO Weapons": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
-      "PRO版武器": "0,99 €"
+      "PRO版武器": "0,99 €",
+      "PRO Weapons": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788577720920,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "PRO Weapons": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,

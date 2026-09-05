@@ -181651,14 +181651,26 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",
-      "PRO版武器": "USD 0.99"
+      "PRO版武器": "USD 0.99",
+      "PRO Weapons": "USD 0.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
-      "PRO版武器": "USD 0.99"
+      "PRO版武器": "USD 0.99",
+      "PRO Weapons": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788577720920,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PRO Weapons": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,
@@ -194909,6 +194921,25 @@
       "訓練記憶": "USD 17.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788577720920,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "訓練記憶": "USD 17.99",
+            "尼奧貝希摩斯": "USD 1.99",
+            "魔界通行證1": "USD 2.99",
+            "永恆方舟": "USD 29.99",
+            "深淵開拓者": "USD 9.99",
+            "時間旅行者": "USD 5.99",
+            "超越精華": "USD 29.99",
+            "魔界擴充通行證": "USD 5.99",
+            "深淵精華": "USD 19.99",
+            "起始精華": "USD 19.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787498460547,
