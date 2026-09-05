@@ -110541,6 +110541,25 @@
     "history": [
       [
         {
+          "timestamp": 1788619201969,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Skip the Aviator game": "$0.99",
+            "Skip the frogger puzzle": "$0.99",
+            "Skip the keyboard puzzle": "$0.99",
+            "Skip the halma puzzle": "$0.99",
+            "Skip the last puzzle": "$0.99",
+            "Skip the microscope puzzle": "$0.99",
+            "Skip the turn disc puzzle": "$0.99",
+            "Skip the Tetris puzzle": "$0.99",
+            "Skip the doors maze": "$0.99",
+            "Skip the fill color puzzle": "$0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783962732921,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -288853,12 +288872,23 @@
       "Goblin Tools Pro - Monthly": "$3.99"
     },
     "minPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Goblin Tools Pro - Yearly": "$39.99",
       "Goblin Tools Pro - Monthly": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788619201969,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Monthly": "$3.99",
+            "Goblin Tools Pro - Yearly": "$39.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787239953273,
@@ -292125,6 +292155,25 @@
       "CRJ900": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788619201969,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Airbus A380": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Global scenery - 3 months": "$7.99",
+            "Boeing 787-10": "$1.99",
+            "Concorde": "$1.99",
+            "Airbus A350-1000": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788577720920,

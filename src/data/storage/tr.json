@@ -10742,7 +10742,8 @@
       "Sousa: The Mutopia Collection": "₺0,00",
       "Burgmüller: The Mutopia Collection": "₺0,00",
       "Schumann: The Mutopia Collection": "₺0,00",
-      "Gottschalk: The Mutopia Collection": "₺0,00"
+      "Gottschalk: The Mutopia Collection": "₺0,00",
+      "Joplin: The Mutopia Collection": "₺49,99"
     },
     "minPriceInfo": {
       "price": 999.99,
@@ -10768,9 +10769,29 @@
       "Sousa: The Mutopia Collection": "₺0,00",
       "Burgmüller: The Mutopia Collection": "₺0,00",
       "Schumann: The Mutopia Collection": "₺0,00",
-      "Gottschalk: The Mutopia Collection": "₺0,00"
+      "Gottschalk: The Mutopia Collection": "₺0,00",
+      "Joplin: The Mutopia Collection": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788619201969,
+          "price": 1299.99,
+          "formattedPrice": "₺1.299,99",
+          "inAppPurchases": {
+            "forScore Pro": "₺699,99",
+            "Joplin: The Mutopia Collection": "₺49,99",
+            "forScore Pro 30-Day Pass": "₺149,99",
+            "Brahms: The Mutopia Collection": "₺0,00",
+            "Liszt: The Mutopia Collection": "₺0,00",
+            "Satie: The Mutopia Collection": "₺0,00",
+            "Tchaikovsky: The Mutopia Collection": "₺0,00",
+            "Händel: The Mutopia Collection": "₺0,00",
+            "Haydn: The Mutopia Collection": "₺0,00",
+            "Schumann: The Mutopia Collection": "₺0,00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786529003459,
@@ -230153,12 +230174,23 @@
       "Goblin Tools Pro - Monthly": "₺199,99"
     },
     "minPriceInfo": {
-      "price": 39.99,
-      "formattedPrice": "₺39,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Goblin Tools Pro - Yearly": "₺1.999,99",
       "Goblin Tools Pro - Monthly": "₺199,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1788619201969,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Goblin Tools Pro - Yearly": "₺1.999,99",
+            "Goblin Tools Pro - Monthly": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787239953273,
