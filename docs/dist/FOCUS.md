@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2271` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2272` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2272|6800616114|Automatic|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|
 |2271|6749684876|Automatic|❌|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|
 |2270|6799335271|Automatic|奇趣小医生 - 肚子身体模拟扫描坏习惯小怪兽与好打卡自律养成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|Funny Doctor: Kids Habit Scan|Funny Doctor: Kids Habit Scan|奇趣小医生 - 肚子身体模拟扫描坏习惯小怪兽与好打卡自律养成|
 |2269|655607914|Automatic|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|
@@ -2165,7 +2166,7 @@ So far, we've covered `7` `Countries or Regions` and  `2271` `Apps` <br />Push n
 |116|703265535|Manual|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|❌|
 |115|6479307181|Manual|灵体侦测器: 能量、超自然现象幽灵探测器|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|Ghost Detector: Haunted Radar|Ghost Detector: Haunted Radar|Detector Fantasmas: Radar EMF|
 |114| ~~488674899~~ |Manual| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~RAIN RADAR °- sky weather NOAA~~ | ~~RAIN RADAR ° live weather maps~~ | ~~❌~~ |
-|113|1636719674|Manual|锁屏启动 - 应用秒开，万能锁屏桌面小组件灵动岛相机控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|
+|113|1636719674|Manual|锁屏启动 - 应用秒开，灵动岛万能锁屏桌面小组件相机控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|
 |112|1543163106|Manual|末剑二|❌|❌|❌|❌|❌|❌|
 |111|6443812780|Manual|我的水世界求生|❌|❌|❌|❌|❌|❌|
 |110|1344655035|Manual|蜡烛人|❌|❌|❌|❌|❌|❌|

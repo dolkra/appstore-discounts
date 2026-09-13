@@ -334056,7 +334056,8 @@
       "Worship Drum Kit 1": "$0.99",
       "Pad Mix Pro": "$1.99",
       "Arp Pro": "$1.99",
-      "Pad Pulse Pro": "$1.99"
+      "Pad Pulse Pro": "$1.99",
+      "Sequencer Pro": "$2.99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -334073,10 +334074,28 @@
       "Worship Drum Kit 1": "$0.99",
       "Pad Mix Pro": "$1.99",
       "Arp Pro": "$1.99",
-      "Pad Pulse Pro": "$1.99"
+      "Pad Pulse Pro": "$1.99",
+      "Sequencer Pro": "$2.99"
     },
     "history": [
       [
+        {
+          "timestamp": 1789330982355,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "PadLab Full App": "$7.99",
+            "Pad Mix Pro": "$1.99",
+            "Arp Pro": "$1.99",
+            "Pad Pulse Pro": "$1.99",
+            "Sequencer Pro": "$2.99",
+            "PadLab Worship Complete": "$6.99",
+            "Worship Drum Collection": "$3.99",
+            "Coleção Completa de Pads": "$4.99",
+            "Worship EFX": "$0.99",
+            "Worship 808": "$0.99"
+          }
+        },
         {
           "timestamp": 1789297782959,
           "price": 2.99,
@@ -345749,6 +345768,29 @@
           "timestamp": 1789225426600,
           "price": 0.99,
           "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800616114": {
+    "trackId": 6800616114,
+    "trackName": "play_music_theory",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789330982355,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
           "inAppPurchases": {}
         }
       ]

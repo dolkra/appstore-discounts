@@ -10529,6 +10529,25 @@
     "history": [
       [
         {
+          "timestamp": 1789330982355,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "Essential Strings": "1,99 €",
+            "Tuned 808 Bass": "0,99 €",
+            "Varazdin Orchestral Mobile": "3,99 €",
+            "Amped Guitar & Bass": "2,99 €",
+            "Voices": "0,99 €",
+            "Technocraft": "1,99 €",
+            "Acoustic Guitars": "0,99 €",
+            "Sliced Beats": "0,99 €",
+            "PsyTrance": "2,99 €",
+            "Synth Lead": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788801558459,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -73437,6 +73456,25 @@
     "history": [
       [
         {
+          "timestamp": 1789330982355,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {
+            "Explorer Pack": "11,99 €",
+            "The Ultimate Edition Sale": "24,99 €",
+            "Jin Token": "9,99 €",
+            "The Complete Collection": "39,99 €",
+            "Euro Trip": "3,99 €",
+            "New York 2121 Board": "6,99 €",
+            "Big Cities USA Explorer Pack": "2,99 €",
+            "New York 2121": "14,99 €",
+            "The Ultimate Edition Welcome Offer": "24,99 €",
+            "Welcome Offer": "19,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789207811514,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -136055,6 +136093,27 @@
           "timestamp": 1789225426600,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800616114": {
+    "name": "play_music_theory",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789330982355,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

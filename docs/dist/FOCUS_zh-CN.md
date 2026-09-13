@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2271` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2272` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2272|6800616114|自动|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|play_music_theory|
 |2271|6749684876|自动|❌|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|阿爾基奧涅：化學拼圖|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|Alcyone: Chemistry Puzzle|
 |2270|6799335271|自动|奇趣小医生 - 肚子身体模拟扫描坏习惯小怪兽与好打卡自律养成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|奇趣小醫生 - 肚子身體模擬掃描壞習慣小怪獸與好打卡自律養成|Funny Doctor: Kids Habit Scan|Funny Doctor: Kids Habit Scan|奇趣小医生 - 肚子身体模拟扫描坏习惯小怪兽与好打卡自律养成|
 |2269|655607914|自动|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|Drumtune PRO | Drum Tuner|
@@ -2165,7 +2166,7 @@
 |116|703265535|手动|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|FocusDots · Focus What Matters|❌|
 |115|6479307181|手动|灵体侦测器: 能量、超自然现象幽灵探测器|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|靈體偵測器: 能量、超自然感測雷達|Ghost Detector: Haunted Radar|Ghost Detector: Haunted Radar|Detector Fantasmas: Radar EMF|
 |114| ~~488674899~~ |手动| ~~雨雷達-實時天氣圖。 亞洲和中國。°~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~雨雷達 ° -實時天氣圖~~ | ~~RAIN RADAR °- sky weather NOAA~~ | ~~RAIN RADAR ° live weather maps~~ | ~~❌~~ |
-|113|1636719674|手动|锁屏启动 - 应用秒开，万能锁屏桌面小组件灵动岛相机控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|
+|113|1636719674|手动|锁屏启动 - 应用秒开，灵动岛万能锁屏桌面小组件相机控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|鎖屏啟動 - 應用秒開，萬能桌鎖屏面小組件靈動島相機控制中心|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|Lock Launcher - Launch Apps|
 |112|1543163106|手动|末剑二|❌|❌|❌|❌|❌|❌|
 |111|6443812780|手动|我的水世界求生|❌|❌|❌|❌|❌|❌|
 |110|1344655035|手动|蜡烛人|❌|❌|❌|❌|❌|❌|

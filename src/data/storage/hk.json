@@ -62767,6 +62767,25 @@
     "history": [
       [
         {
+          "timestamp": 1789330982355,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "15500 Diamonds": "HK$ 788.00",
+            "5000 Coins": "HK$ 18.00",
+            "1210 Diamonds": "HK$ 88.00",
+            "220 Diamonds": "HK$ 18.00",
+            "82000 Coins": "HK$ 188.00",
+            "3200 Diamonds": "HK$ 188.00",
+            "6600 Diamonds": "HK$ 388.00",
+            "580 Diamonds": "HK$ 38.00",
+            "180000 Coins": "HK$ 388.00",
+            "450000 Coins": "HK$ 788.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
@@ -127331,6 +127350,14 @@
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789330982355,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789314064478,
@@ -289973,6 +290000,27 @@
           "timestamp": 1789225426600,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6800616114": {
+    "name": "play_music_theory",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789330982355,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
           "inAppPurchases": {}
         }
       ]
