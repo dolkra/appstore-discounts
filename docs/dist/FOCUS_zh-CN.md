@@ -509,7 +509,7 @@
 |1772|6741873549|自动|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|Zone System|
 |1771|1520427393|自动|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|El Tubero 2.0|
 |1770|6759113217|自动|❌|ER Doctor|ER Doctor|ER Doctor|ER Doctor|ER Doctor|ER Doctor|
-|1769|1459354443|自动|❌|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|书法字典大全Pro-练字必备|书法字典大全Pro-练字必备|❌|
+|1769|1459354443|自动|❌|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|書法字典大全Pro-練字必備|书法字典大全Pro-练字必备|书法字典大全Pro-练字必备|书法字典大全Pro-练字必备|
 |1768|1620202676|自动|❌|鋼鐵戰隊|鋼鐵戰隊|鋼鐵戰隊|Iron Marines Invasion RTS Game|Iron Marines Invasion RTS Game|Iron Marines Invasion|
 |1767|6740008848|自动|❌|Alter - Reigns Your Fate Story|Alter - Reigns Your Fate Story|Alter - Reigns Your Fate Story|Alters - Reign Beyond Your Ego|Alters - Reign Beyond Your Ego|Alters - Reign Beyond Your Ego|
 |1766|6758530974|自动|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|Current - RSS Feed Reader|
