@@ -944,10 +944,19 @@
           "range": "[免费 ~ ¥15.00]"
         }
       ]
-    },
+    }
+  ],
+  "hk": [
     {
+      "artistViewUrl": "https://apps.apple.com/hk/developer/engage-soft/id1732842962?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
+        "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -1074,85 +1083,90 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/cn/developer/rachael-hehir/id1668929834?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.jpg",
       "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c3/9f/a5c39f62-abda-cbd6-7f0e-7f3d210c945f/11.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/a8/35/57a835b1-032f-f830-61b4-ae391a6e1738/12.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/fa/2f/d7fa2f3f-8573-4f4a-c62f-c6aab2f41dfe/13.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/2d/f0/202df0d9-66c4-6ca1-4a4f-4dbb15db97ff/14.png/360x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f7/41/9af74139-4b84-5513-5141-b68f87cdc48e/37a77738-a424-437f-bbaf-834315f689ba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.38.53.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/44/00/92440025-0afc-65cb-3d25-4e87dfcb57e7/2e1d4890-7187-491b-ba62-6d4cd5010192_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.39.28.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/93/16/1193161a-bfdd-b9c0-bf4a-4aec510af475/32a71647-01e1-4db2-9b68-80ef5acce1e7_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.20.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/6d/b1/586db111-a457-260d-3611-b487497a9090/a52265bc-ac18-4acd-90ae-e2e4d5727b3d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.33.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/6c/1d0b6cdd-7911-e27b-90b8-ae743c08df51/94ba0c41-4209-49fd-8500-4506c291ab03_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.51.14.png/576x768bb.png"
       ],
       "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/f1/51/0ef15150-3cc7-73ca-700b-8def118073a2/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/2a/e3/c12ae3bd-22ca-6e37-78ff-dfc09b50e47d/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/76/9b/4f769bca-22f8-5d68-35b4-2744413b7af0/3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/a6/49/eaa64911-db29-db20-0592-dfb96b27de17/4.png/320x480bb.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f9/a3/c9f9a346-7c9a-7d88-87d1-f4a8ee2097a1/1a2e76f3-0dfa-4396-b8c2-923278f199e6_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/b4/d1/f9b4d1de-9c68-0beb-5918-e90b7fed4638/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.54.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/04/b8/a904b8de-b590-38ce-6a01-74ccaba0b17c/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.40.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/c9/eb/98c9eb20-96c7-4584-3e9a-ccce632dd5f0/119b0048-ac12-407c-97b5-f22b4d6d54ea_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/7e/42/2e7e4246-8b71-d16d-a86a-20e840dcf2eb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.23.51.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/b6/e9/efb6e9da-ad37-c442-b798-11154d169ca4/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.23.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/b1/25/63b125ec-f95f-8002-11e4-9076e75d4b7e/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.45.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/ba/2d/d3ba2d15-72fa-7484-5d9e-a2c8049785b5/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.35.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/89/fd/9089fdd5-5e58-7db3-3c0a-7f57246b39bb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.25.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/ab/f5d9ab96-3800-1570-45f5-5959315f25cb/3ef81dd0-2a74-46e2-8c55-093fd1e92ac6_5.png/320x480bb.jpg"
       ],
-      "features": [
-        "iosUniversal"
-      ],
-      "minimumOsVersion": "12.0",
-      "genres": [
-        "娱乐",
-        "参考资料"
-      ],
-      "artistId": 1668929834,
-      "artistName": "RACHAEL HEHIR",
-      "trackId": 6743021613,
-      "trackName": "电视直播-手机电视节目表、电视导航",
-      "price": 68,
-      "releaseDate": "2025-03-08T08:00:00Z",
-      "genreIds": [
-        "6016",
-        "6006"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "RACHAEL HEHIR",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-06-18T10:50:00Z",
-      "releaseNotes": "修复了一些问题",
-      "version": "2.0.0",
-      "wrapperType": "software",
-      "currency": "CNY",
-      "description": "央视、卫视、港澳台国外、数字、地方台等直播",
-      "trackCensoredName": "电视直播-手机电视节目表、电视导航",
-      "trackViewUrl": "https://apps.apple.com/cn/app/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD-%E6%89%8B%E6%9C%BA%E7%94%B5%E8%A7%86%E8%8A%82%E7%9B%AE%E8%A1%A8-%E7%94%B5%E8%A7%86%E5%AF%BC%E8%88%AA/id6743021613?uo=4",
-      "averageUserRating": 3.93056,
+      "trackCensoredName": "Doodle Baseball Game",
+      "trackViewUrl": "https://apps.apple.com/hk/app/doodle-baseball-game/id6473097811?uo=4",
       "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
+      "price": 22,
+      "artistId": 1732842962,
+      "artistName": "Engage Soft",
+      "bundleId": "com.doodle.baseball.game",
+      "genreIds": [
+        "6014",
+        "7001",
+        "6004",
+        "7016"
+      ],
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "releaseDate": "2023-11-27T08:00:00Z",
+      "sellerName": "ENGAGESOFT",
+      "trackId": 6473097811,
+      "trackName": "Doodle Baseball Game",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
+      "version": "7.2",
+      "wrapperType": "software",
+      "currency": "HKD",
+      "description": "Doodle Baseball - MLB Style Sports Game\n\nStep up to the plate and enjoy fast-paced MLB style baseball action in Doodle Baseball. Hit powerful home runs, throw fast pitches, score runs, and experience exciting arcade baseball gameplay inspired by classic baseball games.\n\nWhether you're playing a quick match or chasing a new high score, Doodle Baseball delivers fun, easy-to-learn gameplay for players of all ages.\n\nSwing Into Baseball Fun\n• Hit powerful home runs\n• Fast pitching and accurate batting\n• Simple one-tap controls\n• Quick and exciting matches\n• Colorful doodle-style graphics\n• Smooth animations and fun sound effects\n• Play offline anytime\n\nBaseball for Everyone\nPractice your batting skills, improve your timing, and become a home run champion. Easy controls make the game fun for beginners, while skill-based gameplay keeps every match exciting. Enjoy quick baseball action whenever you want.\n\nGame Features\n• MLB style baseball gameplay\n• Home runs, batting, and pitching\n• Fast-paced arcade sports action\n• Offline gameplay\n• Easy one-tap controls\n• High-score challenges\n• Colorful doodle-style visuals\n• Smooth gameplay for all ages\n\nIf you enjoy MLB style baseball games, baseball games, softball games, arcade sports games, batting games, home run challenges, or casual sports games, Doodle Baseball is the perfect game for you.\n\nDownload Doodle Baseball – MLB Style Sports Game today and enjoy exciting baseball action anytime, anywhere.",
+      "minimumOsVersion": "16.6",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "45261824",
-      "formattedPrice": "¥68.00",
-      "userRatingCountForCurrentVersion": 72,
+      "fileSizeBytes": "6636544",
+      "formattedPrice": "HK$ 22.00",
+      "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 3.93056,
-      "bundleId": "com.gangaotai.tv",
-      "sellerUrl": "https://dandelionradio001.github.io/gangaotai/support/",
-      "userRatingCount": 72,
+      "averageUserRatingForCurrentVersion": 0,
+      "genres": [
+        "遊戲",
+        "動作",
+        "運動",
+        "運動"
+      ],
+      "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1789036952061,
+      "timestamp": 1789297782959,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "¥148.00",
-          "to": "¥68.00",
-          "range": "[¥48.00 ~ ¥148.00]"
+          "from": "HK$ 38.00",
+          "to": "HK$ 22.00",
+          "range": "[免費 ~ HK$ 38.00]"
         }
       ]
-    }
-  ],
-  "hk": [
+    },
     {
       "artistViewUrl": "https://apps.apple.com/hk/developer/psdc-creative-inc/id528761473?uo=4",
       "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg",
@@ -2979,13 +2993,18 @@
           "range": "[HK$ 2.00 ~ HK$ 22.00]"
         }
       ]
-    },
+    }
+  ],
+  "mo": [
     {
+      "artistViewUrl": "https://apps.apple.com/mo/developer/engage-soft/id1732842962?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
+      "advisories": [],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -3114,12 +3133,12 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/hk/developer/engage-soft/id1732842962?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f9/a3/c9f9a346-7c9a-7d88-87d1-f4a8ee2097a1/1a2e76f3-0dfa-4396-b8c2-923278f199e6_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/b4/d1/f9b4d1de-9c68-0beb-5918-e90b7fed4638/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.54.png/320x480bb.jpg",
@@ -3141,17 +3160,16 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "trackCensoredName": "Doodle Baseball Game",
+      "trackViewUrl": "https://apps.apple.com/mo/app/doodle-baseball-game/id6473097811?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
       "artistId": 1732842962,
       "artistName": "Engage Soft",
-      "genres": [
-        "遊戲",
-        "動作",
-        "運動",
-        "運動"
-      ],
-      "price": 8,
-      "sellerName": "ENGAGESOFT",
+      "price": 2.99,
+      "isVppDeviceBasedLicensingEnabled": true,
       "bundleId": "com.doodle.baseball.game",
+      "releaseDate": "2023-11-27T08:00:00Z",
       "trackId": 6473097811,
       "trackName": "Doodle Baseball Game",
       "genreIds": [
@@ -3160,45 +3178,44 @@
         "6004",
         "7016"
       ],
-      "isVppDeviceBasedLicensingEnabled": true,
-      "primaryGenreName": "Games",
-      "primaryGenreId": 6014,
-      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
-      "releaseDate": "2023-11-27T08:00:00Z",
       "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
+      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
       "version": "7.2",
       "wrapperType": "software",
-      "currency": "HKD",
+      "currency": "USD",
       "description": "Doodle Baseball - MLB Style Sports Game\n\nStep up to the plate and enjoy fast-paced MLB style baseball action in Doodle Baseball. Hit powerful home runs, throw fast pitches, score runs, and experience exciting arcade baseball gameplay inspired by classic baseball games.\n\nWhether you're playing a quick match or chasing a new high score, Doodle Baseball delivers fun, easy-to-learn gameplay for players of all ages.\n\nSwing Into Baseball Fun\n• Hit powerful home runs\n• Fast pitching and accurate batting\n• Simple one-tap controls\n• Quick and exciting matches\n• Colorful doodle-style graphics\n• Smooth animations and fun sound effects\n• Play offline anytime\n\nBaseball for Everyone\nPractice your batting skills, improve your timing, and become a home run champion. Easy controls make the game fun for beginners, while skill-based gameplay keeps every match exciting. Enjoy quick baseball action whenever you want.\n\nGame Features\n• MLB style baseball gameplay\n• Home runs, batting, and pitching\n• Fast-paced arcade sports action\n• Offline gameplay\n• Easy one-tap controls\n• High-score challenges\n• Colorful doodle-style visuals\n• Smooth gameplay for all ages\n\nIf you enjoy MLB style baseball games, baseball games, softball games, arcade sports games, batting games, home run challenges, or casual sports games, Doodle Baseball is the perfect game for you.\n\nDownload Doodle Baseball – MLB Style Sports Game today and enjoy exciting baseball action anytime, anywhere.",
-      "trackCensoredName": "Doodle Baseball Game",
-      "trackViewUrl": "https://apps.apple.com/hk/app/doodle-baseball-game/id6473097811?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "minimumOsVersion": "16.6",
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "6636544",
-      "formattedPrice": "HK$ 8.00",
+      "formattedPrice": "USD 2.99",
       "userRatingCountForCurrentVersion": 0,
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
+      "minimumOsVersion": "16.6",
+      "sellerName": "ENGAGESOFT",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "genres": [
+        "遊戲",
+        "動作",
+        "運動",
+        "運動"
+      ],
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1789036952061,
+      "timestamp": 1789297782959,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "HK$ 22.00",
-          "to": "HK$ 8.00",
-          "range": "[免費 ~ HK$ 38.00]"
+          "from": "USD 4.99",
+          "to": "USD 2.99",
+          "range": "[免費 ~ USD 4.99]"
         }
       ]
-    }
-  ],
-  "mo": [
+    },
     {
       "isGameCenterEnabled": false,
       "features": [],
@@ -5025,8 +5042,14 @@
           "range": "[USD 0.39 ~ USD 2.99]"
         }
       ]
-    },
+    }
+  ],
+  "tw": [
     {
+      "artistViewUrl": "https://apps.apple.com/tw/developer/engage-soft/id1732842962?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f9/a3/c9f9a346-7c9a-7d88-87d1-f4a8ee2097a1/1a2e76f3-0dfa-4396-b8c2-923278f199e6_1.png/320x480bb.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/b4/d1/f9b4d1de-9c68-0beb-5918-e90b7fed4638/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.54.png/320x480bb.jpg",
@@ -5048,8 +5071,9 @@
       ],
       "appletvScreenshotUrls": [],
       "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/mo/developer/engage-soft/id1732842962?uo=4",
-      "isGameCenterEnabled": false,
+      "features": [
+        "iosUniversal"
+      ],
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -5178,73 +5202,69 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
-      ],
-      "features": [
-        "iosUniversal"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 0,
+      "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
       ],
       "fileSizeBytes": "6636544",
-      "formattedPrice": "USD 0.99",
+      "formattedPrice": "$90.00",
       "userRatingCountForCurrentVersion": 0,
+      "trackViewUrl": "https://apps.apple.com/tw/app/doodle-baseball-game/id6473097811?uo=4",
       "trackContentRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
       "trackCensoredName": "Doodle Baseball Game",
-      "trackViewUrl": "https://apps.apple.com/mo/app/doodle-baseball-game/id6473097811?uo=4",
-      "minimumOsVersion": "16.6",
-      "price": 0.99,
-      "trackId": 6473097811,
-      "trackName": "Doodle Baseball Game",
+      "artistId": 1732842962,
+      "artistName": "Engage Soft",
       "genres": [
         "遊戲",
         "動作",
         "運動",
         "運動"
       ],
-      "artistId": 1732842962,
-      "artistName": "Engage Soft",
+      "price": 90,
+      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
       "releaseDate": "2023-11-27T08:00:00Z",
+      "trackName": "Doodle Baseball Game",
+      "trackId": 6473097811,
       "genreIds": [
         "6014",
         "7001",
         "6004",
         "7016"
       ],
-      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
       "primaryGenreName": "Games",
       "primaryGenreId": 6014,
       "sellerName": "ENGAGESOFT",
       "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
       "version": "7.2",
       "wrapperType": "software",
-      "currency": "USD",
+      "currency": "TWD",
       "description": "Doodle Baseball - MLB Style Sports Game\n\nStep up to the plate and enjoy fast-paced MLB style baseball action in Doodle Baseball. Hit powerful home runs, throw fast pitches, score runs, and experience exciting arcade baseball gameplay inspired by classic baseball games.\n\nWhether you're playing a quick match or chasing a new high score, Doodle Baseball delivers fun, easy-to-learn gameplay for players of all ages.\n\nSwing Into Baseball Fun\n• Hit powerful home runs\n• Fast pitching and accurate batting\n• Simple one-tap controls\n• Quick and exciting matches\n• Colorful doodle-style graphics\n• Smooth animations and fun sound effects\n• Play offline anytime\n\nBaseball for Everyone\nPractice your batting skills, improve your timing, and become a home run champion. Easy controls make the game fun for beginners, while skill-based gameplay keeps every match exciting. Enjoy quick baseball action whenever you want.\n\nGame Features\n• MLB style baseball gameplay\n• Home runs, batting, and pitching\n• Fast-paced arcade sports action\n• Offline gameplay\n• Easy one-tap controls\n• High-score challenges\n• Colorful doodle-style visuals\n• Smooth gameplay for all ages\n\nIf you enjoy MLB style baseball games, baseball games, softball games, arcade sports games, batting games, home run challenges, or casual sports games, Doodle Baseball is the perfect game for you.\n\nDownload Doodle Baseball – MLB Style Sports Game today and enjoy exciting baseball action anytime, anywhere.",
       "bundleId": "com.doodle.baseball.game",
-      "averageUserRating": 0,
-      "contentAdvisoryRating": "4+",
-      "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
+      "minimumOsVersion": "16.6",
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1789036952061,
+      "timestamp": 1789297782959,
       "discounts": [
         {
           "type": "price",
           "name": "价格",
-          "from": "USD 2.99",
-          "to": "USD 0.99",
-          "range": "[免費 ~ USD 4.99]"
+          "from": "$150.00",
+          "to": "$90.00",
+          "range": "[免費 ~ $150.00]"
         }
       ]
-    }
-  ],
-  "tw": [
+    },
     {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png",
@@ -7507,38 +7527,14 @@
           "range": "[$10.00 ~ $90.00]"
         }
       ]
-    },
+    }
+  ],
+  "us": [
     {
       "isGameCenterEnabled": false,
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f9/a3/c9f9a346-7c9a-7d88-87d1-f4a8ee2097a1/1a2e76f3-0dfa-4396-b8c2-923278f199e6_1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/b4/d1/f9b4d1de-9c68-0beb-5918-e90b7fed4638/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.54.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/04/b8/a904b8de-b590-38ce-6a01-74ccaba0b17c/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.40.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/c9/eb/98c9eb20-96c7-4584-3e9a-ccce632dd5f0/119b0048-ac12-407c-97b5-f22b4d6d54ea_3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/7e/42/2e7e4246-8b71-d16d-a86a-20e840dcf2eb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.23.51.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/b6/e9/efb6e9da-ad37-c442-b798-11154d169ca4/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.23.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/b1/25/63b125ec-f95f-8002-11e4-9076e75d4b7e/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.45.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/ba/2d/d3ba2d15-72fa-7484-5d9e-a2c8049785b5/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.35.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/89/fd/9089fdd5-5e58-7db3-3c0a-7f57246b39bb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.25.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/ab/f5d9ab96-3800-1570-45f5-5959315f25cb/3ef81dd0-2a74-46e2-8c55-093fd1e92ac6_5.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f7/41/9af74139-4b84-5513-5141-b68f87cdc48e/37a77738-a424-437f-bbaf-834315f689ba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.38.53.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/44/00/92440025-0afc-65cb-3d25-4e87dfcb57e7/2e1d4890-7187-491b-ba62-6d4cd5010192_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.39.28.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/93/16/1193161a-bfdd-b9c0-bf4a-4aec510af475/32a71647-01e1-4db2-9b68-80ef5acce1e7_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.20.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/6d/b1/586db111-a457-260d-3611-b487497a9090/a52265bc-ac18-4acd-90ae-e2e4d5727b3d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.33.png/576x768bb.png",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/6c/1d0b6cdd-7911-e27b-90b8-ae743c08df51/94ba0c41-4209-49fd-8500-4506c291ab03_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.51.14.png/576x768bb.png"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
-      "advisories": [],
       "features": [
         "iosUniversal"
       ],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/tw/developer/engage-soft/id1732842962?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "supportedDevices": [
         "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
@@ -7667,28 +7663,48 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
-      "averageUserRatingForCurrentVersion": 0,
-      "languageCodesISO2A": [
-        "EN"
+      "advisories": [],
+      "kind": "software",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f9/a3/c9f9a346-7c9a-7d88-87d1-f4a8ee2097a1/1a2e76f3-0dfa-4396-b8c2-923278f199e6_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/b4/d1/f9b4d1de-9c68-0beb-5918-e90b7fed4638/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.54.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/04/b8/a904b8de-b590-38ce-6a01-74ccaba0b17c/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.40.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/c9/eb/98c9eb20-96c7-4584-3e9a-ccce632dd5f0/119b0048-ac12-407c-97b5-f22b4d6d54ea_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/7e/42/2e7e4246-8b71-d16d-a86a-20e840dcf2eb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.23.51.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/b6/e9/efb6e9da-ad37-c442-b798-11154d169ca4/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.23.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/b1/25/63b125ec-f95f-8002-11e4-9076e75d4b7e/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.45.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/ba/2d/d3ba2d15-72fa-7484-5d9e-a2c8049785b5/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.35.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/89/fd/9089fdd5-5e58-7db3-3c0a-7f57246b39bb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.25.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/ab/f5d9ab96-3800-1570-45f5-5959315f25cb/3ef81dd0-2a74-46e2-8c55-093fd1e92ac6_5.png/320x480bb.jpg"
       ],
-      "fileSizeBytes": "6636544",
-      "formattedPrice": "$30.00",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f7/41/9af74139-4b84-5513-5141-b68f87cdc48e/37a77738-a424-437f-bbaf-834315f689ba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.38.53.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/44/00/92440025-0afc-65cb-3d25-4e87dfcb57e7/2e1d4890-7187-491b-ba62-6d4cd5010192_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.39.28.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/93/16/1193161a-bfdd-b9c0-bf4a-4aec510af475/32a71647-01e1-4db2-9b68-80ef5acce1e7_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.20.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/6d/b1/586db111-a457-260d-3611-b487497a9090/a52265bc-ac18-4acd-90ae-e2e4d5727b3d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.33.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/6c/1d0b6cdd-7911-e27b-90b8-ae743c08df51/94ba0c41-4209-49fd-8500-4506c291ab03_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.51.14.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "artistViewUrl": "https://apps.apple.com/us/developer/engage-soft/id1732842962?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "minimumOsVersion": "16.6",
       "artistId": 1732842962,
       "artistName": "Engage Soft",
       "genres": [
-        "遊戲",
-        "動作",
-        "運動",
-        "運動"
+        "Games",
+        "Action",
+        "Sports",
+        "Sports"
       ],
-      "price": 30,
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2023-11-27T08:00:00Z",
+      "price": 2.99,
+      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
       "bundleId": "com.doodle.baseball.game",
       "genreIds": [
         "6014",
@@ -7696,37 +7712,44 @@
         "6004",
         "7016"
       ],
-      "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
-      "version": "7.2",
-      "wrapperType": "software",
-      "currency": "TWD",
-      "description": "Doodle Baseball - MLB Style Sports Game\n\nStep up to the plate and enjoy fast-paced MLB style baseball action in Doodle Baseball. Hit powerful home runs, throw fast pitches, score runs, and experience exciting arcade baseball gameplay inspired by classic baseball games.\n\nWhether you're playing a quick match or chasing a new high score, Doodle Baseball delivers fun, easy-to-learn gameplay for players of all ages.\n\nSwing Into Baseball Fun\n• Hit powerful home runs\n• Fast pitching and accurate batting\n• Simple one-tap controls\n• Quick and exciting matches\n• Colorful doodle-style graphics\n• Smooth animations and fun sound effects\n• Play offline anytime\n\nBaseball for Everyone\nPractice your batting skills, improve your timing, and become a home run champion. Easy controls make the game fun for beginners, while skill-based gameplay keeps every match exciting. Enjoy quick baseball action whenever you want.\n\nGame Features\n• MLB style baseball gameplay\n• Home runs, batting, and pitching\n• Fast-paced arcade sports action\n• Offline gameplay\n• Easy one-tap controls\n• High-score challenges\n• Colorful doodle-style visuals\n• Smooth gameplay for all ages\n\nIf you enjoy MLB style baseball games, baseball games, softball games, arcade sports games, batting games, home run challenges, or casual sports games, Doodle Baseball is the perfect game for you.\n\nDownload Doodle Baseball – MLB Style Sports Game today and enjoy exciting baseball action anytime, anywhere.",
-      "minimumOsVersion": "16.6",
-      "trackCensoredName": "Doodle Baseball Game",
-      "trackViewUrl": "https://apps.apple.com/tw/app/doodle-baseball-game/id6473097811?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
+      "releaseDate": "2023-11-27T08:00:00Z",
       "trackId": 6473097811,
       "trackName": "Doodle Baseball Game",
       "primaryGenreName": "Games",
       "primaryGenreId": 6014,
       "sellerName": "ENGAGESOFT",
-      "userRatingCount": 0,
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
+      "version": "7.2",
+      "wrapperType": "software",
+      "currency": "USD",
+      "description": "Doodle Baseball - MLB Style Sports Game\n\nStep up to the plate and enjoy fast-paced MLB style baseball action in Doodle Baseball. Hit powerful home runs, throw fast pitches, score runs, and experience exciting arcade baseball gameplay inspired by classic baseball games.\n\nWhether you're playing a quick match or chasing a new high score, Doodle Baseball delivers fun, easy-to-learn gameplay for players of all ages.\n\nSwing Into Baseball Fun\n• Hit powerful home runs\n• Fast pitching and accurate batting\n• Simple one-tap controls\n• Quick and exciting matches\n• Colorful doodle-style graphics\n• Smooth animations and fun sound effects\n• Play offline anytime\n\nBaseball for Everyone\nPractice your batting skills, improve your timing, and become a home run champion. Easy controls make the game fun for beginners, while skill-based gameplay keeps every match exciting. Enjoy quick baseball action whenever you want.\n\nGame Features\n• MLB style baseball gameplay\n• Home runs, batting, and pitching\n• Fast-paced arcade sports action\n• Offline gameplay\n• Easy one-tap controls\n• High-score challenges\n• Colorful doodle-style visuals\n• Smooth gameplay for all ages\n\nIf you enjoy MLB style baseball games, baseball games, softball games, arcade sports games, batting games, home run challenges, or casual sports games, Doodle Baseball is the perfect game for you.\n\nDownload Doodle Baseball – MLB Style Sports Game today and enjoy exciting baseball action anytime, anywhere.",
+      "languageCodesISO2A": [
+        "EN"
+      ],
+      "fileSizeBytes": "6636544",
+      "formattedPrice": "$2.99",
+      "userRatingCountForCurrentVersion": 2916,
+      "trackContentRating": "4+",
+      "averageUserRatingForCurrentVersion": 4.78841,
+      "trackCensoredName": "Doodle Baseball Game",
+      "trackViewUrl": "https://apps.apple.com/us/app/doodle-baseball-game/id6473097811?uo=4",
+      "contentAdvisoryRating": "4+",
+      "averageUserRating": 4.78841,
+      "userRatingCount": 2916,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1789036952061,
+      "timestamp": 1789297782959,
       "discounts": [
         {
           "type": "price",
-          "name": "价格",
-          "from": "$90.00",
-          "to": "$30.00",
-          "range": "[免費 ~ $150.00]"
+          "name": "Price",
+          "from": "$4.99",
+          "to": "$2.99",
+          "range": "[Free ~ $4.99]"
         }
       ]
-    }
-  ],
-  "us": [
+    },
     {
       "supportedDevices": [
         "iPad2Wifi-iPad2Wifi",
@@ -10285,12 +10308,40 @@
           "range": "[$1.99 ~ $2.99]"
         }
       ]
-    },
+    }
+  ],
+  "tr": [
     {
+      "artistViewUrl": "https://apps.apple.com/tr/developer/engage-soft/id1732842962?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
+      "isGameCenterEnabled": false,
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f9/a3/c9f9a346-7c9a-7d88-87d1-f4a8ee2097a1/1a2e76f3-0dfa-4396-b8c2-923278f199e6_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/b4/d1/f9b4d1de-9c68-0beb-5918-e90b7fed4638/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.54.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/04/b8/a904b8de-b590-38ce-6a01-74ccaba0b17c/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.40.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/c9/eb/98c9eb20-96c7-4584-3e9a-ccce632dd5f0/119b0048-ac12-407c-97b5-f22b4d6d54ea_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/7e/42/2e7e4246-8b71-d16d-a86a-20e840dcf2eb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.23.51.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/b6/e9/efb6e9da-ad37-c442-b798-11154d169ca4/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.23.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/b1/25/63b125ec-f95f-8002-11e4-9076e75d4b7e/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.45.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/ba/2d/d3ba2d15-72fa-7484-5d9e-a2c8049785b5/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.35.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/89/fd/9089fdd5-5e58-7db3-3c0a-7f57246b39bb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.25.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/ab/f5d9ab96-3800-1570-45f5-5959315f25cb/3ef81dd0-2a74-46e2-8c55-093fd1e92ac6_5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f7/41/9af74139-4b84-5513-5141-b68f87cdc48e/37a77738-a424-437f-bbaf-834315f689ba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.38.53.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/44/00/92440025-0afc-65cb-3d25-4e87dfcb57e7/2e1d4890-7187-491b-ba62-6d4cd5010192_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.39.28.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/93/16/1193161a-bfdd-b9c0-bf4a-4aec510af475/32a71647-01e1-4db2-9b68-80ef5acce1e7_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.20.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/6d/b1/586db111-a457-260d-3611-b487497a9090/a52265bc-ac18-4acd-90ae-e2e4d5727b3d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.33.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/6c/1d0b6cdd-7911-e27b-90b8-ae743c08df51/94ba0c41-4209-49fd-8500-4506c291ab03_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.51.14.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
       "features": [
         "iosUniversal"
       ],
       "supportedDevices": [
+        "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -10417,83 +10468,69 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
-      "isGameCenterEnabled": false,
       "advisories": [],
       "kind": "software",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c3/9f/a5c39f62-abda-cbd6-7f0e-7f3d210c945f/11.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/a8/35/57a835b1-032f-f830-61b4-ae391a6e1738/12.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/fa/2f/d7fa2f3f-8573-4f4a-c62f-c6aab2f41dfe/13.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/2d/f0/202df0d9-66c4-6ca1-4a4f-4dbb15db97ff/14.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/f1/51/0ef15150-3cc7-73ca-700b-8def118073a2/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/2a/e3/c12ae3bd-22ca-6e37-78ff-dfc09b50e47d/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/76/9b/4f769bca-22f8-5d68-35b4-2744413b7af0/3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/a6/49/eaa64911-db29-db20-0592-dfb96b27de17/4.png/320x480bb.jpg"
-      ],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/us/developer/rachael-hehir/id1668929834?uo=4",
-      "minimumOsVersion": "12.0",
-      "genres": [
-        "Entertainment",
-        "Reference"
-      ],
-      "price": 9.99,
-      "bundleId": "com.gangaotai.tv",
-      "trackId": 6743021613,
-      "trackName": "电视直播-手机电视节目表、电视导航",
-      "releaseNotes": "修复了一些问题",
-      "releaseDate": "2025-03-08T08:00:00Z",
-      "genreIds": [
-        "6016",
-        "6006"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "RACHAEL HEHIR",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "currentVersionReleaseDate": "2025-06-18T10:50:00Z",
-      "version": "2.0.0",
-      "wrapperType": "software",
-      "currency": "USD",
-      "description": "央视、卫视、港澳台国外、数字、地方台等直播",
+      "averageUserRating": 0,
+      "minimumOsVersion": "16.6",
+      "trackCensoredName": "Doodle Baseball Game",
+      "trackViewUrl": "https://apps.apple.com/tr/app/doodle-baseball-game/id6473097811?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
+      "formattedPrice": "₺149,99",
+      "userRatingCountForCurrentVersion": 0,
+      "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 0,
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "45261824",
-      "formattedPrice": "$9.99",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://dandelionradio001.github.io/gangaotai/support/",
-      "contentAdvisoryRating": "4+",
-      "averageUserRating": 0,
-      "trackCensoredName": "电视直播-手机电视节目表、电视导航",
-      "trackViewUrl": "https://apps.apple.com/us/app/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD-%E6%89%8B%E6%9C%BA%E7%94%B5%E8%A7%86%E8%8A%82%E7%9B%AE%E8%A1%A8-%E7%94%B5%E8%A7%86%E5%AF%BC%E8%88%AA/id6743021613?uo=4",
-      "artistId": 1668929834,
-      "artistName": "RACHAEL HEHIR",
+      "fileSizeBytes": "6636544",
+      "artistId": 1732842962,
+      "artistName": "Engage Soft",
+      "genres": [
+        "Games",
+        "Action",
+        "Sports",
+        "Sports"
+      ],
+      "price": 149.99,
+      "genreIds": [
+        "6014",
+        "7001",
+        "6004",
+        "7016"
+      ],
+      "bundleId": "com.doodle.baseball.game",
+      "trackId": 6473097811,
+      "trackName": "Doodle Baseball Game",
+      "releaseDate": "2023-11-27T08:00:00Z",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "sellerName": "ENGAGESOFT",
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
+      "version": "7.2",
+      "wrapperType": "software",
+      "currency": "TRY",
+      "description": "Doodle Baseball - MLB Style Sports Game\n\nStep up to the plate and enjoy fast-paced MLB style baseball action in Doodle Baseball. Hit powerful home runs, throw fast pitches, score runs, and experience exciting arcade baseball gameplay inspired by classic baseball games.\n\nWhether you're playing a quick match or chasing a new high score, Doodle Baseball delivers fun, easy-to-learn gameplay for players of all ages.\n\nSwing Into Baseball Fun\n• Hit powerful home runs\n• Fast pitching and accurate batting\n• Simple one-tap controls\n• Quick and exciting matches\n• Colorful doodle-style graphics\n• Smooth animations and fun sound effects\n• Play offline anytime\n\nBaseball for Everyone\nPractice your batting skills, improve your timing, and become a home run champion. Easy controls make the game fun for beginners, while skill-based gameplay keeps every match exciting. Enjoy quick baseball action whenever you want.\n\nGame Features\n• MLB style baseball gameplay\n• Home runs, batting, and pitching\n• Fast-paced arcade sports action\n• Offline gameplay\n• Easy one-tap controls\n• High-score challenges\n• Colorful doodle-style visuals\n• Smooth gameplay for all ages\n\nIf you enjoy MLB style baseball games, baseball games, softball games, arcade sports games, batting games, home run challenges, or casual sports games, Doodle Baseball is the perfect game for you.\n\nDownload Doodle Baseball – MLB Style Sports Game today and enjoy exciting baseball action anytime, anywhere.",
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1789036952061,
+      "timestamp": 1789297782959,
       "discounts": [
         {
           "type": "price",
           "name": "Price",
-          "from": "$19.99",
-          "to": "$9.99",
-          "range": "[$6.99 ~ $19.99]"
+          "from": "₺249,99",
+          "to": "₺149,99",
+          "range": "[Free ~ ₺249,99]"
         }
       ]
-    }
-  ],
-  "tr": [
+    },
     {
       "screenshotUrls": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png",
@@ -12547,27 +12584,16 @@
           "range": "[₺99,99 ~ ₺149,99]"
         }
       ]
-    },
+    }
+  ],
+  "pt": [
     {
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/f1/51/0ef15150-3cc7-73ca-700b-8def118073a2/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/2a/e3/c12ae3bd-22ca-6e37-78ff-dfc09b50e47d/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/76/9b/4f769bca-22f8-5d68-35b4-2744413b7af0/3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/a6/49/eaa64911-db29-db20-0592-dfb96b27de17/4.png/320x480bb.jpg"
-      ],
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c3/9f/a5c39f62-abda-cbd6-7f0e-7f3d210c945f/11.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/a8/35/57a835b1-032f-f830-61b4-ae391a6e1738/12.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/fa/2f/d7fa2f3f-8573-4f4a-c62f-c6aab2f41dfe/13.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/2d/f0/202df0d9-66c4-6ca1-4a4f-4dbb15db97ff/14.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.jpg",
-      "artistViewUrl": "https://apps.apple.com/tr/developer/rachael-hehir/id1668929834?uo=4",
+      "artistViewUrl": "https://apps.apple.com/pt/developer/engage-soft/id1732842962?uo=4",
+      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg",
+      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/100x100bb.jpg",
       "isGameCenterEnabled": false,
       "supportedDevices": [
+        "MacDesktop-MacDesktop",
         "iPhone5s-iPhone5s",
         "iPadAir-iPadAir",
         "iPadAirCellular-iPadAirCellular",
@@ -12694,68 +12720,93 @@
         "iPadAir11M4-iPadAir11M4",
         "iPadAir11M4Cellular-iPadAir11M4Cellular",
         "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
+        "iPadAir13M4Cellular-iPadAir13M4Cellular",
+        "iPhone18Pro-iPhone18Pro",
+        "iPhone18ProMax-iPhone18ProMax",
+        "iPhoneDuo-iPhoneDuo"
       ],
       "advisories": [],
       "kind": "software",
+      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/91/f1/9491f10f-113a-5908-fd5f-c57add6f01c5/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/512x512bb.jpg",
+      "screenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/f9/a3/c9f9a346-7c9a-7d88-87d1-f4a8ee2097a1/1a2e76f3-0dfa-4396-b8c2-923278f199e6_1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f9/b4/d1/f9b4d1de-9c68-0beb-5918-e90b7fed4638/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.54.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/04/b8/a904b8de-b590-38ce-6a01-74ccaba0b17c/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.40.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/98/c9/eb/98c9eb20-96c7-4584-3e9a-ccce632dd5f0/119b0048-ac12-407c-97b5-f22b4d6d54ea_3.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/7e/42/2e7e4246-8b71-d16d-a86a-20e840dcf2eb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.23.51.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/b6/e9/efb6e9da-ad37-c442-b798-11154d169ca4/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.23.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/63/b1/25/63b125ec-f95f-8002-11e4-9076e75d4b7e/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.22.45.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/ba/2d/d3ba2d15-72fa-7484-5d9e-a2c8049785b5/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.35.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/89/fd/9089fdd5-5e58-7db3-3c0a-7f57246b39bb/Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-12-21_at_23.21.25.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/d9/ab/f5d9ab96-3800-1570-45f5-5959315f25cb/3ef81dd0-2a74-46e2-8c55-093fd1e92ac6_5.png/320x480bb.jpg"
+      ],
+      "ipadScreenshotUrls": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9a/f7/41/9af74139-4b84-5513-5141-b68f87cdc48e/37a77738-a424-437f-bbaf-834315f689ba_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.38.53.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/92/44/00/92440025-0afc-65cb-3d25-4e87dfcb57e7/2e1d4890-7187-491b-ba62-6d4cd5010192_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.39.28.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/93/16/1193161a-bfdd-b9c0-bf4a-4aec510af475/32a71647-01e1-4db2-9b68-80ef5acce1e7_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.20.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/58/6d/b1/586db111-a457-260d-3611-b487497a9090/a52265bc-ac18-4acd-90ae-e2e4d5727b3d_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.46.33.png/576x768bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/0b/6c/1d0b6cdd-7911-e27b-90b8-ae743c08df51/94ba0c41-4209-49fd-8500-4506c291ab03_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2024-05-26_at_14.51.14.png/576x768bb.png"
+      ],
+      "appletvScreenshotUrls": [],
       "features": [
         "iosUniversal"
       ],
-      "minimumOsVersion": "12.0",
-      "sellerUrl": "https://dandelionradio001.github.io/gangaotai/support/",
       "averageUserRating": 0,
-      "trackCensoredName": "电视直播-手机电视节目表、电视导航",
+      "trackCensoredName": "Doodle Baseball Game",
+      "trackViewUrl": "https://apps.apple.com/pt/app/doodle-baseball-game/id6473097811?uo=4",
+      "contentAdvisoryRating": "4+",
+      "releaseNotes": "Improved gameplay and smoother controls\nEnhanced batting and pitching mechanics\nBetter game stability\nMinor UI improvements for a better experience",
+      "genres": [
+        "Jogos",
+        "Ação",
+        "Desporto",
+        "Desporto"
+      ],
+      "artistId": 1732842962,
+      "artistName": "Engage Soft",
+      "bundleId": "com.doodle.baseball.game",
+      "sellerName": "ENGAGESOFT",
+      "primaryGenreName": "Games",
+      "primaryGenreId": 6014,
+      "trackId": 6473097811,
+      "trackName": "Doodle Baseball Game",
+      "releaseDate": "2023-11-27T08:00:00Z",
+      "genreIds": [
+        "6014",
+        "7001",
+        "6004",
+        "7016"
+      ],
+      "isVppDeviceBasedLicensingEnabled": true,
+      "currentVersionReleaseDate": "2026-07-12T12:00:33Z",
+      "version": "7.2",
+      "wrapperType": "software",
+      "currency": "EUR",
+      "description": "Doodle Baseball - MLB Style Sports Game\n\nStep up to the plate and enjoy fast-paced MLB style baseball action in Doodle Baseball. Hit powerful home runs, throw fast pitches, score runs, and experience exciting arcade baseball gameplay inspired by classic baseball games.\n\nWhether you're playing a quick match or chasing a new high score, Doodle Baseball delivers fun, easy-to-learn gameplay for players of all ages.\n\nSwing Into Baseball Fun\n• Hit powerful home runs\n• Fast pitching and accurate batting\n• Simple one-tap controls\n• Quick and exciting matches\n• Colorful doodle-style graphics\n• Smooth animations and fun sound effects\n• Play offline anytime\n\nBaseball for Everyone\nPractice your batting skills, improve your timing, and become a home run champion. Easy controls make the game fun for beginners, while skill-based gameplay keeps every match exciting. Enjoy quick baseball action whenever you want.\n\nGame Features\n• MLB style baseball gameplay\n• Home runs, batting, and pitching\n• Fast-paced arcade sports action\n• Offline gameplay\n• Easy one-tap controls\n• High-score challenges\n• Colorful doodle-style visuals\n• Smooth gameplay for all ages\n\nIf you enjoy MLB style baseball games, baseball games, softball games, arcade sports games, batting games, home run challenges, or casual sports games, Doodle Baseball is the perfect game for you.\n\nDownload Doodle Baseball – MLB Style Sports Game today and enjoy exciting baseball action anytime, anywhere.",
+      "minimumOsVersion": "16.6",
       "languageCodesISO2A": [
         "EN"
       ],
-      "fileSizeBytes": "45261824",
-      "formattedPrice": "₺499,99",
-      "contentAdvisoryRating": "4+",
+      "fileSizeBytes": "6636544",
+      "formattedPrice": "2,99 €",
       "userRatingCountForCurrentVersion": 0,
-      "trackViewUrl": "https://apps.apple.com/tr/app/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD-%E6%89%8B%E6%9C%BA%E7%94%B5%E8%A7%86%E8%8A%82%E7%9B%AE%E8%A1%A8-%E7%94%B5%E8%A7%86%E5%AF%BC%E8%88%AA/id6743021613?uo=4",
       "trackContentRating": "4+",
       "averageUserRatingForCurrentVersion": 0,
-      "artistId": 1668929834,
-      "artistName": "RACHAEL HEHIR",
-      "genres": [
-        "Entertainment",
-        "Reference"
-      ],
-      "price": 499.99,
-      "genreIds": [
-        "6016",
-        "6006"
-      ],
-      "trackId": 6743021613,
-      "trackName": "电视直播-手机电视节目表、电视导航",
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "RACHAEL HEHIR",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "releaseDate": "2025-03-08T08:00:00Z",
-      "currentVersionReleaseDate": "2025-06-18T10:50:00Z",
-      "releaseNotes": "修复了一些问题",
-      "version": "2.0.0",
-      "wrapperType": "software",
-      "currency": "TRY",
-      "description": "央视、卫视、港澳台国外、数字、地方台等直播",
-      "bundleId": "com.gangaotai.tv",
+      "price": 2.99,
       "userRatingCount": 0,
       "inAppPurchases": {},
       "inAppPurchasesTimes": 1,
-      "timestamp": 1789036952061,
+      "timestamp": 1789297782959,
       "discounts": [
         {
           "type": "price",
           "name": "Price",
-          "from": "₺999,99",
-          "to": "₺499,99",
-          "range": "[₺399,99 ~ ₺999,99]"
+          "from": "5,99 €",
+          "to": "2,99 €",
+          "range": "[Gratuito ~ 5,99 €]"
         }
       ]
-    }
-  ],
-  "pt": [
+    },
     {
       "features": [],
       "supportedDevices": [
@@ -14799,212 +14850,6 @@
           "from": "2,99 €",
           "to": "1,99 €",
           "range": "[1,99 € ~ 2,99 €]"
-        }
-      ]
-    },
-    {
-      "isGameCenterEnabled": false,
-      "features": [
-        "iosUniversal"
-      ],
-      "advisories": [],
-      "kind": "software",
-      "artistViewUrl": "https://apps.apple.com/pt/developer/rachael-hehir/id1668929834?uo=4",
-      "artworkUrl60": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/60x60bb.jpg",
-      "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/100x100bb.jpg",
-      "ipadScreenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a5/c3/9f/a5c39f62-abda-cbd6-7f0e-7f3d210c945f/11.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/57/a8/35/57a835b1-032f-f830-61b4-ae391a6e1738/12.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/fa/2f/d7fa2f3f-8573-4f4a-c62f-c6aab2f41dfe/13.png/360x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/2d/f0/202df0d9-66c4-6ca1-4a4f-4dbb15db97ff/14.png/360x480bb.jpg"
-      ],
-      "appletvScreenshotUrls": [],
-      "artworkUrl512": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/28/5f/0f/285f0f76-59ed-44b5-c282-6c73de255265/AppIcon-0-0-1x_U007epad-0-11-0-0-85-220.png/512x512bb.jpg",
-      "screenshotUrls": [
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/f1/51/0ef15150-3cc7-73ca-700b-8def118073a2/1.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/2a/e3/c12ae3bd-22ca-6e37-78ff-dfc09b50e47d/2.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4f/76/9b/4f769bca-22f8-5d68-35b4-2744413b7af0/3.png/320x480bb.jpg",
-        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ea/a6/49/eaa64911-db29-db20-0592-dfb96b27de17/4.png/320x480bb.jpg"
-      ],
-      "supportedDevices": [
-        "iPhone5s-iPhone5s",
-        "iPadAir-iPadAir",
-        "iPadAirCellular-iPadAirCellular",
-        "iPadMiniRetina-iPadMiniRetina",
-        "iPadMiniRetinaCellular-iPadMiniRetinaCellular",
-        "iPhone6-iPhone6",
-        "iPhone6Plus-iPhone6Plus",
-        "iPadAir2-iPadAir2",
-        "iPadAir2Cellular-iPadAir2Cellular",
-        "iPadMini3-iPadMini3",
-        "iPadMini3Cellular-iPadMini3Cellular",
-        "iPodTouchSixthGen-iPodTouchSixthGen",
-        "iPhone6s-iPhone6s",
-        "iPhone6sPlus-iPhone6sPlus",
-        "iPadMini4-iPadMini4",
-        "iPadMini4Cellular-iPadMini4Cellular",
-        "iPadPro-iPadPro",
-        "iPadProCellular-iPadProCellular",
-        "iPadPro97-iPadPro97",
-        "iPadPro97Cellular-iPadPro97Cellular",
-        "iPhoneSE-iPhoneSE",
-        "iPhone7-iPhone7",
-        "iPhone7Plus-iPhone7Plus",
-        "iPad611-iPad611",
-        "iPad612-iPad612",
-        "iPad71-iPad71",
-        "iPad72-iPad72",
-        "iPad73-iPad73",
-        "iPad74-iPad74",
-        "iPhone8-iPhone8",
-        "iPhone8Plus-iPhone8Plus",
-        "iPhoneX-iPhoneX",
-        "iPad75-iPad75",
-        "iPad76-iPad76",
-        "iPhoneXS-iPhoneXS",
-        "iPhoneXSMax-iPhoneXSMax",
-        "iPhoneXR-iPhoneXR",
-        "iPad812-iPad812",
-        "iPad834-iPad834",
-        "iPad856-iPad856",
-        "iPad878-iPad878",
-        "iPadMini5-iPadMini5",
-        "iPadMini5Cellular-iPadMini5Cellular",
-        "iPadAir3-iPadAir3",
-        "iPadAir3Cellular-iPadAir3Cellular",
-        "iPodTouchSeventhGen-iPodTouchSeventhGen",
-        "iPhone11-iPhone11",
-        "iPhone11Pro-iPhone11Pro",
-        "iPadSeventhGen-iPadSeventhGen",
-        "iPadSeventhGenCellular-iPadSeventhGenCellular",
-        "iPhone11ProMax-iPhone11ProMax",
-        "iPhoneSESecondGen-iPhoneSESecondGen",
-        "iPadProSecondGen-iPadProSecondGen",
-        "iPadProSecondGenCellular-iPadProSecondGenCellular",
-        "iPadProFourthGen-iPadProFourthGen",
-        "iPadProFourthGenCellular-iPadProFourthGenCellular",
-        "iPhone12Mini-iPhone12Mini",
-        "iPhone12-iPhone12",
-        "iPhone12Pro-iPhone12Pro",
-        "iPhone12ProMax-iPhone12ProMax",
-        "iPadAir4-iPadAir4",
-        "iPadAir4Cellular-iPadAir4Cellular",
-        "iPadEighthGen-iPadEighthGen",
-        "iPadEighthGenCellular-iPadEighthGenCellular",
-        "iPadProThirdGen-iPadProThirdGen",
-        "iPadProThirdGenCellular-iPadProThirdGenCellular",
-        "iPadProFifthGen-iPadProFifthGen",
-        "iPadProFifthGenCellular-iPadProFifthGenCellular",
-        "iPhone13Pro-iPhone13Pro",
-        "iPhone13ProMax-iPhone13ProMax",
-        "iPhone13Mini-iPhone13Mini",
-        "iPhone13-iPhone13",
-        "iPadMiniSixthGen-iPadMiniSixthGen",
-        "iPadMiniSixthGenCellular-iPadMiniSixthGenCellular",
-        "iPadNinthGen-iPadNinthGen",
-        "iPadNinthGenCellular-iPadNinthGenCellular",
-        "iPhoneSEThirdGen-iPhoneSEThirdGen",
-        "iPadAirFifthGen-iPadAirFifthGen",
-        "iPadAirFifthGenCellular-iPadAirFifthGenCellular",
-        "iPhone14-iPhone14",
-        "iPhone14Plus-iPhone14Plus",
-        "iPhone14Pro-iPhone14Pro",
-        "iPhone14ProMax-iPhone14ProMax",
-        "iPadTenthGen-iPadTenthGen",
-        "iPadTenthGenCellular-iPadTenthGenCellular",
-        "iPadPro11FourthGen-iPadPro11FourthGen",
-        "iPadPro11FourthGenCellular-iPadPro11FourthGenCellular",
-        "iPadProSixthGen-iPadProSixthGen",
-        "iPadProSixthGenCellular-iPadProSixthGenCellular",
-        "iPhone15-iPhone15",
-        "iPhone15Plus-iPhone15Plus",
-        "iPhone15Pro-iPhone15Pro",
-        "iPhone15ProMax-iPhone15ProMax",
-        "iPadAir11M2-iPadAir11M2",
-        "iPadAir11M2Cellular-iPadAir11M2Cellular",
-        "iPadAir13M2-iPadAir13M2",
-        "iPadAir13M2Cellular-iPadAir13M2Cellular",
-        "iPadPro11M4-iPadPro11M4",
-        "iPadPro11M4Cellular-iPadPro11M4Cellular",
-        "iPadPro13M4-iPadPro13M4",
-        "iPadPro13M4Cellular-iPadPro13M4Cellular",
-        "iPhone16-iPhone16",
-        "iPhone16Plus-iPhone16Plus",
-        "iPhone16Pro-iPhone16Pro",
-        "iPhone16ProMax-iPhone16ProMax",
-        "iPadMiniA17Pro-iPadMiniA17Pro",
-        "iPadMiniA17ProCellular-iPadMiniA17ProCellular",
-        "iPhone16e-iPhone16e",
-        "iPadA16-iPadA16",
-        "iPadA16Cellular-iPadA16Cellular",
-        "iPadAir11M3-iPadAir11M3",
-        "iPadAir11M3Cellular-iPadAir11M3Cellular",
-        "iPadAir13M3-iPadAir13M3",
-        "iPadAir13M3Cellular-iPadAir13M3Cellular",
-        "iPhone17Pro-iPhone17Pro",
-        "iPhone17ProMax-iPhone17ProMax",
-        "iPhone17-iPhone17",
-        "iPhoneAir-iPhoneAir",
-        "iPadPro11M5-iPadPro11M5",
-        "iPadPro11M5Cellular-iPadPro11M5Cellular",
-        "iPadPro13M5-iPadPro13M5",
-        "iPadPro13M5Cellular-iPadPro13M5Cellular",
-        "iPhone17e-iPhone17e",
-        "iPadAir11M4-iPadAir11M4",
-        "iPadAir11M4Cellular-iPadAir11M4Cellular",
-        "iPadAir13M4-iPadAir13M4",
-        "iPadAir13M4Cellular-iPadAir13M4Cellular"
-      ],
-      "minimumOsVersion": "12.0",
-      "genres": [
-        "Entretenimento",
-        "Referência"
-      ],
-      "price": 9.99,
-      "artistId": 1668929834,
-      "artistName": "RACHAEL HEHIR",
-      "currentVersionReleaseDate": "2025-06-18T10:50:00Z",
-      "trackId": 6743021613,
-      "trackName": "电视直播-手机电视节目表、电视导航",
-      "bundleId": "com.gangaotai.tv",
-      "releaseNotes": "修复了一些问题",
-      "releaseDate": "2025-03-08T08:00:00Z",
-      "genreIds": [
-        "6016",
-        "6006"
-      ],
-      "primaryGenreName": "Entertainment",
-      "primaryGenreId": 6016,
-      "sellerName": "RACHAEL HEHIR",
-      "isVppDeviceBasedLicensingEnabled": true,
-      "version": "2.0.0",
-      "wrapperType": "software",
-      "currency": "EUR",
-      "description": "央视、卫视、港澳台国外、数字、地方台等直播",
-      "averageUserRating": 0,
-      "trackCensoredName": "电视直播-手机电视节目表、电视导航",
-      "trackViewUrl": "https://apps.apple.com/pt/app/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD-%E6%89%8B%E6%9C%BA%E7%94%B5%E8%A7%86%E8%8A%82%E7%9B%AE%E8%A1%A8-%E7%94%B5%E8%A7%86%E5%AF%BC%E8%88%AA/id6743021613?uo=4",
-      "contentAdvisoryRating": "4+",
-      "averageUserRatingForCurrentVersion": 0,
-      "languageCodesISO2A": [
-        "EN"
-      ],
-      "fileSizeBytes": "45261824",
-      "formattedPrice": "9,99 €",
-      "userRatingCountForCurrentVersion": 0,
-      "trackContentRating": "4+",
-      "sellerUrl": "https://dandelionradio001.github.io/gangaotai/support/",
-      "userRatingCount": 0,
-      "inAppPurchases": {},
-      "inAppPurchasesTimes": 1,
-      "timestamp": 1789036952061,
-      "discounts": [
-        {
-          "type": "price",
-          "name": "Price",
-          "from": "22,99 €",
-          "to": "9,99 €",
-          "range": "[5,99 € ~ 22,99 €]"
         }
       ]
     }
