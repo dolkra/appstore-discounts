@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2276` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2277` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2277|6808669044|Automatic|❌|❌|❌|❌|❌|Oto Ekspertiz Simülatör|❌|
 |2276|732245213|Automatic|Voice Analyst: 音高与音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: 音調和音量|Voice Analyst: Pitch & Volume|Voice Analyst: Pitch & Volume|Voice Analyst: Tom e Volume|
 |2275|6720703028|Automatic|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|Rheumatoid Arthritis (RA)|
 |2274|6467631665|Automatic|备货追踪|備貨追蹤|備貨追蹤|備貨追蹤|Stock Tracker for AS|Stock Tracker for AS|备货追踪|

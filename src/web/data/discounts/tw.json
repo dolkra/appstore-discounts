@@ -2,32 +2,11 @@
   {
     "trackId": 485246824,
     "region": "tw",
-    "timestamp": 1789408041891,
+    "timestamp": 1789421572923,
     "discounts": [
       {
         "type": "inAppPurchase",
-        "name": "Chapter N",
-        "from": "$120.00",
-        "to": "$50.00",
-        "range": "[$50.00 ~ $120.00]"
-      },
-      {
-        "type": "inAppPurchase",
         "name": "Chapter D",
-        "from": "$150.00",
-        "to": "$60.00",
-        "range": "[$60.00 ~ $150.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Chapter L",
-        "from": "$320.00",
-        "to": "$120.00",
-        "range": "[$120.00 ~ $320.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Chapter T",
         "from": "$150.00",
         "to": "$60.00",
         "range": "[$60.00 ~ $150.00]"
@@ -42,6 +21,27 @@
       {
         "type": "inAppPurchase",
         "name": "Chapter 0",
+        "from": "$150.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $150.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter L",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter N",
+        "from": "$120.00",
+        "to": "$50.00",
+        "range": "[$50.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Chapter T",
         "from": "$150.00",
         "to": "$60.00",
         "range": "[$60.00 ~ $150.00]"
