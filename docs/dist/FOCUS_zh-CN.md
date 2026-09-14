@@ -901,11 +901,11 @@
 |1385|1484024784|自动|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|子午線157: 第1章|Meridian 157: Chapter 1|Meridian 157: Chapter 1|Meridian 157: Capítulo 1|
 |1384|1672085276|自动|❌|Aiko|Aiko|Aiko|Aiko|Aiko|Aiko|
 |1383|1370362850|自动|LAYOUT 拍立得相机 - 极简时尚自拍，复古海报美图设计|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYOUT 拍立得相機 - 極簡時尚海報，照片美圖設計|LAYÒUT|LAYOUT - Poster& Photo Editor|LAYÒUT|
-|1382|6747307749|自动|CHAKK - 인스타 스토리 꾸미는 재미, 챡!|CHAKK - 인스타 스토리 꾸미는 재미, 챡!|CHAKK - 인스타 스토리 꾸미는 재미, 챡!|CHAKK - 인스타 스토리 꾸미는 재미, 챡!|CHAKK - 인스타 스토리 꾸미는 재미, 챡!|CHAKK - 인스타 스토리 꾸미는 재미, 챡!|CHAKK - 인스타 스토리 꾸미는 재미, 챡!|
+|1382|6747307749|自动|CHAKK-让你的 Instagram Story 更好玩！|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|CHAKK - Stickers for Stories|
 |1381|1075462280|自动|我的极光预报专业版|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|My Aurora Forecast Pro|
 |1380|1170448156|自动|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|World Uncovered (Full)|
 |1379|6673892874|自动|❌|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|常春藤-New TOEIC ® 挑戰片語|
-|1378|1234266367|自动|鼓调音器 - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|Drum Tuner - iDrumTune Pro|
+|1378|1234266367|自动|鼓调音器 - iDrumTune Pro|iDrumTune Precision Drum Tuner|iDrumTune Precision Drum Tuner|iDrumTune Precision Drum Tuner|iDrumTune Precision Drum Tuner|iDrumTune Precision Drum Tuner|iDrumTune Precision Drum Tuner|
 |1377|1504024081|自动|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|Fast Forward Videos -Boomerang|
 |1376|1581546143|自动|蓬莱镇|蓬莱镇|蓬莱镇|蓬莱镇|The Immortal Mayor|The Immortal Mayor|蓬莱镇|
 |1375|1546106967|自动|❌|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|Sokoban (Boxman) Classic|
