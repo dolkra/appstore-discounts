@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1571643809,
+    "region": "us",
+    "timestamp": 1789356898180,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1571643809",
+    "trackName": "Dungeon and Puzzles",
+    "firstRecordedAt": 1751962698117
+  },
+  {
+    "trackId": 6760948683,
+    "region": "us",
+    "timestamp": 1789356898180,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6760948683",
+    "trackName": "Digline: Cozy Mining",
+    "firstRecordedAt": 1781276299651
+  },
+  {
     "trackId": 6473097811,
     "region": "us",
     "timestamp": 1789297782959,
