@@ -6922,6 +6922,27 @@
       ]
     ]
   },
+  "328992396": {
+    "name": "Glow Hockey 2",
+    "maxPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "minPriceInfo": {
+      "price": 8,
+      "formattedPrice": "HK$ 8.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789443355695,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "329233299": {
     "name": "Universe Splitter",
     "maxPriceInfo": {
@@ -243931,6 +243952,23 @@
     "history": [
       [
         {
+          "timestamp": 1789443355695,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "每年": "HK$ 88.00",
+            "每月": "HK$ 18.00",
+            "招財": "HK$ 18.00",
+            "Blue Sky Theme": "HK$ 18.00",
+            "City Night Theme": "HK$ 18.00",
+            "Calico Theme": "HK$ 18.00",
+            "Siamese Theme": "HK$ 18.00",
+            "辛巴": "HK$ 18.00",
+            "2025 Spring Flower Theme": "HK$ 18.00",
+            "Civet Theme": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1789421572923,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -289233,14 +289271,22 @@
   "6751758741": {
     "name": "AutoFill – Flash Checkout",
     "maxPriceInfo": {
-      "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "price": 48,
+      "formattedPrice": "HK$ 48.00"
     },
     "minPriceInfo": {
       "price": 18,
       "formattedPrice": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789443355695,
+          "price": 48,
+          "formattedPrice": "HK$ 48.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788006103133,

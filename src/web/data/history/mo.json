@@ -4740,6 +4740,29 @@
       ]
     ]
   },
+  "328992396": {
+    "trackId": 328992396,
+    "trackName": "Glow Hockey 2",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789443355695,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
   "329233299": {
     "trackId": 329233299,
     "trackName": "Universe Splitter",
@@ -179825,6 +179848,25 @@
     "history": [
       [
         {
+          "timestamp": 1789443355695,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "USD 4.99",
+            "EC135": "USD 0.99",
+            "The Aircraft Bundle": "USD 24.99",
+            "Global scenery - 12 months": "USD 19.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Boeing 737 MAX 9": "USD 1.99",
+            "Airbus A380": "USD 1.99",
+            "Global scenery - 3 months": "USD 7.99",
+            "Airbus A320neo": "USD 3.99",
+            "Boeing 777-300ER": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789207811514,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -205620,14 +205662,22 @@
     "trackName": "AutoFill – Flash Checkout",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "USD 3.99"
+      "price": 5.99,
+      "formattedPrice": "USD 5.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789443355695,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788006103133,
