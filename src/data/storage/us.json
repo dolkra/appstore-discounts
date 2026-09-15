@@ -335197,13 +335197,25 @@
     "name": "Dungeon Tracer",
     "maxPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "$2.99"
+      "formattedPrice": "$2.99",
+      "All Classes Unlocked": "$9.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "All Classes Unlocked": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789505670372,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "All Classes Unlocked": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781445729568,

@@ -31770,6 +31770,23 @@
     "history": [
       [
         {
+          "timestamp": 1789505670372,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Chapter D": "$60.00",
+            "Chapter R": "$60.00",
+            "Chapter 0": "$60.00",
+            "Chapter L": "$120.00",
+            "Chapter N": "$50.00",
+            "Chapter T": "$60.00",
+            "Chapter K": "$150.00",
+            "Chapter 6": "$150.00",
+            "Chapter S": "$150.00",
+            "Chapter 5": "$150.00"
+          }
+        },
+        {
           "timestamp": 1789489297466,
           "price": 0,
           "formattedPrice": "免費",
@@ -299969,13 +299986,25 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 90,
-      "formattedPrice": "$90.00"
+      "formattedPrice": "$90.00",
+      "解鎖所有職業": "$320.00"
     },
     "minPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "解鎖所有職業": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789505670372,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "解鎖所有職業": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1781445729568,
