@@ -68690,7 +68690,7 @@
   },
   "1410053842": {
     "trackId": 1410053842,
-    "trackName": "小渔排班 - 倒班工作者的专属日历",
+    "trackName": "Selene: Shift Calendar",
     "region": "pt",
     "maxPriceInfo": {
       "price": 9.99,
@@ -121962,10 +121962,10 @@
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
-      "Standard Pack": "0,49 €",
-      "Elite Pack": "5,99 €",
-      "Premium Pack": "2,99 €",
-      "Advanced Pack": "1,99 €"
+      "Standard Pack": "0,99 €",
+      "Elite Pack": "8,99 €",
+      "Premium Pack": "5,99 €",
+      "Advanced Pack": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -121976,6 +121976,19 @@
       "Advanced Pack": "1,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789470674397,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Premium Pack": "5,99 €",
+            "Standard Pack": "0,99 €",
+            "Elite Pack": "8,99 €",
+            "Advanced Pack": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -140519,6 +140532,29 @@
           "timestamp": 1789386910265,
           "price": 9.99,
           "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6760776478": {
+    "trackId": 6760776478,
+    "trackName": "CW Runner QT",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789470674397,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

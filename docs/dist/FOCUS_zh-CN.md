@@ -251,7 +251,7 @@
 |2037|6768559918|自动|和弦基因 - 吉他乐理|和弦基因 - 吉他樂理|和弦基因 - 吉他樂理|和弦基因 - 吉他樂理|GenChord - Guitar Scale Chord|GenChord - Guitar Scale Chord|GenChord - Guitar Chords|
 |2036|898188878|自动|UrKeyboard输入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|
 |2035|6772182116|自动|❌|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|
-|2034|6760776478|自动|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|❌|
+|2034|6760776478|自动|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|
 |2033|6745230519|自动|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
 |2032|6759642128|自动|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|
 |2031|6762921522|自动|计分器-多人对局|計分器-多人對局|計分器-多人對局|計分器-多人對局|Game Scorer Round Tracker|Game Scorer Round Tracker|计分器-多人对局|
@@ -1123,7 +1123,7 @@
 |1165|474177077|自动|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|Oh! Edo Towns|
 |1164| ~~6479684285~~ |自动| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~❌~~ |
 |1163|1039141908|自动|❌|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|
-|1162|547000247|自动|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp: Landscape Photography|
+|1162|547000247|自动|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|
 |1161|1332586660|自动|搜索 互联网 文本 URL 浏览器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|Search Web Text on URL Browser|Search Web Text on URL Browser|Search Web Text on URL Browser|
 |1160|6449233549|自动|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
 |1159|6745474000|自动|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|BiuGun: Gun Simulator|BiuGun: Gun Simulator|空气枪BiuGun|
@@ -1474,7 +1474,7 @@
 |814|6474207287|自动|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|自动|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|
 |812|1108935309|自动|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
-|811|1410053842|自动|小渔排班 - 倒班工作者的专属日历|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|Selene: Shift Calendar|Selene: Shift Calendar|小渔排班 - 倒班工作者的专属日历|
+|811|1410053842|自动|小渔排班 - 倒班工作者的专属日历|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|Selene: Shift Calendar|Selene: Shift Calendar|Selene: Shift Calendar|
 |810|1519508653|自动|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|自动|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|自动|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|

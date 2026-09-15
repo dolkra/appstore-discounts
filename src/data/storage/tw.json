@@ -44469,16 +44469,31 @@
     ]
   },
   "547000247": {
-    "name": "LExp - Long Exposure Calcs",
+    "name": "LExp: Landscape Photography",
     "maxPriceInfo": {
       "price": 120,
-      "formattedPrice": "$120.00"
+      "formattedPrice": "$120.00",
+      "Annual": "$490.00",
+      "Monthly": "$90.00"
     },
     "minPriceInfo": {
       "price": 120,
-      "formattedPrice": "$120.00"
+      "formattedPrice": "$120.00",
+      "Annual": "$490.00",
+      "Monthly": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789470674397,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Annual": "$490.00",
+            "Monthly": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750493702323,
@@ -251084,10 +251099,10 @@
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Elite Pack": "$150.00",
-      "Premium Pack": "$90.00",
-      "Advanced Pack": "$60.00",
-      "Standard Pack": "$20.00"
+      "Elite Pack": "$290.00",
+      "Premium Pack": "$150.00",
+      "Advanced Pack": "$90.00",
+      "Standard Pack": "$30.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -251098,6 +251113,19 @@
       "Standard Pack": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789470674397,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Elite Pack": "$290.00",
+            "Premium Pack": "$150.00",
+            "Advanced Pack": "$90.00",
+            "Standard Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745328692670,

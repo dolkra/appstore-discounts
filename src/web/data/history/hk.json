@@ -44550,17 +44550,32 @@
   },
   "547000247": {
     "trackId": 547000247,
-    "trackName": "LExp - Long Exposure Calcs",
+    "trackName": "LExp: Landscape Photography",
     "region": "hk",
     "maxPriceInfo": {
       "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "formattedPrice": "HK$ 32.00",
+      "Annual": "HK$ 118.00",
+      "Monthly": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 32,
-      "formattedPrice": "HK$ 32.00"
+      "formattedPrice": "HK$ 32.00",
+      "Annual": "HK$ 118.00",
+      "Monthly": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789470674397,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "Annual": "HK$ 118.00",
+            "Monthly": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1750493702323,
@@ -172698,6 +172713,25 @@
     "history": [
       [
         {
+          "timestamp": 1789470674397,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "King Hydra Token": "HK$ 88.00",
+            "City Break": "HK$ 22.00",
+            "Sagescale Token": "HK$ 88.00",
+            "The Ultimate Edition Sale": "HK$ 188.00",
+            "Diamondhoof Token": "HK$ 88.00",
+            "Emberwing Token": "HK$ 88.00",
+            "Astronaut Token Sale": "HK$ 22.00",
+            "Knitted Bundle": "HK$ 98.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789386910265,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -250957,10 +250991,10 @@
     "maxPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00",
-      "Elite Pack": "HK$ 38.00",
-      "Premium Pack": "HK$ 22.00",
-      "Advanced Pack": "HK$ 18.00",
-      "Standard Pack": "HK$ 2.00"
+      "Elite Pack": "HK$ 58.00",
+      "Premium Pack": "HK$ 38.00",
+      "Advanced Pack": "HK$ 22.00",
+      "Standard Pack": "HK$ 8.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -250971,6 +251005,19 @@
       "Standard Pack": "HK$ 2.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789470674397,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "Elite Pack": "HK$ 58.00",
+            "Premium Pack": "HK$ 38.00",
+            "Advanced Pack": "HK$ 22.00",
+            "Standard Pack": "HK$ 8.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,

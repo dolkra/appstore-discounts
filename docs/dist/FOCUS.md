@@ -251,7 +251,7 @@ So far, we've covered `7` `Countries or Regions` and  `2278` `Apps` <br />Push n
 |2037|6768559918|Automatic|和弦基因 - 吉他乐理|和弦基因 - 吉他樂理|和弦基因 - 吉他樂理|和弦基因 - 吉他樂理|GenChord - Guitar Scale Chord|GenChord - Guitar Scale Chord|GenChord - Guitar Chords|
 |2036|898188878|Automatic|UrKeyboard输入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|UrKeyboard輸入法|
 |2035|6772182116|Automatic|❌|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|
-|2034|6760776478|Automatic|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|❌|
+|2034|6760776478|Automatic|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|
 |2033|6745230519|Automatic|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
 |2032|6759642128|Automatic|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|
 |2031|6762921522|Automatic|计分器-多人对局|計分器-多人對局|計分器-多人對局|計分器-多人對局|Game Scorer Round Tracker|Game Scorer Round Tracker|计分器-多人对局|
@@ -1123,7 +1123,7 @@ So far, we've covered `7` `Countries or Regions` and  `2278` `Apps` <br />Push n
 |1165|474177077|Automatic|❌|大江戶物語|大江戶物語|大江戶物語|Oh! Edo Towns|Oh! Edo Towns|Oh! Edo Towns|
 |1164| ~~6479684285~~ |Automatic| ~~❌~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~Never Night~~ | ~~❌~~ |
 |1163|1039141908|Automatic|❌|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|LEGO® Ninjago™|
-|1162|547000247|Automatic|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp - Long Exposure Calcs|LExp: Landscape Photography|
+|1162|547000247|Automatic|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|LExp: Landscape Photography|
 |1161|1332586660|Automatic|搜索 互联网 文本 URL 浏览器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|搜索 互聯網 文本 URL 瀏覽器|Search Web Text on URL Browser|Search Web Text on URL Browser|Search Web Text on URL Browser|
 |1160|6449233549|Automatic|❌|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|Ark Nova|
 |1159|6745474000|Automatic|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|空气枪BiuGun|BiuGun: Gun Simulator|BiuGun: Gun Simulator|空气枪BiuGun|
@@ -1474,7 +1474,7 @@ So far, we've covered `7` `Countries or Regions` and  `2278` `Apps` <br />Push n
 |814|6474207287|Automatic|❌|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi（和語旅）：學習日語|Wagotabi: Learn Japanese|Wagotabi: Learn Japanese|Wagotabi: Aprender Japonês|
 |813|497880658|Automatic|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|J23 - Release Dates & Restocks|
 |812|1108935309|Automatic|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|20 Watch Games - Classic Pack|
-|811|1410053842|Automatic|小渔排班 - 倒班工作者的专属日历|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|Selene: Shift Calendar|Selene: Shift Calendar|小渔排班 - 倒班工作者的专属日历|
+|811|1410053842|Automatic|小渔排班 - 倒班工作者的专属日历|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|小漁輪班：值班排班日曆|Selene: Shift Calendar|Selene: Shift Calendar|Selene: Shift Calendar|
 |810|1519508653|Automatic|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt - 3D雕刻建模|Nomad Sculpt|Nomad Sculpt|Nomad Sculpt|
 |809|6446826650|Automatic|❌|創造都市島物語|創造都市島物語|創造都市島物語|Dream Town Island|Dream Town Island|Dream Town Island|
 |808|998437590|Automatic|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|西语背单词|

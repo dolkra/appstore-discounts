@@ -48482,7 +48482,7 @@
     ]
   },
   "547000247": {
-    "name": "LExp - Long Exposure Calcs",
+    "name": "LExp: Landscape Photography",
     "maxPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99",
@@ -112911,6 +112911,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789470674397,
+          "price": 349,
+          "formattedPrice": "₺349,00",
+          "inAppPurchases": {
+            "All DLC": "₺0,00",
+            "HD Textures": "₺0,00",
+            "Best of British Pack": "₺0,00",
+            "Black Edition Pack": "₺0,00",
+            "Road & Track Pack": "₺0,00",
+            "Drag Pack": "₺0,00",
+            "Sprint Pack": "₺0,00"
+          }
+        },
         {
           "timestamp": 1789443355695,
           "price": 349,
@@ -232802,10 +232816,10 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99",
-      "Standard Pack": "₺4,99",
-      "Elite Pack": "₺59,99",
-      "Advanced Pack": "₺19,99",
-      "Premium Pack": "₺34,99"
+      "Standard Pack": "₺29,99",
+      "Elite Pack": "₺199,99",
+      "Advanced Pack": "₺79,99",
+      "Premium Pack": "₺129,99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -232816,6 +232830,19 @@
       "Premium Pack": "₺34,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789470674397,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Standard Pack": "₺29,99",
+            "Elite Pack": "₺199,99",
+            "Advanced Pack": "₺79,99",
+            "Premium Pack": "₺129,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760821779502,

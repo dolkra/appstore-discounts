@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 1410053842,
+    "region": "cn",
+    "timestamp": 1789470674397,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥1.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1410053842",
+    "trackName": "小渔排班 - 倒班工作者的专属日历",
+    "firstRecordedAt": 1745453324134
+  },
+  {
     "trackId": 1309638846,
     "region": "cn",
     "timestamp": 1789225426600,
@@ -29,7 +49,7 @@
         "name": "Price",
         "from": "¥6.00",
         "to": "¥1.00",
-        "range": "[¥1.00 ~ ¥8.00]"
+        "range": "[免费 ~ ¥8.00]"
       }
     ],
     "price": 1,
@@ -598,7 +618,7 @@
         "name": "Price",
         "from": "¥8.00",
         "to": "¥6.00",
-        "range": "[¥1.00 ~ ¥8.00]"
+        "range": "[免费 ~ ¥8.00]"
       }
     ],
     "price": 6,
@@ -2263,7 +2283,7 @@
         "name": "Price",
         "from": "¥8.00",
         "to": "¥6.00",
-        "range": "[¥1.00 ~ ¥8.00]"
+        "range": "[免费 ~ ¥8.00]"
       }
     ],
     "price": 6,
