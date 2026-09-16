@@ -138,7 +138,7 @@ So far, we've covered `7` `Countries or Regions` and  `2278` `Apps` <br />Push n
 |2150|6754986970|Automatic|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|
 |2149|6747655400|Automatic|RPGEmu - RPG Maker视觉小说们|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
 |2148|6779676299|Automatic|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|
-|2147|6474194438|Automatic|❌|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|
+|2147|6474194438|Automatic|❌|饑荒聯機版|饑荒聯機版|饑荒聯機版|Don't Starve Together|Don't Starve Together|Don't Starve Together|
 |2146|6789323764|Automatic|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
 |2145|354897032|Automatic|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|Verbos em Francês (Mais)|
 |2144|385464568|Automatic|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|Verbos em Alemães (Mais)|
@@ -1940,7 +1940,7 @@ So far, we've covered `7` `Countries or Regions` and  `2278` `Apps` <br />Push n
 |348|1515382132|Automatic|❌|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|
 |347|1516531425|Automatic|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
 |346|1517349382|Automatic|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|❌|
-|345|1518841947|Automatic|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
+|345|1518841947|Automatic|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Plano de Vôo e Clima|
 |344|1519386476|Automatic|❌|迷你遊戲 - 復古手錶遊戲|迷你遊戲 - 復古手錶遊戲|迷你遊戲 - 復古手錶遊戲|MiniGames - Retro Watch Games|MiniGames - Retro Watch Games|MiniJogos - Retro de Relógio|
 |343|1523633394|Automatic|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|SpongeBob SquarePants: BfBB|
 |342|1525735418|Automatic|❌|❌|❌|❌|❌|Mesih|❌|

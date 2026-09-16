@@ -138,7 +138,7 @@
 |2150|6754986970|自动|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|RPGPlayer - An RPGMaker Player|
 |2149|6747655400|自动|RPGEmu - RPG Maker视觉小说们|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|RPGEmu for RPG Maker MV/MZ/XP|
 |2148|6779676299|自动|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|
-|2147|6474194438|自动|❌|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|Don't Starve Together|
+|2147|6474194438|自动|❌|饑荒聯機版|饑荒聯機版|饑荒聯機版|Don't Starve Together|Don't Starve Together|Don't Starve Together|
 |2146|6789323764|自动|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
 |2145|354897032|自动|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|Verbos em Francês (Mais)|
 |2144|385464568|自动|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|Verbos em Alemães (Mais)|
@@ -1940,7 +1940,7 @@
 |348|1515382132|自动|❌|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|Axis & Allies 1942 Online|
 |347|1516531425|自动|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|JSPS APP|
 |346|1517349382|自动|群雄时代 - 单机三国战棋策略游戏|❌|❌|❌|❌|❌|❌|
-|345|1518841947|自动|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|ATSU|
+|345|1518841947|自动|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Flight Planner & Weather|ATSU: Plano de Vôo e Clima|
 |344|1519386476|自动|❌|迷你遊戲 - 復古手錶遊戲|迷你遊戲 - 復古手錶遊戲|迷你遊戲 - 復古手錶遊戲|MiniGames - Retro Watch Games|MiniGames - Retro Watch Games|MiniJogos - Retro de Relógio|
 |343|1523633394|自动|❌|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants|SpongeBob SquarePants: BfBB|SpongeBob SquarePants: BfBB|
 |342|1525735418|自动|❌|❌|❌|❌|❌|Mesih|❌|

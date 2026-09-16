@@ -74924,6 +74924,14 @@
     "history": [
       [
         {
+          "timestamp": 1789556078824,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786529003459,
           "price": 118,
           "formattedPrice": "HK$ 118.00",
@@ -170409,7 +170417,8 @@
       "The Unicorn": "HK$ 28.00",
       "Basketball Dice Sale": "HK$ 32.00",
       "Knitted Bundle": "HK$ 98.00",
-      "Sagescale Token": "HK$ 88.00"
+      "Sagescale Token": "HK$ 88.00",
+      "Pumpkin Spice T-rex Token Sale": "HK$ 22.00"
     },
     "minPriceInfo": {
       "price": 38,
@@ -170624,9 +170633,29 @@
       "The Unicorn": "HK$ 28.00",
       "Basketball Dice Sale": "HK$ 32.00",
       "Knitted Bundle": "HK$ 98.00",
-      "Sagescale Token": "HK$ 88.00"
+      "Sagescale Token": "HK$ 88.00",
+      "Pumpkin Spice T-rex Token Sale": "HK$ 22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789556078824,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "HK$ 188.00",
+            "Welcome Offer": "HK$ 148.00",
+            "King Hydra Token": "HK$ 88.00",
+            "Pumpkin Spice T-rex Token Sale": "HK$ 22.00",
+            "City Break": "HK$ 22.00",
+            "The Ultimate Edition Sale": "HK$ 188.00",
+            "Sagescale Token": "HK$ 88.00",
+            "Diamondhoof Token": "HK$ 88.00",
+            "Emberwing Token": "HK$ 88.00",
+            "Astronaut Token Sale": "HK$ 22.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789470674397,
@@ -181898,7 +181927,7 @@
     ]
   },
   "1518841947": {
-    "name": "ATSU",
+    "name": "ATSU: Flight Planner & Weather",
     "maxPriceInfo": {
       "price": 32,
       "formattedPrice": "HK$ 32.00"
@@ -240234,6 +240263,25 @@
     "history": [
       [
         {
+          "timestamp": 1789556078824,
+          "price": 15,
+          "formattedPrice": "HK$ 15.00",
+          "inAppPurchases": {
+            "水畔": "HK$ 9.00",
+            "2025春ネモフィラスキン": "HK$ 2.00",
+            "2025春さくらスキン": "HK$ 2.00",
+            "星降之夜": "HK$ 9.00",
+            "新年日出": "HK$ 9.00",
+            "花火大會": "HK$ 9.00",
+            "2025春いちごスキン": "HK$ 2.00",
+            "夏日庭院": "HK$ 6.00",
+            "夏色クリームソーダ": "HK$ 6.00",
+            "萬聖派對": "HK$ 9.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1783748451446,
           "price": 15,
           "formattedPrice": "HK$ 15.00",
@@ -267629,6 +267677,14 @@
     "history": [
       [
         {
+          "timestamp": 1789556078824,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1786529003459,
           "price": 228,
           "formattedPrice": "HK$ 228.00",
@@ -277762,6 +277818,14 @@
     "history": [
       [
         {
+          "timestamp": 1789556078824,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787361040120,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -285421,14 +285485,22 @@
   "6760114671": {
     "name": "Internet Speed Limiter",
     "maxPriceInfo": {
-      "price": 88,
-      "formattedPrice": "HK$ 88.00"
+      "price": 148,
+      "formattedPrice": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789556078824,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782557860544,
@@ -288703,7 +288775,7 @@
     ]
   },
   "6474194438": {
-    "name": "Don't Starve Together",
+    "name": "饑荒聯機版",
     "maxPriceInfo": {
       "price": 88,
       "formattedPrice": "HK$ 88.00",
