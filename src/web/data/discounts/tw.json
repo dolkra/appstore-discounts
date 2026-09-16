@@ -1,5 +1,160 @@
 [
   {
+    "trackId": 982457990,
+    "region": "tw",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.00",
+        "to": "免費",
+        "range": "[免費 ~ $10.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id982457990",
+    "trackName": "求生無限-無限流大冒險",
+    "firstRecordedAt": 1762313071665
+  },
+  {
+    "trackId": 998834675,
+    "region": "tw",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$33.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id998834675",
+    "trackName": "Clouds & Sheep 2 Premium",
+    "firstRecordedAt": 1745442137026
+  },
+  {
+    "trackId": 1001096601,
+    "region": "tw",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$130.00",
+        "to": "$33.00",
+        "range": "[$30.00 ~ $130.00]"
+      }
+    ],
+    "price": 33,
+    "formattedPrice": "$33.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1424977227,
+    "region": "tw",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$330.00",
+        "to": "$90.00",
+        "range": "[$30.00 ~ $330.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1424977227",
+    "trackName": "Titan Quest HD",
+    "firstRecordedAt": 1755861015760
+  },
+  {
+    "trackId": 1537362903,
+    "region": "tw",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$170.00",
+        "to": "$55.00",
+        "range": "[$30.00 ~ $170.00]"
+      }
+    ],
+    "price": 55,
+    "formattedPrice": "$55.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1537362903",
+    "trackName": "Neighbours back From Hell",
+    "firstRecordedAt": 1745539765557
+  },
+  {
+    "trackId": 6740487579,
+    "region": "tw",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$390.00",
+        "to": "免費",
+        "range": "[免費 ~ $390.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Rise Eternal",
+        "from": "$190.00",
+        "to": "$60.00",
+        "range": "[$60.00 ~ $190.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Yulan",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Roots",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Vanir",
+        "from": "$320.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $320.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Songs of Conquest 基礎遊戲",
+        "from": "$390.00",
+        "to": "$320.00",
+        "range": "[$320.00 ~ $390.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6740487579",
+    "trackName": "Songs of Conquest Mobile",
+    "firstRecordedAt": 1745398953972
+  },
+  {
     "trackId": 933113994,
     "region": "tw",
     "timestamp": 1789556078824,
@@ -34198,14 +34353,14 @@
         "name": "Dumb Phone Plus Yearly",
         "from": "$390.00",
         "to": "$145.00",
-        "range": "[$145.00 ~ $990.00]"
+        "range": "[$145.00 ~ $1,990.00]"
       },
       {
         "type": "inAppPurchase",
         "name": "Dumb Phone Plus Monthly",
         "from": "$150.00",
         "to": "$60.00",
-        "range": "[$60.00 ~ $150.00]"
+        "range": "[$60.00 ~ $290.00]"
       }
     ],
     "price": 0,

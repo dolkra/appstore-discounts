@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 563082328,
+    "region": "pt",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "6,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 6,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id563082328",
+    "trackName": "Military Retirement",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6755290585,
+    "region": "pt",
+    "timestamp": 1789575216572,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Raider Mk. 1",
+        "from": "3,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6755290585",
+    "trackName": "Raiders Map",
+    "firstRecordedAt": 1763517683797
+  },
+  {
     "trackId": 933113994,
     "region": "pt",
     "timestamp": 1789556078824,
