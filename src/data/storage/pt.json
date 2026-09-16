@@ -12183,10 +12183,18 @@
       "formattedPrice": "19,99 €"
     },
     "minPriceInfo": {
-      "price": 14.99,
-      "formattedPrice": "14,99 €"
+      "price": 9.99,
+      "formattedPrice": "9,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789592098699,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788044387896,
@@ -14791,6 +14799,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789592098699,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
         {
           "timestamp": 1789529534995,
           "price": 6.99,
@@ -48143,16 +48168,31 @@
       "formattedPrice": "9,99 €",
       "All Access Yearly": "34,99 €",
       "All Access Weekly": "5,99 €",
-      "Early Access Weekly": "1,99 €"
+      "Early Access Weekly": "1,99 €",
+      "Early Weeks Annual Offer": "17,99 €"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Gratuito",
       "All Access Yearly": "17,99 €",
       "All Access Weekly": "5,99 €",
-      "Early Access Weekly": "1,99 €"
+      "Early Access Weekly": "1,99 €",
+      "Early Weeks Annual Offer": "17,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789592098699,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Early Access Weekly": "1,99 €",
+            "All Access Weekly": "5,99 €",
+            "All Access Yearly": "17,99 €",
+            "Early Weeks Annual Offer": "17,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789123271061,
@@ -124103,6 +124143,17 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789592098699,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Raider Mk. 1": "3,99 €",
+            "Raider Mk. 2": "4,99 €",
+            "Raider Mk. 3": "7,99 €",
+            "Raider Weekly": "1,99 €"
+          }
+        },
         {
           "timestamp": 1789575216572,
           "price": 0,

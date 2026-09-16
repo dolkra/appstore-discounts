@@ -49793,10 +49793,18 @@
       "formattedPrice": "$190.00"
     },
     "minPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789592098699,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745560983791,
@@ -83612,6 +83620,20 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789592098699,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "積分包 Ⅱ": "$150.00",
+            "積分包 I": "$30.00",
+            "積分包 Ⅲ": "$320.00",
+            "積分包 Ⅳ": "$690.00",
+            "雙倍積分包": "$60.00",
+            "積分包 Ⅴ": "$1,290.00",
+            "積分包 Ⅵ": "$2,990.00"
+          }
+        },
         {
           "timestamp": 1789575216572,
           "price": 0,
