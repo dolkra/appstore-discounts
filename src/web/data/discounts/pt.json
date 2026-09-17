@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6469419567,
+    "region": "pt",
+    "timestamp": 1789661990052,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Pack",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "8,99 €",
+        "to": "6,99 €",
+        "range": "[5,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1500126852,
     "region": "pt",
     "timestamp": 1789642962261,

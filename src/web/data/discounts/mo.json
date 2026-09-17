@@ -1,5 +1,146 @@
 [
   {
+    "trackId": 510249014,
+    "region": "mo",
+    "timestamp": 1789661990052,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id510249014",
+    "trackName": "水準管 HD",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1637438059,
+    "region": "mo",
+    "timestamp": 1789661990052,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "USD 59.99",
+        "to": "USD 39.99",
+        "range": "[USD 35.99 ~ USD 59.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "USD 7.99",
+        "to": "USD 4.99",
+        "range": "[USD 3.99 ~ USD 7.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "USD 4.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1756465798841
+  },
+  {
+    "trackId": 1642733080,
+    "region": "mo",
+    "timestamp": 1789661990052,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 4.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6469419567,
+    "region": "mo",
+    "timestamp": 1789661990052,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "USD 7.99",
+        "to": "USD 5.99",
+        "range": "[USD 4.99 ~ USD 7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Pack",
+        "from": "USD 4.99",
+        "to": "USD 3.99",
+        "range": "[USD 2.99 ~ USD 4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6451376191,
+    "region": "mo",
+    "timestamp": 1789661990052,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "USD 59.99",
+        "to": "USD 39.99",
+        "range": "[USD 7.59 ~ USD 59.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "USD 7.99",
+        "to": "USD 4.99",
+        "range": "[USD 3.19 ~ USD 7.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6773620703,
+    "region": "mo",
+    "timestamp": 1789661990052,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 2.99",
+        "to": "USD 1.99",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "USD 1.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6773620703",
+    "trackName": "安尼姆的无尽旅途",
+    "firstRecordedAt": 1786078453943
+  },
+  {
     "trackId": 1500126852,
     "region": "mo",
     "timestamp": 1789642962261,
