@@ -1,5 +1,140 @@
 [
   {
+    "trackId": 998834675,
+    "region": "us",
+    "timestamp": 1789616262482,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id998834675",
+    "trackName": "Clouds & Sheep 2 Premium",
+    "firstRecordedAt": 1745442137026
+  },
+  {
+    "trackId": 1001096601,
+    "region": "us",
+    "timestamp": 1789616262482,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1001096601",
+    "trackName": "1941 Frozen Front Premium",
+    "firstRecordedAt": 1745593334191
+  },
+  {
+    "trackId": 1424977227,
+    "region": "us",
+    "timestamp": 1789616262482,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$10.99",
+        "to": "$2.99",
+        "range": "[$0.99 ~ $10.99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "$2.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1424977227",
+    "trackName": "Titan Quest HD",
+    "firstRecordedAt": 1755861015760
+  },
+  {
+    "trackId": 1537362903,
+    "region": "us",
+    "timestamp": 1789616262482,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$5.99",
+        "to": "$1.99",
+        "range": "[$0.99 ~ $5.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1537362903",
+    "trackName": "Neighbours back From Hell",
+    "firstRecordedAt": 1745539765557
+  },
+  {
+    "trackId": 6740487579,
+    "region": "us",
+    "timestamp": 1789616262482,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$11.99",
+        "to": "Free",
+        "range": "[Free ~ $11.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Rise Eternal",
+        "from": "$5.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $5.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Yulan",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Roots",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Vanir",
+        "from": "$9.99",
+        "to": "$3.99",
+        "range": "[$3.99 ~ $9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Songs of Conquest Base Game",
+        "from": "$12.99",
+        "to": "$9.99",
+        "range": "[$9.99 ~ $12.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6740487579",
+    "trackName": "Songs of Conquest Mobile",
+    "firstRecordedAt": 1745398953972
+  },
+  {
     "trackId": 441142802,
     "region": "us",
     "timestamp": 1789592098699,

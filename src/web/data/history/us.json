@@ -4670,6 +4670,23 @@
     "history": [
       [
         {
+          "timestamp": 1789616262482,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Tuning Tools": "$9.99",
+            "Bluegrass Sweeteners": "$5.99",
+            "Harmonic Tuning": "$19.99",
+            "Extended Frequency Modes": "$4.99",
+            "Full Discounted Upgrade Pack": "$59.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Buzz Feiten Pack": "$5.99"
+          }
+        },
+        {
           "timestamp": 1789601594897,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -97739,6 +97756,20 @@
     "history": [
       [
         {
+          "timestamp": 1789616262482,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "120 Gems": "$7.99",
+            "50 Gems": "$3.99",
+            "250 Gems": "$15.99",
+            "650 Gems": "$40.99",
+            "1400 Gems": "$79.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787111112140,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -98163,6 +98194,20 @@
       "325,000 Gold": "$45.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789616262482,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "60,000 Gold": "$10.99",
+            "25,000 Gold": "$5.99",
+            "125,000 Gold": "$21.99",
+            "700,000 Gold": "$89.99",
+            "325,000 Gold": "$54.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786509981459,
@@ -163685,6 +163730,19 @@
     "history": [
       [
         {
+          "timestamp": 1789616262482,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "$5.99",
+            "Ragnarök DLC": "$5.99",
+            "Atlantis DLC": "$5.99",
+            "Eternal Embers DLC": "$5.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786615484339,
           "price": 10.99,
           "formattedPrice": "$10.99",
@@ -208739,6 +208797,14 @@
     "history": [
       [
         {
+          "timestamp": 1789616262482,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787218428552,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -250948,8 +251014,8 @@
     "maxPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99",
-      "Monthly": "$3.99",
-      "Yearly": "$35.99"
+      "Monthly": "$7.99",
+      "Yearly": "$59.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -250958,6 +251024,17 @@
       "Yearly": "$35.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789616262482,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Monthly": "$7.99",
+            "Yearly": "$59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784025938034,
@@ -306817,15 +306894,29 @@
       "Songs of Conquest Base Game": "$12.99"
     },
     "minPriceInfo": {
-      "price": 11.99,
-      "formattedPrice": "$11.99",
-      "Rise Eternal": "$5.99",
-      "Yulan": "$9.99",
-      "Roots": "$9.99",
-      "Vanir": "$9.99",
-      "Songs of Conquest Base Game": "$12.99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Rise Eternal": "$1.99",
+      "Yulan": "$3.99",
+      "Roots": "$3.99",
+      "Vanir": "$3.99",
+      "Songs of Conquest Base Game": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789616262482,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Rise Eternal": "$1.99",
+            "Yulan": "$3.99",
+            "Roots": "$3.99",
+            "Vanir": "$3.99",
+            "Songs of Conquest Base Game": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789408041891,
@@ -315936,9 +316027,9 @@
     "maxPriceInfo": {
       "price": 7.99,
       "formattedPrice": "$7.99",
-      "Dumb Phone Plus Yearly": "$29.99",
+      "Dumb Phone Plus Yearly": "$59.99",
       "Dumb Phone Plus Lifetime": "$79.99",
-      "Dumb Phone Plus Monthly": "$4.99",
+      "Dumb Phone Plus Monthly": "$7.99",
       "Dumb Phone Plus Weekly": "$1.99"
     },
     "minPriceInfo": {
@@ -315950,6 +316041,19 @@
       "Dumb Phone Plus Weekly": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789616262482,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "$59.99",
+            "Dumb Phone Plus Weekly": "$1.99",
+            "Dumb Phone Plus Monthly": "$7.99",
+            "Dumb Phone Plus Lifetime": "$79.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767379120499,
@@ -318667,6 +318771,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789616262482,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Beach Day Card back": "$0.99",
+            "Slice of Heaven Outfit": "$1.99"
+          }
+        },
         {
           "timestamp": 1789601594897,
           "price": 4.99,
@@ -343855,6 +343976,14 @@
       "formattedPrice": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789616262482,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789010266489,
