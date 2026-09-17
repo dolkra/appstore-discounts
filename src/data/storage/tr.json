@@ -88106,6 +88106,20 @@
     "history": [
       [
         {
+          "timestamp": 1789601594897,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "50 Gems": "₺199,99",
+            "1400 Gems": "₺3.999,99",
+            "650 Gems": "₺2.299,99",
+            "250 Gems": "₺899,99",
+            "120 Gems": "₺399,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787101864398,
           "price": 49.99,
           "formattedPrice": "₺49,99",
@@ -88552,6 +88566,20 @@
       "60,000 Gold": "₺169,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "25,000 Gold": "₺89,99",
+            "700,000 Gold": "₺4.999,99",
+            "325,000 Gold": "₺769,99",
+            "125,000 Gold": "₺349,99",
+            "60,000 Gold": "₺169,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786499534255,
@@ -101681,16 +101709,31 @@
       "formattedPrice": "₺499,99",
       "All Access Yearly": "₺1.499,99",
       "Early Access Weekly": "₺99,99",
-      "All Access Weekly": "₺249,99"
+      "All Access Weekly": "₺249,99",
+      "Early Weeks Annual Offer": "₺799,99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "All Access Yearly": "₺1.499,99",
       "Early Access Weekly": "₺99,99",
-      "All Access Weekly": "₺249,99"
+      "All Access Weekly": "₺249,99",
+      "Early Weeks Annual Offer": "₺799,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Early Access Weekly": "₺99,99",
+            "Early Weeks Annual Offer": "₺799,99",
+            "All Access Yearly": "₺1.499,99",
+            "All Access Weekly": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786571006662,
@@ -142172,6 +142215,19 @@
       "Eternal Embers DLC": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Immortal Throne DLC": "₺89,99",
+            "Ragnarök DLC": "₺89,99",
+            "Atlantis DLC": "₺89,99",
+            "Eternal Embers DLC": "₺89,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786615484339,
@@ -184463,6 +184519,14 @@
     "history": [
       [
         {
+          "timestamp": 1789601594897,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787218428552,
           "price": 89.99,
           "formattedPrice": "₺89,99",
@@ -215522,8 +215586,8 @@
     "maxPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99",
-      "Yearly": "₺1.499,99",
-      "Monthly": "₺179,99"
+      "Yearly": "₺2.999,99",
+      "Monthly": "₺399,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -215532,6 +215596,17 @@
       "Monthly": "₺179,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Monthly": "₺399,99",
+            "Yearly": "₺2.999,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784016228442,
@@ -254603,15 +254678,29 @@
       "Songs of Conquest Base Game": "₺699,99"
     },
     "minPriceInfo": {
-      "price": 499.99,
-      "formattedPrice": "₺499,99",
-      "Rise Eternal": "₺299,99",
-      "Yulan": "₺499,99",
-      "Roots": "₺499,99",
-      "Vanir": "₺499,99",
-      "Songs of Conquest Base Game": "₺699,99"
+      "price": 0,
+      "formattedPrice": "Free",
+      "Rise Eternal": "₺99,99",
+      "Yulan": "₺199,99",
+      "Roots": "₺199,99",
+      "Vanir": "₺199,99",
+      "Songs of Conquest Base Game": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Rise Eternal": "₺99,99",
+            "Yulan": "₺199,99",
+            "Roots": "₺199,99",
+            "Vanir": "₺199,99",
+            "Songs of Conquest Base Game": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789408041891,
@@ -258282,9 +258371,9 @@
     "maxPriceInfo": {
       "price": 349.99,
       "formattedPrice": "₺349,99",
-      "Dumb Phone Plus Yearly": "₺1.499,99",
+      "Dumb Phone Plus Yearly": "₺2.999,99",
       "Dumb Phone Plus Lifetime": "₺3.999,99",
-      "Dumb Phone Plus Monthly": "₺229,99",
+      "Dumb Phone Plus Monthly": "₺399,99",
       "Dumb Phone Plus Weekly": "₺99,99"
     },
     "minPriceInfo": {
@@ -258296,6 +258385,19 @@
       "Dumb Phone Plus Weekly": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Dumb Phone Plus Weekly": "₺99,99",
+            "Dumb Phone Plus Yearly": "₺2.999,99",
+            "Dumb Phone Plus Lifetime": "₺3.999,99",
+            "Dumb Phone Plus Monthly": "₺399,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1767379120499,
@@ -279722,6 +279824,14 @@
       "formattedPrice": "₺90,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 129.9,
+          "formattedPrice": "₺129,90",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788994645089,

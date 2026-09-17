@@ -17011,10 +17011,18 @@
       "formattedPrice": "USD 16.99"
     },
     "minPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "USD 12.99"
+      "price": 9.99,
+      "formattedPrice": "USD 9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788027077652,
@@ -80093,16 +80101,31 @@
       "formattedPrice": "USD 7.99",
       "All Access Yearly": "USD 29.99",
       "Early Access Weekly": "USD 1.99",
-      "All Access Weekly": "USD 4.99"
+      "All Access Weekly": "USD 4.99",
+      "Early Weeks Annual Offer": "USD 14.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "All Access Yearly": "USD 29.99",
       "Early Access Weekly": "USD 1.99",
-      "All Access Weekly": "USD 4.99"
+      "All Access Weekly": "USD 4.99",
+      "Early Weeks Annual Offer": "USD 14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Early Weeks Annual Offer": "USD 14.99",
+            "All Access Yearly": "USD 29.99",
+            "Early Access Weekly": "USD 1.99",
+            "All Access Weekly": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786586105806,

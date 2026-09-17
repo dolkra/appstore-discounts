@@ -23906,10 +23906,18 @@
       "formattedPrice": "HK$ 128.00"
     },
     "minPriceInfo": {
-      "price": 98,
-      "formattedPrice": "HK$ 98.00"
+      "price": 88,
+      "formattedPrice": "HK$ 88.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1788027077652,
@@ -102386,16 +102394,31 @@
       "formattedPrice": "HK$ 58.00",
       "All Access Yearly": "HK$ 228.00",
       "Early Access Weekly": "HK$ 18.00",
-      "All Access Weekly": "HK$ 38.00"
+      "All Access Weekly": "HK$ 38.00",
+      "Early Weeks Annual Offer": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "免費",
       "All Access Yearly": "HK$ 228.00",
       "Early Access Weekly": "HK$ 18.00",
-      "All Access Weekly": "HK$ 38.00"
+      "All Access Weekly": "HK$ 38.00",
+      "Early Weeks Annual Offer": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Early Weeks Annual Offer": "HK$ 118.00",
+            "All Access Yearly": "HK$ 228.00",
+            "Early Access Weekly": "HK$ 18.00",
+            "All Access Weekly": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786586105806,
@@ -237270,6 +237293,22 @@
       "49.99美元商品": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "3.99美元商品": "HK$ 32.00",
+            "12.99美元商品": "HK$ 98.00",
+            "39.99美元商品": "HK$ 288.00",
+            "0.99美元商品": "HK$ 8.00",
+            "9.99美元商品": "HK$ 88.00",
+            "19.99美元商品": "HK$ 148.00",
+            "89.99美元商品": "HK$ 688.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788781262725,

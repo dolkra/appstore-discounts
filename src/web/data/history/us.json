@@ -4670,6 +4670,25 @@
     "history": [
       [
         {
+          "timestamp": 1789601594897,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {
+            "World Sweetener Pack": "$9.99",
+            "Steel Guitar Sweeteners": "$14.99",
+            "Orchestral Sweeteners": "$5.99",
+            "Misc Stringed Sweeteners": "$3.99",
+            "Keyboard Sweeteners": "$19.99",
+            "Harp Sweeteners": "$5.99",
+            "Harmonica Sweeteners": "$9.99",
+            "Guitar & Bass Sweeteners": "$5.99",
+            "Buzz Feiten Pack": "$5.99",
+            "Extended Frequency Modes": "$4.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787370034929,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -114309,16 +114328,31 @@
       "formattedPrice": "$9.99",
       "All Access Yearly": "$29.99",
       "Early Access Weekly": "$1.99",
-      "All Access Weekly": "$4.99"
+      "All Access Weekly": "$4.99",
+      "Early Weeks Annual Offer": "$14.99"
     },
     "minPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
       "All Access Yearly": "$14.99",
       "Early Access Weekly": "$1.99",
-      "All Access Weekly": "$4.99"
+      "All Access Weekly": "$4.99",
+      "Early Weeks Annual Offer": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Early Access Weekly": "$1.99",
+            "All Access Weekly": "$4.99",
+            "All Access Yearly": "$14.99",
+            "Early Weeks Annual Offer": "$14.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1786775777169,
@@ -318632,6 +318666,25 @@
       "Yucky Buddy Outfit": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789601594897,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Santa Claws Card Back": "$0.99",
+            "Santa Claws Pack": "$4.99",
+            "Under the Tree location": "$1.99",
+            "Santa Claws Emoji Pack": "$0.99",
+            "All Wrapped Up outfit": "$1.99",
+            "Snow Globe Outfit": "$1.99",
+            "Mystic Mayhem Location": "$0.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Emoji Pack": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789386910265,
