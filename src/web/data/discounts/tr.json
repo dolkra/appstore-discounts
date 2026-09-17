@@ -1,5 +1,108 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "tr",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺149,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
+    "trackId": 1592505377,
+    "region": "tr",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Content Bundle 1",
+        "from": "₺499,99",
+        "to": "₺169,99",
+        "range": "[₺169,99 ~ ₺499,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Getaway Car Pack",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Content Bundle 2",
+        "from": "₺399,99",
+        "to": "₺139,99",
+        "range": "[₺139,99 ~ ₺399,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Racing Heroes Car Pack",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Modified Monsters Car Pack",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Steel & Wheels Pack",
+        "from": "₺99,99",
+        "to": "₺29,99",
+        "range": "[₺29,99 ~ ₺99,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Off-Road Car Pack",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Rusty Rats Car Pack",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Goofy Roofs Pack",
+        "from": "₺49,99",
+        "to": "₺19,99",
+        "range": "[₺19,99 ~ ₺49,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Reckless Car Pack",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺49,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 169.99,
+    "formattedPrice": "₺169,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 998834675,
     "region": "tr",
     "timestamp": 1789601594897,
@@ -1795,7 +1898,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺17,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 17.99,
@@ -5562,7 +5665,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺5,00",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 5,
@@ -8353,7 +8456,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺17,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 17.99,
@@ -12684,7 +12787,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺17,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 17.99,
@@ -16298,7 +16401,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺17,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 17.99,
@@ -20992,7 +21095,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺22,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 22.99,
@@ -24083,7 +24186,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺5,00",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 5,
@@ -29278,7 +29381,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺11,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 11.99,
@@ -34269,7 +34372,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺22,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 22.99,
@@ -36882,7 +36985,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺22,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 22.99,
@@ -40431,7 +40534,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺11,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 11.99,
@@ -44142,7 +44245,7 @@
         "name": "Price",
         "from": "₺69,99",
         "to": "₺29,99",
-        "range": "[₺5,00 ~ ₺69,99]"
+        "range": "[₺5,00 ~ ₺169,99]"
       }
     ],
     "price": 29.99,

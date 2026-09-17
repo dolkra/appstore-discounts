@@ -1,5 +1,108 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "mo",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
+    "trackId": 1592505377,
+    "region": "mo",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Content Bundle 1",
+        "from": "USD 9.99",
+        "to": "USD 8.99",
+        "range": "[USD 8.99 ~ USD 9.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Content Bundle 2",
+        "from": "USD 7.99",
+        "to": "USD 7.49",
+        "range": "[USD 7.49 ~ USD 7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Reckless Car Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Off-Road Car Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Racing Heroes Car Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Steel & Wheels Pack",
+        "from": "USD 1.99",
+        "to": "USD 1.59",
+        "range": "[USD 1.59 ~ USD 1.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Goofy Roofs Pack",
+        "from": "USD 0.99",
+        "to": "USD 0.79",
+        "range": "[USD 0.79 ~ USD 0.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Getaway Car Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "American All-Stars Car Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 2.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Rusty Rats Car Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 2.49 ~ USD 2.99]"
+      }
+    ],
+    "price": 8.99,
+    "formattedPrice": "USD 8.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 441142802,
     "region": "mo",
     "timestamp": 1789601594897,
@@ -1562,7 +1665,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 2.49,
@@ -5469,7 +5572,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 0.39",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 0.39,
@@ -8198,7 +8301,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 2.49,
@@ -12358,7 +12461,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 2.49,
@@ -15701,7 +15804,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 2.49",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 2.49,
@@ -20179,7 +20282,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.19",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.19,
@@ -23202,7 +23305,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 0.90",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 0.9,
@@ -27471,7 +27574,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -32073,7 +32176,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.19",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.19,
@@ -34434,7 +34537,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.19",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.19,
@@ -37534,7 +37637,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 1.39",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 1.39,
@@ -40614,7 +40717,7 @@
         "name": "Price",
         "from": "USD 7.79",
         "to": "USD 3.99",
-        "range": "[USD 0.39 ~ USD 7.79]"
+        "range": "[USD 0.39 ~ USD 8.99]"
       }
     ],
     "price": 3.99,

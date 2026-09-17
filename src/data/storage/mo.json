@@ -488,6 +488,22 @@
     "history": [
       [
         {
+          "timestamp": 1789642962261,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Tyrannosaurus Rex Skin Pack": "USD 0.99",
+            "Dance Pack Too": "USD 0.99",
+            "Medieval Pack": "USD 0.99",
+            "Alien Pack": "USD 0.99",
+            "Holiday Skin Pack": "USD 0.99",
+            "Shark Pack": "USD 0.99",
+            "The Pimp Pack": "USD 0.99",
+            "Japanese Skin Pack": "USD 0.99",
+            "Mafia Pack": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1789616262482,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -1679,6 +1695,27 @@
           "timestamp": 1750357019461,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "304464483": {
+    "name": "Baltic Deco Planner",
+    "maxPriceInfo": {
+      "price": 18.99,
+      "formattedPrice": "USD 18.99"
+    },
+    "minPriceInfo": {
+      "price": 18.99,
+      "formattedPrice": "USD 18.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642962261,
+          "price": 18.99,
+          "formattedPrice": "USD 18.99",
           "inAppPurchases": {}
         }
       ]
@@ -38854,6 +38891,27 @@
           "timestamp": 1745665323137,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "557405467": {
+    "name": "Network Analyzer Pro: IP Tools",
+    "maxPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "minPriceInfo": {
+      "price": 3.99,
+      "formattedPrice": "USD 3.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789642962261,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
           "inAppPurchases": {}
         }
       ]
@@ -132004,6 +132062,14 @@
     "history": [
       [
         {
+          "timestamp": 1789642962261,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1779875386311,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -148305,8 +148371,8 @@
   "1592505377": {
     "name": "Wreckfest",
     "maxPriceInfo": {
-      "price": 7.79,
-      "formattedPrice": "USD 7.79",
+      "price": 8.99,
+      "formattedPrice": "USD 8.99",
       "Content Bundle 1": "USD 9.99",
       "Content Bundle 2": "USD 7.99",
       "Reckless Car Pack": "USD 2.99",
@@ -148325,22 +148391,41 @@
     "minPriceInfo": {
       "price": 0.39,
       "formattedPrice": "USD 0.39",
-      "Content Bundle 1": "USD 9.99",
-      "Content Bundle 2": "USD 7.99",
-      "Reckless Car Pack": "USD 2.99",
-      "Off-Road Car Pack": "USD 2.99",
-      "Racing Heroes Car Pack": "USD 2.99",
-      "Steel & Wheels Pack": "USD 1.99",
-      "Goofy Roofs Pack": "USD 0.99",
-      "Getaway Car Pack": "USD 2.99",
-      "American All-Stars Car Pack": "USD 2.99",
-      "Rusty Rats Car Pack": "USD 2.99",
+      "Content Bundle 1": "USD 8.99",
+      "Content Bundle 2": "USD 7.49",
+      "Reckless Car Pack": "USD 2.49",
+      "Off-Road Car Pack": "USD 2.49",
+      "Racing Heroes Car Pack": "USD 2.49",
+      "Steel & Wheels Pack": "USD 1.59",
+      "Goofy Roofs Pack": "USD 0.79",
+      "Getaway Car Pack": "USD 2.49",
+      "American All-Stars Car Pack": "USD 2.49",
+      "Rusty Rats Car Pack": "USD 2.49",
       "Modified Monsters Car Pack": "USD 2.99",
       "Banger Racing Car Pack": "USD 2.99",
       "Backwoods Bangers Car Pack": "USD 2.99",
       "Retro Rammers Car Pack": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789642962261,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Content Bundle 1": "USD 8.99",
+            "Content Bundle 2": "USD 7.49",
+            "Reckless Car Pack": "USD 2.49",
+            "Off-Road Car Pack": "USD 2.49",
+            "Racing Heroes Car Pack": "USD 2.49",
+            "Steel & Wheels Pack": "USD 1.59",
+            "Goofy Roofs Pack": "USD 0.79",
+            "Getaway Car Pack": "USD 2.49",
+            "American All-Stars Car Pack": "USD 2.49",
+            "Rusty Rats Car Pack": "USD 2.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789489297466,
@@ -173163,13 +173248,25 @@
     "name": "Folium",
     "maxPriceInfo": {
       "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "formattedPrice": "USD 4.99",
+      "Extra Features": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 2.99,
-      "formattedPrice": "USD 2.99"
+      "formattedPrice": "USD 2.99",
+      "Extra Features": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789642962261,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Extra Features": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761948690487,

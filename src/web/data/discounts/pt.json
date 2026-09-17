@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "pt",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
+    "trackId": 1592505377,
+    "region": "pt",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Content Bundle 2",
+        "from": "8,99 €",
+        "to": "7,99 €",
+        "range": "[7,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 9.99,
+    "formattedPrice": "9,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 998834675,
     "region": "pt",
     "timestamp": 1789601594897,

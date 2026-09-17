@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 1500126852,
+    "region": "hk",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1500126852",
+    "trackName": "Chord",
+    "firstRecordedAt": 1763541298729
+  },
+  {
+    "trackId": 1592505377,
+    "region": "hk",
+    "timestamp": 1789642962261,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Content Bundle 1",
+        "from": "HK$ 88.00",
+        "to": "HK$ 78.00",
+        "range": "[HK$ 78.00 ~ HK$ 88.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Steel & Wheels Pack",
+        "from": "HK$ 18.00",
+        "to": "HK$ 15.00",
+        "range": "[HK$ 15.00 ~ HK$ 18.00]"
+      }
+    ],
+    "price": 78,
+    "formattedPrice": "HK$ 78.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1592505377",
+    "trackName": "Wreckfest",
+    "firstRecordedAt": 1745328692670
+  },
+  {
     "trackId": 441142802,
     "region": "hk",
     "timestamp": 1789601594897,
@@ -1656,7 +1703,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 22,
@@ -5434,7 +5481,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 3.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 3,
@@ -8194,7 +8241,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 22,
@@ -12364,7 +12411,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 22,
@@ -15838,7 +15885,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 22.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 22,
@@ -20230,7 +20277,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 28.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 28,
@@ -23250,7 +23297,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 8.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 8,
@@ -27503,7 +27550,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 12,
@@ -32349,7 +32396,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 28.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 28,
@@ -34823,7 +34870,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 28.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 28,
@@ -38313,7 +38360,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 12.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 12,
@@ -41876,7 +41923,7 @@
         "name": "Price",
         "from": "HK$ 68.00",
         "to": "HK$ 36.00",
-        "range": "[HK$ 3.00 ~ HK$ 68.00]"
+        "range": "[HK$ 3.00 ~ HK$ 78.00]"
       }
     ],
     "price": 36,
