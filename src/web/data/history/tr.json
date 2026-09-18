@@ -287321,8 +287321,8 @@
     "trackName": "One Owner",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 2.99,
-      "formattedPrice": "₺2,99",
+      "price": 4.99,
+      "formattedPrice": "₺4,99",
       "Handful of Gold": "₺4,99",
       "Pouch of Gold": "₺19,99",
       "Chest of Gold": "₺49,99",
@@ -287339,6 +287339,20 @@
       "Case of Gold": "₺39,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789746868566,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Handful of Gold": "₺4,99",
+            "Pouch of Gold": "₺19,99",
+            "Moneychanger's Hoard": "₺74,99",
+            "Chest of Gold": "₺49,99",
+            "Case of Gold": "₺39,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,

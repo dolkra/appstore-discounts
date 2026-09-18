@@ -1,5 +1,99 @@
 [
   {
+    "trackId": 1538124245,
+    "region": "hk",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 8.00",
+        "to": "免費",
+        "range": "[免費 ~ HK$ 8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 1637438059,
+    "region": "hk",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "HK$ 488.00",
+        "to": "HK$ 288.00",
+        "range": "[HK$ 288.00 ~ HK$ 488.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "HK$ 58.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "HK$ 38.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1756465798841
+  },
+  {
+    "trackId": 6451376191,
+    "region": "hk",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "HK$ 488.00",
+        "to": "HK$ 288.00",
+        "range": "[HK$ 74.00 ~ HK$ 488.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "HK$ 58.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 31.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6477541914,
+    "region": "hk",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 58.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 58.00]"
+      }
+    ],
+    "price": 22,
+    "formattedPrice": "HK$ 22.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6477541914",
+    "trackName": "Parallel Experiment",
+    "firstRecordedAt": 1770951187599
+  },
+  {
     "trackId": 510249014,
     "region": "hk",
     "timestamp": 1789661990052,
@@ -18,33 +112,6 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id510249014",
     "trackName": "水準管 HD",
     "firstRecordedAt": 1721960142187
-  },
-  {
-    "trackId": 1637438059,
-    "region": "hk",
-    "timestamp": 1789661990052,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Yearly",
-        "from": "HK$ 488.00",
-        "to": "HK$ 288.00",
-        "range": "[HK$ 288.00 ~ HK$ 488.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Monthly",
-        "from": "HK$ 58.00",
-        "to": "HK$ 38.00",
-        "range": "[HK$ 32.00 ~ HK$ 58.00]"
-      }
-    ],
-    "price": 38,
-    "formattedPrice": "HK$ 38.00",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id1637438059",
-    "trackName": "UnTrap for YouTube",
-    "firstRecordedAt": 1756465798841
   },
   {
     "trackId": 1642733080,
@@ -92,33 +159,6 @@
     "trackViewUrl": "https://apps.apple.com/hk/app/id6469419567",
     "trackName": "Overwinter Survival",
     "firstRecordedAt": 1745328692670
-  },
-  {
-    "trackId": 6451376191,
-    "region": "hk",
-    "timestamp": 1789661990052,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Yearly",
-        "from": "HK$ 488.00",
-        "to": "HK$ 288.00",
-        "range": "[HK$ 74.00 ~ HK$ 488.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Monthly",
-        "from": "HK$ 58.00",
-        "to": "HK$ 38.00",
-        "range": "[HK$ 31.00 ~ HK$ 58.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免費",
-    "currency": "HKD",
-    "trackViewUrl": "https://apps.apple.com/hk/app/id6451376191",
-    "trackName": "Dumb Phone",
-    "firstRecordedAt": 1746457348888
   },
   {
     "trackId": 6773620703,

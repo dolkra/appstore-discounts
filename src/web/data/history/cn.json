@@ -133865,6 +133865,14 @@
     "history": [
       [
         {
+          "timestamp": 1789746868566,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787153393547,
           "price": 8,
           "formattedPrice": "¥8.00",
@@ -157984,6 +157992,15 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789746868566,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "Yearly": "¥268.00",
+            "Monthly": "¥28.00"
+          }
+        },
         {
           "timestamp": 1789661990052,
           "price": 38,
@@ -195868,11 +195885,22 @@
       "formattedPrice": "免费",
       "Dumb Phone Plus Yearly": "¥68.00",
       "Dumb Phone Plus Lifetime": "¥198.00",
-      "Dumb Phone Plus Monthly": "¥28.80",
+      "Dumb Phone Plus Monthly": "¥28.00",
       "Dumb Phone Plus Weekly": "¥15.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1789746868566,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Dumb Phone Plus Yearly": "¥268.00",
+            "Dumb Phone Plus Monthly": "¥28.00",
+            "Dumb Phone Plus Weekly": "¥15.00",
+            "Dumb Phone Plus Lifetime": "¥598.00"
+          }
+        },
         {
           "timestamp": 1789661990052,
           "price": 0,

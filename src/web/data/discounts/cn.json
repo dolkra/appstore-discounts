@@ -1,5 +1,79 @@
 [
   {
+    "trackId": 1538124245,
+    "region": "cn",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥8.00",
+        "to": "免费",
+        "range": "[免费 ~ ¥8.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1538124245",
+    "trackName": "哪里哪里",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 1637438059,
+    "region": "cn",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "¥398.00",
+        "to": "¥268.00",
+        "range": "[¥268.00 ~ ¥398.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "¥58.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 38,
+    "formattedPrice": "¥38.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1756465798841
+  },
+  {
+    "trackId": 6451376191,
+    "region": "cn",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "¥398.00",
+        "to": "¥268.00",
+        "range": "[¥68.00 ~ ¥398.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "¥58.00",
+        "to": "¥28.00",
+        "range": "[¥28.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免费",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
     "trackId": 510249014,
     "region": "cn",
     "timestamp": 1789661990052,
@@ -18,60 +92,6 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id510249014",
     "trackName": "水平仪 HD",
     "firstRecordedAt": 1721960142187
-  },
-  {
-    "trackId": 1637438059,
-    "region": "cn",
-    "timestamp": 1789661990052,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Yearly",
-        "from": "¥398.00",
-        "to": "¥298.00",
-        "range": "[¥268.00 ~ ¥398.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Monthly",
-        "from": "¥58.00",
-        "to": "¥38.00",
-        "range": "[¥28.00 ~ ¥58.00]"
-      }
-    ],
-    "price": 38,
-    "formattedPrice": "¥38.00",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id1637438059",
-    "trackName": "UnTrap for YouTube",
-    "firstRecordedAt": 1756465798841
-  },
-  {
-    "trackId": 6451376191,
-    "region": "cn",
-    "timestamp": 1789661990052,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Yearly",
-        "from": "¥398.00",
-        "to": "¥298.00",
-        "range": "[¥68.00 ~ ¥398.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Monthly",
-        "from": "¥58.00",
-        "to": "¥38.00",
-        "range": "[¥28.80 ~ ¥58.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免费",
-    "currency": "CNY",
-    "trackViewUrl": "https://apps.apple.com/cn/app/id6451376191",
-    "trackName": "Dumb Phone",
-    "firstRecordedAt": 1746457348888
   },
   {
     "trackId": 6773620703,
@@ -18630,7 +18650,7 @@
         "name": "Dumb Phone Plus Monthly",
         "from": "¥38.00",
         "to": "¥28.80",
-        "range": "[¥28.80 ~ ¥58.00]"
+        "range": "[¥28.00 ~ ¥58.00]"
       }
     ],
     "price": 0,

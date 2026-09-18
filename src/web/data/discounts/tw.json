@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 1538124245,
+    "region": "tw",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $30.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1723994479838
+  },
+  {
+    "trackId": 1637438059,
+    "region": "tw",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "$1,990.00",
+        "to": "$1,190.00",
+        "range": "[$1,190.00 ~ $1,990.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "$290.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $290.00]"
+      }
+    ],
+    "price": 150,
+    "formattedPrice": "$150.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1756465798841
+  },
+  {
+    "trackId": 6451376191,
+    "region": "tw",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "$1,990.00",
+        "to": "$1,190.00",
+        "range": "[$145.00 ~ $1,990.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "$290.00",
+        "to": "$120.00",
+        "range": "[$60.00 ~ $290.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6448352407,
+    "region": "tw",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$60.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 60,
+    "formattedPrice": "$60.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6448352407",
+    "trackName": "Unboxing the Cryptic Killer",
+    "firstRecordedAt": 1766931982733
+  },
+  {
+    "trackId": 6477541914,
+    "region": "tw",
+    "timestamp": 1789746868566,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $220.00]"
+      }
+    ],
+    "price": 90,
+    "formattedPrice": "$90.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6477541914",
+    "trackName": "Parallel Experiment",
+    "firstRecordedAt": 1770951187599
+  },
+  {
     "trackId": 510249014,
     "region": "tw",
     "timestamp": 1789661990052,
@@ -18,33 +132,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id510249014",
     "trackName": "水準管 HD",
     "firstRecordedAt": 1721960142187
-  },
-  {
-    "trackId": 1637438059,
-    "region": "tw",
-    "timestamp": 1789661990052,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Yearly",
-        "from": "$1,990.00",
-        "to": "$1,290.00",
-        "range": "[$1,190.00 ~ $1,990.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Monthly",
-        "from": "$290.00",
-        "to": "$150.00",
-        "range": "[$120.00 ~ $290.00]"
-      }
-    ],
-    "price": 150,
-    "formattedPrice": "$150.00",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id1637438059",
-    "trackName": "UnTrap for YouTube",
-    "firstRecordedAt": 1756465798841
   },
   {
     "trackId": 1642733080,
@@ -92,33 +179,6 @@
     "trackViewUrl": "https://apps.apple.com/tw/app/id6469419567",
     "trackName": "Overwinter Survival",
     "firstRecordedAt": 1745328692670
-  },
-  {
-    "trackId": 6451376191,
-    "region": "tw",
-    "timestamp": 1789661990052,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Yearly",
-        "from": "$1,990.00",
-        "to": "$1,290.00",
-        "range": "[$145.00 ~ $1,990.00]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Dumb Phone Plus Monthly",
-        "from": "$290.00",
-        "to": "$150.00",
-        "range": "[$60.00 ~ $290.00]"
-      }
-    ],
-    "price": 0,
-    "formattedPrice": "免費",
-    "currency": "TWD",
-    "trackViewUrl": "https://apps.apple.com/tw/app/id6451376191",
-    "trackName": "Dumb Phone",
-    "firstRecordedAt": 1746457348888
   },
   {
     "trackId": 6773620703,
