@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 510249014,
+    "region": "tr",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺49,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id510249014",
+    "trackName": "Level HD.",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 1637438059,
+    "region": "tr",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "₺399,99",
+        "to": "₺249,99",
+        "range": "[₺179,99 ~ ₺399,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "₺2.999,99",
+        "to": "₺1.999,99",
+        "range": "[₺1.499,99 ~ ₺2.999,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1756465798841
+  },
+  {
+    "trackId": 1642733080,
+    "region": "tr",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6451376191,
+    "region": "tr",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "₺2.999,99",
+        "to": "₺1.999,99",
+        "range": "[₺65,99 ~ ₺2.999,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "₺399,99",
+        "to": "₺249,99",
+        "range": "[₺26,99 ~ ₺399,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6773620703,
+    "region": "tr",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺99,99",
+        "range": "[₺99,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6773620703",
+    "trackName": "安尼姆的无尽旅途",
+    "firstRecordedAt": 1786078453943
+  },
+  {
     "trackId": 6469419567,
     "region": "tr",
     "timestamp": 1789661990052,

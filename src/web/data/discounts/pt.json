@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 510249014,
+    "region": "pt",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id510249014",
+    "trackName": "Level HD.",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1637438059,
+    "region": "pt",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "69,99 €",
+        "to": "44,99 €",
+        "range": "[39,99 € ~ 69,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "8,99 €",
+        "to": "5,99 €",
+        "range": "[3,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1642733080,
+    "region": "pt",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 5,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6451376191,
+    "region": "pt",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "8,99 €",
+        "to": "5,99 €",
+        "range": "[3,49 € ~ 8,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "69,99 €",
+        "to": "44,99 €",
+        "range": "[8,29 € ~ 69,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6773620703,
+    "region": "pt",
+    "timestamp": 1789687785630,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6773620703",
+    "trackName": "安尼姆的无尽旅途",
+    "firstRecordedAt": 1786078453943
+  },
+  {
     "trackId": 6469419567,
     "region": "pt",
     "timestamp": 1789661990052,
