@@ -82473,6 +82473,25 @@
     "history": [
       [
         {
+          "timestamp": 1789727937882,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "DLC Sisters in Arms": "$2.99",
+            "Biomes Add-on": "$1.99",
+            "Abandoned Mines Add-on": "$0.99",
+            "Grottoes Add-on": "$0.99",
+            "Bosses & Monsters Add-on": "$7.99",
+            "Invasion Add-on": "$4.99",
+            "Heroes Add-on": "$3.99",
+            "Lonely Mountain Add-on": "$6.99",
+            "Wonderwood Add-on": "$8.99",
+            "Temples of 4 Elements Add-on": "$3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789575216572,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -122092,6 +122111,36 @@
           "price": 2.99,
           "formattedPrice": "$2.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1142623977": {
+    "trackId": 1142623977,
+    "trackName": "iRime输入法-小鹤双拼五笔郑码输入法",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "专业设置PRO": "$1.99",
+      "文件编辑器": "$4.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99",
+      "专业设置PRO": "$1.99",
+      "文件编辑器": "$4.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789727937882,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "专业设置PRO": "$1.99",
+            "文件编辑器": "$4.99"
+          }
         }
       ]
     ]
@@ -347623,6 +347672,52 @@
           "timestamp": 1789386910265,
           "price": 9.99,
           "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761887952": {
+    "trackId": 6761887952,
+    "trackName": "CanonsOfDort",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789727937882,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6792072690": {
+    "trackId": 6792072690,
+    "trackName": "班主任工作台",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "minPriceInfo": {
+      "price": 6.99,
+      "formattedPrice": "$6.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789727937882,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
           "inAppPurchases": {}
         }
       ]

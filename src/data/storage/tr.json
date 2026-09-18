@@ -110121,6 +110121,34 @@
       ]
     ]
   },
+  "1142623977": {
+    "name": "iRime输入法-小鹤双拼五笔郑码输入法",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "文件编辑器": "₺249,99",
+      "专业设置PRO": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "文件编辑器": "₺249,99",
+      "专业设置PRO": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789727937882,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "文件编辑器": "₺249,99",
+            "专业设置PRO": "₺99,99"
+          }
+        }
+      ]
+    ]
+  },
   "1146269500": {
     "name": "English Phrase Book Learn",
     "maxPriceInfo": {
@@ -127120,7 +127148,8 @@
       "Aroma": "₺199,99",
       "PuNK EP 01": "₺99,99",
       "Sagar": "₺199,99",
-      "Neko": "₺199,99"
+      "Neko": "₺199,99",
+      "Game Disc vol.2": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -127174,9 +127203,29 @@
       "Aroma": "₺199,99",
       "PuNK EP 01": "₺99,99",
       "Sagar": "₺199,99",
-      "Neko": "₺199,99"
+      "Neko": "₺199,99",
+      "Game Disc vol.2": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789727937882,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Game Disc vol.2": "₺99,99",
+            "ConneR": "₺199,99",
+            "Xenon": "₺199,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺249,99",
+            "Neko": "₺199,99",
+            "9 Characters": "₺1.999,99",
+            "Emotion Samples 02": "₺99,99",
+            "Emotion Samples 01": "₺99,99",
+            "Aroma": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789642962261,
@@ -283274,6 +283323,27 @@
           "timestamp": 1789642962261,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6761887952": {
+    "name": "CanonsOfDort",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789727937882,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]
