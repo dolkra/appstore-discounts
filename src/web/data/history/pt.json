@@ -15282,6 +15282,25 @@
     "history": [
       [
         {
+          "timestamp": 1789701814822,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Minecraft Store Item 1": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789592098699,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -137837,8 +137856,8 @@
     "trackName": "Digline: Mineração Relaxante",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 3.99,
-      "formattedPrice": "3,99 €",
+      "price": 4.99,
+      "formattedPrice": "4,99 €",
       "+200 fuel to storage": "5,99 €",
       "+75 fuel to storage": "2,99 €",
       "20 fuel to storage": "0,99 €"
@@ -137851,6 +137870,14 @@
       "20 fuel to storage": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789701814822,
+          "price": 4.99,
+          "formattedPrice": "4,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789356898180,

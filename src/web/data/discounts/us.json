@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 510249014,
+    "region": "us",
+    "timestamp": 1789701814822,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$0.99",
+        "to": "Free",
+        "range": "[Free ~ $0.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id510249014",
+    "trackName": "Level HD.",
+    "firstRecordedAt": 1721960142187
+  },
+  {
+    "trackId": 1637438059,
+    "region": "us",
+    "timestamp": 1789701814822,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "$7.99",
+        "to": "$4.99",
+        "range": "[$3.99 ~ $7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "$59.99",
+        "to": "$39.99",
+        "range": "[$35.99 ~ $59.99]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "$4.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1756465798841
+  },
+  {
+    "trackId": 1642733080,
+    "region": "us",
+    "timestamp": 1789701814822,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $4.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1642733080",
+    "trackName": "DungeonSquad",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6451376191,
+    "region": "us",
+    "timestamp": 1789701814822,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "$59.99",
+        "to": "$39.99",
+        "range": "[$11.99 ~ $59.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "$7.99",
+        "to": "$4.99",
+        "range": "[$4.99 ~ $7.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6451376191",
+    "trackName": "Dumb Phone — Launcher & Themes",
+    "firstRecordedAt": 1746457348888
+  },
+  {
+    "trackId": 6773620703,
+    "region": "us",
+    "timestamp": 1789701814822,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$2.99",
+        "to": "$1.99",
+        "range": "[$1.99 ~ $2.99]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "$1.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6773620703",
+    "trackName": "安尼姆的无尽旅途",
+    "firstRecordedAt": 1786078453943
+  },
+  {
     "trackId": 6469419567,
     "region": "us",
     "timestamp": 1789661990052,
