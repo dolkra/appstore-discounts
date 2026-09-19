@@ -1,5 +1,119 @@
 [
   {
+    "trackId": 1538124245,
+    "region": "pt",
+    "timestamp": 1789772536425,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 0,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1538124245",
+    "trackName": "where I put it",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1637438059,
+    "region": "pt",
+    "timestamp": 1789772536425,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Yearly",
+        "from": "44,99 €",
+        "to": "39,99 €",
+        "range": "[39,99 € ~ 69,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Monthly",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1637438059",
+    "trackName": "UnTrap for YouTube",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6451376191,
+    "region": "pt",
+    "timestamp": 1789772536425,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Monthly",
+        "from": "5,99 €",
+        "to": "3,99 €",
+        "range": "[3,49 € ~ 8,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Dumb Phone Plus Yearly",
+        "from": "44,99 €",
+        "to": "39,99 €",
+        "range": "[8,29 € ~ 69,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6451376191",
+    "trackName": "Dumb Phone",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6448352407,
+    "region": "pt",
+    "timestamp": 1789772536425,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 1.99,
+    "formattedPrice": "1,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6448352407",
+    "trackName": "Unboxing the Cryptic Killer",
+    "firstRecordedAt": 1766931982733
+  },
+  {
+    "trackId": 6477541914,
+    "region": "pt",
+    "timestamp": 1789772536425,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "7,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 7,99 €]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "2,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6477541914",
+    "trackName": "Parallel Experiment",
+    "firstRecordedAt": 1770951187599
+  },
+  {
     "trackId": 510249014,
     "region": "pt",
     "timestamp": 1789687785630,
