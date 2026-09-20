@@ -40071,6 +40071,14 @@
     "history": [
       [
         {
+          "timestamp": 1789918283455,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789661990052,
           "price": 0,
           "formattedPrice": "免費",
@@ -210953,14 +210961,22 @@
     "trackName": "Rhythm Pro: tempo trainer.",
     "region": "hk",
     "maxPriceInfo": {
-      "price": 38,
-      "formattedPrice": "HK$ 38.00"
+      "price": 58,
+      "formattedPrice": "HK$ 58.00"
     },
     "minPriceInfo": {
       "price": 38,
       "formattedPrice": "HK$ 38.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789918283455,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767185811544,

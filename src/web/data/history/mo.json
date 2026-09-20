@@ -33289,6 +33289,14 @@
     "history": [
       [
         {
+          "timestamp": 1789918283455,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789661990052,
           "price": 0,
           "formattedPrice": "免費",
@@ -156311,14 +156319,22 @@
     "trackName": "Rhythm Pro: tempo trainer.",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "USD 4.99"
+      "price": 6.99,
+      "formattedPrice": "USD 6.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "USD 4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789918283455,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767185811544,
