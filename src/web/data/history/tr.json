@@ -16191,6 +16191,25 @@
     "history": [
       [
         {
+          "timestamp": 1789857698268,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {
+            "Premium Upgrade Pack": "₺399,99",
+            "Extreme Map Pack": "₺99,99",
+            "Double Cash": "₺149,99",
+            "Explosive Darts": "₺99,99",
+            "Rank Up +2 Ranks": "₺49,99",
+            "Dreadnought": "₺49,99",
+            "Healthy Bananas": "₺99,99",
+            "Double Ranga": "₺99,99",
+            "Monkey Tycoon": "₺49,99",
+            "Frag Bombs": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789848409909,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -187688,6 +187707,14 @@
     "history": [
       [
         {
+          "timestamp": 1789857698268,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789772536425,
           "price": 0,
           "formattedPrice": "Free",
@@ -203563,6 +203590,14 @@
       "formattedPrice": "₺19,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789857698268,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789081003914,
@@ -287899,6 +287934,33 @@
           "price": 99.99,
           "formattedPrice": "₺99,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6795595036": {
+    "trackId": 6795595036,
+    "trackName": "iArtOfWar: Sun Tzu Art of War",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Reward developers": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99",
+      "Reward developers": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789857698268,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Reward developers": "₺49,99"
+          }
         }
       ]
     ]

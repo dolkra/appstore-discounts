@@ -20480,7 +20480,8 @@
       "Lattice Shedding": "0,99 €",
       "Crystal Overclock": "0,99 €",
       "Magnetic Siphon": "0,99 €",
-      "Harmonic Vibrations": "0,99 €"
+      "Harmonic Vibrations": "0,99 €",
+      "Unlock Anti-Vax": "0,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
@@ -20517,9 +20518,29 @@
       "Lattice Shedding": "0,99 €",
       "Crystal Overclock": "0,99 €",
       "Magnetic Siphon": "0,99 €",
-      "Harmonic Vibrations": "0,99 €"
+      "Harmonic Vibrations": "0,99 €",
+      "Unlock Anti-Vax": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789857698268,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Unlock Anti-Vax": "0,99 €",
+            "Alien Chemistry": "0,99 €",
+            "Atmospheric Interference": "0,99 €",
+            "Void Signal": "0,99 €",
+            "Brittle Lattice": "0,99 €",
+            "Quantum Obfuscation": "0,99 €",
+            "Synaptic Pulse": "0,99 €",
+            "Lattice Shedding": "0,99 €",
+            "Crystal Overclock": "0,99 €",
+            "Magnetic Siphon": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788562062203,
@@ -61932,6 +61953,23 @@
     "history": [
       [
         {
+          "timestamp": 1789857698268,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Miku": "9,99 €",
+            "9 Characters": "39,99 €",
+            "CAPSO": "5,99 €",
+            "ConneR": "3,99 €",
+            "Aroma": "3,99 €",
+            "Ilka": "9,99 €",
+            "Xenon": "3,99 €",
+            "Amiya": "9,99 €",
+            "Alice": "9,99 €",
+            "Cherry": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1789848409909,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -86938,6 +86976,12 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789857698268,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1789772536425,
           "price": 0,
@@ -141678,6 +141722,33 @@
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6795595036": {
+    "trackId": 6795595036,
+    "trackName": "iArtOfWar: Sun Tzu Art of War",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Reward developers": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €",
+      "Reward developers": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789857698268,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Reward developers": "0,99 €"
+          }
         }
       ]
     ]
