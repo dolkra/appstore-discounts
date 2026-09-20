@@ -36311,14 +36311,22 @@
     "trackName": "行車記錄儀「TripREC」",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 1.99,
       "formattedPrice": "USD 1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -98233,6 +98241,23 @@
     "history": [
       [
         {
+          "timestamp": 1789900965418,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "9 Characters": "USD 34.99",
+            "Box E 05": "USD 14.99",
+            "Miku": "USD 9.99",
+            "CAPSO": "USD 4.99",
+            "ConneR": "USD 3.99",
+            "Emotion Samples 01": "USD 1.99",
+            "Xenon": "USD 3.99",
+            "PuNK EP 01": "USD 1.99",
+            "Cherry": "USD 3.99",
+            "Marvelous Mix vol. 4": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1789875421958,
           "price": 0,
           "formattedPrice": "免費",
@@ -105215,14 +105240,22 @@
     "trackName": "ZoomPro - 高達16倍快速縮放放大鏡",
     "region": "mo",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "price": 1.99,
+      "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783871980856,
@@ -128428,13 +128461,31 @@
     "region": "mo",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "formattedPrice": "USD 1.99",
+      "Gold": "USD 4.99",
+      "Bronze": "USD 0.99",
+      "Silver": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "USD 0.99"
+      "formattedPrice": "USD 0.99",
+      "Gold": "USD 4.99",
+      "Bronze": "USD 0.99",
+      "Silver": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Gold": "USD 4.99",
+            "Bronze": "USD 0.99",
+            "Silver": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -166784,6 +166835,29 @@
           "timestamp": 1752765249606,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1660373266": {
+    "trackId": 1660373266,
+    "trackName": "Habanos Cigar Authenticator",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99"
+    },
+    "minPriceInfo": {
+      "price": 11.99,
+      "formattedPrice": "USD 11.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 11.99,
+          "formattedPrice": "USD 11.99",
           "inAppPurchases": {}
         }
       ]

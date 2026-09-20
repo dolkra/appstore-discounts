@@ -66505,14 +66505,22 @@
     "trackName": "ZoomPro - 16x zoom magnifier",
     "region": "pt",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783871980856,
@@ -75782,13 +75790,31 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
-      "formattedPrice": "1,99 €"
+      "formattedPrice": "1,99 €",
+      "Ouro": "5,99 €",
+      "Bronze": "0,99 €",
+      "Prata": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "0,99 €"
+      "formattedPrice": "0,99 €",
+      "Ouro": "5,99 €",
+      "Bronze": "0,99 €",
+      "Prata": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Ouro": "5,99 €",
+            "Bronze": "0,99 €",
+            "Prata": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -103540,6 +103566,29 @@
           "timestamp": 1761797674362,
           "price": 6.99,
           "formattedPrice": "6,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1660373266": {
+    "trackId": 1660373266,
+    "trackName": "Habanos Cigar Authenticator",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "minPriceInfo": {
+      "price": 12.99,
+      "formattedPrice": "12,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 12.99,
+          "formattedPrice": "12,99 €",
           "inAppPurchases": {}
         }
       ]

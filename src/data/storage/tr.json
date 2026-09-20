@@ -21621,6 +21621,25 @@
     "history": [
       [
         {
+          "timestamp": 1789900965418,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "Tuned 808 Bass": "₺49,99",
+            "Varazdin Orchestral Mobile": "₺199,99",
+            "Voices": "₺49,99",
+            "Sliced Beats": "₺49,99",
+            "Amped Guitar & Bass": "₺149,99",
+            "Hyper-Pop Mobile": "₺149,99",
+            "Acoustic Guitars": "₺49,99",
+            "Synth Lead": "₺99,99",
+            "Synth Plucks": "₺99,99",
+            "PsyTrance": "₺149,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789787996372,
           "price": 399.99,
           "formattedPrice": "₺399,99",
@@ -135636,14 +135655,22 @@
   "1352257193": {
     "name": "ZoomPro - 16x zoom magnifier",
     "maxPriceInfo": {
-      "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
       "price": 49.99,
       "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783871980856,
@@ -159271,13 +159298,31 @@
     "name": "Football Agent",
     "maxPriceInfo": {
       "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "formattedPrice": "₺99,99",
+      "Gold": "₺249,99",
+      "Bronze": "₺49,99",
+      "Silver": "₺149,99"
     },
     "minPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Gold": "₺249,99",
+      "Bronze": "₺49,99",
+      "Silver": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Gold": "₺249,99",
+            "Bronze": "₺49,99",
+            "Silver": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -159841,6 +159886,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1789900965418,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "Golden Dice": "₺249,99",
+            "The Complete Collection": "₺1.999,99",
+            "Transylvania Board": "₺399,99",
+            "Arcade Dice Sale": "₺199,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99"
+          }
+        },
         {
           "timestamp": 1789875421958,
           "price": 249.99,
@@ -220353,6 +220415,27 @@
           "timestamp": 1752765249606,
           "price": 249.99,
           "formattedPrice": "₺249,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1660373266": {
+    "name": "Habanos Cigar Authenticator",
+    "maxPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "minPriceInfo": {
+      "price": 599.99,
+      "formattedPrice": "₺599,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 599.99,
+          "formattedPrice": "₺599,99",
           "inAppPurchases": {}
         }
       ]

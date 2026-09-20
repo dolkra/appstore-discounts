@@ -43472,14 +43472,22 @@
     "trackName": "行車記錄儀「TripREC」",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 60,
-      "formattedPrice": "$60.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "minPriceInfo": {
       "price": 60,
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -135294,14 +135302,22 @@
     "trackName": "ZoomPro - 高達16倍快速縮放放大鏡",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1783871980856,
@@ -172822,13 +172838,31 @@
     "region": "tw",
     "maxPriceInfo": {
       "price": 60,
-      "formattedPrice": "$60.00"
+      "formattedPrice": "$60.00",
+      "Gold": "$150.00",
+      "Bronze": "$30.00",
+      "Silver": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
-      "formattedPrice": "$30.00"
+      "formattedPrice": "$30.00",
+      "Gold": "$150.00",
+      "Bronze": "$30.00",
+      "Silver": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Gold": "$150.00",
+            "Bronze": "$30.00",
+            "Silver": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788303769766,
@@ -222580,6 +222614,29 @@
           "timestamp": 1752765249606,
           "price": 190,
           "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "1660373266": {
+    "trackId": 1660373266,
+    "trackName": "Habanos Cigar Authenticator",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "minPriceInfo": {
+      "price": 390,
+      "formattedPrice": "$390.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 390,
+          "formattedPrice": "$390.00",
           "inAppPurchases": {}
         }
       ]
@@ -277480,6 +277537,25 @@
       "3.99美元商品": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789900965418,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "3.99美元商品2": "$120.00",
+            "49.99美元商品": "$1,490.00",
+            "0.99美元商品": "$30.00",
+            "12.99美元商品": "$390.00",
+            "12.99美元商品2": "$390.00",
+            "19.99美元商品": "$690.00",
+            "99.99美元商品": "$2,990.00",
+            "3.99美元商品": "$120.00",
+            "14.99美元商品": "$490.00",
+            "29.99美元商品": "$990.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789678736510,
