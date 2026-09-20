@@ -62,7 +62,7 @@ So far, we've covered `7` `Countries or Regions` and  `2285` `Apps` <br />Push n
 |2233|579940279|Automatic|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|Basketball Stat Tracker|
 |2232|6760577332|Automatic|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|麻將戰績|
 |2231|665745944|Automatic|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|Bone Age|
-|2230|1632719015|Automatic|❌|守護者 OL2|守護者 OL2|守護者 OL2|Guardian OL2|Guardian OL2|守護者 OL2|
+|2230|1632719015|Automatic|❌|守護者 OL2|守護者 OL2|守護者 OL2|Guardian OL2|Guardian OL2|Guardian OL2|
 |2229|762838884|Automatic|linotune|linotune|linotune|linotune|linotune|linotune|linotune|
 |2228|321109246|Automatic|❌|Mahjong Demon|Mahjong Demon|Mahjong Demon|Mahjong Demon|Mahjong Demon|Mahjong Demon|
 |2227|328205875|Automatic|❌|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|Monkey Preschool Lunchbox|A Lancheira de Milo|
@@ -393,7 +393,7 @@ So far, we've covered `7` `Countries or Regions` and  `2285` `Apps` <br />Push n
 |1902|6758863302|Automatic|❌|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|Ghost Case|
 |1901|6758862862|Automatic|❌|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|Nowhere House|
 |1900|1536711520|Automatic|小熊数日子|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|Bears Countdown|
-|1899|6751122124|Automatic|Notteka - AI 工作台|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI會議記錄助手|Notteka | AI Meeting Notes|Notteka | AI Meeting Notes|Notteka - AI 工作台|
+|1899|6751122124|Automatic|Notteka - AI 工作台|Notteka | AI工作台|Notteka | AI工作台|Notteka | AI工作台|Notteka | AI Assistant|Notteka | AI Assistant|Notteka - AI 工作台|
 |1898|6760331891|Automatic|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|寶寶的每日陪伴計畫－親子景點與排程|
 |1897|6756783688|Automatic|❌|❌|❌|寶寶接種小幫手|❌|❌|❌|
 |1896|374098312|Automatic|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|Unicode Pad|

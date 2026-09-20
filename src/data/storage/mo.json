@@ -96537,6 +96537,25 @@
     "history": [
       [
         {
+          "timestamp": 1789875421958,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Miku": "USD 9.99",
+            "CAPSO": "USD 4.99",
+            "ConneR": "USD 3.99",
+            "Emotion Samples 01": "USD 1.99",
+            "Xenon": "USD 3.99",
+            "PuNK EP 01": "USD 1.99",
+            "9 Characters": "USD 34.99",
+            "Cherry": "USD 3.99",
+            "Marvelous Mix vol. 4": "USD 1.99",
+            "Nora": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789529534995,
           "price": 0,
           "formattedPrice": "免費",
@@ -126464,7 +126483,8 @@
       "Cannon Prismatic Token": "USD 3.49",
       "Atlantic City Prismatic Tokens": "USD 11.99",
       "Prismatic Dice": "USD 4.99",
-      "40 Prismatic Tokens and Dice": "USD 24.99"
+      "40 Prismatic Tokens and Dice": "USD 24.99",
+      "The Ultimate Edition Welcome Offer": "USD 24.99"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -126617,9 +126637,28 @@
       "Cannon Prismatic Token": "USD 3.49",
       "Atlantic City Prismatic Tokens": "USD 11.99",
       "Prismatic Dice": "USD 4.99",
-      "40 Prismatic Tokens and Dice": "USD 24.99"
+      "40 Prismatic Tokens and Dice": "USD 24.99",
+      "The Ultimate Edition Welcome Offer": "USD 24.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789875421958,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "The Ultimate Edition Welcome Offer": "USD 24.99",
+            "Explorer Pack": "USD 10.99",
+            "City Break": "USD 2.99",
+            "The Complete Collection": "USD 34.99",
+            "Welcome Offer": "USD 19.99",
+            "Victorian London Board": "USD 6.99",
+            "Theme Collection": "USD 19.99",
+            "New York 2121 Board": "USD 6.99",
+            "Cherry Blossom Tokyo Board": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779913050977,
@@ -196772,7 +196811,7 @@
     ]
   },
   "6751122124": {
-    "name": "Notteka | AI會議記錄助手",
+    "name": "Notteka | AI工作台",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "USD 0.99",

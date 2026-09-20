@@ -208211,7 +208211,8 @@
       "Hero Zhara": "$150.00",
       "Unit Group Jaegers On Sale": "$150.00",
       "HeroBounty Hunter": "$150.00",
-      "Unit Group Planterras": "$90.00"
+      "Unit Group Planterras": "$90.00",
+      "Special Daily Pack13": "$90.00"
     },
     "minPriceInfo": {
       "price": 30,
@@ -208243,9 +208244,29 @@
       "Hero Zhara": "$90.00",
       "Unit Group Jaegers On Sale": "$150.00",
       "HeroBounty Hunter": "$150.00",
-      "Unit Group Planterras": "$90.00"
+      "Unit Group Planterras": "$90.00",
+      "Special Daily Pack13": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789875421958,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Special Daily Pack7": "$60.00",
+            "Special Daily Pack 1": "$150.00",
+            "Unit Group Jaegers": "$220.00",
+            "Special Daily Pack13": "$90.00",
+            "Starter Pack": "$150.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Unit Group Rebooted Ascendii": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789813404970,
@@ -241235,6 +241256,25 @@
       "夜色微醺": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789875421958,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "聖誕夜": "$30.00",
+            "星降之夜": "$30.00",
+            "萬聖派對": "$30.00",
+            "水畔": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "新年日出": "$30.00",
+            "花火大會": "$30.00",
+            "夏日庭院": "$20.00",
+            "紅葉漫步": "$30.00",
+            "2025春さくらスキン": "$20.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789813404970,
@@ -296311,7 +296351,7 @@
     ]
   },
   "6751122124": {
-    "name": "Notteka | AI會議記錄助手",
+    "name": "Notteka | AI工作台",
     "maxPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",

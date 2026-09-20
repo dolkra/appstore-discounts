@@ -47853,14 +47853,22 @@
     "trackName": "TripREC Dash Cam",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "minPriceInfo": {
       "price": 99.99,
       "formattedPrice": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789875421958,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745658131479,
@@ -127034,6 +127042,24 @@
     "history": [
       [
         {
+          "timestamp": 1789875421958,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Pile of Gems": "₺149,99",
+            "Pile of Coins": "₺49,99",
+            "SF2SEPack3": "₺149,99",
+            "Casket of Gems": "₺499,99",
+            "SF2SEPack6": "₺399,99",
+            "Bag of Coins": "₺249,99",
+            "SF2SEPack2": "₺99,99",
+            "Bag of Gems": "₺999,99",
+            "Chest of Coins": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787629669182,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -128987,6 +129013,25 @@
       "Game Disc vol.2": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789875421958,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ConneR": "₺199,99",
+            "Featured Article Vol. 1": "₺99,99",
+            "COLORFUL STAGE!": "₺249,99",
+            "Game Disc vol.2": "₺99,99",
+            "Xenon": "₺199,99",
+            "Miku": "₺499,99",
+            "CAPSO": "₺249,99",
+            "9 Characters": "₺1.999,99",
+            "Neko": "₺199,99",
+            "Cherry": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789848409909,
@@ -161959,6 +162004,25 @@
       "Lava Bundle": "₺599,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789875421958,
+          "price": 249.99,
+          "formattedPrice": "₺249,99",
+          "inAppPurchases": {
+            "Explorer Pack": "₺599,99",
+            "Orient Express": "₺199,99",
+            "New York 2121 Board": "₺399,99",
+            "The Ultimate Edition Welcome Offer": "₺1.299,99",
+            "The Complete Collection": "₺1.999,99",
+            "Transylvania Board": "₺399,99",
+            "Arcade Dice Sale": "₺199,99",
+            "Victorian London Board": "₺399,99",
+            "Welcome Offer": "₺999,99",
+            "Lava Dice": "₺249,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789701814822,
@@ -280434,7 +280498,7 @@
   },
   "6751122124": {
     "trackId": 6751122124,
-    "trackName": "Notteka | AI Meeting Notes",
+    "trackName": "Notteka | AI Assistant",
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
