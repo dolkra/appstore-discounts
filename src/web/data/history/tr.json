@@ -211984,14 +211984,22 @@
     "trackName": "Rhythm Pro: tempo trainer.",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 399.99,
+      "formattedPrice": "₺399,99"
     },
     "minPriceInfo": {
       "price": 249.99,
       "formattedPrice": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789935798032,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767185811544,
@@ -288129,6 +288137,29 @@
           "inAppPurchases": {
             "Reward developers": "₺49,99"
           }
+        }
+      ]
+    ]
+  },
+  "6786557574": {
+    "trackId": 6786557574,
+    "trackName": "MPG Petrol Mileage Tracker Log",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789935798032,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
         }
       ]
     ]

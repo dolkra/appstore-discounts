@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2286` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2287` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2287|6786557574|自动|油耗管家-加油记录省油统计车辆里程费用记账工具专用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|Fuel MPG Mileage Tracker Log|MPG Petrol Mileage Tracker Log|Combustível Consumo Abaste Log|
 |2286|1660373266|自动|Habanos 雪茄验证器|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|
 |2285|6795595036|自动|爱兵法 - 孙子兵法、三十六计、武经七书|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|
 |2284|1142623977|自动|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|
@@ -654,7 +655,7 @@
 |1642|1452113719|自动|文明百科|文明百科|文明百科|文明百科|Civilopedia|Civilopedia|Civilopédia|
 |1641|390831503|自动|手机U盘 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|OrganiDoc|OrganiDoc|OrganiDoc|
 |1640|6749760745|自动|小花借款-分期借款小额贷款现金分期金融借款借钱平台|❌|❌|❌|❌|❌|❌|
-|1639|1604438442|自动|节奏 MIDI: 阅读有节奏的音符|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Ritmo MIDI: Leia notas|
+|1639|1604438442|自动|节奏 MIDI: 阅读有节奏的音符|Rhythm Pro: tempo trainer.|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm Pro: tempo trainer.|Ritmo MIDI: Leia notas|
 |1638|6754310761|自动|恒享花-分期贷款小额现金贷款借钱平台|❌|❌|❌|❌|❌|❌|
 |1637|305608072|自动|❌|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|
 |1636|876290893|自动|❌|晴空農場物語|晴空農場物語|晴空農場物語|Pocket Harvest|Pocket Harvest|Pocket Harvest|
@@ -1307,7 +1308,7 @@
 |989|6473332700|自动|逐鹿 - 历史沙盘战棋|❌|❌|❌|❌|❌|❌|
 |988|6742526717|自动|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|
 |987|6478398981|自动|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
-|986|528181527|自动|TripREC|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Dash Cam|TripREC Dash Cam|TripREC Dashcam|
+|986|528181527|自动|TripREC行程记录仪|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Dash Cam|TripREC Dash Cam|TripREC Dashcam|
 |985|545625741|自动|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
 |984|592398757|自动|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|
 |983|669835030|自动|WinZip完整版: 压缩/解压|WinZip完整版|WinZip完整版|WinZip完整版|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|

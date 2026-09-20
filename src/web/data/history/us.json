@@ -241174,17 +241174,25 @@
   },
   "1604438442": {
     "trackId": 1604438442,
-    "trackName": "Rhythm Pro: tempo trainer.",
+    "trackName": "Rhythm MIDI: tempo tutor",
     "region": "us",
     "maxPriceInfo": {
-      "price": 4.99,
-      "formattedPrice": "$4.99"
+      "price": 6.99,
+      "formattedPrice": "$6.99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789935798032,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1767185811544,
@@ -348430,6 +348438,29 @@
           "inAppPurchases": {
             "Reward developers": "$0.99"
           }
+        }
+      ]
+    ]
+  },
+  "6786557574": {
+    "trackId": 6786557574,
+    "trackName": "Fuel MPG Mileage Tracker Log",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "$1.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1789935798032,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
         }
       ]
     ]

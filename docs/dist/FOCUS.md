@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2286` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2287` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2287|6786557574|Automatic|油耗管家-加油记录省油统计车辆里程费用记账工具专用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|Fuel MPG Mileage Tracker Log|MPG Petrol Mileage Tracker Log|Combustível Consumo Abaste Log|
 |2286|1660373266|Automatic|Habanos 雪茄验证器|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|
 |2285|6795595036|Automatic|爱兵法 - 孙子兵法、三十六计、武经七书|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|愛兵法 - 孫子兵法、三十六計、武經七書|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|iArtOfWar: Sun Tzu Art of War|
 |2284|1142623977|Automatic|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|iRime输入法-小鹤双拼五笔郑码输入法|
@@ -654,7 +655,7 @@ So far, we've covered `7` `Countries or Regions` and  `2286` `Apps` <br />Push n
 |1642|1452113719|Automatic|文明百科|文明百科|文明百科|文明百科|Civilopedia|Civilopedia|Civilopédia|
 |1641|390831503|Automatic|手机U盘 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|OrganiDoc|OrganiDoc|OrganiDoc|
 |1640|6749760745|Automatic|小花借款-分期借款小额贷款现金分期金融借款借钱平台|❌|❌|❌|❌|❌|❌|
-|1639|1604438442|Automatic|节奏 MIDI: 阅读有节奏的音符|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Rhythm Pro: tempo trainer.|Ritmo MIDI: Leia notas|
+|1639|1604438442|Automatic|节奏 MIDI: 阅读有节奏的音符|Rhythm Pro: tempo trainer.|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm Pro: tempo trainer.|Ritmo MIDI: Leia notas|
 |1638|6754310761|Automatic|恒享花-分期贷款小额现金贷款借钱平台|❌|❌|❌|❌|❌|❌|
 |1637|305608072|Automatic|❌|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|
 |1636|876290893|Automatic|❌|晴空農場物語|晴空農場物語|晴空農場物語|Pocket Harvest|Pocket Harvest|Pocket Harvest|
@@ -1307,7 +1308,7 @@ So far, we've covered `7` `Countries or Regions` and  `2286` `Apps` <br />Push n
 |989|6473332700|Automatic|逐鹿 - 历史沙盘战棋|❌|❌|❌|❌|❌|❌|
 |988|6742526717|Automatic|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|
 |987|6478398981|Automatic|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
-|986|528181527|Automatic|TripREC|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Dash Cam|TripREC Dash Cam|TripREC Dashcam|
+|986|528181527|Automatic|TripREC行程记录仪|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Dash Cam|TripREC Dash Cam|TripREC Dashcam|
 |985|545625741|Automatic|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
 |984|592398757|Automatic|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|
 |983|669835030|Automatic|WinZip完整版: 压缩/解压|WinZip完整版|WinZip完整版|WinZip完整版|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|
