@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1561442623,
+    "region": "tw",
+    "timestamp": 1790020348261,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$30.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1561442623",
+    "trackName": "Access Code Zero",
+    "firstRecordedAt": 1760882985218
+  },
+  {
+    "trackId": 6673906410,
+    "region": "tw",
+    "timestamp": 1790020348261,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$320.00",
+        "to": "$220.00",
+        "range": "[$190.00 ~ $320.00]"
+      }
+    ],
+    "price": 220,
+    "formattedPrice": "$220.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6673906410",
+    "trackName": "星之海",
+    "firstRecordedAt": 1775569659553
+  },
+  {
     "trackId": 1538124245,
     "region": "tw",
     "timestamp": 1789746868566,

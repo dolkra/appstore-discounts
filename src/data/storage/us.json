@@ -63538,7 +63538,10 @@
       "GROOVY GUT SHAKER": "$1.99",
       "LOW RIDER": "$0.99",
       "ISAAC'S NEW TONES": "$0.99",
-      "HIGH FIVE": "$0.99"
+      "HIGH FIVE": "$0.99",
+      "DARK DUNGEON OF DESPAIR": "$0.99",
+      "FUSION FLIPPO": "$0.99",
+      "BLADE OF JUSTICE": "$0.99"
     },
     "minPriceInfo": {
       "price": 11.99,
@@ -63552,9 +63555,31 @@
       "GROOVY GUT SHAKER": "$1.99",
       "LOW RIDER": "$0.99",
       "ISAAC'S NEW TONES": "$0.99",
-      "HIGH FIVE": "$0.99"
+      "HIGH FIVE": "$0.99",
+      "DARK DUNGEON OF DESPAIR": "$0.99",
+      "FUSION FLIPPO": "$0.99",
+      "BLADE OF JUSTICE": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790020348261,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "ISAAC'S NEW TONES": "$0.99",
+            "GROOVY GUT SHAKER": "$1.99",
+            "DARK DUNGEON OF DESPAIR": "$0.99",
+            "CAMPBELL'S CANS": "$0.99",
+            "BEEPING BOBBIE": "$0.00",
+            "FUSION FLIPPO": "$0.99",
+            "BLADE OF JUSTICE": "$0.99",
+            "DEEP BLUE": "$0.00",
+            "HIGH FIVE": "$0.99",
+            "LOW RIDER": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789207811514,
@@ -160955,7 +160980,7 @@
     ]
   },
   "1400032769": {
-    "name": "Card.Note - 让记忆染色",
+    "name": "Card.Note - 集文字、照片、语音的多彩卡片笔记",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99",
@@ -316583,6 +316608,25 @@
       "Yucky Buddy Outfit": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790020348261,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Explosive Expansions Pass": "$9.99",
+            "Sun and Spice Bundle": "$7.99",
+            "Mystic Mayhem Pack": "$5.99",
+            "Santa Claws Pack": "$4.99",
+            "Beach Day Pack": "$5.99",
+            "Kitchen Chaos Pack": "$5.99",
+            "MysticMayhem Cauldron Creature": "$1.99",
+            "Mystic Mayhem Card Back": "$0.99",
+            "Sea Rat Outfit": "$1.99",
+            "Beach Day Card back": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789616262482,
