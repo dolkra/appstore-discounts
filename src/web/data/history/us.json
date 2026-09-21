@@ -45590,6 +45590,14 @@
     "history": [
       [
         {
+          "timestamp": 1789961512019,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789701814822,
           "price": 0,
           "formattedPrice": "Free",
@@ -148416,11 +148424,21 @@
       "Portal Proficiency": "$1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0.99,
+      "formattedPrice": "$0.99",
       "Portal Proficiency": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789961512019,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Portal Proficiency": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1771181315473,
@@ -200417,6 +200435,14 @@
       "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789961512019,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789642962261,
@@ -315237,6 +315263,22 @@
       "24h Pass": "$0.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789961512019,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Weekly Subscription": "$2.49",
+            "Premium Lifetime": "$19.99",
+            "7-Day Pass": "$3.49",
+            "3-Day Pass": "$1.49",
+            "Yearly Subscription": "$8.99",
+            "24h Pass": "$0.99",
+            "Pro – Lifetime": "$0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789514712060,

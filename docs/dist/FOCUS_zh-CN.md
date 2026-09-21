@@ -165,7 +165,7 @@
 |2132|954718244|自动|RoughAnimator - animation app|RoughAnimator - animation app|RoughAnimator - animation app|RoughAnimator - animation app|RoughAnimator - animation app|RoughAnimator - animation app|RoughAnimator - animation app|
 |2131|6766948602|自动|Lighting Gel Combiner|Lighting Gel Combiner|Lighting Gel Combiner|Lighting Gel Combiner|Lighting Gel Combiner|Lighting Gel Combiner|Lighting Gel Combiner|
 |2130|452561112|自动|集王羲之书圣教序|集王羲之书圣教序|集王羲之书圣教序|集王羲之书圣教序|集王羲之书圣教序|集王羲之书圣教序|集王羲之书圣教序|
-|2129|1352257193|自动|ZoomPro - 高达16倍快速缩放放大镜|ZoomPro - 高達16倍快速縮放放大鏡|ZoomPro - 高達16倍快速縮放放大鏡|ZoomPro - 高達16倍快速縮放放大鏡|ZoomPro - 16x zoom magnifier|ZoomPro - 16x zoom magnifier|ZoomPro - 16x zoom magnifier|
+|2129|1352257193|自动|ZoomPro - 高达16倍快速缩放放大镜|ZoomPro - 高達16倍快速縮放放大鏡|ZoomPro - 高達16倍快速縮放放大鏡|ZoomPro - 高達16倍快速縮放放大鏡|ZoomPro - 16x zoom magnifier|ZoomPro - 16x zoom magnifier|ZoomPro - Lupa com zoom 16x|
 |2128|1115047756|自动|Melodist 人人都是作曲家|Melodist 人人都是作曲家|Melodist 人人都是作曲家|Melodist 人人都是作曲家|Melodist - Let photos sing|Melodist - Let photos sing|Melodist|
 |2127|6756307024|自动|❌|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: 公司經營模擬|The Company: Roguelike Tycoon|The Company: Roguelike Tycoon|The Company: Gestão Roguelike|
 |2126|607648590|自动|❌|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|Daddy Was A Thief|
