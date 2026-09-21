@@ -655,7 +655,7 @@ So far, we've covered `7` `Countries or Regions` and  `2287` `Apps` <br />Push n
 |1642|1452113719|Automatic|文明百科|文明百科|文明百科|文明百科|Civilopedia|Civilopedia|Civilopédia|
 |1641|390831503|Automatic|手机U盘 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|手機隨身碟 - OrganiDoc|OrganiDoc|OrganiDoc|OrganiDoc|
 |1640|6749760745|Automatic|小花借款-分期借款小额贷款现金分期金融借款借钱平台|❌|❌|❌|❌|❌|❌|
-|1639|1604438442|Automatic|节奏 MIDI: 阅读有节奏的音符|Rhythm Pro: tempo trainer.|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm Pro: tempo trainer.|Ritmo MIDI: Leia notas|
+|1639|1604438442|Automatic|节奏 MIDI: 阅读有节奏的音符|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm MIDI: tempo tutor|Rhythm Pro: tempo trainer.|Ritmo MIDI: Leia notas|
 |1638|6754310761|Automatic|恒享花-分期贷款小额现金贷款借钱平台|❌|❌|❌|❌|❌|❌|
 |1637|305608072|Automatic|❌|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|SPACE INVADERS|
 |1636|876290893|Automatic|❌|晴空農場物語|晴空農場物語|晴空農場物語|Pocket Harvest|Pocket Harvest|Pocket Harvest|
@@ -810,7 +810,7 @@ So far, we've covered `7` `Countries or Regions` and  `2287` `Apps` <br />Push n
 |1487|6744589266|Automatic|❌|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|DeviDeviSurvivor|
 |1486|6739813869|Automatic|❌|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike|Fortune Quest - Roguelike Game|❌|❌|
 |1485|390017969|Automatic|Due - 快速提醒、定时器|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Reminders & Timers|Due - Lembretes + Timer|
-|1484|6742044212|Automatic|简记快捷记账 - AI自动记账|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|SnapKoin: Fast Expense Tracker|SnapKoin: Fast Expense Tracker|SnapKoin: Fast Expense Tracker|
+|1484|6742044212|Automatic|简记快捷记账 - AI自动记账|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|簡記 - AI記帳&自動記帳|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|SnapKoin - Expense Tracker|
 |1483|1637377410|Automatic|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|Flying Carpet File Transfer|
 |1482|1449383466|Automatic|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|WristChat for Facebook|
 |1481|1517410833|Automatic|❌|Startup Panic|Startup Panic|Startup Panic|Startup Panic|Startup Panic|Startup Panic|

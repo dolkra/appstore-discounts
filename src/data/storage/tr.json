@@ -43940,6 +43940,14 @@
     "history": [
       [
         {
+          "timestamp": 1789945234659,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789687785630,
           "price": 0,
           "formattedPrice": "Free",
@@ -239518,6 +239526,25 @@
     "history": [
       [
         {
+          "timestamp": 1789945234659,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "EC135": "₺49,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737": "₺49,99",
+            "Airbus A321": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Concorde": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -268571,7 +268598,7 @@
     ]
   },
   "6742044212": {
-    "name": "SnapKoin: Fast Expense Tracker",
+    "name": "SnapKoin - Expense Tracker",
     "maxPriceInfo": {
       "price": 199.99,
       "formattedPrice": "₺199,99",

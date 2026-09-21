@@ -54679,7 +54679,8 @@
       "Heads Up! - BYO Free Deck B": "HK$ 0.00",
       "Love Island USA Fan Deck": "HK$ 0.00",
       "LifeTime Pass 50": "HK$ 388.00",
-      "LifeTime Pass 30": "HK$ 228.00"
+      "LifeTime Pass 30": "HK$ 228.00",
+      "Holiday Offer Halloween 2026": "HK$ 148.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -54796,9 +54797,29 @@
       "Heads Up! - BYO Free Deck B": "HK$ 0.00",
       "Love Island USA Fan Deck": "HK$ 0.00",
       "LifeTime Pass 50": "HK$ 388.00",
-      "LifeTime Pass 30": "HK$ 228.00"
+      "LifeTime Pass 30": "HK$ 228.00",
+      "Holiday Offer Halloween 2026": "HK$ 148.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1789945234659,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Holiday Offer Halloween 2026": "HK$ 148.00",
+            "LifeTime Pass 50": "HK$ 388.00",
+            "LifeTime Pass 30": "HK$ 228.00",
+            "Love Island USA Fan Deck": "HK$ 0.00",
+            "Holiday Offer 4th of July 2026": "HK$ 148.00",
+            "DIY Bundle Sale": "HK$ 58.00",
+            "Holiday Offer Spring 2026": "HK$ 148.00",
+            "AAPI Music Deck": "HK$ 18.00",
+            "AAPI Films Deck": "HK$ 18.00",
+            "AAPI Month Bundle": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1783434755140,
@@ -208231,7 +208252,7 @@
     ]
   },
   "1604438442": {
-    "name": "Rhythm Pro: tempo trainer.",
+    "name": "Rhythm MIDI: tempo tutor",
     "maxPriceInfo": {
       "price": 58,
       "formattedPrice": "HK$ 58.00"
