@@ -1,5 +1,86 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "tr",
+    "timestamp": 1790034627833,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Prime gemma 100",
+        "from": "₺49,99",
+        "to": "₺15,99",
+        "range": "[₺15,99 ~ ₺49,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "₺999,99",
+        "to": "₺319,99",
+        "range": "[₺319,99 ~ ₺999,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Starter Package",
+        "from": "₺149,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Gemma 500",
+        "from": "₺249,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
+    "trackName": "EvoCreo2 Catch & Tame Monsters",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 1561442623,
+    "region": "tr",
+    "timestamp": 1790034627833,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺149,99",
+        "to": "₺49,99",
+        "range": "[₺39,99 ~ ₺149,99]"
+      }
+    ],
+    "price": 49.99,
+    "formattedPrice": "₺49,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1561442623",
+    "trackName": "Access Code Zero",
+    "firstRecordedAt": 1760882985218
+  },
+  {
+    "trackId": 6673906410,
+    "region": "tr",
+    "timestamp": 1790034627833,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺399,99",
+        "range": "[₺299,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 399.99,
+    "formattedPrice": "₺399,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6673906410",
+    "trackName": "Sea of Stars",
+    "firstRecordedAt": 1775569659553
+  },
+  {
     "trackId": 1477806063,
     "region": "tr",
     "timestamp": 1789992373756,

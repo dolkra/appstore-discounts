@@ -63563,6 +63563,23 @@
     "history": [
       [
         {
+          "timestamp": 1790034627833,
+          "price": 11.99,
+          "formattedPrice": "$11.99",
+          "inAppPurchases": {
+            "STANDARD ROCK KIT": "$0.00",
+            "BEAST OF SHADOWS": "$0.00",
+            "BEEPING BOBBIE": "$0.00",
+            "DEEP BLUE": "$0.00",
+            "A MAJOR'S LOW BLOW": "$0.00",
+            "CAMPBELL'S CANS": "$0.99",
+            "GROOVY GUT SHAKER": "$1.99",
+            "LOW RIDER": "$0.99",
+            "ISAAC'S NEW TONES": "$0.99",
+            "HIGH FIVE": "$0.99"
+          }
+        },
+        {
           "timestamp": 1790020348261,
           "price": 11.99,
           "formattedPrice": "$11.99",
@@ -196088,7 +196105,7 @@
       "Prime Gemma 1200": "$9.99",
       "Master Package": "$19.99",
       "Prime Gemma 500": "$4.99",
-      "Starter Package": "$2.99",
+      "Starter Package": "$4.99",
       "Tamer Kit": "$0.99",
       "Prime Gemma 2500": "$19.99",
       "Prime gemma 100": "$0.99",
@@ -196145,6 +196162,25 @@
       "Ascensio Kit": "$4.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790034627833,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Tamer Kit": "$0.99",
+            "Master Package": "$19.99",
+            "Starter Package": "$4.99",
+            "Prime Gemma 2500": "$19.99",
+            "Prime Gemma 1200": "$9.99",
+            "Prime Gemma 500": "$4.99",
+            "Hunter Package": "$9.99",
+            "Evoker Kit": "$0.99",
+            "Prime gemma 100": "$0.99",
+            "Evoker Package": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789875421958,

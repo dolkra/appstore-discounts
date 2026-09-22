@@ -1,5 +1,86 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "pt",
+    "timestamp": 1790034627833,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "19,99 €",
+        "to": "10,99 €",
+        "range": "[10,99 € ~ 19,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Gemma 1200",
+        "from": "9,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Gemma 500",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Gemma 2500",
+        "from": "22,99 €",
+        "to": "9,99 €",
+        "range": "[9,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
+    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 1561442623,
+    "region": "pt",
+    "timestamp": 1790034627833,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "2,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1561442623",
+    "trackName": "Access Code Zero",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6673906410,
+    "region": "pt",
+    "timestamp": 1790034627833,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "9,99 €",
+        "to": "6,99 €",
+        "range": "[6,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 6.99,
+    "formattedPrice": "6,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6673906410",
+    "trackName": "Sea of Stars",
+    "firstRecordedAt": 1775569659553
+  },
+  {
     "trackId": 1662217862,
     "region": "pt",
     "timestamp": 1789787996372,
@@ -24736,7 +24817,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "1,99 €",
-        "range": "[1,99 € ~ 2,99 €]"
+        "range": "[0,99 € ~ 2,99 €]"
       }
     ],
     "price": 1.99,
