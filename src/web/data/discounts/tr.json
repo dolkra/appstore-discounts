@@ -1,5 +1,88 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "tr",
+    "timestamp": 1790110562758,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Prime gemma 100",
+        "from": "₺49,99",
+        "to": "₺15,99",
+        "range": "[₺15,99 ~ ₺49,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Tamer Kit",
+        "from": "₺29,99",
+        "to": "₺15,99",
+        "range": "[₺15,99 ~ ₺29,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "₺999,99",
+        "to": "₺319,99",
+        "range": "[₺319,99 ~ ₺999,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Starter Package",
+        "from": "₺149,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Gemma 500",
+        "from": "₺249,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Spray kit",
+        "from": "₺199,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺199,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Ascensio Kit",
+        "from": "₺249,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Zenith Islands DLC Sale",
+        "from": "₺149,99",
+        "to": "₺47,99",
+        "range": "[₺47,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Dimension DLC Sale",
+        "from": "₺149,99",
+        "to": "₺47,99",
+        "range": "[₺47,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Crystal Offer Sale",
+        "from": "₺499,99",
+        "to": "₺159,99",
+        "range": "[₺159,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
+    "trackName": "EvoCreo2 Catch & Tame Monsters",
+    "firstRecordedAt": 1759940107332
+  },
+  {
     "trackId": 6758328352,
     "region": "tr",
     "timestamp": 1790094096914,
@@ -38,47 +121,6 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id6502634839",
     "trackName": "Dungeon Tracer",
     "firstRecordedAt": 1776705257529
-  },
-  {
-    "trackId": 1499001662,
-    "region": "tr",
-    "timestamp": 1790034627833,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Prime gemma 100",
-        "from": "₺49,99",
-        "to": "₺15,99",
-        "range": "[₺15,99 ~ ₺49,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Master Package",
-        "from": "₺999,99",
-        "to": "₺319,99",
-        "range": "[₺319,99 ~ ₺999,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Starter Package",
-        "from": "₺149,99",
-        "to": "₺80,99",
-        "range": "[₺80,99 ~ ₺149,99]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Prime Gemma 500",
-        "from": "₺249,99",
-        "to": "₺80,99",
-        "range": "[₺80,99 ~ ₺249,99]"
-      }
-    ],
-    "price": 99.99,
-    "formattedPrice": "₺99,99",
-    "currency": "TRY",
-    "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
-    "trackName": "EvoCreo2 Catch & Tame Monsters",
-    "firstRecordedAt": 1759940107332
   },
   {
     "trackId": 1561442623,

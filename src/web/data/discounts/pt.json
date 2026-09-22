@@ -1,5 +1,67 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "pt",
+    "timestamp": 1790110562758,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Dimension DLC",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Master Package",
+        "from": "19,99 €",
+        "to": "10,99 €",
+        "range": "[10,99 € ~ 19,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Offer",
+        "from": "9,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Crystal Offer",
+        "from": "22,99 €",
+        "to": "10,99 €",
+        "range": "[10,99 € ~ 22,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Evoker Package",
+        "from": "9,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Gemma 500",
+        "from": "5,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Gemma 1200",
+        "from": "9,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 9,99 €]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
+    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 6758328352,
     "region": "pt",
     "timestamp": 1790094096914,
@@ -65,40 +127,6 @@
     "trackViewUrl": "https://apps.apple.com/pt/app/id6502634839",
     "trackName": "Dungeon Tracer",
     "firstRecordedAt": 1776705257529
-  },
-  {
-    "trackId": 1499001662,
-    "region": "pt",
-    "timestamp": 1790047846706,
-    "discounts": [
-      {
-        "type": "inAppPurchase",
-        "name": "Master Package",
-        "from": "19,99 €",
-        "to": "10,99 €",
-        "range": "[10,99 € ~ 19,99 €]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Prime Gemma 500",
-        "from": "5,99 €",
-        "to": "2,99 €",
-        "range": "[2,99 € ~ 5,99 €]"
-      },
-      {
-        "type": "inAppPurchase",
-        "name": "Prime Gemma 1200",
-        "from": "9,99 €",
-        "to": "4,99 €",
-        "range": "[4,99 € ~ 9,99 €]"
-      }
-    ],
-    "price": 4.99,
-    "formattedPrice": "4,99 €",
-    "currency": "EUR",
-    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
-    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
-    "firstRecordedAt": 1761797674362
   },
   {
     "trackId": 1561442623,
