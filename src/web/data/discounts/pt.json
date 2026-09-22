@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6469419567,
+    "region": "pt",
+    "timestamp": 1790074896267,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Pack",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 5,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "6,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 8,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6502634839,
+    "region": "pt",
+    "timestamp": 1790074896267,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "0,99 €",
+        "to": "Gratuito",
+        "range": "[Gratuito ~ 2,99 €]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Gratuito",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 1499001662,
     "region": "pt",
     "timestamp": 1790047846706,
@@ -318,7 +365,7 @@
         "name": "Elite Pack",
         "from": "8,99 €",
         "to": "6,99 €",
-        "range": "[5,99 € ~ 8,99 €]"
+        "range": "[3,99 € ~ 8,99 €]"
       }
     ],
     "price": 0.99,
@@ -9463,7 +9510,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[Gratuito ~ 2,99 €]"
       }
     ],
     "price": 0.99,
@@ -10566,7 +10613,7 @@
         "name": "Price",
         "from": "2,99 €",
         "to": "0,99 €",
-        "range": "[0,99 € ~ 2,99 €]"
+        "range": "[Gratuito ~ 2,99 €]"
       }
     ],
     "price": 0.99,

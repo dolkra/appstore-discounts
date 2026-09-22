@@ -220040,6 +220040,20 @@
     "history": [
       [
         {
+          "timestamp": 1790074896267,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Filtr": "$790.00",
+            "Tip": "$150.00",
+            "Yearly Recurring Tip": "$320.00",
+            "Monthly Recurring Tip": "$60.00",
+            "Mega Tip": "$690.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -252473,12 +252487,25 @@
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00",
-      "Elite Pack": "$150.00",
+      "Elite Pack": "$120.00",
       "Premium Pack": "$90.00",
       "Advanced Pack": "$60.00",
       "Standard Pack": "$20.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790074896267,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "Elite Pack": "$120.00",
+            "Premium Pack": "$90.00",
+            "Advanced Pack": "$90.00",
+            "Standard Pack": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,
@@ -297559,11 +297586,21 @@
       "解鎖所有職業": "$320.00"
     },
     "minPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00",
+      "price": 0,
+      "formattedPrice": "免費",
       "解鎖所有職業": "$320.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790074896267,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "解鎖所有職業": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789505670372,

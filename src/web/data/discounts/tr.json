@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6502634839,
+    "region": "tr",
+    "timestamp": 1790074896267,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺49,99",
+        "to": "Free",
+        "range": "[Free ~ ₺149,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 1499001662,
     "region": "tr",
     "timestamp": 1790034627833,
@@ -311,14 +331,14 @@
         "name": "Advanced Pack",
         "from": "₺79,99",
         "to": "₺49,99",
-        "range": "[₺19,99 ~ ₺79,99]"
+        "range": "[₺19,99 ~ ₺129,99]"
       },
       {
         "type": "inAppPurchase",
         "name": "Premium Pack",
         "from": "₺129,99",
         "to": "₺99,99",
-        "range": "[₺34,99 ~ ₺129,99]"
+        "range": "[₺34,99 ~ ₺149,99]"
       }
     ],
     "price": 4.99,
@@ -10527,7 +10547,7 @@
         "name": "Price",
         "from": "₺49,99",
         "to": "₺45,00",
-        "range": "[₺45,00 ~ ₺149,99]"
+        "range": "[Free ~ ₺149,99]"
       }
     ],
     "price": 45,
@@ -13377,7 +13397,7 @@
         "name": "Price",
         "from": "₺149,99",
         "to": "₺45,00",
-        "range": "[₺45,00 ~ ₺149,99]"
+        "range": "[Free ~ ₺149,99]"
       }
     ],
     "price": 45,

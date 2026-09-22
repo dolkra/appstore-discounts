@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 6469419567,
+    "region": "mo",
+    "timestamp": 1790074896267,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "USD 5.99",
+        "to": "USD 3.99",
+        "range": "[USD 3.99 ~ USD 7.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Pack",
+        "from": "USD 3.99",
+        "to": "USD 2.99",
+        "range": "[USD 2.99 ~ USD 4.99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Advanced Pack",
+        "from": "USD 2.99",
+        "to": "USD 2.49",
+        "range": "[USD 1.99 ~ USD 2.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "USD 0.99",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6502634839,
+    "region": "mo",
+    "timestamp": 1790074896267,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "USD 0.99",
+        "to": "免費",
+        "range": "[免費 ~ USD 2.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "MOP",
+    "trackViewUrl": "https://apps.apple.com/mo/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 1561442623,
     "region": "mo",
     "timestamp": 1790020348261,
@@ -223,7 +277,7 @@
         "name": "Elite Pack",
         "from": "USD 7.99",
         "to": "USD 5.99",
-        "range": "[USD 4.99 ~ USD 7.99]"
+        "range": "[USD 3.99 ~ USD 7.99]"
       },
       {
         "type": "inAppPurchase",
@@ -9744,7 +9798,7 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 2.99]"
+        "range": "[免費 ~ USD 2.99]"
       }
     ],
     "price": 0.99,
@@ -10788,7 +10842,7 @@
         "name": "Price",
         "from": "USD 2.99",
         "to": "USD 0.99",
-        "range": "[USD 0.99 ~ USD 2.99]"
+        "range": "[免費 ~ USD 2.99]"
       }
     ],
     "price": 0.99,

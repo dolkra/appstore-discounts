@@ -237414,10 +237414,10 @@
     "maxPriceInfo": {
       "price": 9.99,
       "formattedPrice": "₺9,99",
-      "Standard Pack": "₺29,99",
+      "Standard Pack": "₺49,99",
       "Elite Pack": "₺199,99",
-      "Advanced Pack": "₺79,99",
-      "Premium Pack": "₺129,99"
+      "Advanced Pack": "₺129,99",
+      "Premium Pack": "₺149,99"
     },
     "minPriceInfo": {
       "price": 2.99,
@@ -237428,6 +237428,19 @@
       "Premium Pack": "₺34,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790074896267,
+          "price": 4.99,
+          "formattedPrice": "₺4,99",
+          "inAppPurchases": {
+            "Standard Pack": "₺49,99",
+            "Elite Pack": "₺199,99",
+            "Advanced Pack": "₺129,99",
+            "Premium Pack": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789661990052,
@@ -281790,11 +281803,21 @@
       "All Classes Unlocked": "₺499,99"
     },
     "minPriceInfo": {
-      "price": 45,
-      "formattedPrice": "₺45,00",
+      "price": 0,
+      "formattedPrice": "Free",
       "All Classes Unlocked": "₺499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790074896267,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "All Classes Unlocked": "₺499,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789505670372,

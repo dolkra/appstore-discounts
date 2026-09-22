@@ -1,5 +1,52 @@
 [
   {
+    "trackId": 6469419567,
+    "region": "tw",
+    "timestamp": 1790074896267,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "$190.00",
+        "to": "$120.00",
+        "range": "[$120.00 ~ $290.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Pack",
+        "from": "$120.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $150.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6502634839,
+    "region": "tw",
+    "timestamp": 1790074896267,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$30.00",
+        "to": "免費",
+        "range": "[免費 ~ $90.00]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "免費",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6502634839",
+    "trackName": "Dungeon Tracer",
+    "firstRecordedAt": 1776705257529
+  },
+  {
     "trackId": 1499001662,
     "region": "tw",
     "timestamp": 1790034627833,
@@ -265,7 +312,7 @@
         "name": "Elite Pack",
         "from": "$290.00",
         "to": "$190.00",
-        "range": "[$150.00 ~ $290.00]"
+        "range": "[$120.00 ~ $290.00]"
       },
       {
         "type": "inAppPurchase",
@@ -9966,7 +10013,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 30,
@@ -11009,7 +11056,7 @@
         "name": "Price",
         "from": "$90.00",
         "to": "$30.00",
-        "range": "[$30.00 ~ $90.00]"
+        "range": "[免費 ~ $90.00]"
       }
     ],
     "price": 30,
