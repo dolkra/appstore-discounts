@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 6469419567,
+    "region": "hk",
+    "timestamp": 1790094096914,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Pack",
+        "from": "HK$ 48.00",
+        "to": "HK$ 32.00",
+        "range": "[HK$ 32.00 ~ HK$ 58.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Premium Pack",
+        "from": "HK$ 32.00",
+        "to": "HK$ 22.00",
+        "range": "[HK$ 22.00 ~ HK$ 38.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Advanced Pack",
+        "from": "HK$ 22.00",
+        "to": "HK$ 18.00",
+        "range": "[HK$ 18.00 ~ HK$ 22.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "HK$ 8.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6469419567",
+    "trackName": "Overwinter Survival",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6758328352,
+    "region": "hk",
+    "timestamp": 1790094096914,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "HK$ 48.00",
+        "to": "HK$ 42.00",
+        "range": "[HK$ 28.00 ~ HK$ 48.00]"
+      }
+    ],
+    "price": 42,
+    "formattedPrice": "HK$ 42.00",
+    "currency": "HKD",
+    "trackViewUrl": "https://apps.apple.com/hk/app/id6758328352",
+    "trackName": "Scritchy Scratchy",
+    "firstRecordedAt": 1773939846316
+  },
+  {
     "trackId": 6502634839,
     "region": "hk",
     "timestamp": 1790074896267,
@@ -223,7 +277,7 @@
         "name": "Elite Pack",
         "from": "HK$ 58.00",
         "to": "HK$ 48.00",
-        "range": "[HK$ 38.00 ~ HK$ 58.00]"
+        "range": "[HK$ 32.00 ~ HK$ 58.00]"
       },
       {
         "type": "inAppPurchase",

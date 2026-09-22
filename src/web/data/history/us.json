@@ -344854,13 +344854,25 @@
     "region": "us",
     "maxPriceInfo": {
       "price": 0.99,
-      "formattedPrice": "$0.99"
+      "formattedPrice": "$0.99",
+      "Remove Ads": "$1.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Remove Ads": "$1.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790094096914,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove Ads": "$1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784255717106,
@@ -348986,6 +348998,29 @@
           "timestamp": 1789935798032,
           "price": 1.99,
           "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6811795155": {
+    "trackId": 6811795155,
+    "trackName": "Keeps: Asset & Cost Tracker",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790094096914,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
           "inAppPurchases": {}
         }
       ]

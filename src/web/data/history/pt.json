@@ -11047,6 +11047,22 @@
     "history": [
       [
         {
+          "timestamp": 1790094096914,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {
+            "FL Cloud Mobile": "5,99 €",
+            "Ferrous Mobile": "2,99 €",
+            "Hyper-Pop Mobile": "2,99 €",
+            "Chip-Tune Mobile": "2,99 €",
+            "Essential Winds": "1,99 €",
+            "Essential Strings": "1,99 €",
+            "DubTechno": "1,99 €",
+            "Chill-Lo-Fi Mobile": "1,99 €",
+            "Technocraft": "1,99 €"
+          }
+        },
+        {
           "timestamp": 1790047846706,
           "price": 17.99,
           "formattedPrice": "17,99 €",
@@ -134326,6 +134342,16 @@
     "history": [
       [
         {
+          "timestamp": 1790094096914,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "2,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778022068137,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -142355,6 +142381,29 @@
           "timestamp": 1789935798032,
           "price": 1.99,
           "formattedPrice": "1,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6811795155": {
+    "trackId": 6811795155,
+    "trackName": "Keeps",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790094096914,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
           "inAppPurchases": {}
         }
       ]

@@ -280444,6 +280444,16 @@
     "history": [
       [
         {
+          "timestamp": 1790094096914,
+          "price": 169.99,
+          "formattedPrice": "₺169,99",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "₺79,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778022068137,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -284390,13 +284400,25 @@
     "region": "tr",
     "maxPriceInfo": {
       "price": 49.99,
-      "formattedPrice": "₺49,99"
+      "formattedPrice": "₺49,99",
+      "Remove Ads": "₺99,99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Remove Ads": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790094096914,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove Ads": "₺99,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1784255717106,
@@ -288506,6 +288528,29 @@
           "timestamp": 1789935798032,
           "price": 99.99,
           "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6811795155": {
+    "trackId": 6811795155,
+    "trackName": "Keeps: Asset & Cost Tracker",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "minPriceInfo": {
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790094096914,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
           "inAppPurchases": {}
         }
       ]
