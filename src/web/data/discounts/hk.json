@@ -2,8 +2,15 @@
   {
     "trackId": 1499001662,
     "region": "hk",
-    "timestamp": 1790110562758,
+    "timestamp": 1790119857097,
     "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Dimension DLC",
+        "from": "HK$ 58.00",
+        "to": "HK$ 39.00",
+        "range": "[HK$ 39.00 ~ HK$ 58.00]"
+      },
       {
         "type": "inAppPurchase",
         "name": "Evoker Package",
