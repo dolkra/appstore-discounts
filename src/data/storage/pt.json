@@ -99045,6 +99045,21 @@
     "history": [
       [
         {
+          "timestamp": 1790160655952,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "One house gem": "99,99 €",
+            "A mine car gem": "59,99 €",
+            "A large box of gemstones": "22,99 €",
+            "A small box of gemstones": "9,99 €",
+            "A small bag of precious stones": "5,99 €",
+            "a small handful of gem": "0,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788286205846,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -135205,6 +135220,14 @@
     "history": [
       [
         {
+          "timestamp": 1790160655952,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789701814822,
           "price": 4.99,
           "formattedPrice": "4,99 €",
@@ -136762,6 +136785,22 @@
       "珍品匣檔": "3,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790160655952,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
+          "inAppPurchases": {
+            "宗師匣檔": "99,99 €",
+            "問道進階檔": "49,99 €",
+            "定向匣檔": "34,99 €",
+            "輕囊通寶": "2,99 €",
+            "進階材料檔": "17,99 €",
+            "小袋通寶": "0,99 €",
+            "珍品匣檔": "3,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788286205846,
@@ -138632,6 +138671,27 @@
           "timestamp": 1790094096914,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801980968": {
+    "name": "Tower & Mercenaries",
+    "maxPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "minPriceInfo": {
+      "price": 1.99,
+      "formattedPrice": "1,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790160655952,
+          "price": 1.99,
+          "formattedPrice": "1,99 €",
           "inAppPurchases": {}
         }
       ]

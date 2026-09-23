@@ -218802,6 +218802,21 @@
     "history": [
       [
         {
+          "timestamp": 1790160655952,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "One house gem": "₺4.999,99",
+            "A mine car gem": "₺2.499,99",
+            "A large box of gemstones": "₺999,99",
+            "A small box of gemstones": "₺499,99",
+            "A small bag of precious stones": "₺249,99",
+            "a small handful of gem": "₺49,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788286205846,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -286723,6 +286738,22 @@
     "history": [
       [
         {
+          "timestamp": 1790160655952,
+          "price": 79.99,
+          "formattedPrice": "₺79,99",
+          "inAppPurchases": {
+            "宗師匣檔": "₺4.999,99",
+            "問道進階檔": "₺2.499,99",
+            "定向匣檔": "₺1.499,99",
+            "輕囊通寶": "₺149,99",
+            "進階材料檔": "₺799,99",
+            "小袋通寶": "₺49,99",
+            "珍品匣檔": "₺199,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1788286205846,
           "price": 299.99,
           "formattedPrice": "₺299,99",
@@ -288756,6 +288787,29 @@
           "timestamp": 1790094096914,
           "price": 49.99,
           "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801980968": {
+    "trackId": 6801980968,
+    "trackName": "Tower & Mercenaries",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "minPriceInfo": {
+      "price": 99.99,
+      "formattedPrice": "₺99,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790160655952,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
           "inAppPurchases": {}
         }
       ]
