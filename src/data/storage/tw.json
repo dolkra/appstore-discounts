@@ -108083,6 +108083,14 @@
     "history": [
       [
         {
+          "timestamp": 1790179902685,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783693535219,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -124357,6 +124365,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -142756,10 +142772,18 @@
       "formattedPrice": "$150.00"
     },
     "minPriceInfo": {
-      "price": 150,
-      "formattedPrice": "$150.00"
+      "price": 90,
+      "formattedPrice": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1721960142187,
@@ -143334,6 +143358,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -164128,6 +164160,14 @@
     "history": [
       [
         {
+          "timestamp": 1790179902685,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783693535219,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -164451,6 +164491,14 @@
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 55,
+          "formattedPrice": "$55.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787672459010,
@@ -183278,10 +183326,18 @@
       "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782051043626,
@@ -184253,6 +184309,14 @@
       "formattedPrice": "$15.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 55,
+          "formattedPrice": "$55.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1785247512585,
@@ -200208,6 +200272,14 @@
     "history": [
       [
         {
+          "timestamp": 1790179902685,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787838577561,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -206415,6 +206487,14 @@
     "history": [
       [
         {
+          "timestamp": 1790179902685,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1779296234034,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -207087,6 +207167,14 @@
       "formattedPrice": "$120.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -207801,6 +207889,14 @@
       "formattedPrice": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787838577561,
@@ -208579,6 +208675,25 @@
       "Special Daily Pack13": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "All Unit Groups": "$390.00",
+            "All Heroes": "$490.00",
+            "Hero Dragon Kosmos": "$220.00",
+            "Unit Group Jaegers": "$220.00",
+            "Special Daily Pack7": "$60.00",
+            "Special Daily Pack 1": "$150.00",
+            "Starter Pack": "$150.00",
+            "Hero Red Dragon On Sale": "$120.00",
+            "Special Daily Pack13": "$90.00",
+            "Unit Group Rebooted Ascendii": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789875421958,
@@ -229177,7 +229292,7 @@
       "price": 0,
       "formattedPrice": "免費",
       "Yearly": "$320.00",
-      "Monthly": "$30.00"
+      "Monthly": "$60.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -229186,6 +229301,17 @@
       "Monthly": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Monthly": "$60.00",
+            "Yearly": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1725636889563,
@@ -288589,6 +288715,18 @@
       "DLC - Land of the Eclipse": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790179902685,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "DLC - The Tournament": "$60.00",
+            "DLC - The Ember Saga": "$60.00",
+            "DLC - Land of the Eclipse": "$60.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787928940020,
