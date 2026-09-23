@@ -131535,6 +131535,19 @@
     "history": [
       [
         {
+          "timestamp": 1790134270308,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro": "34,99 €",
+            "Lite": "9,99 €",
+            "Pro Max": "99,99 €",
+            "Pro Ultra": "229,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789356898180,
           "price": 0.29,
           "formattedPrice": "0,29 €",
@@ -133440,7 +133453,9 @@
       "ERC Rali Ceredigion 2026": "3,89 €",
       "D1+D2 A&D Omloop van Vlaanderen '26": "3,89 €",
       "Türi rahvaralli 2026": "2,89 €",
-      "WRC Rally Chile Bio Bio 2026": "3,89 €"
+      "WRC Rally Chile Bio Bio 2026": "3,89 €",
+      "ADAC 3 Städte Rallye 2026": "3,99 €",
+      "SM Porvoon Autopalvelu Ralli 2026": "3,89 €"
     },
     "minPriceInfo": {
       "price": 0,
@@ -133476,9 +133491,30 @@
       "ERC Rali Ceredigion 2026": "3,89 €",
       "D1+D2 A&D Omloop van Vlaanderen '26": "3,89 €",
       "Türi rahvaralli 2026": "2,89 €",
-      "WRC Rally Chile Bio Bio 2026": "3,89 €"
+      "WRC Rally Chile Bio Bio 2026": "3,89 €",
+      "ADAC 3 Städte Rallye 2026": "3,99 €",
+      "SM Porvoon Autopalvelu Ralli 2026": "3,89 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790134270308,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "WRC Vodafone Rally de Portugal 2026": "3,89 €",
+            "WRC Central European Rally": "4,69 €",
+            "ADAC 3 Städte Rallye 2026": "3,99 €",
+            "SM Porvoon Autopalvelu Ralli 2026": "3,89 €",
+            "Türi rahvaralli 2026": "2,89 €",
+            "WRC Rally Chile Bio Bio 2026": "3,89 €",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "3,89 €",
+            "ERC Rali Ceredigion 2026": "3,89 €",
+            "WRC Ueno Rally del Paraguay 2026": "3,89 €",
+            "Paide Rally 2026": "3,89 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,

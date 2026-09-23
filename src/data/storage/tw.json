@@ -88073,6 +88073,25 @@
     "history": [
       [
         {
+          "timestamp": 1790134270308,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$120.00",
+            "重逢之音 Phase II": "$150.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節B": "$120.00",
+            "擴充章節 U": "$120.00",
+            "主線第八章": "$300.00",
+            "擴充章節 I": "$120.00",
+            "支線第二章": "$120.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -229246,7 +229265,8 @@
       "斜谷殘陽": "$190.00",
       "月下追魂": "$190.00",
       "地圖存檔": "$60.00",
-      "劇本存檔": "$60.00"
+      "劇本存檔": "$60.00",
+      "五子良將": "$190.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -229277,10 +229297,28 @@
       "斜谷殘陽": "$190.00",
       "月下追魂": "$190.00",
       "地圖存檔": "$60.00",
-      "劇本存檔": "$60.00"
+      "劇本存檔": "$60.00",
+      "五子良將": "$190.00"
     },
     "history": [
       [
+        {
+          "timestamp": 1790134270308,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "自創武將": "$90.00",
+            "戰國七雄": "$190.00",
+            "五子良將": "$190.00",
+            "群雄爭霸": "$90.00",
+            "冠絕天下": "$190.00",
+            "自創武將朝代特色兵種補丁": "$290.00",
+            "自創寶物": "$60.00",
+            "江山美人": "$90.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00",
+            "道法自然": "$90.00"
+          }
+        },
         {
           "timestamp": 1790094096914,
           "price": 190,
@@ -296938,6 +296976,19 @@
     "history": [
       [
         {
+          "timestamp": 1790134270308,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro": "$990.00",
+            "Lite": "$320.00",
+            "Pro Max": "$2,990.00",
+            "Pro Ultra": "$6,990.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789386910265,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -299375,7 +299426,9 @@
       "ERC Rali Ceredigion 2026": "$90.00",
       "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00",
       "Türi rahvaralli 2026": "$90.00",
-      "WRC Rally Chile Bio Bio 2026": "$90.00"
+      "WRC Rally Chile Bio Bio 2026": "$90.00",
+      "ADAC 3 Städte Rallye 2026": "$120.00",
+      "SM Porvoon Autopalvelu Ralli 2026": "$90.00"
     },
     "minPriceInfo": {
       "price": 0,
@@ -299411,9 +299464,30 @@
       "ERC Rali Ceredigion 2026": "$90.00",
       "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00",
       "Türi rahvaralli 2026": "$90.00",
-      "WRC Rally Chile Bio Bio 2026": "$90.00"
+      "WRC Rally Chile Bio Bio 2026": "$90.00",
+      "ADAC 3 Städte Rallye 2026": "$120.00",
+      "SM Porvoon Autopalvelu Ralli 2026": "$90.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790134270308,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ADAC 3 Städte Rallye 2026": "$120.00",
+            "SM Porvoon Autopalvelu Ralli 2026": "$90.00",
+            "Türi rahvaralli 2026": "$90.00",
+            "WRC Rally Chile Bio Bio 2026": "$90.00",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "$90.00",
+            "ERC Rali Ceredigion 2026": "$90.00",
+            "WRC Ueno Rally del Paraguay 2026": "$90.00",
+            "Paide Rally 2026": "$90.00",
+            "ERC Barum Czech Rally Zlin 2026": "$90.00",
+            "SM Ralli Kitee 2026": "$90.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789096391072,
