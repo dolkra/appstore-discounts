@@ -76170,7 +76170,7 @@
     ]
   },
   "1168579372": {
-    "name": "玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具",
+    "name": "玄易-生辰八字排盘六爻占卜奇门遁甲命理工具",
     "maxPriceInfo": {
       "price": 3,
       "formattedPrice": "¥3.00",
@@ -84180,15 +84180,15 @@
     "maxPriceInfo": {
       "price": 15,
       "formattedPrice": "¥15.00",
-      "5 credit pack": "¥8.00",
-      "12 credit pack": "¥15.00",
-      "40 credit pack": "¥38.00",
-      "30 credit pack": "¥28.00",
-      "20 credit pack": "¥22.00"
+      "5 credit pack": "¥22.00",
+      "12 credit pack": "¥38.00",
+      "40 credit pack": "¥88.00",
+      "30 credit pack": "¥68.00",
+      "20 credit pack": "¥58.00"
     },
     "minPriceInfo": {
-      "price": 15,
-      "formattedPrice": "¥15.00",
+      "price": 0,
+      "formattedPrice": "免费",
       "5 credit pack": "¥8.00",
       "12 credit pack": "¥15.00",
       "40 credit pack": "¥38.00",
@@ -84196,6 +84196,20 @@
       "20 credit pack": "¥22.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "5 credit pack": "¥22.00",
+            "12 credit pack": "¥38.00",
+            "40 credit pack": "¥88.00",
+            "30 credit pack": "¥68.00",
+            "20 credit pack": "¥58.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1760941181671,
@@ -225198,10 +225212,18 @@
       "formattedPrice": "¥57.00"
     },
     "minPriceInfo": {
-      "price": 57,
-      "formattedPrice": "¥57.00"
+      "price": 0,
+      "formattedPrice": "免费"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780335522977,

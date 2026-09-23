@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1260967308,
+    "region": "us",
+    "timestamp": 1790197705213,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1260967308",
+    "trackName": "WhatCall",
+    "firstRecordedAt": 1745384546601
+  },
+  {
+    "trackId": 6759642128,
+    "region": "us",
+    "timestamp": 1790197705213,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$12.99",
+        "to": "Free",
+        "range": "[Free ~ $12.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6759642128",
+    "trackName": "ISC2 CGRC Governance & Risk",
+    "firstRecordedAt": 1780335522977
+  },
+  {
     "trackId": 1632719015,
     "region": "us",
     "timestamp": 1790160655952,

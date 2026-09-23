@@ -136737,15 +136737,15 @@
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "$1.99",
-      "5 credit pack": "$0.99",
-      "40 credit pack": "$4.99",
-      "12 credit pack": "$1.99",
-      "20 credit pack": "$2.99",
-      "30 credit pack": "$3.99"
+      "5 credit pack": "$2.99",
+      "40 credit pack": "$12.99",
+      "12 credit pack": "$5.99",
+      "20 credit pack": "$7.99",
+      "30 credit pack": "$9.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "5 credit pack": "$0.99",
       "40 credit pack": "$4.99",
       "12 credit pack": "$1.99",
@@ -136753,6 +136753,20 @@
       "30 credit pack": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 credit pack": "$2.99",
+            "40 credit pack": "$12.99",
+            "12 credit pack": "$5.99",
+            "20 credit pack": "$7.99",
+            "30 credit pack": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745384546601,
@@ -293702,6 +293716,23 @@
     "history": [
       [
         {
+          "timestamp": 1790197705213,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$4.99",
+            "The Aircraft Bundle": "$24.99",
+            "Global scenery - 12 months": "$19.99",
+            "Global scenery - 3 months": "$7.99",
+            "Airbus A380": "$1.99",
+            "Boeing 737 MAX 9": "$1.99",
+            "Boeing 777-300ER": "$1.99",
+            "Boeing 787-10": "$1.99",
+            "Boeing 747-400": "$1.99",
+            "Concorde": "$1.99"
+          }
+        },
+        {
           "timestamp": 1790179902685,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -337960,6 +337991,25 @@
     "history": [
       [
         {
+          "timestamp": 1790197705213,
+          "price": 5.99,
+          "formattedPrice": "$5.99",
+          "inAppPurchases": {
+            "Underworld Expansion Pass": "$5.99",
+            "Neo Behemoth": "$1.99",
+            "Moonveil Skin Set": "$9.99",
+            "Pioneer of the Abyss": "$9.99",
+            "Essence of Transcendence": "$29.99",
+            "Underworld Pass 1": "$2.99",
+            "Memory of Training": "$17.99",
+            "Time Traveler": "$5.99",
+            "Ark of Eternity": "$29.99",
+            "Beginning of the Abyss": "$9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789918283455,
           "price": 5.99,
           "formattedPrice": "$5.99",
@@ -341371,10 +341421,18 @@
       "formattedPrice": "$12.99"
     },
     "minPriceInfo": {
-      "price": 12.99,
-      "formattedPrice": "$12.99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1780335522977,
@@ -345239,6 +345297,52 @@
           "price": 1.99,
           "formattedPrice": "$1.99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6759664029": {
+    "name": "Kingdom Rush 6: Genesis TD",
+    "maxPriceInfo": {
+      "SHOWCASE OFFER 07": "$4.99",
+      "SHOWCASE OFFER 06": "$5.99",
+      "SHOWCASE OFFER 05": "$4.99",
+      "SHOWCASE OFFER 04": "$6.99",
+      "SHOWCASE OFFER 03": "$7.99",
+      "SHOWCASE OFFER 02": "$9.99",
+      "STARTER PACK 1": "$5.99",
+      "ALL SPELLS BUNDLE": "$12.99",
+      "SHOWCASE OFFER 09": "$3.99",
+      "ALL TOWERS BUNDLE_B": "$14.99"
+    },
+    "minPriceInfo": {
+      "SHOWCASE OFFER 07": "$4.99",
+      "SHOWCASE OFFER 06": "$5.99",
+      "SHOWCASE OFFER 05": "$4.99",
+      "SHOWCASE OFFER 04": "$6.99",
+      "SHOWCASE OFFER 03": "$7.99",
+      "SHOWCASE OFFER 02": "$9.99",
+      "STARTER PACK 1": "$5.99",
+      "ALL SPELLS BUNDLE": "$12.99",
+      "SHOWCASE OFFER 09": "$3.99",
+      "ALL TOWERS BUNDLE_B": "$14.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "inAppPurchases": {
+            "SHOWCASE OFFER 07": "$4.99",
+            "SHOWCASE OFFER 06": "$5.99",
+            "SHOWCASE OFFER 05": "$4.99",
+            "SHOWCASE OFFER 04": "$6.99",
+            "SHOWCASE OFFER 03": "$7.99",
+            "SHOWCASE OFFER 02": "$9.99",
+            "STARTER PACK 1": "$5.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "SHOWCASE OFFER 09": "$3.99",
+            "ALL TOWERS BUNDLE_B": "$14.99"
+          }
         }
       ]
     ]

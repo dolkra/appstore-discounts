@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2290` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2291` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2291|6759664029|Automatic|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|Automatic|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
 |2289|6801980968|Automatic|❌|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
 |2288|6811795155|Automatic|Keeps|Keeps|Keeps|Keeps|Keeps: Asset & Cost Tracker|Keeps: Asset & Cost Tracker|Keeps|
@@ -1097,7 +1098,7 @@ So far, we've covered `7` `Countries or Regions` and  `2290` `Apps` <br />Push n
 |1203|6478287619|Automatic|❌|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|Exploding Kittens® 2|
 |1202|1321340307|Automatic|❌|夏日水上樂園物語|夏日水上樂園物語|夏日水上樂園物語|Pool Slide Story|Pool Slide Story|Pool Slide Story|
 |1201|6443694525|Automatic|❌|修仙掌門人|修仙掌門人|修仙掌門人|修仙掌門人|修仙掌門人|修仙掌門人|
-|1200|1168579372|Automatic|玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具|玄易-專業生辰八字排盤四柱子平命理六爻占蔔奇門遁甲占蔔工具|玄易-專業生辰八字排盤四柱子平命理六爻占蔔奇門遁甲占蔔工具|玄易-專業生辰八字排盤四柱子平命理六爻占蔔奇門遁甲占蔔工具|玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具|玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具|玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具|
+|1200|1168579372|Automatic|玄易-生辰八字排盘六爻占卜奇门遁甲命理工具|玄易-專業生辰八字排盤四柱子平命理六爻占蔔奇門遁甲占蔔工具|玄易-專業生辰八字排盤四柱子平命理六爻占蔔奇門遁甲占蔔工具|玄易-專業生辰八字排盤四柱子平命理六爻占蔔奇門遁甲占蔔工具|玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具|玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具|玄易-生辰八字排盘六爻占卜奇门遁甲命理工具|
 |1199|1368013995|Automatic|❌|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|Dicey Dungeons|
 |1198|1203896014|Automatic|❌|Freeways|Freeways|Freeways|Freeways|Freeways|Freeways|
 |1197|6448201153|Automatic|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|WOL — wake on lan|

@@ -125362,13 +125362,13 @@
       "formattedPrice": "₺99,99",
       "5 credit pack": "₺149,99",
       "40 credit pack": "₺699,99",
-      "30 credit pack": "₺199,99",
+      "30 credit pack": "₺499,99",
       "20 credit pack": "₺399,99",
       "12 credit pack": "₺299,99"
     },
     "minPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 0,
+      "formattedPrice": "Free",
       "5 credit pack": "₺39,99",
       "40 credit pack": "₺229,99",
       "30 credit pack": "₺179,99",
@@ -125376,6 +125376,20 @@
       "12 credit pack": "₺99,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5 credit pack": "₺149,99",
+            "40 credit pack": "₺699,99",
+            "30 credit pack": "₺499,99",
+            "20 credit pack": "₺399,99",
+            "12 credit pack": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -239965,6 +239979,25 @@
     "history": [
       [
         {
+          "timestamp": 1790197705213,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "EC135": "₺49,99",
+            "Airbus A380": "₺99,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Airbus A350-1000": "₺199,99",
+            "Airbus A321": "₺99,99",
+            "UH-60": "₺49,99",
+            "Global scenery - 12 months": "₺999,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790179902685,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -284611,6 +284644,52 @@
           "price": 99.99,
           "formattedPrice": "₺99,99",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6759664029": {
+    "name": "Kingdom Rush 6: Genesis TD",
+    "maxPriceInfo": {
+      "SHOWCASE OFFER 07": "₺249,99",
+      "SHOWCASE OFFER 06": "₺299,99",
+      "SHOWCASE OFFER 05": "₺249,99",
+      "SHOWCASE OFFER 04": "₺399,99",
+      "SHOWCASE OFFER 03": "₺399,99",
+      "SHOWCASE OFFER 02": "₺499,99",
+      "STARTER PACK 1": "₺299,99",
+      "ALL SPELLS BUNDLE": "₺699,99",
+      "SHOWCASE OFFER 09": "₺199,99",
+      "ALL TOWERS BUNDLE_B": "₺799,99"
+    },
+    "minPriceInfo": {
+      "SHOWCASE OFFER 07": "₺249,99",
+      "SHOWCASE OFFER 06": "₺299,99",
+      "SHOWCASE OFFER 05": "₺249,99",
+      "SHOWCASE OFFER 04": "₺399,99",
+      "SHOWCASE OFFER 03": "₺399,99",
+      "SHOWCASE OFFER 02": "₺499,99",
+      "STARTER PACK 1": "₺299,99",
+      "ALL SPELLS BUNDLE": "₺699,99",
+      "SHOWCASE OFFER 09": "₺199,99",
+      "ALL TOWERS BUNDLE_B": "₺799,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "inAppPurchases": {
+            "SHOWCASE OFFER 07": "₺249,99",
+            "SHOWCASE OFFER 06": "₺299,99",
+            "SHOWCASE OFFER 05": "₺249,99",
+            "SHOWCASE OFFER 04": "₺399,99",
+            "SHOWCASE OFFER 03": "₺399,99",
+            "SHOWCASE OFFER 02": "₺499,99",
+            "STARTER PACK 1": "₺299,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "SHOWCASE OFFER 09": "₺199,99",
+            "ALL TOWERS BUNDLE_B": "₺799,99"
+          }
         }
       ]
     ]

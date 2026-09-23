@@ -14991,6 +14991,23 @@
     "history": [
       [
         {
+          "timestamp": 1790197705213,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "1,99 €",
+            "Realms Plus:10 Friends w/trial": "7,99 €",
+            "Minecraft Store Item 6": "6,99 €",
+            "Realms Monthly Subscription: You + 2 Friends": "3,99 €",
+            "Minecraft Store Item 4": "3,99 €",
+            "Minecraft Store Item 3": "2,99 €",
+            "Minecraft Store Item 10": "9,99 €",
+            "Minecraft Store Item 5": "5,99 €",
+            "Minecraft Store Item 8": "8,99 €",
+            "Marketplace Pass Trial": "3,99 €"
+          }
+        },
+        {
           "timestamp": 1790179902685,
           "price": 6.99,
           "formattedPrice": "6,99 €",
@@ -55230,7 +55247,7 @@
     ]
   },
   "1168579372": {
-    "name": "玄易-专业生辰八字排盘四柱子平命理六爻占卜奇门遁甲占卜工具",
+    "name": "玄易-生辰八字排盘六爻占卜奇门遁甲命理工具",
     "maxPriceInfo": {
       "price": 0.99,
       "formattedPrice": "0,99 €",
@@ -59120,8 +59137,8 @@
       "5 credit pack": "2,99 €"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 0,
+      "formattedPrice": "Gratuito",
       "40 credit pack": "5,99 €",
       "30 credit pack": "3,99 €",
       "20 credit pack": "2,99 €",
@@ -59130,6 +59147,18 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790197705213,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "40 credit pack": "14,99 €",
+            "30 credit pack": "9,99 €",
+            "20 credit pack": "8,99 €",
+            "12 credit pack": "6,99 €",
+            "5 credit pack": "2,99 €"
+          }
+        },
         {
           "timestamp": 1790179902685,
           "price": 1.99,
@@ -110925,6 +110954,25 @@
     "history": [
       [
         {
+          "timestamp": 1790197705213,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "4,99 €",
+            "Airbus A380": "1,99 €",
+            "Airbus A321 XLR": "3,99 €",
+            "Global scenery - 12 months": "19,99 €",
+            "Boeing 777-300ER": "1,99 €",
+            "Boeing 737-800": "2,99 €",
+            "Boeing 747-400": "1,99 €",
+            "Boeing 787-10": "1,99 €",
+            "Boeing 737 MAX 9": "1,99 €",
+            "Airbus A350-1000": "3,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1789787996372,
           "price": 3.99,
           "formattedPrice": "3,99 €",
@@ -138734,6 +138782,52 @@
           "price": 1.99,
           "formattedPrice": "1,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6759664029": {
+    "name": "Kingdom Rush 6: Genesis TD",
+    "maxPriceInfo": {
+      "VITRINE OFERTA 6": "5,99 €",
+      "VITRINE OFERTA 5": "6,99 €",
+      "VITRINE OFERTA 4": "5,99 €",
+      "VITRINE OFERTA 3": "7,99 €",
+      "VITRINE OFERTA 2": "8,99 €",
+      "VITRINE OFERTA 1": "9,99 €",
+      "PACOTE INICIAL 1": "6,99 €",
+      "PACOTE TODOS OS FEITIÇOS": "14,99 €",
+      "VITRINE OFERTA 8": "3,99 €",
+      "PACOTE TODAS AS TORRES_B": "17,99 €"
+    },
+    "minPriceInfo": {
+      "VITRINE OFERTA 6": "5,99 €",
+      "VITRINE OFERTA 5": "6,99 €",
+      "VITRINE OFERTA 4": "5,99 €",
+      "VITRINE OFERTA 3": "7,99 €",
+      "VITRINE OFERTA 2": "8,99 €",
+      "VITRINE OFERTA 1": "9,99 €",
+      "PACOTE INICIAL 1": "6,99 €",
+      "PACOTE TODOS OS FEITIÇOS": "14,99 €",
+      "VITRINE OFERTA 8": "3,99 €",
+      "PACOTE TODAS AS TORRES_B": "17,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790197705213,
+          "inAppPurchases": {
+            "VITRINE OFERTA 6": "5,99 €",
+            "VITRINE OFERTA 5": "6,99 €",
+            "VITRINE OFERTA 4": "5,99 €",
+            "VITRINE OFERTA 3": "7,99 €",
+            "VITRINE OFERTA 2": "8,99 €",
+            "VITRINE OFERTA 1": "9,99 €",
+            "PACOTE INICIAL 1": "6,99 €",
+            "PACOTE TODOS OS FEITIÇOS": "14,99 €",
+            "VITRINE OFERTA 8": "3,99 €",
+            "PACOTE TODAS AS TORRES_B": "17,99 €"
+          }
         }
       ]
     ]
