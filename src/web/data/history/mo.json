@@ -203523,7 +203523,9 @@
       "Türi rahvaralli 2026": "USD 2.99",
       "WRC Rally Chile Bio Bio 2026": "USD 2.99",
       "ADAC 3 Städte Rallye 2026": "USD 3.99",
-      "SM Porvoon Autopalvelu Ralli 2026": "USD 2.99"
+      "SM Porvoon Autopalvelu Ralli 2026": "USD 2.99",
+      "Saaremaa Ralli 2026": "USD 2.99",
+      "D1 East Belgian Rally 2026": "USD 2.99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -203567,9 +203569,30 @@
       "Türi rahvaralli 2026": "USD 2.99",
       "WRC Rally Chile Bio Bio 2026": "USD 2.99",
       "ADAC 3 Städte Rallye 2026": "USD 3.99",
-      "SM Porvoon Autopalvelu Ralli 2026": "USD 2.99"
+      "SM Porvoon Autopalvelu Ralli 2026": "USD 2.99",
+      "Saaremaa Ralli 2026": "USD 2.99",
+      "D1 East Belgian Rally 2026": "USD 2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "ADAC 3 Städte Rallye 2026": "USD 3.99",
+            "Saaremaa Ralli 2026": "USD 2.99",
+            "SM Porvoon Autopalvelu Ralli 2026": "USD 2.99",
+            "D1 East Belgian Rally 2026": "USD 2.99",
+            "Türi rahvaralli 2026": "USD 2.99",
+            "WRC Rally Chile Bio Bio 2026": "USD 2.99",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "USD 2.99",
+            "ERC Rali Ceredigion 2026": "USD 2.99",
+            "WRC Ueno Rally del Paraguay 2026": "USD 2.99",
+            "Paide Rally 2026": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790134270308,
@@ -208998,7 +209021,7 @@
   },
   "6801980968": {
     "trackId": 6801980968,
-    "trackName": "Tower & Mercenaries",
+    "trackName": "塔與傭兵團",
     "region": "mo",
     "maxPriceInfo": {
       "price": 1.99,

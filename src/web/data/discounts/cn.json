@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6749369705,
+    "region": "cn",
+    "timestamp": 1790220081058,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "DLC-家具合集包",
+        "from": "¥10.00",
+        "to": "¥6.00",
+        "range": "[¥6.00 ~ ¥10.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "《沙石镇时光》DLC-家具硬装包",
+        "from": "¥5.00",
+        "to": "¥3.00",
+        "range": "[¥3.00 ~ ¥5.00]"
+      }
+    ],
+    "price": 26,
+    "formattedPrice": "¥26.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6749369705",
+    "trackName": "沙石镇时光",
+    "firstRecordedAt": 1770345791146
+  },
+  {
     "trackId": 1260967308,
     "region": "cn",
     "timestamp": 1790197705213,

@@ -9,7 +9,7 @@
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |2291|6759664029|自动|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|自动|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
-|2289|6801980968|自动|❌|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
+|2289|6801980968|自动|❌|塔與傭兵團|塔與傭兵團|塔與傭兵團|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
 |2288|6811795155|自动|Keeps|Keeps|Keeps|Keeps|Keeps: Asset & Cost Tracker|Keeps: Asset & Cost Tracker|Keeps|
 |2287|6786557574|自动|油耗管家-加油记录省油统计车辆里程费用记账工具专用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|油耗管家-加油記錄省油統計車輛里程費用記帳工具專用版|Fuel MPG Mileage Tracker Log|MPG Petrol Mileage Tracker Log|Combustível Consumo Abaste Log|
 |2286|1660373266|自动|Habanos 雪茄验证器|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|Habanos Cigar Authenticator|

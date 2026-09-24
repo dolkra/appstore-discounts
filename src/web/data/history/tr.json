@@ -112291,6 +112291,14 @@
     "history": [
       [
         {
+          "timestamp": 1790220081058,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783737335419,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -128484,6 +128492,14 @@
     "history": [
       [
         {
+          "timestamp": 1790220081058,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787876097640,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -141858,10 +141874,18 @@
       "formattedPrice": "₺249,99"
     },
     "minPriceInfo": {
-      "price": 199.99,
-      "formattedPrice": "₺199,99"
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -142451,6 +142475,14 @@
       "formattedPrice": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787876097640,
@@ -146325,6 +146357,14 @@
       "formattedPrice": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1781736329315,
@@ -154033,6 +154073,14 @@
     "history": [
       [
         {
+          "timestamp": 1790220081058,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1783737335419,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -154326,6 +154374,14 @@
       "formattedPrice": "₺5,00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1787706883067,
@@ -184158,10 +184214,18 @@
       "formattedPrice": "₺99,99"
     },
     "minPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 0,
+      "formattedPrice": "Free"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782080091315,
@@ -185204,6 +185268,14 @@
     "history": [
       [
         {
+          "timestamp": 1790220081058,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1785276257263,
           "price": 169.99,
           "formattedPrice": "₺169,99",
@@ -185542,14 +185614,22 @@
     "trackName": "Mesih",
     "region": "tr",
     "maxPriceInfo": {
-      "price": 19.99,
-      "formattedPrice": "₺19,99"
+      "price": 29.99,
+      "formattedPrice": "₺29,99"
     },
     "minPriceInfo": {
       "price": 4.99,
       "formattedPrice": "₺4,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 29.99,
+          "formattedPrice": "₺29,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1762519983391,
@@ -205565,6 +205645,14 @@
     "history": [
       [
         {
+          "timestamp": 1790220081058,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787876097640,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -213856,6 +213944,14 @@
     "history": [
       [
         {
+          "timestamp": 1790220081058,
+          "price": 99.99,
+          "formattedPrice": "₺99,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1787876097640,
           "price": 149.99,
           "formattedPrice": "₺149,99",
@@ -214705,6 +214801,24 @@
       "Hero Zhara": "₺249,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {
+            "Special Daily Pack7": "₺99,99",
+            "Hero Dragon Kosmos": "₺399,99",
+            "All Unit Groups": "₺699,99",
+            "Hero Red Dragon On Sale": "₺199,99",
+            "All Heroes": "₺799,99",
+            "Unit Group Rebooted Ascendii": "₺149,99",
+            "Unit Group Jaegers": "₺399,99",
+            "Hero Dragon Kosmos On Sale": "₺249,99",
+            "Hero Red Dragon": "₺299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790134270308,
@@ -225415,8 +225529,8 @@
     "maxPriceInfo": {
       "price": 0,
       "formattedPrice": "Free",
-      "Monthly": "₺39,99",
-      "Yearly": "₺399,99"
+      "Monthly": "₺99,99",
+      "Yearly": "₺699,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -225425,6 +225539,17 @@
       "Yearly": "₺399,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Monthly": "₺99,99",
+            "Yearly": "₺699,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1730693617795,
@@ -271903,6 +272028,18 @@
     "history": [
       [
         {
+          "timestamp": 1790220081058,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "DLC - The Tournament": "₺99,99",
+            "DLC - The Ember Saga": "₺99,99",
+            "DLC - Land of the Eclipse": "₺99,99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1787961173466,
           "price": 249.99,
           "formattedPrice": "₺249,99",
@@ -283354,7 +283491,9 @@
       "Türi rahvaralli 2026": "₺149,99",
       "WRC Rally Chile Bio Bio 2026": "₺149,99",
       "ADAC 3 Städte Rallye 2026": "₺199,99",
-      "SM Porvoon Autopalvelu Ralli 2026": "₺149,99"
+      "SM Porvoon Autopalvelu Ralli 2026": "₺149,99",
+      "Saaremaa Ralli 2026": "₺149,99",
+      "D1 East Belgian Rally 2026": "₺149,99"
     },
     "minPriceInfo": {
       "price": 0,
@@ -283392,9 +283531,30 @@
       "Türi rahvaralli 2026": "₺149,99",
       "WRC Rally Chile Bio Bio 2026": "₺149,99",
       "ADAC 3 Städte Rallye 2026": "₺199,99",
-      "SM Porvoon Autopalvelu Ralli 2026": "₺149,99"
+      "SM Porvoon Autopalvelu Ralli 2026": "₺149,99",
+      "Saaremaa Ralli 2026": "₺149,99",
+      "D1 East Belgian Rally 2026": "₺149,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790220081058,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "ADAC 3 Städte Rallye 2026": "₺199,99",
+            "Saaremaa Ralli 2026": "₺149,99",
+            "SM Porvoon Autopalvelu Ralli 2026": "₺149,99",
+            "D1 East Belgian Rally 2026": "₺149,99",
+            "Türi rahvaralli 2026": "₺149,99",
+            "WRC Rally Chile Bio Bio 2026": "₺149,99",
+            "D1+D2 A&D Omloop van Vlaanderen '26": "₺149,99",
+            "ERC Rali Ceredigion 2026": "₺149,99",
+            "WRC Ueno Rally del Paraguay 2026": "₺149,99",
+            "Paide Rally 2026": "₺149,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790134270308,
@@ -288936,6 +289096,23 @@
     },
     "history": [
       [
+        {
+          "timestamp": 1790220081058,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "SHOWCASE OFFER 07": "₺249,99",
+            "SHOWCASE OFFER 06": "₺299,99",
+            "SHOWCASE OFFER 05": "₺249,99",
+            "SHOWCASE OFFER 04": "₺399,99",
+            "SHOWCASE OFFER 03": "₺399,99",
+            "SHOWCASE OFFER 02": "₺499,99",
+            "STARTER PACK 1": "₺299,99",
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "SHOWCASE OFFER 09": "₺199,99",
+            "ALL TOWERS BUNDLE_B": "₺799,99"
+          }
+        },
         {
           "timestamp": 1790197705213,
           "inAppPurchases": {
