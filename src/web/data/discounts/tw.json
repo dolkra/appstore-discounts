@@ -1,5 +1,59 @@
 [
   {
+    "trackId": 1580067723,
+    "region": "tw",
+    "timestamp": 1790267673376,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$90.00",
+        "to": "$30.00",
+        "range": "[$10.00 ~ $90.00]"
+      }
+    ],
+    "price": 30,
+    "formattedPrice": "$30.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id1580067723",
+    "trackName": "Wall of insanity",
+    "firstRecordedAt": 1745614934030
+  },
+  {
+    "trackId": 6742472194,
+    "region": "tw",
+    "timestamp": 1790267673376,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$220.00",
+        "to": "$190.00",
+        "range": "[$190.00 ~ $220.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "五朵金花",
+        "from": "$120.00",
+        "to": "$90.00",
+        "range": "[$90.00 ~ $120.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "不歸玄境",
+        "from": "$90.00",
+        "to": "$70.00",
+        "range": "[$70.00 ~ $90.00]"
+      }
+    ],
+    "price": 190,
+    "formattedPrice": "$190.00",
+    "currency": "TWD",
+    "trackViewUrl": "https://apps.apple.com/tw/app/id6742472194",
+    "trackName": "鬼谷八荒 Tale of Immortal",
+    "firstRecordedAt": 1752517177782
+  },
+  {
     "trackId": 1620202676,
     "region": "tw",
     "timestamp": 1790248252162,
