@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2292` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2293` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2293|6801866888|Automatic|啥时候做的|上次是什麼時候|上次是什麼時候|上次是什麼時候|When'd I|When'd I|Quando foi? - O último dia|
 |2292|6787350789|Automatic|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|DRAGON BaZi Chart|DRAGON BaZi Chart|龍躍八字 - 八字排盤命理工具|
 |2291|6759664029|Automatic|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|Automatic|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
@@ -1313,7 +1314,7 @@ So far, we've covered `7` `Countries or Regions` and  `2292` `Apps` <br />Push n
 |989|6473332700|Automatic|逐鹿 - 历史沙盘战棋|❌|❌|❌|❌|❌|❌|
 |988|6742526717|Automatic|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|WatchTube for YouTube|
 |987|6478398981|Automatic|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|直播 - IPTV Smart Pro|IPTV Smart Pro - Live TV|IPTV Smart Pro - 4K Live TV|IPTV Smart Pro - TV AO VIVO|
-|986|528181527|Automatic|TripREC行程记录仪|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Dash Cam|TripREC Dash Cam|TripREC Dashcam|
+|986|528181527|Automatic|TripREC行车记录仪|行車記錄儀「TripREC」|行車記錄儀「TripREC」|行車記錄儀「TripREC」|TripREC Dash Cam|TripREC Dash Cam|TripREC Dashcam|
 |985|545625741|Automatic|❌|數學之王：學校版|數學之王：學校版|數學之王：學校版|King of Math: School Ed|King of Maths: School Ed|Rei da Matemática: Escolar|
 |984|592398757|Automatic|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|Grooves: Song Speed Changer|
 |983|669835030|Automatic|WinZip完整版: 压缩/解压|WinZip完整版|WinZip完整版|WinZip完整版|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|WinZip Pro: zip, unzip & rar|

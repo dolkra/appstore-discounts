@@ -284969,7 +284969,8 @@
       "STARTER PACK 1": "₺299,99",
       "ALL SPELLS BUNDLE": "₺699,99",
       "SHOWCASE OFFER 09": "₺199,99",
-      "ALL TOWERS BUNDLE_B": "₺799,99"
+      "ALL TOWERS BUNDLE_B": "₺799,99",
+      "ALL TOWERS BUNDLE": "₺999,99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "₺249,99",
@@ -284981,9 +284982,29 @@
       "STARTER PACK 1": "₺299,99",
       "ALL SPELLS BUNDLE": "₺699,99",
       "SHOWCASE OFFER 09": "₺199,99",
-      "ALL TOWERS BUNDLE_B": "₺799,99"
+      "ALL TOWERS BUNDLE_B": "₺799,99",
+      "ALL TOWERS BUNDLE": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790284283691,
+          "price": 399.99,
+          "formattedPrice": "₺399,99",
+          "inAppPurchases": {
+            "ALL SPELLS BUNDLE": "₺699,99",
+            "ALL TOWERS BUNDLE": "₺999,99",
+            "SHOWCASE OFFER 07": "₺249,99",
+            "SHOWCASE OFFER 06": "₺299,99",
+            "SHOWCASE OFFER 05": "₺249,99",
+            "SHOWCASE OFFER 04": "₺399,99",
+            "SHOWCASE OFFER 03": "₺399,99",
+            "SHOWCASE OFFER 02": "₺499,99",
+            "STARTER PACK 1": "₺299,99",
+            "SHOWCASE OFFER 09": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790220081058,
@@ -285036,6 +285057,27 @@
           "timestamp": 1790248252162,
           "price": 999.99,
           "formattedPrice": "₺999,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801866888": {
+    "name": "When'd I",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790284283691,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]

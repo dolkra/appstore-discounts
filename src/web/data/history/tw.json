@@ -98363,14 +98363,22 @@
     "trackName": "超級單字王Pro",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 190,
-      "formattedPrice": "$190.00"
+      "price": 290,
+      "formattedPrice": "$290.00"
     },
     "minPriceInfo": {
       "price": 190,
       "formattedPrice": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790284283691,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745517753203,
@@ -309592,6 +309600,29 @@
           "timestamp": 1790248252162,
           "price": 690,
           "formattedPrice": "$690.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801866888": {
+    "trackId": 6801866888,
+    "trackName": "上次是什麼時候",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790284283691,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

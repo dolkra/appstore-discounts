@@ -109320,14 +109320,22 @@
   "1078553162": {
     "name": "超級單字王Pro",
     "maxPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "$5.99"
+      "price": 8.99,
+      "formattedPrice": "$8.99"
     },
     "minPriceInfo": {
       "price": 5.99,
       "formattedPrice": "$5.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790284283691,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1745517753203,
@@ -212231,6 +212239,25 @@
       "Innocent Memory(Ginger)": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790284283691,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Extra Drippy": "$0.99",
+            "Futurewave": "$0.99",
+            "Sandrock Deputy": "$0.99",
+            "Comfy Jamjams": "$0.99",
+            "Wandering Heart": "$0.99",
+            "Carefree Gesture": "$0.99",
+            "Stripy Neatness": "$0.99",
+            "Innocent Memory": "$0.99",
+            "Blue Elegance": "$0.99",
+            "Country Passion": "$0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790074896267,
@@ -345842,6 +345869,27 @@
           "timestamp": 1790248252162,
           "price": 19.99,
           "formattedPrice": "$19.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6801866888": {
+    "name": "When'd I",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "$2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790284283691,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
           "inAppPurchases": {}
         }
       ]
