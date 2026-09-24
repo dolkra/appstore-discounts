@@ -1,5 +1,39 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "pt",
+    "timestamp": 1790248252162,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Dimension DLC",
+        "from": "7,99 €",
+        "to": "3,99 €",
+        "range": "[3,99 € ~ 7,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Elite Offer",
+        "from": "9,99 €",
+        "to": "4,99 €",
+        "range": "[4,99 € ~ 9,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Crystal Offer",
+        "from": "22,99 €",
+        "to": "10,99 €",
+        "range": "[10,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 4.99,
+    "formattedPrice": "4,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1499001662",
+    "trackName": "EvoCreo 2: Jogo de Monstro RPG",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1159700098,
     "region": "pt",
     "timestamp": 1790220081058,

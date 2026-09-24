@@ -1,12 +1,13 @@
 
 # Focus
-So far, we've covered `7` `Countries or Regions` and  `2291` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
+So far, we've covered `7` `Countries or Regions` and  `2292` `Apps` <br />Push notifications will only be sent when there are discounts for the listed  `Country or Region`  and  `App`  below. If your  `Country or Region`  or favorite  `App`  is not on the list, feel free to add it<br />
 > Special Note:  `❌`  in the table below indicates that the app does not exist in the current  `Country or Region` 's  `App Store` <br/>
 >         If certain apps in the list frequently offer discounts to attract you to install and use them, and you successfully get attracted to install and use them, but end up uninstalling the app due to poor user experience. For such cases, feedback is welcome via  `Issue` . If an app receives more than  `10`  complaints, its discount information push notifications are likely to be banned<br/>
 >         The app currently marked by  ~~Strikethrough~~  indicates that it has been banned from push notifications<br/>
 
 |No.|App ID|Add Method|Mainland China（cn）|Hong Kong, China（hk）|Macao, China（mo）|Taiwan, China（tw）|United States（us）|Türkiye（tr）|Portugal（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2292|6787350789|Automatic|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|DRAGON BaZi Chart|DRAGON BaZi Chart|龍躍八字 - 八字排盤命理工具|
 |2291|6759664029|Automatic|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|Automatic|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
 |2289|6801980968|Automatic|❌|塔與傭兵團|塔與傭兵團|塔與傭兵團|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
@@ -1068,7 +1069,7 @@ So far, we've covered `7` `Countries or Regions` and  `2291` `Apps` <br />Push n
 |1233|1435456830|Automatic|❌|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|
 |1232|459139659|Automatic|❌|International Snooker Career|International Snooker Career|International Snooker Career|International Snooker Career|International Snooker Career|International Snooker Career|
 |1231|407781177|Automatic|❌|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|
-|1230|6748287593|Automatic|问题盒子|Bother Bin|Bother Bin|Bother Bin|Bother Bin|Bother Bin|Bother Bin|
+|1230|6748287593|Automatic|问题盒子-清空大脑，告别内耗|問題盒子 - 清空大腦，告別內耗|問題盒子 - 清空大腦，告別內耗|問題盒子 - 清空大腦，告別內耗|Bother Bin: Stop Overthinking|Bother Bin: Stop Overthinking|Bother Bin: Stop Overthinking|
 |1229|1573652748|Automatic|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|
 |1228|6746825550|Automatic|SnapCameraPro - 全新好用的相机|❌|❌|❌|❌|❌|❌|
 |1227|612392704|Automatic|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|

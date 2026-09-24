@@ -1,12 +1,13 @@
 
 # 关注焦点
-当前已收录 `7` 个 `国家或地区` 和 `2291` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
+当前已收录 `7` 个 `国家或地区` 和 `2292` 个 `应用` <br />只有下面罗列出的 `国家或地区` 的 `应用` 有折扣信息时，才会有推送，如果你所在 `国家或地区` 或喜欢的 `应用` 不在列表中，欢迎补充<br />
 > 特别说明：下表中 `❌` 表示在当前 `国家或地区` 的 `App Store` 不存在该应用<br/>
 >         如果列表中的某些应用频繁的在打折，吸引你安装使用，你也成功被吸引安装使用了，但最终使用体验却很差卸载了应用。对于类似情况欢迎反馈到 `Issue` ，同一个应用反馈的次数超过 `10` 次，该应用的折扣信息推送极有可能会被禁止<br/>
 >         目前被 ~~删除线~~ 标记的应用表示已被禁止推送通知<br/>
 
 |序号|App ID|添加方式|中国大陆（cn）|中国香港（hk）|中国澳门（mo）|中国台湾（tw）|美国（us）|土耳其（tr）|葡萄牙（pt）|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
+|2292|6787350789|自动|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|龍躍八字 - 八字排盤命理工具|DRAGON BaZi Chart|DRAGON BaZi Chart|龍躍八字 - 八字排盤命理工具|
 |2291|6759664029|自动|❌|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|Kingdom Rush 6: Genesis TD|
 |2290|6775828757|自动|新世界：暗影成双|❌|❌|❌|❌|❌|❌|
 |2289|6801980968|自动|❌|塔與傭兵團|塔與傭兵團|塔與傭兵團|Tower & Mercenaries|Tower & Mercenaries|Tower & Mercenaries|
@@ -1068,7 +1069,7 @@
 |1233|1435456830|自动|❌|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|Castlevania: SotN|
 |1232|459139659|自动|❌|International Snooker Career|International Snooker Career|International Snooker Career|International Snooker Career|International Snooker Career|International Snooker Career|
 |1231|407781177|自动|❌|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|123 Games Playground for Kids|
-|1230|6748287593|自动|问题盒子|Bother Bin|Bother Bin|Bother Bin|Bother Bin|Bother Bin|Bother Bin|
+|1230|6748287593|自动|问题盒子-清空大脑，告别内耗|問題盒子 - 清空大腦，告別內耗|問題盒子 - 清空大腦，告別內耗|問題盒子 - 清空大腦，告別內耗|Bother Bin: Stop Overthinking|Bother Bin: Stop Overthinking|Bother Bin: Stop Overthinking|
 |1229|1573652748|自动|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|shiftscreen 4X|
 |1228|6746825550|自动|SnapCameraPro - 全新好用的相机|❌|❌|❌|❌|❌|❌|
 |1227|612392704|自动|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|VerbForms Português|
