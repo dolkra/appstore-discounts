@@ -2,7 +2,7 @@
   {
     "trackId": 6473332700,
     "region": "cn",
-    "timestamp": 1790267673376,
+    "timestamp": 1790334927745,
     "discounts": [
       {
         "type": "inAppPurchase",
@@ -31,6 +31,13 @@
         "from": "¥36.00",
         "to": "¥28.00",
         "range": "[¥14.00 ~ ¥36.00]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "冠绝天下",
+        "from": "¥36.00",
+        "to": "¥28.00",
+        "range": "[¥14.00 ~ ¥36.00]"
       }
     ],
     "price": 35,
@@ -39,6 +46,26 @@
     "trackViewUrl": "https://apps.apple.com/cn/app/id6473332700",
     "trackName": "逐鹿 - 历史沙盘战棋",
     "firstRecordedAt": 1745665323137
+  },
+  {
+    "trackId": 6757729278,
+    "region": "cn",
+    "timestamp": 1790334927745,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥16.00",
+        "to": "¥12.00",
+        "range": "[¥12.00 ~ ¥16.00]"
+      }
+    ],
+    "price": 12,
+    "formattedPrice": "¥12.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6757729278",
+    "trackName": "劫后公司",
+    "firstRecordedAt": 1784189532599
   },
   {
     "trackId": 6749369705,

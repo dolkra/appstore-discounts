@@ -57626,6 +57626,52 @@
       ]
     ]
   },
+  "1245988397": {
+    "name": "PUZZLE BOBBLE JOURNEY",
+    "maxPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Map4": "0,99 €",
+      "Map11": "0,99 €",
+      "Map10": "0,99 €",
+      "Map9": "0,99 €",
+      "Map8": "0,99 €",
+      "Map7": "0,99 €",
+      "Map6": "0,99 €",
+      "Map5": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 5.99,
+      "formattedPrice": "5,99 €",
+      "Map4": "0,99 €",
+      "Map11": "0,99 €",
+      "Map10": "0,99 €",
+      "Map9": "0,99 €",
+      "Map8": "0,99 €",
+      "Map7": "0,99 €",
+      "Map6": "0,99 €",
+      "Map5": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790334927745,
+          "price": 5.99,
+          "formattedPrice": "5,99 €",
+          "inAppPurchases": {
+            "Map4": "0,99 €",
+            "Map11": "0,99 €",
+            "Map10": "0,99 €",
+            "Map9": "0,99 €",
+            "Map8": "0,99 €",
+            "Map7": "0,99 €",
+            "Map6": "0,99 €",
+            "Map5": "0,99 €"
+          }
+        }
+      ]
+    ]
+  },
   "1247294026": {
     "name": "Flying Beat Instrutor de Ritmo",
     "maxPriceInfo": {
@@ -131949,6 +131995,19 @@
     "history": [
       [
         {
+          "timestamp": 1790334927745,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Pro": "34,99 €",
+            "Lite": "9,99 €",
+            "Pro Max": "99,99 €",
+            "Pro Ultra": "229,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790134270308,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -139242,6 +139301,58 @@
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6812603412": {
+    "name": "The Long Graze",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790334927745,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6753594612": {
+    "name": "PTE Practice | Test | Ace",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "1-month membership": "14,99 €",
+      "12-month membership": "79,99 €",
+      "3-month membership": "29,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €",
+      "1-month membership": "14,99 €",
+      "12-month membership": "79,99 €",
+      "3-month membership": "29,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790334927745,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {
+            "1-month membership": "14,99 €",
+            "12-month membership": "79,99 €",
+            "3-month membership": "29,99 €"
+          }
         }
       ]
     ]

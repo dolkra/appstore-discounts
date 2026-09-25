@@ -1,5 +1,53 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "tr",
+    "timestamp": 1790334927745,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Spray kit",
+        "from": "₺199,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺199,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Ascensio Kit",
+        "from": "₺249,99",
+        "to": "₺80,99",
+        "range": "[₺80,99 ~ ₺249,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Zenith Islands DLC Sale",
+        "from": "₺149,99",
+        "to": "₺47,99",
+        "range": "[₺47,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Prime Dimension DLC Sale",
+        "from": "₺149,99",
+        "to": "₺47,99",
+        "range": "[₺47,99 ~ ₺149,99]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Crystal Offer Sale",
+        "from": "₺499,99",
+        "to": "₺159,99",
+        "range": "[₺159,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
+    "trackName": "EvoCreo2 Catch & Tame Monsters",
+    "firstRecordedAt": 1759940107332
+  },
+  {
     "trackId": 1580067723,
     "region": "tr",
     "timestamp": 1790307530124,
