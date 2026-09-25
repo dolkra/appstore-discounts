@@ -1,5 +1,32 @@
 [
   {
+    "trackId": 6742472194,
+    "region": "pt",
+    "timestamp": 1790307530124,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Five Blooms",
+        "from": "3,99 €",
+        "to": "2,99 €",
+        "range": "[2,99 € ~ 3,99 €]"
+      },
+      {
+        "type": "inAppPurchase",
+        "name": "Ground of No Return",
+        "from": "2,99 €",
+        "to": "1,99 €",
+        "range": "[1,99 € ~ 2,99 €]"
+      }
+    ],
+    "price": 7.99,
+    "formattedPrice": "7,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6742472194",
+    "trackName": "鬼谷八荒 Tale of Immortal",
+    "firstRecordedAt": 1761797674362
+  },
+  {
     "trackId": 1499001662,
     "region": "pt",
     "timestamp": 1790248252162,
