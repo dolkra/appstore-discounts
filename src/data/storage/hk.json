@@ -245679,16 +245679,31 @@
       "formattedPrice": "HK$ 148.00",
       "Blue Morpho Plan": "HK$ 228.00",
       "Birdwing Plan": "HK$ 148.00",
-      "Monarch Plan": "HK$ 38.00"
+      "Monarch Plan": "HK$ 38.00",
+      "Monarch (Yearly)": "HK$ 388.00"
     },
     "minPriceInfo": {
       "price": 148,
       "formattedPrice": "HK$ 148.00",
       "Blue Morpho Plan": "HK$ 228.00",
       "Birdwing Plan": "HK$ 148.00",
-      "Monarch Plan": "HK$ 38.00"
+      "Monarch Plan": "HK$ 38.00",
+      "Monarch (Yearly)": "HK$ 388.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790370494872,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Monarch (Yearly)": "HK$ 388.00",
+            "Blue Morpho Plan": "HK$ 228.00",
+            "Birdwing Plan": "HK$ 148.00",
+            "Monarch Plan": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1765824087672,

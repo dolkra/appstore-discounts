@@ -234109,16 +234109,31 @@
       "formattedPrice": "₺999,99",
       "Blue Morpho Plan": "₺999,99",
       "Birdwing Plan": "₺799,99",
-      "Monarch Plan": "₺199,99"
+      "Monarch Plan": "₺199,99",
+      "Monarch (Yearly)": "₺2.499,99"
     },
     "minPriceInfo": {
       "price": 899.99,
       "formattedPrice": "₺899,99",
       "Blue Morpho Plan": "₺999,99",
       "Birdwing Plan": "₺799,99",
-      "Monarch Plan": "₺199,99"
+      "Monarch Plan": "₺199,99",
+      "Monarch (Yearly)": "₺2.499,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790370494872,
+          "price": 999.99,
+          "formattedPrice": "₺999,99",
+          "inAppPurchases": {
+            "Monarch (Yearly)": "₺2.499,99",
+            "Blue Morpho Plan": "₺999,99",
+            "Birdwing Plan": "₺799,99",
+            "Monarch Plan": "₺199,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1763345024209,
@@ -285365,7 +285380,7 @@
   },
   "6759642128": {
     "trackId": 6759642128,
-    "trackName": "ISC2 CGRC Governance & Risk",
+    "trackName": "CGRC Governance Risk & Comply",
     "region": "tr",
     "maxPriceInfo": {
       "price": 43.99,
