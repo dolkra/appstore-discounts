@@ -2,8 +2,15 @@
   {
     "trackId": 1499001662,
     "region": "tr",
-    "timestamp": 1790334927745,
+    "timestamp": 1790354327877,
     "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Tamer Kit",
+        "from": "₺29,99",
+        "to": "₺15,99",
+        "range": "[₺15,99 ~ ₺29,99]"
+      },
       {
         "type": "inAppPurchase",
         "name": "Spray kit",
@@ -46,6 +53,26 @@
     "trackViewUrl": "https://apps.apple.com/tr/app/id1499001662",
     "trackName": "EvoCreo2 Catch & Tame Monsters",
     "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 6808669044,
+    "region": "tr",
+    "timestamp": 1790354327877,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺9,99",
+        "to": "₺2,99",
+        "range": "[₺2,99 ~ ₺9,99]"
+      }
+    ],
+    "price": 2.99,
+    "formattedPrice": "₺2,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6808669044",
+    "trackName": "Oto Ekspertiz Simülatör",
+    "firstRecordedAt": 1789421572923
   },
   {
     "trackId": 1580067723,
