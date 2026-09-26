@@ -271,7 +271,7 @@
 |2035|6772182116|自动|❌|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|
 |2034|6760776478|自动|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|
 |2033|6745230519|自动|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
-|2032|6759642128|自动|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|
+|2032|6759642128|自动|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|
 |2031|6762921522|自动|计分器-多人对局|計分器-多人對局|計分器-多人對局|計分器-多人對局|Game Scorer Round Tracker|Game Scorer Round Tracker|计分器-多人对局|
 |2030|6751319443|自动|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|
 |2029|1509500916|自动|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|

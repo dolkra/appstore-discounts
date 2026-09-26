@@ -1,5 +1,25 @@
 [
   {
+    "trackId": 6466296603,
+    "region": "us",
+    "timestamp": 1790394273599,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$3.99",
+        "to": "$0.99",
+        "range": "[$0.99 ~ $3.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6466296603",
+    "trackName": "The Last Game",
+    "firstRecordedAt": 1745578938597
+  },
+  {
     "trackId": 1580067723,
     "region": "us",
     "timestamp": 1790307530124,
@@ -350,7 +370,7 @@
     "formattedPrice": "Free",
     "currency": "USD",
     "trackViewUrl": "https://apps.apple.com/us/app/id6759642128",
-    "trackName": "ISC2 CGRC Governance & Risk",
+    "trackName": "CGRC Governance Risk & Comply",
     "firstRecordedAt": 1780335522977
   },
   {

@@ -271,7 +271,7 @@ So far, we've covered `7` `Countries or Regions` and  `2296` `Apps` <br />Push n
 |2035|6772182116|Automatic|❌|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|Food Marshal|
 |2034|6760776478|Automatic|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|CW Runner QT|
 |2033|6745230519|Automatic|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|Windguru Spots: Wind Forecasts|
-|2032|6759642128|Automatic|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|ISC2 CGRC Governance & Risk|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|
+|2032|6759642128|Automatic|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|CGRC Governance Risk & Comply|
 |2031|6762921522|Automatic|计分器-多人对局|計分器-多人對局|計分器-多人對局|計分器-多人對局|Game Scorer Round Tracker|Game Scorer Round Tracker|计分器-多人对局|
 |2030|6751319443|Automatic|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|Poker Math: Pot Odds & EV|
 |2029|1509500916|Automatic|❌|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|Golf On Mars|
