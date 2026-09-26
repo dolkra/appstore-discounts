@@ -69157,8 +69157,8 @@
   "1437211990": {
     "name": "Raid Manager",
     "maxPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "1,99 €",
+      "price": 6.99,
+      "formattedPrice": "6,99 €",
       "5,000 diamonds": "5,99 €",
       "15,000 diamonds": "12,99 €",
       "30,000 diamonds": "24,99 €"
@@ -69171,6 +69171,18 @@
       "30,000 diamonds": "24,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790419954498,
+          "price": 6.99,
+          "formattedPrice": "6,99 €",
+          "inAppPurchases": {
+            "5,000 diamonds": "5,99 €",
+            "15,000 diamonds": "12,99 €",
+            "30,000 diamonds": "24,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1761797674362,
@@ -135807,6 +135819,14 @@
       "20 fuel to storage": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790419954498,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790160655952,

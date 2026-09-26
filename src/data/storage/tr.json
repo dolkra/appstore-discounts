@@ -144390,8 +144390,8 @@
   "1437211990": {
     "name": "Raid Manager",
     "maxPriceInfo": {
-      "price": 99.99,
-      "formattedPrice": "₺99,99",
+      "price": 299.99,
+      "formattedPrice": "₺299,99",
       "5,000 diamonds": "₺249,99",
       "15,000 diamonds": "₺599,99",
       "30,000 diamonds": "₺1.299,99"
@@ -144404,6 +144404,18 @@
       "30,000 diamonds": "₺999,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790419954498,
+          "price": 299.99,
+          "formattedPrice": "₺299,99",
+          "inAppPurchases": {
+            "5,000 diamonds": "₺249,99",
+            "15,000 diamonds": "₺599,99",
+            "30,000 diamonds": "₺1.299,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1766494711580,
@@ -240508,6 +240520,23 @@
     "history": [
       [
         {
+          "timestamp": 1790419954498,
+          "price": 199.99,
+          "formattedPrice": "₺199,99",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "₺249,99",
+            "Airbus A380": "₺99,99",
+            "Boeing 777-300ER": "₺99,99",
+            "Boeing 737 MAX 9": "₺99,99",
+            "EC135": "₺49,99",
+            "The Aircraft Bundle": "₺1.299,99",
+            "Boeing 737": "₺49,99",
+            "Airbus A350-1000": "₺199,99",
+            "Boeing 737-900": "₺99,99",
+            "Boeing 737-800": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1790394273599,
           "price": 199.99,
           "formattedPrice": "₺199,99",
@@ -281761,6 +281790,14 @@
       "20 fuel to storage": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790419954498,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789356898180,
