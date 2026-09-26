@@ -5123,7 +5123,7 @@
   },
   "354897032": {
     "trackId": 354897032,
-    "trackName": "Verbos em Francês (Mais)",
+    "trackName": "Verbos em francês Pro",
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
@@ -7223,7 +7223,7 @@
   },
   "385464568": {
     "trackId": 385464568,
-    "trackName": "Verbos em Alemães (Mais)",
+    "trackName": "Verbos em alemão Pro",
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
@@ -20610,7 +20610,7 @@
   },
   "523503182": {
     "trackId": 523503182,
-    "trackName": "Verbi Portoghese (Più)",
+    "trackName": "Verbos em português Pro",
     "region": "pt",
     "maxPriceInfo": {
       "price": 1.99,
@@ -139274,13 +139274,31 @@
     "region": "pt",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Pro Lifetime": "17,99 €",
+      "Pro Yearly": "12,99 €",
+      "Pro Monthly": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Pro Lifetime": "17,99 €",
+      "Pro Yearly": "12,99 €",
+      "Pro Monthly": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790437951279,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro Lifetime": "17,99 €",
+            "Pro Yearly": "12,99 €",
+            "Pro Monthly": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,

@@ -4972,7 +4972,7 @@
     ]
   },
   "354897032": {
-    "name": "Verbos em Francês (Mais)",
+    "name": "Verbos em francês Pro",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
@@ -7008,7 +7008,7 @@
     ]
   },
   "385464568": {
-    "name": "Verbos em Alemães (Mais)",
+    "name": "Verbos em alemão Pro",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
@@ -20115,7 +20115,7 @@
     ]
   },
   "523503182": {
-    "name": "Verbi Portoghese (Più)",
+    "name": "Verbos em português Pro",
     "maxPriceInfo": {
       "price": 1.99,
       "formattedPrice": "1,99 €"
@@ -135566,13 +135566,31 @@
     "name": "CGRC Governance Risk & Comply",
     "maxPriceInfo": {
       "price": 9.99,
-      "formattedPrice": "9,99 €"
+      "formattedPrice": "9,99 €",
+      "Pro Lifetime": "17,99 €",
+      "Pro Yearly": "12,99 €",
+      "Pro Monthly": "2,99 €"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Gratuito"
+      "formattedPrice": "Gratuito",
+      "Pro Lifetime": "17,99 €",
+      "Pro Yearly": "12,99 €",
+      "Pro Monthly": "2,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790437951279,
+          "price": 0,
+          "formattedPrice": "Gratuito",
+          "inAppPurchases": {
+            "Pro Lifetime": "17,99 €",
+            "Pro Yearly": "12,99 €",
+            "Pro Monthly": "2,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,

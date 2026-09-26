@@ -236053,6 +236053,25 @@
     "history": [
       [
         {
+          "timestamp": 1790437951279,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Spanish Audio": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00",
+            "Russian Audio": "$0.00",
+            "Opposing Fronts - Russian": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1786474865372,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -342409,13 +342428,31 @@
     "name": "CGRC Governance Risk & Comply",
     "maxPriceInfo": {
       "price": 12.99,
-      "formattedPrice": "$12.99"
+      "formattedPrice": "$12.99",
+      "Pro Lifetime": "$19.99",
+      "Pro Yearly": "$14.99",
+      "Pro Monthly": "$3.99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Pro Lifetime": "$19.99",
+      "Pro Yearly": "$14.99",
+      "Pro Monthly": "$3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790437951279,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Lifetime": "$19.99",
+            "Pro Yearly": "$14.99",
+            "Pro Monthly": "$3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790197705213,

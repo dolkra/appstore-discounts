@@ -158,9 +158,9 @@ So far, we've covered `7` `Countries or Regions` and  `2296` `Apps` <br />Push n
 |2148|6779676299|Automatic|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|警務處投考全攻略|
 |2147|6474194438|Automatic|❌|饑荒聯機版|饑荒聯機版|饑荒聯機版|Don't Starve Together|Don't Starve Together|Don't Starve Together|
 |2146|6789323764|Automatic|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|WedSched by IMA|
-|2145|354897032|Automatic|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|Verbos em Francês (Mais)|
-|2144|385464568|Automatic|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|Verbos em Alemães (Mais)|
-|2143|523503182|Automatic|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Verbi Portoghese (Più)|
+|2145|354897032|Automatic|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|French Verb Conjugator Pro|Verbos em francês Pro|
+|2144|385464568|Automatic|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|German Verb Conjugator Pro|Verbos em alemão Pro|
+|2143|523503182|Automatic|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Portuguese Verb Conjugator Pro|Verbos em português Pro|
 |2142|574641836|Automatic|❌|METAL SLUG 1|METAL SLUG 1|METAL SLUG 1|METAL SLUG 1|METAL SLUG 1|METAL SLUG 1|
 |2141|6785438432|Automatic|❌|東京海運|東京海運|東京海運|Tokyo Shipping!|Tokyo Shipping!|Tokyo Shipping!|
 |2140|6790482210|Automatic|香港海關投考攻略 CustomsReady|香港海關投考攻略 CustomsReady|香港海關投考攻略 CustomsReady|香港海關投考攻略 CustomsReady|香港海關投考攻略 CustomsReady|香港海關投考攻略 CustomsReady|香港海關投考攻略 CustomsReady|

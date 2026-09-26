@@ -281516,13 +281516,31 @@
     "name": "CGRC Governance Risk & Comply",
     "maxPriceInfo": {
       "price": 43.99,
-      "formattedPrice": "₺43,99"
+      "formattedPrice": "₺43,99",
+      "Pro Lifetime": "₺399,99",
+      "Pro Yearly": "₺299,99",
+      "Pro Monthly": "₺79,99"
     },
     "minPriceInfo": {
       "price": 0,
-      "formattedPrice": "Free"
+      "formattedPrice": "Free",
+      "Pro Lifetime": "₺399,99",
+      "Pro Yearly": "₺299,99",
+      "Pro Monthly": "₺79,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790437951279,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro Lifetime": "₺399,99",
+            "Pro Yearly": "₺299,99",
+            "Pro Monthly": "₺79,99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790179902685,
@@ -285251,6 +285269,14 @@
       "formattedPrice": "₺2,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790437951279,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790354327877,
