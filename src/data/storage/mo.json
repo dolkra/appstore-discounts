@@ -123264,12 +123264,23 @@
       "Schumann Forum": "USD 0.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99",
+      "price": 0,
+      "formattedPrice": "免費",
       "Forum Access – 12 months": "USD 9.99",
       "Schumann Forum": "USD 0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790464985579,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Forum Access – 12 months": "USD 9.99",
+            "Schumann Forum": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785449095856,

@@ -184049,12 +184049,23 @@
       "Forum Access – 12 months": "$9.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "$1.99",
+      "price": 0,
+      "formattedPrice": "Free",
       "Schumann Forum": "$0.99",
       "Forum Access – 12 months": "$9.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790464985579,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Schumann Forum": "$0.99",
+            "Forum Access – 12 months": "$9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785449095856,
