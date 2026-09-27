@@ -192497,6 +192497,23 @@
     "history": [
       [
         {
+          "timestamp": 1790526512684,
+          "price": 19.99,
+          "formattedPrice": "₺19,99",
+          "inAppPurchases": {
+            "Midnight Deck": "₺499,99",
+            "Midnight Night Out Pack": "₺149,99",
+            "Midnight Bedroom Pack": "₺149,99",
+            "Holiday Christmas Pack": "₺99,99",
+            "Fun & Games Sports Mix Pack 1": "₺99,99",
+            "Word Bonanza Bundle": "₺999,99",
+            "Mystery Mix Pack 1": "₺99,99",
+            "Midnight Mix Pack 1": "₺149,99",
+            "Celebrity Musicians Pack": "₺99,99",
+            "Midnight Mix Pack 2": "₺149,99"
+          }
+        },
+        {
           "timestamp": 1790508533224,
           "price": 19.99,
           "formattedPrice": "₺19,99",
@@ -285493,6 +285510,12 @@
     "history": [
       [
         {
+          "timestamp": 1790526512684,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1790508533224,
           "price": 2.99,
           "formattedPrice": "₺2,99",
@@ -285899,6 +285922,27 @@
             "12-month membership": "₺3.999,99",
             "3-month membership": "₺1.299,99"
           }
+        }
+      ]
+    ]
+  },
+  "6811690345": {
+    "name": "Kokoreççi",
+    "maxPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "minPriceInfo": {
+      "price": 9.99,
+      "formattedPrice": "₺9,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790526512684,
+          "price": 9.99,
+          "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
         }
       ]
     ]

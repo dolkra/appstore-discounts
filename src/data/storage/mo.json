@@ -144726,6 +144726,14 @@
     "history": [
       [
         {
+          "timestamp": 1790526512684,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789314064478,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -178609,6 +178617,25 @@
     "history": [
       [
         {
+          "timestamp": 1790526512684,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Airbus A321 XLR": "USD 3.99",
+            "Boeing 787-9": "USD 3.99",
+            "Airbus A320neo": "USD 3.99",
+            "Me 262": "USD 1.99",
+            "Boeing 737-800": "USD 2.99",
+            "Airbus A350-1000": "USD 3.99",
+            "Robin DR400": "USD 0.99",
+            "Boeing 777F": "USD 1.99",
+            "Airbus A319": "USD 1.99",
+            "Antares 21E": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790307530124,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -197571,6 +197598,16 @@
     "history": [
       [
         {
+          "timestamp": 1790526512684,
+          "price": 4.89,
+          "formattedPrice": "USD 4.89",
+          "inAppPurchases": {
+            "Supporter Edition: Golden Gear": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790094096914,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -201338,6 +201375,14 @@
       "formattedPrice": "USD 3.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790526512684,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789489297466,
@@ -205629,6 +205674,27 @@
             "12-month membership": "USD 69.99",
             "3-month membership": "USD 24.99"
           }
+        }
+      ]
+    ]
+  },
+  "6811690345": {
+    "name": "Kokoreççi",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "USD 0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790526512684,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
         }
       ]
     ]

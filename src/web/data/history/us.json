@@ -61022,6 +61022,25 @@
     "history": [
       [
         {
+          "timestamp": 1790526512684,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Adult Supervision": "$1.99",
+            "Just For Kids": "$0.00",
+            "Happy Holidays": "$1.99",
+            "Mix It Up": "$0.00",
+            "That's So 90s": "$1.99",
+            "The Ellen Show": "$0.00",
+            "Food Fight": "$1.99",
+            "Adult Supervision 2: Even Adultier": "$1.99",
+            "Branded": "$1.99",
+            "Adults Only! Bundle": "$7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790047846706,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -338754,6 +338773,25 @@
     "history": [
       [
         {
+          "timestamp": 1790526512684,
+          "price": 3.49,
+          "formattedPrice": "$3.49",
+          "inAppPurchases": {
+            "GHOST LUMINOUS": "$1.99",
+            "ZOMBIE FISH": "$1.99",
+            "GHOST TRANSLUCENT": "$1.99",
+            "RED RYUKIN": "$1.99",
+            "WIREFRAME RAINBOW": "$0.99",
+            "RED-WHITE RYUKIN": "$1.99",
+            "CALICO RED/GRAY/BLACK": "$1.99",
+            "RED/WHITE II": "$1.99",
+            "CALICO RED/WHITE/BLACK": "$1.99",
+            "PANDA TELESCOPE": "$1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790481229445,
           "price": 3.49,
           "formattedPrice": "$3.49",
@@ -350872,7 +350910,8 @@
       "Tower Sniper": "$5.99",
       "Spell Aspect of Sol": "$4.99",
       "Tower Wildcat": "$4.99",
-      "Hero Ignus": "$2.99"
+      "Hero Ignus": "$2.99",
+      "Tower Alchemist": "$2.99"
     },
     "minPriceInfo": {
       "SHOWCASE OFFER 07": "$4.99",
@@ -350893,9 +350932,29 @@
       "Tower Sniper": "$5.99",
       "Spell Aspect of Sol": "$4.99",
       "Tower Wildcat": "$4.99",
-      "Hero Ignus": "$2.99"
+      "Hero Ignus": "$2.99",
+      "Tower Alchemist": "$2.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790526512684,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "ALL TOWERS BUNDLE": "$19.99",
+            "Hero Ashbite": "$6.99",
+            "Hero Drakkan": "$6.99",
+            "ALL HEROES BUNDLE": "$29.99",
+            "ALL SPELLS BUNDLE": "$12.99",
+            "Hero Oni": "$4.99",
+            "Tower Sniper": "$5.99",
+            "Spell Aspect of Sol": "$4.99",
+            "Tower Wildcat": "$4.99",
+            "Tower Alchemist": "$2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790267673376,
@@ -351049,6 +351108,29 @@
             "12-month membership": "$69.99",
             "3-month membership": "$24.99"
           }
+        }
+      ]
+    ]
+  },
+  "6811690345": {
+    "trackId": 6811690345,
+    "trackName": "Kokoreççi",
+    "region": "us",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "$0.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790526512684,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
         }
       ]
     ]
