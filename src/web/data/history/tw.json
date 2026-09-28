@@ -29345,6 +29345,23 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 235,
+          "formattedPrice": "$235.00",
+          "inAppPurchases": {
+            "Minecraft Store Item 2": "$70.00",
+            "Realms Plus:10 Friends w/trial": "$240.00",
+            "Minecraft Store Item 6": "$200.00",
+            "Realms Monthly Subscription: You + 2 Friends": "$120.00",
+            "Minecraft Store Item 3": "$100.00",
+            "Realms Plus: You + 10 Friends": "$240.00",
+            "Minecraft Store Item 10": "$345.00",
+            "Minecraft Store Item 4": "$135.00",
+            "Minecraft Store Item 5": "$170.00",
+            "Marketplace Pass Trial": "$120.00"
+          }
+        },
+        {
           "timestamp": 1790567609577,
           "price": 235,
           "formattedPrice": "$235.00",
@@ -77556,6 +77573,14 @@
       "formattedPrice": "$290.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 490,
+          "formattedPrice": "$490.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789556078824,
@@ -265496,6 +265521,25 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Global scenery - 1 month": "$150.00",
+            "Boeing 787-10": "$60.00",
+            "Global scenery - 12 months": "$690.00",
+            "Boeing 777-300ER": "$60.00",
+            "Airbus A350-1000": "$120.00",
+            "Airbus A380": "$60.00",
+            "The Aircraft Bundle": "$790.00",
+            "Boeing 747-400": "$60.00",
+            "Concorde": "$60.00",
+            "Boeing 737 MAX 9": "$60.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790437951279,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -285636,6 +285680,14 @@
       "formattedPrice": "$590.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 990,
+          "formattedPrice": "$990.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789556078824,
@@ -310550,7 +310602,8 @@
       "塔 鐵木樹人": "$220.00",
       "塔 野貓女獵手": "$150.00",
       "英雄 鬼侍": "$150.00",
-      "英雄 伊格納斯": "$90.00"
+      "英雄 伊格納斯": "$90.00",
+      "塔 奧術鍛造匠": "$150.00"
     },
     "minPriceInfo": {
       "price": 220,
@@ -310575,9 +310628,29 @@
       "塔 鐵木樹人": "$220.00",
       "塔 野貓女獵手": "$150.00",
       "英雄 鬼侍": "$150.00",
-      "英雄 伊格納斯": "$90.00"
+      "英雄 伊格納斯": "$90.00",
+      "塔 奧術鍛造匠": "$150.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "全塔禮包": "$690.00",
+            "全英雄禮包": "$990.00",
+            "全法術禮包": "$390.00",
+            "英雄 阿什彼特": "$220.00",
+            "英雄 德拉坎": "$220.00",
+            "塔 哨兵瞭望塔": "$190.00",
+            "塔 野貓女獵手": "$150.00",
+            "英雄 鬼侍": "$150.00",
+            "法術 索羅化身": "$150.00",
+            "塔 奧術鍛造匠": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790354327877,
@@ -310808,6 +310881,29 @@
           "timestamp": 1790526512684,
           "price": 30,
           "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805504523": {
+    "trackId": 6805504523,
+    "trackName": "武元一生",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "minPriceInfo": {
+      "price": 90,
+      "formattedPrice": "$90.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 90,
+          "formattedPrice": "$90.00",
           "inAppPurchases": {}
         }
       ]

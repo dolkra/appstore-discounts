@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 443646748,
+    "region": "pt",
+    "timestamp": 1790600478680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Premium",
+        "from": "43,99 €",
+        "to": "22,99 €",
+        "range": "[22,99 € ~ 43,99 €]"
+      }
+    ],
+    "price": 3.99,
+    "formattedPrice": "3,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id443646748",
+    "trackName": "Fitness Amigo+",
+    "firstRecordedAt": 1788900351663
+  },
+  {
+    "trackId": 6743021613,
+    "region": "pt",
+    "timestamp": 1790600478680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "0,99 €",
+        "range": "[0,99 € ~ 22,99 €]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "0,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6743021613",
+    "trackName": "电视直播-手机电视节目表、电视导航",
+    "firstRecordedAt": 1777050395660
+  },
+  {
     "trackId": 1499001662,
     "region": "pt",
     "timestamp": 1790567609577,
@@ -1289,7 +1329,7 @@
         "name": "Price",
         "from": "9,99 €",
         "to": "5,99 €",
-        "range": "[5,99 € ~ 22,99 €]"
+        "range": "[0,99 € ~ 22,99 €]"
       }
     ],
     "price": 5.99,

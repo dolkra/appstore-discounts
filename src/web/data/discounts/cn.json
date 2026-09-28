@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 6743021613,
+    "region": "cn",
+    "timestamp": 1790600478680,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "¥38.00",
+        "to": "¥8.00",
+        "range": "[¥8.00 ~ ¥148.00]"
+      }
+    ],
+    "price": 8,
+    "formattedPrice": "¥8.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6743021613",
+    "trackName": "电视直播-手机电视节目表、电视导航",
+    "firstRecordedAt": 1777050395660
+  },
+  {
+    "trackId": 6775828757,
+    "region": "cn",
+    "timestamp": 1790600478680,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "双人份完整版",
+        "from": "¥58.00",
+        "to": "¥57.00",
+        "range": "[¥57.00 ~ ¥58.00]"
+      }
+    ],
+    "price": 1,
+    "formattedPrice": "¥1.00",
+    "currency": "CNY",
+    "trackViewUrl": "https://apps.apple.com/cn/app/id6775828757",
+    "trackName": "新世界：暗影成双",
+    "firstRecordedAt": 1790160655952
+  },
+  {
     "trackId": 451697322,
     "region": "cn",
     "timestamp": 1790542601702,
@@ -968,7 +1008,7 @@
         "name": "Price",
         "from": "¥68.00",
         "to": "¥38.00",
-        "range": "[¥38.00 ~ ¥148.00]"
+        "range": "[¥8.00 ~ ¥148.00]"
       }
     ],
     "price": 38,
@@ -1068,7 +1108,7 @@
         "name": "Price",
         "from": "¥148.00",
         "to": "¥68.00",
-        "range": "[¥38.00 ~ ¥148.00]"
+        "range": "[¥8.00 ~ ¥148.00]"
       }
     ],
     "price": 68,

@@ -80130,6 +80130,14 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 799.99,
+          "formattedPrice": "₺799,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789556078824,
           "price": 499.99,
           "formattedPrice": "₺499,99",
@@ -265728,6 +265736,14 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 1499.99,
+          "formattedPrice": "₺1.499,99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789556078824,
           "price": 999.99,
           "formattedPrice": "₺999,99",
@@ -283349,10 +283365,18 @@
       "formattedPrice": "₺999,99"
     },
     "minPriceInfo": {
-      "price": 249.99,
-      "formattedPrice": "₺249,99"
+      "price": 49.99,
+      "formattedPrice": "₺49,99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 49.99,
+          "formattedPrice": "₺49,99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789556078824,
@@ -290418,6 +290442,29 @@
           "timestamp": 1790526512684,
           "price": 9.99,
           "formattedPrice": "₺9,99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805504523": {
+    "trackId": 6805504523,
+    "trackName": "무원일생",
+    "region": "tr",
+    "maxPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "minPriceInfo": {
+      "price": 149.99,
+      "formattedPrice": "₺149,99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 149.99,
+          "formattedPrice": "₺149,99",
           "inAppPurchases": {}
         }
       ]

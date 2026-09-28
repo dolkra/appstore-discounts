@@ -12931,10 +12931,20 @@
     "minPriceInfo": {
       "price": 3.99,
       "formattedPrice": "3,99 €",
-      "Premium": "43,99 €",
+      "Premium": "22,99 €",
       "Fitness Buddy Premium": "29,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 3.99,
+          "formattedPrice": "3,99 €",
+          "inAppPurchases": {
+            "Premium": "22,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788900351663,
@@ -17601,7 +17611,12 @@
       "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
       "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
       "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "0,99 €",
-      "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €"
+      "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €",
+      "Calendário - LPB Basquetebol Men Portugal 2015-2016 edição": "0,99 €",
+      "Calendars - CBA Basketball Men China 2015-2016 edition": "0,99 €",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "0,99 €",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "0,99 €",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "0,99 €"
     },
     "minPriceInfo": {
       "price": 9.99,
@@ -17615,9 +17630,33 @@
       "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
       "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
       "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "0,99 €",
-      "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €"
+      "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €",
+      "Calendário - LPB Basquetebol Men Portugal 2015-2016 edição": "0,99 €",
+      "Calendars - CBA Basketball Men China 2015-2016 edition": "0,99 €",
+      "Calendars - LFB Basketball Women France 2015-2016 edition": "0,99 €",
+      "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "0,99 €",
+      "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 9.99,
+          "formattedPrice": "9,99 €",
+          "inAppPurchases": {
+            "Calendars - PL Football Men Senegal 2015-2016 edition": "0,99 €",
+            "Calendars - Primera Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Segona Divisio Football Men Andorra 2015-2016 edition": "0,99 €",
+            "Calendars - Premier Division Football Men Gibraltar 2015-2016 edition": "0,99 €",
+            "Calendário - Superliga Voleibol Women Brasil 2015-2016 edição": "0,99 €",
+            "Calendário - LPB Basquetebol Men Portugal 2015-2016 edição": "0,99 €",
+            "Calendars - CBA Basketball Men China 2015-2016 edition": "0,99 €",
+            "Calendars - LFB Basketball Women France 2015-2016 edition": "0,99 €",
+            "Calendars - Eredivisie Handball Men Netherlands 2015-2016 edition": "0,99 €",
+            "Calendars - Eredivisie Handball Women Netherlands 2015-2016 edition": "0,99 €"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1788801558459,
@@ -40017,6 +40056,14 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 17.99,
+          "formattedPrice": "17,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789556078824,
           "price": 9.99,
           "formattedPrice": "9,99 €",
@@ -55522,7 +55569,7 @@
   },
   "1154832936": {
     "trackId": 1154832936,
-    "trackName": "Call Ranger: Bloqueio Massa",
+    "trackName": "Call Ranger: Bloquear Chamadas",
     "region": "pt",
     "maxPriceInfo": {
       "price": 5.99,
@@ -110767,6 +110814,14 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 34.99,
+          "formattedPrice": "34,99 €",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789556078824,
           "price": 19.99,
           "formattedPrice": "19,99 €",
@@ -136923,10 +136978,18 @@
       "formattedPrice": "22,99 €"
     },
     "minPriceInfo": {
-      "price": 5.99,
-      "formattedPrice": "5,99 €"
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789556078824,
@@ -143780,6 +143843,29 @@
           "timestamp": 1790526512684,
           "price": 0.99,
           "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805504523": {
+    "trackId": 6805504523,
+    "trackName": "무원일생",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
           "inAppPurchases": {}
         }
       ]

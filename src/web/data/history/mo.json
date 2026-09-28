@@ -59129,6 +59129,23 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {
+            "第01~12課教學影片合購": "USD 8.99",
+            "第12課教學影片": "USD 0.99",
+            "第11課教學影片": "USD 0.99",
+            "第10課教學影片": "USD 0.99",
+            "第09課教學影片": "USD 0.99",
+            "第08課教學影片": "USD 0.99",
+            "第07課教學影片": "USD 0.99",
+            "第06課教學影片": "USD 0.99",
+            "第05課教學影片": "USD 0.99",
+            "第04課教學影片": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1790567609577,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -61508,6 +61525,14 @@
       "formattedPrice": "USD 8.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789556078824,
@@ -188810,6 +188835,14 @@
     "history": [
       [
         {
+          "timestamp": 1790600478680,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1789556078824,
           "price": 17.99,
           "formattedPrice": "USD 17.99",
@@ -210049,6 +210082,29 @@
           "timestamp": 1790526512684,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6805504523": {
+    "trackId": 6805504523,
+    "trackName": "武元一生",
+    "region": "mo",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "USD 2.99"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790600478680,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
           "inAppPurchases": {}
         }
       ]
