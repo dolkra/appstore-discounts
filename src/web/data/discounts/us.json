@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1499001662,
+    "region": "us",
+    "timestamp": 1790567609577,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$4.99",
+        "to": "$0.99",
+        "range": "[Free ~ $4.99]"
+      }
+    ],
+    "price": 0.99,
+    "formattedPrice": "$0.99",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1499001662",
+    "trackName": "EvoCreo2: Monster Trainer RPG",
+    "firstRecordedAt": 1759940107332
+  },
+  {
+    "trackId": 6758328352,
+    "region": "us",
+    "timestamp": 1790567609577,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$6.99",
+        "to": "$4.89",
+        "range": "[$4.89 ~ $6.99]"
+      }
+    ],
+    "price": 4.89,
+    "formattedPrice": "$4.89",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6758328352",
+    "trackName": "Scritchy Scratchy",
+    "firstRecordedAt": 1773939846316
+  },
+  {
     "trackId": 6473097811,
     "region": "us",
     "timestamp": 1790508533224,
@@ -5933,7 +5973,7 @@
         "name": "Price",
         "from": "$6.99",
         "to": "$4.99",
-        "range": "[$4.99 ~ $6.99]"
+        "range": "[$4.89 ~ $6.99]"
       }
     ],
     "price": 4.99,
