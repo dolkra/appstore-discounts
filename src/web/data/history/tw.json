@@ -242657,6 +242657,23 @@
     "history": [
       [
         {
+          "timestamp": 1790552524601,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {
+            "戰鬥獎勵雙倍": "$60.00",
+            "300金磚": "$150.00",
+            "60金磚": "$30.00",
+            "680金磚": "$320.00",
+            "120金磚": "$60.00",
+            "月卡": "$150.00",
+            "深度高級特訓": "$490.00",
+            "980金磚": "$490.00",
+            "高級特訓": "$320.00",
+            "1280金磚": "$690.00"
+          }
+        },
+        {
           "timestamp": 1790542601702,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -276399,8 +276416,8 @@
     "trackName": "水晶戰爭2-精品生存Roguelike策略塔防單機獨立遊戲",
     "region": "tw",
     "maxPriceInfo": {
-      "price": 10,
-      "formattedPrice": "$10.00",
+      "price": 60,
+      "formattedPrice": "$60.00",
       "Super Packs": "$60.00",
       "Dragon Knight": "$90.00",
       "Ancient Warrior": "$30.00",
@@ -276423,6 +276440,23 @@
       "Gems 3": "$1,490.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790552524601,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Super Packs": "$60.00",
+            "Dragon Knight": "$90.00",
+            "Ancient Warrior": "$30.00",
+            "Unicorn Knight": "$90.00",
+            "Iron Giant": "$60.00",
+            "Gems 2": "$320.00",
+            "Gems 1": "$150.00",
+            "Gems 3": "$1,490.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1745431369334,

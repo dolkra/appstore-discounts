@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1662217862,
+    "region": "pt",
+    "timestamp": 1790552524601,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Filtr",
+        "from": "29,99 €",
+        "to": "5,99 €",
+        "range": "[5,99 € ~ 29,99 €]"
+      }
+    ],
+    "price": 5.99,
+    "formattedPrice": "5,99 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id1662217862",
+    "trackName": "Wipr 2",
+    "firstRecordedAt": 1761797674362
+  },
+  {
+    "trackId": 6758328352,
+    "region": "pt",
+    "timestamp": 1790552524601,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "5,99 €",
+        "to": "4,19 €",
+        "range": "[3,99 € ~ 6,99 €]"
+      }
+    ],
+    "price": 4.19,
+    "formattedPrice": "4,19 €",
+    "currency": "EUR",
+    "trackViewUrl": "https://apps.apple.com/pt/app/id6758328352",
+    "trackName": "Scritchy Scratchy",
+    "firstRecordedAt": 1773939846316
+  },
+  {
     "trackId": 6473097811,
     "region": "pt",
     "timestamp": 1790508533224,
