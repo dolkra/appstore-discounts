@@ -145911,7 +145911,7 @@
     "maxPriceInfo": {
       "price": 320,
       "formattedPrice": "$320.00",
-      "Notes Writer Pro AI Assistant": "$120.00"
+      "Notes Writer Pro AI Assistant": "$150.00"
     },
     "minPriceInfo": {
       "price": 320,
@@ -145919,6 +145919,16 @@
       "Notes Writer Pro AI Assistant": "$60.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 320,
+          "formattedPrice": "$320.00",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779296234034,
@@ -248465,7 +248475,9 @@
       "Blue Morpho Plan": "$990.00",
       "Birdwing Plan": "$690.00",
       "Monarch Plan": "$150.00",
-      "Monarch (Yearly)": "$1,490.00"
+      "Monarch (Yearly)": "$1,490.00",
+      "Blue Morpho (Yearly)": "$7,990.00",
+      "Birdwing (Yearly)": "$5,990.00"
     },
     "minPriceInfo": {
       "price": 690,
@@ -248473,9 +248485,26 @@
       "Blue Morpho Plan": "$990.00",
       "Birdwing Plan": "$690.00",
       "Monarch Plan": "$150.00",
-      "Monarch (Yearly)": "$1,490.00"
+      "Monarch (Yearly)": "$1,490.00",
+      "Blue Morpho (Yearly)": "$7,990.00",
+      "Birdwing (Yearly)": "$5,990.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 690,
+          "formattedPrice": "$690.00",
+          "inAppPurchases": {
+            "Blue Morpho (Yearly)": "$7,990.00",
+            "Birdwing (Yearly)": "$5,990.00",
+            "Monarch (Yearly)": "$1,490.00",
+            "Blue Morpho Plan": "$990.00",
+            "Birdwing Plan": "$690.00",
+            "Monarch Plan": "$150.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790370494872,
@@ -306218,14 +306247,22 @@
   "6811795155": {
     "name": "Keeps",
     "maxPriceInfo": {
-      "price": 30,
-      "formattedPrice": "$30.00"
+      "price": 60,
+      "formattedPrice": "$60.00"
     },
     "minPriceInfo": {
       "price": 30,
       "formattedPrice": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,

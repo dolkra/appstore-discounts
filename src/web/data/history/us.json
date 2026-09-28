@@ -73736,6 +73736,23 @@
     "history": [
       [
         {
+          "timestamp": 1790629496108,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "全四册视频教程完整版": "$59.99",
+            "188学币": "$29.99",
+            "第二册视频教程完整版": "$39.99",
+            "第一册视频教程完整版": "$39.99",
+            "398学币": "$59.99",
+            "298学币": "$39.99",
+            "128学币": "$19.99",
+            "第一册视频教程": "$29.99",
+            "238学币": "$34.99",
+            "698学币": "$99.99"
+          }
+        },
+        {
           "timestamp": 1790600478680,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -115220,6 +115237,19 @@
       "Early Weeks Annual Offer": "$14.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Early Weeks Annual Offer": "$14.99",
+            "All Access Yearly": "$29.99",
+            "Early Access Weekly": "$1.99",
+            "All Access Weekly": "$4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1789601594897,
@@ -192013,7 +192043,17 @@
       "Emerald Cockerel Token": "$3.49",
       "Emerald Car Token": "$3.49",
       "Emerald King Kong Token": "$3.49",
-      "Emerald Bundle": "$11.99"
+      "Emerald Bundle": "$11.99",
+      "Frankie Token": "$9.99",
+      "Hologram Dracula Token": "$3.49",
+      "Hologram Robot Token": "$3.49",
+      "Hologram Dog Token": "$3.49",
+      "Hologram Dice": "$4.99",
+      "The Hologram Pack": "$11.99",
+      "Glow in the Dark Dice": "$4.99",
+      "Glow in the Dark Ghost": "$3.49",
+      "Glow in the Dark Alien": "$3.49",
+      "Glow in the Dark Frog": "$3.49"
     },
     "minPriceInfo": {
       "price": 4.99,
@@ -192193,9 +192233,38 @@
       "Emerald Cockerel Token": "$3.49",
       "Emerald Car Token": "$3.49",
       "Emerald King Kong Token": "$3.49",
-      "Emerald Bundle": "$11.99"
+      "Emerald Bundle": "$11.99",
+      "Frankie Token": "$9.99",
+      "Hologram Dracula Token": "$3.49",
+      "Hologram Robot Token": "$3.49",
+      "Hologram Dog Token": "$3.49",
+      "Hologram Dice": "$4.99",
+      "The Hologram Pack": "$11.99",
+      "Glow in the Dark Dice": "$4.99",
+      "Glow in the Dark Ghost": "$3.49",
+      "Glow in the Dark Alien": "$3.49",
+      "Glow in the Dark Frog": "$3.49"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Frankie Token": "$9.99",
+            "Hologram Dracula Token": "$3.49",
+            "Hologram Robot Token": "$3.49",
+            "Hologram Dog Token": "$3.49",
+            "Hologram Dice": "$4.99",
+            "The Hologram Pack": "$11.99",
+            "Glow in the Dark Dice": "$4.99",
+            "Glow in the Dark Ghost": "$3.49",
+            "Glow in the Dark Alien": "$3.49",
+            "Glow in the Dark Frog": "$3.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1785324367282,
@@ -285074,7 +285143,9 @@
       "Blue Morpho Plan": "$29.99",
       "Birdwing Plan": "$19.99",
       "Monarch Plan": "$4.99",
-      "Monarch (Yearly)": "$49.99"
+      "Monarch (Yearly)": "$49.99",
+      "Blue Morpho (Yearly)": "$249.99",
+      "Birdwing (Yearly)": "$169.99"
     },
     "minPriceInfo": {
       "price": 19.99,
@@ -285082,9 +285153,26 @@
       "Blue Morpho Plan": "$29.99",
       "Birdwing Plan": "$19.99",
       "Monarch Plan": "$4.99",
-      "Monarch (Yearly)": "$49.99"
+      "Monarch (Yearly)": "$49.99",
+      "Blue Morpho (Yearly)": "$249.99",
+      "Birdwing (Yearly)": "$169.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "Blue Morpho Plan": "$29.99",
+            "Birdwing Plan": "$19.99",
+            "Monarch Plan": "$4.99",
+            "Blue Morpho (Yearly)": "$249.99",
+            "Birdwing (Yearly)": "$169.99",
+            "Monarch (Yearly)": "$49.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790370494872,
@@ -351225,14 +351313,22 @@
     "trackName": "Keeps: Asset & Cost Tracker",
     "region": "us",
     "maxPriceInfo": {
-      "price": 0.99,
-      "formattedPrice": "$0.99"
+      "price": 1.99,
+      "formattedPrice": "$1.99"
     },
     "minPriceInfo": {
       "price": 0.99,
       "formattedPrice": "$0.99"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,

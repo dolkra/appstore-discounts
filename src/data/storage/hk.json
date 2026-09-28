@@ -47823,6 +47823,25 @@
     "history": [
       [
         {
+          "timestamp": 1790629496108,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Tower Unlock All Upgrades": "HK$ 8.00",
+            "Pile O' Monkey Money": "HK$ 38.00",
+            "Rank Up": "HK$ 8.00",
+            "500 Monkey Money": "HK$ 8.00",
+            "Bundle O' Monkey Money": "HK$ 22.00",
+            "Double Cash Mode": "HK$ 88.00",
+            "Vault O' Tokens": "HK$ 88.00",
+            "Vault O' Monkey Money": "HK$ 148.00",
+            "Bigger Beacons": "HK$ 8.00",
+            "Mountain O' Monkey Money": "HK$ 388.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790600478680,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -100893,6 +100912,25 @@
     "history": [
       [
         {
+          "timestamp": 1790629496108,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {
+            "225,000 points": "HK$ 88.00",
+            "63,000 points": "HK$ 22.00",
+            "25,000 points": "HK$ 8.00",
+            "176,000 points": "HK$ 58.00",
+            "345,000 points": "HK$ 118.00",
+            "100,000 points": "HK$ 22.00",
+            "850,000 points": "HK$ 118.00",
+            "2,160,000 points": "HK$ 588.00",
+            "20,000 points": "HK$ 8.00",
+            "500,000 points": "HK$ 88.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790600478680,
           "price": 2,
           "formattedPrice": "HK$ 2.00",
@@ -131695,7 +131733,12 @@
       "超值金币x1440": "HK$ 8.00",
       "新手礼包": "HK$ 8.00",
       "超值月卡": "HK$ 32.00",
-      "120心动包": "HK$ 18.00"
+      "120心动包": "HK$ 18.00",
+      "6480心动包": "HK$ 788.00",
+      "3280心动包": "HK$ 388.00",
+      "1980心动包": "HK$ 228.00",
+      "1280心动包": "HK$ 148.00",
+      "980心动包": "HK$ 118.00"
     },
     "minPriceInfo": {
       "price": 8,
@@ -131709,9 +131752,33 @@
       "超值金币x1440": "HK$ 8.00",
       "新手礼包": "HK$ 8.00",
       "超值月卡": "HK$ 32.00",
-      "120心动包": "HK$ 18.00"
+      "120心动包": "HK$ 18.00",
+      "6480心动包": "HK$ 788.00",
+      "3280心动包": "HK$ 388.00",
+      "1980心动包": "HK$ 228.00",
+      "1280心动包": "HK$ 148.00",
+      "980心动包": "HK$ 118.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "6480心动包": "HK$ 788.00",
+            "3280心动包": "HK$ 388.00",
+            "1980心动包": "HK$ 228.00",
+            "1280心动包": "HK$ 148.00",
+            "980心动包": "HK$ 118.00",
+            "680心动包": "HK$ 88.00",
+            "300心动包": "HK$ 32.00",
+            "180心动包": "HK$ 22.00",
+            "60心动包": "HK$ 8.00",
+            "120心动包": "HK$ 18.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1787928940020,
@@ -146890,6 +146957,16 @@
       "Notes Writer Pro AI Assistant": "HK$ 18.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "HK$ 32.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1779296234034,
@@ -193404,6 +193481,25 @@
       "Nexus of Nightmares": "HK$ 48.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Vaul of the Void Promo Pack": "HK$ 0.00",
+            "Dawncaster Origins Bundle": "HK$ 38.00",
+            "Dawncaster Mega Bundle": "HK$ 98.00",
+            "Siege of Shadows": "HK$ 38.00",
+            "Masks of Misery": "HK$ 38.00",
+            "Infernal Invasions": "HK$ 48.00",
+            "Tribes of Twilight": "HK$ 38.00",
+            "Death of Divinity": "HK$ 38.00",
+            "Eclypse Supporter Pack": "HK$ 32.00",
+            "Nexus of Nightmares": "HK$ 48.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790600478680,
@@ -246172,7 +246268,9 @@
       "Blue Morpho Plan": "HK$ 228.00",
       "Birdwing Plan": "HK$ 148.00",
       "Monarch Plan": "HK$ 38.00",
-      "Monarch (Yearly)": "HK$ 388.00"
+      "Monarch (Yearly)": "HK$ 388.00",
+      "Blue Morpho (Yearly)": "HK$ 1,888.00",
+      "Birdwing (Yearly)": "HK$ 1,288.00"
     },
     "minPriceInfo": {
       "price": 148,
@@ -246180,9 +246278,26 @@
       "Blue Morpho Plan": "HK$ 228.00",
       "Birdwing Plan": "HK$ 148.00",
       "Monarch Plan": "HK$ 38.00",
-      "Monarch (Yearly)": "HK$ 388.00"
+      "Monarch (Yearly)": "HK$ 388.00",
+      "Blue Morpho (Yearly)": "HK$ 1,888.00",
+      "Birdwing (Yearly)": "HK$ 1,288.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 148,
+          "formattedPrice": "HK$ 148.00",
+          "inAppPurchases": {
+            "Blue Morpho (Yearly)": "HK$ 1,888.00",
+            "Birdwing (Yearly)": "HK$ 1,288.00",
+            "Monarch (Yearly)": "HK$ 388.00",
+            "Blue Morpho Plan": "HK$ 228.00",
+            "Birdwing Plan": "HK$ 148.00",
+            "Monarch Plan": "HK$ 38.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790370494872,
@@ -294220,14 +294335,22 @@
   "6811795155": {
     "name": "Keeps",
     "maxPriceInfo": {
-      "price": 8,
-      "formattedPrice": "HK$ 8.00"
+      "price": 18,
+      "formattedPrice": "HK$ 18.00"
     },
     "minPriceInfo": {
       "price": 8,
       "formattedPrice": "HK$ 8.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790629496108,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1790094096914,
