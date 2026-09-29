@@ -13402,6 +13402,24 @@
     "history": [
       [
         {
+          "timestamp": 1790711274462,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {
+            "Magnetic Stars Superior Pack": "29,99 €",
+            "Superpower 50 Sale": "5,99 €",
+            "Magnetic Stars Grand Pack Sale": "8,99 €",
+            "Magnetic Stars Grand Pack": "17,99 €",
+            "Magnetic Stars Large Pack": "7,99 €",
+            "Magnetic Stars Tiny Pack": "3,99 €",
+            "Unlock \"Bath Time\" level pack": "1,99 €",
+            "Unlock \"Bamboo Chutes\" level pack": "1,99 €",
+            "Unlock \"Ant Hill\" level pack": "1,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1778298084052,
           "price": 0.99,
           "formattedPrice": "0,99 €",
@@ -136960,6 +136978,16 @@
     "history": [
       [
         {
+          "timestamp": 1790711274462,
+          "price": 0.29,
+          "formattedPrice": "0,29 €",
+          "inAppPurchases": {
+            "Todas as classes": "9,99 €"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790074896267,
           "price": 0,
           "formattedPrice": "Gratuito",
@@ -144045,6 +144073,52 @@
       [
         {
           "timestamp": 1790600478680,
+          "price": 2.99,
+          "formattedPrice": "2,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6787034553": {
+    "trackId": 6787034553,
+    "trackName": "UnionApp",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "minPriceInfo": {
+      "price": 0.99,
+      "formattedPrice": "0,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790711274462,
+          "price": 0.99,
+          "formattedPrice": "0,99 €",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6783872393": {
+    "trackId": 6783872393,
+    "trackName": "OpenWebUI - Mobile",
+    "region": "pt",
+    "maxPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "minPriceInfo": {
+      "price": 2.99,
+      "formattedPrice": "2,99 €"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790711274462,
           "price": 2.99,
           "formattedPrice": "2,99 €",
           "inAppPurchases": {}
