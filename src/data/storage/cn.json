@@ -180173,14 +180173,22 @@
   "6730126160": {
     "name": "戏曲锣鼓 - 电子锣鼓打击垫｜虚拟乐器｜演奏模拟器｜戏曲伴奏",
     "maxPriceInfo": {
-      "price": 18,
-      "formattedPrice": "¥18.00"
+      "price": 18.8,
+      "formattedPrice": "¥18.80"
     },
     "minPriceInfo": {
       "price": 8.8,
       "formattedPrice": "¥8.80"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790683950818,
+          "price": 18.8,
+          "formattedPrice": "¥18.80",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1782916477387,
@@ -228635,6 +228643,27 @@
           "timestamp": 1790334927745,
           "price": 6,
           "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6639610182": {
+    "name": "武士零",
+    "maxPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "minPriceInfo": {
+      "price": 18,
+      "formattedPrice": "¥18.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790683950818,
+          "price": 18,
+          "formattedPrice": "¥18.00",
           "inAppPurchases": {}
         }
       ]

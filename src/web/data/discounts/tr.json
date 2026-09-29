@@ -1,5 +1,65 @@
 [
   {
+    "trackId": 1642139491,
+    "region": "tr",
+    "timestamp": 1790683950818,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺499,99",
+        "to": "₺249,99",
+        "range": "[₺2,99 ~ ₺499,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1642139491",
+    "trackName": "Tokyo Train!",
+    "firstRecordedAt": 1756860878460
+  },
+  {
+    "trackId": 6463616555,
+    "region": "tr",
+    "timestamp": 1790683950818,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺149,99",
+        "range": "[₺129,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 149.99,
+    "formattedPrice": "₺149,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6463616555",
+    "trackName": "Ticket to Ride®",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6785438432,
+    "region": "tr",
+    "timestamp": 1790683950818,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺249,99",
+        "to": "₺99,99",
+        "range": "[₺29,99 ~ ₺249,99]"
+      }
+    ],
+    "price": 99.99,
+    "formattedPrice": "₺99,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6785438432",
+    "trackName": "Tokyo Shipping!",
+    "firstRecordedAt": 1784449011192
+  },
+  {
     "trackId": 1422480068,
     "region": "tr",
     "timestamp": 1790656083068,
