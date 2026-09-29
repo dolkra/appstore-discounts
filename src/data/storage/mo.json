@@ -205541,10 +205541,18 @@
       "formattedPrice": "USD 1.99"
     },
     "minPriceInfo": {
-      "price": 1.99,
-      "formattedPrice": "USD 1.99"
+      "price": 0,
+      "formattedPrice": "免費"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790656083068,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1789935798032,

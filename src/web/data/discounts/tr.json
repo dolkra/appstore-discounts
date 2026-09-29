@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1422480068,
+    "region": "tr",
+    "timestamp": 1790656083068,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "Notes Writer Pro AI Assistant",
+        "from": "₺149,99",
+        "to": "₺99,99",
+        "range": "[₺79,99 ~ ₺179,99]"
+      }
+    ],
+    "price": 249.99,
+    "formattedPrice": "₺249,99",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id1422480068",
+    "trackName": "Notes Writer Pro: Beyond PDFs",
+    "firstRecordedAt": 1730693617795
+  },
+  {
+    "trackId": 6786557574,
+    "region": "tr",
+    "timestamp": 1790656083068,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "₺99,99",
+        "to": "Free",
+        "range": "[Free ~ ₺99,99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "TRY",
+    "trackViewUrl": "https://apps.apple.com/tr/app/id6786557574",
+    "trackName": "MPG Petrol Mileage Tracker Log",
+    "firstRecordedAt": 1789935798032
+  },
+  {
     "trackId": 6748852099,
     "region": "tr",
     "timestamp": 1790629496108,

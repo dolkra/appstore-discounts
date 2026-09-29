@@ -1,5 +1,45 @@
 [
   {
+    "trackId": 1111420122,
+    "region": "us",
+    "timestamp": 1790656083068,
+    "discounts": [
+      {
+        "type": "inAppPurchase",
+        "name": "All Access Yearly",
+        "from": "$29.99",
+        "to": "$14.99",
+        "range": "[$14.99 ~ $29.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id1111420122",
+    "trackName": "Hear My Baby Heartbeat App",
+    "firstRecordedAt": 1745328692670
+  },
+  {
+    "trackId": 6786557574,
+    "region": "us",
+    "timestamp": 1790656083068,
+    "discounts": [
+      {
+        "type": "price",
+        "name": "Price",
+        "from": "$1.99",
+        "to": "Free",
+        "range": "[Free ~ $1.99]"
+      }
+    ],
+    "price": 0,
+    "formattedPrice": "Free",
+    "currency": "USD",
+    "trackViewUrl": "https://apps.apple.com/us/app/id6786557574",
+    "trackName": "Fuel MPG Mileage Tracker Log",
+    "firstRecordedAt": 1789935798032
+  },
+  {
     "trackId": 6743021613,
     "region": "us",
     "timestamp": 1790600478680,
@@ -49428,7 +49468,7 @@
         "name": "Notes Writer Pro AI Assistant",
         "from": "$3.99",
         "to": "$1.99",
-        "range": "[$1.99 ~ $3.99]"
+        "range": "[$1.99 ~ $4.99]"
       }
     ],
     "price": 9.99,
