@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/appstore-discounts/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2026-09-29T05:24:35.366Z</updated>
+    <updated>2026-09-30T10:57:03.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -21,7 +21,7 @@ feedId:157007849019630592+userId:73658201673997312
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcomecn</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-29T05:24:35.367Z</updated>
+        <updated>2026-09-30T10:57:03.967Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
@@ -29,9 +29,9 @@ feedId:157007849019630592+userId:73658201673997312
     </entry>
     <entry>
         <title type="html"><![CDATA[统计数据报告]]></title>
-        <id>rankingcnTue, 29 Sep 2026 05:24:35 GMT</id>
+        <id>rankingcnWed, 30 Sep 2026 10:57:03 GMT</id>
         <link href="https://github.com/appstore-discounts/appstore-discounts"/>
-        <updated>2026-09-29T05:24:35.367Z</updated>
+        <updated>2026-09-30T10:57:03.967Z</updated>
         <summary type="html"><![CDATA[最新统计数据报告]]></summary>
         <content type="html"><![CDATA[<h2>追踪的国家或地区</h2><ol>
   <li>
@@ -51,13 +51,13 @@ feedId:157007849019630592+userId:73658201673997312
     <tr>
       <td>所有</td>
       <td>
-        <b>2299</b>
+        <b>2304</b>
       </td>
       <td>
         <b>201</b>
       </td>
       <td>
-        <b>2098</b>
+        <b>2103</b>
       </td>
       <td>
         <b>107</b>
@@ -68,13 +68,13 @@ feedId:157007849019630592+userId:73658201673997312
         <b>CN</b>
       </td>
       <td>
-        <b>1307</b>
+        <b>1310</b>
       </td>
       <td>
         <b>162</b>
       </td>
       <td>
-        <b>1145</b>
+        <b>1148</b>
       </td>
       <td>
         <b>63</b>
@@ -264,6 +264,41 @@ feedId:157007849019630592+userId:73658201673997312
         <b>10</b>
       </td>
       <td>
+        <a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">汉末霸业</a>
+      </td>
+      <td>
+        <ul>
+          <li>
+            <span>总次数</span>：<b>2</b>
+          </li><li>
+            <span>价格</span>：<b>2</b>
+          </li><li>
+            <span>App内购买</span><ol>
+              <li>
+                <i>美术升级包</i>：<b>2</b>
+              </li><li>
+                <i>群英荟</i>：<b>2</b>
+              </li><li>
+                <i>出类拔萃</i>：<b>2</b>
+              </li><li>
+                <i>英雄的黎明</i>：<b>2</b>
+              </li><li>
+                <i>山河归一</i>：<b>2</b>
+              </li><li>
+                <i>宝物编辑器</i>：<b>1</b>
+              </li><li>
+                <i>苍天之志</i>：<b>1</b>
+              </li>
+            </ol>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>11</b>
+      </td>
+      <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6449003064?lang=zh-CN">Goblin Tools</a>
       </td>
       <td>
@@ -278,7 +313,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>11</b>
+        <b>12</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6751122124?lang=zh-CN">Notteka - AI 工作台</a>
@@ -295,7 +330,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>12</b>
+        <b>13</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6451376191?lang=zh-CN">Dumb Phone</a>
@@ -320,7 +355,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>13</b>
+        <b>14</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6749369705?lang=zh-CN">沙石镇时光</a>
@@ -345,7 +380,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>14</b>
+        <b>15</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/441142802?lang=zh-CN">Bass Modes Symmetry School</a>
@@ -362,7 +397,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>15</b>
+        <b>16</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/443646748?lang=zh-CN">健身伙伴+：健身房锻炼</a>
@@ -385,7 +420,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>16</b>
+        <b>17</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/510249014?lang=zh-CN">水平仪 HD</a>
@@ -402,7 +437,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>17</b>
+        <b>18</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/563082328?lang=zh-CN">Military Retirement</a>
@@ -419,7 +454,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>18</b>
+        <b>19</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/931188326?lang=zh-CN">DayCost</a>
@@ -436,7 +471,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>19</b>
+        <b>20</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/966489322?lang=zh-CN">生辰 — 桌面时间小组件</a>
@@ -461,7 +496,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>20</b>
+        <b>21</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/982227026?lang=zh-CN">聚爆Implosion</a>
@@ -478,7 +513,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>21</b>
+        <b>22</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1020541183?lang=zh-CN">电影精灵 - 专业视频编辑和电影制作</a>
@@ -495,7 +530,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>22</b>
+        <b>23</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1157863540?lang=zh-CN">泰拉瑞亚</a>
@@ -512,7 +547,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>23</b>
+        <b>24</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1159266744?lang=zh-CN">双子 Gemini</a>
@@ -529,7 +564,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>24</b>
+        <b>25</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1159700098?lang=zh-CN">去月球-To the Moon</a>
@@ -546,7 +581,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>25</b>
+        <b>26</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1260967308?lang=zh-CN">WhatCall</a>
@@ -563,7 +598,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>26</b>
+        <b>27</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1271620263?lang=zh-CN">艾希 - ICEY</a>
@@ -580,7 +615,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>27</b>
+        <b>28</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1380582804?lang=zh-CN">手机帝国</a>
@@ -597,7 +632,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>28</b>
+        <b>29</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1400652313?lang=zh-CN">冰钓大师</a>
@@ -614,7 +649,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>29</b>
+        <b>30</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1422480068?lang=zh-CN">Notes Writer Pro：不止 PDF, 笔记和</a>
@@ -637,7 +672,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>30</b>
+        <b>31</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1453808408?lang=zh-CN">恶果之地</a>
@@ -654,7 +689,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>31</b>
+        <b>32</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1458460469?lang=zh-CN">人类跌落梦境</a>
@@ -671,7 +706,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>32</b>
+        <b>33</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1462584573?lang=zh-CN">Schumann Resonance</a>
@@ -688,7 +723,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>33</b>
+        <b>34</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1500126852?lang=zh-CN">Chord</a>
@@ -705,7 +740,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>34</b>
+        <b>35</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1538124245?lang=zh-CN">哪里哪里</a>
@@ -722,7 +757,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>35</b>
+        <b>36</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1584313012?lang=zh-CN">笼中窥梦</a>
@@ -739,7 +774,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>36</b>
+        <b>37</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1614200925?lang=zh-CN">部落与弯刀</a>
@@ -756,7 +791,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>37</b>
+        <b>38</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1644917705?lang=zh-CN">无处遁形：全网公敌</a>
@@ -773,7 +808,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>38</b>
+        <b>39</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/1662217862?lang=zh-CN">Wipr 2</a>
@@ -796,7 +831,7 @@ feedId:157007849019630592+userId:73658201673997312
     </tr>
     <tr>
       <td>
-        <b>39</b>
+        <b>40</b>
       </td>
       <td>
         <a href="https://appstore-discounts.eyelly.me/cn/6747307749?lang=zh-CN">CHAKK-让你的 Instagram Story 更好玩！</a>
@@ -807,39 +842,6 @@ feedId:157007849019630592+userId:73658201673997312
             <span>总次数</span>：<b>1</b>
           </li><li>
             <span>价格</span>：<b>1</b>
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>40</b>
-      </td>
-      <td>
-        <a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">汉末霸业</a>
-      </td>
-      <td>
-        <ul>
-          <li>
-            <span>总次数</span>：<b>1</b>
-          </li><li>
-            <span>价格</span>：<b>1</b>
-          </li><li>
-            <span>App内购买</span><ol>
-              <li>
-                <i>宝物编辑器</i>：<b>1</b>
-              </li><li>
-                <i>美术升级包</i>：<b>1</b>
-              </li><li>
-                <i>群英荟</i>：<b>1</b>
-              </li><li>
-                <i>出类拔萃</i>：<b>1</b>
-              </li><li>
-                <i>英雄的黎明</i>：<b>1</b>
-              </li><li>
-                <i>山河归一</i>：<b>1</b>
-              </li>
-            </ol>
           </li>
         </ul>
       </td>
@@ -1842,6 +1844,146 @@ feedId:157007849019630592+userId:73658201673997312
 </table>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[汉末霸业]]></title>
+        <id>汉末霸业-cn-1790760074035</id>
+        <link href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN"/>
+        <updated>2026-09-30T09:21:14.035Z</updated>
+        <summary type="html"><![CDATA[价格: ¥88.00 → ¥6.00<br/>美术升级包: ¥28.00 → ¥12.00<br/>群英荟: ¥28.00 → ¥12.00<br/>苍天之志: ¥18.00 → ¥15.00<br/>出类拔萃: ¥28.00 → ¥12.00<br/>英雄的黎明: ¥28.00 → ¥12.00<br/>山河归一: ¥28.00 → ¥15.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/6444508254?lang=zh-CN">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/35/83/fe/3583fe87-3cc9-8e97-d201-9426af5548e5/AppIcon_ios_new-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥88.00</span> → <b>
+  <strong>¥6.00</strong>
+</b><span>[¥1.00 ~ ¥88.00]</span>）
+</h2><h3>App内购买</h3><ul>
+  <li>
+    <strong>美术升级包：</strong><span>¥28.00</span> → <b>
+  <strong>¥12.00</strong>
+</b><span>[¥9.00 ~ ¥28.00]</span>
+  </li><li>
+    <strong>群英荟：</strong><span>¥28.00</span> → <b>
+  <strong>¥12.00</strong>
+</b><span>[¥10.00 ~ ¥28.00]</span>
+  </li><li>
+    <strong>苍天之志：</strong><span>¥18.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥12.00 ~ ¥18.00]</span>
+  </li><li>
+    <strong>出类拔萃：</strong><span>¥28.00</span> → <b>
+  <strong>¥12.00</strong>
+</b><span>[¥10.00 ~ ¥28.00]</span>
+  </li><li>
+    <strong>英雄的黎明：</strong><span>¥28.00</span> → <b>
+  <strong>¥12.00</strong>
+</b><span>[¥9.00 ~ ¥28.00]</span>
+  </li><li>
+    <strong>山河归一：</strong><span>¥28.00</span> → <b>
+  <strong>¥15.00</strong>
+</b><span>[¥15.00 ~ ¥28.00]</span>
+  </li>
+</ul><h2>全部价格信息</h2><p>
+  价格：<b>¥6.00</b>
+</p><h3>App内购买</h3><ul>
+  <li>
+    宝物编辑器：<b>¥6.00</b>
+  </li><li>
+    汉末地图重制版：<b>¥18.00</b>
+  </li><li>
+    美术升级包：<b>¥12.00</b>
+  </li><li>
+    群英荟：<b>¥12.00</b>
+  </li><li>
+    苍天之志：<b>¥15.00</b>
+  </li><li>
+    出类拔萃：<b>¥12.00</b>
+  </li><li>
+    英雄的黎明：<b>¥12.00</b>
+  </li><li>
+    山河归一：<b>¥15.00</b>
+  </li><li>
+    华夏九州-水浒英雄传：<b>¥25.00</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  【游戏简介】
+《汉末霸业》是一款是由龙游天下工作室精心制作，一款回合制君主扮演SLG游戏。主要是以国人自己对三国游戏的新思维，新角度来打造不一样的三国世界。在回归传统策略类的基础上深度刻画了三国各城市之间的地域差异以及每个武将自身能力和特性的异同，而在战斗方面突出结合天时地利人和的调配来进行作战的魅力。
+
+【付费说明】
+有任何疑问，请加官方QQ群：604880409，咨询客服，切勿盲目操作，导致扣费！
+
+【设备支持】
+《汉末霸业》要求系统版本为iOS 16以上，并使用iPhone X及以上、iPad Air 2、iPad mini 4、iPad 2017或任意iPad Pro进行游戏。
+
+【官方社群】
+官方微博：http://weibo.com/longyougame
+TapTap社区：https://www.taptap.com/app/65333
+官方微信公众号：三国志汉末霸业
+官方抖音：https://v.douyin.com/W4gpqG/
+百度贴吧：三国志汉末霸业
+官方QQ群：604880409
+
+
+游戏特色
+
+一：经典的白描绣像画风，古朴典雅
+
+人物头像采用经典的《三国演义》连环画的白描绣像画风和上色。游戏界面采用古风古韵设计，地道中国风。
+
+ 
+
+二：简单易上手的政务管理模式：
+
+基础的内政安排、人事探索、军事侦察、技术开发都采用放置类管理模式，减少繁琐的重复操作，让玩家能聚焦其他事件。君主扮演模式，玩家只需要关注首都以及国家的管理。其他城市交给太守进行管理。使用方针给分城下达不同的军政指令。
+
+ 
+
+三：极其丰富的游戏内容设定：
+
+从公元184~280年，超过1300名登场武将（包括历史和演义武将）。 
+
+30武将基本能力划分，对武将之间能力进行详细的差异化区分。
+
+超过300种以上的独立配置的武将特性，全面凸显武将个体差异。 
+
+超过500种有考据的物品宝物设定。多种分类划分来满足不同的喜好需求。
+
+近六十多个不同类型的城市，200多种有据可考的城市特征和特产。
+
+丰富的技术开发条目和贯穿整个游戏系统的支撑。体现了科技实力的重要性。
+
+六大基本兵种和十多种特殊兵种构成丰富的兵种体系。
+
+超丰富的官职系统和封侯授爵系统。
+
+君主指派的联姻系统和人性化的子女培养及继承体系。 
+
+各种自然现象和事件灾害模拟出多灾多难的三国时期。 
+
+多种异民族势力和流寇山贼，需要你去平定和剿灭。 
+
+丰富的来访事情，商人、仙人、名士、名医、名匠、剑客游走四方，引发各种功能事件。
+
+ 
+
+四：回归经典回合制，侧重策略性排兵布阵的战斗系统
+
+天气和地形、地块高度的引入更加凸显天时地利要素对战争的影响。
+
+野战和攻城战功能独立分开。攻城有攻城车，霹雳车，井阑，守城有投石机、床弩、塞门刀车。更能凸显攻守之间的平衡关系。
+
+参军特性和战场特性的引入，更加凸显三国演义中对军师角色的塑造。 
+
+阵型系统的引入，让奇门八阵体现各自不同的辅助效果。不同的兵种搭配不同的阵型将有各异的强化效果。
+
+隆重推荐全新制作的番外篇【苍天之志~蜀传】：
+一：【苍天之志】是基于【汉末霸业】的游戏体系开发的独立番外篇，独立运行。
+二：【苍天之志】是将角色扮演的RPG和战旗回合制游戏要素融合而成的新玩法。
+三：玩家将自创角色，加入刘备一方。将拥有自己的封地，在游戏进程中，通过征战，获得功绩，提升地位，并不断发展和壮大实力。【注：获得用“臧霸的野望”来称呼更方便玩家的理解】
+四：玩家拥有开府建牙的权利，可以去接取各种任务来获得奖励，有了收入就可以自由招揽武将，招募和训练自己的精锐私兵，不断地发展自己的领地和私兵集团。
+五：在战场上，玩家只需要指挥自己和私兵部队来取得胜利。获得傲人的功绩，成为战役胜利的关键力量。
+六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的宏愿！六：玩家通过不断地推关挑战，攻城略地，最终帮助自己的君主成就统一霸业，也达成自己的从龙觅封侯的野望！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/78/a9/aa/78a9aaab-0221-b121-41d7-db86722ffe1d/768e93e9-dff2-437b-a317-24f2148a9100_2208x1242_U0028_U7b80_U4f53_U0029.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/67/11/0c/67110c59-4e19-7d1a-a27b-bcec82c5ad3e/08d67d95-a14c-41d4-ba45-92f193a8b142_2208x1242.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/c2/da/1dc2da0f-4556-5007-a3ff-79f6f96344e6/2e612c64-3df2-427f-90c0-131630bfb94c__U5b89_U90a6_U9f50_U6c11.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/88/93/3f/88933fc1-1bae-b4dc-683a-638a335893a7/b44ac90f-e322-4620-b5e5-65dc1695e44c__U7fa4_U82f1_U9f50_U805a.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1e/c1/ab/1ec1abac-ab5d-e060-2882-b048c10be5a6/676e79ca-838c-4d7b-b440-d09ae87d3448__U4f20_U5947_U5175_U79cd.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0e/77/94/0e779400-ee34-eada-a821-3d3c94db8646/c24460c5-7ec8-4dde-9beb-6c4a852aedb0__U91ce_U6218_U5730_U56fe.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0a/7e/0f/0a7e0fe7-d12e-fc6a-34b1-fbddd59151bc/b7c38907-017d-4764-9498-6c3e5a8560aa__U5b50_U5973_U57f9_U517b.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/04/3c/ab043ce7-e2eb-ce25-b19f-f767a553413b/2eda3974-58da-4e45-8775-8e1473b32376__U795e_U5175_U4eb2_U9020.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/69/aa/d2/69aad2f1-0509-bcbf-e410-a6e206975c21/fcb91eb7-0468-4246-894c-dbe75948af3a_2732x2048_Uff08_U7b80_U4f53_Uff09.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a9/96/fb/a996fb32-a64c-e613-2e44-7b63690ed51c/632e2730-6c28-4bcb-82dc-b5abb41bf0aa_2732x20481.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6c/9e/fd/6c9efdf1-0150-671b-7d8d-4a407273cfdc/0a12f10b-c5e6-4e51-91ce-bfbf658f7bcc__U5b89_U90a6_U9f50_U6c11.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ff/18/a2/ff18a28a-dca0-c159-307e-b53c434ef1be/84078e23-a734-4c76-860d-cc4a1fd6d02b__U7fa4_U82f1_U9f50_U805a.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/20/c6/7e/20c67e16-cb0f-980b-612d-604970f01b30/c63075fc-182f-44ce-95ea-ad02ec28a65c__U91ce_U6218_U5730_U56fe.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/90/7c/9e/907c9ecd-f1d6-fcfc-1c0b-664d4aed6b31/e42d0bfa-1f54-4a6d-bdc6-3f6f8eadeae2_2732x2048.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/dd/2c/2d/dd2c2dc6-98d3-ee9b-97a2-334b29763477/3772daed-d12d-4537-88d8-f178718fae13__U5b50_U5973_U57f9_U517b.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/5d/97/7f5d9712-a31b-4552-5d43-de8d7d371392/fc40cb3f-a371-4014-82bd-0612a742975f__U795e_U5175_U4eb2_U9020.png/552x414bb.png" />]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[油耗管家-加油记录省油统计车辆里程费用记账工具专用版]]></title>
         <id>油耗管家-加油记录省油统计车辆里程费用记账工具专用版-cn-1790656083068</id>
         <link href="https://appstore-discounts.eyelly.me/cn/6786557574?lang=zh-CN"/>
@@ -2137,148 +2279,5 @@ https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 Heart Murmurs Pro 是用于学习心脏听诊的教育工具，并非诊断设备，不得用于诊断或治疗任何人，也不得用于指导对患者的诊疗决策。请始终以你所受的训练、上级医师的指导以及所在机构的规程为准。
 </p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/e8/d8/c4e8d8b6-7b98-415a-40a3-18891178dc6d/01-hero.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/eb/03/5aeb031d-1a36-2a48-057a-7a048a6f9741/02-waveform.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/1c/ac/e81cacb4-9fd7-334d-52ea-81546cba9a49/03-free.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b1/9b/d5/b19bd512-0380-d46e-70f1-1c63d2621229/04-quiz.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e9/f8/b1/e9f8b12d-8118-ef12-af68-cb01c58da12a/05-sites.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/52/7c/e4/527ce45b-b656-f7f3-d8c4-f3e0c2a42cc2/06-reference.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/bd/83/33/bd83332f-3c9c-1f5f-d687-fe9703e361bf/07-languages.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/53/2b/4b/532b4b93-7129-90f7-6ba2-912aef06e4b8/01-hero.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/67/72/c2/6772c2b3-5e16-fecc-32f1-91dcca12ee26/02-waveform.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b8/96/e1/b896e104-802c-30d0-0591-ed615d585f9e/03-free.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/51/d6/8751d6f8-d8e3-8eb4-76b8-c0f02e377860/04-quiz.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4b/ea/50/4bea50bd-c08f-3533-67e3-cbcda3277943/05-sites.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/46/d8/8b/46d88b65-07b8-6edf-3e7f-1794b09ad7fd/06-reference.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/99/4c/9a/994c9a18-14a9-b078-1240-ff8900e59d32/07-languages.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Schumann Resonance]]></title>
-        <id>Schumann Resonance-cn-1790464985579</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/1462584573?lang=zh-CN"/>
-        <updated>2026-09-26T23:23:05.579Z</updated>
-        <summary type="html"><![CDATA[价格: ¥15.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1462584573?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/1d/f4/cd1df473-ac56-8255-efac-ce9e0bd9dd49/AppIcon-0-0-1x_U007epad-0-1-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥15.00</span> → <b>
-  <strong>免费</strong>
-</b><span>[免费 ~ ¥15.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>免费</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Schumann Forum：<b>¥8.00</b>
-  </li><li>
-    Forum Access – 12 months：<b>¥68.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  We are the OG Schumann Resonances App — since 2019
-
-A quick snapshot of what is going on with the Earth's heartbeat — the Schumann Resonance!
-
-Highlighted Features in this version:
-
-• New dedicated Journal page with your reported Symptoms, and a Combo of Tomsk & Cumiana Charts, in one view!*
-• Share Symptoms with the Community! Automatically logged to the Journal
-• Tomsk 2, 3, 4, 7, and 14 day versions! • available Nowhere else 
-• Tomsk Chart Overlays with timezone comparison
-• Calendar date picker for past Tomsk charts* • available Nowhere else 
-• Forum discussion with fellow Schumann Resonance followers!*
-• Dedicated Learn screen 
-• Dark/Light mode + customizable UI 
-• Planetary K-index (Kp), and Solar coronagraph images & videos Screens 
-• iOS widget with live spectrogram & key values 
-• All major VLF stations: Cumiana, Nicolosi, Virgo, SOS Enattos, Landes 
-• Binaural beats added to the Unique and innovative Live Audio Player! (Plays Schumann Harmonics, Solfeggio, Nogier Healing, Chakra, Angel, and Planetary Frequencies)*
-• Quick-glance row for all current Schumann data 
-
-Listen to the Current Fundamental Frequency with or without Binaural beats — plus Nogier Healing, Chakra, Planetary, Angel, and Solfeggio frequencies*
-
-Interact with 32 days of live Tomsk Data — Spectrogram, Amplitude (Power), Frequency, and Q-Factor all on one dynamic chart*
-
-This is a simple but powerful App that we've worked hard to make great, for both the Beginner and the Practitioner:
-
-• Real-time view of the Schumann Resonance in one convenient place 
-• Pinch to zoom, drag, save and share all charts (including the all-in-one view) 
-• Historical images: Spectrogram, Amplitude, Frequencies, Q-factor, Electromagnetic, and all Cumiana charts*
-
-See the Spike percentage when the Resonance is spiking!
-
-*** FREE push notifications — get alerted for Spikes, Amplitude, or both *** • the latter available Nowhere else
-
-Some Additional Features:
-
-• Global Consciousness Project (GCP 2.0) dot, now with 48-hour History
-• Tomsk "Blackouts" are displayed at the top of the Tomsk screen. Additional Notifications are available as a Bonus to Subscribers*
-• Choose what the Amplitude number shows: Current, Today's Peak, or Yesterday's Peak
-• Helpful tooltips to learn how to read the charts
-
-Also check out our Community listings, and find Awesome Schumann Affiliates to follow and connect!
-
-This is an essential tool for following, practicing, learning about, and participating in the Collective Consciousness, Ascension, Meditation, and staying connected to Earth's energy
-
-Languages: Content, in: English, Czech, German, Spanish, French, Italian, Japanese, Korean, Dannish, Norwegian, Polish, Portuguese, Russian, Swedish, Chinese, Turkish, Dutch
-
-Permissions note: Limited photo access may be requested, exclusively for Forum subscriber profiles, and is not used in any other way.
-
-*Some features are Subscriber Bonuses. They are fully functional, but trials. Calendar and Journal are limited to 5 days, and the Player to 5 seconds. The Forum is a Subscribers only Bonus. A Subscription is otherwise Not required.
-
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-Privacy Policy: https://schumann-resonance.org/privacy-policy/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/05/7a/ae/057aaed9-49df-cd51-511d-ebf44626c6ae/01.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/be/11/10/be1110ed-b452-beda-ec71-2c63507660a3/02.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/f8/df/3cf8dfd4-c682-e1ac-1ad6-571bfb902502/03.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/55/98/e7559821-12a1-d450-f0fd-989b53177688/apple_-_English__U0028en-US_U0029_-_iPhones__6.9_-_05.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/37/0d/79/370d7989-0ef6-1eec-a83a-b51380345201/06.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/14/92/3c/14923c1c-a9a6-e255-2f5d-d2ac5f3231b3/apple_-_English__U0028en-US_U0029_-_iPhones__6.9_-_04.png/320x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1d/cd/60/1dcd6004-315e-c2b8-2b5b-0e67942beda6/07.png/320x480bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9f/b4/89/9fb48979-5347-7c9a-315d-cd33bc617ac6/apple_-_English__U0028en-US_U0029_-_iPad__13_-_01.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e8/b4/1e/e8b41e22-4971-549e-37e4-71afa7a3a788/apple_-_English__U0028en-US_U0029_-_iPad__13_-_02.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/04/69/3c04690b-6257-8871-4116-bf2d42a5572c/03.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/f6/7f/77f67f91-a785-deb6-80d8-63d1a6a82978/apple_-_English__U0028en-US_U0029_-_iPad__13_-_05.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/b9/47/88b947c5-996e-16c5-f9fa-5ff6c015bacb/06.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/77/dc/58/77dc586b-7b85-db2d-cd71-5e6f3d3831e2/apple_-_English__U0028en-US_U0029_-_iPad__13_-_04.png/360x480bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d7/a3/23/d7a323dd-fe71-0a4e-7075-78a7d850ac9a/07.png/360x480bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜]]></title>
-        <id>Goodak 复古胶片相机 - 拍立得旅行摄影，拍照水印滤镜-cn-1790437951279</id>
-        <link href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN"/>
-        <updated>2026-09-26T15:52:31.279Z</updated>
-        <summary type="html"><![CDATA[价格: ¥22.00 → ¥8.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://appstore-discounts.eyelly.me/cn/1309638846?lang=zh-CN">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/12/e2/6e12e20d-cbb9-c638-e2e0-9c298420bb4a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥22.00</span> → <b>
-  <strong>¥8.00</strong>
-</b><span>[¥8.00 ~ ¥22.00]</span>）
-</h2><h2>全部价格信息</h2><p>
-  价格：<b>¥8.00</b>
-</p><h3>App内购买</h3><ul>
-  <li>
-    Upgrade Deluxe Edition：<b>¥38.00</b>
-  </li><li>
-    Color Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Retro Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Stamp Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Stroke Frame Pack：<b>¥8.00</b>
-  </li><li>
-    Purple Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Blue Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Black Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Red Cam Film Pack：<b>¥8.00</b>
-  </li><li>
-    Green Cam Film Pack：<b>¥8.00</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  世界的美好很多，只是容易擦肩而过。
-有些事物之所以美好，是因为只出现在我们的回忆里。
-现在您可以使用 Goodak 拍立得胶片相机来重温旧梦。
-让您的每一张照片独一无二，充满韵味与感动。
-
-—
-尽情体验，层次满点的胶卷相机
-
-+ 拍立得胶片相机，重温旧梦
-+ 无需久候，即拍即冲免等待
-+ 尽情拍摄，无底片数量限制
-+ 相册模式，可翻拍手机照片
-+ 自定义日期格式，重温旧梦
-+ 取景器缩放切换，大小皆宜
-+ 拍立得相纸模式，文青最爱
-+ 多款相机，多样底片与水印
-+ 黑白摄影底片机，层次满点
-+ 自动保存模式，存档免烦恼
-+ 随机底片，独一无二的美感
-
-—
-错过也好，留下也罢，都是我们生命中最美的风景
-疲倦的生活里，总要有些温柔的梦想
-世界太复杂，我们用简单的方式纪录它
-
-Goodak 复古胶片相机 - 极简复古滤镜，摄影拍立得
-感谢您的使用！我们正在开发新功能，并不断努力改善您的体验！
-联系我们：https://goodak.weebly.com
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ab/a0/86/aba08624-6a06-39cf-a241-25f6d0e4f3ab/mzl.hmqjeztb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/72/7d/e1727d7b-2dc6-1d43-51b9-28de209d15cd/mzl.uaudkfnw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/da/0f/0c/da0f0cb6-9071-5e7c-1a1f-4ae42bdd1c11/mzl.tnvgrvvz.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/da/5c/89da5c30-8802-df12-d633-1837ba29813f/mzl.zflmcguf.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/af/77/c5/af77c577-7e9f-ee4f-74a1-f62d119a8f8b/mzl.wrrlcrce.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/22/1e/d4/221ed4bb-75f6-202c-cb8c-9dcdf0e1c2fc/mzl.grotjgtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/55/ce/f5/55cef5d2-3354-b366-f691-80c40df804d4/mzl.iwvgubsv.png/392x696bb.png" />]]></content>
     </entry>
 </feed>

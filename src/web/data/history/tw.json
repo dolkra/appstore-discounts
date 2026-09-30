@@ -89767,6 +89767,25 @@
     "history": [
       [
         {
+          "timestamp": 1790760074035,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "白金方案（每三個月續訂）": "$360.00",
+            "白金方案（每月續訂）": "$150.00",
+            "支線第一章": "$120.00",
+            "限時挑戰書 Virtual Campus": "$90.00",
+            "擴充章節 R": "$120.00",
+            "擴充章節B": "$120.00",
+            "支線第二章": "$120.00",
+            "擴充章節 U": "$120.00",
+            "擴充章節 I": "$120.00",
+            "主線第八章": "$300.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790394273599,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -233764,6 +233783,25 @@
     "history": [
       [
         {
+          "timestamp": 1790760074035,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "五子良將": "$190.00",
+            "群雄爭霸": "$90.00",
+            "戰國七雄": "$190.00",
+            "自創武將": "$90.00",
+            "自創寶物": "$60.00",
+            "無雙戰神": "$190.00",
+            "自創武將朝代服裝發飾素材補丁": "$120.00",
+            "自創地圖": "$120.00",
+            "月下追魂": "$190.00",
+            "斜谷殘陽": "$190.00"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1790481229445,
           "price": 190,
           "formattedPrice": "$190.00",
@@ -246362,6 +246400,25 @@
       "夜色微醺": "$30.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790760074035,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {
+            "夜色微醺": "$30.00",
+            "星降之夜": "$30.00",
+            "萬聖派對": "$30.00",
+            "2025春イースタースキン": "$30.00",
+            "水畔": "$30.00",
+            "新年日出": "$30.00",
+            "花火大會": "$30.00",
+            "聖誕夜": "$30.00",
+            "夏日庭院": "$20.00",
+            "紅葉漫步": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790567609577,
@@ -300971,7 +301028,8 @@
       "Worship Drum Kit 3": "$30.00",
       "Worship Drum Kit 2": "$30.00",
       "Worship Drum Kit 1": "$30.00",
-      "Pad Mix Pro": "$60.00"
+      "Pad Mix Pro": "$60.00",
+      "StageLab": "$190.00"
     },
     "minPriceInfo": {
       "price": 90,
@@ -300986,9 +301044,29 @@
       "Worship Drum Kit 3": "$30.00",
       "Worship Drum Kit 2": "$30.00",
       "Worship Drum Kit 1": "$30.00",
-      "Pad Mix Pro": "$60.00"
+      "Pad Mix Pro": "$60.00",
+      "StageLab": "$190.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790760074035,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "PadLab Full App": "$290.00",
+            "StageLab": "$190.00",
+            "Pad Mix Pro": "$60.00",
+            "PadLab Worship Complete": "$220.00",
+            "Worship Drum Collection": "$120.00",
+            "Coleção Completa de Pads": "$150.00",
+            "Worship EFX": "$30.00",
+            "Worship 808": "$30.00",
+            "Worship Cinematic": "$30.00",
+            "Worship Drum Kit 3": "$30.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790567609577,
@@ -304246,6 +304324,25 @@
       "訓練記憶": "$590.00"
     },
     "history": [
+      [
+        {
+          "timestamp": 1790760074035,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "魔界擴充通行證": "$190.00",
+            "深淵開拓者": "$320.00",
+            "尼奧貝希摩斯": "$60.00",
+            "超越精華": "$990.00",
+            "隱月造型套裝": "$320.00",
+            "時間旅行者": "$190.00",
+            "魔界通行證1": "$90.00",
+            "永恆方舟": "$990.00",
+            "訓練記憶": "$590.00",
+            "成長之始": "$320.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1790419954498,
@@ -310967,6 +311064,14 @@
     "history": [
       [
         {
+          "timestamp": 1790760074035,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1790656083068,
           "price": 0,
           "formattedPrice": "免費",
@@ -311450,6 +311555,29 @@
           "timestamp": 1790711274462,
           "price": 90,
           "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
+  },
+  "6747479523": {
+    "trackId": 6747479523,
+    "trackName": "Gothic Classic",
+    "region": "tw",
+    "maxPriceInfo": {
+      "price": 330,
+      "formattedPrice": "$330.00"
+    },
+    "minPriceInfo": {
+      "price": 330,
+      "formattedPrice": "$330.00"
+    },
+    "history": [
+      [
+        {
+          "timestamp": 1790760074035,
+          "price": 330,
+          "formattedPrice": "$330.00",
           "inAppPurchases": {}
         }
       ]
